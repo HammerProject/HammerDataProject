@@ -1,0 +1,14 @@
+{
+  "select": [
+    "descrizione",
+    "anno",
+    "costruzione",
+    "comune",
+    "indirizzo"
+  ],
+  "from": [
+    "scuole"
+  ],
+  "where": [
+  ]
+}

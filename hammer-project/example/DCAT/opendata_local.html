@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Hammer Project - Open Data Panorama italiano (comuni)</title>
+		<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+		
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.ie.css" /><![endif]-->
+
+		<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+		
+		<style>
+		#map {
+			width: 800px;
+			height: 650px;
+		}
+
+		.info {
+			padding: 6px 8px;
+			font: 14px/16px Arial, Helvetica, sans-serif;
+			background: white;
+			background: rgba(255,255,255,0.8);
+			box-shadow: 0 0 15px rgba(0,0,0,0.2);
+			border-radius: 5px;
+		}
+		.info h4 {
+			margin: 0 0 5px;
+			color: #777;
+		}
+
+		.legend {
+			text-align: left;
+			line-height: 18px;
+			color: #555;
+		}
+		.legend i {
+			width: 18px;
+			height: 18px;
+			float: left;
+			margin-right: 8px;
+			opacity: 0.7;
+		}
+		</style>
+		
+	</head>
+<body>
+
+
+	<div id="map"></div>
+	
+
+	<script type="text/javascript">
+		var localAuth;
+		var map = L.map('map').setView([42.8, 10.8], 6);
+		
+		
+		$.getJSON( 'enti.json', function( data ) {
+			localAuth = data;
+	    	$.each( data, function( key, val ) {
+	    	    try {
+	    	    	
+	    	
+					L.circle([val.pos.lat, (val.pos.lng) ? val.pos.lng : ((val.pos.lon.longitude) ? val.pos.lon.longitude : val.pos.lon)], val.n_dataset * 100, style(val)).addTo(map);
+				} catch (e) { console.log(e); }
+	    		
+	    	}); 
+	    	  
+	    })
+		.fail(function(jqXHR, textStatus, errorThrown) { 
+			alert('getJSON request failed! ' + textStatus);
+		});
+		
+		
+
+		L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IjZjNmRjNzk3ZmE2MTcwOTEwMGY0MzU3YjUzOWFmNWZhIn0.Y8bhBaUMqFiPrDRW9hieoQ', {
+			maxZoom: 18,
+			attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+				'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+			id: 'mapbox.light'
+		}).addTo(map);
+
+
+
+		// get color depending on number of dataset pub.
+		function getColor(d) {
+			return d > 100 ? '#800026' :
+			       d > 70 ? '#BD0026' :
+			       d > 50  ? '#E31A1C' :
+			       d > 30  ? '#FC4E2A' :
+			       d > 10   ? '#FD8D3C' :
+			       d > 0   ? '#FEB24C' :
+			     //  d > 5   ? '#FED976' :
+			     //  d > 0    ? '#FFEDA0' :
+			                  '#EEEEEE';
+		}
+
+	    function style(val) {
+			
+			return {
+				weight: 2,
+				opacity: 1,
+				color: 'white',
+				dashArray: '3',
+				fillOpacity: 0.8,
+				fillColor: getColor(val.n_dataset / 10)
+			};
+		}
+
+		
+		
+		map.attributionControl.addAttribution('Open Data &copy; <a href="http://www.hammer-project.com/">Hammer Project</a>');
+
+
+		var legend = L.control({position: 'bottomright'});
+
+		legend.onAdd = function (map) {
+
+			var div = L.DomUtil.create('div', 'info legend'),
+				grades = [0, 10, 30, 50, 70, 100],
+				labels = [],
+				from, to;
+
+			for (var i = 0; i < grades.length; i++) {
+				from = grades[i];
+				to = grades[i + 1];
+
+				labels.push(
+					'<i style="background:' + getColor(from + 1) + '"></i> ' +
+					from + (to ? '&ndash;' + to : '+'));
+			}
+
+			div.innerHTML = labels.join('<br>');
+			return div;
+		};
+
+		legend.addTo(map);
+
+	</script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+package it.cgt.sisco.uuidgen;
+
+/**
+ * Contratto per UUIDGen
+ * 
+ * @author Mauro Pelucchi
+ * @version 1.0.0
+ * @company GN Informatica s.r.l.
+ * 
+ */
+public interface UUIDGen {
+	/**
+	 * UUIDGEN
+	 * 
+	 * @return
+	 */
+	String uuidgen();
+
+	/**
+	 * UUIDGEN
+	 * 
+	 * @param nmbr
+	 * @return
+	 */
+	String[] uuidgen(int nmbr);
+
+}

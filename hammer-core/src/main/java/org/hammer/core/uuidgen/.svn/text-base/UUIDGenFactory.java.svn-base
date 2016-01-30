@@ -1,0 +1,70 @@
+package it.cgt.sisco.uuidgen;
+
+import it.cgt.sisco.exception.BadConfigurationException;
+import it.cgt.sisco.exception.UUIDGenBadConfigurationException;
+import it.cgt.sisco.util.Config;
+import it.cgt.sisco.util.Loader;
+
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+
+/**
+ * Factory per UUIDGen
+ * 
+ * @author Mauro Pelucchi
+ * @version 1.0.0
+ * @company GN Informatica s.r.l.
+ * 
+ */
+public class UUIDGenFactory {
+
+	/**
+	 * 
+	 * Constructor
+	 * 
+	 */
+	private UUIDGenFactory() {
+	}
+
+	/**
+	 * Log
+	 */
+	private static final Log LOG = LogFactory.getLog(UUIDGenFactory.class);
+
+	/**
+	 * Impl.
+	 */
+	private static UUIDGen uuidgen = null;
+
+	public static synchronized UUIDGen getUUIDGen() throws BadConfigurationException {
+		if (uuidgen == null) {
+			uuidgen = createUUIDGen();
+		}
+		if (uuidgen == null) {
+			throw new UUIDGenBadConfigurationException();
+		}
+		return uuidgen;
+	}
+
+	@SuppressWarnings("unchecked")
+	private static synchronized UUIDGen createUUIDGen() {
+		if (uuidgen == null) {
+			final String className = Config.getInstance().getStringProperty(Config.PROPERTY_UUIDGEN_DIR, Config.PROPERTY_UUIDGEN_DIR_DEFAULT);
+			LOG.info("Implementazione dell'interfaccia UUIDGen: " + className);
+			Class uuidgenClass = null;
+			try {
+				uuidgenClass = Loader.getClassForName(className);
+			} catch (ClassNotFoundException e) {
+				LOG.error("La classe UUIDGen " + className + " non è stata trovata nel classPath");
+			}
+			try {
+				uuidgen = (UUIDGen) uuidgenClass.newInstance();
+			} catch (Exception e) {
+				LOG.error("Si è verificato un errore durante l'istanziazione della classe " + uuidgenClass.getName() + ", implementazione dell'interfaccia UUIDGen.");
+				LOG.error(e);
+			}
+		}
+		return uuidgen;
+	}
+
+}

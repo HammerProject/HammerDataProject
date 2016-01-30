@@ -1,0 +1,45 @@
+{
+  "select": [
+      { "column": { "instance": "sport", "label":"descrizione"}},
+      { "column": { "instance": "contaminati", "label":"sito"}},
+      { "column": { "instance": "contaminati", "label":"comune"}},
+      { "column": { "instance": "sport", "label":"indirizzo"}},
+      { "column": { "instance": "contaminati", "label":"inquinamento"}},
+      { "column": { "instance": "sport", "label":"disciplina"}},
+      { "column": { "instance": "sport", "label":"lat"}},
+  	  { "column": { "instance": "sport", "label":"lon"}}
+  ],
+  "from": [
+    "contaminati",
+    "sport",
+    "classificazione"
+  ],
+  "where": [{"condition": {
+      "instance1": "contaminati",
+      "label1": "indirizzo",
+      "operator": "eq",
+      "instance2": "sport",
+      "label2": "indirizzo",
+      "logicalOperator": "and"
+    }}, {"condition": {
+      "instance1": "contaminati",
+      "label1": "cap",
+      "operator": "eq",
+      "instance2": "sport",
+      "label2": "cap",
+      "logicalOperator": "and"
+    }}, {"condition": {
+      "instance1": "sport",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "BERGAMO",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "sport",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "BG",
+      "logicalOperator": "or"
+    }}
+  ]
+}

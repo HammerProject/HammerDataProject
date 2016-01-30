@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app>
+  <display-name>Taino</display-name>
+   <description>
+    Hammer project Taino
+  </description>
+ 
+ <servlet>
+    <servlet-name>Taino</servlet-name>
+    <display-name>Taino Servlet</display-name>
+    <servlet-class>org.hammer.taino.Taino</servlet-class>
+    <load-on-startup>2</load-on-startup>
+ </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>Taino</servlet-name>
+    <url-pattern>/*</url-pattern>
+  </servlet-mapping>
+  
+    
+  
+</web-app>

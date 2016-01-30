@@ -1,0 +1,61 @@
+{
+  "select": [
+      { "column": { "instance": "alberghi", "label":"indirizzo"}},
+      { "column": { "instance": "alberghi", "label":"nome_comune"}},
+      { "column": { "instance": "alberghi", "label":"provincia"}},
+      { "column": { "instance": "alberghi", "label":"geo_x"}},
+      { "column": { "instance": "alberghi", "label":"geo_y"}},
+  	  { "column": { "instance": "alberghi", "label":"denominazione_struttura"}},
+  	  { "column": { "instance": "alberghi", "label":"letti"}},
+  	  { "column": { "instance": "agriturismi", "label":"indirizzo"}},
+  	  { "column": { "instance": "agriturismi", "label":"comune"}},
+  	  { "column": { "instance": "agriturismi", "label":"nome_agriturismo"}},
+  	  { "column": { "instance": "agriturismi", "label":"wgs84_x"}},
+  	  { "column": { "instance": "agriturismi", "label":"wgs84_y"}},
+  	  { "column": { "instance": "musei", "label":"vi_sono_parcheggi_per_disabili"}},
+	  { "column": { "instance": "musei", "label":"sede_accessibile_ai_disabili"}},
+	  { "column": { "instance": "musei", "label":"museo_denominazione"}},
+	  { "column": { "instance": "musei", "label":"sede_comune"}},
+	  { "column": { "instance": "musei", "label":"museo_tipologia"}},
+	  { "column": { "instance": "musei", "label":"sede_provincia"}},
+	  { "column": { "instance": "musei", "label":"sede_comune"}},
+	  { "column": { "instance": "musei", "label":"museo_ingresso"}},
+	  { "column": { "instance": "sport", "label":"provincia"}},
+	  { "column": { "instance": "sport", "label":"comune"}},
+	  { "column": { "instance": "sport", "label":"indirizzo"}},
+	  { "column": { "instance": "sport", "label":"disciplina"}},
+	  { "column": { "instance": "sport", "label":"fruibilita_disabili"}}
+  ],
+  "from": [
+    "agriturismi",
+    "musei",
+    "alberghi",
+    "sport"
+  ],
+  "where": [{"condition": {
+      "instance1": "agriturismi",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "BG",
+      "logicalOperator": "and"
+    }}, {"condition": {
+      "instance1": "musei",
+      "label1": "sede_provincia",
+      "operator": "eq",
+      "value": "BERGAMO",
+      "logicalOperator": "and"
+    }}, {"condition": {
+      "instance1": "alberghi",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "BG",
+      "logicalOperator": "and"
+    }}, {"condition": {
+      "instance1": "sport",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "BG",
+      "logicalOperator": "and"
+    }}
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "select": [
+      { "column": { "instance": "aria", "label":"CO_MEDIA_MOBILE_MASSIMA_GIORNALIERA_mg_m3"}},
+      { "column": { "instance": "aria", "label":"CO_MEDIA_MOBILE_MASSIMA_GIORNALIERA_mg_m3"}},
+      { "column": { "instance": "aria", "label":"CO_MEDIA_MOBILE_MASSIMA_GIORNALIERA_mg_m3"}},
+      { "column": { "instance": "aria", "label":"CO_SUPERAMENTIMEDIA_MOBILE_8_ORE"}},
+      { "column": { "instance": "aria", "label":"ANAGRAFICA_STAZIONE_DI_CAMPIONAMENTO_PROVINCIA"}},
+      { "column": { "instance": "aria", "label":"ANAGRAFICA_STAZIONE_DI_CAMPIONAMENTO_PROVINCIA"}},
+      { "column": { "instance": "cened", "label":"emissioni_di_co2"}},
+      { "column": { "instance": "cened", "label":"comune"}},
+      { "column": { "instance": "polizia", "label":"num_sanz_ambientali"}},
+      { "column": { "instance": "polizia", "label":"ente"}}
+  ],
+  "from": [
+    "cened",
+    "aria",
+    "polizia"
+  ],
+  "where": [{"condition": {
+      "instance1": "cened",
+      "label1": "tipologia_combustibile",
+      "operator": "eq",
+      "value": "Gasolio",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "polizia",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "BG",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "polizia",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "MI",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "polizia",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "MB",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "polizia",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "SO",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "polizia",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "CO",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "polizia",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "VA",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "polizia",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "MN",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "polizia",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "LC",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "polizia",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "LO",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "polizia",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "BS",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "polizia",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "CR",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "polizia",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "PV",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "aria",
+      "label1": "anagrafica_stazione_di_campionamento_provincia",
+      "operator": "eq",
+      "value": "BG",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "aria",
+      "label1": "anagrafica_stazione_di_campionamento_provincia",
+      "operator": "eq",
+      "value": "MI",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "aria",
+      "label1": "anagrafica_stazione_di_campionamento_provincia",
+      "operator": "eq",
+      "value": "MB",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "aria",
+      "label1": "anagrafica_stazione_di_campionamento_provincia",
+      "operator": "eq",
+      "value": "SO",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "aria",
+      "label1": "anagrafica_stazione_di_campionamento_provincia",
+      "operator": "eq",
+      "value": "CO",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "aria",
+      "label1": "anagrafica_stazione_di_campionamento_provincia",
+      "operator": "eq",
+      "value": "VA",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "aria",
+      "label1": "anagrafica_stazione_di_campionamento_provincia",
+      "operator": "eq",
+      "value": "MN",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "aria",
+      "label1": "anagrafica_stazione_di_campionamento_provincia",
+      "operator": "eq",
+      "value": "LC",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "aria",
+      "label1": "anagrafica_stazione_di_campionamento_provincia",
+      "operator": "eq",
+      "value": "LO",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "aria",
+      "label1": "anagrafica_stazione_di_campionamento_provincia",
+      "operator": "eq",
+      "value": "BS",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "aria",
+      "label1": "anagrafica_stazione_di_campionamento_provincia",
+      "operator": "eq",
+      "value": "CR",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "aria",
+      "label1": "anagrafica_stazione_di_campionamento_provincia",
+      "operator": "eq",
+      "value": "PV",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "cened",
+      "label1": "emissioni_di_co2",
+      "operator": "gt",
+      "value": 0,
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "polizia",
+      "label1": "num_sanz_ambientali",
+      "operator": "gt",
+      "value": 0,
+      "logicalOperator": "and"
+    }}
+    
+    
+    
+  ]
+}

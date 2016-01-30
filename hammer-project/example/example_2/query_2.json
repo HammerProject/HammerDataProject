@@ -1,0 +1,16 @@
+// list of schools in italy
+// limit 0.5
+{
+  "select": [
+    "descrizione",
+    "anno",
+    "costruzione",
+    "comune",
+    "indirizzo"
+  ],
+  "from": [
+    "scuole"
+  ],
+  "where": [
+  ]
+}

@@ -1,0 +1,13 @@
+hadoop
+nodo 1 : ma-ha-1.hammer.lan 192.168.56.90 (192.168.56.1 / 255.255.255.0)
+nodo 1 : ma-ha-2.hammer.lan 192.168.56.91 (192.168.56.1 / 255.255.255.0)
+nodo 3 : ma-ha-3.hammer.lan 192.168.56.92 (192.168.56.1 / 255.255.255.0)
+
+NAME NODE: http://192.168.56.90:50070
+RESOURCE NOTE: http://192.168.56.90:8088
+MAP REDUCE HYSTORY SERVER: http://192.168.56.90:19888
+
+
+porta mongodb 27017
+
+jfrog artifactory admin password

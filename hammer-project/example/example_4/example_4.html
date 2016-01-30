@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Hammer Project Example 4 --> Bergamo: musei e impianti sportivi fruibili ai disabili</title>
+		<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+		
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.ie.css" /><![endif]-->
+
+		<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+		
+		
+	</head>
+<body>
+
+
+	<div id="map" style="width: 1200px; height: 600px"></div>
+
+	<script type="text/javascript">
+		
+		
+		var sports = new L.LayerGroup();
+       	var musei = new L.LayerGroup();
+        var alberghi = new L.LayerGroup();
+        var agriturismi = new L.LayerGroup();
+
+	    var mbAttr = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+				'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+				'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+			mbUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IjZjNmRjNzk3ZmE2MTcwOTEwMGY0MzU3YjUzOWFmNWZhIn0.Y8bhBaUMqFiPrDRW9hieoQ';
+
+	    var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox.light', attribution: mbAttr})
+		    streets  = L.tileLayer(mbUrl, {id: 'mapbox.streets',   attribution: mbAttr});
+
+		var map = L.map('map', {
+			center: [45.86, 9.85],
+			zoom: 10,
+			layers: [grayscale, sports, musei, alberghi, agriturismi ],
+			fullscreenControl: true
+		});
+
+
+	var baseMaps = {
+    	"Grayscale": grayscale,
+    	"Streets": streets
+	};
+
+	var overlayMaps = {
+ 		"Alberghi": alberghi,
+		"Agriturismi" : agriturismi,
+		"Musei": musei,
+		"Sports" : sports
+	};
+
+	L.control.layers(baseMaps, overlayMaps).addTo(map);
+		var museoIcon = L.icon({
+    		iconUrl: 'leaflet/museo.png',
+    		iconSize:     [38, 38]
+		});
+		var sportIcon = L.icon({
+    		iconUrl: 'leaflet/sport.png',
+    		iconSize:     [38, 38]
+		});
+		var hotelIcon = L.icon({
+    		iconUrl: 'leaflet/hotel.png',
+    		iconSize:     [38, 38]
+		});
+		var homeIcon = L.icon({
+    		iconUrl: 'leaflet/home.png',
+    		iconSize:     [38, 38]
+		});
+		
+
+	    $.getJSON( 'data.json', function( data ) {
+	    	   $.each( data, function( key, val ) {
+	    	    try {
+	    		if(val.letti && val.pos && val.letti > 0 && val.pos.lat && (val.pos.lng || val.pos.lon)) {
+	    	    	var m = L.marker([val.pos.lat, (val.pos.lng) ? val.pos.lng : ((val.pos.lon.longitude) ? val.pos.lon.longitude : val.pos.lon)], {icon: hotelIcon}).bindPopup((val.denominazione_struttura) + "<br/>" + val.indirizzo_new + "<br/>" + val.nome_comune+ "<br/>" + val.tel+ "<br/>" + val.web).addTo(alberghi);	    	    	
+				}
+				if(val.nome_agriturismo && val.pos && val.pos.lat && (val.pos.lng || val.pos.lon)) {
+	    	    	var m = L.marker([val.pos.lat, (val.pos.lng) ? val.pos.lng : ((val.pos.lon.longitude) ? val.pos.lon.longitude : val.pos.lon)], {icon: homeIcon}).bindPopup((val.nome_agriturismo) + "<br/>" + val.indirizzo_new).addTo(agriturismi);	    	    	
+				}
+				if(val.museo_denominazione && val.pos && val.pos.lat && (val.pos.lng || val.pos.lon)) {
+	    	    	var m = L.marker([val.pos.lat, (val.pos.lng) ? val.pos.lng : ((val.pos.lon.longitude) ? val.pos.lon.longitude : val.pos.lon)], {icon: museoIcon}).bindPopup((val.museo_denominazione) + "<br/>" + val.indirizzo_new + "<br/>Tipologia: " + val.museo_tipologia + "<br/>Parcheggio disabili: " + val.vi_sono_parcheggi_per_disabili + "<br/>Ingresso: " + val.museo_ingresso + "<br/>" + val.sede_mail).addTo(musei);	    	    	
+				}
+				if(val.disciplina && val.pos && val.pos.lat && (val.pos.lng || val.pos.lon)) {
+	    	    	var m = L.marker([val.pos.lat, (val.pos.lng) ? val.pos.lng : ((val.pos.lon.longitude) ? val.pos.lon.longitude : val.pos.lon)], {icon: sportIcon}).bindPopup(val.denominazione + "<br/>" + val.impianto_sportivo + "<br/>" + (val.disciplina) + "<br/>" + val.indirizzo_new).addTo(sports);	    	    	
+				}
+				} catch (e) { console.log(e); }
+	    		
+	    	}); 
+	    	  
+	    })
+		.fail(function(jqXHR, textStatus, errorThrown) { 
+			alert('getJSON request failed! ' + textStatus);
+		});
+	    
+	    
+	    
+	    
+	</script>
+</body>
+</html>

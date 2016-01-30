@@ -1,0 +1,32 @@
+// elenco siti inquinati vicini a siti sport provincia di bergamo
+// lanciato con 0.01
+{
+  "select": [
+    "descrizione",
+  	"sito",
+  	"comune",
+    "indirizzo",
+    "inquinamento",
+    "disciplina",
+    "lat",
+    "lon"
+  ],
+  "from": [
+    "contaminati",
+    "sport"
+  ],
+  "where": [
+  {
+      "label": "provincia",
+      "operator": "=",
+      "value": "BERGAMO",
+      "condition": "OR"
+    },
+     {
+      "label": "provincia",
+      "operator": "=",
+      "value": "BG",
+      "condition": "OR"
+    }
+  ]
+}

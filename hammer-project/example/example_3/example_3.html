@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title>Hammer Project Example 2 --> Comuni di Bergamo e Classificazione Energetica</title>
+  
+  
+  <script type='text/javascript' src='http://code.jquery.com/jquery-1.11.0.js'></script>
+  <script type='text/javascript' src="http://cdn.zingchart.com/zingchart.jquery.min.js"></script>
+  <script type='text/javascript' src="http://cdn.zingchart.com/zingchart.min.js"></script>
+    
+  
+  <style type='text/css'>
+#myChart {
+    margin-bottom:20px;
+}
+  </style>
+  
+</head>
+<body>
+<div id="myChart"></div>
+<button type="button">Load Data</button>
+
+
+
+<script type='text/javascript'>//<![CDATA[
+
+// Data for the chart
+	var myConfig = 
+        {
+            "type": "bar",
+            "background-color": "#fff",
+            "title": {
+                "text": "TOP COMUNI X NUMERO ABITANTI E ABITAZIONI DA RISTRUTTURARE",
+                "font-size": "20px",
+                "font-weight": "bold",
+                "font-color": "#000",
+                "background-color": "#fff"
+            },
+            "plot": {
+                "bar-width": "37px",
+                "offset-x":-1,
+                "hover-state": {
+                    "visible": false
+                },
+                "scroll-step-multiplier": 1
+            },
+            "plotarea":{
+                "margin":"10% 10%"
+                },
+            "scroll-x": {
+                "handle": {
+                    "background-color": "white",
+                    "border-left": "1px solid #a6a6a6",
+                    "border-right": "1px solid #a6a6a6",
+                    "border-top": "1px solid #a6a6a6",
+                    "border-bottom": "1px solid #a6a6a6",
+                    "border-radius": "5px"
+                },
+                "bar": {
+                    "background-color": "#a6a6a6",
+                    "alpha": 0.5,
+                    //"border-radius": "5px"
+                }
+            },
+            "labels": [
+                {
+                    "background-image": "1.png",
+                    "background-repeat":"no-repeat",
+                    "background-position":"0 50%",
+                    "width":"26%",
+                    "height":"10%",
+                    "x": "70%",
+                    "y": "14%",
+                    "text":" = 10 abitazioni<br>da ristrutturare"
+                },
+                {
+                    "background-image": "2.png",
+                    "background-repeat":"no-repeat",
+                    "background-position":"0 50%",
+                    "width":"26%",
+                    "height":"10%",
+                    "x": "70%",
+                    "y": "24%",
+                    "text":" = 5000 famiglie"
+                }
+            ],
+            "scale-x": {
+                "line-color": "#000",
+                "guide": {
+                    "visible": "false"
+                },
+                "values": [
+                           
+                ],
+                "item": {
+                    "font-color": "#000"
+                },
+                "tick": {
+                    "line-color": "#000"
+                },
+                "zooming": true,
+                "zoom-to": [
+                            0,
+                            3
+                ]
+            },
+            "scale-y": {
+                "line-color": "#000",
+                "label": {
+                    "item": {
+                        "offset-y": "10px"
+                    },
+                    "text": "ABITAZIONI DA RISTRUTTURARE",
+                    "font-size": "10px",
+                    "font-weight": "bold",
+                    "font-color": "#000"
+                },
+                "guide": {
+                    "visible": "false"
+                },
+                "values": "0:200:0",
+                "item": {
+                    "font-color": "#000"
+                },
+                "tick": {
+                    "line-color": "#000"
+                }
+            },
+            "crosshair-x": {
+                "plot-label": {
+                    "text": "%t: %v",
+                    "decimals": 2,
+                    "border-radius": "5px"
+                }
+            },
+            "scale-y-2": {
+                "line-color": "#000",
+                "label": {
+                    "item": {
+                        "offset-y": "10px"
+                    },
+                    "text": "NUMERO DI FAMIGLIE",
+                    "font-size": "10px",
+                    "font-weight": "bold",
+                    "font-color": "#000"
+                },
+                "guide": {
+                    "visible": "false"
+                },
+                "values": "0:60000:0",
+                "item": {
+                    "font-color": "#000"
+                },
+                "tick": {
+                    "line-color": "#000"
+                }
+            },
+            
+            "series": [
+                {
+                    "values": [
+                               
+                    ],
+                    "background-image": "1.png",
+                    "background-repeat": "repeat-y",
+                    "background-fit": "x",
+                    "background-color": "white",
+                    "scales": "scale-x,scale-y",
+                    "text": "ABITAZIONI"
+                },
+                {
+                    "values": [
+                               
+                    ],
+                    "background-image": "2.png",
+                    "background-repeat": "repeat-y",
+                    "background-fit": "x",
+                    "background-color": "white",
+                    "scales": "scale-x,scale-y-2",
+                    "text": "FAMIGLIE"
+                }
+            ]
+        };
+ 
+
+// Make your chart
+$("#myChart").zingchart({
+    data: myConfig,
+	height: 500, 
+	width: 1025 
+});
+
+	
+
+// Bind a click event to the button
+$("button").click(function(){
+    
+    // Issue a get request
+    $.getJSON( 'results_3.json', function( data ) {
+        
+
+  	   zingchart.exec("myChart", "reload");
+
+	   $.each( data, function( key, val ) {
+    	    try {
+    	    	if(val.comune && val.numero_di_famiglie) {
+    	    		
+    	    		
+    	    		
+    	    		zingchart.exec("myChart", "addscalevalue", {
+    	    			"scale":"scale-x",
+    	    			"value":val.comune
+	    			  });
+	    			
+	    	
+    	    		zingchart.exec("myChart", "appendseriesvalues", {
+    	    			    "values":[
+    	    			      [val.num_abitazioni],
+    	    			      [val.numero_di_famiglie]
+    	    			    ]
+    	    			  });
+    	    		
+    	    		
+    	    		}
+    	    	
+    	    	
+    	
+    	    } catch (e) { console.log(e); }
+		
+		});
+        
+    	
+    })
+	.fail(function(jqXHR, textStatus, errorThrown) { 
+		alert('getJSON request failed! ' + textStatus);
+	});
+	
+});
+//]]> 
+
+</script>
+
+</body>
+
+</html>
+

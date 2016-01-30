@@ -1,0 +1,48 @@
+{
+  "select": [
+      { "column": { "instance": "aria", "label":"CO_MEDIA_MOBILE_MASSIMA_GIORNALIERA_mg_m3"}},
+      { "column": { "instance": "aria", "label":"CO_MEDIA_MOBILE_MASSIMA_GIORNALIERA_mg_m3"}},
+      { "column": { "instance": "aria", "label":"CO_MEDIA_MOBILE_MASSIMA_GIORNALIERA_mg_m3"}},
+      { "column": { "instance": "aria", "label":"CO_SUPERAMENTIMEDIA_MOBILE_8_ORE"}},
+      { "column": { "instance": "aria", "label":"ANAGRAFICA_STAZIONE_DI_CAMPIONAMENTO_PROVINCIA"}},
+      { "column": { "instance": "aria", "label":"ANAGRAFICA_STAZIONE_DI_CAMPIONAMENTO_PROVINCIA"}},
+      { "column": { "instance": "cened", "label":"emissioni_di_co2"}},
+      { "column": { "instance": "cened", "label":"comune"}},
+      { "column": { "instance": "polizia", "label":"num_sanz_ambientali"}},
+      { "column": { "instance": "polizia", "label":"ente"}}
+  ],
+  "from": [
+    "cened",
+    "aria",
+    "polizia"
+  ],
+  "where": [{"condition": {
+      "instance1": "aria",
+      "label1": "pm10_media_annua_g_m3",
+      "operator": "gt",
+      "value": 0,
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "cened",
+      "label1": "emissioni_di_co2",
+      "operator": "gt",
+      "value": 0,
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "polizia",
+      "label1": "num_sanz_ambientali",
+      "operator": "gt",
+      "value": 0,
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "cened",
+      "label1": "tipologia_combustibile",
+      "operator": "eq",
+      "value": "Gasolio",
+      "logicalOperator": "and"
+    }}
+    
+    
+    
+  ]
+}

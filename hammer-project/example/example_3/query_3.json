@@ -1,0 +1,52 @@
+{
+  "select": [
+      { "column": { "instance": "cened", "label":"indirizzo"}},
+      { "column": { "instance": "cened", "label":"comune"}},
+      { "column": { "instance": "cened", "label":"destinazione_di_uso"}},
+      { "column": { "instance": "censimento", "label":"Numero_di_famiglie"}},
+      { "column": { "instance": "censimento", "label":"Popolazione_residente_totale"}},
+      { "column": { "instance": "censimento", "label":"Numero_di_abitazioni"}}
+  ],
+  "from": [
+    "cened",
+    "censimento"
+  ],
+  "where": [{"condition": {
+      "instance1": "cened",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "BG",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "censimento",
+      "label1": "provincia",
+      "operator": "eq",
+      "value": "Bergamo",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "cened",
+      "label1": "edificio_pubblico",
+      "operator": "eq",
+      "value": "NO",
+      "logicalOperator": "and"
+    }}, {"condition": {
+      "instance1": "cened",
+      "label1": "tipologia_combustibile",
+      "operator": "eq",
+      "value": "Gasolio",
+      "logicalOperator": "and"
+    }}, {"condition": {
+      "instance1": "censimento",
+      "label1": "Numero_di_abitazioni",
+      "operator": "gt",
+      "value": "0",
+      "logicalOperator": "and"
+    }}, {"condition": {
+      "instance1": "censimento",
+      "label1": "Popolazione_residente_totale",
+      "operator": "gt",
+      "value": "0",
+      "logicalOperator": "and"
+    }}
+  ]
+}

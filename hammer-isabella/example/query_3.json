@@ -1,0 +1,16 @@
+{
+  "select": [
+    "provincia",
+    "lat",
+    "lng",
+    "numero",
+    "incidenti"
+  ],
+  "from": [
+    "incidenti",
+    "traffico"
+  ],
+  "where": [
+  
+  ]
+}
