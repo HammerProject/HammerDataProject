@@ -39,6 +39,8 @@ import com.mongodb.hadoop.util.MongoConfigUtil;
 
 /**
  * Hello world!
+ * 
+ * App
  *
  */
 public class App {
