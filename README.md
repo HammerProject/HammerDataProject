@@ -1,6 +1,6 @@
 # Hammer Project: Get your open data!
 #
-# last update 27/3/2016
+last update 27/3/2016
 
 **Hammer Project** allows queries on unstructured data. Particularly on **OPEN DATA**!
 
