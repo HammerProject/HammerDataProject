@@ -52,7 +52,7 @@ public class CKANDataSetInput implements DataSetInput {
 
 	private static final Log LOG = LogFactory.getLog(CKANDataSetInput.class);
 
-	@SuppressWarnings("unchecked")
+	@SuppressWarnings({ "unchecked", "rawtypes" })
 	public BSONObject getDataSet(String url, String datasource, String id, BSONObject c) {
 		BSONObject dataset = new BasicBSONObject();
 		dataset.put("datasource", datasource);
@@ -82,10 +82,10 @@ public class CKANDataSetInput implements DataSetInput {
 			if (doc.containsKey("result")) {
 				Document result = new Document();
 				LOG.info("id " + id);;
-				LOG.info(((Document) doc.get("result")).getClass().toString());
-				if(!( ((Document) doc.get("result")) instanceof  Document)) {
-					
-					result = ((ArrayList <Document>) doc.get("result")).get(0);
+				LOG.info(doc.get("result").getClass().toString());
+				if(!( doc.get("result") instanceof  Document)) {
+					result = (Document) ((ArrayList) doc.get("result")).get(0);
+					LOG.info("!!! list !!!!");
 				} else {
 					result = (Document) doc.get("result");
 					LOG.info("!!! result !!!!");
