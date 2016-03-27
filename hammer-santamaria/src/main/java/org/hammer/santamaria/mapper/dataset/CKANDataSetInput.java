@@ -1,5 +1,7 @@
 package org.hammer.santamaria.mapper.dataset;
 
+import java.io.UnsupportedEncodingException;
+import java.net.URLEncoder;
 import java.util.ArrayList;
 
 import org.apache.commons.httpclient.DefaultHttpMethodRetryHandler;
@@ -26,6 +28,26 @@ import com.mongodb.util.JSON;
  */
 public class CKANDataSetInput implements DataSetInput {
 
+	/**
+	 * Encode URI
+	 * 
+	 * @param s
+	 * @return
+	 */
+	public static String EncodeURIComponent(String s) {
+		String result;
+
+		try {
+			result = URLEncoder.encode(s, "UTF-8").replaceAll("\\+", "%20").replaceAll("\\%21", "!")
+					.replaceAll("\\%27", "'").replaceAll("\\%28", "(").replaceAll("\\%29", ")")
+					.replaceAll("\\%7E", "~");
+		} catch (UnsupportedEncodingException e) {
+			result = s;
+		}
+
+		return result;
+	}
+	
 	public static final String PACKAGE_GET = "/package_show?id=";
 
 	private static final Log LOG = LogFactory.getLog(CKANDataSetInput.class);
@@ -35,7 +57,8 @@ public class CKANDataSetInput implements DataSetInput {
 		dataset.put("datasource", datasource);
 		dataset.put("id", id);
 		HttpClient client = new HttpClient();
-		GetMethod method = new GetMethod(url + PACKAGE_GET + id);
+		String sId = EncodeURIComponent(id);
+		GetMethod method = new GetMethod(url + PACKAGE_GET + sId);
 		method.setRequestHeader("User-Agent", "Hammer Project - SantaMaria crawler");
 		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - SantaMaria crawler");
 
