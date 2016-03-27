@@ -7,6 +7,7 @@ import org.apache.hadoop.util.ToolRunner;
  * Start Santa Maria crawler in map-reduce enviroment
  *
  *
+ *
  */
 public class App {
 	public static void main(String[] pArgs) throws Exception {
