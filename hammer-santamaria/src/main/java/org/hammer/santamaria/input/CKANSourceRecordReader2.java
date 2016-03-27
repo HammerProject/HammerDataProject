@@ -75,12 +75,11 @@ public class CKANSourceRecordReader2 extends BaseDataSourceRecordReader {
 			try {
 				this.getPackageList(offset, limit);
 				offset += limit;
-				this.total = this.dataset.size();
 			} catch(Exception ex) {
 				error = 1;
 			}
 		}
-		
+		this.total = this.dataset.size();
 	}
 
 	@Override

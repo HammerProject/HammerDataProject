@@ -81,12 +81,15 @@ public class CKANDataSetInput implements DataSetInput {
 			 */
 			if (doc.containsKey("result")) {
 				Document result = new Document();
-				
+				LOG.info("id " + id);;
+				LOG.info(((Document) doc.get("result")).getClass().toString());
 				if(!( ((Document) doc.get("result")) instanceof  Document)) {
 					
 					result = ((ArrayList <Document>) doc.get("result")).get(0);
 				} else {
 					result = (Document) doc.get("result");
+					LOG.info("!!! result !!!!");
+
 				}
 				
 				dataset.put("title", result.get("title"));
