@@ -75,11 +75,12 @@ public class CKANSourceRecordReader2 extends BaseDataSourceRecordReader {
 			try {
 				this.getPackageList(offset, limit);
 				offset += limit;
-				limit += limit;
+				this.total = this.dataset.size();
 			} catch(Exception ex) {
 				error = 1;
 			}
 		}
+		
 	}
 
 	@Override
@@ -146,7 +147,7 @@ public class CKANSourceRecordReader2 extends BaseDataSourceRecordReader {
 					LOG.debug("Document: " + k);
 				}
 				LOG.info("SANTA MARIA CKAN RECORD READER found" + this.dataset.size());
-				this.total += this.dataset.size();
+				//this.total += this.dataset.size();
 				if(((ArrayList<String>) doc.get("result")).size() != limit) {
 					throw new Exception(((ArrayList<String>) doc.get("result")).size() + " != " + limit);
 				}

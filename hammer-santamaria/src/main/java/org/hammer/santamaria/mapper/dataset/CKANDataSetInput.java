@@ -52,6 +52,7 @@ public class CKANDataSetInput implements DataSetInput {
 
 	private static final Log LOG = LogFactory.getLog(CKANDataSetInput.class);
 
+	@SuppressWarnings("unchecked")
 	public BSONObject getDataSet(String url, String datasource, String id, BSONObject c) {
 		BSONObject dataset = new BasicBSONObject();
 		dataset.put("datasource", datasource);
@@ -59,6 +60,7 @@ public class CKANDataSetInput implements DataSetInput {
 		HttpClient client = new HttpClient();
 		String sId = EncodeURIComponent(id);
 		GetMethod method = new GetMethod(url + PACKAGE_GET + sId);
+		
 		method.setRequestHeader("User-Agent", "Hammer Project - SantaMaria crawler");
 		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - SantaMaria crawler");
 
@@ -78,18 +80,26 @@ public class CKANDataSetInput implements DataSetInput {
 			 * 
 			 */
 			if (doc.containsKey("result")) {
-
-				dataset.put("title", ((Document) doc.get("result")).get("title"));
-				dataset.put("author", ((Document) doc.get("result")).get("author"));
-				dataset.put("author_email", ((Document) doc.get("result")).get("author_email"));
-				dataset.put("license_id", ((Document) doc.get("result")).get("license_id"));
+				Document result = new Document();
+				
+				if(!( ((Document) doc.get("result")) instanceof  Document)) {
+					
+					result = ((ArrayList <Document>) doc.get("result")).get(0);
+				} else {
+					result = (Document) doc.get("result");
+				}
+				
+				dataset.put("title", result.get("title"));
+				dataset.put("author", result.get("author"));
+				dataset.put("author_email", result.get("author_email"));
+				dataset.put("license_id", result.get("license_id"));
 
 				boolean findJSON = false;
 				ArrayList<String> tags = new ArrayList<String>();
 				ArrayList<String> meta = new ArrayList<String>();
 
-				@SuppressWarnings("unchecked")
-				ArrayList<Document> resources = (ArrayList<Document>) ((Document) doc.get("result")).get("resources");
+
+				ArrayList<Document> resources = (ArrayList<Document>) result.get("resources");
 				for (Document resource : resources) {
 					if (resource.getString("format").toUpperCase().equals("JSON")) {
 						findJSON = true;
@@ -103,8 +113,7 @@ public class CKANDataSetInput implements DataSetInput {
 				}
 
 				if (findJSON) {
-					@SuppressWarnings("unchecked")
-					ArrayList<Document> tagsFromCKAN = (ArrayList<Document>) ((Document) doc.get("result")).get("tags");
+					ArrayList<Document> tagsFromCKAN = (ArrayList<Document>) result.get("tags");
 					for (Document tag : tagsFromCKAN) {
 						if (tag.getString("state").toUpperCase().equals("ACTIVE")) {
 							tags.add(tag.getString("display_name").trim().toLowerCase());
@@ -117,6 +126,7 @@ public class CKANDataSetInput implements DataSetInput {
 
 			}
 		} catch (Exception e) {
+			e.printStackTrace();
 			LOG.error(e);
 		} finally {
 			method.releaseConnection();
