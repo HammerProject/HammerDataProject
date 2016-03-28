@@ -19,4 +19,6 @@ public class App {
 
 		System.exit(ToolRunner.run(conf, new SantaMariaConfig(conf), pArgs));
 	}
+	
+	
 }

@@ -11,6 +11,7 @@ import org.apache.commons.httpclient.methods.GetMethod;
 import org.apache.commons.httpclient.params.HttpMethodParams;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
+import org.apache.http.client.params.ClientPNames;
 import org.bson.BSONObject;
 import org.bson.BasicBSONObject;
 import org.bson.Document;
@@ -57,14 +58,27 @@ public class CKANDataSetInput implements DataSetInput {
 		BSONObject dataset = new BasicBSONObject();
 		dataset.put("datasource", datasource);
 		dataset.put("id", id);
-		HttpClient client = new HttpClient();
+		
 		String sId = EncodeURIComponent(id);
+		LOG.info("---> id " + id + " - " + sId);
+		
+		
+		HttpClient client = new HttpClient();
+		
+		//some ckan site doesn't allow connection with hight timeout!!!
+		//client.getHttpConnectionManager().getParams().setConnectionTimeout(3000);
+		//client.getHttpConnectionManager().getParams().setSoTimeout(2000);
+		/////
+		
+		//add to prevent redirect (?)
+		client.getHttpConnectionManager().getParams().setParameter(ClientPNames.HANDLE_REDIRECTS, false);
+		
 		GetMethod method = new GetMethod(url + PACKAGE_GET + sId);
 		
 		method.setRequestHeader("User-Agent", "Hammer Project - SantaMaria crawler");
 		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - SantaMaria crawler");
-
 		method.getParams().setParameter(HttpMethodParams.RETRY_HANDLER, new DefaultHttpMethodRetryHandler(3, false));
+		
 		try {
 			int statusCode = client.executeMethod(method);
 			if (statusCode != HttpStatus.SC_OK) {
@@ -79,51 +93,58 @@ public class CKANDataSetInput implements DataSetInput {
 			 * 
 			 * 
 			 */
-			if (doc.containsKey("result")) {
+			if (doc != null && doc.containsKey("result")) {
 				Document result = new Document();
-				LOG.info("id " + id);;
 				LOG.info(doc.get("result").getClass().toString());
 				if(!( doc.get("result") instanceof  Document)) {
 					result = (Document) ((ArrayList) doc.get("result")).get(0);
-					LOG.info("!!! list !!!!");
-				} else {
+					LOG.info("!!! Document list !!!!");
+				} else if(!( doc.get("result") instanceof  ArrayList)) {
 					result = (Document) doc.get("result");
-					LOG.info("!!! result !!!!");
-
+					LOG.info("!!! Document result !!!!");
+				} else {
+					LOG.info("!!! NOT FOUND !!!!");
+					result = null;
 				}
 				
-				dataset.put("title", result.get("title"));
-				dataset.put("author", result.get("author"));
-				dataset.put("author_email", result.get("author_email"));
-				dataset.put("license_id", result.get("license_id"));
+				if(result != null ) {
+					dataset.put("title", result.get("title"));
+					dataset.put("author", result.get("author"));
+					dataset.put("author_email", result.get("author_email"));
+					dataset.put("license_id", result.get("license_id"));
+				}
 
 				boolean findJSON = false;
 				ArrayList<String> tags = new ArrayList<String>();
 				ArrayList<String> meta = new ArrayList<String>();
 
-
+				if(result != null && result.containsKey("resources")) { 
 				ArrayList<Document> resources = (ArrayList<Document>) result.get("resources");
-				for (Document resource : resources) {
-					if (resource.getString("format").toUpperCase().equals("JSON")) {
-						findJSON = true;
-						dataset.put("dataset-type", "JSON");
-						dataset.put("url", resource.get("url"));
-						dataset.put("created", resource.get("created"));
-						dataset.put("description", resource.get("description"));
-						dataset.put("revision_timestamp", resource.get("revision_timestamp"));
-						meta = this.getMetaByDocument(resource.get("url").toString());
+					for (Document resource : resources) {
+						if (resource.getString("format").toUpperCase().equals("JSON")) {
+							findJSON = true;
+							dataset.put("dataset-type", "JSON");
+							dataset.put("url", resource.get("url"));
+							dataset.put("created", resource.get("created"));
+							dataset.put("description", resource.get("description"));
+							dataset.put("revision_timestamp", resource.get("revision_timestamp"));
+							meta = this.getMetaByDocument(resource.get("url").toString());
+						}
 					}
 				}
-
-				if (findJSON) {
+				
+				if (findJSON && result != null && result.containsKey("tags")) {
 					ArrayList<Document> tagsFromCKAN = (ArrayList<Document>) result.get("tags");
 					for (Document tag : tagsFromCKAN) {
-						if (tag.getString("state").toUpperCase().equals("ACTIVE")) {
+						if (tag.containsKey("state") && tag.getString("state").toUpperCase().equals("ACTIVE")) {
+							tags.add(tag.getString("display_name").trim().toLowerCase());
+						} else 	if (tag.containsKey("display_name")) {
 							tags.add(tag.getString("display_name").trim().toLowerCase());
 						}
 					}
 
 				}
+				
 				dataset.put("tags", tags);
 				dataset.put("meta", meta);
 
@@ -188,6 +209,96 @@ public class CKANDataSetInput implements DataSetInput {
 		}
 
 		return meta;
+	}
+	
+	
+	@SuppressWarnings({ "unchecked", "rawtypes" })
+	public static void main(String[] pArgs) throws Exception {
+		HttpClient client = new HttpClient();
+		BSONObject dataset = new BasicBSONObject();
+		client.getHttpConnectionManager().getParams().setParameter(ClientPNames.HANDLE_REDIRECTS, false);		
+		GetMethod method = new GetMethod("http://www.dati.gov.it/api/3/action/package_show?id=pat_6bc1b950-0bca-4609-ae84-02c1955c8a09");
+		
+		method.setRequestHeader("User-Agent", "Hammer Project - SantaMaria crawler");
+		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - SantaMaria crawler");
+		method.getParams().setParameter(HttpMethodParams.RETRY_HANDLER, new DefaultHttpMethodRetryHandler(3, false));
+		
+		try {
+			int statusCode = client.executeMethod(method);
+			if (statusCode != HttpStatus.SC_OK) {
+				throw new Exception("Method failed: " + method.getStatusLine());
+			}
+			byte[] responseBody = method.getResponseBody();
+
+			Document doc = Document.parse(new String(responseBody));
+
+			/*
+			 * TODO CHECK VERSIONE CKAN
+			 * 
+			 * 
+			 */
+			if (doc != null && doc.containsKey("result")) {
+				Document result = new Document();
+				LOG.info(doc.get("result").getClass().toString());
+				if(!( doc.get("result") instanceof  Document)) {
+					result = (Document) ((ArrayList) doc.get("result")).get(0);
+					LOG.info("!!! list !!!!");
+				} else {
+					result = (Document) doc.get("result");
+					LOG.info("!!! result !!!!");
+
+				}
+				
+				
+
+				if(result != null ) {
+					dataset.put("title", result.get("title"));
+					dataset.put("author", result.get("author"));
+					dataset.put("author_email", result.get("author_email"));
+					dataset.put("license_id", result.get("license_id"));
+				}
+
+				boolean findJSON = false;
+				ArrayList<String> tags = new ArrayList<String>();
+				ArrayList<String> meta = new ArrayList<String>();
+
+				if(result != null && result.containsKey("resources")) { 
+				ArrayList<Document> resources = (ArrayList<Document>) result.get("resources");
+					for (Document resource : resources) {
+						if (resource.getString("format").toUpperCase().equals("JSON")) {
+							findJSON = true;
+							dataset.put("dataset-type", "JSON");
+							dataset.put("url", resource.get("url"));
+							dataset.put("created", resource.get("created"));
+							dataset.put("description", resource.get("description"));
+							dataset.put("revision_timestamp", resource.get("revision_timestamp"));
+							//meta = this.getMetaByDocument(resource.get("url").toString());
+						}
+					}
+				}
+				
+				if (findJSON && result != null && result.containsKey("tags")) {
+					ArrayList<Document> tagsFromCKAN = (ArrayList<Document>) result.get("tags");
+					for (Document tag : tagsFromCKAN) {
+						if (tag.containsKey("state") && tag.getString("state").toUpperCase().equals("ACTIVE")) {
+							tags.add(tag.getString("display_name").trim().toLowerCase());
+						} else 	if (tag.containsKey("display_name")) {
+							tags.add(tag.getString("display_name").trim().toLowerCase());
+						}
+					}
+
+				}
+				
+				dataset.put("tags", tags);
+				dataset.put("meta", meta);
+
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+			LOG.error(e);
+		} finally {
+			method.releaseConnection();
+		}
 	}
 
 }

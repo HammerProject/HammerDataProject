@@ -43,8 +43,10 @@ public class SantaMariaMapper extends Mapper<Object, BSONObject, Text, BSONWrita
     			throw new IllegalStateException("Creation of a new DataSetInput error: " + e.toString());
     		}
     		
-    		Text key = new Text(pValue.get("datasource") + "-" + pValue.get("dataset"));
-            pContext.write(key, new BSONWritable(dataset) );
+    		if(dataset != null) {
+	    		Text key = new Text(pValue.get("datasource") + "-" + pValue.get("dataset"));
+	            pContext.write(key, new BSONWritable(dataset) );
+    		}
 
     	}
         
