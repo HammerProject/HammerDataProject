@@ -37,7 +37,17 @@ public class DataSourceSplit extends InputSplit implements Writable, org.apache.
     
     private String url = "";
     
-    public String getUrl() {
+    private String action = "";
+    
+    public String getAction() {
+		return action;
+	}
+
+	public void setAction(String action) {
+		this.action = action;
+	}
+
+	public String getUrl() {
 		return url;
 	}
 
@@ -63,6 +73,7 @@ public class DataSourceSplit extends InputSplit implements Writable, org.apache.
         BSONObject spec = BasicDBObjectBuilder.start()
                                               .add("name", getName())
                                               .add("url", getUrl() != null ? getUrl() : null)
+                                              .add("action", getAction() != null ? getAction() : null)
                                               .add("type", getType() != null ? getType() : DEFAULT_RECORD_READER)
                                               .get();
         byte[] buf = _bsonEncoder.encode(spec);
@@ -83,6 +94,7 @@ public class DataSourceSplit extends InputSplit implements Writable, org.apache.
         spec = (BSONObject) cb.get();
         setName(spec.get("name").toString());
         setUrl(spec.get("url").toString());
+        setAction(spec.get("action").toString());
         setType(spec.get("type").toString());
     }
 
@@ -90,6 +102,7 @@ public class DataSourceSplit extends InputSplit implements Writable, org.apache.
     @Override
     public String toString() {
         return "DataSourceSplit{URL=" + this.url.toString()
+        	   + ", action=" + this.action
                + ", name=" + this.name
                + ", type=" + this.type + '}';
     }
@@ -97,6 +110,7 @@ public class DataSourceSplit extends InputSplit implements Writable, org.apache.
     @Override
     public int hashCode() {
         int result = this.url != null ? this.url.hashCode() : 0;
+        result = 31 * result + (this.action != null ? this.action.hashCode() : 0);
         result = 31 * result + (this.name != null ? this.name.hashCode() : 0);
         result = 31 * result + (this.type != null ? this.type.hashCode() : 0);
         return result;

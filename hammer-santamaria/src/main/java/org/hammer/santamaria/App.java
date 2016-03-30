@@ -14,11 +14,24 @@ public class App {
 		System.out.println("!!! Hammer Project !!!");
 		System.out.println("!!! Santa Maria Module start.....");
 
-		Configuration conf = new Configuration();
-		conf.set("mongo.splitter.class","org.hammer.santamaria.splitter.DataSourceSplitter");
-
-		System.exit(ToolRunner.run(conf, new SantaMariaConfig(conf), pArgs));
+		if(pArgs == null || pArgs.length < 1) {
+			throw new Exception("Parameter: <datasource collection>");
+		}
+		Run(pArgs[0]);
+		
+		
 	}
 	
-	
+	/**
+	 * Run 
+	 * @param datasource 
+	 * @throws Exception
+	 */
+	public static void Run(String datasource) throws Exception {
+		Configuration conf = new Configuration();
+		conf.set("mongo.splitter.class","org.hammer.santamaria.splitter.DataSourceSplitter");
+		conf.set("datasource-table", datasource);
+		
+		System.exit(ToolRunner.run(conf, new SantaMariaConfig(conf), new String[0]));
+	}
 }

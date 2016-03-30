@@ -85,6 +85,7 @@ public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
 
 			this.current.put("datainput_type", "org.hammer.santamaria.mapper.dataset.CKANDataSetInput");
 			this.current.put("url", split.getUrl());
+			this.current.put("action", split.getAction());
 
 			seen++;
 			return true;
@@ -101,8 +102,8 @@ public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
 	@SuppressWarnings("unchecked")
 	private void getPackageList() {
 		HttpClient client = new HttpClient();
-		LOG.info(split.getUrl());
-		GetMethod method = new GetMethod(split.getUrl());
+		LOG.info(split.getAction());
+		GetMethod method = new GetMethod(split.getAction());
 		method.getParams().setParameter(HttpMethodParams.RETRY_HANDLER, new DefaultHttpMethodRetryHandler(3, false));
 				
 		method.setRequestHeader("User-Agent", "Hammer Project - SantaMaria crawler");
@@ -111,12 +112,6 @@ public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
 		try {
 			int statusCode = client.executeMethod(method);
 			
-			if (statusCode != HttpStatus.SC_OK) {
-				LOG.info("Ops. Error " + statusCode + " try with " + split.getUrl() + "/package_search");
-				method = new GetMethod(split.getUrl() + "/package_search");
-				method.getParams().setParameter(HttpMethodParams.RETRY_HANDLER, new DefaultHttpMethodRetryHandler(3, false));
-				statusCode = client.executeMethod(method);
-			}
 			if (statusCode != HttpStatus.SC_OK) {
 				throw new Exception("Method failed: " + method.getStatusLine());
 			}

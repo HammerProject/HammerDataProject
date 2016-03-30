@@ -56,6 +56,7 @@ public class DataSourceSplitter extends MongoSplitter {
         	DataSourceSplit dsSplit = new DataSourceSplit();
         	dsSplit.setName(key);
         	dsSplit.setUrl(dataSource.get(key).getUrl());
+        	dsSplit.setAction(dataSource.get(key).getAction());
         	dsSplit.setType(dataSource.get(key).getType());
         	splits.add(dsSplit);
         }
@@ -87,11 +88,13 @@ public class DataSourceSplitter extends MongoSplitter {
                 public void apply(final Document document) {
                 	String name = document.getString("name");
                 	String url = document.getString("url");
+                	String action = document.getString("action");
                 	String type = document.getString("type");
                 	System.out.println("Find data source " + name + " --- " + url + " ---- " + type);
                 	DataSource ds = new DataSource();
                 	ds.setName(name);
                 	ds.setUrl(url);
+                	ds.setAction(action);
                 	ds.setType(type);
                 	sourceMap.put(name, ds);
                 }

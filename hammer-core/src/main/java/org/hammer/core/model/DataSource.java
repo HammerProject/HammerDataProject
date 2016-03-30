@@ -64,7 +64,17 @@ public class DataSource {
 		this.type = type;
 	}
 
+	public String getAction() {
+		return action;
+	}
+
+	public void setAction(String action) {
+		this.action = action;
+	}
+
 	private String type = "";
 	
+	
+	private String action = "";
 	
 }

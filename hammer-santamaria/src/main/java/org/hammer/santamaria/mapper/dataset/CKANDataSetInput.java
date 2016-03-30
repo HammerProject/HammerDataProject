@@ -73,6 +73,12 @@ public class CKANDataSetInput implements DataSetInput {
 		//add to prevent redirect (?)
 		client.getHttpConnectionManager().getParams().setParameter(ClientPNames.HANDLE_REDIRECTS, false);
 		
+		LOG.info("******************************************************************************************************");
+		LOG.info(" ");
+		LOG.info(url + PACKAGE_GET + sId);
+		LOG.info(" ");
+		LOG.info("******************************************************************************************************");
+
 		GetMethod method = new GetMethod(url + PACKAGE_GET + sId);
 		
 		method.setRequestHeader("User-Agent", "Hammer Project - SantaMaria crawler");
@@ -85,8 +91,9 @@ public class CKANDataSetInput implements DataSetInput {
 				throw new Exception("Method failed: " + method.getStatusLine());
 			}
 			byte[] responseBody = method.getResponseBody();
-
+			LOG.debug(new String(responseBody));
 			Document doc = Document.parse(new String(responseBody));
+			
 
 			/*
 			 * TODO CHECK VERSIONE CKAN
@@ -96,17 +103,18 @@ public class CKANDataSetInput implements DataSetInput {
 			if (doc != null && doc.containsKey("result")) {
 				Document result = new Document();
 				LOG.info(doc.get("result").getClass().toString());
-				if(!( doc.get("result") instanceof  Document)) {
-					result = (Document) ((ArrayList) doc.get("result")).get(0);
-					LOG.info("!!! Document list !!!!");
-				} else if(!( doc.get("result") instanceof  ArrayList)) {
-					result = (Document) doc.get("result");
+				if( doc.get("result") instanceof  Document) {
 					LOG.info("!!! Document result !!!!");
+					result = (Document) doc.get("result");
+				} else if( doc.get("result") instanceof  ArrayList) {
+					LOG.info("!!! Document list !!!!");
+					
+					result = (Document) (((ArrayList) doc.get("result")).get(0));
 				} else {
 					LOG.info("!!! NOT FOUND !!!!");
 					result = null;
 				}
-				
+				LOG.info("result find!");
 				if(result != null ) {
 					dataset.put("title", result.get("title"));
 					dataset.put("author", result.get("author"));
@@ -119,7 +127,7 @@ public class CKANDataSetInput implements DataSetInput {
 				ArrayList<String> meta = new ArrayList<String>();
 
 				if(result != null && result.containsKey("resources")) { 
-				ArrayList<Document> resources = (ArrayList<Document>) result.get("resources");
+					ArrayList<Document> resources = (ArrayList<Document>) result.get("resources");
 					for (Document resource : resources) {
 						if (resource.getString("format").toUpperCase().equals("JSON")) {
 							findJSON = true;
@@ -217,7 +225,7 @@ public class CKANDataSetInput implements DataSetInput {
 		HttpClient client = new HttpClient();
 		BSONObject dataset = new BasicBSONObject();
 		client.getHttpConnectionManager().getParams().setParameter(ClientPNames.HANDLE_REDIRECTS, false);		
-		GetMethod method = new GetMethod("http://www.dati.gov.it/api/3/action/package_show?id=pat_6bc1b950-0bca-4609-ae84-02c1955c8a09");
+		GetMethod method = new GetMethod("http://www.dati.gov.it/api/3/action/package_show?id=citta-metropolitana-di-firenze_6948bd88-cc7c-47f5-b019-01a7291abf5b");
 		
 		method.setRequestHeader("User-Agent", "Hammer Project - SantaMaria crawler");
 		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - SantaMaria crawler");
