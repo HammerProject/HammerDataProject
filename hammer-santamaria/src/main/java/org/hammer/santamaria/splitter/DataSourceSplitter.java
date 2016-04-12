@@ -11,6 +11,7 @@ import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.mapreduce.InputSplit;
 import org.bson.Document;
 import org.hammer.core.model.DataSource;
+import org.hammer.santamaria.input.CKANBigSourceRecordReader;
 
 import com.mongodb.Block;
 import com.mongodb.MongoClient;
@@ -91,12 +92,31 @@ public class DataSourceSplitter extends MongoSplitter {
                 	String action = document.getString("action");
                 	String type = document.getString("type");
                 	System.out.println("Find data source " + name + " --- " + url + " ---- " + type);
-                	DataSource ds = new DataSource();
-                	ds.setName(name);
-                	ds.setUrl(url);
-                	ds.setAction(action);
-                	ds.setType(type);
-                	sourceMap.put(name, ds);
+                	if(type.equals("org.hammer.santamaria.input.CKANBigSourceRecordReader")){
+                		action = document.getString("url") + CKANBigSourceRecordReader.ACTION + "0&limit=" + CKANBigSourceRecordReader.LIMIT;
+                		int count = CKANBigSourceRecordReader.GetCountByCkan(action);
+                		int total = count;
+                		int c = 0;
+                		while(c < count) {
+                        	DataSource ds = new DataSource();
+    	                	ds.setName(name);
+    	                	ds.setUrl(url);
+    	                	ds.setAction(action);
+    	                	ds.setType(type);
+    	                	sourceMap.put(name, ds);
+    	                	c = c + CKANBigSourceRecordReader.LIMIT;
+                			action = document.getString("url") + CKANBigSourceRecordReader.ACTION + total + "&limit=" +CKANBigSourceRecordReader.LIMIT;
+                    		count = CKANBigSourceRecordReader.GetCountByCkan(action);
+                    		total += count;
+                		}
+                	} else {
+	                	DataSource ds = new DataSource();
+	                	ds.setName(name);
+	                	ds.setUrl(url);
+	                	ds.setAction(action);
+	                	ds.setType(type);
+	                	sourceMap.put(name, ds);
+                	}
                 }
             });
             

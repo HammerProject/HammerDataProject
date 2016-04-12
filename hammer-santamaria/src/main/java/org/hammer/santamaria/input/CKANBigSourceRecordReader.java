@@ -27,6 +27,10 @@ import org.hammer.santamaria.splitter.DataSourceSplit;
  */
 public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
 
+	public static final int LIMIT = 50;
+	
+	public static final String ACTION = "/package_list?offset=";
+	
 	private static final Log LOG = LogFactory.getLog(CKANBigSourceRecordReader.class);
 
 	/**
@@ -161,5 +165,32 @@ public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
 
 	public void setDataset(ArrayList<String> dataset) {
 		this.dataset = dataset;
+	}
+	
+	
+	@SuppressWarnings("unchecked")
+	public static int GetCountByCkan(String url) {
+		int count = 0;
+		HttpClient client = new HttpClient();
+		LOG.info("**** INPUT SPLIT COUNT *** " + url);
+		GetMethod method = new GetMethod(url);
+		method.getParams().setParameter(HttpMethodParams.RETRY_HANDLER, new DefaultHttpMethodRetryHandler(3, false));
+				
+		method.setRequestHeader("User-Agent", "Hammer Project - SantaMaria crawler");
+		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - SantaMaria crawler");
+		
+		try {
+			client.executeMethod(method);
+			byte[] responseBody = method.getResponseBody();
+			Document doc = Document.parse(new String(responseBody));
+			if (doc.containsKey("result")) {
+				count = ((ArrayList<String>) doc.get("result")).size();
+			}
+		} catch (Exception e) {
+			LOG.error(e);
+		} finally {
+			method.releaseConnection();
+		}
+		return count;
 	}
 }
