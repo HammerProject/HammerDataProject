@@ -96,15 +96,15 @@ public class DataSourceSplitter extends MongoSplitter {
                 		action = document.getString("url") + CKANBigSourceRecordReader.ACTION + "0&limit=" + CKANBigSourceRecordReader.LIMIT;
                 		int count = CKANBigSourceRecordReader.GetCountByCkan(action);
                 		int total = count;
-                		int c = 0;
-                		while(c < count) {
+                		int c = 1;
+                		while(count >= CKANBigSourceRecordReader.LIMIT) {
                         	DataSource ds = new DataSource();
-    	                	ds.setName(name);
+    	                	ds.setName(name + " " + c);
     	                	ds.setUrl(url);
     	                	ds.setAction(action);
     	                	ds.setType(type);
-    	                	sourceMap.put(name, ds);
-    	                	c = c + CKANBigSourceRecordReader.LIMIT;
+    	                	sourceMap.put(name + " " + c, ds);
+    	                	c++;
                 			action = document.getString("url") + CKANBigSourceRecordReader.ACTION + total + "&limit=" +CKANBigSourceRecordReader.LIMIT;
                     		count = CKANBigSourceRecordReader.GetCountByCkan(action);
                     		total += count;
