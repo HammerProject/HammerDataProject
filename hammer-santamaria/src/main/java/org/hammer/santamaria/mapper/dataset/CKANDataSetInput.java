@@ -31,6 +31,9 @@ import com.mongodb.util.JSON;
  */
 public class CKANDataSetInput implements DataSetInput {
 
+	/*
+	 * LIMIT per input stream size to 1 MB to prevent heap size problem 
+	 */
 	private static final int LIMIT = 1024*1024;//set to 1MB
 	
 	/**
