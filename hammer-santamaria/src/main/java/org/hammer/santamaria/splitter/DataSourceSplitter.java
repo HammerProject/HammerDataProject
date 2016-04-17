@@ -99,7 +99,8 @@ public class DataSourceSplitter extends MongoSplitter {
                 		int c = 1;
                 		while(count >= CKANBigSourceRecordReader.LIMIT) {
                         	DataSource ds = new DataSource();
-    	                	ds.setName(name + " " + c);
+    	                	//ds.setName(name + " " + c);
+                        	ds.setName(name);
     	                	ds.setUrl(url);
     	                	ds.setAction(action);
     	                	ds.setType(type);

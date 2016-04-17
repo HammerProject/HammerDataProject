@@ -1,5 +1,7 @@
 package org.hammer.santamaria.mapper.dataset;
 
+import java.io.ByteArrayOutputStream;
+import java.io.InputStream;
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
 import java.util.ArrayList;
@@ -29,6 +31,8 @@ import com.mongodb.util.JSON;
  */
 public class CKANDataSetInput implements DataSetInput {
 
+	private static final int LIMIT = 1024*1024;//set to 1MB
+	
 	/**
 	 * Encode URI
 	 * 
@@ -136,7 +140,7 @@ public class CKANDataSetInput implements DataSetInput {
 							dataset.put("created", resource.get("created"));
 							dataset.put("description", resource.get("description"));
 							dataset.put("revision_timestamp", resource.get("revision_timestamp"));
-							meta = this.getMetaByDocument(resource.get("url").toString());
+							meta = GetMetaByDocument(resource.get("url").toString());
 						}
 					}
 				}
@@ -172,7 +176,7 @@ public class CKANDataSetInput implements DataSetInput {
 	 * @param url
 	 * @return
 	 */
-	public ArrayList<String> getMetaByDocument(String url) {
+	public static ArrayList<String> GetMetaByDocument(String url) {
 		ArrayList<String> meta = new ArrayList<String>();
 		HttpClient client = new HttpClient();
 		client.getHttpConnectionManager().getParams().setConnectionTimeout(3000);
@@ -188,7 +192,34 @@ public class CKANDataSetInput implements DataSetInput {
 			if (statusCode != HttpStatus.SC_OK) {
 				throw new Exception("Method failed: " + method.getStatusLine());
 			}
-			byte[] responseBody = method.getResponseBody();
+			
+			  // Read the response body.
+		      //byte[] responseBody = method.getResponseBody();
+		      byte[] responseBody = null;    
+		      InputStream instream = method.getResponseBodyAsStream();
+		      if (instream != null) {
+		          long contentLength = method.getResponseContentLength();
+		          if (contentLength < Integer.MAX_VALUE) { //guard below cast from overflow
+		              ByteArrayOutputStream outstream = new ByteArrayOutputStream();
+		              byte[] buffer = new byte[1024];
+		              int len;
+		              int total = 0;
+		              while ((len = instream.read(buffer)) > 0 && total<LIMIT) {
+		                  outstream.write(buffer, 0, len);
+		                  total+= len;
+		              }
+		              responseBody = outstream.toByteArray();
+		              outstream.close();
+		              
+		              //EntityUtils.consume(instream);
+		              method.abort();
+		              try {
+		              instream.close();
+		              } catch (Exception ex) {
+		            	  LOG.error(ex);
+		              }
+		          }
+		      }
 
 			if ((JSON.parse(new String(responseBody))) instanceof BasicBSONList) {
 				BasicBSONList pList = (BasicBSONList) JSON.parse(new String(responseBody));
@@ -225,7 +256,7 @@ public class CKANDataSetInput implements DataSetInput {
 		HttpClient client = new HttpClient();
 		BSONObject dataset = new BasicBSONObject();
 		client.getHttpConnectionManager().getParams().setParameter(ClientPNames.HANDLE_REDIRECTS, false);		
-		GetMethod method = new GetMethod("http://www.dati.gov.it/api/3/action/package_show?id=citta-metropolitana-di-firenze_6948bd88-cc7c-47f5-b019-01a7291abf5b");
+		GetMethod method = new GetMethod("http://www.dati.gov.it/api/3/action/package_show?id=regione-lombardia_ywm2-vqgc");
 		
 		method.setRequestHeader("User-Agent", "Hammer Project - SantaMaria crawler");
 		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - SantaMaria crawler");
@@ -280,7 +311,7 @@ public class CKANDataSetInput implements DataSetInput {
 							dataset.put("created", resource.get("created"));
 							dataset.put("description", resource.get("description"));
 							dataset.put("revision_timestamp", resource.get("revision_timestamp"));
-							//meta = this.getMetaByDocument(resource.get("url").toString());
+							meta = GetMetaByDocument(resource.get("url").toString());
 						}
 					}
 				}
