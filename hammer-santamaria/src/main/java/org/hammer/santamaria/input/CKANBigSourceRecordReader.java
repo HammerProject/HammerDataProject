@@ -27,7 +27,7 @@ import org.hammer.santamaria.splitter.DataSourceSplit;
  */
 public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
 
-	public static final int LIMIT = 50;
+	public static final int LIMIT = 100;
 	
 	public static final String ACTION = "/package_list?offset=";
 	

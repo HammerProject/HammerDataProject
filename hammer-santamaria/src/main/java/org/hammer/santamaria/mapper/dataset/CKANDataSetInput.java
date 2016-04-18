@@ -204,11 +204,13 @@ public class CKANDataSetInput implements DataSetInput {
 		          long contentLength = method.getResponseContentLength();
 		          if (contentLength < Integer.MAX_VALUE) { //guard below cast from overflow
 		              ByteArrayOutputStream outstream = new ByteArrayOutputStream();
-		              byte[] buffer = new byte[1024];
+		              byte[] buffer =  new byte[1024];
 		              int len;
 		              int total = 0;
-		              while ((len = instream.read(buffer)) > 0 && total<LIMIT) {
-		                  outstream.write(buffer, 0, len);
+		              
+		              while ((len = instream.read(buffer)) > 0 && total<LIMIT ) {
+		                  
+		            	  outstream.write(buffer, 0, len);
 		                  total+= len;
 		              }
 		              responseBody = outstream.toByteArray();
@@ -259,7 +261,10 @@ public class CKANDataSetInput implements DataSetInput {
 		HttpClient client = new HttpClient();
 		BSONObject dataset = new BasicBSONObject();
 		client.getHttpConnectionManager().getParams().setParameter(ClientPNames.HANDLE_REDIRECTS, false);		
-		GetMethod method = new GetMethod("http://www.dati.gov.it/api/3/action/package_show?id=regione-lombardia_ywm2-vqgc");
+		GetMethod method = new GetMethod("http://dati.opendataground.it/comunealbanolaziale/893.json");
+		
+		//http://dati.opendataground.it/comunealbanolaziale/893.json
+		//http://www.dati.gov.it/api/3/action/package_show?id=regione-lombardia_ywm2-vqgc
 		
 		method.setRequestHeader("User-Agent", "Hammer Project - SantaMaria crawler");
 		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - SantaMaria crawler");

@@ -55,7 +55,7 @@ public class DataSourceSplitter extends MongoSplitter {
         for (String key : dataSource.keySet()) {
         	System.out.println("---> found " + key + " - " + dataSource.get(key).getUrl() + key + " - " + dataSource.get(key).getType());
         	DataSourceSplit dsSplit = new DataSourceSplit();
-        	dsSplit.setName(key);
+        	dsSplit.setName(dataSource.get(key).getName());
         	dsSplit.setUrl(dataSource.get(key).getUrl());
         	dsSplit.setAction(dataSource.get(key).getAction());
         	dsSplit.setType(dataSource.get(key).getType());
