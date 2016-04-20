@@ -43,5 +43,5 @@ db.datasource.insert(
 );
 
 db.datasource.insert(
-{ "name" : "OPEN DATA MATERA", "url" : "http://dati.comune.matera.it/api/action", "action" : "http://dati.comune.matera.it/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
+{ "name" : "OPEN DATA MATERA", "url" : "http://dati.comune.matera.it/api/action", "action" : "http://dati.comune.matera.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
 );
