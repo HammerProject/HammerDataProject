@@ -11,6 +11,7 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.bson.BSONObject;
 import org.bson.types.BasicBSONList;
+import org.hammer.santamaria.mapper.dataset.utils.DSSUtils;
 
 import com.mongodb.BasicDBObject;
 import com.mongodb.util.JSON;
@@ -69,6 +70,10 @@ public class SocrataDataSetInput implements DataSetInput {
 
 			}
 			
+			if(dataset.keySet().contains("author")) meta.add(dataset.get("author").toString());
+			if(dataset.keySet().contains("title")) meta.addAll(DSSUtils.GetKeyWordsFromText(dataset.get("title").toString()));
+			if(dataset.keySet().contains("description")) meta.addAll(DSSUtils.GetKeyWordsFromText(dataset.get("description").toString()));
+
 			dataset.put("meta", meta);
 
 		} catch (Exception e) {

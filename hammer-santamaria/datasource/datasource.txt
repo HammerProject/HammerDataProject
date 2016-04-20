@@ -41,3 +41,7 @@ db.datasource.insert(
 db.datasource.insert(
 { "name" : "open-data.europa.eu", "url" : "http://open-data.europa.eu/data/api/action", "action" : "http://open-data.europa.eu/data/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
 );
+
+db.datasource.insert(
+{ "name" : "OPEN DATA MATERA", "url" : "http://dati.comune.matera.it/api/action", "action" : "http://dati.comune.matera.it/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
+);

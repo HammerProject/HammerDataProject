@@ -13,6 +13,7 @@ import org.bson.BSONObject;
 import org.bson.BasicBSONObject;
 import org.bson.Document;
 import org.bson.types.BasicBSONList;
+import org.hammer.santamaria.mapper.dataset.utils.DSSUtils;
 
 import com.mongodb.BasicDBObject;
 import com.mongodb.util.JSON;
@@ -69,7 +70,12 @@ public class INPSDataSetInput implements DataSetInput {
 					dataset.put("url", resource.get("url"));
 					dataset.put("created", resource.get("created"));
 					dataset.put("revision_timestamp", resource.get("last_modified"));
+
 					meta = this.getMetaByDocument(resource.get("url").toString());
+					if(doc.containsKey("author")) meta.add(doc.get("author").toString());
+					if(doc.containsKey("title")) meta.addAll(DSSUtils.GetKeyWordsFromText(doc.get("title").toString()));
+					if(doc.containsKey("description")) meta.addAll(DSSUtils.GetKeyWordsFromText(doc.get("description").toString()));
+
 				}
 			}
 			
