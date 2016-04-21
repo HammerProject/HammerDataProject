@@ -64,4 +64,10 @@ db.datasource.insert(
 { "name" : "dati.umbria.it", "url" : "http://dati.umbria.it/api/action", "action" : "http://dati.umbria.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
 );
 
+db.datasource.insert(
+{ "name" : "dati.piemonte.it", "url" : "http://www.dati.piemonte.it/rpapisrv/api/rest", "action" : "http://www.dati.piemonte.it/rpapisrv/api/rest/package", "type" : "org.hammer.santamaria.input.CKAN2SourceRecordReader" }
+);
 
+db.datasource.insert(
+{ "name" : "dati.emilia-romagna.it", "url" : "http://lod.dati.emilia-romagna.it:8080/odapisrv/api/rest", "action" : "http://lod.dati.emilia-romagna.it:8080/odapisrv/api/rest", "type" : "org.hammer.santamaria.input.CKAN2SourceRecordReader" }
+);

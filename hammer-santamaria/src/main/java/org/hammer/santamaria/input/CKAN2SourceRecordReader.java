@@ -106,7 +106,7 @@ public class CKAN2SourceRecordReader extends BaseDataSourceRecordReader {
 	private void getPackageList() {
 		HttpClient client = new HttpClient();
 		LOG.info(split.getAction());
-		GetMethod method = new GetMethod(split.getAction());
+		GetMethod method = new GetMethod(split.getAction() + ACTION);
 		method.getParams().setParameter(HttpMethodParams.RETRY_HANDLER, new DefaultHttpMethodRetryHandler(3, false));
 				
 		method.setRequestHeader("User-Agent", "Hammer Project - SantaMaria crawler");
