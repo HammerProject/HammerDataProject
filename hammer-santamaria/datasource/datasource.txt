@@ -6,35 +6,35 @@ db.createCollection("datasource");
 db.datasource.remove({});
 
 db.datasource.insert(
-{  "name" : "OPEN DATA TOSCANA - ITALIA", "url" : "http://dati.toscana.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader", "action" : "http://dati.toscana.it/api/action" });
+{  "name" : "dati.toscana.it", "url" : "http://dati.toscana.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader", "action" : "http://dati.toscana.it/api/action" });
 
 db.datasource.insert(
-{ "name" : "OPEN DATA COMUNE DI FIRENZE - ITALIA", "url" : "http://annuario.comune.fi.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader","action" : "http://annuario.comune.fi.it/api/action" });
+{ "name" : "annuario.comune.fi.it", "url" : "http://annuario.comune.fi.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader","action" : "http://annuario.comune.fi.it/api/action" });
 
 db.datasource.insert(
-{ "name" : "OPEN DATA COMUNE DI MATERA - ITALIA", "url" : "http://dati.comune.matera.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader", "action" : "http://dati.comune.matera.it/api/action" });
+{ "name" : "dati.comune.matera.it", "url" : "http://dati.comune.matera.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader", "action" : "http://dati.comune.matera.it/api/action" });
 
 db.datasource.insert(
-{ "name" : "REGIONE LOMBARDIA", "url" : "https://www.dati.lombardia.it/resource/425r-pyq4.json", "type" : "org.hammer.santamaria.input.SocrataSourceRecordReader" , "action" : "https://www.dati.lombardia.it/resource/425r-pyq4.json"});
+{ "name" : "dati.lombardia.it", "url" : "https://www.dati.lombardia.it/resource/425r-pyq4.json", "type" : "org.hammer.santamaria.input.SocrataSourceRecordReader" , "action" : "https://www.dati.lombardia.it/resource/425r-pyq4.json"});
 
 db.datasource.insert(
-{ "name" : "OPEN DATA BARI - ITALIA", "url" : "http://opendata.comune.bari.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" , "action" : "http://opendata.comune.bari.it/api/action"});
+{ "name" : "opendata.comune.bari.it", "url" : "http://opendata.comune.bari.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" , "action" : "http://opendata.comune.bari.it/api/action"});
 
 db.datasource.insert(
-{ "name" : "OPEN DATA LAZIO - ITALIA", "url" : "http://dati.lazio.it/catalog/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader",  "action" : "http://dati.lazio.it/catalog/api/action" });
+{ "name" : "dati.lazio.it", "url" : "http://dati.lazio.it/catalog/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader",  "action" : "http://dati.lazio.it/catalog/api/action" });
 
 db.datasource.insert(
-{ "name" : "EXPO 2015", "url" : "http://dati.openexpo2015.it/catalog/api/3/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader", "action" : "http://dati.openexpo2015.it/catalog/api/3/action" });
+{ "name" : "dati.openexpo2015.it", "url" : "http://dati.openexpo2015.it/catalog/api/3/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader", "action" : "http://dati.openexpo2015.it/catalog/api/3/action" });
 
 db.datasource.insert(
-{ "name" : "INPS OPEN DATA", "url" : "https://serviziweb2.inps.it/odapi/catalog", "type" : "org.hammer.santamaria.input.INPSSourceRecordReader" , "action" : "https://serviziweb2.inps.it/odapi/catalog"});
+{ "name" : "serviziweb2.inps.it", "url" : "https://serviziweb2.inps.it/odapi/catalog", "type" : "org.hammer.santamaria.input.INPSSourceRecordReader" , "action" : "https://serviziweb2.inps.it/odapi/catalog"});
 
 db.datasource.insert(
-{ "name" : "OPEN DATA ITALIA", "url" : "http://www.dati.gov.it/api/3/action", "action" : "http://www.dati.gov.it/api/3/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
+{ "name" : "dati.gov.it", "url" : "http://www.dati.gov.it/api/3/action", "action" : "http://www.dati.gov.it/api/3/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
 );
 
 db.datasource.insert(
-{ "name" : "OPEN DATA TRENTINO", "url" : "http://dati.trentino.it/api/action", "action" : "http://dati.trentino.it/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
+{ "name" : "dati.trentino.it", "url" : "http://dati.trentino.it/api/action", "action" : "http://dati.trentino.it/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
 );
 
 
@@ -42,14 +42,16 @@ db.datasource.insert(
 { "name" : "open-data.europa.eu", "url" : "http://open-data.europa.eu/data/api/action", "action" : "http://open-data.europa.eu/data/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
 );
 
+
 db.datasource.insert(
-{ "name" : "OPEN DATA MATERA", "url" : "http://dati.comune.matera.it/api/action", "action" : "http://dati.comune.matera.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
+{ "name" : "dati.veneto.it", "url" : "http://dati.veneto.it/api/action", "action" : "http://dati.veneto.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
 );
 
 db.datasource.insert(
-{ "name" : "OPEN DATA VENETO", "url" : "http://dati.veneto.it/api/action", "action" : "http://dati.veneto.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
+{ "name" : "dati.retecivica.bz.it", "url" : "http://dati.retecivica.bz.it/api/action", "action" : "http://dati.retecivica.bz.it/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
 );
 
 db.datasource.insert(
-{ "name" : "Open Data Portal Bozen", "url" : "http://dati.retecivica.bz.it/api/action", "action" : "http://dati.retecivica.bz.it/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
+{ "name" : "dati.regione.basilicata.it", "url" : "http://dati.regione.basilicata.it/catalog/api/action", "action" : "http://dati.regione.basilicata.it/catalog/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
 );
+
