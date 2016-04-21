@@ -52,6 +52,16 @@ db.datasource.insert(
 );
 
 db.datasource.insert(
-{ "name" : "dati.regione.basilicata.it", "url" : "http://dati.regione.basilicata.it/catalog/api/action", "action" : "http://dati.regione.basilicata.it/catalog/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
+{ "name" : "dati.regione.basilicata.it", "url" : "http://dati.regione.basilicata.it/catalog/api/action", "action" : "http://dati.regione.basilicata.it/catalog/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
 );
+
+
+db.datasource.insert(
+{ "name" : "dati.regione.basilicata.it", "url" : "http://dati.regione.basilicata.it/catalog/api/action", "action" : "http://dati.regione.basilicata.it/catalog/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
+);
+
+db.datasource.insert(
+{ "name" : "dati.umbria.it", "url" : "http://dati.umbria.it/api/action", "action" : "http://dati.umbria.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
+);
+
 
