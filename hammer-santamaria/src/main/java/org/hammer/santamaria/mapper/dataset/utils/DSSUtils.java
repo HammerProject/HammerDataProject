@@ -43,13 +43,14 @@ public class DSSUtils {
 			return myKeys;
 		}
 		StringTokenizer st = new StringTokenizer(text, " ");
+		
 		while (st.hasMoreElements()) {
 			String tW = st.nextToken();
-			StringTokenizer st1 = new StringTokenizer(tW, "-");
+			StringTokenizer st1 = new StringTokenizer(tW, "-.,!_");
 			while (st1.hasMoreElements()) {
 				String word = st1.nextToken();
 				if(word.length() >= 3) {
-					myKeys.add(word);
+					myKeys.add(word.toLowerCase());
 				}
 			}
 		}
