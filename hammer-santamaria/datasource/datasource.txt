@@ -76,3 +76,6 @@ db.datasource.insert(
 { "name" : "dati.mit.gov.it", "url" : "http://dati.mit.gov.it/catalog/api/action", "action" : "http://dati.mit.gov.it/catalog/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
 );
 
+db.datasource.insert(
+{ "name" : "dati.comune.lecce.it", "url" : "http://dati.comune.lecce.it/api/action", "action" : "http://dati.comune.lecce.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
+);
