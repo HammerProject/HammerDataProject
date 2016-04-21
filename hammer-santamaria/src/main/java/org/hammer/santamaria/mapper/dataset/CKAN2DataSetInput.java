@@ -258,10 +258,37 @@ public class CKAN2DataSetInput implements DataSetInput {
 	}
 
 	public static void main(String[] pArgs) throws Exception {
-		CKAN2DataSetInput test = new CKAN2DataSetInput();
-		BSONObject temp = test.getDataSet("http://www.dati.piemonte.it/rpapisrv/api/rest", "dati.piemonte.it",
-				"www.dati.piemonte.it-1083", new BasicBSONObject());
-		temp.toString();
+		//CKAN2DataSetInput test = new CKAN2DataSetInput();
+		//BSONObject temp = test.getDataSet("http://www.dati.piemonte.it/rpapisrv/api/rest", "dati.piemonte.it",
+		//		"www.dati.piemonte.it-1083", new BasicBSONObject());
+		//temp.toString();
+		
+		
+		
+		HttpClient client = new HttpClient();
+		GetMethod method = new GetMethod("http://www.dati.piemonte.it/rpapisrv/api/rest/package");
+		method.getParams().setParameter(HttpMethodParams.RETRY_HANDLER, new DefaultHttpMethodRetryHandler(3, false));
+				
+		method.setRequestHeader("User-Agent", "Hammer Project - SantaMaria crawler");
+		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - SantaMaria crawler");
+		
+		try {
+			int statusCode = client.executeMethod(method);
+			
+			if (statusCode != HttpStatus.SC_OK) {
+				throw new Exception("Method failed: " + method.getStatusLine());
+			}
+			byte[] responseBody = method.getResponseBody();
+			LOG.debug(new String(responseBody));
+
+			//BasicDBList docs = (BasicDBList) JSON.parse(new String(responseBody));
+			
+		} catch (Exception e) {
+			LOG.error(e);
+			e.printStackTrace();
+		} finally {
+			method.releaseConnection();
+		}
 	}
 
 }

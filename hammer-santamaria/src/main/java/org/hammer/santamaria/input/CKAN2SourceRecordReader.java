@@ -14,9 +14,11 @@ import org.apache.hadoop.mapreduce.InputSplit;
 import org.apache.hadoop.mapreduce.TaskAttemptContext;
 import org.bson.BSONObject;
 import org.bson.BasicBSONObject;
-import org.bson.Document;
 import org.hammer.santamaria.splitter.BaseDataSourceRecordReader;
 import org.hammer.santamaria.splitter.DataSourceSplit;
+
+import com.mongodb.BasicDBList;
+import com.mongodb.util.JSON;
 
 /**
  * CKAN record reader
@@ -100,13 +102,12 @@ public class CKAN2SourceRecordReader extends BaseDataSourceRecordReader {
 	/**
 	 * Get data set from CKAN repository
 	 * 
-	 * 4 Big Source --> Direct Link
+	 * PIEMONE ED EMILIA ROMAGNA
 	 */
-	@SuppressWarnings("unchecked")
 	private void getPackageList() {
 		HttpClient client = new HttpClient();
 		LOG.info(split.getAction());
-		GetMethod method = new GetMethod(split.getAction() + ACTION);
+		GetMethod method = new GetMethod(split.getAction());
 		method.getParams().setParameter(HttpMethodParams.RETRY_HANDLER, new DefaultHttpMethodRetryHandler(3, false));
 				
 		method.setRequestHeader("User-Agent", "Hammer Project - SantaMaria crawler");
@@ -122,14 +123,13 @@ public class CKAN2SourceRecordReader extends BaseDataSourceRecordReader {
 			LOG.debug(new String(responseBody));
 			setOutput(new String(responseBody));
 
-			Document doc = Document.parse(getOutput());
-			if (doc.containsKey("result")) {
-				this.dataset.addAll((ArrayList<String>) doc.get("result")) ;
-				for (String k : this.dataset) {
-					LOG.debug("Document: " + k);
-				}
-				LOG.info("SANTA MARIA CKAN RECORD READER found" + this.dataset.size());
+			BasicDBList docs = (BasicDBList) JSON.parse(new String(responseBody));
+			for (Object doc : docs) {
+
+				dataset.add(doc.toString());
+
 			}
+			LOG.info("SANTA MARIA CKAN2 (PIEMONTE-EMILIA ROMAGNA) RECORD READER found" + this.dataset.size());
 		} catch (Exception e) {
 			LOG.error(e);
 		} finally {
