@@ -60,29 +60,25 @@ public class INPSDataSetInput implements DataSetInput {
 
 			ArrayList<String> tags = new ArrayList<String>();
 			ArrayList<String> meta = new ArrayList<String>();
+			if(doc.containsKey("author")) meta.add(doc.get("author").toString());
+			if(doc.containsKey("title")) meta.addAll(DSSUtils.GetKeyWordsFromText(doc.get("name").toString()));
+			if(doc.containsKey("notes")) meta.addAll(DSSUtils.GetKeyWordsFromText(doc.get("notes").toString()));
 
-			boolean findJSON = false;
 			ArrayList<Document> resources = (ArrayList<Document>) doc.get("resources");
 			for (Document resource : resources) {
 				if (resource.getString("format").toUpperCase().equals("JSON")) {
-					findJSON = true;
 					dataset.put("dataset-type", "JSON");
 					dataset.put("url", resource.get("url"));
 					dataset.put("created", resource.get("created"));
 					dataset.put("revision_timestamp", resource.get("last_modified"));
 
 					meta = this.getMetaByDocument(resource.get("url").toString());
-					if(doc.containsKey("author")) meta.add(doc.get("author").toString());
-					if(doc.containsKey("title")) meta.addAll(DSSUtils.GetKeyWordsFromText(doc.get("title").toString()));
-					if(doc.containsKey("description")) meta.addAll(DSSUtils.GetKeyWordsFromText(doc.get("description").toString()));
 
 				}
 			}
 			
-			if(findJSON) {
-				tags = (ArrayList<String>) doc.get("tags");
+			tags = (ArrayList<String>) doc.get("tags");
 			
-			}
 			dataset.put("tags", tags);
 			dataset.put("meta", meta);
 			

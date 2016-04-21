@@ -71,3 +71,8 @@ db.datasource.insert(
 db.datasource.insert(
 { "name" : "dati.emilia-romagna.it", "url" : "http://lod.dati.emilia-romagna.it:8080/odapisrv/api/rest", "action" : "http://lod.dati.emilia-romagna.it:8080/odapisrv/api/rest/package", "type" : "org.hammer.santamaria.input.CKAN2SourceRecordReader" }
 );
+
+db.datasource.insert(
+{ "name" : "dati.mit.gov.it", "url" : "http://dati.mit.gov.it/catalog/api/action", "action" : "http://dati.mit.gov.it/catalog/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
+);
+

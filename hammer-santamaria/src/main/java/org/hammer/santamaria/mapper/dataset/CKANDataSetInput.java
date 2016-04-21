@@ -104,11 +104,6 @@ public class CKANDataSetInput implements DataSetInput {
 			LOG.debug(new String(responseBody));
 			Document doc = Document.parse(new String(responseBody));
 
-			/*
-			 * TODO CHECK VERSIONE CKAN
-			 * 
-			 * 
-			 */
 			if (doc != null && doc.containsKey("result")) {
 				Document result = new Document();
 				LOG.info(doc.get("result").getClass().toString());
@@ -131,29 +126,28 @@ public class CKANDataSetInput implements DataSetInput {
 					dataset.put("license_id", result.get("license_id"));
 				}
 
-				boolean findJSON = false;
 				ArrayList<String> tags = new ArrayList<String>();
 				ArrayList<String> meta = new ArrayList<String>();
+				if(result.containsKey("author")) meta.add(result.get("author").toString());
+				if(result.containsKey("title")) meta.addAll(DSSUtils.GetKeyWordsFromText(result.get("title").toString()));
+				if(result.containsKey("description")) meta.addAll(DSSUtils.GetKeyWordsFromText(result.get("description").toString()));
+
 
 				if (result != null && result.containsKey("resources")) {
 					ArrayList<Document> resources = (ArrayList<Document>) result.get("resources");
 					for (Document resource : resources) {
 						if (resource.getString("format").toUpperCase().equals("JSON")) {
-							findJSON = true;
 							dataset.put("dataset-type", "JSON");
 							dataset.put("url", resource.get("url"));
 							dataset.put("created", resource.get("created"));
 							dataset.put("description", resource.get("description"));
 							dataset.put("revision_timestamp", resource.get("revision_timestamp"));
 							meta = GetMetaByDocument(resource.get("url").toString());
-							if(result.containsKey("author")) meta.add(result.get("author").toString());
-							if(result.containsKey("title")) meta.addAll(DSSUtils.GetKeyWordsFromText(result.get("title").toString()));
-							if(result.containsKey("description")) meta.addAll(DSSUtils.GetKeyWordsFromText(result.get("description").toString()));
 						}
 					}
 				}
 
-				if (findJSON && result != null && result.containsKey("tags")) {
+				if (result != null && result.containsKey("tags")) {
 					ArrayList<Document> tagsFromCKAN = (ArrayList<Document>) result.get("tags");
 					for (Document tag : tagsFromCKAN) {
 						if (tag.containsKey("state") && tag.getString("state").toUpperCase().equals("ACTIVE")) {

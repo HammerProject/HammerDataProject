@@ -104,32 +104,31 @@ public class CKAN2DataSetInput implements DataSetInput {
 				dataset.put("license_id", result.get("license"));
 			}
 
-			boolean findJSON = false;
 			ArrayList<String> tags = new ArrayList<String>();
 			ArrayList<String> meta = new ArrayList<String>();
+			if (result.containsKey("author"))
+				meta.add(result.get("author").toString());
+			if (result.containsKey("title"))
+				meta.addAll(DSSUtils.GetKeyWordsFromText(result.get("title").toString()));
+			if (result.containsKey("description"))
+				meta.addAll(DSSUtils.GetKeyWordsFromText(result.get("description").toString()));
+
 
 			if (result != null && result.containsKey("resources")) {
 				ArrayList<Document> resources = (ArrayList<Document>) result.get("resources");
 				for (Document resource : resources) {
 					if (resource.getString("format").toUpperCase().equals("JSON")) {
-						findJSON = true;
 						dataset.put("dataset-type", "JSON");
 						dataset.put("url", resource.get("url"));
 						dataset.put("created", resource.get("created"));
 						dataset.put("description", resource.get("description"));
 						dataset.put("revision_timestamp", resource.get("revision_timestamp"));
 						meta = GetMetaByDocument(resource.get("url").toString());
-						if (result.containsKey("author"))
-							meta.add(result.get("author").toString());
-						if (result.containsKey("title"))
-							meta.addAll(DSSUtils.GetKeyWordsFromText(result.get("title").toString()));
-						if (result.containsKey("description"))
-							meta.addAll(DSSUtils.GetKeyWordsFromText(result.get("description").toString()));
 					}
 				}
 			}
 
-			if (findJSON && result != null && result.containsKey("tags")) {
+			if (result != null && result.containsKey("tags")) {
 				ArrayList<Document> tagsFromCKAN = (ArrayList<Document>) result.get("tags");
 				for (Document tag : tagsFromCKAN) {
 					if (tag.containsKey("state") && tag.getString("state").toUpperCase().equals("ACTIVE")) {
@@ -257,38 +256,5 @@ public class CKAN2DataSetInput implements DataSetInput {
 		return meta;
 	}
 
-	public static void main(String[] pArgs) throws Exception {
-		//CKAN2DataSetInput test = new CKAN2DataSetInput();
-		//BSONObject temp = test.getDataSet("http://www.dati.piemonte.it/rpapisrv/api/rest", "dati.piemonte.it",
-		//		"www.dati.piemonte.it-1083", new BasicBSONObject());
-		//temp.toString();
-		
-		
-		
-		HttpClient client = new HttpClient();
-		GetMethod method = new GetMethod("http://www.dati.piemonte.it/rpapisrv/api/rest/package");
-		method.getParams().setParameter(HttpMethodParams.RETRY_HANDLER, new DefaultHttpMethodRetryHandler(3, false));
-				
-		method.setRequestHeader("User-Agent", "Hammer Project - SantaMaria crawler");
-		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - SantaMaria crawler");
-		
-		try {
-			int statusCode = client.executeMethod(method);
-			
-			if (statusCode != HttpStatus.SC_OK) {
-				throw new Exception("Method failed: " + method.getStatusLine());
-			}
-			byte[] responseBody = method.getResponseBody();
-			LOG.debug(new String(responseBody));
-
-			//BasicDBList docs = (BasicDBList) JSON.parse(new String(responseBody));
-			
-		} catch (Exception e) {
-			LOG.error(e);
-			e.printStackTrace();
-		} finally {
-			method.releaseConnection();
-		}
-	}
 
 }
