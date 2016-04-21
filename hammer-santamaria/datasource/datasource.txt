@@ -49,3 +49,7 @@ db.datasource.insert(
 db.datasource.insert(
 { "name" : "OPEN DATA VENETO", "url" : "http://dati.veneto.it/api/action", "action" : "http://dati.veneto.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
 );
+
+db.datasource.insert(
+{ "name" : "Open Data Portal Bozen", "url" : "http://dati.retecivica.bz.it/api/action", "action" : "http://dati.retecivica.bz.it/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
+);
