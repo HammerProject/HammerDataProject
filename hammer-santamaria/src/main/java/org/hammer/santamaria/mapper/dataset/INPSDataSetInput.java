@@ -60,9 +60,11 @@ public class INPSDataSetInput implements DataSetInput {
 
 			ArrayList<String> tags = new ArrayList<String>();
 			ArrayList<String> meta = new ArrayList<String>();
-			if(doc.containsKey("author")) meta.add(doc.get("author").toString());
-			if(doc.containsKey("title")) meta.addAll(DSSUtils.GetKeyWordsFromText(doc.get("name").toString()));
-			if(doc.containsKey("notes")) meta.addAll(DSSUtils.GetKeyWordsFromText(doc.get("notes").toString()));
+			ArrayList<String> other_tags = new ArrayList<String>();
+			
+			if(doc.containsKey("author")) other_tags.add(doc.get("author").toString());
+			if(doc.containsKey("title")) other_tags.addAll(DSSUtils.GetKeyWordsFromText(doc.get("name").toString()));
+			if(doc.containsKey("notes")) other_tags.addAll(DSSUtils.GetKeyWordsFromText(doc.get("notes").toString()));
 
 			ArrayList<Document> resources = (ArrayList<Document>) doc.get("resources");
 			for (Document resource : resources) {
@@ -81,6 +83,8 @@ public class INPSDataSetInput implements DataSetInput {
 			
 			dataset.put("tags", tags);
 			dataset.put("meta", meta);
+			dataset.put("resources", resources);
+			dataset.put("other_tags", other_tags);
 			
 		} catch (Exception e) {
 			LOG.error(e);

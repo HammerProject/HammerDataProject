@@ -49,6 +49,7 @@ public class SocrataDataSetInput implements DataSetInput {
 			}
 			byte[] responseBody = method.getResponseBody();
 			ArrayList<String> meta = new ArrayList<String>();
+			ArrayList<String> other_tags = new ArrayList<String>();
 
 			if ((JSON.parse(new String(responseBody))) instanceof BasicBSONList) {
 				BasicBSONList pList = (BasicBSONList) JSON.parse(new String(responseBody));
@@ -70,11 +71,12 @@ public class SocrataDataSetInput implements DataSetInput {
 
 			}
 			
-			if(dataset.keySet().contains("author")) meta.add(dataset.get("author").toString());
-			if(dataset.keySet().contains("title")) meta.addAll(DSSUtils.GetKeyWordsFromText(dataset.get("title").toString()));
-			if(dataset.keySet().contains("description")) meta.addAll(DSSUtils.GetKeyWordsFromText(dataset.get("description").toString()));
+			if(dataset.keySet().contains("author")) other_tags.add(dataset.get("author").toString());
+			if(dataset.keySet().contains("title")) other_tags.addAll(DSSUtils.GetKeyWordsFromText(dataset.get("title").toString()));
+			if(dataset.keySet().contains("description")) other_tags.addAll(DSSUtils.GetKeyWordsFromText(dataset.get("description").toString()));
 
 			dataset.put("meta", meta);
+			dataset.put("other_tags", other_tags);
 
 		} catch (Exception e) {
 			LOG.error(e);

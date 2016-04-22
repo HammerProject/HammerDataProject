@@ -106,16 +106,18 @@ public class CKAN2DataSetInput implements DataSetInput {
 
 			ArrayList<String> tags = new ArrayList<String>();
 			ArrayList<String> meta = new ArrayList<String>();
+			ArrayList<String> other_tags = new ArrayList<String>();
+			
 			if (result.containsKey("author"))
-				meta.add(result.get("author").toString());
+				other_tags.add(result.get("author").toString());
 			if (result.containsKey("title"))
-				meta.addAll(DSSUtils.GetKeyWordsFromText(result.get("title").toString()));
+				other_tags.addAll(DSSUtils.GetKeyWordsFromText(result.get("title").toString()));
 			if (result.containsKey("description"))
-				meta.addAll(DSSUtils.GetKeyWordsFromText(result.get("description").toString()));
+				other_tags.addAll(DSSUtils.GetKeyWordsFromText(result.get("description").toString()));
 
-
+			ArrayList<Document> resources = new ArrayList<Document>();
 			if (result != null && result.containsKey("resources")) {
-				ArrayList<Document> resources = (ArrayList<Document>) result.get("resources");
+				resources = (ArrayList<Document>) result.get("resources");
 				for (Document resource : resources) {
 					if (resource.getString("format").toUpperCase().equals("JSON")) {
 						dataset.put("dataset-type", "JSON");
@@ -142,6 +144,8 @@ public class CKAN2DataSetInput implements DataSetInput {
 
 			dataset.put("tags", tags);
 			dataset.put("meta", meta);
+			dataset.put("resources", resources);
+			dataset.put("other_tags", other_tags);
 
 		} catch (Exception e) {
 			e.printStackTrace();
