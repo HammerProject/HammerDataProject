@@ -14,27 +14,29 @@ import org.apache.hadoop.mapreduce.InputSplit;
 import org.apache.hadoop.mapreduce.TaskAttemptContext;
 import org.bson.BSONObject;
 import org.bson.BasicBSONObject;
-import org.bson.Document;
 import org.hammer.santamaria.splitter.BaseDataSourceRecordReader;
 import org.hammer.santamaria.splitter.DataSourceSplit;
 
+import com.mongodb.BasicDBList;
+import com.mongodb.util.JSON;
+
 /**
- * CKAN record reader (4 big source)
+ * Stat Portal
+ * Version for Unione Comuni Valle di Sabio (Cesena, ..)
  * 
  * @author mauro.pelucchi@gmail.com
  * @project Hammer Project -Santa Maria
  *
  */
-public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
+public class StatPortalSourceRecordReader extends BaseDataSourceRecordReader {
 
-	public static final int LIMIT = 100;
 	
-	public static final String ACTION = "/package_list?offset=";
+	public static final String ACTION = "/dataset";
 	
-	private static final Log LOG = LogFactory.getLog(CKANBigSourceRecordReader.class);
+	private static final Log LOG = LogFactory.getLog(StatPortalSourceRecordReader.class);
 
 	/**
-	 * Output from CKAN source
+	 * Output from source
 	 */
 	private String output = "";
 
@@ -43,7 +45,7 @@ public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
 	 */
 	private ArrayList<String> dataset = new ArrayList<String>();
 
-	public CKANBigSourceRecordReader(final DataSourceSplit split) {
+	public StatPortalSourceRecordReader(final DataSourceSplit split) {
 		super(split);
 	}
 
@@ -67,7 +69,7 @@ public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
 
 	@Override
 	public void initialize(final InputSplit split, final TaskAttemptContext context) {
-		LOG.info("SANTA MARIA RECORD READER: Get package list from CKAN site (BIG SOURCE Version)");
+		LOG.info("SANTA MARIA RECORD READER: Get package list from STAT PORTAL site");
 		this.total = 0;
 		this.seen = 0;
 		this.dataset = new ArrayList<String>();
@@ -86,8 +88,8 @@ public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
 			this.current.put("datasource", split.getName());
 			this.current.put("dataset", this.dataset.get((int) seen));
 
-			this.current.put("datainput_type", "org.hammer.santamaria.mapper.dataset.CKANDataSetInput");
-			this.current.put("url", split.getUrl());
+			this.current.put("datainput_type", "org.hammer.santamaria.mapper.dataset.CKAN2DataSetInput");
+			this.current.put("url", split.getUrl() + "/" + this.dataset.get((int) seen) );
 			this.current.put("action", split.getAction());
 
 			seen++;
@@ -100,9 +102,8 @@ public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
 	/**
 	 * Get data set from CKAN repository
 	 * 
-	 * 4 Big Source --> Direct Link
+	 * PIEMONE ED EMILIA ROMAGNA
 	 */
-	@SuppressWarnings("unchecked")
 	private void getPackageList() {
 		HttpClient client = new HttpClient();
 		LOG.info(split.getAction());
@@ -122,15 +123,13 @@ public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
 			LOG.debug(new String(responseBody));
 			setOutput(new String(responseBody));
 
-			Document doc = Document.parse(getOutput());
+			BasicDBList docs = (BasicDBList) JSON.parse(new String(responseBody));
+			for (Object doc : docs) {
 
-			if (doc.containsKey("result")) {
-				this.dataset.addAll((ArrayList<String>) doc.get("result")) ;
-				for (String k : this.dataset) {
-					LOG.debug("Document: " + k);
-				}
-				LOG.info("SANTA MARIA CKAN RECORD READER found" + this.dataset.size());
+				dataset.add(doc.toString());
+
 			}
+			LOG.info("SANTA MARIA CKAN2 (PIEMONTE-EMILIA ROMAGNA) RECORD READER found" + this.dataset.size());
 		} catch (Exception e) {
 			LOG.error(e);
 		} finally {
@@ -162,29 +161,4 @@ public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
 	}
 	
 	
-	@SuppressWarnings("unchecked")
-	public static int GetCountByCkan(String url) {
-		int count = 0;
-		HttpClient client = new HttpClient();
-		LOG.info("**** INPUT SPLIT COUNT *** " + url);
-		GetMethod method = new GetMethod(url);
-		method.getParams().setParameter(HttpMethodParams.RETRY_HANDLER, new DefaultHttpMethodRetryHandler(3, false));
-				
-		method.setRequestHeader("User-Agent", "Hammer Project - SantaMaria crawler");
-		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - SantaMaria crawler");
-		
-		try {
-			client.executeMethod(method);
-			byte[] responseBody = method.getResponseBody();
-			Document doc = Document.parse(new String(responseBody));
-			if (doc.containsKey("result")) {
-				count = ((ArrayList<String>) doc.get("result")).size();
-			}
-		} catch (Exception e) {
-			LOG.error(e);
-		} finally {
-			method.releaseConnection();
-		}
-		return count;
-	}
 }
