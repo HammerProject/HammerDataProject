@@ -30,6 +30,7 @@ public class PintaMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 			throws IOException, InterruptedException {
 		LOG.debug("START PINTA MAPPER " + pKey + " --- " + pValue.hashCode());
 		if (pValue != null) {
+			String type = (pValue.keySet().contains("dataset-type")) ? (String) pValue.get("dataset-type")  : "";
 			//map all meta
 			ArrayList<String> meta = new ArrayList<String>();
 			if (pValue.keySet().contains("meta")) {
@@ -39,8 +40,29 @@ public class PintaMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 			if (pValue.keySet().contains("tags")) {
 				tags = (ArrayList<String>) pValue.get("tags");
 			}
+			ArrayList<String> other_tags = new ArrayList<String>();
+			if (pValue.keySet().contains("other_tags")) {
+				tags = (ArrayList<String>) pValue.get("other_tags");
+			}
 
-			int metaCount = ((meta != null) ? meta.size()  : 0 )+ ((tags != null) ? tags.size()  : 0 );
+			int metaCount = ((meta != null) ? meta.size()  : 0 ) + ((tags != null) ? tags.size()  : 0 ) + ((other_tags != null) ? other_tags.size()  : 0 );
+			
+			if (other_tags != null) {
+				for (String keyword :other_tags) {
+					StringTokenizer st = new StringTokenizer(keyword, " ");
+					while (st.hasMoreElements()) {
+						String tW = st.nextToken();
+						StringTokenizer st1 = new StringTokenizer(tW, "-");
+						while (st1.hasMoreElements()) {
+							String word = st1.nextToken();
+							BasicDBObject temp = new BasicDBObject("keyword", word).append("document",
+									pValue.get("document")).append("score", 1 / metaCount).append("dataset-type", type);
+							pContext.write(new Text(word + ""), new BSONWritable(temp));
+						}
+					}
+				}
+			}
+			
 			if (meta != null) {
 				for (String keyword : meta) {
 					StringTokenizer st = new StringTokenizer(keyword, " ");
@@ -50,7 +72,7 @@ public class PintaMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 						while (st1.hasMoreElements()) {
 							String word = st1.nextToken();
 							BasicDBObject temp = new BasicDBObject("keyword", word).append("document",
-									pValue.get("document")).append("score", 1 / metaCount);
+									pValue.get("document")).append("score", 1 / metaCount).append("dataset-type", type);
 							pContext.write(new Text(word + ""), new BSONWritable(temp));
 						}
 					}
@@ -66,7 +88,7 @@ public class PintaMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 						while (st1.hasMoreElements()) {
 							String word = st1.nextToken();
 							BasicDBObject temp = new BasicDBObject("keyword", word).append("document",
-									pValue.get("document")).append("score", 1 / metaCount);
+									pValue.get("document")).append("score", 1 / metaCount).append("dataset-type", type);
 							pContext.write(new Text(word + ""), new BSONWritable(temp));
 						}
 					}
