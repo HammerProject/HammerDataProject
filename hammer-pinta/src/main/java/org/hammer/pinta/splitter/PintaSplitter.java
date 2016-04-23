@@ -85,6 +85,7 @@ public class PintaSplitter extends MongoSplitter {
 					obj.append("tags", document.get("tags"));
 					obj.append("meta", document.get("meta"));
 					obj.append("other_tags", document.get("other_tags"));
+					obj.append("dataset-type", document.get("dataset-type"));
 					setMap.add(obj);
 				}
 			});

@@ -2,6 +2,7 @@ package org.hammer.pinta.mapper;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.StringTokenizer;
 
 import org.apache.commons.logging.Log;
@@ -56,7 +57,7 @@ public class PintaMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 						while (st1.hasMoreElements()) {
 							String word = st1.nextToken();
 							BasicDBObject temp = new BasicDBObject("keyword", word).append("document",
-									pValue.get("document")).append("score", 1 / metaCount).append("dataset-type", type);
+									pValue.get("document")).append("score", 1 / metaCount).append("dataset-type", type).append("update", (new Date()));
 							pContext.write(new Text(word + ""), new BSONWritable(temp));
 						}
 					}
@@ -72,7 +73,7 @@ public class PintaMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 						while (st1.hasMoreElements()) {
 							String word = st1.nextToken();
 							BasicDBObject temp = new BasicDBObject("keyword", word).append("document",
-									pValue.get("document")).append("score", 1 / metaCount).append("dataset-type", type);
+									pValue.get("document")).append("score", 1 / metaCount).append("dataset-type", type).append("last-update", (new Date()));
 							pContext.write(new Text(word + ""), new BSONWritable(temp));
 						}
 					}
@@ -88,7 +89,7 @@ public class PintaMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 						while (st1.hasMoreElements()) {
 							String word = st1.nextToken();
 							BasicDBObject temp = new BasicDBObject("keyword", word).append("document",
-									pValue.get("document")).append("score", 1 / metaCount).append("dataset-type", type);
+									pValue.get("document")).append("score", 1 / metaCount).append("dataset-type", type).append("last-update", (new Date()));
 							pContext.write(new Text(word + ""), new BSONWritable(temp));
 						}
 					}

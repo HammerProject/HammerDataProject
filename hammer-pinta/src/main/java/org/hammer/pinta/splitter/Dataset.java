@@ -1,7 +1,7 @@
 package org.hammer.pinta.splitter;
 
 import java.util.ArrayList;
-
+import java.util.Date;
 
 import com.mongodb.BasicDBObject;
 
@@ -17,7 +17,8 @@ public class Dataset extends BasicDBObject {
 	public static final String META = "meta";
 	public static final String COLLECTION_NAME = "data";
 	public static final String OTHER_TAGS = "other_tags";
-	public static final String DATASET_TYPE = "dataset-type";
+	public static final String DATASETTYPE = "datasettype";
+	public static final String UPDATE = "update";
     
 
 
@@ -30,13 +31,23 @@ public class Dataset extends BasicDBObject {
 		this.put(ID, id);
 	}
 	
+	
+	public Date getUpdate() {
+		return this.getDate(UPDATE);
+	}
+
+
+	public void setUpdate(Date id) {
+		this.put(UPDATE, id);
+	}
+	
 	public String getDatasetType() {
-		return this.getString(DATASET_TYPE);
+		return this.getString(DATASETTYPE);
 	}
 
 
 	public void setDatasetType(String id) {
-		this.put(DATASET_TYPE, id);
+		this.put(DATASETTYPE, id);
 	}
 
 

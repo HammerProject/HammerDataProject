@@ -8,6 +8,7 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
+import org.bson.BSONObject;
 
 import com.mongodb.BasicDBObject;
 import com.mongodb.hadoop.io.BSONWritable;
@@ -30,15 +31,15 @@ public class PintaReducer extends Reducer<Text, BSONWritable, Text, BSONWritable
             throws IOException, InterruptedException{
         
 		LOG.debug("START PINTA REDUCER");
-		ArrayList<String> document = new ArrayList<String>();
+		ArrayList<BSONObject> documents = new ArrayList<BSONObject>();
         for ( final BSONWritable value : pValues ){
-        	document.add(value.getDoc().get("document").toString());
+        	documents.add(value.getDoc());
         }
-        //Configuration conf = pContext.getConfiguration();
+        //(Configuration conf = pContext.getConfiguration();
         
         String keyword = pKey.toString();
 		BasicDBObject obj = new BasicDBObject("keyword", keyword);
-		obj.append("document", document);
+		obj.append("documents", documents);
 		obj.append("last-update", (new Date()));
 		pContext.write( pKey, new BSONWritable(obj));
 		
