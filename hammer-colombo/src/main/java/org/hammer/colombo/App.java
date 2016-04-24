@@ -67,7 +67,7 @@ public class App {
 
 		conf.set("thesaurus.lang", "it_IT");
 		
-		// insert a limit to socrata recordset for memory head problem
+		// insert a limit to socrata recordset for memory heap problem
 		conf.set("socrata.record.limit", "30000");
 		
 		conf.set("mongo.splitter.class", "org.hammer.colombo.splitter.DataSetSplitter");

@@ -130,7 +130,7 @@ public class DataSetSplitter extends MongoSplitter {
 			}
 
 			BasicDBObject searchQuery = new BasicDBObject("$or", or);
-			searchQuery.append("dataset-type", new BasicDBObject("$regex", "JSON"));
+			searchQuery.append("documents.dataset-type", new BasicDBObject("$regex", "JSON"));
 			
 			System.out.println("Colombo gets data set from database..." + searchQuery.toString());
 

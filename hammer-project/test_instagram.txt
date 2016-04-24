@@ -4,3 +4,10 @@
     -F 'redirect_uri=http://www.hammer-project.com' \
     -F 'code=CODE' \
     https://api.instagram.com/oauth/access_token
+    
+    
+  curl -F 'client_id=f6cdfc40a78e4bbcbbed89829d97fa1a' \
+    -F 'client_secret=243c458556d1432fac763f777d988fc5' \
+    -F 'redirect_uri=http://www.hammer-project.com' \
+    -F 'response_type=code' \
+    https://api.instagram.com/oauth/authorize
