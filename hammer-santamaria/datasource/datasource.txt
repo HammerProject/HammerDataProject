@@ -84,3 +84,9 @@ db.datasource.insert(
 { "name" : "dati.arpa.emr.it", "url" : "http://dati.arpa.emr.it/api/action", "action" : "http://dati.arpa.emr.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
 );
 
+db.datasource.insert(
+{ "name" : "dati.regione.sardegna.it", "url" : "http://dati.regione.sardegna.it/api/action", "action" : "http://dati.regione.sardegna.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
+);
+
+
+
