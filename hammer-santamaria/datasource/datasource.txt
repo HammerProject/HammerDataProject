@@ -79,3 +79,8 @@ db.datasource.insert(
 db.datasource.insert(
 { "name" : "dati.comune.lecce.it", "url" : "http://dati.comune.lecce.it/api/action", "action" : "http://dati.comune.lecce.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
 );
+
+db.datasource.insert(
+{ "name" : "dati.arpa.emr.it", "url" : "http://dati.arpa.emr.it/api/action", "action" : "http://dati.arpa.emr.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
+);
+
