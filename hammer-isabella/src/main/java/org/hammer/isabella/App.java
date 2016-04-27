@@ -15,34 +15,20 @@ import org.hammer.isabella.query.QueryGraph;
  *
  */
 public class App {
-	/**
-	 * Test expression
-	 */
-	static String expression[] = {
-			"{\"select\":[\"abitanti\",\"superficie\"],\"from\":[\"comuni\",\"superfici edificatibili\"],\"where\":[{\"label\":\"localita\",\"operator\":\"=\",\"value\":\"carvico\",\"condition\":\"OR\"},{\"label\":\"localita\",\"operator\":\"=\",\"value\":\"calusco d'adda\",\"condition\":\"AND\"}]}",
-			"{\"select\":[\"abitanti\",\"superficie\"],\"from\":[\"comuni\",\"superfici edificatibili\"],\"where\":[]}",
-			"{\"select\":[],\"from\":[\"comuni\",\"superfici edificatibili\"],\"where\":[]}",
-			"{\"select\":[\"*\"],\"from\":[\"comuni\",\"superfici edificatibili\"],\"where\":[]}"
-
-	};
+	
 	
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "!!!! Test Isabella Parser !!!!" );
+
         try {
-			App.testFile();
+            if((args == null) || (args.length < 1)) {
+            	throw new Exception("Syntax error: use <path to query file>");
+            }
+			App.testFile(args[0]);
 		} catch (Exception ex) {
 			ex.printStackTrace();
 		}
-        /*
-        for (String exp : expression) {
-			try {
-				System.out.println(exp);
-				App.test(exp);
-			} catch (Exception ex) {
-				ex.printStackTrace();
-			}
-		}*/
     }
     
     
@@ -72,8 +58,8 @@ public class App {
 	 * @param expression, a json string
 	 * @throws Exception
 	 */
-	public static void testFile() throws Exception {
-		Isabella parser = new Isabella(new StringReader(IsabellaUtils.readFile("query.json")));
+	public static void testFile(String filePath) throws Exception {
+		Isabella parser = new Isabella(new StringReader(IsabellaUtils.readFile(filePath)));
 		QueryGraph q = parser.queryGraph();
 		
 		for(IsabellaError err : parser.getErrors().values()) {
@@ -82,7 +68,7 @@ public class App {
 		q.test();
         //q.getQueryCondition();
         q.labelSelection();
-		System.out.println("ok");
+		System.out.println("ok !!!!");
 
 	}
 }
