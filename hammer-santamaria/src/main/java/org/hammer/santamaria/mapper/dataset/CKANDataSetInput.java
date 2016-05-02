@@ -356,7 +356,7 @@ public class CKANDataSetInput implements DataSetInput {
 		 * finally { method.releaseConnection(); }
 		 */
 
-		GetMetaByDocument("http://dati.opendataground.it/comunealbanolaziale/1011.json");
+		GetMetaByDocument("http://catalog.data.gov/api/action/package_show?id=b4746cb3-17b4-4471-912b-cc6f249c6ba1");
 	}
 
 }

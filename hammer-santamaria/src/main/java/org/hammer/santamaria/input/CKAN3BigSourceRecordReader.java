@@ -1,7 +1,6 @@
 package org.hammer.santamaria.input;
 
 import java.util.ArrayList;
-import java.util.StringTokenizer;
 
 import org.apache.commons.httpclient.DefaultHttpMethodRetryHandler;
 import org.apache.commons.httpclient.HttpClient;
@@ -128,9 +127,9 @@ public class CKAN3BigSourceRecordReader extends BaseDataSourceRecordReader {
 
 			if (document.containsKey("result")) {
 				
-				ArrayList<BasicDBObject> docs = (ArrayList<BasicDBObject>) ((BasicDBObject) document.get("result")).get("results");
+				ArrayList<Document> docs = (ArrayList<Document>) ((Document) document.get("result")).get("results");
 
-				for (BasicDBObject doc : docs) {
+				for (Document doc : docs) {
 					this.dataset.add(doc.getString("id"));
 				}
 
@@ -182,13 +181,60 @@ public class CKAN3BigSourceRecordReader extends BaseDataSourceRecordReader {
 			byte[] responseBody = method.getResponseBody();
 			Document doc = Document.parse(new String(responseBody));
 			if (doc.containsKey("result")) {
-				count = doc.getInteger("count");
+				count = ((Document)doc.get("result")).getInteger("count");
+				LOG.info("Find --> " + count);
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+			LOG.error(e);
+		} finally {
+			method.releaseConnection();
+		}
+		return count;
+	}
+	
+	/**
+	 * Test
+	 * 
+	 * @param pArgs
+	 * @throws Exception
+	 */
+	@SuppressWarnings("unchecked")
+	public static void main(String[] pArgs) throws Exception {
+		GetCountByCkan3("http://catalog.data.gov/api/action/package_search?start=0&rows=1");
+		
+		
+		HttpClient client = new HttpClient();
+		GetMethod method = new GetMethod("http://catalog.data.gov/api/action/package_search?start=0&rows=10");
+		method.getParams().setParameter(HttpMethodParams.RETRY_HANDLER, new DefaultHttpMethodRetryHandler(3, false));
+				
+		method.setRequestHeader("User-Agent", "Hammer Project - SantaMaria crawler");
+		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - SantaMaria crawler");
+		
+		try {
+			int statusCode = client.executeMethod(method);
+			
+			if (statusCode != HttpStatus.SC_OK) {
+				throw new Exception("Method failed: " + method.getStatusLine());
+			}
+			byte[] responseBody = method.getResponseBody();
+			LOG.info(new String(responseBody));
+
+			Document document = Document.parse(new String(responseBody));
+
+			if (document.containsKey("result")) {
+				
+				ArrayList<Document> docs = (ArrayList<Document>) ((Document) document.get("result")).get("results");
+
+				for (Document doc : docs) {
+					LOG.info(doc.getString("id"));
+				}
+
 			}
 		} catch (Exception e) {
 			LOG.error(e);
 		} finally {
 			method.releaseConnection();
 		}
-		return count;
 	}
 }
