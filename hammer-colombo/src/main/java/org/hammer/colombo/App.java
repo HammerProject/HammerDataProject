@@ -38,7 +38,7 @@ import com.mongodb.hadoop.util.MongoConfigUtil;
 
 
 /**
- * Hello world!
+ * Colombo App Start
  * 
  * 
  *

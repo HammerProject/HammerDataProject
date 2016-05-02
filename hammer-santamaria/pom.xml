@@ -47,6 +47,42 @@
 		</dependency>
 
 		<dependency>
+			<groupId>org.twitter4j</groupId>
+			<artifactId>twitter4j-core</artifactId>
+			<version>[4.0,)</version>
+		</dependency>
+		<dependency>
+			<groupId>org.twitter4j</groupId>
+			<artifactId>twitter4j-media-support</artifactId>
+			<version>[4.0,)</version>
+		</dependency>
+		<dependency>
+			<groupId>org.twitter4j</groupId>
+			<artifactId>twitter4j-async</artifactId>
+			<version>[4.0,)</version>
+		</dependency>
+		<dependency>
+			<groupId>org.twitter4j</groupId>
+			<artifactId>twitter4j-stream</artifactId>
+			<version>[4.0,)</version>
+		</dependency>
+		<dependency>
+			<groupId>org.twitter4j</groupId>
+			<artifactId>twitter4j-http2-support</artifactId>
+			<version>[4.0,)</version>
+
+
+		</dependency>
+
+
+		<dependency>
+			<groupId>com.datumbox</groupId>
+			<artifactId>datumbox-framework-lib</artifactId>
+			<version>0.7.0</version>
+		</dependency>
+
+
+		<dependency>
 			<groupId>org.hammer-project.core</groupId>
 			<artifactId>hammer-core</artifactId>
 			<version>0.0.1</version>

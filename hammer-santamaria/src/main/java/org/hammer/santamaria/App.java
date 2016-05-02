@@ -2,11 +2,16 @@ package org.hammer.santamaria;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.util.ToolRunner;
+import org.hammer.santamaria.twitter.TwitterThread;
+
 
 /**
  * Start Santa Maria crawler in map-reduce enviroment
  *
  *
+ * 
+ * @author mauro.pelucchi@gmail.com
+ * @project Hammer-Project - Santa Maria
  *
  */
 public class App {
@@ -15,10 +20,17 @@ public class App {
 		System.out.println("!!! Santa Maria Module start.....");
 
 		if(pArgs == null || pArgs.length < 1) {
-			throw new Exception("Parameter: <datasource collection>");
+			throw new Exception("Parameter: <datasource collection> | tweets <box>");
 		}
-		Run(pArgs[0]);
-		
+		if(pArgs[0].trim().equals("tweets")) {
+			if(pArgs.length < 2) {
+				throw new Exception("Parameter: tweets <box>");
+			}
+			TwitterThread myTh = new TwitterThread(pArgs[1].trim().toLowerCase());
+	        myTh.run();
+		} else {
+			Run(pArgs[0]);
+		}
 		
 	}
 	
