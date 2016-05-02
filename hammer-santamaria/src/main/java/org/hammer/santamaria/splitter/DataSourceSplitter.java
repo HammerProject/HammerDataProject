@@ -11,6 +11,7 @@ import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.mapreduce.InputSplit;
 import org.bson.Document;
 import org.hammer.core.model.DataSource;
+import org.hammer.santamaria.input.CKAN3BigSourceRecordReader;
 import org.hammer.santamaria.input.CKANBigSourceRecordReader;
 
 import com.mongodb.Block;
@@ -109,6 +110,23 @@ public class DataSourceSplitter extends MongoSplitter {
                 			action = document.getString("url") + CKANBigSourceRecordReader.ACTION + total + "&limit=" +CKANBigSourceRecordReader.LIMIT;
                     		count = CKANBigSourceRecordReader.GetCountByCkan(action);
                     		total += count;
+                		}
+                	} else if(type.equals("org.hammer.santamaria.input.CKAN3BigSourceRecordReader")){
+                		action = document.getString("url") + CKAN3BigSourceRecordReader.ACTION + "0&rows=" + CKAN3BigSourceRecordReader.LIMIT;
+                		String countUrl = document.getString("url") + CKAN3BigSourceRecordReader.ACTION + "0&rows=1";
+                		int count = CKAN3BigSourceRecordReader.GetCountByCkan3(countUrl);
+                		int total = CKAN3BigSourceRecordReader.LIMIT;
+                		int c = 1;
+                		while(total <= count) {
+                        	DataSource ds = new DataSource();
+                        	ds.setName(name);
+    	                	ds.setUrl(url);
+    	                	ds.setAction(action);
+    	                	ds.setType(type);
+    	                	sourceMap.put(name + " " + c, ds);
+    	                	c++;
+                			action = document.getString("url") + CKAN3BigSourceRecordReader.ACTION + total + "&rows=" +CKAN3BigSourceRecordReader.LIMIT;
+                    		total += CKAN3BigSourceRecordReader.LIMIT;
                 		}
                 	} else {
 	                	DataSource ds = new DataSource();

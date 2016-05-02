@@ -1,6 +1,7 @@
 package org.hammer.santamaria.input;
 
 import java.util.ArrayList;
+import java.util.StringTokenizer;
 
 import org.apache.commons.httpclient.DefaultHttpMethodRetryHandler;
 import org.apache.commons.httpclient.HttpClient;
@@ -18,20 +19,21 @@ import org.bson.Document;
 import org.hammer.santamaria.splitter.BaseDataSourceRecordReader;
 import org.hammer.santamaria.splitter.DataSourceSplit;
 
+import com.mongodb.BasicDBObject;
 /**
- * CKAN record reader (4 big source - v3 of CKAN)
+ * CKAN record reader (4 big source)
  * 
  * @author mauro.pelucchi@gmail.com
  * @project Hammer Project -Santa Maria
  *
  */
-public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
+public class CKAN3BigSourceRecordReader extends BaseDataSourceRecordReader {
 
 	public static final int LIMIT = 100;
 	
-	public static final String ACTION = "/package_list?offset=";
+	public static final String ACTION = "/package_search?start=";
 	
-	private static final Log LOG = LogFactory.getLog(CKANBigSourceRecordReader.class);
+	private static final Log LOG = LogFactory.getLog(CKAN3BigSourceRecordReader.class);
 
 	/**
 	 * Output from CKAN source
@@ -43,7 +45,7 @@ public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
 	 */
 	private ArrayList<String> dataset = new ArrayList<String>();
 
-	public CKANBigSourceRecordReader(final DataSourceSplit split) {
+	public CKAN3BigSourceRecordReader(final DataSourceSplit split) {
 		super(split);
 	}
 
@@ -67,7 +69,7 @@ public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
 
 	@Override
 	public void initialize(final InputSplit split, final TaskAttemptContext context) {
-		LOG.info("SANTA MARIA RECORD READER: Get package list from CKAN3 site (BIG SOURCE Version3)");
+		LOG.info("SANTA MARIA RECORD READER: Get package list from CKAN site (BIG SOURCE Version)");
 		this.total = 0;
 		this.seen = 0;
 		this.dataset = new ArrayList<String>();
@@ -122,14 +124,17 @@ public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
 			LOG.debug(new String(responseBody));
 			setOutput(new String(responseBody));
 
-			Document doc = Document.parse(getOutput());
+			Document document = Document.parse(getOutput());
 
-			if (doc.containsKey("result")) {
-				this.dataset.addAll((ArrayList<String>) doc.get("result")) ;
-				for (String k : this.dataset) {
-					LOG.debug("Document: " + k);
+			if (document.containsKey("result")) {
+				
+				ArrayList<BasicDBObject> docs = (ArrayList<BasicDBObject>) ((BasicDBObject) document.get("result")).get("results");
+
+				for (BasicDBObject doc : docs) {
+					this.dataset.add(doc.getString("id"));
 				}
-				LOG.info("SANTA MARIA CKAN RECORD READER found" + this.dataset.size());
+
+				LOG.info("SANTA MARIA CKAN3 RECORD READER found" + this.dataset.size());
 			}
 		} catch (Exception e) {
 			LOG.error(e);
@@ -162,8 +167,7 @@ public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
 	}
 	
 	
-	@SuppressWarnings("unchecked")
-	public static int GetCountByCkan(String url) {
+	public static int GetCountByCkan3(String url) {
 		int count = 0;
 		HttpClient client = new HttpClient();
 		LOG.info("**** INPUT SPLIT COUNT *** " + url);
@@ -178,7 +182,7 @@ public class CKANBigSourceRecordReader extends BaseDataSourceRecordReader {
 			byte[] responseBody = method.getResponseBody();
 			Document doc = Document.parse(new String(responseBody));
 			if (doc.containsKey("result")) {
-				count = ((ArrayList<String>) doc.get("result")).size();
+				count = doc.getInteger("count");
 			}
 		} catch (Exception e) {
 			LOG.error(e);
