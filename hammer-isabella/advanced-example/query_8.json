@@ -1,0 +1,81 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// Restaurant Violations in Washington
+// 
+// from http://opendatadc.org
+// (OpenDataDC is a public data catalog for and by the people of Washington, DC)
+//
+// SQL
+// SELECT date, violation
+// FROM inspections
+// WHERE city = "Washington" and type = "restaurant"
+
+{
+  "select": [
+  	  { "column": { "instance": "inspections", "label":"date"}},
+      { "column": { "instance": "inspections", "label":"violation"}}
+  ],
+  "from": [
+    "inspections"
+  ],
+  "where": [{"condition": {
+      "instance1": "inspections",
+      "label1": "type",
+      "operator": "eq",
+      "value": "restaurant",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "inspections",
+      "label1": "city",
+      "operator": "eq",
+      "value": "Washington",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+//
+// Datasource (total) --> 29
+// Dataset (total) --> 27967
+// Index (total) --> 23375
+// (updated 4/5/2016 01:25)
+//
+// Selected keywords
+// ----> illinois
+// ----> forecast
+// ----> population
+
+// 
+//  db.index.aggregate([
+// 	{ $match: {"$or" : [ { "keyword" : "illinois"} , { "keyword" : "forecast"}, { "keyword" : "population"}]} },
+// 	{ $project: {total: { $size: "$documents" }}}
+//  ]);
+//
+// { "_id" : "population", "total" : 325 }
+// { "_id" : "forecast", "total" : 11 }
+// { "_id" : "illinois", "total" : 153 }
+// Documents --> 389
+//
+// Without keywords
+//  db.index.aggregate([
+// 	{ $match: {"$or" : [  { "keyword" : "year"} ,  { "keyword" : "employment"} ,  { "keyword" : "state"} , { "keyword" : "2020"} , { "keyword" : "household"} , { "keyword" : "county"} , { "keyword" : "illinois"} , { "keyword" : "forecast"}, { "keyword" : "population"}]} },
+// 	{ $project: {total: { $size: "$documents" }}}
+//  ]);
+//
+//
+// { "_id" : "state", "total" : 225 }
+// { "_id" : "population", "total" : 325 }
+// { "_id" : "county", "total" : 354 }
+// { "_id" : "employment", "total" : 57 }
+// { "_id" : "forecast", "total" : 11 }
+// { "_id" : "illinois", "total" : 153 }
+// { "_id" : "2020", "total" : 10 }
+// { "_id" : "household", "total" : 135 }
+// { "_id" : "year", "total" : 191 }
+
+// Documents --> 1461

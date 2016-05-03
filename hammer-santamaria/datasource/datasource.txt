@@ -80,16 +80,27 @@ db.datasource.insert(
 { "name" : "dati.comune.lecce.it", "url" : "http://dati.comune.lecce.it/api/action", "action" : "http://dati.comune.lecce.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
 );
 
+
 db.datasource.insert(
-{ "name" : "dati.arpa.emr.it", "url" : "http://dati.arpa.emr.it/api/action", "action" : "http://dati.arpa.emr.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
+{ "name" : "africaopendata.org", "url" : "https://africaopendata.org/api/action", "action" : "https://africaopendata.org/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
 );
 
 db.datasource.insert(
-{ "name" : "dati.regione.sardegna.it", "url" : "http://dati.regione.sardegna.it/api/action", "action" : "http://dati.regione.sardegna.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
+{ "name" : "civicdata.io", "url" : "http://www.civicdata.io/api/action", "action" : "http://www.civicdata.io/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
 );
+
+db.datasource.insert(
+{ "name" : "datahub.cmap.illinois.gov", "url" : "https://datahub.cmap.illinois.gov/api/action", "action" : "https://datahub.cmap.illinois.gov/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
+);
+
+db.datasource.insert(
+{ "name" : "opendatadc.org", "url" : "http://opendatadc.org/api/action", "action" : "http://opendatadc.org/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
+);
+
+
+
+/*****/
 
 db.datasource.insert(
 { "name" : "data.gov", "url" : "http://catalog.data.gov/api/action", "action" : "http://catalog.data.gov/api/action", "type" : "org.hammer.santamaria.input.CKAN3BigSourceRecordReader" }
 );
-
-

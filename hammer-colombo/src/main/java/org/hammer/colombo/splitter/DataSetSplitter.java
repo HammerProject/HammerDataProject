@@ -60,7 +60,9 @@ public class DataSetSplitter extends MongoSplitter {
 		MongoClientURI inputURI = MongoConfigUtil.getInputURI(getConfiguration());
 		List<InputSplit> splits = new ArrayList<InputSplit>();
 		System.out.println("Colombo calculating splits for " + inputURI);
+		
 		List<Document> dataSet = getSetList();
+		System.out.println("---> found " + dataSet.size() );
 		for (Document doc : dataSet) {
 			String key = doc.getString("_id");
 			System.out.println("---> found " + key + " - " + doc.getString("title"));
@@ -74,7 +76,12 @@ public class DataSetSplitter extends MongoSplitter {
 				splits.add(dsSplit);
 			}
 		}
-		return splits;
+		if(getConfiguration().getBoolean("only-count", true)) {
+			return splits;
+		} else {
+			return  new ArrayList<InputSplit>();
+		}
+		
 	}
 
 	/**

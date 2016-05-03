@@ -20,7 +20,7 @@ public class App {
     public static void main( String[] args )
     {
         System.out.println( "!!!! Test Isabella Parser !!!!" );
-
+        
         try {
             if((args == null) || (args.length < 1)) {
             	throw new Exception("Syntax error: use <path to query file>");

@@ -1,0 +1,85 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// Police crime stats 2015 --> focus on "Drug-related crime", detail = province
+// Africa
+//
+// Metadata:
+// Province,Cluster,Station,Unit,Crime Category,Year,Count,Position,Station / Province
+// from africaopendata.org 
+//
+//
+// SQL
+// SELECT year, category, cluster
+// FROM crime
+// WHERE cluster = "province" and year = 2015 and category like '%drug%'
+
+{
+  "select": [
+  	  { "column": { "instance": "crime", "label":"year"}},
+      { "column": { "instance": "crime", "label":"category"}},
+      { "column": { "instance": "crime", "label":"cluster"}}
+  ],
+  "from": [
+    "crime"
+  ],
+  "where": [{"condition": {
+      "instance1": "crime",
+      "label1": "category",
+      "operator": "eq",
+      "value": "drug",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "crime",
+      "label1": "year",
+      "operator": "eq",
+      "value": 2015,
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "crime",
+      "label1": "cluster",
+      "operator": "eq",
+      "value": "province",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+//
+// Datasource (total) --> 26
+// Dataset (total) --> 27570
+// Index (total) --> 22633
+// (updated 3/5/2016 22:54)
+//
+// Selected keywords
+// ----> province
+// ----> drug
+// ----> crime
+// 
+//  db.index.aggregate([
+// 	{ $match: {"$or" : [ { "keyword" : "province"} , { "keyword" : "drug"}, { "keyword" : "crime"}]} },
+// 	{ $project: {total: { $size: "$documents" }}}
+//  ]);
+//
+// { "_id" : "crime", "total" : 9 }
+// { "_id" : "province", "total" : 60 }
+// Documents --> 69
+//
+// Without keywords
+//  db.index.aggregate([
+//  	{ $match: {"$or" : [ { "keyword" : "year"} , { "keyword" : "2015"} , { "keyword" : "cluster"} , { "keyword" : "category"} , { "keyword" : "province"} , { "keyword" : "drug"}, { "keyword" : "crime"}]} },
+//  	{ $project: {total: { $size: "$documents" }}}
+//  ]);
+//
+//
+// { "_id" : "category", "total" : 2 }
+// { "_id" : "cluster", "total" : 2 }
+// { "_id" : "crime", "total" : 9 }
+// { "_id" : "2015", "total" : 372 }
+// { "_id" : "province", "total" : 60 }
+// { "_id" : "year", "total" : 156 }
+
+// Documents --> 601

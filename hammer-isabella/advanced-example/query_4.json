@@ -1,0 +1,88 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// Gare Beni e Servizi EXPO 2015
+// 
+// from dati.gov.it
+//
+//
+// SQL
+// SELECT aggiudicatari, importo
+// FROM gare
+// WHERE regione = 'LOMBARDIA' and oggetto like '%EXPO%' and anno = 2015
+
+{
+  "select": [
+  	  { "column": { "instance": "gare", "label":"aggiudicatari"}},
+  	  { "column": { "instance": "gare", "label":"importo"}}
+  ],
+  "from": [
+    "gare"
+  ],
+  "where": [{"condition": {
+      "instance1": "gare",
+      "label1": "regione",
+      "operator": "eq",
+      "value": "LOMBARDIA",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "gare",
+      "label1": "anno",
+      "operator": "eq",
+      "value": 2015,
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "gare",
+      "label1": "oggetto",
+      "operator": "eq",
+      "value": "EXPO",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+//
+// Datasource (total) --> 26
+// Dataset (total) --> 27570
+// Index (total) --> 22633
+// (updated 3/5/2016 22:54)
+//
+
+// Selected keywords
+// ----> EXPO
+// ----> LOMBARDIA
+//  ----> gare
+
+// db.index.aggregate([
+// { $match: {"$or" : [ { "keyword" : "expo"}, { "keyword" : "lombardia"}, { "keyword" : "gare"}]}  },
+// { $project: {total: { $size: "$documents" }}}
+// ]);
+
+// { "_id" : "expo", "total" : 1 }
+// { "_id" : "lombardia", "total" : 387 }
+// { "_id" : "gare", "total" : 27 }
+                 
+// Documents --> 415
+//
+// Without keywords
+
+
+// db.index.aggregate([
+// { $match: {"$or" : [ { "keyword" : "oggetto"}, { "keyword" : "regione"}, { "keyword" : "2015"}, { "keyword" : "anno"}, { "keyword" : "importo"}, { "keyword" : "aggiudicatari"}, { "keyword" : "expo"}, { "keyword" : "lombardia"}, { "keyword" : "gare"}]}  },
+// { $project: {total: { $size: "$documents" }}}
+// ]);
+
+//
+// { "_id" : "expo", "total" : 1 }
+// { "_id" : "lombardia", "total" : 387 }
+// { "_id" : "oggetto", "total" : 43 }
+// { "_id" : "gare", "total" : 27 }
+// { "_id" : "importo", "total" : 399 }
+// { "_id" : "anno", "total" : 2139 }
+// { "_id" : "2015", "total" : 372 }
+// { "_id" : "regione", "total" : 854 }
+
+// Documents --> 4222

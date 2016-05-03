@@ -1,0 +1,67 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// Sports Participation in Africa (number of participation and number of medals win)
+// from africaopendata.org 
+//
+//
+// SQL
+// SELECT category, medals, participation
+// FROM sports
+// WHERE region = "africa"
+
+{
+  "select": [
+  	  { "column": { "instance": "sports", "label":"category"}},
+      { "column": { "instance": "sports", "label":"medals"}},
+      { "column": { "instance": "sports", "label":"participation"}}
+  ],
+  "from": [
+    "sports"
+  ],
+  "where": [{"condition": {
+      "instance1": "sports",
+      "label1": "region",
+      "operator": "eq",
+      "value": "africa",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+//
+// Datasource (total) --> 26
+// Dataset (total) --> 27570
+// Index (total) --> 22633
+// (updated 3/5/2016 22:54)
+//
+// Selected keywords
+// ----> africa
+// ----> sports
+// 
+// db.index.aggregate([
+//	{ $match: {"$or" : [ { "keyword" : "africa"} , { "keyword" : "sports"}]} },
+//	{ $project: {total: { $size: "$documents" }}}
+// ]);
+//
+//
+// { "_id" : "africa", "total" : 150 }
+// { "_id" : "sports", "total" : 4 }
+// Documents --> 154
+//
+// Without keywords
+//  db.index.aggregate([
+//  	{ $match: {"$or" : [ { "keyword" : "region"} , { "keyword" : "partecipation"} , { "keyword" : "category"} , { "keyword" : "medals"} ,{ "keyword" : "africa"} , { "keyword" : "sports"}]} },
+//  	{ $project: {total: { $size: "$documents" }}}
+//  ]);
+
+// { "_id" : "medals", "total" : 1 }
+// { "_id" : "category", "total" : 2 }
+// { "_id" : "africa", "total" : 150 }
+// { "_id" : "region", "total" : 85 }
+// { "_id" : "sports", "total" : 4 }
+
+// Documents --> 242

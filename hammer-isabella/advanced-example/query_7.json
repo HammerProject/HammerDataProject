@@ -1,0 +1,83 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// Updated Population, Household and Employment Forecasts for Northeastern Illinois, 1990-2020
+// from http://www.cmap.illinois.gov
+// (Official regional planning organization for the northeastern Illinois counties)
+//
+// SQL
+// SELECT county, population, household, employment
+// FROM population, forecast
+// WHERE state = "illinois" and year = 2020
+
+{
+  "select": [
+  	  { "column": { "instance": "population", "label":"county"}},
+      { "column": { "instance": "population", "label":"population"}},
+      { "column": { "instance": "population", "label":"household"}},
+      { "column": { "instance": "population", "label":"employment"}}
+  ],
+  "from": [
+    "population",
+    "forecast"
+  ],
+  "where": [{"condition": {
+      "instance1": "population",
+      "label1": "state",
+      "operator": "eq",
+      "value": "illinois",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "forecast",
+      "label1": "year",
+      "operator": "eq",
+      "value": 2020,
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+//
+// Datasource (total) --> 28
+// Dataset (total) --> 27908
+// Index (total) --> 23375
+// (updated 4/5/2016 01:14)
+//
+// Selected keywords
+// ----> illinois
+// ----> forecast
+// ----> population
+
+// 
+//  db.index.aggregate([
+// 	{ $match: {"$or" : [ { "keyword" : "illinois"} , { "keyword" : "forecast"}, { "keyword" : "population"}]} },
+// 	{ $project: {total: { $size: "$documents" }}}
+//  ]);
+//
+// { "_id" : "population", "total" : 325 }
+// { "_id" : "forecast", "total" : 11 }
+// { "_id" : "illinois", "total" : 153 }
+// Documents --> 389
+//
+// Without keywords
+//  db.index.aggregate([
+// 	{ $match: {"$or" : [  { "keyword" : "year"} ,  { "keyword" : "employment"} ,  { "keyword" : "state"} , { "keyword" : "2020"} , { "keyword" : "household"} , { "keyword" : "county"} , { "keyword" : "illinois"} , { "keyword" : "forecast"}, { "keyword" : "population"}]} },
+// 	{ $project: {total: { $size: "$documents" }}}
+//  ]);
+//
+//
+// { "_id" : "state", "total" : 225 }
+// { "_id" : "population", "total" : 325 }
+// { "_id" : "county", "total" : 354 }
+// { "_id" : "employment", "total" : 57 }
+// { "_id" : "forecast", "total" : 11 }
+// { "_id" : "illinois", "total" : 153 }
+// { "_id" : "2020", "total" : 10 }
+// { "_id" : "household", "total" : 135 }
+// { "_id" : "year", "total" : 191 }
+
+// Documents --> 1461

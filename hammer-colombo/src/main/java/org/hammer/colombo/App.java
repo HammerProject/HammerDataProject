@@ -36,7 +36,6 @@ import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
 import com.mongodb.hadoop.util.MongoConfigUtil;
 
-
 /**
  * Colombo App Start
  * 
@@ -49,32 +48,30 @@ public class App {
 	 * Encoder
 	 */
 	protected transient BSONEncoder _bsonEncoder = new BasicBSONEncoder();
-	
+
 	/**
 	 * Decoder
 	 */
-    protected transient BSONDecoder _bsonDecoder = new BasicBSONDecoder();
+	protected transient BSONDecoder _bsonDecoder = new BasicBSONDecoder();
 
-    
-	public static void Run(String fileQuery, String mode, float limit) throws Exception {
+	public static void Run(String fileQuery, String mode, float limit, boolean onlyCount) throws Exception {
 		System.out.println("!!! Hammer Project !!!");
 		System.out.println("!!! Colombo Module start.....");
 		Configuration conf = new Configuration();
 		conf.set("thesaurus.url", "http://thesaurus.altervista.org/thesaurus/v1");
-		
-		
+
 		conf.set("thesaurus.key", "bVKAPIcUum3hEFGKEBAu"); // x hammerproject
 
 		conf.set("thesaurus.lang", "it_IT");
-		
+
 		// insert a limit to socrata recordset for memory heap problem
 		conf.set("socrata.record.limit", "30000");
-		
+
 		conf.set("mongo.splitter.class", "org.hammer.colombo.splitter.DataSetSplitter");
 		conf.set("limit", limit + "");
-		
-		String query =  "";
-		if(mode.equals("hdfs")) {
+
+		String query = "";
+		if (mode.equals("hdfs")) {
 			conf.set("query-file", "hdfs://192.168.56.90:9000/hammer/" + fileQuery);
 			query = ReadFileFromHdfs(conf);
 		} else {
@@ -82,6 +79,7 @@ public class App {
 			query = IsabellaUtils.readFile(fileQuery);
 		}
 		conf.set("query-string", query);
+		conf.set("only-count", onlyCount + "");
 		System.out.println(query);
 		Isabella parser = new Isabella(new StringReader(query));
 		QueryGraph q;
@@ -91,13 +89,11 @@ public class App {
 			throw new IOException(e);
 		}
 
-		
-		
 		for (IsabellaError err : parser.getErrors().values()) {
 			System.out.println(err.toString());
 		}
-		
-		if(parser.getErrors().size() > 0) {
+
+		if (parser.getErrors().size() > 0) {
 			throw new IOException("Query syntax not correct.");
 		}
 
@@ -107,38 +103,35 @@ public class App {
 		conf.set("query-table", "query" + (q.hashCode() + "").replaceAll("-", "_"));
 		conf.set("query-result", "result" + (q.hashCode() + "").replaceAll("-", "_"));
 		conf.set("list-result", "list" + (q.hashCode() + "").replaceAll("-", "_"));
-		//conf.set("query-out", "hdfs://192.168.56.90:9000/hammer/out" + (q.hashCode() + "").replaceAll("-", "_") + ".json");
+		// conf.set("query-out", "hdfs://192.168.56.90:9000/hammer/out" +
+		// (q.hashCode() + "").replaceAll("-", "_") + ".json");
 		System.out.println("COLOMBO Create temp table " + (q.hashCode() + "").replaceAll("-", "_"));
 		conf.set("keywords", q.getKeyWords());
 		conf.set("joinCondition", q.getJoinCondition());
+
 		
-		
-    
-		
-        
 		ToolRunner.run(conf, new ColomboConfig(conf), new String[0]);
-		
-		QueryDb(conf, q);
-		
-		System.out.println("************************************************");
-		System.out.println("check table:                                    ");
-		System.out.println(conf.get("query-result"));
-		System.out.println("************************************************");
+
+		if (!onlyCount) {
+			QueryDb(conf, q);
+
+			System.out.println("************************************************");
+			System.out.println("check table:                                    ");
+			System.out.println(conf.get("query-result"));
+			System.out.println("************************************************");
+		}
 
 	}
-	
+
 	public static void main(String[] pArgs) throws Exception {
 
-
-		
-		if(pArgs == null || pArgs.length < 3) {
-			throw new Exception("Parameter: <path_to_query> <mode: local|hdfs> <limit: 0.5|0.01..>");
+		if (pArgs == null || pArgs.length < 3) {
+			throw new Exception("Parameter: <path_to_query> <mode: local|hdfs> <limit: 0.5|0.01..> <count: true|false>");
 		}
-		Run(pArgs[0], pArgs[1], Float.parseFloat(pArgs[2]));
+		Run(pArgs[0], pArgs[1], Float.parseFloat(pArgs[2]), Boolean.parseBoolean(pArgs[3]));
 	}
 
-
-    public static String ReadFileFromHdfs(Configuration conf) {
+	public static String ReadFileFromHdfs(Configuration conf) {
 		FileSystem fs = null;
 		BufferedReader br = null;
 		StringBuilder sb = null;
@@ -175,7 +168,7 @@ public class App {
 		return sb.toString();
 	}
 
-    /**
+	/**
 	 * Query over Mongo Db
 	 * 
 	 * @param q
@@ -189,9 +182,7 @@ public class App {
 		FileSystem fs = null;
 		FSDataOutputStream fin = null;
 
-
 		try {
-			
 
 			MongoClientURI inputURI = MongoConfigUtil.getInputURI(conf);
 			mongo = new MongoClient(inputURI);
@@ -199,12 +190,12 @@ public class App {
 
 			MongoCollection<Document> queryTable = db.getCollection(conf.get("query-table"));
 
-			if(db.getCollection(conf.get("query-result")) == null) {
-					db.createCollection(conf.get("query-result"));
+			if (db.getCollection(conf.get("query-result")) == null) {
+				db.createCollection(conf.get("query-result"));
 			}
 			db.getCollection(conf.get("query-result")).deleteMany(new BasicDBObject());
-			System.out.println("COLOMBO After clear result : collection " + db.getCollection(conf.get("query-result")).count());
-			
+			System.out.println(
+					"COLOMBO After clear result : collection " + db.getCollection(conf.get("query-result")).count());
 
 			// create or condition
 			BasicDBList wList = new BasicDBList();
@@ -213,7 +204,7 @@ public class App {
 				for (Node ch : en.getChild()) {
 					if ((ch instanceof ValueNode) && en.getCondition().equals("OR")) {
 						BasicDBObject temp = null;
-						if(en.getOperator().equals("=")) {
+						if (en.getOperator().equals("=")) {
 							temp = new BasicDBObject(en.getName(), new BasicDBObject("$regex", ch.getName()));
 						} else if (en.getOperator().equals(">")) {
 							temp = new BasicDBObject(en.getName(), new BasicDBObject("$gt", ch.getName()));
@@ -222,24 +213,23 @@ public class App {
 						} else {
 							temp = new BasicDBObject(en.getName(), new BasicDBObject("$regex", ch.getName()));
 						}
-						
+
 						wList.add(temp);
 					}
 				}
 			}
 
-			
 			BasicDBObject searchQuery = new BasicDBObject();
-			
-			if(wList.size() > 0) {
+
+			if (wList.size() > 0) {
 				searchQuery = new BasicDBObject("$or", wList);
 			}
-			
-			//create and condition
+
+			// create and condition
 			for (Edge en : q.getQueryCondition()) {
 				for (Node ch : en.getChild()) {
 					if ((ch instanceof ValueNode) && en.getCondition().equals("AND")) {
-						if(en.getOperator().equals("=")) {
+						if (en.getOperator().equals("=")) {
 							searchQuery.append(en.getName(), new BasicDBObject("$regex", ch.getName()));
 						} else if (en.getOperator().equals(">")) {
 							searchQuery.append(en.getName(), new BasicDBObject("$gt", ch.getName()));
@@ -248,22 +238,19 @@ public class App {
 						} else {
 							searchQuery.append(en.getName(), new BasicDBObject("$regex", ch.getName()));
 						}
-						
+
 					}
 				}
 			}
-			
-			//create field select
+
+			// create field select
 			for (Edge qN : q.getQuestionNode()) {
 				searchQuery.append(qN.getName(), true);
 			}
-			
-			
-			FindIterable<Document> iterable = queryTable.find(searchQuery);
-			
-			System.out.println("Colombo gets data from database..." + searchQuery.toString());
 
-			
+			FindIterable<Document> iterable = queryTable.find(searchQuery);
+
+			System.out.println("Colombo gets data from database..." + searchQuery.toString());
 
 			iterable.forEach(new Block<Document>() {
 
@@ -275,24 +262,16 @@ public class App {
 			System.out.println("Colombo find " + dataMap.size() + " record");
 
 			/*
-			fs = FileSystem.get(conf);
-			Path outputPath = new Path(conf.get("query-out"));
-			if (fs.exists(outputPath)) {
-				fs.delete(outputPath, true);
-			}
-			fin = fs.create(outputPath);
-			fin.write(new String("[").getBytes());
-			int count = 0;
-			for(Document d : dataMap.values()) {
-				fin.write(d.toJson().getBytes());
-				count ++;
-				if(count != dataMap.size()) {
-					fin.write(new String(",").getBytes());
-				}
-				db.getCollection(conf.get("query-result")).insertOne(d);
-			}
-			fin.write(new String("]").getBytes());
-			*/
+			 * fs = FileSystem.get(conf); Path outputPath = new
+			 * Path(conf.get("query-out")); if (fs.exists(outputPath)) {
+			 * fs.delete(outputPath, true); } fin = fs.create(outputPath);
+			 * fin.write(new String("[").getBytes()); int count = 0;
+			 * for(Document d : dataMap.values()) {
+			 * fin.write(d.toJson().getBytes()); count ++; if(count !=
+			 * dataMap.size()) { fin.write(new String(",").getBytes()); }
+			 * db.getCollection(conf.get("query-result")).insertOne(d); }
+			 * fin.write(new String("]").getBytes());
+			 */
 		} catch (Exception ex) {
 			ex.printStackTrace();
 		} finally {
@@ -314,7 +293,7 @@ public class App {
 				}
 			}
 		}
-		
+
 	}
 
 }

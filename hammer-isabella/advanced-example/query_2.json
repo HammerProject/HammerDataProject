@@ -48,9 +48,26 @@
 // ----> africa
 // ----> transparency
 // 
-// db.index.count({"$or" : [ { "keyword" : "africa"} , { "keyword" : "transparency"}]});
-// Documents --> 2
+// db.index.aggregate([
+//	{ $match: {"$or" : [ { "keyword" : "africa"} , { "keyword" : "transparency"}]} },
+//	{ $project: {total: { $size: "$documents" }}}
+// ]);
+//
+// { "_id" : "africa", "total" : 150 }
+// { "_id" : "transparency", "total" : 5 }
+// Documents --> 155
 //
 // Without keywords
-// db.index.count({"$or" : [ { "keyword" : "region"} , { "keyword" : "country"} , { "keyword" : "budget"} , { "keyword" : "2015"} , { "keyword" : "year"} ,{ "keyword" : "africa"} , { "keyword" : "transparency"}]});
-// Documents --> 7
+// db.index.aggregate([
+// 	{ $match: {"$or" : [ { "keyword" : "region"} , { "keyword" : "country"} , { "keyword" : "budget"} , { "keyword" : "2015"} , { "keyword" : "year"} ,{ "keyword" : "africa"} , { "keyword" : "transparency"}]} },
+// 	{ $project: {total: { $size: "$documents" }}}
+// ]);
+// { "_id" : "africa", "total" : 150 }
+// { "_id" : "budget", "total" : 149 }
+// { "_id" : "country", "total" : 70 }
+// { "_id" : "2015", "total" : 372 }
+// { "_id" : "region", "total" : 85 }
+// { "_id" : "transparency", "total" : 5 }
+// { "_id" : "year", "total" : 156 }
+
+// Documents --> 987

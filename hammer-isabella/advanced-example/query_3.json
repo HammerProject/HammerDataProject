@@ -1,0 +1,71 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// Hydrogeological risk indicators (ISPRA - P3 and P4 area)
+// Popolazione a rischio frane (aree P3 e P4)  su base comunale
+// 
+// from dati.gov.it
+//
+//
+// SQL
+// SELECT comune, PAI, abitanti
+// FROM frane
+// WHERE PAI = 'P3' or PAI = 'P4'
+
+{
+  "select": [
+  	  { "column": { "instance": "frane", "label":"comune"}},
+  	  { "column": { "instance": "frane", "label":"PAI"}},
+      { "column": { "instance": "frane", "label":"abitanti"}}
+  ],
+  "from": [
+    "frane"
+  ],
+  "where": [{"condition": {
+      "instance1": "frane",
+      "label1": "PAI",
+      "operator": "eq",
+      "value": "P3",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "frane",
+      "label1": "PAI",
+      "operator": "eq",
+      "value": "P4",
+      "logicalOperator": "or"
+    }}
+  ]
+}
+
+//
+// Datasource (total) --> 26
+// Dataset (total) --> 27570
+// Index (total) --> 22633
+// (updated 3/5/2016 22:54)
+//
+// Selected keywords
+// ----> frane
+// ----> P3
+// ----> P4
+// db.index.aggregate([
+// { $match: {"$or" : [ { "keyword" : "frane"}, { "keyword" : "P3"}, { "keyword" : "P4"}]}  },
+// { $project: {total: { $size: "$documents" }}}
+// ]);
+
+// { "_id" : "frane", "total" : 5 }                   
+// Documents --> 5
+//
+// Without keywords
+// db.index.aggregate([
+// { $match: {"$or" : [ { "keyword" : "frane"}, { "keyword" : "P3"}, { "keyword" : "P4"}, { "keyword" : "abitanti"}, { "keyword" : "comune"}, { "keyword" : "PAI"}]}  },
+// { $project: {total: { $size: "$documents" }}}
+// ]);
+//
+// { "_id" : "frane", "total" : 5 }
+// { "_id" : "comune", "total" : 1306 }
+// { "_id" : "abitanti", "total" : 20 }
+// { "_id" : "P3", "total" : 5 }
+// Documents --> 1336
