@@ -88,7 +88,7 @@ db.datasource.insert(
 { "name" : "dati.regione.sardegna.it", "url" : "http://dati.regione.sardegna.it/api/action", "action" : "http://dati.regione.sardegna.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
 );
 
-db.datasource1.insert(
+db.datasource.insert(
 { "name" : "data.gov", "url" : "http://catalog.data.gov/api/action", "action" : "http://catalog.data.gov/api/action", "type" : "org.hammer.santamaria.input.CKAN3BigSourceRecordReader" }
 );
 

@@ -18,7 +18,6 @@ import org.bson.Document;
 import org.hammer.santamaria.splitter.BaseDataSourceRecordReader;
 import org.hammer.santamaria.splitter.DataSourceSplit;
 
-import com.mongodb.BasicDBObject;
 /**
  * CKAN record reader (4 big source)
  * 
@@ -28,7 +27,7 @@ import com.mongodb.BasicDBObject;
  */
 public class CKAN3BigSourceRecordReader extends BaseDataSourceRecordReader {
 
-	public static final int LIMIT = 100;
+	public static final int LIMIT = 500;
 	
 	public static final String ACTION = "/package_search?start=";
 	
