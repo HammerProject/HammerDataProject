@@ -5,74 +5,86 @@
 // mauro.pelucchi@gmail.com
 //
 // 
+// Location, coordinates and number of available bikes (excluding locked or faulty bikes)
+// in London
 //
+// http://data.london.gov.uk
 // 
-// from http://opendatadc.org
-// (OpenDataDC is a public data catalog for and by the people of Washington, DC)
 //
 // SQL
-// SELECT date, violation
-// FROM inspections
-// WHERE city = "Washington" and type = "restaurant"
+// SELECT location, coordinates, available
+// FROM cycle, hire
+// WHERE city = "London" and locked = 0 and faulty = 0
 
 {
   "select": [
-  	  { "column": { "instance": "inspections", "label":"date"}},
-      { "column": { "instance": "inspections", "label":"violation"}}
+  	  { "column": { "instance": "hire", "label":"location"}},
+      { "column": { "instance": "hire", "label":"coordinates"}},
+      { "column": { "instance": "cycle", "label":"available"}}
   ],
   "from": [
-    "inspections"
+    "cycle",
+    "hire"
   ],
   "where": [{"condition": {
-      "instance1": "inspections",
-      "label1": "type",
-      "operator": "eq",
-      "value": "restaurant",
-      "logicalOperator": "and"
-    }},{"condition": {
-      "instance1": "inspections",
+      "instance1": "hire",
       "label1": "city",
       "operator": "eq",
-      "value": "Washington",
+      "value": "London",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "cycle",
+      "label1": "locked",
+      "operator": "eq",
+      "value": 0,
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "cycle",
+      "label1": "faulty",
+      "operator": "eq",
+      "value": 0,
       "logicalOperator": "and"
     }}
   ]
 }
 
 //
-// Datasource (total) --> 29
-// Dataset (total) --> 27967
-// Index (total) --> 23903
-// (updated 4/5/2016 01:31)
+// Datasource (total) --> 27
+// Dataset (total) --> 39716
+// Index keywords (total) --> 77027
+// (updated 4/5/2016 06:59)
 //
 // Selected keywords
-// ----> washington
-// ----> restaurant
-// ----> inspections
+// ----> London
+// ----> cycle
+// ----> hire
 
 // 
 // db.index.aggregate([
-// 	{ $match: {"$or" : [ { "keyword" : "washington"} , { "keyword" : "restaurant"}, { "keyword" : "inspections"}]} },
+// 	{ $match: {"$or" : [ { "keyword" : "london"} , { "keyword" : "cycle"} , { "keyword" : "hire"}]} },
 // 	{ $project: {total: { $size: "$documents" }}}
 //  ]);
-//
-// { "_id" : "restaurant", "total" : 1 }
-// { "_id" : "washington", "total" : 6 }
-// { "_id" : "inspections", "total" : 9 }
-// Documents --> 16
+// 
+// { "_id" : "london", "total" : 1368 }
+// { "_id" : "cycle", "total" : 37 }
+// { "_id" : "hire", "total" : 14 }
+// Documents --> 1419
 //
 // Without keywords
 // db.index.aggregate([
-// 	{ $match: {"$or" : [ { "keyword" : "type"} ,  { "keyword" : "city"} , { "keyword" : "violation"} , { "keyword" : "date"} ,  { "keyword" : "washington"} , { "keyword" : "restaurant"}, { "keyword" : "inspections"}]} },
+// 	{ $match: {"$or" : [ { "keyword" : "available"} , { "keyword" : "coordinates"} , { "keyword" : "location"} , { "keyword" : "city"} , { "keyword" : "locked"} , { "keyword" : "faulty"} , { "keyword" : "london"} , { "keyword" : "cycle"} , { "keyword" : "hire"}]} },
 // 	{ $project: {total: { $size: "$documents" }}}
 //  ]);
 //
-//
-// { "_id" : "restaurant", "total" : 1 }
-// { "_id" : "washington", "total" : 6 }
-// { "_id" : "type", "total" : 153 }
-// { "_id" : "inspections", "total" : 9 }
-// { "_id" : "city", "total" : 157 }
-// { "_id" : "date", "total" : 21 }
+// 
+// { "_id" : "locked", "total" : 2 }
+// { "_id" : "london", "total" : 1368 }
+// { "_id" : "location", "total" : 187 }
+// { "_id" : "coordinates", "total" : 262 }
+// { "_id" : "cycle", "total" : 37 }
+// { "_id" : "faulty", "total" : 2 }
+// { "_id" : "hire", "total" : 14 }
+// { "_id" : "available", "total" : 642 }
+// { "_id" : "city", "total" : 240 }
 
-// Documents --> 347
+// Documents --> 2754
