@@ -97,6 +97,17 @@ db.datasource.insert(
 { "name" : "opendatadc.org", "url" : "http://opendatadc.org/api/action", "action" : "http://opendatadc.org/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
 );
 
+db.datasource.insert(
+{ "name" : "etsin.avointiede.fi", "url" : "http://etsin.avointiede.fi/api/action", "action" : "http://etsin.avointiede.fi/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
+);
+
+db.datasource.insert(
+{ "name" : "data.london.gov.uk", "url" : "http://data.london.gov.uk/api/action", "action" : "http://data.london.gov.uk/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
+);
+
+db.datasource.insert(
+{ "name" : "data.bris.ac.uk", "url" : "http://data.bris.ac.uk/data/api/action", "action" : "http://data.bris.ac.uk/data/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
+);
 
 
 /*****/
