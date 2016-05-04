@@ -1,0 +1,82 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// European Quality of Life Survey
+//
+// http://data.london.gov.uk
+// 
+//
+// SQL
+// SELECT country, volunteering, relations, employment
+// FROM survey
+// WHERE title like "%life%" and author like '%Greater London Authority%'
+
+{
+  "select": [
+      { "column": { "instance": "survey", "label":"country"}},
+  	  { "column": { "instance": "survey", "label":"volunteering"}},
+      { "column": { "instance": "survey", "label":"relations"}},
+      { "column": { "instance": "survey", "label":"employment"}}
+  ],
+  "from": [
+    "survey"
+  ],
+  "where": [{"condition": {
+      "instance1": "survey",
+      "label1": "title",
+      "operator": "eq",
+      "value": "life",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "survey",
+      "label1": "author",
+      "operator": "eq",
+      "value": "Greater London Authority",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+//
+// Datasource (total) --> 27
+// Dataset (total) --> 39716
+// Index keywords (total) --> 77027
+// (updated 4/5/2016 06:59)
+//
+// Selected keywords
+// ----> Greater London Authority
+// ----> life
+// ----> survey
+
+// 
+// db.index.aggregate([
+//  { $match: {"$or" : [ { "keyword" : "survey"} , { "keyword" : "life"} , { "keyword" : "greater london authority"}]} },
+//  { $project: {total: { $size: "$documents" }}}
+// ]);
+// 
+// { "_id" : "life", "total" : 148 }
+// { "_id" : "survey", "total" : 789 }
+//
+// Documents --> 937
+//
+// Without keywords
+//   db.index.aggregate([
+//   	{ $match: {"$or" : [ { "keyword" : "title"} , { "keyword" : "country"} , { "keyword" : "relations"} , { "keyword" : "employment"} , { "keyword" : "volunteering"} , { "keyword" : "author"} , { "keyword" : "survey"} , { "keyword" : "life"} , { "keyword" : "greater london authority"}]} },
+//   	{ $project: {total: { $size: "$documents" }}}
+//    ]);
+//
+//  
+// { "_id" : "life", "total" : 148 }
+// { "_id" : "country", "total" : 154 }
+// { "_id" : "employment", "total" : 256 }
+// { "_id" : "author", "total" : 5 }
+// { "_id" : "relations", "total" : 8 }
+// { "_id" : "survey", "total" : 789 }
+// { "_id" : "title", "total" : 22 }
+// { "_id" : "volunteering", "total" : 12 }
+
+// Documents --> 1394

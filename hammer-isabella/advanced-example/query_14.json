@@ -1,0 +1,84 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// Acquisti di Beni e Servizi (istruzione, formazione e lavoro - Regione Lombardia)
+// Purchases of goods and services (education, training and employment - Regione Lombardia)
+// 
+// https://www.dati.lombardia.it
+// 
+//
+// SQL
+// SELECT partita_iva_aggiudicatario, modalita_affidamento, anno, importo_aggiudicato
+// FROM gare
+// WHERE regione = 'LOMBARDIA' and denominazione_centro_di_costo = 'DG ISTRUZIONE FORMAZIONE E LAVORO'
+
+{
+  "select": [
+      { "column": { "instance": "gare", "label":"partita_iva_aggiudicatario"}},
+  	  { "column": { "instance": "gare", "label":"modalita_affidamento"}},
+      { "column": { "instance": "gare", "label":"anno"}},
+      { "column": { "instance": "gare", "label":"importo_aggiudicato"}}
+  ],
+  "from": [
+    "gare"
+  ],
+  "where": [{"condition": {
+      "instance1": "gare",
+      "label1": "denominazione_centro_di_costo",
+      "operator": "eq",
+      "value": "DG ISTRUZIONE FORMAZIONE E LAVORO",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "gare",
+      "label1": "regione",
+      "operator": "eq",
+      "value": "LOMBARDIA",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+//
+// Datasource (total) --> 27
+// Dataset (total) --> 39716
+// Index keywords (total) --> 77027
+// (updated 4/5/2016 06:59)
+//
+// Selected keywords
+// ----> LOMBARDIA
+// ----> DG ISTRUZIONE FORMAZIONE E LAVORO
+// ----> gare
+
+// 
+//    db.index.aggregate([
+//      { $match: {"$or" : [ { "keyword" : "lombardia"} , { "keyword" : "gare"} , { "keyword" : "dg istruzione formazione e lavoro"}]} },
+//      { $project: {total: { $size: "$documents" }}}
+//     ]);
+// 
+// { "_id" : "lombardia", "total" : 387 }
+// { "_id" : "gare", "total" : 27 }
+//
+// Documents --> 414
+//
+// Without keywords
+//    db.index.aggregate([
+//      { $match: {"$or" : [  { "keyword" : "regione"} ,    { "keyword" : "denominazione_centro_di_costo"} ,  { "keyword" : "anno"} , { "keyword" : "importo_aggiudicato"} , { "keyword" : "modalita_affidamento"} , { "keyword" : "partita_iva_aggiudicatario"} , { "keyword" : "lombardia"} , { "keyword" : "gare"} , { "keyword" : "dg istruzione formazione e lavoro"}]} },
+//      { $project: {total: { $size: "$documents" }}}
+//     ]);
+//
+//  
+//  { "_id" : "modalita_affidamento", "total" : 1 }
+//  { "_id" : "lombardia", "total" : 387 }
+//  { "_id" : "importo_aggiudicato", "total" : 3 }
+//  { "_id" : "denominazione_centro_di_costo", "total" : 1 }
+//  { "_id" : "gare", "total" : 27 }
+//  { "_id" : "anno", "total" : 2139 }
+//  { "_id" : "partita_iva_aggiudicatario", "total" : 3 }
+//  { "_id" : "regione", "total" : 854 }
+
+
+// Documents --> 3415

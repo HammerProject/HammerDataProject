@@ -1,0 +1,83 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// Number of International Visitors (total visits and total spend) to London
+//
+// http://data.london.gov.uk
+// 
+//
+// SQL
+// SELECT origin, visits, total
+// FROM tourists, spend
+// WHERE city = "London" and year = 2015
+
+{
+  "select": [
+  	  { "column": { "instance": "tourists", "label":"origin"}},
+      { "column": { "instance": "tourists", "label":"visits"}},
+      { "column": { "instance": "spend", "label":"total"}}
+  ],
+  "from": [
+    "tourists",
+    "spend"
+  ],
+  "where": [{"condition": {
+      "instance1": "tourists",
+      "label1": "city",
+      "operator": "eq",
+      "value": "London",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "tourists",
+      "label1": "year",
+      "operator": "eq",
+      "value": 2015,
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+//
+// Datasource (total) --> 27
+// Dataset (total) --> 39716
+// Index keywords (total) --> 77027
+// (updated 4/5/2016 06:59)
+//
+// Selected keywords
+// ----> London
+// ----> spend
+// ----> tourists
+
+// 
+//  db.index.aggregate([
+//  	{ $match: {"$or" : [ { "keyword" : "london"} , { "keyword" : "spend"} , { "keyword" : "tourists"}]} },
+//  	{ $project: {total: { $size: "$documents" }}}
+//   ]);
+// 
+// { "_id" : "london", "total" : 1368 }
+// { "_id" : "spend", "total" : 15 }
+// { "_id" : "tourists", "total" : 5 }
+// Documents --> 1388
+//
+// Without keywords
+//  db.index.aggregate([
+//  	{ $match: {"$or" : [ { "keyword" : "visits"} , { "keyword" : "total"} , { "keyword" : "origin"} , { "keyword" : "city"} , { "keyword" : "year"} , { "keyword" : "2015"} , { "keyword" : "london"} , { "keyword" : "spend"} , { "keyword" : "tourists"}]} },
+//  	{ $project: {total: { $size: "$documents" }}}
+//   ]);
+//
+// 
+// { "_id" : "london", "total" : 1368 }
+// { "_id" : "2015", "total" : 803 }
+// { "_id" : "city", "total" : 240 }
+// { "_id" : "origin", "total" : 56 }
+// { "_id" : "spend", "total" : 15 }
+// { "_id" : "total", "total" : 178 }
+// { "_id" : "tourists", "total" : 5 }
+// { "_id" : "visits", "total" : 8 }
+// { "_id" : "year", "total" : 630 }
+
+// Documents --> 3303

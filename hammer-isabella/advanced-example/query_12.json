@@ -1,0 +1,83 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// Music therapy interactions of children with communication difficulties (Spiro N. & Himberg T. (2016))
+//
+// http://etsin.avointiede.fi
+// 
+//
+// SQL
+// SELECT start_time, therapist, musictype, behaviour
+// FROM therapy, videoanalysis, music
+// WHERE therapy.session = videoanalysis.session and music.musictype = therapy.musictype
+
+{
+  "select": [
+      { "column": { "instance": "therapy", "label":"start_time"}},
+  	  { "column": { "instance": "therapy", "label":"therapist"}},
+      { "column": { "instance": "music", "label":"musictype"}},
+      { "column": { "instance": "videoanalysis", "label":"behaviour"}}
+  ],
+  "from": [
+    "therapy",
+    "videoanalysis",
+    "music"
+  ],
+  "where": [{"condition": {
+      "instance1": "videoanalysis",
+      "label1": "session",
+      "operator": "eq",
+      "instance2": "therapy",
+      "label2": "session",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "therapy",
+      "label1": "musictype",
+      "operator": "eq",
+      "instance2": "music",
+      "label2": "musictype",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+//
+// Datasource (total) --> 27
+// Dataset (total) --> 39716
+// Index keywords (total) --> 77027
+// (updated 4/5/2016 06:59)
+//
+// Selected keywords
+// ----> music
+// ----> videoanalysis
+// ----> therapy
+
+// 
+// db.index.aggregate([
+//   { $match: {"$or" : [ { "keyword" : "therapy"} , { "keyword" : "videoanalysis"} , { "keyword" : "music"}]} },
+//   { $project: {total: { $size: "$documents" }}}
+//  ]);
+// 
+// { "_id" : "music", "total" : 13 }
+// { "_id" : "therapy", "total" : 4 }
+//
+// Documents --> 17
+//
+// Without keywords
+//  db.index.aggregate([
+//   { $match: {"$or" : [ { "keyword" : "behaviour"} ,  { "keyword" : "therapist"} , { "keyword" : "start_time"} , { "keyword" : "musictype"} , { "keyword" : "session"} , { "keyword" : "therapy"} , { "keyword" : "videoanalysis"} , { "keyword" : "music"}]} },
+//   { $project: {total: { $size: "$documents" }}}
+//  ]);
+//
+//  
+// { "_id" : "music", "total" : 13 }
+// { "_id" : "behaviour", "total" : 24 }
+// { "_id" : "session", "total" : 5 }
+// { "_id" : "therapist", "total" : 2 }
+// { "_id" : "therapy", "total" : 4 }
+
+// Documents --> 48

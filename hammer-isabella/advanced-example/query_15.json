@@ -1,0 +1,80 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// Analisi delle prestazioni di ricovero in degenza ordinaria (LOMBARDIA)
+// Percentuale casi oltre il valore medio di giorni di degenza (perc_casi_ovs)
+//
+// Analysis of hospital performance in inpatient (LOMBARDIA)
+// 
+// https://www.dati.lombardia.it
+// 
+//
+// SQL
+// SELECT anno_rif, perc_casi_ovs, drg, ospedale
+// FROM prestazioni, sanità
+// WHERE anno_rif >= 2010
+
+{
+  "select": [
+      { "column": { "instance": "prestazioni", "label":"anno_rif"}},
+  	  { "column": { "instance": "prestazioni", "label":"perc_casi_ovs"}},
+      { "column": { "instance": "prestazioni", "label":"drg"}},
+      { "column": { "instance": "sanità", "label":"ospedale"}}
+  ],
+  "from": [
+    "prestazioni",
+    "sanità"
+  ],
+  "where": [{"condition": {
+      "instance1": "prestazioni",
+      "label1": "anno_rif",
+      "operator": "ge",
+      "value": 2010,
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+//
+// Datasource (total) --> 27
+// Dataset (total) --> 39716
+// Index keywords (total) --> 77027
+// (updated 4/5/2016 06:59)
+//
+// Selected keywords
+// ----> sanità
+// ----> prestazioni
+
+// 
+// db.index.aggregate([
+//    { $match: {"$or" : [ { "keyword" : "sanità"} , { "keyword" : "prestazioni"}]} },
+//    { $project: {total: { $size: "$documents" }}}
+// ]);
+// 
+// { "_id" : "prestazioni", "total" : 135 }
+// { "_id" : "sanità", "total" : 3 }
+//
+// Documents --> 138
+//
+// Without keywords
+//  db.index.aggregate([
+//     { $match: {"$or" : [ { "keyword" : "2010"} , { "keyword" : "anno_rif"} , { "keyword" : "perc_casi_ovs"} ,   { "keyword" : "ospedale"} ,  { "keyword" : "drg"} ,  { "keyword" : "sanità"} , { "keyword" : "prestazioni"}]} },
+//     { $project: {total: { $size: "$documents" }}}
+//  ]);
+//
+//  
+//  { "_id" : "modalita_affidamento", "total" : 1 }
+//  { "_id" : "lombardia", "total" : 387 }
+//  { "_id" : "importo_aggiudicato", "total" : 3 }
+//  { "_id" : "denominazione_centro_di_costo", "total" : 1 }
+//  { "_id" : "gare", "total" : 27 }
+//  { "_id" : "anno", "total" : 2139 }
+//  { "_id" : "partita_iva_aggiudicatario", "total" : 3 }
+//  { "_id" : "regione", "total" : 854 }
+
+
+// Documents --> 1671
