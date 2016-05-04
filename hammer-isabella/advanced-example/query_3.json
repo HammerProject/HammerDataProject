@@ -41,10 +41,10 @@
 }
 
 //
-// Datasource (total) --> 26
-// Dataset (total) --> 27570
-// Index (total) --> 22633
-// (updated 3/5/2016 22:54)
+// Datasource (total) --> 27
+// Dataset (total) --> 39716
+// Index keywords (total) --> 77027
+// (updated 4/5/2016 06:59)
 //
 // Selected keywords
 // ----> frane
@@ -55,8 +55,9 @@
 // { $project: {total: { $size: "$documents" }}}
 // ]);
 
-// { "_id" : "frane", "total" : 5 }                   
-// Documents --> 5
+// { "_id" : "frane", "total" : 5 } 
+// { "_id" : "P3", "total" : 5 }                     
+// Documents --> 10
 //
 // Without keywords
 // db.index.aggregate([

@@ -39,10 +39,10 @@
 }
 
 //
-// Datasource (total) --> 26
-// Dataset (total) --> 27570
-// Index (total) --> 22633
-// (updated 3/5/2016 22:54)
+// Datasource (total) --> 27
+// Dataset (total) --> 39716
+// Index keywords (total) --> 77027
+// (updated 4/5/2016 06:59)
 //
 // Selected keywords
 // ----> africa
@@ -53,21 +53,23 @@
 //	{ $project: {total: { $size: "$documents" }}}
 // ]);
 //
-// { "_id" : "africa", "total" : 150 }
-// { "_id" : "transparency", "total" : 5 }
-// Documents --> 155
+// { "_id" : "africa", "total" : 151 }
+// { "_id" : "transparency", "total" : 29 }
+// Documents --> 180
 //
 // Without keywords
-// db.index.aggregate([
-// 	{ $match: {"$or" : [ { "keyword" : "region"} , { "keyword" : "country"} , { "keyword" : "budget"} , { "keyword" : "2015"} , { "keyword" : "year"} ,{ "keyword" : "africa"} , { "keyword" : "transparency"}]} },
-// 	{ $project: {total: { $size: "$documents" }}}
+//  db.index.aggregate([
+//  	{ $match: {"$or" : [ { "keyword" : "region"} , { "keyword" : "country"} , { "keyword" : "budget"} , { "keyword" : "2015"} , { "keyword" : "year"} ,{ "keyword" : "africa"} , { "keyword" : "transparency"}]} },
+//  	{ $project: {total: { $size: "$documents" }}}
 // ]);
-// { "_id" : "africa", "total" : 150 }
-// { "_id" : "budget", "total" : 149 }
-// { "_id" : "country", "total" : 70 }
-// { "_id" : "2015", "total" : 372 }
-// { "_id" : "region", "total" : 85 }
-// { "_id" : "transparency", "total" : 5 }
-// { "_id" : "year", "total" : 156 }
-
-// Documents --> 987
+//
+// 
+// { "_id" : "country", "total" : 154 }
+// { "_id" : "2015", "total" : 803 }
+// { "_id" : "africa", "total" : 151 }
+// { "_id" : "budget", "total" : 184 }
+// { "_id" : "region", "total" : 219 }
+// { "_id" : "transparency", "total" : 29 }
+// { "_id" : "year", "total" : 630 }
+// 
+// Documents --> 2170

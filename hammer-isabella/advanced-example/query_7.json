@@ -42,10 +42,10 @@
 }
 
 //
-// Datasource (total) --> 28
-// Dataset (total) --> 27908
-// Index (total) --> 23375
-// (updated 4/5/2016 01:14)
+// Datasource (total) --> 27
+// Dataset (total) --> 39716
+// Index keywords (total) --> 77027
+// (updated 4/5/2016 06:59)
 //
 // Selected keywords
 // ----> illinois
@@ -58,10 +58,10 @@
 // 	{ $project: {total: { $size: "$documents" }}}
 //  ]);
 //
-// { "_id" : "population", "total" : 325 }
-// { "_id" : "forecast", "total" : 11 }
 // { "_id" : "illinois", "total" : 153 }
-// Documents --> 389
+// { "_id" : "forecast", "total" : 18 }
+// { "_id" : "population", "total" : 867 }
+// Documents --> 1038
 //
 // Without keywords
 //  db.index.aggregate([
@@ -70,14 +70,14 @@
 //  ]);
 //
 //
-// { "_id" : "state", "total" : 225 }
-// { "_id" : "population", "total" : 325 }
-// { "_id" : "county", "total" : 354 }
-// { "_id" : "employment", "total" : 57 }
-// { "_id" : "forecast", "total" : 11 }
+// { "_id" : "household", "total" : 283 }
 // { "_id" : "illinois", "total" : 153 }
-// { "_id" : "2020", "total" : 10 }
-// { "_id" : "household", "total" : 135 }
-// { "_id" : "year", "total" : 191 }
+// { "_id" : "county", "total" : 368 }
+// { "_id" : "employment", "total" : 256 }
+// { "_id" : "forecast", "total" : 18 }
+// { "_id" : "2020", "total" : 20 }
+// { "_id" : "population", "total" : 867 }
+// { "_id" : "state", "total" : 322 }
+// { "_id" : "year", "total" : 630 }
 
-// Documents --> 1461
+// Documents --> 3313

@@ -40,10 +40,10 @@
 }
 
 //
-// Datasource (total) --> 30
-// Dataset (total) --> 37467
-// Index (total) --> 23903
-// (updated 4/5/2016 01:31)
+// Datasource (total) --> 27
+// Dataset (total) --> 39716
+// Index keywords (total) --> 77027
+// (updated 4/5/2016 06:59)
 //
 // Selected keywords
 // ----> washington
@@ -62,17 +62,17 @@
 // Documents --> 16
 //
 // Without keywords
-// db.index.aggregate([
-// 	{ $match: {"$or" : [ { "keyword" : "type"} ,  { "keyword" : "city"} , { "keyword" : "violation"} , { "keyword" : "date"} ,  { "keyword" : "washington"} , { "keyword" : "restaurant"}, { "keyword" : "inspections"}]} },
-// 	{ $project: {total: { $size: "$documents" }}}
-//  ]);
+//  db.index.aggregate([
+//  	{ $match: {"$or" : [ { "keyword" : "type"} ,  { "keyword" : "city"} , { "keyword" : "violation"} , { "keyword" : "date"} ,  { "keyword" : "washington"} , { "keyword" : "restaurant"}, { "keyword" : "inspections"}]} },
+//  	{ $project: {total: { $size: "$documents" }}}
+//   ]);
 //
 //
-// { "_id" : "restaurant", "total" : 1 }
-// { "_id" : "washington", "total" : 6 }
-// { "_id" : "type", "total" : 153 }
+// { "_id" : "date", "total" : 63 }
 // { "_id" : "inspections", "total" : 9 }
-// { "_id" : "city", "total" : 157 }
-// { "_id" : "date", "total" : 21 }
+// { "_id" : "city", "total" : 240 }
+// { "_id" : "restaurant", "total" : 1 }
+// { "_id" : "type", "total" : 380 }
+// { "_id" : "washington", "total" : 6 }
 
-// Documents --> 347
+// Documents --> 399

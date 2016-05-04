@@ -43,10 +43,10 @@
 }
 
 //
-// Datasource (total) --> 26
-// Dataset (total) --> 27570
-// Index (total) --> 22633
-// (updated 3/5/2016 22:54)
+// Datasource (total) --> 27
+// Dataset (total) --> 39716
+// Index keywords (total) --> 77027
+// (updated 4/5/2016 06:59)
 //
 // Selected keywords
 // ----> children
@@ -59,21 +59,21 @@
 // 	{ $project: {total: { $size: "$documents" }}}
 // ]);
 //
-// { "_id" : "nutrition", "total" : 18 }
-// { "_id" : "children", "total" : 67 }
+// { "_id" : "nutrition", "total" : 22 }
+// { "_id" : "children", "total" : 219 }
 // 
-// Documents --> 85
+// Documents --> 241
 //
 // Without keywords
-// db.index.aggregate([
-// 	{ $match: {"$or" : [ { "keyword" : "category"}, { "keyword" : "region"}, { "keyword" : "daily gap"}, { "keyword" : "ear"}, { "keyword" : "vitamin a"}, { "keyword" : "children"} , { "keyword" : "east-africa"} , { "keyword" : "nutrition"} , { "keyword" : "health indicators"}]} },
-// 	{ $project: {total: { $size: "$documents" }}}
-// ]);
+//  db.index.aggregate([
+//  	{ $match: {"$or" : [ { "keyword" : "category"}, { "keyword" : "region"}, { "keyword" : "daily gap"}, { "keyword" : "ear"}, { "keyword" : "vitamin a"}, { "keyword" : "children"} , { "keyword" : "east-africa"} , { "keyword" : "nutrition"} , { "keyword" : "health indicators"}]} },
+//  	{ $project: {total: { $size: "$documents" }}}
+//  ]);
 // 
-// { "_id" : "ear", "total" : 1 }
-// { "_id" : "nutrition", "total" : 18 }
-// { "_id" : "category", "total" : 2 }
-// { "_id" : "children", "total" : 67 }
-// { "_id" : "region", "total" : 85 }
+// { "_id" : "nutrition", "total" : 22 }
+// { "_id" : "ear", "total" : 2 }
+// { "_id" : "category", "total" : 30 }
+// { "_id" : "children", "total" : 219 }
+// { "_id" : "region", "total" : 219 }
 //
-// Documents --> 173
+// Documents --> 492
