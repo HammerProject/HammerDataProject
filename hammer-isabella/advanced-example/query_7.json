@@ -5,37 +5,55 @@
 // mauro.pelucchi@gmail.com
 //
 // 
-// Updated Population, Household and Employment Forecasts for Northeastern Illinois, 1990-2020
-// from http://www.cmap.illinois.gov
+// Updated Employment Forecasts for Chicago, 2010-2040
+
+// from https://datahub.cmap.illinois.gov
 // (Official regional planning organization for the northeastern Illinois counties)
 //
 // SQL
-// SELECT county, population, household, employment
-// FROM population, forecast
-// WHERE state = "illinois" and year = 2020
+// SELECT Municipality,  EMP_10,  EMP_40  
+// FROM population
+// WHERE state = 'Illinois' and municipality = 'Chicago' and release_year = 2014
+// and census_year = 2010 and forecast_year = 2040
 
 {
   "select": [
-  	  { "column": { "instance": "population", "label":"county"}},
-      { "column": { "instance": "population", "label":"population"}},
-      { "column": { "instance": "population", "label":"household"}},
-      { "column": { "instance": "population", "label":"employment"}}
+  	  { "column": { "instance": "population", "label":"municipality"}},
+      { "column": { "instance": "population", "label":"emp 10"}},
+      { "column": { "instance": "population", "label":"emp 40"}}
   ],
   "from": [
-    "population",
-    "forecast"
+    "population"
   ],
   "where": [{"condition": {
       "instance1": "population",
       "label1": "state",
       "operator": "eq",
-      "value": "illinois",
+      "value": "Illinois",
       "logicalOperator": "and"
     }},{"condition": {
-      "instance1": "forecast",
-      "label1": "year",
+      "instance1": "population",
+      "label1": "municipality",
       "operator": "eq",
-      "value": 2020,
+      "value": "Chicago",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "population",
+      "label1": "release_year",
+      "operator": "eq",
+      "value": 2014,
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "population",
+      "label1": "census",
+      "operator": "eq",
+      "value": 2010,
+      "logicalOperator": "and"
+    }} ,{"condition": {
+      "instance1": "population",
+      "label1": "forecast",
+      "operator": "eq",
+      "value": 2040,
       "logicalOperator": "and"
     }}
   ]
@@ -48,36 +66,35 @@
 // (updated 4/5/2016 06:59)
 //
 // Selected keywords
-// ----> illinois
-// ----> forecast
+// ----> Chicago
+//----> Illinois
 // ----> population
 
 // 
-//  db.index.aggregate([
-// 	{ $match: {"$or" : [ { "keyword" : "illinois"} , { "keyword" : "forecast"}, { "keyword" : "population"}]} },
+// db.index.aggregate([
+// 	{ $match: {"$or" : [ { "keyword" : "illinois"} , { "keyword" : "chicago"}, { "keyword" : "population"}]} },
 // 	{ $project: {total: { $size: "$documents" }}}
 //  ]);
 //
-// { "_id" : "illinois", "total" : 153 }
-// { "_id" : "forecast", "total" : 18 }
-// { "_id" : "population", "total" : 867 }
-// Documents --> 1038
+//{ "_id" : "illinois", "total" : 153 }
+//{ "_id" : "chicago", "total" : 62 }
+//{ "_id" : "population", "total" : 867 }
+// Documents --> 1082
 //
 // Without keywords
-//  db.index.aggregate([
-// 	{ $match: {"$or" : [  { "keyword" : "year"} ,  { "keyword" : "employment"} ,  { "keyword" : "state"} , { "keyword" : "2020"} , { "keyword" : "household"} , { "keyword" : "county"} , { "keyword" : "illinois"} , { "keyword" : "forecast"}, { "keyword" : "population"}]} },
-// 	{ $project: {total: { $size: "$documents" }}}
-//  ]);
+  db.index.aggregate([
+ 	{ $match: {"$or" : [ { "keyword" : "release_date"} , { "keyword" : "census"} ,  { "keyword" : "municipality"} ,  { "keyword" : "chicago"} ,  { "keyword" : "state"} , { "keyword" : "2020"} , { "keyword" : "emp 40"} , { "keyword" : "emp 10"} , { "keyword" : "illinois"} , { "keyword" : "forecast"}, { "keyword" : "population"}]} },
+ 	{ $project: {total: { $size: "$documents" }}}
+  ]);
 //
 //
-// { "_id" : "household", "total" : 283 }
-// { "_id" : "illinois", "total" : 153 }
-// { "_id" : "county", "total" : 368 }
-// { "_id" : "employment", "total" : 256 }
-// { "_id" : "forecast", "total" : 18 }
-// { "_id" : "2020", "total" : 20 }
-// { "_id" : "population", "total" : 867 }
-// { "_id" : "state", "total" : 322 }
-// { "_id" : "year", "total" : 630 }
+//{ "_id" : "municipality", "total" : 75 }
+//{ "_id" : "illinois", "total" : 153 }
+//{ "_id" : "forecast", "total" : 18 }
+//{ "_id" : "chicago", "total" : 62 }
+//{ "_id" : "census", "total" : 325 }
+//{ "_id" : "2020", "total" : 20 }
+//{ "_id" : "population", "total" : 867 }
+//{ "_id" : "state", "total" : 322 }
 
-// Documents --> 3313
+// Documents --> 1842
