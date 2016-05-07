@@ -152,9 +152,13 @@ public class DataSetSplitter extends MongoSplitter {
 
 				public void apply(final Document document) {
 					@SuppressWarnings("unchecked")
-					ArrayList<String> docList = (ArrayList<String>) document.get("document");
+					ArrayList<Document> docList = (ArrayList<Document>) document.get("documents");
+					ArrayList<String> idList = new ArrayList<String>();
+					for(Document doc : docList) {
+						idList.add(doc.getString("document"));
+					}
 					if (docList != null) {
-						total.add(docList);
+						total.add(idList);
 					}
 				}
 			});
@@ -163,6 +167,8 @@ public class DataSetSplitter extends MongoSplitter {
 
 			if (total.size() == 0) {
 				throw new Exception("!!!!! ERROR NOTHING FOUND !!!!");
+			} else {
+				System.out.println(" Found --> " + total.size());
 			}
 
 			float limit = Float.parseFloat(getConfiguration().get("limit"));
