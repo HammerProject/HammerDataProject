@@ -54,7 +54,7 @@ public class App {
 	 */
 	protected transient BSONDecoder _bsonDecoder = new BasicBSONDecoder();
 
-	public static void Run(String fileQuery, String mode, float limit, boolean onlyCount) throws Exception {
+	public static void Run(String fileQuery, String mode, float limit, String searchMode, boolean onlyCount) throws Exception {
 		System.out.println("!!! Hammer Project !!!");
 		System.out.println("!!! Colombo Module start.....");
 		Configuration conf = new Configuration();
@@ -108,6 +108,12 @@ public class App {
 		System.out.println("COLOMBO Create temp table " + (q.hashCode() + "").replaceAll("-", "_"));
 		conf.set("keywords", q.getKeyWords());
 		conf.set("labels", q.getMyLabels());
+		conf.set("search-mode", searchMode);
+		
+		if(searchMode == "labels") {
+			conf.set("keywords", q.getMyLabels());
+		}
+		
 		conf.set("joinCondition", q.getJoinCondition());
 
 		
@@ -127,9 +133,9 @@ public class App {
 	public static void main(String[] pArgs) throws Exception {
 
 		if (pArgs == null || pArgs.length < 3) {
-			throw new Exception("Parameter: <path_to_query> <mode: local|hdfs> <limit: 0.5|0.01..> <count: true|false>");
+			throw new Exception("Parameter: <path_to_query> <mode: local|hdfs> <limit: 0.5|0.01..> <search mode: keywords|labels> <count: true|false>");
 		}
-		Run(pArgs[0], pArgs[1], Float.parseFloat(pArgs[2]), Boolean.parseBoolean(pArgs[3]));
+		Run(pArgs[0], pArgs[1], Float.parseFloat(pArgs[2]),pArgs[2] , Boolean.parseBoolean(pArgs[4]));
 	}
 
 	public static String ReadFileFromHdfs(Configuration conf) {
