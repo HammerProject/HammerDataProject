@@ -62,7 +62,7 @@ public class DataSetSplitter extends MongoSplitter {
 		System.out.println("Colombo calculating splits for " + inputURI);
 		
 		List<Document> dataSet = getSetList();
-		System.out.println("---> found " + dataSet.size() );
+		System.out.println("---> found !!!!!! " + dataSet.size() );
 		for (Document doc : dataSet) {
 			String key = doc.getString("_id");
 			System.out.println("---> found " + key + " - " + doc.getString("title"));
@@ -77,10 +77,9 @@ public class DataSetSplitter extends MongoSplitter {
 			}
 		}
 		if(getConfiguration().getBoolean("only-count", true)) {
-			return splits;
-		} else {
-			return  new ArrayList<InputSplit>();
+			new SplitFailedException("ONLY-COUNT set to true (only simulate input slits!!!)");
 		}
+		return splits;
 		
 	}
 
@@ -137,7 +136,11 @@ public class DataSetSplitter extends MongoSplitter {
 			}
 
 			BasicDBObject searchQuery = new BasicDBObject("$or", or);
-			searchQuery.append("documents.dataset-type", new BasicDBObject("$regex", "JSON"));
+			
+			String searchMode = getConfiguration().get("search-mode");
+			if(searchMode.equals("search")) {
+				searchQuery.append("documents.dataset-type", new BasicDBObject("$regex", "JSON"));
+			}
 			
 			System.out.println("Colombo gets data set from database..." + searchQuery.toString());
 
