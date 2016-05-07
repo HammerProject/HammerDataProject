@@ -1,0 +1,77 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// Estimated Average Requirements (EAR) and Upper Intake Levels (UL) values and 
+// estimated percentiles of the usual nutrient intake distributions without fortification for children
+// in East-Aprifca
+// from africaopendata.org 
+//
+//
+//
+// SQL
+// SELECT vitamin a, ear, daily gap
+// FROM nutrition
+// WHERE region = "east-africa" and category = "children"
+
+{
+  "select": [
+      { "column": { "instance": "nutrition", "label":"vitamin a"}},
+      { "column": { "instance": "nutrition", "label":"ear"}},
+      { "column": { "instance": "nutrition", "label":"daily gap"}}
+  ],
+  "from": [
+    "nutrition"
+  ],
+  "where": [{"condition": {
+      "instance1": "nutrition",
+      "label1": "region",
+      "operator": "eq",
+      "value": "east-africa",
+      "logicalOperator": "and"
+    }}, {"condition": {
+      "instance1": "nutrition",
+      "label1": "category",
+      "operator": "eq",
+      "value": "children",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+//
+// Open Data Sources (total) --> 27
+// Open Data Resource (total) --> 39716
+// Index keywords (total) --> 77027
+// (updated 4/5/2016 06:59)
+//
+// Selected keywords
+// ----> children
+// ----> east-africa
+// ----> nutrition
+//
+// db.index.aggregate([
+// 	{ $match: {"$or" : [ { "keyword" : "children"} , { "keyword" : "east-africa"} , { "keyword" : "nutrition"} , { "keyword" : "health indicators"}]} },
+// 	{ $project: {total: { $size: "$documents" }}}
+//  ]);
+//
+// { "_id" : "nutrition", "total" : 22 }
+// { "_id" : "children", "total" : 219 }
+// 
+// Documents --> 241
+//
+// Without keywords
+//  db.index.aggregate([
+//  	{ $match: {"$or" : [ { "keyword" : "category"}, { "keyword" : "region"}, { "keyword" : "daily gap"}, { "keyword" : "ear"}, { "keyword" : "vitamin a"}, { "keyword" : "children"} , { "keyword" : "east-africa"} , { "keyword" : "nutrition"} ]} },
+//  	{ $project: {total: { $size: "$documents" }}}
+//  ]);
+// 
+// { "_id" : "nutrition", "total" : 22 }
+// { "_id" : "ear", "total" : 2 }
+// { "_id" : "category", "total" : 30 }
+// { "_id" : "children", "total" : 219 }
+// { "_id" : "region", "total" : 219 }
+//
+// Documents --> 492

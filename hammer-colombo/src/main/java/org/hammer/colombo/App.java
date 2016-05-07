@@ -96,8 +96,8 @@ public class App {
 		if (parser.getErrors().size() > 0) {
 			throw new IOException("Query syntax not correct.");
 		}
-
-		q.test();
+		
+		q.calculateMyLabels();
 		q.labelSelection();
 
 		conf.set("query-table", "query" + (q.hashCode() + "").replaceAll("-", "_"));
@@ -107,6 +107,7 @@ public class App {
 		// (q.hashCode() + "").replaceAll("-", "_") + ".json");
 		System.out.println("COLOMBO Create temp table " + (q.hashCode() + "").replaceAll("-", "_"));
 		conf.set("keywords", q.getKeyWords());
+		conf.set("labels", q.getMyLabels());
 		conf.set("joinCondition", q.getJoinCondition());
 
 		

@@ -91,6 +91,7 @@ public class Edge extends Node {
 	@Override
 	public void test(int level) {
 		int l = level+1;
+		this.setSelected(false);
 		for(int i = 0; i < level; i++) {
 			System.out.print("-");
 		}

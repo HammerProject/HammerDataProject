@@ -36,6 +36,11 @@ public class QueryGraph {
 	 * List of my KeyWords
 	 */
 	private List<String> keyWords = new ArrayList<String>();
+	
+	/**
+	 * List of all my label
+	 */
+	private List<String> myLabels = new ArrayList<String>();
 
 	/**
 	 * Constuctor for the Query Graph
@@ -120,7 +125,8 @@ public class QueryGraph {
 	 * Select label
 	 */
 	public void labelSelection() {
-		System.out.println("--------- find label -------");
+		System.out.println("--------- find labels -------");
+		this.test();
 		this.keyWords = new ArrayList<String>();
 
 		Node k = root.valid(root);
@@ -136,6 +142,20 @@ public class QueryGraph {
 		System.out.println("--------- print label -------");
 		for (String keyWord : keyWords) {
 			System.out.println(" ----> " + keyWord);
+		}
+
+	}
+	
+	/**
+	 * Select label
+	 */
+	public void calculateMyLabels() {
+		System.out.println("--------- find all labels -------");
+		this.test();
+		root.countLabels(this.myLabels);
+		System.out.println("--------- print all labels -------");
+		for (String label : myLabels) {
+			System.out.println(" ----> " + label);
 		}
 
 	}
@@ -185,5 +205,27 @@ public class QueryGraph {
 		return t;
 
 	}
+
+	/**
+	 * Get the list of all my labels
+	 */
+	public List<String> getMyLabelsAsList() {
+		return myLabels;
+	}
+	
+	/**
+	 * Get the list of all my labels (...;...;...)
+	 * @return
+	 */
+	public String getMyLabels() {
+		String t = "";
+		for (String label : myLabels) {
+			t += label + ";";
+		}
+		return t;
+
+	}
+
+	
 
 }

@@ -157,9 +157,12 @@ public class Node implements Leaf, IDataType {
 
 	/**
 	 * Print the Node
+	 * 
+	 * !!! initialize all data
 	 */
 	public void test(int level) {
 		int l = level+1;
+		this.selected = false;
 		for(int i = 0; i < level; i++) {
 			System.out.print("-");
 		}
@@ -173,12 +176,12 @@ public class Node implements Leaf, IDataType {
 	 * Count the labels on the graph
 	 * @param labels
 	 */
-	public void countLabels(ArrayList<String> labels) {
-		if (!labels.contains(this.name) && this.name != "*") {
+	public void countLabels(List<String> labels) {
+		if (!labels.contains(this.name) && this.name != "*" && this.name != "?" && !this.name.equals("Q")) {
 			labels.add(this.name);
 		}
 		if(this.father != null ){
-			if (!labels.contains(this.father.getName()) && this.father.getName() != "*") {
+			if (!labels.contains(this.father.getName()) && this.name != "*" && this.name != "?" && !this.name.equals("Q")) {
 				labels.add(this.father.getName());
 			}
 		}

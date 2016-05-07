@@ -69,6 +69,7 @@ public class App {
         //q.getQueryCondition();
         q.labelSelection();
 		System.out.println("ok !!!!");
+		q.calculateMyLabels();
 
 	}
 }
