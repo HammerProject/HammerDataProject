@@ -12,37 +12,35 @@
 // 
 //
 // SQL
-// SELECT location, coordinates, available
-// FROM cycle, hire
-// WHERE city = "London" and locked = 0 and faulty = 0
+// SELECT day, number
+// FROM cycle
+// WHERE city = "London" and day >= '01/01/2016' and day <= '31/01/2016'
 
 {
   "select": [
-  	  { "column": { "instance": "hire", "label":"location"}},
-      { "column": { "instance": "hire", "label":"coordinates"}},
-      { "column": { "instance": "cycle", "label":"available"}}
+  	  { "column": { "instance": "cycle", "label":"day"}},
+      { "column": { "instance": "cycle", "label":"hire"}}
   ],
   "from": [
-    "cycle",
-    "hire"
+    "cycle"
   ],
   "where": [{"condition": {
-      "instance1": "hire",
+      "instance1": "cycle",
       "label1": "city",
       "operator": "eq",
       "value": "London",
       "logicalOperator": "and"
     }},{"condition": {
       "instance1": "cycle",
-      "label1": "locked",
-      "operator": "eq",
-      "value": 0,
+      "label1": "day",
+      "operator": "ge",
+      "value": "01/01/2016",
       "logicalOperator": "and"
     }},{"condition": {
       "instance1": "cycle",
-      "label1": "faulty",
-      "operator": "eq",
-      "value": 0,
+      "label1": "day",
+      "operator": "le",
+      "value": "31/01/2016",
       "logicalOperator": "and"
     }}
   ]
@@ -55,36 +53,38 @@
 // (updated 4/5/2016 06:59)
 //
 // Selected keywords
-// ----> London
-// ----> cycle
-// ----> hire
+ ----> 31/01/2016
+ ----> 01/01/2016
+ ----> London
+ ----> cycle
 
 // 
-// db.index.aggregate([
-// 	{ $match: {"$or" : [ { "keyword" : "london"} , { "keyword" : "cycle"} , { "keyword" : "hire"}]} },
-// 	{ $project: {total: { $size: "$documents" }}}
-//  ]);
+//  db.index.aggregate([
+//  	{ $match: {"$or" : [ { "keyword" : "london"} , { "keyword" : "cycle"} , { "keyword" : "31/01/2016"}, { "keyword" : "01/01/2016"}]} },
+//  	{ $project: {total: { $size: "$documents" }}}
+//   ]);
 // 
+
 // { "_id" : "london", "total" : 1368 }
 // { "_id" : "cycle", "total" : 37 }
-// { "_id" : "hire", "total" : 14 }
-// Documents --> 1419
+// { "_id" : "31/01/2016", "total" : 2 }
+
+// Documents --> 1407
 //
 // Without keywords
-// db.index.aggregate([
-// 	{ $match: {"$or" : [ { "keyword" : "available"} , { "keyword" : "coordinates"} , { "keyword" : "location"} , { "keyword" : "city"} , { "keyword" : "locked"} , { "keyword" : "faulty"} , { "keyword" : "london"} , { "keyword" : "cycle"} , { "keyword" : "hire"}]} },
-// 	{ $project: {total: { $size: "$documents" }}}
-//  ]);
+//  db.index.aggregate([
+//  	{ $match: {"$or" : [ { "keyword" : "city"} , { "keyword" : "number"} , { "keyword" : "day"} , { "keyword" : "london"} , { "keyword" : "cycle"} , { "keyword" : "01/01/2016"} , { "keyword" : "31/01/2016"}, { "keyword" : "01/01/2016"}]} },
+//  	{ $project: {total: { $size: "$documents" }}}
+//   ]);
 //
 // 
-// { "_id" : "locked", "total" : 2 }
 // { "_id" : "london", "total" : 1368 }
-// { "_id" : "location", "total" : 187 }
-// { "_id" : "coordinates", "total" : 262 }
 // { "_id" : "cycle", "total" : 37 }
-// { "_id" : "faulty", "total" : 2 }
-// { "_id" : "hire", "total" : 14 }
-// { "_id" : "available", "total" : 642 }
+// { "_id" : "day", "total" : 173 }
+// { "_id" : "number", "total" : 745 }
+// { "_id" : "31/01/2016", "total" : 2 }
 // { "_id" : "city", "total" : 240 }
 
-// Documents --> 2754
+
+
+// Documents --> 2565
