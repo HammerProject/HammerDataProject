@@ -40,9 +40,9 @@
 }
 
 //
-// Open Data Sources (total) --> 27
-// Open Data Resource (total) --> 39716
-// Index keywords (total) --> 77027
+// Open Data Sources (total) --> 27 (number of record in opendatasource collection)
+// Open Data Resources (total) --> 39716 (number of record in opendataresource collection)
+// Index keywords (total) --> 77027 (number of keywords in inverted index)
 // (updated 4/5/2016 06:59)
 //
 // Selected keywords
@@ -59,7 +59,8 @@
 // { "_id" : "restaurant", "total" : 1 }
 // { "_id" : "washington", "total" : 6 }
 // { "_id" : "inspections", "total" : 9 }
-// Documents --> 16
+//
+// Resources (distinct) --> 16
 //
 // Without keywords
 //  db.index.aggregate([
