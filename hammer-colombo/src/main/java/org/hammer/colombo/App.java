@@ -54,7 +54,7 @@ public class App {
 	 */
 	protected transient BSONDecoder _bsonDecoder = new BasicBSONDecoder();
 
-	public static void Run(String fileQuery, String mode, float limit, String searchMode, boolean onlyCount, String queryMode) throws Exception {
+	public static void Run(String fileQuery, String mode, float limit, String searchMode, boolean onlyCount, String queryMode, String simulate) throws Exception {
 		System.out.println("!!! Hammer Project !!!");
 		System.out.println("!!! Colombo Module start.....");
 		Configuration conf = new Configuration();
@@ -104,6 +104,7 @@ public class App {
 
 		conf.set("search-mode", searchMode);
 		conf.set("query-mode", queryMode);
+		conf.set("simulate", simulate);
 		
 		if(queryMode.equals("labels")) {
 			q.calculateMyLabels();
@@ -138,10 +139,10 @@ public class App {
 
 	public static void main(String[] pArgs) throws Exception {
 
-		if (pArgs == null || pArgs.length < 6) {
-			throw new Exception("Parameter: <path_to_query> <mode: local|hdfs> <limit: 0.5|0.01..> <search mode: search|download> <count: true|false> <query mode: keywords|labels>");
+		if (pArgs == null || pArgs.length < 7) {
+			throw new Exception("Parameter: <path_to_query> <mode: local|hdfs> <limit: 0.5|0.01..> <search mode: search|download> <count: true|false> <query mode: keywords|labels> <simulate: true|false");
 		}
-		Run(pArgs[0], pArgs[1], Float.parseFloat(pArgs[2]),pArgs[3] , Boolean.parseBoolean(pArgs[4]), pArgs[5]);
+		Run(pArgs[0], pArgs[1], Float.parseFloat(pArgs[2]),pArgs[3] , Boolean.parseBoolean(pArgs[4]), pArgs[5], pArgs[6]);
 	}
 
 	public static String ReadFileFromHdfs(Configuration conf) {

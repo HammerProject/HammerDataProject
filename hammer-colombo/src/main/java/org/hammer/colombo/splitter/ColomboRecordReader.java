@@ -16,6 +16,7 @@ import org.apache.commons.httpclient.HttpClient;
 import org.apache.commons.httpclient.HttpStatus;
 import org.apache.commons.httpclient.methods.GetMethod;
 import org.apache.commons.httpclient.params.HttpMethodParams;
+import org.apache.commons.httpclient.util.HttpURLConnection;
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
@@ -115,7 +116,15 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 		try {
 			LOG.info(split.getUrl());
 			try {
-				long size = saveUrl(split.getName(), split.getUrl());
+				long size = -1;
+				LOG.info("--------" + conf.get("simulate") + "-----");
+				if (conf.get("simulate").equals("true")) {
+					LOG.info("-------- Start simulate -----");
+					size = tryGetFileSize(new URL(split.getUrl()));
+				} else {
+					size = saveUrl(split.getName(), split.getUrl());
+				}
+				
 				doc.put("size", size);
 			} catch (Exception e) {
 				LOG.error(e);
@@ -239,7 +248,15 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 		return mapper.writeValueAsString(data);
 	}
 
-	public long saveUrl(final String filename, final String urlString) throws Exception {
+	/**
+	 * Save a file to HDFS
+	 * 
+	 * @param filename
+	 * @param urlString
+	 * @return
+	 * @throws Exception
+	 */
+	private long saveUrl(final String filename, final String urlString) throws Exception {
 		BufferedWriter br = null;
 		InputStream in = null;
 		FileSystem hdfs = null;
@@ -253,8 +270,9 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 			out = hdfs.create(file);
 			br = new BufferedWriter(new OutputStreamWriter(out, "UTF-8"));
 			in = new BufferedInputStream(new URL(urlString).openStream());
-			long total = IOUtils.copyLarge(in, out);
 
+			long total = IOUtils.copyLarge(in, out);
+			
 			return total;
 		} catch (Exception e) {
 			LOG.error(e);
@@ -280,4 +298,23 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 
 		}
 	}
+	
+	/**
+	 * Get file Size
+	 * @param url
+	 * @return
+	 */
+	private long tryGetFileSize(URL url) {
+        HttpURLConnection conn = null;
+        try {
+            conn = (HttpURLConnection) url.openConnection();
+            conn.setRequestMethod("HEAD");
+            conn.getInputStream();
+            return conn.getContentLength();
+        } catch (IOException e) {
+            return -1;
+        } finally {
+            conn.disconnect();
+        }
+    }
 }
