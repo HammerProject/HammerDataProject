@@ -2,18 +2,98 @@
 # OPEN DATA SOURCES UTILS ################################################
 ##########################################################################
 
-db.createCollection("datasource");
-db.datasource.remove({});
-
-db.datasource.insert(
-{  "name" : "dati.toscana.it", "url" : "http://dati.toscana.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader", "action" : "http://dati.toscana.it/api/action" });
-
- db.index.aggregate([
-  	{ $match: {"$or" : [ { "datasource" : "dati.toscana.it"}, { "keyword" : "region"}, { "keyword" : "daily gap"}, { "keyword" : "ear"}, { "keyword" : "vitamin a"}, { "keyword" : "children"} , { "keyword" : "east-africa"} , { "keyword" : "nutrition"} ]} },
-  	{ $project: {total: { $dati.toscana.it: "$documents" }}}
-  ]);
+##########################################################################
+## count number of open data resources for open data source
   
-db.orders.aggregate([
-   { $group: { _id: "$datasource", number_r: { $count: "$_id" } } },
-   { $sort: { number_r: -1 } }
-]);
+db.dataset.aggregate(
+   [
+      {
+        $group : {
+           _id : { ods: "$datasource" },
+           count: { $sum: 1 }
+        }
+      }
+   ]
+);
+
+
+## result ######################################################################
+{ "_id" : { "ods" : "datahub.cmap.illinois.gov" }, "count" : 138 }
+{ "_id" : { "ods" : "annuario.comune.fi.it" }, "count" : 759 }
+{ "_id" : { "ods" : "dati.openexpo2015.it" }, "count" : 6 }
+{ "_id" : { "ods" : "data.london.gov.uk" }, "count" : 649 }
+{ "_id" : { "ods" : "dati.lazio.it" }, "count" : 236 }
+{ "_id" : { "ods" : "dati.piemonte.it" }, "count" : 811 }
+{ "_id" : { "ods" : "serviziweb2.inps.it" }, "count" : 1178 }
+{ "_id" : { "ods" : "opendata.comune.bari.it" }, "count" : 49 }
+{ "_id" : { "ods" : "dati.lombardia.it" }, "count" : 571 }
+{ "_id" : { "ods" : "dati.comune.matera.it" }, "count" : 142 }
+{ "_id" : { "ods" : "open-data.europa.eu" }, "count" : 3702 }
+{ "_id" : { "ods" : "etsin.avointiede.fi" }, "count" : 9500 }
+{ "_id" : { "ods" : "africaopendata.org" }, "count" : 2200 }
+{ "_id" : { "ods" : "opendatadc.org" }, "count" : 59 }
+{ "_id" : { "ods" : "dati.regione.sardegna.it" }, "count" : 563 }
+{ "_id" : { "ods" : "dati.veneto.it" }, "count" : 245 }
+{ "_id" : { "ods" : "data.bris.ac.uk" }, "count" : 1600 }
+{ "_id" : { "ods" : "dati.regione.basilicata.it" }, "count" : 307 }
+{ "_id" : { "ods" : "dati.mit.gov.it" }, "count" : 15 }
+{ "_id" : { "ods" : "dati.arpa.emr.it" }, "count" : 118 }
+{ "_id" : { "ods" : "dati.retecivica.bz.it" }, "count" : 200 }
+{ "_id" : { "ods" : "dati.emilia-romagna.it" }, "count" : 389 }
+{ "_id" : { "ods" : "dati.trentino.it" }, "count" : 4900 }
+{ "_id" : { "ods" : "dati.comune.lecce.it" }, "count" : 180 }
+{ "_id" : { "ods" : "dati.umbria.it" }, "count" : 296 }
+{ "_id" : { "ods" : "dati.toscana.it" }, "count" : 403 }
+{ "_id" : { "ods" : "civicdata.io" }, "count" : 200 }
+{ "_id" : { "ods" : "dati.gov.it" }, "count" : 10300 }
+
+
+##########################################################################
+##########################################################################
+## count number of open data resource urls for open data source
+  
+
+
+ db.dataset.aggregate([
+    { $match: { resources: { $exists: true } }} ,
+  	{ $project: {datasource: 1, total: { $size: "$resources" }}},
+  	{
+        $group : {
+           _id : { ods: "$datasource" },
+           count: { $sum: "$total" }
+        }
+      }
+ ]);
+ 
+ 
+## result ######################################################################
+ 
+{ "_id" : { "ods" : "datahub.cmap.illinois.gov" }, "count" : 676 }
+{ "_id" : { "ods" : "dati.veneto.it" }, "count" : 367 }
+{ "_id" : { "ods" : "annuario.comune.fi.it" }, "count" : 2584 }
+{ "_id" : { "ods" : "dati.openexpo2015.it" }, "count" : 34 }
+{ "_id" : { "ods" : "dati.comune.matera.it" }, "count" : 420 }
+{ "_id" : { "ods" : "opendata.comune.bari.it" }, "count" : 189 }
+{ "_id" : { "ods" : "data.london.gov.uk" }, "count" : 1873 }
+{ "_id" : { "ods" : "serviziweb2.inps.it" }, "count" : 3530 }
+{ "_id" : { "ods" : "etsin.avointiede.fi" }, "count" : 17840 }
+{ "_id" : { "ods" : "dati.comune.lecce.it" }, "count" : 1052 }
+{ "_id" : { "ods" : "dati.umbria.it" }, "count" : 770 }
+{ "_id" : { "ods" : "dati.trentino.it" }, "count" : 5916 }
+{ "_id" : { "ods" : "dati.gov.it" }, "count" : 29616 }
+{ "_id" : { "ods" : "civicdata.io" }, "count" : 227 }
+{ "_id" : { "ods" : "africaopendata.org" }, "count" : 7349 }
+{ "_id" : { "ods" : "opendatadc.org" }, "count" : 142 }
+{ "_id" : { "ods" : "dati.regione.sardegna.it" }, "count" : 155 }
+{ "_id" : { "ods" : "dati.retecivica.bz.it" }, "count" : 939 }
+{ "_id" : { "ods" : "dati.emilia-romagna.it" }, "count" : 25 }
+{ "_id" : { "ods" : "dati.mit.gov.it" }, "count" : 39 }
+{ "_id" : { "ods" : "dati.arpa.emr.it" }, "count" : 96 }
+{ "_id" : { "ods" : "data.bris.ac.uk" }, "count" : 28912 }
+{ "_id" : { "ods" : "dati.regione.basilicata.it" }, "count" : 1176 }
+{ "_id" : { "ods" : "dati.lazio.it" }, "count" : 820 }
+{ "_id" : { "ods" : "dati.piemonte.it" }, "count" : 72 }
+{ "_id" : { "ods" : "dati.toscana.it" }, "count" : 1362 }
+
+##########################################################################
+##########################################################################
