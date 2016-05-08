@@ -74,39 +74,53 @@ public class ColomboMapper extends Mapper<Object, BSONObject, Text, BSONWritable
     	if(pValue != null) {
         	LOG.debug("START COLOMBO MAPPER - Dataset " + pKey + " --- " + pValue.hashCode()); 
         	
-        	if(pValue instanceof BasicBSONList) {
-        		saveMap((String) pKey, ((BasicBSONList) pValue).toMap().size() );
-				BasicBSONList pList = (BasicBSONList) pValue; 
-        		for(Object pObj : pList) {
-        			Text key = new Text(pObj.hashCode() + "");
-        			if(pObj instanceof BSONObject) {
-	        			((BSONObject) pObj).put("datasource_id", (String) pKey);
-	        			pContext.write(key, new BSONWritable((BSONObject)pObj) );
-        			} else if (pObj instanceof com.google.gson.internal.LinkedTreeMap) {
-        				@SuppressWarnings("rawtypes")
-						com.google.gson.internal.LinkedTreeMap gObj = (com.google.gson.internal.LinkedTreeMap) pObj;
-        				BSONObject bObj = new BasicBSONObject();
-        				bObj.put("datasource_id", (String) pKey);
-        				for(Object gKey: gObj.keySet()) {
-        					bObj.put(gKey.toString(), gObj.get(gKey));
-        				}
-        				pContext.write(key, new BSONWritable(bObj) );
-        			}
-        		}
-        	} else if(pValue instanceof BSONObject) {
-        		saveMap((String) pKey, 1);
-        		Text key = new Text(pValue.hashCode() + "");
-        		pValue.put("datasource_id", (String) pKey);
-        		pContext.write(key, new BSONWritable(pValue) );
-        	}
-    		
-        	
-        	/*
-        	 join example
-        	if(pValue instanceof BasicBSONList) {
-				final BasicBSONList pList = (BasicBSONList) pValue; 
-        		for(Object pObj : pList) {
-        			final BSONObject bObj = (BSONObject)pObj;
+        	if(conf.get("search-mode").equals("download")) {
+        		pContext.write(new Text((String) "size"), new BSONWritable(pValue) );
+    		} else {
+
+            	if(pValue instanceof BasicBSONList) {
+            		saveMap((String) pKey, ((BasicBSONList) pValue).toMap().size() );
+    				BasicBSONList pList = (BasicBSONList) pValue; 
+            		for(Object pObj : pList) {
+            			Text key = new Text(pObj.hashCode() + "");
+            			if(pObj instanceof BSONObject) {
+    	        			((BSONObject) pObj).put("datasource_id", (String) pKey);
+    	        			pContext.write(key, new BSONWritable((BSONObject)pObj) );
+            			} else if (pObj instanceof com.google.gson.internal.LinkedTreeMap) {
+            				@SuppressWarnings("rawtypes")
+    						com.google.gson.internal.LinkedTreeMap gObj = (com.google.gson.internal.LinkedTreeMap) pObj;
+            				BSONObject bObj = new BasicBSONObject();
+            				bObj.put("datasource_id", (String) pKey);
+            				for(Object gKey: gObj.keySet()) {
+            					bObj.put(gKey.toString(), gObj.get(gKey));
+            				}
+            				pContext.write(key, new BSONWritable(bObj) );
+            			}
+            		}
+            	} else if(pValue instanceof BSONObject) {
+            		saveMap((String) pKey, 1);
+            		Text key = new Text(pValue.hashCode() + "");
+            		pValue.put("datasource_id", (String) pKey);
+            		pContext.write(key, new BSONWritable(pValue) );
+            	}
+        		
+            	
+            	/*
+            	 join example
+            	if(pValue instanceof BasicBSONList) {
+    				final BasicBSONList pList = (BasicBSONList) pValue; 
+            		for(Object pObj : pList) {
+            			final BSONObject bObj = (BSONObject)pObj;
+            			bObj.put("source_split", pKey);
+            			for(String field : bObj.keySet()) {
+            				if(joinCondition.containsKey(field.toLowerCase().trim())) {
+                				final Text key = new Text( (joinCondition.get(field.toLowerCase().trim()) + "_" + bObj.get(field)).hashCode() + "");
+                				pContext.write(key, new BSONWritable(bObj) );        					
+            				}
+            			}
+            		}
+            	} else {
+        			final BSONObject bObj = (BSONObject) pValue;
         			bObj.put("source_split", pKey);
         			for(String field : bObj.keySet()) {
         				if(joinCondition.containsKey(field.toLowerCase().trim())) {
@@ -114,18 +128,10 @@ public class ColomboMapper extends Mapper<Object, BSONObject, Text, BSONWritable
             				pContext.write(key, new BSONWritable(bObj) );        					
         				}
         			}
-        		}
-        	} else {
-    			final BSONObject bObj = (BSONObject) pValue;
-    			bObj.put("source_split", pKey);
-    			for(String field : bObj.keySet()) {
-    				if(joinCondition.containsKey(field.toLowerCase().trim())) {
-        				final Text key = new Text( (joinCondition.get(field.toLowerCase().trim()) + "_" + bObj.get(field)).hashCode() + "");
-        				pContext.write(key, new BSONWritable(bObj) );        					
-    				}
-    			}
-        	}
-            */
+            	}
+                */
+    		}
+        	
 
     	}   
     }

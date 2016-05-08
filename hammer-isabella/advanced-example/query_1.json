@@ -42,9 +42,9 @@
 }
 
 //
-// Open Data Sources (total) --> 27
-// Open Data Resource (total) --> 39716
-// Index keywords (total) --> 77027
+// Open Data Sources (total) --> 27 (number of record in opendatasource collection)
+// Open Data Resources (total) --> 39716 (number of record in opendataresource collection)
+// Index keywords (total) --> 77027 (number of keywords in inverted index)
 // (updated 4/5/2016 06:59)
 //
 // Selected keywords
@@ -60,7 +60,7 @@
 // { "_id" : "nutrition", "total" : 22 }
 // { "_id" : "children", "total" : 219 }
 // 
-// Documents --> 241
+// Resources (distinct) --> 124
 //
 // Without keywords
 //  db.index.aggregate([
@@ -74,4 +74,4 @@
 // { "_id" : "children", "total" : 219 }
 // { "_id" : "region", "total" : 219 }
 //
-// Documents --> 492
+// Resources (distinct) --> 306

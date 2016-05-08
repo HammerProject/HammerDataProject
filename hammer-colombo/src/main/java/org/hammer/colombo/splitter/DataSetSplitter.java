@@ -54,33 +54,58 @@ public class DataSetSplitter extends MongoSplitter {
 		super(conf);
 	}
 
+	@SuppressWarnings("unchecked")
 	@Override
 	public List<InputSplit> calculateSplits() throws SplitFailedException {
 		System.out.println("Calculate INPUTSPLIT FOR DATASET");
 		MongoClientURI inputURI = MongoConfigUtil.getInputURI(getConfiguration());
 		List<InputSplit> splits = new ArrayList<InputSplit>();
 		System.out.println("Colombo calculating splits for " + inputURI);
-		
+
 		List<Document> dataSet = getSetList();
-		System.out.println("---> found !!!!!! " + dataSet.size() );
+		System.out.println("---> found !!!!!! " + dataSet.size());
 		for (Document doc : dataSet) {
 			String key = doc.getString("_id");
 			System.out.println("---> found " + key + " - " + doc.getString("title"));
 			DataSetSplit dsSplit = new DataSetSplit();
-			dsSplit.setName(key);
-			if (doc.containsKey("url") && !doc.containsKey("remove")) {
-				dsSplit.setUrl(doc.getString("url"));
-				dsSplit.setType(doc.getString("dataset-type"));
-				dsSplit.setDataSetType(doc.getString("datainput_type"));
-				dsSplit.setDatasource(doc.getString("id"));
-				splits.add(dsSplit);
+			if (getConfiguration().get("search-mode").equals("download")) {
+				dsSplit.setName(key);
+				if (doc.containsKey("url") && !doc.containsKey("remove")) {
+					dsSplit.setUrl(doc.getString("url"));
+					dsSplit.setType(doc.getString("dataset-type"));
+					dsSplit.setDataSetType(doc.getString("datainput_type"));
+					dsSplit.setDatasource(doc.getString("id"));
+					splits.add(dsSplit);
+				}
+				if (doc.containsKey("resources")) {
+					ArrayList<Document> resources = (ArrayList<Document>) doc.get("resources");
+					for (Document resource : resources) {
+						String rKey = key + "_" + resource.getString("id");
+						dsSplit.setName(rKey);
+						dsSplit.setUrl(resource.getString("url"));
+						dsSplit.setType(doc.getString("dataset-type"));
+						dsSplit.setDataSetType(doc.getString("datainput_type"));
+						dsSplit.setDatasource(doc.getString("id"));
+						splits.add(dsSplit);
+						
+					}
+				}
+			} else {
+				dsSplit.setName(key);
+				if (doc.containsKey("url") && !doc.containsKey("remove")) {
+					dsSplit.setUrl(doc.getString("url"));
+					dsSplit.setType(doc.getString("dataset-type"));
+					dsSplit.setDataSetType(doc.getString("datainput_type"));
+					dsSplit.setDatasource(doc.getString("id"));
+					splits.add(dsSplit);
+				}
 			}
 		}
-		if(getConfiguration().getBoolean("only-count", true)) {
+		if (getConfiguration().getBoolean("only-count", true)) {
 			new SplitFailedException("ONLY-COUNT set to true (only simulate input slits!!!)");
 		}
 		return splits;
-		
+
 	}
 
 	/**
@@ -136,12 +161,12 @@ public class DataSetSplitter extends MongoSplitter {
 			}
 
 			BasicDBObject searchQuery = new BasicDBObject("$or", or);
-			
+
 			String searchMode = getConfiguration().get("search-mode");
-			if(searchMode.equals("search")) {
+			if (searchMode.equals("search")) {
 				searchQuery.append("documents.dataset-type", new BasicDBObject("$regex", "JSON"));
 			}
-			
+
 			System.out.println("Colombo gets data set from database..." + searchQuery.toString());
 
 			FindIterable<Document> indexS = index.find(searchQuery);
@@ -154,7 +179,7 @@ public class DataSetSplitter extends MongoSplitter {
 					@SuppressWarnings("unchecked")
 					ArrayList<Document> docList = (ArrayList<Document>) document.get("documents");
 					ArrayList<String> idList = new ArrayList<String>();
-					for(Document doc : docList) {
+					for (Document doc : docList) {
 						idList.add(doc.getString("document"));
 					}
 					if (docList != null) {

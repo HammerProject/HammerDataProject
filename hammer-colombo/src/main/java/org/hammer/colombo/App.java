@@ -71,6 +71,8 @@ public class App {
 		conf.set("limit", limit + "");
 
 		String query = "";
+		conf.set("hdfs-site", "hdfs://192.168.56.90:9000"); //54310???
+		conf.set("download", "hdfs://192.168.56.90:9000/hammer/download");
 		if (mode.equals("hdfs")) {
 			conf.set("query-file", "hdfs://192.168.56.90:9000/hammer/" + fileQuery);
 			query = ReadFileFromHdfs(conf);
@@ -97,23 +99,26 @@ public class App {
 			throw new IOException("Query syntax not correct.");
 		}
 		
-		q.calculateMyLabels();
-		q.labelSelection();
+		
+		
 
+		conf.set("search-mode", searchMode);
+		conf.set("query-mode", queryMode);
+		
+		if(queryMode.equals("labels")) {
+			q.calculateMyLabels();
+			conf.set("keywords", q.getMyLabels());
+		} else {
+			q.labelSelection();
+			conf.set("keywords", q.getKeyWords());
+		}
 		conf.set("query-table", "query" + (q.hashCode() + "").replaceAll("-", "_"));
 		conf.set("query-result", "result" + (q.hashCode() + "").replaceAll("-", "_"));
 		conf.set("list-result", "list" + (q.hashCode() + "").replaceAll("-", "_"));
 		// conf.set("query-out", "hdfs://192.168.56.90:9000/hammer/out" +
 		// (q.hashCode() + "").replaceAll("-", "_") + ".json");
 		System.out.println("COLOMBO Create temp table " + (q.hashCode() + "").replaceAll("-", "_"));
-		conf.set("keywords", q.getKeyWords());
-		conf.set("labels", q.getMyLabels());
-		conf.set("search-mode", searchMode);
-		conf.set("query-mode", queryMode);
 		
-		if(queryMode == "labels") {
-			conf.set("keywords", q.getMyLabels());
-		}
 		
 		conf.set("joinCondition", q.getJoinCondition());
 

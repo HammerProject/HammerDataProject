@@ -1,0 +1,19 @@
+##########################################################################
+# OPEN DATA SOURCES UTILS ################################################
+##########################################################################
+
+db.createCollection("datasource");
+db.datasource.remove({});
+
+db.datasource.insert(
+{  "name" : "dati.toscana.it", "url" : "http://dati.toscana.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader", "action" : "http://dati.toscana.it/api/action" });
+
+ db.index.aggregate([
+  	{ $match: {"$or" : [ { "datasource" : "dati.toscana.it"}, { "keyword" : "region"}, { "keyword" : "daily gap"}, { "keyword" : "ear"}, { "keyword" : "vitamin a"}, { "keyword" : "children"} , { "keyword" : "east-africa"} , { "keyword" : "nutrition"} ]} },
+  	{ $project: {total: { $dati.toscana.it: "$documents" }}}
+  ]);
+  
+db.orders.aggregate([
+   { $group: { _id: "$datasource", number_r: { $count: "$_id" } } },
+   { $sort: { number_r: -1 } }
+]);
