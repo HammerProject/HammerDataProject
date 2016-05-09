@@ -13,6 +13,10 @@ bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App
 ## download all resources by query
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/query_1.json local 0.0 download true labels
 
+## simulate download all resources by query
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/query_5.json local 0.0 download true labels true
+
+
 ## download selected resources by query
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/query_1.json local 0.0 download true keywords
 
@@ -31,7 +35,11 @@ bin/yarn jar share/hammer/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App 
 bin/yarn jar share/hammer/hammer-pinta-0.0.2.jar org.hammer.pinta.App
 
 ## download all resources by query
-bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/query_1.json local 0.0 download true labels
+bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/query_8.json local 0.0 download true labels true
+
+## simulate download all resources by query
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/query_8.json local 0.0 download true labels true
+
 
 ## download selected resources by query
 bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/query_1.json local 0.0 download true keywords

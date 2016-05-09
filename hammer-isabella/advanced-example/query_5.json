@@ -33,9 +33,9 @@
 }
 
 //
-// Open Data Sources (total) --> 27
-// Open Data Resource (total) --> 39716
-// Index keywords (total) --> 77027
+// Open Data Sources (total) --> 27 (number of record in opendatasource collection)
+// Open Data Resources (total) --> 39716 (number of record in opendataresource collection)
+// Index keywords (total) --> 77027 (number of keywords in inverted index)
 // (updated 4/5/2016 06:59)
 //
 //
@@ -51,7 +51,8 @@
 //
 // { "_id" : "africa", "total" : 151 }
 // { "_id" : "sports", "total" : 18 }
-// Documents --> 169
+//
+// Resources (distinct) --> 116
 //
 // Without keywords
 //   db.index.aggregate([
@@ -65,4 +66,4 @@
 // { "_id" : "region", "total" : 219 }
 // { "_id" : "sports", "total" : 18 }
 // 
-// Documents --> 422
+// Resources (distinct) --> 312

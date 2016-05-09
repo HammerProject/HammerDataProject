@@ -68,7 +68,7 @@
 // { "_id" : "drug", "total" : 7 }
 // { "_id" : "province", "total" : 62 }
 
-// Documents --> 207
+// Resources (distinct) --> 94
 //
 // Without keywords
 //   db.index.aggregate([
@@ -85,4 +85,4 @@
 // { "_id" : "province", "total" : 62 }
 // { "_id" : "year", "total" : 630 }
 
-// Documents --> 1723
+// Resources (distinct) --> 1142

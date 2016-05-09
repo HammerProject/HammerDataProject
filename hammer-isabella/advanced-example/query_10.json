@@ -78,7 +78,7 @@
 // { "_id" : "tourists", "total" : 5 }
 
 
-// Documents --> 1375
+/// Resources (distinct) --> 376
 //
 // Without keywords
 //  db.index.aggregate([
@@ -99,4 +99,4 @@
 //{ "_id" : "visits", "total" : 8 }
 //{ "_id" : "year", "total" : 630 }
 
-// Documents --> 3022
+// Resources (distinct) --> 1521

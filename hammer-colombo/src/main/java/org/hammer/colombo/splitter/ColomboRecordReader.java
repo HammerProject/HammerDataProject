@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
+import java.net.HttpURLConnection;
 import java.net.URI;
 import java.net.URL;
 import java.util.List;
@@ -16,7 +17,6 @@ import org.apache.commons.httpclient.HttpClient;
 import org.apache.commons.httpclient.HttpStatus;
 import org.apache.commons.httpclient.methods.GetMethod;
 import org.apache.commons.httpclient.params.HttpMethodParams;
-import org.apache.commons.httpclient.util.HttpURLConnection;
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
@@ -26,6 +26,7 @@ import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.mapreduce.InputSplit;
 import org.apache.hadoop.mapreduce.RecordReader;
 import org.apache.hadoop.mapreduce.TaskAttemptContext;
+import org.apache.http.client.params.ClientPNames;
 import org.bson.BSONObject;
 import org.bson.BasicBSONObject;
 import org.bson.types.BasicBSONList;
@@ -120,11 +121,12 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 				LOG.info("--------" + conf.get("simulate") + "-----");
 				if (conf.get("simulate").equals("true")) {
 					LOG.info("-------- Start simulate -----");
-					size = tryGetFileSize(new URL(split.getUrl()));
+					LOG.info("--> " + split.getUrl());
+					size = tryGetFileSize(split.getUrl());
 				} else {
 					size = saveUrl(split.getName(), split.getUrl());
 				}
-				
+
 				doc.put("size", size);
 			} catch (Exception e) {
 				LOG.error(e);
@@ -272,7 +274,7 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 			in = new BufferedInputStream(new URL(urlString).openStream());
 
 			long total = IOUtils.copyLarge(in, out);
-			
+
 			return total;
 		} catch (Exception e) {
 			LOG.error(e);
@@ -281,40 +283,96 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 			if (in != null) {
 				in.close();
 			}
-			
+
 			if (br != null) {
 				br.close();
 			}
-			
+
 			if (out != null) {
 				out.close();
 			}
-			
+
 			if (hdfs != null) {
 				hdfs.close();
 			}
-			
-			
 
 		}
 	}
-	
+
 	/**
 	 * Get file Size
+	 * 
 	 * @param url
 	 * @return
 	 */
-	private long tryGetFileSize(URL url) {
-        HttpURLConnection conn = null;
-        try {
-            conn = (HttpURLConnection) url.openConnection();
-            conn.setRequestMethod("HEAD");
-            conn.getInputStream();
-            return conn.getContentLength();
-        } catch (IOException e) {
-            return -1;
-        } finally {
-            conn.disconnect();
-        }
-    }
+	private long tryGetFileSize(String url) {
+
+		HttpURLConnection conn = null;
+		try {
+			URL wUrl = new URL(url);
+			conn = (HttpURLConnection) wUrl.openConnection();
+			conn.setRequestMethod("HEAD");
+			conn.getInputStream();
+			return conn.getContentLength();
+		} catch (Exception e) {
+			e.printStackTrace();
+		} finally {
+			conn.disconnect();
+		}
+		
+		HttpClient client = new HttpClient();
+		client.getHttpConnectionManager().getParams().setParameter(ClientPNames.HANDLE_REDIRECTS, false);
+		GetMethod method = new GetMethod(url);
+		client.getHttpConnectionManager().getParams().setConnectionTimeout(3000);
+		client.getHttpConnectionManager().getParams().setSoTimeout(2000);
+		method.setRequestHeader("User-Agent", "Hammer Project - Colombo");
+		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - Colombo");
+		method.getParams().setParameter(HttpMethodParams.RETRY_HANDLER, new DefaultHttpMethodRetryHandler(3, false));
+
+		try {
+			int statusCode = client.executeMethod(method);
+			if (statusCode != HttpStatus.SC_OK) {
+				throw new Exception("Method failed: " + method.getStatusLine());
+			}
+			long l = method.getResponseContentLength();
+			if (l == -1) {
+				l = method.getResponseBody().length;
+			}
+			return l;
+
+		} catch (Exception e) {
+			e.printStackTrace();
+			LOG.error(e);
+			return -1;
+		} finally {
+			method.releaseConnection();
+		}
+	}
+
+	//
+	public static void main(String[] pArgs) throws Exception {
+		String url = "https://africaopendata.org/dataset/94b99293-6ab7-420d-9a5b-6001c3e760a2/resource/5ebfb72a-c33a-410c-9f7d-bdb9dab19b5e/download/zimbabwe.xlsx";
+
+		HttpClient client = new HttpClient();
+		client.getHttpConnectionManager().getParams().setParameter(ClientPNames.HANDLE_REDIRECTS, false);
+		GetMethod method = new GetMethod(url);
+		method.setRequestHeader("User-Agent", "Hammer Project - Colombo");
+		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - Colombo");
+		method.getParams().setParameter(HttpMethodParams.RETRY_HANDLER, new DefaultHttpMethodRetryHandler(3, false));
+
+		try {
+			int statusCode = client.executeMethod(method);
+			if (statusCode != HttpStatus.SC_OK) {
+				throw new Exception("Method failed: " + method.getStatusLine());
+			}
+
+			System.out.println(method.getResponseContentLength());
+			System.out.println(method.getResponseBody().length);
+		} catch (Exception e) {
+			e.printStackTrace();
+			LOG.error(e);
+		} finally {
+			method.releaseConnection();
+		}
+	}
 }

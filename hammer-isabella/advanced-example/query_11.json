@@ -61,7 +61,7 @@
 // { "_id" : "life", "total" : 148 }
 // { "_id" : "survey", "total" : 789 }
 //
-// Documents --> 937
+// Resources (distinct) --> 598
 //
 // Without keywords
 //   db.index.aggregate([
@@ -78,5 +78,5 @@
 // { "_id" : "survey", "total" : 789 }
 // { "_id" : "title", "total" : 22 }
 // { "_id" : "volunteering", "total" : 12 }
-
-// Documents --> 1394
+//
+// Resources (distinct) --> 796

@@ -53,10 +53,10 @@
 // (updated 4/5/2016 06:59)
 //
 // Selected keywords
- ----> 31/01/2016
- ----> 01/01/2016
- ----> London
- ----> cycle
+// ----> 31/01/2016
+// ----> 01/01/2016
+// ----> London
+// ----> cycle
 
 // 
 //  db.index.aggregate([
@@ -68,8 +68,8 @@
 // { "_id" : "london", "total" : 1368 }
 // { "_id" : "cycle", "total" : 37 }
 // { "_id" : "31/01/2016", "total" : 2 }
-
-// Documents --> 1407
+//
+// Resources (distinct) --> 379
 //
 // Without keywords
 //  db.index.aggregate([
@@ -84,7 +84,6 @@
 // { "_id" : "number", "total" : 745 }
 // { "_id" : "31/01/2016", "total" : 2 }
 // { "_id" : "city", "total" : 240 }
-
-
-
-// Documents --> 2565
+//
+//
+// Resources (distinct) --> 591
