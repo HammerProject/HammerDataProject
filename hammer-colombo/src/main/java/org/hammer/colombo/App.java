@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.StringReader;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -22,6 +23,7 @@ import org.hammer.isabella.cc.ParseException;
 import org.hammer.isabella.cc.util.IsabellaUtils;
 import org.hammer.isabella.query.Edge;
 import org.hammer.isabella.query.IsabellaError;
+import org.hammer.isabella.query.Keyword;
 import org.hammer.isabella.query.Node;
 import org.hammer.isabella.query.QueryGraph;
 import org.hammer.isabella.query.ValueNode;
@@ -43,7 +45,7 @@ import com.mongodb.hadoop.util.MongoConfigUtil;
  *
  */
 public class App {
-
+	
 	/**
 	 * Encoder
 	 */
@@ -90,6 +92,7 @@ public class App {
 		} catch (ParseException e) {
 			throw new IOException(e);
 		}
+		q.setIndex(GetMyIndex(conf));
 
 		for (IsabellaError err : parser.getErrors().values()) {
 			System.out.println(err.toString());
@@ -308,6 +311,49 @@ public class App {
 			}
 		}
 
+	}
+	
+	/**
+	 * Get the inverted index
+	 * @param conf
+	 * @param q
+	 * @return
+	 */
+	public static HashMap<String, Keyword> GetMyIndex(Configuration conf) {
+		MongoClient mongo = null;
+		final HashMap<String, Keyword> index = new HashMap<String, Keyword>();
+		MongoDatabase db = null;
+		System.out.println("Select my index...");
+		try {
+
+			MongoClientURI inputURI = MongoConfigUtil.getInputURI(conf);
+			mongo = new MongoClient(inputURI);
+			db = mongo.getDatabase(inputURI.getDatabase());
+
+			MongoCollection<Document> myIdx = db.getCollection("index");
+			final long totalResources = myIdx.count();
+			FindIterable<Document> iterable = myIdx.find();
+
+			iterable.forEach(new Block<Document>() {
+
+				@SuppressWarnings("unchecked")
+				public void apply(final Document document) {
+					ArrayList<Document> docList = (ArrayList<Document>) document.get("documents");
+					long mT = docList.size();
+					Keyword k = new Keyword(document.getString("keyword"), totalResources, mT);
+					index.put(document.getString("keyword"), k);
+				}
+			});
+
+		} catch (Exception ex) {
+			ex.printStackTrace();
+		} finally {
+			if (mongo != null) {
+				mongo.close();
+			}
+		}
+		return index;
+		
 	}
 
 }

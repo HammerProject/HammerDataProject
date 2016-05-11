@@ -17,7 +17,7 @@ public class TextValueNode extends ValueNode {
 	 * @param column
 	 */
 	public TextValueNode(String name, int line, int column) {
-		super(name, 0.8f, line, column);
+		super(name, 0.5f, 0.0f, line, column);
 	}
 
 

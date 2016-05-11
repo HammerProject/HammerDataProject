@@ -21,6 +21,7 @@ org/hammer/isabella/query/InstanceNode.class
 org/hammer/isabella/cc/util/IsabellaUtils.class
 org/hammer/isabella/query/Node.class
 org/hammer/isabella/cc/IsabellaTokenManager.class
+org/hammer/isabella/query/Keyword.class
 org/hammer/isabella/query/LogicalOperator.class
 org/hammer/isabella/query/QueryGraph.class
 org/hammer/isabella/query/QuestionNode.class

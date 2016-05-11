@@ -14,12 +14,27 @@ public abstract  class ValueNode extends Node {
 	 * Build a Value Node
 	 * 
 	 * @param name
-	 * @param rScore
+	 * @param riScore
+	 * @param reScore
 	 * @param line
 	 * @param column
 	 */
-	public ValueNode(String name, float rScore, int line, int column) {
-		super(name, 1.0f, rScore, line, column);
+	public ValueNode(String name, float riScore, float reScore, int line, int column) {
+		super(name, 0.8f, riScore, reScore, line, column);
+	}
+	
+	/**
+	 * Build a Value Node
+	 * 
+	 * @param name
+	 * @param iScore
+	 * @param riScore
+	 * @param reScore
+	 * @param line
+	 * @param column
+	 */
+	public ValueNode(String name, float iScore, float riScore, float reScore, int line, int column) {
+		super(name, iScore, riScore, reScore, line, column);
 	}
 
 

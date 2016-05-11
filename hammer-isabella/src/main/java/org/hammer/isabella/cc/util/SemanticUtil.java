@@ -68,7 +68,7 @@ public class SemanticUtil {
 		edge.setInstance(sl.containsKey("instance") ? sl.get("instance").getLiteralValue() : "");
 		edge.eval(errorList, t.beginLine, t.beginColumn);
 		edge.setCondition("");
-		QuestionNode qN = new QuestionNode("?",0.0f,0.0f, t.beginLine, t.beginColumn);
+		QuestionNode qN = new QuestionNode("?",0.0f,0.0f,0.0f, t.beginLine, t.beginColumn);
 		edge.addChild(qN);
 		return edge;
 	}

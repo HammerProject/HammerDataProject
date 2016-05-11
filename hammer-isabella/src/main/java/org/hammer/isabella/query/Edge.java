@@ -57,7 +57,7 @@ public class Edge extends Node {
 	 * @param column
 	 */
 	public Edge(String name, int line, int column) {
-		super(name, 0.8f, 0.2f, line, column);
+		super(name, 1.0f, 0.8f, 0.0f, line, column);
 	}
 
 	/**
@@ -95,7 +95,7 @@ public class Edge extends Node {
 		for(int i = 0; i < level; i++) {
 			System.out.print("-");
 		}
-		System.out.println(("-> " + this.getCondition()).trim() + " " + this.instance + "." + this.getName() + " " + this.getOperator() + "(" + this.getiScore() + ", " + this.getrScore() + ")");
+		System.out.println(("-> " + this.getCondition()).trim() + " " + this.instance + "." + this.getName() + " " + this.getOperator() + "(" + this.getiScore() + ", " + this.getriScore() + ", " + this.getreScore() + ")");
 		for (Node node : getChild()) {
 			node.test(l);
 		}

@@ -314,6 +314,9 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 			conn.setRequestMethod("HEAD");
 			conn.getInputStream();
 			return conn.getContentLength();
+		} catch (IOException e) {
+			e.printStackTrace();
+			return -1;
 		} catch (Exception e) {
 			e.printStackTrace();
 		} finally {

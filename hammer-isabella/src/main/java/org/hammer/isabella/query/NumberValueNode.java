@@ -16,7 +16,7 @@ public class NumberValueNode extends ValueNode {
 	 * @param column
 	 */
 	public NumberValueNode(String name, int line, int column) {
-		super(name, 0.0f, line, column);
+		super(name, 0.2f, 0.0f, line, column);
 	}
 
 }

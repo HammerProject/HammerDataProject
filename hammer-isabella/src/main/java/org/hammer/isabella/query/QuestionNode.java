@@ -17,8 +17,8 @@ public class QuestionNode extends Node {
 	 * @param line
 	 * @param column
 	 */
-	public QuestionNode(String name, float iScore, float rScore, int line, int column) {
-		super(name, iScore, rScore, line, column);
+	public QuestionNode(String name, float iScore, float riScore, float reScore, int line, int column) {
+		super(name, iScore, riScore, reScore, line, column);
 	}
 
 }

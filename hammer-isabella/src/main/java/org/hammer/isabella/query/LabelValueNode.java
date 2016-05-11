@@ -19,7 +19,7 @@ public class LabelValueNode extends ValueNode {
 	 * @param column
 	 */
 	public LabelValueNode(String instance, String name, int line, int column) {
-		super(name, 0.6f, line, column);
+		super(name, 1.0f, 0.8f, 0.0f, line, column);
 		this.instance = instance;
 	}
 	

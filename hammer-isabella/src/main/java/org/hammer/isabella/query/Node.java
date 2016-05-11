@@ -1,6 +1,7 @@
 package org.hammer.isabella.query;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.SortedMap;
 
@@ -13,6 +14,20 @@ import java.util.SortedMap;
  */
 public class Node implements Leaf, IDataType {
 
+	/**
+	 * Update reScore
+	 * @param index
+	 */
+	public void updareReScore(HashMap<String, Keyword> index) {
+		if(index.containsKey(this.getName())) {
+			this.reScore = index.get(this.getName()).getReScore();
+		} else {
+			this.reScore = 0.0f;
+		}	
+		for (Node node : getChild()) {
+			node.updareReScore(index);
+		}
+	}
 	/**
 	 * True if the node is selected for the label list
 	 */
@@ -29,9 +44,15 @@ public class Node implements Leaf, IDataType {
 	private float iScore = 0.0f;
 
 	/**
-	 * My r-score
+	 * My ri-score
 	 */
-	private float rScore = 0.0f;
+	private float riScore = 0.0f;
+	
+	/**
+	 * My re-score
+	 */
+	private float reScore = 0.0f;
+	
 
 	/**
 	 * Line from the source code
@@ -95,18 +116,26 @@ public class Node implements Leaf, IDataType {
 	}
 
 	/**
-	 * Return my representive score
+	 * Return my representive in score
 	 * @return
 	 */
-	public float getrScore() {
-		return rScore;
+	public float getriScore() {
+		return riScore;
+	}
+	
+	/**
+	 * Return my representive ext score
+	 * @return
+	 */
+	public float getreScore() {
+		return reScore;
 	}
 
 	/**
 	 * Consume my informative
 	 * @param value
 	 */
-	public void decI(float value) {
+	public void dec(float value) {
 		iScore -= value;
 	}
 
@@ -119,23 +148,27 @@ public class Node implements Leaf, IDataType {
 	 * @param line
 	 * @param column
 	 */
-	public Node(String name, float iScore, float rScore, int line, int column) {
+	public Node(String name, float iScore, float riScore, float reScore, int line, int column) {
 		this.name = name;
 		this.iScore = iScore;
-		this.rScore = rScore;
+		this.riScore = riScore;
+		this.reScore = reScore;
 		this.line = line;
 		this.column = column;
 		this.child = new ArrayList<Node>();
 		
 		if(this.name == "*") {
 			this.iScore = 0.0f;
-			this.rScore = 0.0f;
+			this.riScore = 0.0f;
+			this.reScore = 0.0f;
 		} else if(this.name == "Q") {
 			this.iScore = 0.0f;
-			this.rScore = 0.0f;
+			this.riScore = 0.0f;
+			this.reScore = 0.0f;
 		} else if(this.name == "?") {
 			this.iScore = 0.0f;
-			this.rScore = 0.0f;
+			this.riScore = 0.0f;
+			this.reScore = 0.0f;
 		} 
 	}
 
@@ -166,7 +199,7 @@ public class Node implements Leaf, IDataType {
 		for(int i = 0; i < level; i++) {
 			System.out.print("-");
 		}
-		System.out.println("-> " + this.name + " (" + iScore + ", " + rScore + ")");
+		System.out.println("-> " + this.name + " (" + iScore + ", " + riScore + "," + reScore + ")");
 		for (Node node : getChild()) {
 			node.test(l);
 		}
@@ -199,16 +232,24 @@ public class Node implements Leaf, IDataType {
 		if (maxNode == null)
 			maxNode = this;
 		if (!this.selected) {
-			if ((this.iScore + this.rScore) >= (maxNode.iScore + maxNode.rScore)) {
+			if ((this.iScore + this.rScore()) >= (maxNode.iScore + maxNode.rScore())) {
 				maxNode = this;
 			}
 		}
 		for (Node node : getChild()) {
 			maxNode = node.valid(maxNode);
 		}
-		if (maxNode != null && ((maxNode.iScore + maxNode.rScore) <= 1.0f))
+		if (maxNode != null && ((maxNode.iScore + maxNode.rScore()) <= 1.0f))
 			return null;
 		return maxNode;
+	}
+	
+	/**
+	 * Get My R Score
+	 * @return
+	 */
+	public float rScore() {
+		return ((riScore + reScore) / 2.0f);
 	}
 
 	/**

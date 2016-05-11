@@ -1,6 +1,7 @@
 package org.hammer.isabella.query;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 /**
@@ -41,6 +42,20 @@ public class QueryGraph {
 	 * List of all my label
 	 */
 	private List<String> myLabels = new ArrayList<String>();
+	
+	
+	public HashMap<String, Keyword> getIndex() {
+		return index;
+	}
+
+	public void setIndex(HashMap<String, Keyword> index) {
+		this.index = index;
+	}
+
+	/**
+	 * List of all my label
+	 */
+	private HashMap<String, Keyword> index = new HashMap<String, Keyword>();
 
 	/**
 	 * Constuctor for the Query Graph
@@ -89,15 +104,15 @@ public class QueryGraph {
 	}
 
 	/**
-	 * Update informative score
+	 * Update r-score
 	 * 
 	 * @param select
 	 */
-	private void updateIScore(Node select) {
+	private void updateScore(Node select) {
 		ArrayList<Node> queue = new ArrayList<Node>();
 		queue.add(select);
 		queue.add(select.father);
-		float vol = select.getrScore();
+		float vol = select.rScore();
 
 		while (!queue.isEmpty()) {
 			Node t = queue.get(0);
@@ -112,7 +127,7 @@ public class QueryGraph {
 			}
 			for (Node node : t.getChild()) {
 				if (node != t.father()) {
-					node.decI(vol / out / 2);
+					node.dec(vol / out / 2);
 					if (!queue.contains(node)) {
 						queue.add(node);
 					}
@@ -122,21 +137,29 @@ public class QueryGraph {
 	}
 
 	/**
+	 * Update the reScore for each node
+	 */
+	private void updareReScore() {
+		root.updareReScore(this.index);
+	}
+	
+	/**
 	 * Select label
 	 */
 	public void labelSelection() {
+		this.updareReScore();
 		System.out.println("--------- find labels -------");
 		this.test();
 		this.keyWords = new ArrayList<String>();
 
 		Node k = root.valid(root);
 		while (k != null) {
-			System.out.println("---------" + k.getName() + " --!!! " + (k.getiScore() + k.getrScore()));
+			System.out.println("---------" + k.getName() + " --!!! " + (k.rScore()));
 			k.setSelected(true);
 			if (!this.keyWords.contains(k.getName()) && k.getName() != "*" && k.getName().trim().length() > 2) {
 				this.keyWords.add(k.getName());
 			}
-			this.updateIScore(k);
+			this.updateScore(k);
 			k = root.valid(root);
 		}
 		System.out.println("--------- print label -------");
@@ -150,6 +173,7 @@ public class QueryGraph {
 	 * Select label
 	 */
 	public void calculateMyLabels() {
+		this.updareReScore();
 		System.out.println("--------- find all labels -------");
 		this.test();
 		root.countLabels(this.myLabels);

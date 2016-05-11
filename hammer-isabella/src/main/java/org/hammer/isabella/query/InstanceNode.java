@@ -16,7 +16,7 @@ public class InstanceNode extends Node {
 	 * @param column
 	 */
 	public InstanceNode(String name, int line, int column) {
-		super(name, 1.0f, 0.6f, line, column);
+		super(name, 1.0f, 1.0f, 0.0f, line, column);
 	}
 
 	
