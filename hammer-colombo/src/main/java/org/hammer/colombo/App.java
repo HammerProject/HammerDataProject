@@ -60,6 +60,8 @@ public class App {
 		System.out.println("!!! Hammer Project !!!");
 		System.out.println("!!! Colombo Module start.....");
 		Configuration conf = new Configuration();
+		new ColomboConfig(conf);
+		
 		conf.set("thesaurus.url", "http://thesaurus.altervista.org/thesaurus/v1");
 
 		conf.set("thesaurus.key", "bVKAPIcUum3hEFGKEBAu"); // x hammerproject
@@ -84,7 +86,17 @@ public class App {
 		}
 		conf.set("query-string", query);
 		conf.set("only-count", onlyCount + "");
-		System.out.println(query);
+		
+		
+		
+		
+		
+
+		conf.set("search-mode", searchMode);
+		conf.set("query-mode", queryMode);
+		conf.set("simulate", simulate);
+		
+		//System.out.println(query);
 		Isabella parser = new Isabella(new StringReader(query));
 		QueryGraph q;
 		try {
@@ -101,14 +113,6 @@ public class App {
 		if (parser.getErrors().size() > 0) {
 			throw new IOException("Query syntax not correct.");
 		}
-		
-		
-		
-
-		conf.set("search-mode", searchMode);
-		conf.set("query-mode", queryMode);
-		conf.set("simulate", simulate);
-		
 		if(queryMode.equals("labels")) {
 			q.calculateMyLabels();
 			conf.set("keywords", q.getMyLabels());
@@ -332,6 +336,7 @@ public class App {
 
 			MongoCollection<Document> myIdx = db.getCollection("index");
 			final long totalResources = myIdx.count();
+			System.out.println(" index " + totalResources);
 			FindIterable<Document> iterable = myIdx.find();
 
 			iterable.forEach(new Block<Document>() {
@@ -352,6 +357,7 @@ public class App {
 				mongo.close();
 			}
 		}
+		System.out.println(" now index " + index.size());
 		return index;
 		
 	}

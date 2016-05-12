@@ -12,7 +12,7 @@
 // 
 //
 // SQL
-// SELECT day, number
+// SELECT day, hire
 // FROM cycle
 // WHERE city = "London" and day >= '01/01/2016' and day <= '31/01/2016'
 
@@ -53,37 +53,22 @@
 // (updated 4/5/2016 06:59)
 //
 // Selected keywords
-// ----> 31/01/2016
-// ----> 01/01/2016
-// ----> London
 // ----> cycle
+// ----> hire
+// ----> day
 
-// 
-//  db.index.aggregate([
-//  	{ $match: {"$or" : [ { "keyword" : "london"} , { "keyword" : "cycle"} , { "keyword" : "31/01/2016"}, { "keyword" : "01/01/2016"}]} },
-//  	{ $project: {total: { $size: "$documents" }}}
-//   ]);
-// 
+// Resources (distinct) --> 126
+//
 
-// { "_id" : "london", "total" : 1368 }
-// { "_id" : "cycle", "total" : 37 }
-// { "_id" : "31/01/2016", "total" : 2 }
-//
-// Resources (distinct) --> 379
-//
-// Without keywords
-//  db.index.aggregate([
-//  	{ $match: {"$or" : [ { "keyword" : "city"} , { "keyword" : "number"} , { "keyword" : "day"} , { "keyword" : "london"} , { "keyword" : "cycle"} , { "keyword" : "01/01/2016"} , { "keyword" : "31/01/2016"}, { "keyword" : "01/01/2016"}]} },
-//  	{ $project: {total: { $size: "$documents" }}}
-//   ]);
-//
-// 
-// { "_id" : "london", "total" : 1368 }
-// { "_id" : "cycle", "total" : 37 }
-// { "_id" : "day", "total" : 173 }
-// { "_id" : "number", "total" : 745 }
-// { "_id" : "31/01/2016", "total" : 2 }
-// { "_id" : "city", "total" : 240 }
+// All labels
+
+// ----> cycle
+// ----> hire
+// ----> day
+// ----> london
+// ----> 31/01/2016
+// ----> city
+// ----> 01/01/2016
 //
 //
 // Resources (distinct) --> 591

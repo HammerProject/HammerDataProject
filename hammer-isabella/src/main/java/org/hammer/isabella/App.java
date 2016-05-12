@@ -5,6 +5,7 @@ import java.io.StringReader;
 import org.hammer.isabella.cc.Isabella;
 import org.hammer.isabella.cc.util.IsabellaUtils;
 import org.hammer.isabella.query.IsabellaError;
+import org.hammer.isabella.query.Keyword;
 import org.hammer.isabella.query.QueryGraph;
 
 /**
@@ -19,6 +20,8 @@ public class App {
 	
     public static void main( String[] args )
     {
+    	Keyword k = new Keyword("test", 77017, 22);
+    	k.toString();
         System.out.println( "!!!! Test Isabella Parser !!!!" );
         
         try {

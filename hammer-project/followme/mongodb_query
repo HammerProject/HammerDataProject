@@ -1,0 +1,29 @@
+### find airport visit
+
+// "created_at" : "Mon May 02 19:55:34 +0000 2016
+// Orio al Serio
+db.tweets.ensureIndex({"coordinates.coordinates":"2d"});
+
+db.tweets.aggregate([
+ {$geoNear : {
+    near: [9.690556, 45.68],
+    distanceField: "distance",
+    includeLocs: "location",
+    maxDistance : 3000000
+ }},
+ { "$project": {
+      _id : 0,
+      "datePartDay" : {"$concat" : [
+			{"$substr" : ["$created_at", 8, 2]}, "-",
+			{"$substr" : ["$created_at", 4, 3]}, "-",
+			{"$substr" : ["$created_at", 26, 4]}]},
+	  "u" : "$user.screen_name",
+	  "loc" : "$user.location",
+      "tweet":1 }
+ },
+ { "$group":{ 
+       "_id": {"datePartDay":"$datePartDay", "user":"$u", "loc":"$loc"  },
+       "tweets" : { "$sum" : 1 } 
+   }
+ }]);
+ 

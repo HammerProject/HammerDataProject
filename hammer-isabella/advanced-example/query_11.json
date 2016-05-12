@@ -48,35 +48,26 @@
 // (updated 4/5/2016 06:59)
 //
 // Selected keywords
-// ----> Greater London Authority
-// ----> life
 // ----> survey
+// ----> author
+// ----> relations
+// ----> volunteering
+// ----> title
+// ----> country
 
-// 
-// db.index.aggregate([
-//  { $match: {"$or" : [ { "keyword" : "survey"} , { "keyword" : "life"} , { "keyword" : "greater london authority"}]} },
-//  { $project: {total: { $size: "$documents" }}}
-// ]);
-// 
-// { "_id" : "life", "total" : 148 }
-// { "_id" : "survey", "total" : 789 }
 //
-// Resources (distinct) --> 598
+// Resources (distinct) --> 639
 //
-// Without keywords
-//   db.index.aggregate([
-//   	{ $match: {"$or" : [ { "keyword" : "title"} , { "keyword" : "country"} , { "keyword" : "relations"} , { "keyword" : "employment"} , { "keyword" : "volunteering"} , { "keyword" : "author"} , { "keyword" : "survey"} , { "keyword" : "life"} , { "keyword" : "greater london authority"}]} },
-//   	{ $project: {total: { $size: "$documents" }}}
-//    ]);
-//
-//  
-// { "_id" : "life", "total" : 148 }
-// { "_id" : "country", "total" : 154 }
-// { "_id" : "employment", "total" : 256 }
-// { "_id" : "author", "total" : 5 }
-// { "_id" : "relations", "total" : 8 }
-// { "_id" : "survey", "total" : 789 }
-// { "_id" : "title", "total" : 22 }
-// { "_id" : "volunteering", "total" : 12 }
+// All labels
+// ----> survey
+// ----> country
+// ----> volunteering
+// ----> relations
+// ----> employment
+// ----> title
+// ----> life
+// ----> author
+// ----> Greater London Authority
+ 
 //
 // Resources (distinct) --> 796

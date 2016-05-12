@@ -112,7 +112,7 @@ public class QueryGraph {
 		ArrayList<Node> queue = new ArrayList<Node>();
 		queue.add(select);
 		queue.add(select.father);
-		float vol = select.rScore();
+		double vol = select.rScore();
 
 		while (!queue.isEmpty()) {
 			Node t = queue.get(0);
@@ -122,7 +122,7 @@ public class QueryGraph {
 				out = 1;
 			} else {
 				ArrayList<String> labels = new ArrayList<String>();
-				select.countLabels(labels);
+				t.countLabels(labels);
 				out = labels.size();
 			}
 			for (Node node : t.getChild()) {
@@ -148,13 +148,13 @@ public class QueryGraph {
 	 */
 	public void labelSelection() {
 		this.updareReScore();
-		System.out.println("--------- find labels -------");
 		this.test();
+		System.out.println("--------- find labels -------");
 		this.keyWords = new ArrayList<String>();
 
 		Node k = root.valid(root);
 		while (k != null) {
-			System.out.println("---------" + k.getName() + " --!!! " + (k.rScore()));
+			System.out.println("---------" + k.getName() + " --!!! " + (k.rScore() + k.getiScore()));
 			k.setSelected(true);
 			if (!this.keyWords.contains(k.getName()) && k.getName() != "*" && k.getName().trim().length() > 2) {
 				this.keyWords.add(k.getName());

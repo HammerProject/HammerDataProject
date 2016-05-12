@@ -66,36 +66,29 @@
 // (updated 4/5/2016 06:59)
 //
 // Selected keywords
-// ----> Chicago
-// ----> Illinois
+//
 // ----> population
+// ----> forecast
+// ----> municipality
+// ----> state
+//
+// Resources (distinct) --> 659
+//
+// All labels
+//
+//
+// ----> population
+// ----> municipality
+// ----> emp 10
+// ----> emp 40
+// ----> state
+// ----> Illinois
+// ----> Chicago
+// ----> release_year
+// ----> 2014
+// ----> census
+// ----> 2010
+// ----> forecast
+// ----> 2040
 
-// 
-// db.index.aggregate([
-// 	{ $match: {"$or" : [ { "keyword" : "illinois"} , { "keyword" : "chicago"}, { "keyword" : "population"}]} },
-// 	{ $project: {total: { $size: "$documents" }}}
-//  ]);
-//
-//{ "_id" : "illinois", "total" : 153 }
-//{ "_id" : "chicago", "total" : 62 }
-//{ "_id" : "population", "total" : 867 }
-//
-// Resources (distinct) --> 466
-//
-// Without keywords
-//  db.index.aggregate([
-// 	{ $match: {"$or" : [ { "keyword" : "release_date"} , { "keyword" : "census"} ,  { "keyword" : "municipality"} ,  { "keyword" : "chicago"} ,  { "keyword" : "state"} , { "keyword" : "2020"} , { "keyword" : "emp 40"} , { "keyword" : "emp 10"} , { "keyword" : "illinois"} , { "keyword" : "forecast"}, { "keyword" : "population"}]} },
-// 	{ $project: {total: { $size: "$documents" }}}
-//  ]);
-//
-//
-//{ "_id" : "municipality", "total" : 75 }
-//{ "_id" : "illinois", "total" : 153 }
-//{ "_id" : "forecast", "total" : 18 }
-//{ "_id" : "chicago", "total" : 62 }
-//{ "_id" : "census", "total" : 325 }
-//{ "_id" : "2020", "total" : 20 }
-//{ "_id" : "population", "total" : 867 }
-//{ "_id" : "state", "total" : 322 }
-
-// Resources (distinct) --> 17791
+// Resources (distinct) --> 3147

@@ -66,7 +66,7 @@ public class DataSetSplitter extends MongoSplitter {
 		System.out.println("---> found !!!!!! " + dataSet.size());
 		for (Document doc : dataSet) {
 			String key = doc.getString("_id");
-			System.out.println("---> found " + key + " - " + doc.getString("title"));
+			LOG.debug("---> found " + key + " - " + doc.getString("title"));
 			DataSetSplit dsSplit = new DataSetSplit();
 			if (getConfiguration().get("search-mode").equals("download")) {
 				dsSplit.setName(key);

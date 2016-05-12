@@ -40,30 +40,21 @@
 //
 //
 // Selected keywords
-// ----> africa
+//
 // ----> sports
-//  
-//  db.index.aggregate([
-// 	{ $match: {"$or" : [ { "keyword" : "africa"} , { "keyword" : "sports"}]} },
-// 	{ $project: {total: { $size: "$documents" }}}
-//  ]);
+// ----> medals
+// ----> participation
+// ----> category
 //
+// Resources (distinct) --> 47
 //
-// { "_id" : "africa", "total" : 151 }
-// { "_id" : "sports", "total" : 18 }
+// All labels
 //
-// Resources (distinct) --> 116
-//
-// Without keywords
-//   db.index.aggregate([
-//   	{ $match: {"$or" : [ { "keyword" : "region"} , { "keyword" : "partecipation"} , { "keyword" : "category"} , { "keyword" : "medals"} ,{ "keyword" : "africa"} , { "keyword" : "sports"}]} },
-//   	{ $project: {total: { $size: "$documents" }}}
-//   ]);
-// 
-// { "_id" : "medals", "total" : 4 }
-// { "_id" : "africa", "total" : 151 }
-// { "_id" : "category", "total" : 30 }
-// { "_id" : "region", "total" : 219 }
-// { "_id" : "sports", "total" : 18 }
+// ----> sports
+// ----> category
+// ----> medals
+// ----> participation
+// ----> region
+// ----> africa
 // 
 // Resources (distinct) --> 312

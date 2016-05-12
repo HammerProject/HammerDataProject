@@ -60,43 +60,27 @@
 // (updated 4/5/2016 06:59)
 //
 // Selected keywords
-// ----> Italy
-// ----> Holiday
-// ----> London
 // ----> tourists
-
-// 
-//  db.index.aggregate([
-//  	{ $match: {"$or" : [  { "keyword" : "italy"} , { "keyword" : "london"} , { "keyword" : "holiday"} , { "keyword" : "tourists"}]} },
-//  	{ $project: {total: { $size: "$documents" }}}
-//   ]);
-// 
-
-// { "_id" : "london", "total" : 1368 }
-// { "_id" : "italy", "total" : 1 }
-// { "_id" : "holiday", "total" : 1 }
-// { "_id" : "tourists", "total" : 5 }
+// ----> spent
+// ----> visits
+// ----> purpose
+// ----> market
 
 
-/// Resources (distinct) --> 376
+// Resources (distinct) --> 116
 //
-// Without keywords
-//  db.index.aggregate([
-//  	{ $match: {"$or" : [  { "keyword" : "year"} , { "keyword" : "2015"} , { "keyword" : "market"} , { "keyword" : "visits"} ,  { "keyword" : "spent"} ,  { "keyword" : "purpose"} , { "keyword" : "italy"} , { "keyword" : "london"} , { "keyword" : "holiday"} , { "keyword" : "tourists"}]} },
-//  	{ $project: {total: { $size: "$documents" }}}
-//   ]);
-// 
+// All labels
 //
-// 
-//{ "_id" : "london", "total" : 1368 }
-//{ "_id" : "italy", "total" : 1 }
-//{ "_id" : "market", "total" : 112 }
-//{ "_id" : "holiday", "total" : 1 }
-//{ "_id" : "2015", "total" : 803 }
-//{ "_id" : "purpose", "total" : 90 }
-//{ "_id" : "spent", "total" : 4 }
-//{ "_id" : "tourists", "total" : 5 }
-//{ "_id" : "visits", "total" : 8 }
-//{ "_id" : "year", "total" : 630 }
+// ----> tourists
+// ----> market
+// ----> visits
+// ----> spent
+// ----> city
+// ----> London
+// ----> year
+// ----> 2015
+// ----> purpose
+// ----> Holiday
+// ----> Italy
 
 // Resources (distinct) --> 1521

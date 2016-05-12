@@ -46,34 +46,21 @@
 // (updated 4/5/2016 06:59)
 //
 // Selected keywords
-// ----> washington
-// ----> restaurant
 // ----> inspections
-
+// ----> date
+// ----> city
+// ----> type
+//
+// Resources (distinct) --> 508
+//
+// All labels
+//
+// ----> inspections
+// ----> date
+// ----> violation
+// ----> type
+// ----> restaurant
+// ----> city
+// ----> Washington
 // 
-// db.index.aggregate([
-// 	{ $match: {"$or" : [ { "keyword" : "washington"} , { "keyword" : "restaurant"}, { "keyword" : "inspections"}]} },
-// 	{ $project: {total: { $size: "$documents" }}}
-//  ]);
-//
-// { "_id" : "restaurant", "total" : 1 }
-// { "_id" : "washington", "total" : 6 }
-// { "_id" : "inspections", "total" : 9 }
-//
-// Resources (distinct) --> 16
-//
-// Without keywords
-//  db.index.aggregate([
-//  	{ $match: {"$or" : [ { "keyword" : "type"} ,  { "keyword" : "city"} , { "keyword" : "violation"} , { "keyword" : "date"} ,  { "keyword" : "washington"} , { "keyword" : "restaurant"}, { "keyword" : "inspections"}]} },
-//  	{ $project: {total: { $size: "$documents" }}}
-//   ]);
-//
-//
-// { "_id" : "date", "total" : 63 }
-// { "_id" : "inspections", "total" : 9 }
-// { "_id" : "city", "total" : 240 }
-// { "_id" : "restaurant", "total" : 1 }
-// { "_id" : "type", "total" : 380 }
-// { "_id" : "washington", "total" : 6 }
-
-// Resources (distinct) --> 513
+// Resources (distinct) --> 514

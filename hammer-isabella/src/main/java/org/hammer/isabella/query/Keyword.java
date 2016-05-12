@@ -8,12 +8,17 @@ package org.hammer.isabella.query;
  */
 public class Keyword {
 
+	@Override
+	public String toString() {
+		return "Keyword [reScore=" + reScore + ", keyword=" + keyword + "]";
+	}
+
 	/**
 	 * My reScore
 	 */
-	private float reScore = 0.0f;
+	private double reScore = 0.0f;
 	
-	public float getReScore() {
+	public double getReScore() {
 		return reScore;
 	}
 
@@ -23,14 +28,21 @@ public class Keyword {
 	 * @param reScore
 	 * @param keyword
 	 */
-	public Keyword(String keyword, long totalResources, long keywordResources) {
+	public Keyword(String keyword,long totalResources, long keywordResources) {
 		super();
+		//System.out.println("-------------------------------------------");
+		//System.out.println("---> " + totalResources);
+		//System.out.println("---> " + keywordResources);
 		if(keywordResources == 0) {
 			this.reScore = 0;
 		} else {
-			this.reScore = log(((keywordResources / totalResources) + 1), 2);
+			//System.out.println(( Math.log(1.000285614f) / Math.log(2f)));
+			//System.out.println(((double)keywordResources / (double)totalResources) + 1.0f);
+			//System.out.println(log2((((double)keywordResources / (double)totalResources) + 1.0f)));
+			this.reScore = (1 - log2((((double)keywordResources / (double)totalResources) + 1.0f)));
 		}
 		this.keyword = keyword;
+		//System.out.println("---> " + toString());
 	}
 	
 	/**
@@ -40,16 +52,16 @@ public class Keyword {
 	 * @param base
 	 * @return
 	 */
-	static float log(long x, int base)
+	static double log2(double x)
 	{
-	    return (float) (Math.log(x) / Math.log(base));
+	    return (Math.log(x) / Math.log(2f));
 	}
 	
 	/**
 	 * Set my re-score
 	 * @param reScore
 	 */
-	public void setReScore(float reScore) {
+	public void setReScore(double reScore) {
 		this.reScore = reScore;
 	}
 

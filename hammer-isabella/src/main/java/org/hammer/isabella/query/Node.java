@@ -19,10 +19,13 @@ public class Node implements Leaf, IDataType {
 	 * @param index
 	 */
 	public void updareReScore(HashMap<String, Keyword> index) {
-		if(index.containsKey(this.getName())) {
-			this.reScore = index.get(this.getName()).getReScore();
+		if(index.containsKey(this.getName().toLowerCase())) {
+			//System.out.println(" found !!! " + index.get(this.getName().toLowerCase()).toString());
+			this.reScore = index.get(this.getName().toLowerCase()).getReScore();
 		} else {
+			//System.out.println(" not found !!! " + this.getName().toString());
 			this.reScore = 0.0f;
+			this.riScore = 0.0f;
 		}	
 		for (Node node : getChild()) {
 			node.updareReScore(index);
@@ -51,7 +54,7 @@ public class Node implements Leaf, IDataType {
 	/**
 	 * My re-score
 	 */
-	private float reScore = 0.0f;
+	private double reScore = 0.0f;
 	
 
 	/**
@@ -127,7 +130,7 @@ public class Node implements Leaf, IDataType {
 	 * Return my representive ext score
 	 * @return
 	 */
-	public float getreScore() {
+	public double getreScore() {
 		return reScore;
 	}
 
@@ -135,7 +138,7 @@ public class Node implements Leaf, IDataType {
 	 * Consume my informative
 	 * @param value
 	 */
-	public void dec(float value) {
+	public void dec(double value) {
 		iScore -= value;
 	}
 
@@ -248,8 +251,8 @@ public class Node implements Leaf, IDataType {
 	 * Get My R Score
 	 * @return
 	 */
-	public float rScore() {
-		return ((riScore + reScore) / 2.0f);
+	public double rScore() {
+		return ((riScore + reScore) / 2.0d);
 	}
 
 	/**

@@ -81,7 +81,7 @@ public class SocrataUtils {
 		int offset = 0;
 
 		while (offset < count) {
-			System.out.println(offset);
+			//System.out.println(offset);
 			BasicBSONList temp = new BasicBSONList();
 			String urlStr = "https://www.dati.lombardia.it/resource/rsg3-xhvk.json?$offset=" + offset
 					+ "&$limit=1000&$where=" + EncodeURIComponent("tipologia_combustibile='Gasolio'");
@@ -111,7 +111,7 @@ public class SocrataUtils {
 					bObj.put(gKey.toString(), gObj.get(gKey));
 				}
 
-				System.out.print(temp.size());
+				//System.out.print(temp.size());
 			} catch (Exception e) {
 				e.printStackTrace();
 			} finally {
@@ -156,7 +156,7 @@ public class SocrataUtils {
 				throw new Exception("Method failed: " + method.getStatusLine());
 			}
 			byte[] responseBody = method.getResponseBody();
-			LOG.info(new String(responseBody));
+			//LOG.info(new String(responseBody));
 			@SuppressWarnings("unchecked")
 			ArrayList<BasicDBObject> docs = (ArrayList<BasicDBObject>) JSON.parse(new String(responseBody));
 			for (BasicDBObject doc : docs) {
@@ -320,7 +320,7 @@ public class SocrataUtils {
 		String socrataQuery = "";
 		try {
 			QueryGraph q = parser.queryGraph();
-			LOG.info(query);
+			LOG.debug(query);
 			int c = 0;
 			int ok = 0;
 			while (c < q.getQueryCondition().size()) {

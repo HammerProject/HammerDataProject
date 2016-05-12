@@ -55,34 +55,22 @@
 // (updated 4/5/2016 06:59)
 //
 // Selected keywords
-// ----> province
-// ----> drug
+//
 // ----> crime
-// 
-//  db.index.aggregate([
-// 	{ $match: {"$or" : [ { "keyword" : "province"} , { "keyword" : "drug"}, { "keyword" : "crime"}]} },
-// 	{ $project: {total: { $size: "$documents" }}}
-//  ]);
+// ----> category
+// ----> cluster
+// ----> year
 //
-// { "_id" : "crime", "total" : 138 }
-// { "_id" : "drug", "total" : 7 }
-// { "_id" : "province", "total" : 62 }
+// Resources (distinct) --> 503
+//
+// All labels
 
-// Resources (distinct) --> 94
-//
-// Without keywords
-//   db.index.aggregate([
-//   	{ $match: {"$or" : [ { "keyword" : "year"} , { "keyword" : "2015"} , { "keyword" : "cluster"} , { "keyword" : "category"} , { "keyword" : "province"} , { "keyword" : "drug"}, { "keyword" : "crime"}]} },
-//   	{ $project: {total: { $size: "$documents" }}}
-//   ]);
-//
-//
-// { "_id" : "cluster", "total" : 53 }
-// { "_id" : "crime", "total" : 138 }
-// { "_id" : "drug", "total" : 7 }
-// { "_id" : "2015", "total" : 803 }
-// { "_id" : "category", "total" : 30 }
-// { "_id" : "province", "total" : 62 }
-// { "_id" : "year", "total" : 630 }
+// ----> crime
+// ----> year
+// ----> category
+// ----> cluster
+// ----> drug
+// ----> 2015
+// ----> province
 
 // Resources (distinct) --> 1142

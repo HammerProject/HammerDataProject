@@ -14,7 +14,7 @@ bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/query_1.json local 0.0 download true labels
 
 ## simulate download all resources by query
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/query_6.json local 0.0 download true labels true
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/query_1.json local 0.0 download true labels true
 
 
 ## download selected resources by query

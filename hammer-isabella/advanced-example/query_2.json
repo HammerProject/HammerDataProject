@@ -45,32 +45,23 @@
 // (updated 4/5/2016 06:59)
 //
 // Selected keywords
-// ----> africa
 // ----> transparency
+// ----> country
+// ----> budget
+// ----> region
+// ----> year
 // 
-// db.index.aggregate([
-//	{ $match: {"$or" : [ { "keyword" : "africa"} , { "keyword" : "transparency"}]} },
-//	{ $project: {total: { $size: "$documents" }}}
-// ]);
-//
-// { "_id" : "africa", "total" : 151 }
-// { "_id" : "transparency", "total" : 29 }
 // 
-// Resources (distinct) --> 122
+// Resources (distinct) --> 748
 //
-// Without keywords
-//  db.index.aggregate([
-//  	{ $match: {"$or" : [ { "keyword" : "region"} , { "keyword" : "country"} , { "keyword" : "budget"} , { "keyword" : "2015"} , { "keyword" : "year"} ,{ "keyword" : "africa"} , { "keyword" : "transparency"}]} },
-//  	{ $project: {total: { $size: "$documents" }}}
-// ]);
 //
 // 
-// { "_id" : "country", "total" : 154 }
-// { "_id" : "2015", "total" : 803 }
-// { "_id" : "africa", "total" : 151 }
-// { "_id" : "budget", "total" : 184 }
-// { "_id" : "region", "total" : 219 }
-// { "_id" : "transparency", "total" : 29 }
-// { "_id" : "year", "total" : 630 }
+// ----> transparency
+// ----> year
+// ----> country
+// ----> budget
+// ----> 2015
+// ----> region
+// ----> Africa
 // 
-// Resources (distinct) --> 1367
+// Resources (distinct) --> 1403
