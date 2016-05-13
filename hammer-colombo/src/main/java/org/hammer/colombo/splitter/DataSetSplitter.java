@@ -87,7 +87,7 @@ public class DataSetSplitter extends MongoSplitter {
 						dsSplit.setDataSetType(doc.getString("datainput_type"));
 						dsSplit.setDatasource(doc.getString("id"));
 						splits.add(dsSplit);
-						
+
 					}
 				}
 			} else {
@@ -160,18 +160,13 @@ public class DataSetSplitter extends MongoSplitter {
 				}
 			}
 
+			final ArrayList<ArrayList<String>> total = new ArrayList<ArrayList<String>>();
+
 			BasicDBObject searchQuery = new BasicDBObject("$or", or);
-
 			String searchMode = getConfiguration().get("search-mode");
-			if (searchMode.equals("search")) {
-				searchQuery.append("documents.dataset-type", new BasicDBObject("$regex", "JSON"));
-			}
-
 			System.out.println("Colombo gets data set from database..." + searchQuery.toString());
 
 			FindIterable<Document> indexS = index.find(searchQuery);
-
-			final ArrayList<ArrayList<String>> total = new ArrayList<ArrayList<String>>();
 
 			indexS.forEach(new Block<Document>() {
 
@@ -188,7 +183,7 @@ public class DataSetSplitter extends MongoSplitter {
 				}
 			});
 
-			BasicDBList idSet = new BasicDBList();
+			BasicDBList rIdSet = new BasicDBList();
 
 			if (total.size() == 0) {
 				throw new Exception("!!!!! ERROR NOTHING FOUND !!!!");
@@ -196,6 +191,88 @@ public class DataSetSplitter extends MongoSplitter {
 				System.out.println(" Found --> " + total.size());
 			}
 
+			System.out.println("Get relevant resources....");
+			for (ArrayList<String> listId : total) {
+				for (String key : listId) {
+					float found = 0;
+					for (ArrayList<String> lista : total) {
+						if (lista.contains(key)) {
+							found++;
+						}
+					}
+					float p = ((float) found / (float) total.size());
+					if (p == 1) {
+						BasicDBObject temp = new BasicDBObject("_id", key);
+						rIdSet.add(temp);
+					}
+				}
+			}
+
+			System.out.println(" ----------------------------------------------> ");
+			System.out.println(" --> fount relevant resources" + rIdSet.size());
+			// get relevant resources meta and tag data
+			if (rIdSet.size() > 0) {
+				BasicDBObject searchRelevatKeywords = new BasicDBObject("$or", rIdSet);
+				FindIterable<Document> iterable = dataSet.find(searchRelevatKeywords);
+				iterable.forEach(new Block<Document>() {
+
+					@SuppressWarnings("unchecked")
+					public void apply(final Document document) {
+						ArrayList<String> meta = new ArrayList<String>();
+						if (document.keySet().contains("meta")) {
+							meta = (ArrayList<String>) document.get("meta");
+						}
+						ArrayList<String> tags = new ArrayList<String>();
+						if (document.keySet().contains("tags")) {
+							tags = (ArrayList<String>) document.get("tags");
+						}
+						ArrayList<String> other_tags = new ArrayList<String>();
+						if (document.keySet().contains("other_tags")) {
+							tags = (ArrayList<String>) document.get("other_tags");
+						}
+						for(String k : meta) {
+							BasicDBObject temp = new BasicDBObject("keyword", k.toLowerCase());
+							or.add(temp);
+						}
+						for(String k : tags) {
+							BasicDBObject temp = new BasicDBObject("keyword", k.toLowerCase());
+							or.add(temp);
+						}
+						for(String k : other_tags) {
+							BasicDBObject temp = new BasicDBObject("keyword", k.toLowerCase());
+							or.add(temp);
+						}
+						
+					}
+				});
+				
+			}
+			
+			
+			// search all documents now
+			// and if i want to search we must add the JSON constraing, else not
+			indexS = index.find(searchQuery);
+			if (searchMode.equals("search")) {
+				searchQuery.append("documents.dataset-type", new BasicDBObject("$regex", "JSON"));
+			}
+			indexS.forEach(new Block<Document>() {
+
+				public void apply(final Document document) {
+					@SuppressWarnings("unchecked")
+					ArrayList<Document> docList = (ArrayList<Document>) document.get("documents");
+					ArrayList<String> idList = new ArrayList<String>();
+					for (Document doc : docList) {
+						idList.add(doc.getString("document"));
+					}
+					if (docList != null) {
+						total.add(idList);
+					}
+				}
+			});
+			
+			// select only relevant resources (with p > limit)
+
+			BasicDBList idSet = new BasicDBList();
 			float limit = Float.parseFloat(getConfiguration().get("limit"));
 			for (ArrayList<String> listId : total) {
 				for (String key : listId) {
@@ -213,6 +290,7 @@ public class DataSetSplitter extends MongoSplitter {
 				}
 			}
 
+			// download all resources!!!
 			BasicDBObject searchDataset = new BasicDBObject("$or", idSet);
 
 			if (idSet.size() == 0) {
