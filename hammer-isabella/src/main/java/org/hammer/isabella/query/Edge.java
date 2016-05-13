@@ -58,7 +58,9 @@ public class Edge extends Node {
 	 */
 	public Edge(String name, int line, int column) {
 		super(name, 1.0f, 0.5f, 0.0f, line, column);
+		
 	}
+	
 
 	/**
 	 * Get my operator

@@ -9,6 +9,7 @@ import java.util.TreeMap;
 import org.hammer.isabella.query.QueryGraph;
 import org.hammer.isabella.query.InstanceNode;
 import org.hammer.isabella.query.Edge;
+import org.hammer.isabella.query.QuestionEdge;
 import org.hammer.isabella.query.IsabellaError;
 import org.hammer.isabella.cc.util.IsabellaUtils;
 import org.hammer.isabella.cc.util.SemanticUtil;
@@ -46,7 +47,7 @@ public class Isabella implements IsabellaConstants {
 * Query Graph attr
 */
   final public QueryGraph queryGraphAttr() throws ParseException {
-        ArrayList<Edge> qList = new ArrayList<Edge>();
+        ArrayList<QuestionEdge> qList = new ArrayList<QuestionEdge>();
         ArrayList<InstanceNode> iList = new ArrayList<InstanceNode>();
         ArrayList<Edge> wList = new ArrayList<Edge>();
     try {
@@ -99,9 +100,9 @@ public class Isabella implements IsabellaConstants {
 /**
 * Select
 */
-  final public ArrayList<Edge> select() throws ParseException {
-        ArrayList<Edge> qList = new ArrayList<Edge>();
-        Edge eN = null;
+  final public ArrayList<QuestionEdge> select() throws ParseException {
+        ArrayList<QuestionEdge> qList = new ArrayList<QuestionEdge>();
+        QuestionEdge eN = null;
     try {
       jj_consume_token(SELECT);
       jj_consume_token(COLON);
@@ -217,7 +218,7 @@ public class Isabella implements IsabellaConstants {
 * Select Attr
 *
 */
-  final public Edge selectAttr() throws ParseException {
+  final public QuestionEdge selectAttr() throws ParseException {
     SortedMap<String, AttributeValue> sl = new TreeMap<String, AttributeValue>();
     try {
       jj_consume_token(COLUMN);

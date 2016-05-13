@@ -1,0 +1,67 @@
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM 'file:///linate.csv' AS row
+FIELDTERMINATOR ','
+
+CREATE (:Linate {
+       date: row.date,
+		name: row.user,
+	   loc: row.loc
+  })
+  
+  
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM 'file:///orio.csv' AS row
+FIELDTERMINATOR ','
+
+CREATE (:Orio {
+       date: row.date,
+		name: row.user,
+	   loc: row.loc
+  })
+  
+  
+  
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM 'file:///malpensa.csv' AS row
+FIELDTERMINATOR ','
+
+CREATE (:Malpensa {
+       date: row.date,
+		name: row.user,
+	   loc: row.loc
+  })
+  
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM 'file:///milano.csv' AS row
+FIELDTERMINATOR ','
+
+CREATE (:Milano {
+       date: row.date,
+		name: row.user,
+	   loc: row.loc
+  })
+  
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM 'file:///bergamo.csv' AS row
+FIELDTERMINATOR ','
+
+CREATE (:Bergamo {
+       date: row.date,
+		name: row.user,
+	   loc: row.loc
+  })
+  
+#####
+
+MATCH (a)
+WITH a
+ORDER BY a.name, a.date
+WITH COLLECT(a) as nodes
+FOREACH(i in RANGE(0, length(nodes)-2) | 
+  FOREACH(a1 in [nodes[i]] | 
+    FOREACH(a2 in [nodes[i+1]] | 
+      CREATE UNIQUE (a1)-[:NEXT]->(a2))))
+  
+  MATCH (a1)-[r:NEXT]->(a2) WHERE NOT (a1.name = a2.name) DELETE r
+  
+  

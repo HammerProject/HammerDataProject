@@ -16,6 +16,7 @@ org/hammer/isabella/query/TextValueNode.class
 org/hammer/isabella/query/AttributeValue.class
 org/hammer/isabella/App.class
 org/hammer/isabella/query/IDataType.class
+org/hammer/isabella/query/QuestionEdge.class
 org/hammer/isabella/cc/Token.class
 org/hammer/isabella/query/InstanceNode.class
 org/hammer/isabella/cc/util/IsabellaUtils.class

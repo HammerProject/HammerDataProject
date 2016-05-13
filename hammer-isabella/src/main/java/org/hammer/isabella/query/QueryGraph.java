@@ -16,7 +16,7 @@ public class QueryGraph {
 	/**
 	 * List of Question Node from "select" statement
 	 */
-	private List<Edge> questionNode = new ArrayList<Edge>();
+	private List<QuestionEdge> questionNode = new ArrayList<QuestionEdge>();
 
 	/**
 	 * List of Instance Node from "from" statement
@@ -65,7 +65,7 @@ public class QueryGraph {
 	 * @param iList
 	 * @param wList
 	 */
-	public QueryGraph(RootNode root, ArrayList<Edge> qList, ArrayList<InstanceNode> iList, ArrayList<Edge> wList) {
+	public QueryGraph(RootNode root, ArrayList<QuestionEdge> qList, ArrayList<InstanceNode> iList, ArrayList<Edge> wList) {
 		this.questionNode = qList;
 		this.instanceNode = iList;
 		this.whereNode = wList;
@@ -201,7 +201,7 @@ public class QueryGraph {
 	 * Return the question node
 	 * @return
 	 */
-	public List<Edge> getQuestionNode() {
+	public List<QuestionEdge> getQuestionNode() {
 		return questionNode;
 	}
 

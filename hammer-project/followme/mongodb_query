@@ -1,6 +1,16 @@
 ### find airport visit
 
 // "created_at" : "Mon May 02 19:55:34 +0000 2016
+
+db.createCollection('orio');
+db.orio.remove({});
+db.createCollection('linate');
+db.linate.remove({});
+db.createCollection('malpensa');
+db.malpensa.remove({});
+
+
+
 // Orio al Serio
 db.tweets.ensureIndex({"coordinates.coordinates":"2d"});
 
@@ -25,5 +35,143 @@ db.tweets.aggregate([
        "_id": {"datePartDay":"$datePartDay", "user":"$u", "loc":"$loc"  },
        "tweets" : { "$sum" : 1 } 
    }
- }]);
+ }]).forEach(function(doc){
+   db.orio.insert(doc);
+});
+ 
+ // Malpensa
+ 
+ db.tweets.aggregate([
+ {$geoNear : {
+    near: [8.723056, 45.63],
+    distanceField: "distance",
+    includeLocs: "location",
+    maxDistance : 3000000
+ }},
+ { "$project": {
+      _id : 0,
+      "datePartDay" : {"$concat" : [
+			{"$substr" : ["$created_at", 8, 2]}, "-",
+			{"$substr" : ["$created_at", 4, 3]}, "-",
+			{"$substr" : ["$created_at", 26, 4]}]},
+	  "u" : "$user.screen_name",
+	  "loc" : "$user.location",
+      "tweet":1 }
+ },
+ { "$group":{ 
+       "_id": {"datePartDay":"$datePartDay", "user":"$u", "loc":"$loc"  },
+       "tweets" : { "$sum" : 1 } 
+   }
+ }]).forEach(function(doc){
+   db.malpensa.insert(doc);
+});
+ 
+ 
+ 
+ // Linate
+ 
+ db.tweets.aggregate([
+ {$geoNear : {
+    near: [9.278333, 45.449444],
+    distanceField: "distance",
+    includeLocs: "location",
+    maxDistance : 3000000
+ }},
+ { "$project": {
+      _id : 0,
+      "datePartDay" : {"$concat" : [
+			{"$substr" : ["$created_at", 8, 2]}, "-",
+			{"$substr" : ["$created_at", 4, 3]}, "-",
+			{"$substr" : ["$created_at", 26, 4]}]},
+	  "u" : "$user.screen_name",
+	  "loc" : "$user.location",
+      "tweet":1 }
+ },
+ { "$group":{ 
+       "_id": {"datePartDay":"$datePartDay", "user":"$u", "loc":"$loc"  },
+       "tweets" : { "$sum" : 1 } 
+   }
+ }]).forEach(function(doc){
+   db.linate.insert(doc);
+});
+ 
+ 
+ ###### create major city node
+ 
+ // Bergamo
+ 
+
+db.createCollection('bergamo');
+db.bergamo.remove({});
+db.createCollection('milano');
+db.milano.remove({});
+
+ 
+ db.tweets.aggregate([
+ {$geoNear : {
+    near: [9.67, 45.695],
+    distanceField: "distance",
+    includeLocs: "location",
+    maxDistance : 10000000
+ }},
+ { "$project": {
+      _id : 0,
+      "datePartDay" : {"$concat" : [
+			{"$substr" : ["$created_at", 8, 2]}, "-",
+			{"$substr" : ["$created_at", 4, 3]}, "-",
+			{"$substr" : ["$created_at", 26, 4]}]},
+	  "u" : "$user.screen_name",
+	  "loc" : "$user.location",
+      "tweet":1 }
+ },
+ { "$group":{ 
+       "_id": {"datePartDay":"$datePartDay", "user":"$u", "loc":"$loc"  },
+       "tweets" : { "$sum" : 1 } 
+   }
+ }]).forEach(function(doc){
+   db.bergamo.insert(doc);
+});
+ 
+ 
+ 
+ 
+ // Milano
+ 
+
+ 
+ db.tweets.aggregate([
+ {$geoNear : {
+    near: [9.190336, 45.464161],
+    distanceField: "distance",
+    includeLocs: "location",
+    maxDistance : 50000000
+ }},
+ { "$project": {
+      _id : 0,
+      "datePartDay" : {"$concat" : [
+			{"$substr" : ["$created_at", 8, 2]}, "-",
+			{"$substr" : ["$created_at", 4, 3]}, "-",
+			{"$substr" : ["$created_at", 26, 4]}]},
+	  "u" : "$user.screen_name",
+	  "loc" : "$user.location",
+      "tweet":1 }
+ },
+ { "$group":{ 
+       "_id": {"datePartDay":"$datePartDay", "user":"$u", "loc":"$loc"  },
+       "tweets" : { "$sum" : 1 } 
+   }
+ }]).forEach(function(doc){
+   db.milano.insert(doc);
+});
+
+
+
+####### export dei dati
+
+//
+mongoexport --db hammer --collection linate --fields _id.datePartDay,_id.user,_id.loc --type=csv --out=linate.csv
+mongoexport --db hammer --collection orio --fields _id.datePartDay,_id.user,_id.loc  --type=csv --out=orio.csv
+mongoexport --db hammer --collection malpensa --fields _id.datePartDay,_id.user,_id.loc  --type=csv --out=malpensa.csv
+mongoexport --db hammer --collection milano --fields _id.datePartDay,_id.user,_id.loc  --type=csv --out=milano.csv
+mongoexport --db hammer --collection bergamo --fields _id.datePartDay,_id.user,_id.loc  --type=csv --out=bergamo.csv
  

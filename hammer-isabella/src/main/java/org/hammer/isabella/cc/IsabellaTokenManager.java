@@ -6,6 +6,7 @@ import java.util.TreeMap;
 import org.hammer.isabella.query.QueryGraph;
 import org.hammer.isabella.query.InstanceNode;
 import org.hammer.isabella.query.Edge;
+import org.hammer.isabella.query.QuestionEdge;
 import org.hammer.isabella.query.IsabellaError;
 import org.hammer.isabella.cc.util.IsabellaUtils;
 import org.hammer.isabella.cc.util.SemanticUtil;

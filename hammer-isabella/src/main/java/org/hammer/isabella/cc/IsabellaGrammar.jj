@@ -22,6 +22,7 @@ import java.util.TreeMap;
 import org.hammer.isabella.query.QueryGraph;
 import org.hammer.isabella.query.InstanceNode;
 import org.hammer.isabella.query.Edge;
+import org.hammer.isabella.query.QuestionEdge;
 import org.hammer.isabella.query.IsabellaError;
 import org.hammer.isabella.cc.util.IsabellaUtils;
 import org.hammer.isabella.cc.util.SemanticUtil;
@@ -110,7 +111,7 @@ QueryGraph queryGraph() :
 */
 QueryGraph queryGraphAttr() :
 {
-	ArrayList<Edge> qList = new ArrayList<Edge>();
+	ArrayList<QuestionEdge> qList = new ArrayList<QuestionEdge>();
 	ArrayList<InstanceNode> iList = new ArrayList<InstanceNode>();
 	ArrayList<Edge> wList = new ArrayList<Edge>();
 }
@@ -137,10 +138,10 @@ QueryGraph queryGraphAttr() :
 /**
 * Select
 */
-ArrayList<Edge> select() :
+ArrayList<QuestionEdge> select() :
 {
-	ArrayList<Edge> qList = new ArrayList<Edge>();
-	Edge eN = null;
+	ArrayList<QuestionEdge> qList = new ArrayList<QuestionEdge>();
+	QuestionEdge eN = null;
 }
 {
 	try {
@@ -166,6 +167,7 @@ ArrayList<InstanceNode> from() :
 {
 	ArrayList<InstanceNode> iList = new ArrayList<InstanceNode>();
 	InstanceNode iN = null;
+	
 }
 {
 	try {
@@ -219,7 +221,7 @@ ArrayList<Edge> where() :
 * Select Attr
 *
 */
-Edge selectAttr():
+QuestionEdge selectAttr():
 {
     SortedMap<String, AttributeValue> sl = new TreeMap<String, AttributeValue>();
 }

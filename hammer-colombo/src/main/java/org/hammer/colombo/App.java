@@ -26,6 +26,7 @@ import org.hammer.isabella.query.IsabellaError;
 import org.hammer.isabella.query.Keyword;
 import org.hammer.isabella.query.Node;
 import org.hammer.isabella.query.QueryGraph;
+import org.hammer.isabella.query.QuestionEdge;
 import org.hammer.isabella.query.ValueNode;
 
 import com.mongodb.BasicDBList;
@@ -265,7 +266,7 @@ public class App {
 			}
 
 			// create field select
-			for (Edge qN : q.getQuestionNode()) {
+			for (QuestionEdge qN : q.getQuestionNode()) {
 				searchQuery.append(qN.getName(), true);
 			}
 

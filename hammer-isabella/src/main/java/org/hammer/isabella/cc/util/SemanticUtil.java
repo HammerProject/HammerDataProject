@@ -11,6 +11,7 @@ import org.hammer.isabella.query.IsabellaError;
 import org.hammer.isabella.query.LabelValueNode;
 import org.hammer.isabella.query.NumberValueNode;
 import org.hammer.isabella.query.QueryGraph;
+import org.hammer.isabella.query.QuestionEdge;
 import org.hammer.isabella.query.QuestionNode;
 import org.hammer.isabella.query.RootNode;
 import org.hammer.isabella.query.TextValueNode;
@@ -62,12 +63,11 @@ public class SemanticUtil {
 	 * @param sl
 	 * @return
 	 */
-	public static Edge SetAttrValueSelect(SortedMap<String, AttributeValue> sl,
+	public static QuestionEdge SetAttrValueSelect(SortedMap<String, AttributeValue> sl,
 			SortedMap<Integer, IsabellaError> errorList, Token t) {
-		Edge edge = new Edge(sl.containsKey("label") ? sl.get("label").getLiteralValue() : "", t.beginLine, t.beginColumn);
+		QuestionEdge edge = new QuestionEdge(sl.containsKey("label") ? sl.get("label").getLiteralValue() : "", t.beginLine, t.beginColumn);
 		edge.setInstance(sl.containsKey("instance") ? sl.get("instance").getLiteralValue() : "");
 		edge.eval(errorList, t.beginLine, t.beginColumn);
-		edge.setCondition("");
 		QuestionNode qN = new QuestionNode("?",0.0f,0.0f,0.0f, t.beginLine, t.beginColumn);
 		edge.addChild(qN);
 		return edge;
@@ -93,14 +93,14 @@ public class SemanticUtil {
 	 * @param wList
 	 * @return
 	 */
-	public static QueryGraph Build(SortedMap<Integer, IsabellaError> errorList, ArrayList<Edge> qList, ArrayList<InstanceNode> iList, ArrayList<Edge> wList) {
+	public static QueryGraph Build(SortedMap<Integer, IsabellaError> errorList, ArrayList<QuestionEdge> qList, ArrayList<InstanceNode> iList, ArrayList<Edge> wList) {
 		RootNode root = new RootNode();
 		//create root and attach every instance from the from statement
 		for(InstanceNode instance : iList) {
 			root.addChild(instance);
 		}
 		//attach to instance, every label from the select statement
-		for(Edge node: qList) {
+		for(QuestionEdge node: qList) {
 			boolean findInstance = false;
 			for(InstanceNode instanceNode : iList) {
 				if(instanceNode.getName().equals(node.getInstance())) {
