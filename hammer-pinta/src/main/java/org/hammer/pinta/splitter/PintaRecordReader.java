@@ -59,11 +59,11 @@ public class PintaRecordReader extends RecordReader<Object, BSONObject> {
 	public boolean nextKeyValue() {
 
 		if (seen < total) {
-			LOG.info("Read " + (seen + 1) + " documents from (total " + total + ") :");
+			LOG.debug("Read " + (seen + 1) + " documents from (total " + total + ") :");
 			
 			this.current = this.split.getDataset().get(seen);
-			LOG.info(this.current.toString());
-			LOG.info(" ----> " + this.getCurrentKey().toString());
+			LOG.debug(this.current.toString());
+			LOG.debug(" ----> " + this.getCurrentKey().toString());
 			seen++;
 			return true;
 		}

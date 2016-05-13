@@ -43,7 +43,7 @@ public class PintaMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 			}
 			ArrayList<String> other_tags = new ArrayList<String>();
 			if (pValue.keySet().contains("other_tags")) {
-				tags = (ArrayList<String>) pValue.get("other_tags");
+				other_tags = (ArrayList<String>) pValue.get("other_tags");
 			}
 
 			int metaCount = ((meta != null) ? meta.size()  : 0 ) + ((tags != null) ? tags.size()  : 0 ) + ((other_tags != null) ? other_tags.size()  : 0 );
