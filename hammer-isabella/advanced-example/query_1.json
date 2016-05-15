@@ -4,8 +4,8 @@
 // www.hammer-project.com
 // mauro.pelucchi@gmail.com
 //
-// Estimated Average Requirements (EAR) and Upper Intake Levels (UL) values and 
-// estimated percentiles of the usual nutrient intake distributions without fortification for children
+// Percentage of Children (6 - 59 months)  who are Severely or Moderately Undernourished
+//
 // in East-Aprifca
 // from africaopendata.org 
 //
@@ -27,13 +27,13 @@
   ],
   "where": [{"condition": {
       "instance1": "nutrition",
-      "label1": "region",
+      "label1": "survey",
       "operator": "eq",
       "value": "east-africa",
       "logicalOperator": "and"
     }}, {"condition": {
       "instance1": "nutrition",
-      "label1": "category",
+      "label1": "analysis",
       "operator": "eq",
       "value": "children",
       "logicalOperator": "and"
@@ -48,11 +48,13 @@
 // (updated 4/5/2016 06:59)
 //
 // Selected keywords
-// ----> ear
 // ----> nutrition
+// ----> category
+// ----> region
+// ----> ear
 //
 // 
-// Resources (distinct) --> 13
+// Resources (distinct) --> 209
 //
 // All labels
 // 

@@ -99,6 +99,7 @@ public class App {
 		
 		//System.out.println(query);
 		Isabella parser = new Isabella(new StringReader(query));
+		
 		QueryGraph q;
 		try {
 			q = parser.queryGraph();

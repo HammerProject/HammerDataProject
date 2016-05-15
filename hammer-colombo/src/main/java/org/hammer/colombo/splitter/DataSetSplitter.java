@@ -1,6 +1,9 @@
 package org.hammer.colombo.splitter;
 
+import java.io.IOException;
+import java.io.StringReader;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.StringTokenizer;
 
@@ -9,7 +12,12 @@ import org.apache.commons.logging.LogFactory;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.mapreduce.InputSplit;
 import org.bson.Document;
+import org.hammer.colombo.App;
 import org.hammer.colombo.utils.SocrataUtils;
+import org.hammer.isabella.cc.Isabella;
+import org.hammer.isabella.cc.ParseException;
+import org.hammer.isabella.query.Keyword;
+import org.hammer.isabella.query.QueryGraph;
 
 import com.mongodb.BasicDBList;
 import com.mongodb.BasicDBObject;
@@ -117,28 +125,40 @@ public class DataSetSplitter extends MongoSplitter {
 	protected ArrayList<Document> getSetList() {
 
 		MongoClient mongo = null;
-		final ArrayList<Document> setList = new ArrayList<Document>();
-		final ArrayList<Document> setListF = new ArrayList<Document>();
-
+		final ArrayList<Document> returnList = new ArrayList<Document>();
+		final HashMap<String, Keyword> kwIndex = App.GetMyIndex(getConfiguration());
 		MongoDatabase db = null;
 		System.out.println("Colombo gets data set from database...");
+		float th = Float.parseFloat(getConfiguration().get("limit"));
 
 		try {
+			// create my query graph object
+			// System.out.println(query);
+			Isabella parser = new Isabella(new StringReader(getConfiguration().get("query-string")));
+
+			QueryGraph q;
+			try {
+				q = parser.queryGraph();
+			} catch (ParseException e) {
+				throw new IOException(e);
+			}
+			q.setIndex(kwIndex);
 
 			MongoClientURI inputURI = MongoConfigUtil.getInputURI(getConfiguration());
 			mongo = new MongoClient(inputURI);
 			db = mongo.getDatabase(inputURI.getDatabase());
-
+			// create the table for the result
 			if (db.getCollection(getConfiguration().get("list-result")) == null) {
 				db.createCollection(getConfiguration().get("list-result"));
 			}
 			db.getCollection(getConfiguration().get("list-result")).deleteMany(new BasicDBObject());
 
-			MongoCollection<Document> dataSet = db.getCollection(inputURI.getCollection());
-
+			// connection with dataset and index collection of mongodb
+			MongoCollection<Document> dataset = db.getCollection(inputURI.getCollection());
 			MongoCollection<Document> index = db.getCollection("index");
-			StringTokenizer st = new StringTokenizer(getConfiguration().get("keywords"), ";");
 
+			// now search the keyword on the index (with or)
+			StringTokenizer st = new StringTokenizer(getConfiguration().get("keywords"), ";");
 			BasicDBList or = new BasicDBList();
 			while (st.hasMoreElements()) {
 				String word = st.nextToken().trim().toLowerCase();
@@ -158,16 +178,23 @@ public class DataSetSplitter extends MongoSplitter {
 					BasicDBObject temp = new BasicDBObject("keyword", word);
 					or.add(temp);
 				}
+
 			}
 
-			final ArrayList<ArrayList<String>> total = new ArrayList<ArrayList<String>>();
-
+			// search the keywords on my index
 			BasicDBObject searchQuery = new BasicDBObject("$or", or);
-			String searchMode = getConfiguration().get("search-mode");
 			System.out.println("Colombo gets data set from database..." + searchQuery.toString());
-
+			
+			
 			FindIterable<Document> indexS = index.find(searchQuery);
 
+			//
+			// keyword find on my index
+			// the structure of kwFinded
+			// key = the keyword
+			// value = the list of the documents associate with key
+			//
+			final HashMap<String, ArrayList<String>> kwFinded = new HashMap<String, ArrayList<String>>();
 			indexS.forEach(new Block<Document>() {
 
 				public void apply(final Document document) {
@@ -178,135 +205,136 @@ public class DataSetSplitter extends MongoSplitter {
 						idList.add(doc.getString("document"));
 					}
 					if (docList != null) {
-						total.add(idList);
+						kwFinded.put(document.getString("keyword"), idList);
 					}
 				}
 			});
-
-			BasicDBList rIdSet = new BasicDBList();
-
-			if (total.size() == 0) {
+			if (kwFinded.size() == 0) {
 				throw new Exception("!!!!! ERROR NOTHING FOUND !!!!");
 			} else {
-				System.out.println(" Found --> " + total.size());
+				System.out.println(" Found keyword with resources --> " + kwFinded.size());
 			}
 
-			System.out.println("Get relevant resources....");
-			for (ArrayList<String> listId : total) {
+			// now we find the relevant resources and calculate krm
+			// krm = [0,1]
+			// krm = number keyword match / total number of keyword
+			//
+			// the rSet contains the resources
+			// the hast map krmMap contains the value of krm for each resources
+			BasicDBList rSet = new BasicDBList();
+			HashMap<String, Float> krmMap = new HashMap<String, Float>();
+
+			System.out.println("Get resources and calc krm....");
+			for (ArrayList<String> listId : kwFinded.values()) {
 				for (String key : listId) {
 					float found = 0;
-					for (ArrayList<String> lista : total) {
+					for (ArrayList<String> lista : kwFinded.values()) {
 						if (lista.contains(key)) {
 							found++;
 						}
 					}
-					float p = ((float) found / (float) total.size());
-					if (p == 1) {
+					float krm = ((float) found / (float) kwFinded.size());
+					//
+					// if krm >= th ok!!!
+					//
+					if (krm >= th) {
 						BasicDBObject temp = new BasicDBObject("_id", key);
-						rIdSet.add(temp);
+						if (!krmMap.containsKey(key)) {
+							rSet.add(temp);
+							krmMap.put(key, krm);
+						}
 					}
 				}
 			}
 
 			System.out.println(" ----------------------------------------------> ");
-			System.out.println(" --> fount relevant resources" + rIdSet.size());
-			// get relevant resources meta and tag data
-			if (rIdSet.size() > 0) {
-				BasicDBObject searchRelevatKeywords = new BasicDBObject("$or", rIdSet);
-				FindIterable<Document> iterable = dataSet.find(searchRelevatKeywords);
-				iterable.forEach(new Block<Document>() {
-
-					@SuppressWarnings("unchecked")
-					public void apply(final Document document) {
-						ArrayList<String> meta = new ArrayList<String>();
-						if (document.keySet().contains("meta")) {
-							meta = (ArrayList<String>) document.get("meta");
-						}
-						ArrayList<String> tags = new ArrayList<String>();
-						if (document.keySet().contains("tags")) {
-							tags = (ArrayList<String>) document.get("tags");
-						}
-						ArrayList<String> other_tags = new ArrayList<String>();
-						if (document.keySet().contains("other_tags")) {
-							tags = (ArrayList<String>) document.get("other_tags");
-						}
-						for(String k : meta) {
-							BasicDBObject temp = new BasicDBObject("keyword", k.toLowerCase());
-							or.add(temp);
-						}
-						for(String k : tags) {
-							BasicDBObject temp = new BasicDBObject("keyword", k.toLowerCase());
-							or.add(temp);
-						}
-						for(String k : other_tags) {
-							BasicDBObject temp = new BasicDBObject("keyword", k.toLowerCase());
-							or.add(temp);
-						}
-						
-					}
-				});
-				
-			}
-			
-			
-			// search all documents now
-			// and if i want to search we must add the JSON constraing, else not
-			indexS = index.find(searchQuery);
-			if (searchMode.equals("search")) {
-				searchQuery.append("documents.dataset-type", new BasicDBObject("$regex", "JSON"));
-			}
-			indexS.forEach(new Block<Document>() {
-
-				public void apply(final Document document) {
-					@SuppressWarnings("unchecked")
-					ArrayList<Document> docList = (ArrayList<Document>) document.get("documents");
-					ArrayList<String> idList = new ArrayList<String>();
-					for (Document doc : docList) {
-						idList.add(doc.getString("document"));
-					}
-					if (docList != null) {
-						total.add(idList);
-					}
-				}
-			});
-			
-			// select only relevant resources (with p > limit)
-
-			BasicDBList idSet = new BasicDBList();
-			float limit = Float.parseFloat(getConfiguration().get("limit"));
-			for (ArrayList<String> listId : total) {
-				for (String key : listId) {
-					float found = 0;
-					for (ArrayList<String> lista : total) {
-						if (lista.contains(key)) {
-							found++;
-						}
-					}
-					float p = ((float) found / (float) total.size());
-					if (p >= limit) {
-						BasicDBObject temp = new BasicDBObject("_id", key);
-						idSet.add(temp);
-					}
-				}
+			if (rSet.size() == 0) {
+				throw new Exception("!!!!! ERROR NOTHING RESOURCE FOUND !!!!");
+			} else {
+				System.out.println(" --> fount relevant resources  " + rSet.size());
 			}
 
-			// download all resources!!!
-			BasicDBObject searchDataset = new BasicDBObject("$or", idSet);
+			// now we calc sdfMap where the map key is the document key and the
+			// value is the valure of sdf
+			HashMap<String, Float> sdfMap = new HashMap<String, Float>();
+			// calc the total weitgth
+			final HashMap<String, Float> wWhere = q.getwWhere();
+			final Float w = q.getWeightWhere();
 
-			if (idSet.size() == 0) {
-				throw new Exception("!!!!! ERROR NOTHING FOUND !!!!");
-			}
-			FindIterable<Document> iterable = dataSet.find(searchDataset);
-
+			BasicDBObject searchRR = new BasicDBObject("$or", rSet);
+			System.out.println("Colombo gets relevant resources..." + searchRR.toString());
+			FindIterable<Document> iterable = dataset.find(searchRR);
 			iterable.forEach(new Block<Document>() {
 
+				@SuppressWarnings("unchecked")
 				public void apply(final Document document) {
-					setList.add(document);
+					float sdf = 0.0f;
+					ArrayList<String> meta = new ArrayList<String>();
+					if (document.keySet().contains("meta")) {
+						meta = (ArrayList<String>) document.get("meta");
+					}
+					for (String k : meta) {
+						sdf += (wWhere.containsKey(k)) ? wWhere.get(k) : 0.0f;
+					}
+					sdf = (float) sdf / (float) w;
+					sdfMap.put(document.getString("_id"), sdf);
 
 				}
 			});
 
-			for (Document doc : setList) {
+			// now we have sdf and krm for each documents and can calculate rm
+			// alfa = 0.6
+			// r.rm= (1-alfa) * r.krm) + (alfa * r.sfd)
+			//
+			// th in this case is set to 0.2
+
+			// the rmMap contain the rm-value for each document_id
+			//
+			float thRm = 0.3f;
+			HashMap<String, Float> rmMap = new HashMap<String, Float>();
+			//
+			// the idSet contains the list of resource that are ok!
+			//
+			BasicDBList idSet = new BasicDBList();
+			//
+			for (String documentKey : krmMap.keySet()) {
+				float krm = krmMap.get(documentKey);
+				float sdf = (sdfMap.containsKey(documentKey)) ? sdfMap.get(documentKey) : 0.0f;
+				float rm = ((1.0f - 0.6f) * krm) + (0.6f * sdf);
+				rmMap.put(documentKey, rm);
+				if (rm >= thRm) {
+					BasicDBObject temp = new BasicDBObject("_id", documentKey);
+					idSet.add(temp);
+				}
+			}
+
+			if (idSet.size() == 0) {
+				throw new Exception("!!!!! ERROR NOTHING RELEVANT RESOURCES FOUND (with rm >= 0.3) !!!!");
+			} else {
+				System.out.println("--- > FOUND RELEVANT RESOURCES FOUND (with rm >= 0.3) " + idSet.size());
+			}
+			
+			
+			// search the resources
+			// and if i want to search we must add the JSON constrain, else not
+			searchQuery = new BasicDBObject("$or", idSet);
+			searchQuery.append("dataset-type", new BasicDBObject("$regex", "JSON"));
+
+			
+			System.out.println("Colombo gets dataset from database..." + searchQuery.toString());
+			//
+			// rmList is the final List of resources!!!
+			final ArrayList<Document> rmList = new ArrayList<Document>();
+			iterable = dataset.find(searchQuery);
+			iterable.forEach(new Block<Document>() {
+				public void apply(final Document document) {
+					rmList.add(document);
+
+				}
+			});
+
+			// before return split check socrata case
+			for (Document doc : rmList) {
 
 				// if socrata split in set by 5000 record
 				if (doc.containsKey("datainput_type") && doc.get("datainput_type")
@@ -327,7 +355,7 @@ public class DataSetSplitter extends MongoSplitter {
 										doc.getString("url"), offset, 1000, socrataQuery);
 								tempDoc.replace("url", tempUrl);
 								tempDoc.replace("_id", doc.get("_id") + "_" + offset);
-								setListF.add(tempDoc);
+								returnList.add(tempDoc);
 								db.getCollection(getConfiguration().get("list-result")).insertOne(tempDoc);
 								offset = offset + 1000;
 							}
@@ -336,7 +364,7 @@ public class DataSetSplitter extends MongoSplitter {
 
 				} else {
 					db.getCollection(getConfiguration().get("list-result")).insertOne(doc);
-					setListF.add(doc);
+					returnList.add(doc);
 				}
 			}
 
@@ -348,8 +376,8 @@ public class DataSetSplitter extends MongoSplitter {
 				mongo.close();
 			}
 		}
-		System.out.println("Colombo find " + setList.size());
-		return setListF;
+		System.out.println("Colombo find " + returnList.size());
+		return returnList;
 	}
 
 }

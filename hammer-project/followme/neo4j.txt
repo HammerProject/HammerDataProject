@@ -53,6 +53,11 @@ CREATE (:Bergamo {
   
 #####
 
+mongod --replSet myDevReplSet
+rs.initiate()
+
+mongo-connector -m ma-ha-1:27017 -t http://localhost:7474/db/data -d neo4j_doc_manager -n db.hammer.orio,db.hammer.linate
+
 MATCH (a)
 WITH a
 ORDER BY a.name, a.date

@@ -58,6 +58,21 @@ public class QueryGraph {
 	private HashMap<String, Keyword> index = new HashMap<String, Keyword>();
 
 	/**
+	 * List of weight for where
+	 */
+	private HashMap<String, Float> wWhere = new HashMap<String, Float>();
+	
+	/**
+	 * Weight (total) of where
+	 */
+	private float weightWhere = 0.f;
+	
+	
+	public float getWeightWhere() {
+		return weightWhere;
+	}
+
+	/**
 	 * Constuctor for the Query Graph
 	 * 
 	 * @param root
@@ -70,6 +85,46 @@ public class QueryGraph {
 		this.instanceNode = iList;
 		this.whereNode = wList;
 		this.root = root;
+		// calc wWhere
+		for(Edge en: whereNode) {
+			float pw = 0.0f;
+			float scw = 0.0f;
+			int foundInSelection = 0;
+			int foundInProiection = 0;
+			for(Edge temp: whereNode) {
+				if(temp.getName().equals(en.getName())) {
+					foundInSelection++;
+				}
+			}
+			for(QuestionEdge temp: questionNode) {
+				if(temp.getName().equals(en.getName())) {
+					foundInProiection++;
+				}
+			}
+			if(en.getCondition().equals("AND")) {
+				scw = 1.0f;
+			} else if (foundInSelection == 1) {
+				scw = 1.0f;
+			} else {
+				scw = 0.7f;
+			}
+			if (foundInProiection == 1) {
+				pw = 1.0f;
+			} else {
+				pw = 0.0f;
+			}
+			wWhere.put(en.getName(), (pw >= scw) ? pw : scw);
+			weightWhere+= (pw >= scw) ? pw : scw;
+		}
+		
+	}
+
+	/**
+	 * Return the list with weight
+	 * @return
+	 */
+	public HashMap<String, Float> getwWhere() {
+		return wWhere;
 	}
 
 	/**
