@@ -1,0 +1,77 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// Civil Unions in South Africa (civil-unions, registrationyear >= 2012, age of spouse >= 35)
+// from africaopendata.org 
+//
+// The Civil Union Act, 2006 (Act No. 17 of 2006) is an act of the 
+// Parliament of South Africa which legalised same-sex marriage. It allows two people, 
+// regardless of gender, to form either a marriage or a civil partnership. 
+// (from wikipedia)
+//
+// SQL
+// SELECT registrationyear, registrationmonth, spouse1age, spouse2age
+// FROM civil-unions
+// WHERE registrationyear >= 2012 and (spouse1age>= 35 or spouse2age >= 35)
+
+{
+  "select": [
+  	  { "column": { "instance": "civil-unions", "label":"registrationyear"}},
+      { "column": { "instance": "civil-unions", "label":"registrationmonth"}},
+      { "column": { "instance": "civil-unions", "label":"spouse1age"}},
+      { "column": { "instance": "civil-unions", "label":"spouse2age"}}
+  ],
+  "from": [
+    "civil-unions"
+  ],
+  "where": [{"condition": {
+      "instance1": "civil-unions",
+      "label1": "registrationyear",
+      "operator": "ge",
+      "value": 2012,
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "civil-unions",
+      "label1": "spouse1age",
+      "operator": "ge",
+      "value": 35,
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "civil-unions",
+      "label1": "spouse2age",
+      "operator": "ge",
+      "value": 35,
+      "logicalOperator": "or"
+    }}
+  ]
+}
+
+//
+// Open Data Sources (total) --> 27 (number of record in opendatasource collection)
+// Open Data Resources (total) --> 40518 (number of record in opendataresource collection)
+// Index keywords (total) --> 94866 (number of keywords in inverted index)
+// (updated 15/5/2016 22:30)
+//
+// Selected keywords
+// ----> spouse2age
+// ----> spouse1age
+// ----> registrationyear
+// ----> registrationmonth
+// 
+// 
+// Resources (distinct) --> 1
+//
+//
+// 
+// ----> civil-unions
+// ----> registrationyear
+// ----> registrationmonth
+// ----> spouse1age
+// ----> spouse2age
+// ----> 2012
+// ----> 35
+// 
+// Resources (distinct) --> 150

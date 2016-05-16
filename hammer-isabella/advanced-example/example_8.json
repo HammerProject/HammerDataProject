@@ -1,0 +1,72 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// Dashborard Expo 2015
+// The summary with the indicators used in the works dashboard of OpenExpo 2015.
+// 
+// from http://dati.openexpo2015.it
+//
+// SQL
+// SELECT AREA, Aggiudicatario, Data Consegna Lavori, Data Fine lavori, importo_aggiudicato, importo_varianti, somma_importo_aggiud_varianti
+// FROM expo2015
+// WHERE STATO = "Concluso"
+
+{
+  "select": [
+  	  { "column": { "instance": "expo2015", "label":"AREA"}},
+  	  { "column": { "instance": "expo2015", "label":"Aggiudicatario"}},
+  	  { "column": { "instance": "expo2015", "label":"Data Consegna Lavori"}},
+  	  { "column": { "instance": "expo2015", "label":"Data Fine lavori"}},
+      { "column": { "instance": "expo2015", "label":"importo_aggiudicato"}},
+      { "column": { "instance": "expo2015", "label":"importo_varianti"}},
+      { "column": { "instance": "expo2015", "label":"somma_importo_aggiud_varianti"}}
+      
+  ],
+  "from": [
+    "expo2015"
+  ],
+  "where": [{"condition": {
+      "instance1": "expo2015",
+      "label1": "STATO",
+      "operator": "eq",
+      "value": "Concluso",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+//
+// Open Data Sources (total) --> 27 (number of record in opendatasource collection)
+// Open Data Resources (total) --> 39716 (number of record in opendataresource collection)
+// Index keywords (total) --> 77027 (number of keywords in inverted index)
+// (updated 4/5/2016 06:59)
+//
+// Selected keywords
+// ----> expo2015
+// ----> STATO
+// ----> somma_importo_aggiud_varianti
+// ----> importo_varianti
+// ----> importo_aggiudicato
+// ----> Aggiudicatario
+// ----> AREA
+//
+// Resources (distinct) --> 1
+//
+// All labels
+//
+// ----> expo2015
+// ----> AREA
+// ----> Aggiudicatario
+// ----> Data Consegna Lavori
+// ----> Data Fine lavori
+// ----> importo_aggiudicato
+// ----> importo_varianti
+// ----> somma_importo_aggiud_varianti
+// ----> STATO
+// ----> Concluso
+// 
+// Resources (distinct) --> 263

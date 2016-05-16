@@ -110,6 +110,10 @@ db.datasource.insert(
 );
 
 
+db.datasource1.insert(
+{ "name" : "data.cityofnewyork.us", "url" : "https://data.cityofnewyork.us/resource/3gcn-igeu.json", "action" : "https://data.cityofnewyork.us/resource", "type" : "org.hammer.santamaria.input.Socrata2SourceRecordReader" }
+);
+
 /*****/
 
 db.datasource.insert(
