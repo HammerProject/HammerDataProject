@@ -13,22 +13,24 @@
 //
 //
 // SQL
-// SELECT year, category, cluster
+// SELECT year, position, crime_category, province, count
 // FROM crime
 // WHERE cluster = "province" and year = 2015 and category like '%drug%'
 
 {
   "select": [
   	  { "column": { "instance": "crime", "label":"year"}},
-      { "column": { "instance": "crime", "label":"category"}},
-      { "column": { "instance": "crime", "label":"cluster"}}
+  	  { "column": { "instance": "crime", "label":"position"}},
+  	  { "column": { "instance": "crime", "label":"province"}},
+      { "column": { "instance": "crime", "label":"crime_category"}},
+      { "column": { "instance": "crime", "label":"count"}}
   ],
   "from": [
     "crime"
   ],
   "where": [{"condition": {
       "instance1": "crime",
-      "label1": "category",
+      "label1": "crime_category",
       "operator": "eq",
       "value": "drug",
       "logicalOperator": "and"
@@ -57,20 +59,24 @@
 // Selected keywords
 //
 // ----> crime
-// ----> category
 // ----> cluster
 // ----> year
+// ----> count
+// ----> province
+// ----> position
 //
-// Resources (distinct) --> 503
+// Resources (distinct) --> 6
 //
 // All labels
 
 // ----> crime
 // ----> year
-// ----> category
-// ----> cluster
+// ----> position
+// ----> province
+// ----> crime_category
+// ----> count
 // ----> drug
 // ----> 2015
-// ----> province
+// ----> cluster
 
 // Resources (distinct) --> 1142

@@ -62,7 +62,6 @@ public class DataSetSplitter extends MongoSplitter {
 		super(conf);
 	}
 
-	@SuppressWarnings("unchecked")
 	@Override
 	public List<InputSplit> calculateSplits() throws SplitFailedException {
 		System.out.println("Calculate INPUTSPLIT FOR DATASET");
@@ -85,7 +84,7 @@ public class DataSetSplitter extends MongoSplitter {
 					dsSplit.setDatasource(doc.getString("id"));
 					splits.add(dsSplit);
 				}
-				if (doc.containsKey("resources")) {
+				/*if (doc.containsKey("resources")) {
 					ArrayList<Document> resources = (ArrayList<Document>) doc.get("resources");
 					for (Document resource : resources) {
 						String rKey = key + "_" + resource.getString("id");
@@ -97,7 +96,7 @@ public class DataSetSplitter extends MongoSplitter {
 						splits.add(dsSplit);
 
 					}
-				}
+				}*/
 			} else {
 				dsSplit.setName(key);
 				if (doc.containsKey("url") && !doc.containsKey("remove")) {
@@ -129,7 +128,8 @@ public class DataSetSplitter extends MongoSplitter {
 		final HashMap<String, Keyword> kwIndex = App.GetMyIndex(getConfiguration());
 		MongoDatabase db = null;
 		System.out.println("Colombo gets data set from database...");
-		float th = Float.parseFloat(getConfiguration().get("limit"));
+		float thKrm = Float.parseFloat(getConfiguration().get("thKrm"));
+		float thRm = Float.parseFloat(getConfiguration().get("thRm"));
 
 		try {
 			// create my query graph object
@@ -157,7 +157,7 @@ public class DataSetSplitter extends MongoSplitter {
 			MongoCollection<Document> dataset = db.getCollection(inputURI.getCollection());
 			MongoCollection<Document> index = db.getCollection("index");
 
-			// now search the keyword on the index (with or)
+			// now search the keywords or the labels on the index (with or)
 			StringTokenizer st = new StringTokenizer(getConfiguration().get("keywords"), ";");
 			BasicDBList or = new BasicDBList();
 			while (st.hasMoreElements()) {
@@ -237,7 +237,7 @@ public class DataSetSplitter extends MongoSplitter {
 					//
 					// if krm >= th ok!!!
 					//
-					if (krm >= th) {
+					if (krm >= thKrm) {
 						BasicDBObject temp = new BasicDBObject("_id", key);
 						if (!krmMap.containsKey(key)) {
 							rSet.add(temp);
@@ -286,11 +286,10 @@ public class DataSetSplitter extends MongoSplitter {
 			// alfa = 0.6
 			// r.rm= (1-alfa) * r.krm) + (alfa * r.sfd)
 			//
-			// th in this case is set to 0.2
+			// th in this case is set to thRm
 
 			// the rmMap contain the rm-value for each document_id
 			//
-			float thRm = 0.3f;
 			HashMap<String, Float> rmMap = new HashMap<String, Float>();
 			//
 			// the idSet contains the list of resource that are ok!
@@ -309,9 +308,9 @@ public class DataSetSplitter extends MongoSplitter {
 			}
 
 			if (idSet.size() == 0) {
-				throw new Exception("!!!!! ERROR NOTHING RELEVANT RESOURCES FOUND (with rm >= 0.3) !!!!");
+				throw new Exception("!!!!! ERROR NOTHING RELEVANT RESOURCES FOUND (with rm >= " + thRm +") !!!!");
 			} else {
-				System.out.println("--- > FOUND RELEVANT RESOURCES FOUND (with rm >= 0.3) " + idSet.size());
+				System.out.println("--- > FOUND RELEVANT RESOURCES FOUND (with rm >= " + thRm + ") " + idSet.size());
 			}
 			
 			

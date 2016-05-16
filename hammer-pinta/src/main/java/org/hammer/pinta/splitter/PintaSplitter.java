@@ -79,7 +79,7 @@ public class PintaSplitter extends MongoSplitter {
 			iterable.forEach(new Block<Document>() {
 
 				public void apply(final Document document) {
-					System.out.println("--> PINTA Find data set " + document.getString("_id"));
+					LOG.debug("--> PINTA Find resource " + document.getString("_id"));
 					BasicDBObject obj = new BasicDBObject();
 					obj.append("document", document.getString("_id"));
 					obj.append("tags", document.get("tags"));

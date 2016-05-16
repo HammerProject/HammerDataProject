@@ -184,8 +184,8 @@ public class DSSUtils {
 				meta = new ArrayList<String>();
 				for(Object obj : pList) {
 					BasicBSONObject pObj = (BasicBSONObject) obj;
-					if (pObj.containsField("name")) {
-						meta.add(pObj.getString("name").toLowerCase());
+					if (pObj.containsField("fieldName")) {
+						meta.add(pObj.getString("fieldName").toLowerCase().replaceAll(":", ""));
 					}
 				}
 				LOG.info("OPENAFRICA - CHECK DSS by META ");

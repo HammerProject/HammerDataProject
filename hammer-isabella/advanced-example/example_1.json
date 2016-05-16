@@ -1,0 +1,85 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// Percentage of Children (6 - 59 months)  who are Severely Undernourished
+// (KENYA Average vs Turkana)
+// 
+// wasting_3_sd --> % severe undernutrition
+// stuting_3_sd --> % severe stunting
+// under_weight_3_sd --> % severe underweight
+// county --> county/area of Kenya
+// 
+//
+// in East-Aprifca
+// from africaopendata.org 
+//
+//
+//
+// SQL
+// SELECT updated, county, location, under_weight_3_sd, stuting_3_sd, wasting_3_sd
+// FROM nutrition
+// WHERE county = "Turkana" or county = "Kenya Average"
+
+{
+  "select": [
+  	  { "column": { "instance": "nutrition", "label":"updated"}},
+      { "column": { "instance": "nutrition", "label":"county"}},
+      { "column": { "instance": "nutrition", "label":"location"}},
+      { "column": { "instance": "nutrition", "label":"under_weight_3_sd"}},
+      { "column": { "instance": "nutrition", "label":"stuting_3_sd"}},
+      { "column": { "instance": "nutrition", "label":"wasting_3_sd"}}
+  ],
+  "from": [
+    "nutrition"
+  ],
+  "where": [{"condition": {
+      "instance1": "nutrition",
+      "label1": "county",
+      "operator": "eq",
+      "value": "Turkana",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "nutrition",
+      "label1": "county",
+      "operator": "eq",
+      "value": "Kenya Average",
+      "logicalOperator": "or"
+    }}
+  ]
+}
+
+//
+// Open Data Sources (total) --> 27 (number of record in opendatasource collection)
+// Open Data Resources (total) --> 40518 (number of record in opendataresource collection)
+// Index keywords (total) --> 94866 (number of keywords in inverted index)
+// (updated 15/5/2016 22:30)
+//
+// Selected keywords
+// ----> nutrition
+// ----> county
+// ----> wasting_3_sd
+// ----> stuting_3_sd
+// ----> under_weight_3_sd
+// ----> updated
+// ----> location
+
+//
+// 
+// Resources (distinct) --> 1
+//
+// All labels
+// 
+// ----> nutrition
+// ----> updated
+// ----> county
+// ----> location
+// ----> under_weight_3_sd
+// ----> stuting_3_sd
+// ----> wasting_3_sd
+// ----> Turkana
+// ----> Kenya Average
+// 
+// Resources (distinct) --> 13

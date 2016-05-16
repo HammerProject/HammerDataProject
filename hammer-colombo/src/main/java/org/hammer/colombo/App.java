@@ -57,7 +57,7 @@ public class App {
 	 */
 	protected transient BSONDecoder _bsonDecoder = new BasicBSONDecoder();
 
-	public static void Run(String fileQuery, String mode, float limit, String searchMode, boolean onlyCount, String queryMode, String simulate) throws Exception {
+	public static void Run(String fileQuery, String mode, float thKrm, String searchMode, boolean onlyCount, String queryMode, String simulate, float thRm) throws Exception {
 		System.out.println("!!! Hammer Project !!!");
 		System.out.println("!!! Colombo Module start.....");
 		Configuration conf = new Configuration();
@@ -73,7 +73,8 @@ public class App {
 		conf.set("socrata.record.limit", "30000");
 
 		conf.set("mongo.splitter.class", "org.hammer.colombo.splitter.DataSetSplitter");
-		conf.set("limit", limit + "");
+		conf.set("thRm", thRm + "");
+		conf.set("thKrm", thKrm + "");
 
 		String query = "";
 		conf.set("hdfs-site", "hdfs://192.168.56.90:9000"); //54310???
@@ -148,10 +149,10 @@ public class App {
 
 	public static void main(String[] pArgs) throws Exception {
 
-		if (pArgs == null || pArgs.length < 7) {
-			throw new Exception("Parameter: <path_to_query> <mode: local|hdfs> <limit: 0.5|0.01..> <search mode: search|download> <count: true|false> <query mode: keywords|labels> <simulate: true|false");
+		if (pArgs == null || pArgs.length < 8) {
+			throw new Exception("Parameter: <path_to_query> <mode: local|hdfs> <thKrm: 0.5|0.01..> <search mode: search|download> <count: true|false> <query mode: keywords|labels> <simulate: true|false  <thRm: 0.5|0.01..>");
 		}
-		Run(pArgs[0], pArgs[1], Float.parseFloat(pArgs[2]),pArgs[3] , Boolean.parseBoolean(pArgs[4]), pArgs[5], pArgs[6]);
+		Run(pArgs[0], pArgs[1], Float.parseFloat(pArgs[2]),pArgs[3] , Boolean.parseBoolean(pArgs[4]), pArgs[5], pArgs[6], Float.parseFloat(pArgs[7]));
 	}
 
 	public static String ReadFileFromHdfs(Configuration conf) {

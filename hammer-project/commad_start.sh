@@ -38,11 +38,11 @@ bin/yarn jar share/hammer/hammer-pinta-0.0.2.jar org.hammer.pinta.App
 bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/query_8.json local 0.0 download true labels true
 
 ## simulate download all resources by query
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/query_8.json local 0.0 download true labels true
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/query_1.json local 0.0 download true labels true
 
 
 ## download selected resources by query
-bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/query_1.json local 0.0 download true keywords
+bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/query_1.json local 0.0 download true keywords false
 
 
 
@@ -56,5 +56,5 @@ bin/hadoop fs -du -s /hammer/download
 ## purge download folder
 bin/hadoop fs -rm -r /hammer/download
 
-## crea download folder
-bin/hadoop fs -mkdir -r /hammer/download
+## create download folder
+bin/hadoop fs -mkdir /hammer/download
