@@ -1,0 +1,69 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// NYC Social Media Usage
+// Twitter and Facebook statistics from various NYC agencies and organizations
+// filter for agency = 311
+//
+// from https://data.cityofnewyork.us
+// (Open Data City of New York)
+// 
+//
+// SQL
+// SELECT platform, date_sampled
+// FROM platform
+// WHERE agency = '311' and date_sampled >= '01/01/2015'
+
+{
+  "select": [
+      { "column": { "instance": "platform", "label":"platform"}},
+  	  { "column": { "instance": "platform", "label":"date_sampled"}},
+      { "column": { "instance": "platform", "label":"metric"}}
+  ],
+  "from": [
+    "platform"
+  ],
+  "where": [{"condition": {
+      "instance1": "platform",
+      "label1": "agency",
+      "operator": "eq",
+      "value": "311",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "platform",
+      "label1": "date_sampled",
+      "operator": "ge",
+      "value": "01/01/2015",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+//
+// Open Data Sources (total) --> 28 (number of record in opendatasource collection)
+// Open Data Resources (total) --> 42017 (number of record in opendataresource collection)
+// Index keywords (total) --> 100122 (number of keywords in inverted index)
+// (updated 17/5/2016 09:26)
+//
+// Selected keywords
+// ----> platform
+// ----> date_sampled
+// ----> agency
+// ----> metric
+
+//
+// Resources (distinct) --> 2
+//
+// All labels
+// ----> platform
+// ----> date_sampled
+// ----> metric
+// ----> agency
+// ----> 311
+// ----> 01/01/2015
+//
+// Resources (distinct) --> 796

@@ -1,0 +1,87 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// DOE High School Directory 2016 (extract Manhattan and Bronx with functionally accessible)
+// Directory of NYC High Schools
+
+// from https://data.cityofnewyork.us
+// (Open Data City of New York)
+//
+// SQL
+// SELECT school_name, boro, school_email
+// FROM dbn
+// WHERE state_code = 'NY' and boro = 'Bronx' or boro = 'Manhattan'
+// and school_accessibility_description = 'Functionally Accessible'
+
+{
+  "select": [
+  	  { "column": { "instance": "dbn", "label":"school_name"}},
+      { "column": { "instance": "dbn", "label":"boro"}},
+      { "column": { "instance": "dbn", "label":"school_email"}}
+  ],
+  "from": [
+    "dbn"
+  ],
+  "where": [{"condition": {
+      "instance1": "dbn",
+      "label1": "boro",
+      "operator": "eq",
+      "value": "Manhattan",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "dbn",
+      "label1": "boro",
+      "operator": "eq",
+      "value": "Bronx",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "dbn",
+      "label1": "state_code",
+      "operator": "eq",
+      "value": "NY",
+      "logicalOperator": "and"
+    }} ,{"condition": {
+      "instance1": "dbn",
+      "label1": "school_accessibility_description",
+      "operator": "eq",
+      "value": "Functionally Accessible",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+//
+// Open Data Sources (total) --> 28 (number of record in opendatasource collection)
+// Open Data Resources (total) --> 42017 (number of record in opendataresource collection)
+// Index keywords (total) --> 100122 (number of keywords in inverted index)
+// (updated 17/5/2016 09:26)
+//
+// Selected keywords
+//
+// ----> dbn
+// ----> school_accessibility_description
+// ----> state_code
+// ----> boro
+// ----> school_email
+// ----> school_name
+//
+// Resources (distinct) --> 2
+//
+// All labels
+//
+//
+// ----> dbn
+// ----> school_name
+// ----> boro
+// ----> school_email
+// ----> Manhattan
+// ----> Bronx
+// ----> state_code
+// ----> NY
+// ----> school_accessibility_description
+// ----> Functionally Accessible
+
+// Resources (distinct) --> 89

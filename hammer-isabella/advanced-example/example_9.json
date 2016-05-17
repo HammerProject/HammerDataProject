@@ -1,0 +1,85 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// NYC Service: Volunteer Opportunities
+// A list of volunteer opportunities, organized by event, category of event type, organization and location. 
+// Filter on category = Education, status approved and start date >= 01/06/2016
+// 
+//
+// from https://data.cityofnewyork.us
+// (Open Data City of New York)
+// 
+//
+// SQL
+// SELECT title, summary, display_url
+// FROM volunteer
+// WHERE status = 'approved' and category_desc = 'Education' and start_date_date >= '01/06/2016'
+
+{
+  "select": [
+  	  { "column": { "instance": "volunteer", "label":"title"}},
+      { "column": { "instance": "volunteer", "label":"summary"}},
+      { "column": { "instance": "volunteer", "label":"display_url"}}
+  ],
+  "from": [
+    "volunteer"
+  ],
+  "where": [{"condition": {
+      "instance1": "volunteer",
+      "label1": "status",
+      "operator": "eq",
+      "value": "approved",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "volunteer",
+      "label1": "category_desc",
+      "operator": "eq",
+      "value": "Education",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "volunteer",
+      "label1": "start_date_date",
+      "operator": "ge",
+      "value": "01/06/2016",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+//
+// Open Data Sources (total) --> 28 (number of record in opendatasource collection)
+// Open Data Resources (total) --> 42017 (number of record in opendataresource collection)
+// Index keywords (total) --> 100122 (number of keywords in inverted index)
+// (updated 17/5/2016 09:26)
+//
+// Selected keywords
+// ----> volunteer
+// ----> start_date_date
+// ----> category_desc
+// ----> status
+// ----> display_url
+// ----> title
+// ----> summary
+
+// Resources (distinct) --> 1
+//
+
+// All labels
+
+// ----> volunteer
+// ----> title
+// ----> summary
+// ----> display_url
+// ----> status
+// ----> approved
+// ----> category_desc
+// ----> Education
+// ----> start_date_date
+// ----> 01/06/2016
+//
+//
+// Resources (distinct) --> 285

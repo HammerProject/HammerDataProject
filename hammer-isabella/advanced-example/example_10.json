@@ -1,0 +1,94 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// NYC Jobs
+// This dataset contains current job postings available on the City of New York’s 
+// official jobs site (http://www.nyc.gov/html/careers/html/search/search.shtml).
+// Internal postings available to city employees and external postings available to the general 
+// public are included.
+//
+// salary_range_from >= 40k (type = internal)
+// Baccalaureate Degree in Marine Engineering or Naval Architecture
+//
+//
+// from https://data.cityofnewyork.us
+// (Open Data City of New York)
+// 
+//
+// SQL
+// SELECT agency, salary_range_from, salary_range_to, job_description
+// FROM jobs
+// WHERE salary_range_from >= 40000 and preferred_skills = "Baccalaureate Degree in Marine Engineering or Naval Architecture"
+// and posting_type = "Internal"
+
+{
+  "select": [
+  	  { "column": { "instance": "jobs", "label":"agency"}},
+      { "column": { "instance": "jobs", "label":"salary_range_from"}},
+      { "column": { "instance": "jobs", "label":"salary_range_to"}},
+      { "column": { "instance": "jobs", "label":"work_location"}},
+      { "column": { "instance": "jobs", "label":"job_description"}}
+  ],
+  "from": [
+    "jobs"
+  ],
+  "where": [{"condition": {
+      "instance1": "jobs",
+      "label1": "salary_range_from",
+      "operator": "ge",
+      "value": 40000,
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "jobs",
+      "label1": "preferred_skills",
+      "operator": "eq",
+      "value": "Baccalaureate Degree in Marine Engineering or Naval Architecture",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "jobs",
+      "label1": "posting_type",
+      "operator": "eq",
+      "value": "Internal",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+//
+// Open Data Sources (total) --> 28 (number of record in opendatasource collection)
+// Open Data Resources (total) --> 42017 (number of record in opendataresource collection)
+// Index keywords (total) --> 100122 (number of keywords in inverted index)
+// (updated 17/5/2016 09:26)
+//
+// Selected keywords
+// ----> jobs
+// ----> posting_type
+// ----> preferred_skills
+// ----> salary_range_from
+// ----> work_location
+// ----> salary_range_to
+// ----> job_description
+// ----> agency
+
+
+// Resources (distinct) --> 1
+//
+// All labels
+//
+// ----> jobs
+// ----> agency
+// ----> salary_range_from
+// ----> salary_range_to
+// ----> work_location
+// ----> job_description
+// ----> 40000
+// ----> preferred_skills
+// ----> Baccalaureate Degree in Marine Engineering or Naval Architecture
+// ----> posting_type
+// ----> Internal
+
+// Resources (distinct) --> 72
