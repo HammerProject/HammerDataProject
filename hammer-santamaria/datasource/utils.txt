@@ -46,7 +46,7 @@ db.dataset.aggregate(
 { "_id" : { "ods" : "dati.toscana.it" }, "count" : 403 }
 { "_id" : { "ods" : "civicdata.io" }, "count" : 201 }
 { "_id" : { "ods" : "dati.gov.it" }, "count" : 10301 }
-
+{ "_id" : { "ods" : "data.cityofnewyork.us" }, "count" : 1499 }
 
 ##########################################################################
 ##########################################################################
@@ -130,6 +130,7 @@ db.dataset.aggregate(
 { "_id" : { "ods" : "civicdata.io" }, "count" : 7 }
 { "_id" : { "ods" : "dati.trentino.it" }, "count" : 4558 }
 { "_id" : { "ods" : "dati.gov.it" }, "count" : 3155 }
+{ "_id" : { "ods" : "data.cityofnewyork.us" }, "count" : 998 }
 
 ##########################################################################
 ##########################################################################
