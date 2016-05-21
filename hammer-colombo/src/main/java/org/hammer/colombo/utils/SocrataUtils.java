@@ -130,14 +130,14 @@ public class SocrataUtils {
 	 * @return
 	 * @throws Exception
 	 */
-	public static int CountPackageList(Configuration conf, String url, String id) throws Exception {
+	public static long CountPackageList(Configuration conf, String url, String id) throws Exception {
 		HttpClient client = new HttpClient();
 		client.getHttpConnectionManager().getParams().setConnectionTimeout(3000);
 		client.getHttpConnectionManager().getParams().setSoTimeout(2000);
 
 		String socrataQuery = CreateWhereCondition(conf, id);
 
-		int count = 0;
+		long count = 0;
 		String urlStr = url + "?$select=count(*)&$where=" + EncodeURIComponent(socrataQuery);
 		//SaveData(conf, id, urlStr, socrataQuery);
 
@@ -175,6 +175,55 @@ public class SocrataUtils {
 		return count;
 	}
 
+	
+	/**
+	 * Get number of record from Socrata Data Set
+	 * 
+	 * @param url
+	 * @return
+	 * @throws Exception
+	 */
+	public static long CountTotalPackageList(String url, String id) throws Exception {
+		HttpClient client = new HttpClient();
+		client.getHttpConnectionManager().getParams().setConnectionTimeout(3000);
+		client.getHttpConnectionManager().getParams().setSoTimeout(2000);
+
+		long count = 0;
+		String urlStr = url + "?$select=count(*)";
+
+		GetMethod method = new GetMethod(urlStr);
+		LOG.info("COUNT RECORD BY SOCRATA -> " + urlStr);
+		method.getParams().setParameter(HttpMethodParams.RETRY_HANDLER, new DefaultHttpMethodRetryHandler(3, false));
+		method.setRequestHeader("User-Agent", "Hammer Project - Colombo");
+		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - Colombo");
+		method.getParams().setParameter("$select", "count(*)");
+
+		try {
+			int statusCode = client.executeMethod(method);
+
+			if (statusCode != HttpStatus.SC_OK) {
+				throw new Exception("Method failed: " + method.getStatusLine());
+			}
+			byte[] responseBody = method.getResponseBody();
+			//LOG.info(new String(responseBody));
+			@SuppressWarnings("unchecked")
+			ArrayList<BasicDBObject> docs = (ArrayList<BasicDBObject>) JSON.parse(new String(responseBody));
+			for (BasicDBObject doc : docs) {
+				if (doc.keySet().contains("count")) {
+					count = Integer.parseInt(doc.getString("count"));
+				}
+
+			}
+			LOG.info("COUNT RECORD BY SOCRATA -> " + count);
+		} catch (Exception e) {
+			e.printStackTrace();
+			return -1;
+		} finally {
+			method.releaseConnection();
+		}
+		return count;
+	}
+	
 	/**
 	 * Return a dataset from SOCRATA Site
 	 * 

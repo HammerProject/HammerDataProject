@@ -76,6 +76,7 @@ public class ColomboMapper extends Mapper<Object, BSONObject, Text, BSONWritable
         	
         	if(conf.get("search-mode").equals("download")) {
         		pContext.write(new Text((String) "size"), new BSONWritable(pValue) );
+
     		} else {
 
             	if(pValue instanceof BasicBSONList) {
@@ -181,6 +182,9 @@ public class ColomboMapper extends Mapper<Object, BSONObject, Text, BSONWritable
 		}
 		
 	}
+	
+	
+
 	
 	
 }

@@ -1,9 +1,12 @@
 package org.hammer.colombo.splitter;
 
 import java.io.BufferedInputStream;
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.net.HttpURLConnection;
@@ -32,6 +35,7 @@ import org.bson.BasicBSONObject;
 import org.bson.types.BasicBSONList;
 import org.hammer.colombo.utils.JSON;
 import org.hammer.colombo.utils.SocrataUtils;
+import org.hammer.isabella.cc.util.IsabellaUtils;
 
 import com.fasterxml.jackson.databind.MappingIterator;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -126,7 +130,15 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 				} else {
 					size = saveUrl(split.getName(), split.getUrl());
 				}
-
+				if (split.getDataSetType().equals("org.hammer.santamaria.mapper.dataset.SocrataDataSetInput")) {
+					doc.put("selectedRecord", SocrataUtils.CountPackageList(conf, split.getUrl(), split.getName()));
+					doc.put("record", SocrataUtils.CountTotalPackageList(split.getUrl(), split.getName()));
+				} else if (split.getDataSetType().equals("org.hammer.santamaria.mapper.dataset.Socrata2DataSetInput")) {
+				  	doc.put("selectedRecord", SocrataUtils.CountPackageList(conf, split.getUrl(), split.getName()));
+				  	doc.put("record", SocrataUtils.CountTotalPackageList(split.getUrl(), split.getName()));
+				} else {
+					doc.put("record", countRecord(split.getName()));
+				}
 				doc.put("size", size);
 			} catch (Exception e) {
 				LOG.error(e);
@@ -274,7 +286,8 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 			in = new BufferedInputStream(new URL(urlString).openStream());
 
 			long total = IOUtils.copyLarge(in, out);
-
+			
+			
 			return total;
 		} catch (Exception e) {
 			LOG.error(e);
@@ -297,6 +310,30 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 			}
 
 		}
+	}
+	
+	/**
+	 * Count record
+	 * @return
+	 */
+	private long countRecord(String file) {
+		long record = 0;
+		try {
+			String response = ReadFileFromHdfs(conf, file);
+			LOG.info(response);
+			BSONObject	doc = (BSONObject) JSON.parse(new String(response));
+			
+			if(doc instanceof BasicBSONList) {
+				record = ((BasicBSONList) doc).toMap().size();
+			}else if((doc instanceof BSONObject) && (((BSONObject) doc)).containsField("meta") 
+   				 && (((BSONObject) doc)).containsField("data")) {
+			    record = ((BasicBSONList) (((BSONObject) doc)).get("data")).toMap().size();	
+			}
+		} catch (Exception ex) {
+			LOG.error(ex);
+			record = 1;
+		}
+		return record;
 	}
 
 	/**
@@ -352,30 +389,90 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 		}
 	}
 
-	//
-	public static void main(String[] pArgs) throws Exception {
-		String url = "https://africaopendata.org/dataset/94b99293-6ab7-420d-9a5b-6001c3e760a2/resource/5ebfb72a-c33a-410c-9f7d-bdb9dab19b5e/download/zimbabwe.xlsx";
-
-		HttpClient client = new HttpClient();
-		client.getHttpConnectionManager().getParams().setParameter(ClientPNames.HANDLE_REDIRECTS, false);
-		GetMethod method = new GetMethod(url);
-		method.setRequestHeader("User-Agent", "Hammer Project - Colombo");
-		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - Colombo");
-		method.getParams().setParameter(HttpMethodParams.RETRY_HANDLER, new DefaultHttpMethodRetryHandler(3, false));
-
+	public static String ReadFileFromHdfs(Configuration conf, String filename) {
+		FileSystem fs = null;
+		BufferedReader br = null;
+		StringBuilder sb = null;
 		try {
-			int statusCode = client.executeMethod(method);
-			if (statusCode != HttpStatus.SC_OK) {
-				throw new Exception("Method failed: " + method.getStatusLine());
+			Path pt = new Path(conf.get("download") + "/" + filename);
+			fs = FileSystem.get(new Configuration());
+			br = new BufferedReader(new InputStreamReader(fs.open(pt)));
+			sb = new StringBuilder();
+			String line = br.readLine();
+			while (line != null) {
+				sb.append(line);
+				sb.append("\n");
+				line = br.readLine();
 			}
-
-			System.out.println(method.getResponseContentLength());
-			System.out.println(method.getResponseBody().length);
+			return sb.toString();
 		} catch (Exception e) {
 			e.printStackTrace();
-			LOG.error(e);
 		} finally {
-			method.releaseConnection();
+			if (fs != null) {
+				try {
+					fs.close();
+				} catch (Exception e) {
+				}
+			}
+			if (br != null) {
+				try {
+					br.close();
+				} catch (Exception e) {
+				}
+			}
+
+		}
+
+		return sb.toString();
+	}
+	
+	//
+	public static void main(String[] pArgs) throws Exception {
+		InputStream in = null;
+		BufferedWriter br = null;
+		OutputStream out = null;
+		try {
+			out = new FileOutputStream("test.json");
+			br = new BufferedWriter(new OutputStreamWriter(out, "UTF-8"));
+			in = new BufferedInputStream(new URL("https://data.cityofnewyork.us/resource/kpav-sd4t.json").openStream());
+			
+			long record = 0;
+			long total = IOUtils.copyLarge(in, out);
+			String response = IsabellaUtils.readFile("test.json");
+			try {
+				BSONObject	doc = (BSONObject) JSON.parse(new String(response));
+				if(doc instanceof BasicBSONList) {
+					record = ((BasicBSONList) doc).toMap().size();
+				}else if((doc instanceof BSONObject) && (((BSONObject) doc)).containsField("meta") 
+       				 && (((BSONObject) doc)).containsField("data")) {
+				    record = ((BasicBSONList) (((BSONObject) doc)).get("data")).toMap().size();	
+				}
+				record = SocrataUtils.CountTotalPackageList("https://data.cityofnewyork.us/resource/kpav-sd4t.json", "kpav-sd4t");
+			} catch (Exception ex) {
+				ex.printStackTrace();
+				record = 1;
+			}
+			
+
+			System.out.println(total);
+			System.out.println(record);
+		} catch (Exception e) {
+			LOG.error(e);
+			throw e;
+		} finally {
+			if (in != null) {
+				in.close();
+			}
+
+			if (br != null) {
+				br.close();
+			}
+
+			if (out != null) {
+				out.close();
+			}
+
+
 		}
 	}
 }

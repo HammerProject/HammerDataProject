@@ -41,13 +41,20 @@ public class ColomboReducer extends Reducer<Text, BSONWritable, Text, BSONWritab
 
 		if (conf.get("search-mode").equals("download")) {
 			long size = 0;
+			long record = 0;
+			long selectedRecord = 0;
 			int count = 0;
 			for (final BSONWritable value : pValues) {
 				size += (value.getDoc().containsField("size")) ? (Long)value.getDoc().get("size") : 0;
+				record += (value.getDoc().containsField("record")) ? (Long)value.getDoc().get("record") : 0;
+				selectedRecord += (value.getDoc().containsField("selectedRecord")) ? (Long)value.getDoc().get("selectedRecord") : 0;
+
 				count ++;
 			}
 			BasicDBObject temp = new BasicDBObject();
 			temp.put("size", size);
+			temp.put("record", record);
+			temp.put("selectedRecord", selectedRecord);
 			temp.put("count", count);
 			
 			pContext.write(new Text("size"), new BSONWritable(temp));

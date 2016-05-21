@@ -343,7 +343,7 @@ public class DataSetSplitter extends MongoSplitter {
 							doc.getString("_id"));
 
 					if (socrataQuery.length() > 0 && doc.getString("dataset-type").equals("JSON")) {
-						int count = SocrataUtils.CountPackageList(this.getConfiguration(), doc.getString("url"),
+						long count = SocrataUtils.CountPackageList(this.getConfiguration(), doc.getString("url"),
 								doc.getString("_id"));
 						int offset = 0;
 
