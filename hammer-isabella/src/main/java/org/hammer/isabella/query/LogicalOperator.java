@@ -1,5 +1,7 @@
 package org.hammer.isabella.query;
 
+import java.io.Serializable;
+
 /**
  * List of Logical Operator
  * 
@@ -7,7 +9,7 @@ package org.hammer.isabella.query;
  * @project Hammer Project - Isabella
  *
  */
-public enum LogicalOperator {
+public enum LogicalOperator implements Serializable {
 	and,
 	or
 }

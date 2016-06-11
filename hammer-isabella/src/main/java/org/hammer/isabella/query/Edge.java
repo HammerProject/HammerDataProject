@@ -12,6 +12,12 @@ import java.util.SortedMap;
 public class Edge extends Node {
 	
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 5916932492788618984L;
+
+
+	/**
 	 * Instance
 	 */
 	public String instance = "";

@@ -10,6 +10,11 @@ package org.hammer.isabella.query;
 public class QuestionNode extends Node {
 
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1286816810407857021L;
+
+	/**
 	 * Build a Question Node
 	 * @param name
 	 * @param iScore

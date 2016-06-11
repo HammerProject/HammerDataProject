@@ -10,6 +10,11 @@ package org.hammer.isabella.query;
 public class InstanceNode extends Node {
 
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -4894726710457152066L;
+
+	/**
 	 * Build the instance node
 	 * @param name
 	 * @param line

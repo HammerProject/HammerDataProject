@@ -1,12 +1,31 @@
 package org.hammer.isabella.query;
 
+import java.io.Serializable;
+
 /**
  * A keyword
  * 
  * @author mauropelucchi
  *
  */
-public class Keyword {
+public class Keyword implements Cloneable, Serializable {
+	
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = -3767440922897597489L;
+
+	@Override public Keyword clone() {
+        try {
+            final Keyword result = (Keyword) super.clone();
+            result.keyword = this.keyword;
+            result.reScore = this.reScore;
+            result.similarity = 0.0d;
+            return result;
+        } catch (final CloneNotSupportedException ex) {
+            throw new AssertionError();
+        }
+    }
 
 	@Override
 	public String toString() {
@@ -77,4 +96,19 @@ public class Keyword {
 	public void setKeyword(String keyword) {
 		this.keyword = keyword;
 	}
+	
+	public double getSimilarity() {
+		return similarity;
+	}
+
+	public void setSimilarity(double similarity) {
+		this.similarity = similarity;
+	}
+
+	/**
+	 * Similarity
+	 */
+	private double similarity = 0.0d;
+	
+	
 }

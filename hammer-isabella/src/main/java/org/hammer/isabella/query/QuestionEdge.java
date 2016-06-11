@@ -12,6 +12,10 @@ import java.util.SortedMap;
 public class QuestionEdge extends Node {
 	
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -549206306582224037L;
+	/**
 	 * Instance
 	 */
 	public String instance = "";

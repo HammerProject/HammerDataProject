@@ -6,6 +6,7 @@ org/hammer/isabella/query/LabelValueNode.class
 org/hammer/isabella/cc/ParseException.class
 org/hammer/isabella/cc/SimpleCharStream.class
 org/hammer/isabella/cc/util/SemanticUtil.class
+org/hammer/isabella/cc/util/QueryGraphCloner.class
 org/hammer/isabella/query/IsabellaError.class
 org/hammer/isabella/query/Edge.class
 org/hammer/isabella/cc/Isabella.class
@@ -15,9 +16,12 @@ org/hammer/isabella/query/RelationalOperator.class
 org/hammer/isabella/query/TextValueNode.class
 org/hammer/isabella/query/AttributeValue.class
 org/hammer/isabella/App.class
+org/hammer/isabella/query/Node$1.class
 org/hammer/isabella/query/IDataType.class
 org/hammer/isabella/query/QuestionEdge.class
 org/hammer/isabella/cc/Token.class
+org/hammer/isabella/fuzzy/JaroWinkler.class
+org/hammer/isabella/fuzzy/App.class
 org/hammer/isabella/query/InstanceNode.class
 org/hammer/isabella/cc/util/IsabellaUtils.class
 org/hammer/isabella/query/Node.class

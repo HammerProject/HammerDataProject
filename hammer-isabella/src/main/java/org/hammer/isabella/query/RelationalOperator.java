@@ -1,5 +1,7 @@
 package org.hammer.isabella.query;
 
+import java.io.Serializable;
+
 /**
  * List of Relational Operator
  * 
@@ -7,7 +9,7 @@ package org.hammer.isabella.query;
  * @project Hammer Project - Isabella
  *
  */
-public enum RelationalOperator {
+public enum RelationalOperator implements Serializable {
 	eq, // =
 	ge, // >=
 	gt, // >

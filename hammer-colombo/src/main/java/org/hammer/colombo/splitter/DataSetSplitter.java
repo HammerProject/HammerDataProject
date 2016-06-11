@@ -1,10 +1,10 @@
 package org.hammer.colombo.splitter;
 
-import java.io.IOException;
 import java.io.StringReader;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.StringTokenizer;
 
 import org.apache.commons.logging.Log;
@@ -13,9 +13,13 @@ import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.mapreduce.InputSplit;
 import org.bson.Document;
 import org.hammer.colombo.App;
+import org.hammer.colombo.utils.RecursiveString;
 import org.hammer.colombo.utils.SocrataUtils;
 import org.hammer.isabella.cc.Isabella;
 import org.hammer.isabella.cc.ParseException;
+import org.hammer.isabella.cc.util.QueryGraphCloner;
+import org.hammer.isabella.fuzzy.JaroWinkler;
+import org.hammer.isabella.query.IsabellaError;
 import org.hammer.isabella.query.Keyword;
 import org.hammer.isabella.query.QueryGraph;
 
@@ -64,14 +68,91 @@ public class DataSetSplitter extends MongoSplitter {
 
 	@Override
 	public List<InputSplit> calculateSplits() throws SplitFailedException {
+		final HashMap<String, Keyword> kwIndex = App.GetMyIndex(getConfiguration());
 		System.out.println("Calculate INPUTSPLIT FOR DATASET");
 		MongoClientURI inputURI = MongoConfigUtil.getInputURI(getConfiguration());
 		List<InputSplit> splits = new ArrayList<InputSplit>();
 		System.out.println("Colombo calculating splits for " + inputURI);
 
-		List<Document> dataSet = getSetList();
+		// create my query graph object
+		// System.out.println(query);
+		Isabella parser = new Isabella(new StringReader(getConfiguration().get("query-string")));
+		String keywords = "";
+		Map<String, ArrayList<String>> similarity = new HashMap<String, ArrayList<String>>();
+		QueryGraph q;
+		try {
+			q = parser.queryGraph();
+			q.setIndex(kwIndex);
+		} catch (ParseException e) {
+			throw new SplitFailedException(e.getMessage());
+		}
+		for (IsabellaError err : parser.getErrors().values()) {
+			System.out.println(err.toString());
+		}
+		
+		if (getConfiguration().get("query-mode").equals("labels")) {
+			q.calculateMyLabels();
+			getConfiguration().set("keywords", q.getMyLabels());
+			keywords = q.getMyLabels();
+		} else {
+			q.labelSelection();
+			getConfiguration().set("keywords", q.getKeyWords());
+			keywords = q.getKeyWords();
+
+			StringTokenizer st = new StringTokenizer(keywords, ";");
+			while (st.hasMoreElements()) {
+				String key = st.nextToken().trim().toLowerCase();
+
+				ArrayList<String> tempList = new ArrayList<String>();
+				for (String s : kwIndex.keySet()) {
+					double sim = JaroWinkler.Apply(key, s.toLowerCase());
+					// set the degree threshold to 80%
+					if (sim > 0.99) {
+						tempList.add(s.toLowerCase());
+					}
+				}
+
+				similarity.put(key, tempList);
+			}
+		}
+
+		System.out.println("---- Create all the combination ");
+		// recursive call
+		ArrayList<String[]> optionsList = new ArrayList<String[]>();
+		ArrayList<ArrayList<String[]>> cases = new ArrayList<ArrayList<String[]>>();
+		RecursiveString.Recurse(optionsList, similarity, 0, cases);
+
+		ArrayList<QueryGraph> qList = new ArrayList<QueryGraph>();
+		for (int i = 0; i < cases.size(); i++) {
+			System.out.println("Q Case " + (i + 1) + ": ");
+			for (String[] k : cases.get(i)) {
+				System.out.println(k[0] + "-" + k[1] + ",");
+			}
+			
+			try {
+				QueryGraph temp = QueryGraphCloner.deepCopy(q);
+				temp.newQ(cases.get(i));
+				qList.add(temp);
+
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+			System.out.println("\n");
+		}
+		System.out.println("---- End all the combination ");
+
+		System.out.println("Qx --> " + qList.size());
+		Map<String, Document> dataSet = new HashMap<String, Document>();
+		for (QueryGraph qx : qList) {
+			List<Document> temp = getSetList(qx, keywords);
+			for (Document t : temp) {
+				String key = t.getString("_id");
+				dataSet.put(key, t);
+			}
+		}
+
 		System.out.println("---> found !!!!!! " + dataSet.size());
-		for (Document doc : dataSet) {
+		for (Document doc : dataSet.values()) {
 			String key = doc.getString("_id");
 			LOG.debug("---> found " + key + " - " + doc.getString("title"));
 			DataSetSplit dsSplit = new DataSetSplit();
@@ -84,19 +165,19 @@ public class DataSetSplitter extends MongoSplitter {
 					dsSplit.setDatasource(doc.getString("id"));
 					splits.add(dsSplit);
 				}
-				/*if (doc.containsKey("resources")) {
-					ArrayList<Document> resources = (ArrayList<Document>) doc.get("resources");
-					for (Document resource : resources) {
-						String rKey = key + "_" + resource.getString("id");
-						dsSplit.setName(rKey);
-						dsSplit.setUrl(resource.getString("url"));
-						dsSplit.setType(doc.getString("dataset-type"));
-						dsSplit.setDataSetType(doc.getString("datainput_type"));
-						dsSplit.setDatasource(doc.getString("id"));
-						splits.add(dsSplit);
-
-					}
-				}*/
+				/*
+				 * if (doc.containsKey("resources")) { ArrayList<Document>
+				 * resources = (ArrayList<Document>) doc.get("resources"); for
+				 * (Document resource : resources) { String rKey = key + "_" +
+				 * resource.getString("id"); dsSplit.setName(rKey);
+				 * dsSplit.setUrl(resource.getString("url"));
+				 * dsSplit.setType(doc.getString("dataset-type"));
+				 * dsSplit.setDataSetType(doc.getString("datainput_type"));
+				 * dsSplit.setDatasource(doc.getString("id"));
+				 * splits.add(dsSplit);
+				 * 
+				 * } }
+				 */
 			} else {
 				dsSplit.setName(key);
 				if (doc.containsKey("url") && !doc.containsKey("remove")) {
@@ -121,28 +202,16 @@ public class DataSetSplitter extends MongoSplitter {
 	 * 
 	 * @return
 	 */
-	protected ArrayList<Document> getSetList() {
+	protected ArrayList<Document> getSetList(QueryGraph q, String keywords) {
 
 		MongoClient mongo = null;
 		final ArrayList<Document> returnList = new ArrayList<Document>();
-		final HashMap<String, Keyword> kwIndex = App.GetMyIndex(getConfiguration());
 		MongoDatabase db = null;
 		System.out.println("Colombo gets data set from database...");
 		float thKrm = Float.parseFloat(getConfiguration().get("thKrm"));
 		float thRm = Float.parseFloat(getConfiguration().get("thRm"));
 
 		try {
-			// create my query graph object
-			// System.out.println(query);
-			Isabella parser = new Isabella(new StringReader(getConfiguration().get("query-string")));
-
-			QueryGraph q;
-			try {
-				q = parser.queryGraph();
-			} catch (ParseException e) {
-				throw new IOException(e);
-			}
-			q.setIndex(kwIndex);
 
 			MongoClientURI inputURI = MongoConfigUtil.getInputURI(getConfiguration());
 			mongo = new MongoClient(inputURI);
@@ -158,7 +227,7 @@ public class DataSetSplitter extends MongoSplitter {
 			MongoCollection<Document> index = db.getCollection("index");
 
 			// now search the keywords or the labels on the index (with or)
-			StringTokenizer st = new StringTokenizer(getConfiguration().get("keywords"), ";");
+			StringTokenizer st = new StringTokenizer(keywords, ";");
 			BasicDBList or = new BasicDBList();
 			while (st.hasMoreElements()) {
 				String word = st.nextToken().trim().toLowerCase();
@@ -184,8 +253,7 @@ public class DataSetSplitter extends MongoSplitter {
 			// search the keywords on my index
 			BasicDBObject searchQuery = new BasicDBObject("$or", or);
 			System.out.println("Colombo gets data set from database..." + searchQuery.toString());
-			
-			
+
 			FindIterable<Document> indexS = index.find(searchQuery);
 
 			//
@@ -308,18 +376,16 @@ public class DataSetSplitter extends MongoSplitter {
 			}
 
 			if (idSet.size() == 0) {
-				throw new Exception("!!!!! ERROR NOTHING RELEVANT RESOURCES FOUND (with rm >= " + thRm +") !!!!");
+				throw new Exception("!!!!! ERROR NOTHING RELEVANT RESOURCES FOUND (with rm >= " + thRm + ") !!!!");
 			} else {
 				System.out.println("--- > FOUND RELEVANT RESOURCES FOUND (with rm >= " + thRm + ") " + idSet.size());
 			}
-			
-			
+
 			// search the resources
 			// and if i want to search we must add the JSON constrain, else not
 			searchQuery = new BasicDBObject("$or", idSet);
 			searchQuery.append("dataset-type", new BasicDBObject("$regex", "JSON"));
 
-			
 			System.out.println("Colombo gets dataset from database..." + searchQuery.toString());
 			//
 			// rmList is the final List of resources!!!

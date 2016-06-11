@@ -18,7 +18,7 @@ bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/te
 
 
 ## download selected resources by query
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/query_1.json local 0.0 download true keywords
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/example_1.json local 0.0 download true keywords
 
 
 ###############################################################################
@@ -42,7 +42,7 @@ bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/ha
 
 
 ## download selected resources by query
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/query_7.json local 0.3 download true keywords false 0.3
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/example_1.json local 0.3 download true keywords false 0.3
 
 
 

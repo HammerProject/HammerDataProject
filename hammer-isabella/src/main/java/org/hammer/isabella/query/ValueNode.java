@@ -11,6 +11,11 @@ package org.hammer.isabella.query;
 public abstract  class ValueNode extends Node {
 
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -1575670749408064288L;
+
+	/**
 	 * Build a Value Node
 	 * 
 	 * @param name

@@ -16,6 +16,12 @@ import java.util.SortedMap;
 public class AttributeValue implements IDataType {
 
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 994153942318447643L;
+
+
+	/**
 	 * Formatter
 	 */
 	@SuppressWarnings("unused")

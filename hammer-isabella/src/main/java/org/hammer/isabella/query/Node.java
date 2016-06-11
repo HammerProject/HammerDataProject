@@ -1,9 +1,13 @@
 package org.hammer.isabella.query;
 
+import java.io.Serializable;
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 import java.util.SortedMap;
+
+import org.hammer.isabella.fuzzy.JaroWinkler;
 
 /**
  * Node
@@ -12,25 +16,96 @@ import java.util.SortedMap;
  * @project Hammer Project - Isabella
  *
  */
-public class Node implements Leaf, IDataType {
+public class Node implements Leaf, IDataType, Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 2082275786927456129L;
+
+	/**
+	 * The similatiry set
+	 */
+	private List<Keyword> similatirySet = new ArrayList<Keyword>();
+
+	public List<Keyword> getSimilatirySet() {
+		return similatirySet;
+	}
+
+	public String getSimName() {
+		return simName;
+	}
+
+	/**
+	 * The string most similarity
+	 */
+	private String simName = null;
+
+	Comparator<Keyword> cmp = new Comparator<Keyword>() {
+		public int compare(Keyword o1, Keyword o2) {
+			return (o1.getSimilarity() < o2.getSimilarity()) ? 1 : ((o1.getSimilarity() > o2.getSimilarity()) ? -1 : 0);
+		}
+	};
+
+	/**
+	 * Calc similarity set for this name
+	 * 
+	 * @param index
+	 */
+	public void calcSimilaritySet(HashMap<String, Keyword> index) {
+		if (this.simName == null && !this.name.equals("Q") && !this.name.equals("?") && !this.name.equals("*")) {
+			for (String s : index.keySet()) {
+				double sim = JaroWinkler.Apply(this.name.toLowerCase(), s.toLowerCase());
+				if (sim > 0) {
+					Keyword k = index.get(s).clone();
+					k.setSimilarity(sim);
+					this.similatirySet.add(k);
+					this.similatirySet.sort(cmp);
+					this.simName = this.similatirySet.get(0).getKeyword();
+
+				}
+			}
+			
+			System.out.println("-------------------------------------------------");
+			System.out.println(this.name.toString());
+			System.out.println(this.simName.toString());
+			System.out.println("-------------------------------------------------");
+			
+			if (this.father != null) {
+				this.father.calcSimilaritySet(index);
+			}
+
+		}
+
+		for (Node node : getChild()) {
+			node.calcSimilaritySet(index);
+		}
+	}
 
 	/**
 	 * Update reScore
+	 * 
 	 * @param index
 	 */
 	public void updareReScore(HashMap<String, Keyword> index) {
-		if(index.containsKey(this.getName().toLowerCase())) {
-			//System.out.println(" found !!! " + index.get(this.getName().toLowerCase()).toString());
+		if (index.containsKey(this.getName().toLowerCase())) {
+			// System.out.println(" found !!! " +
+			// index.get(this.getName().toLowerCase()).toString());
 			this.reScore = index.get(this.getName().toLowerCase()).getReScore();
+		} else if (this.simName != null) {
+			System.out.println(" not found !!! " + this.simName.toString());
+			this.reScore = index.get(this.simName.toLowerCase()).getReScore();
 		} else {
-			//System.out.println(" not found !!! " + this.getName().toString());
+			// System.out.println(" not found !!! " +
+			// this.getName().toString());
 			this.reScore = 0.0f;
 			this.riScore = 0.0f;
-		}	
+		}
 		for (Node node : getChild()) {
 			node.updareReScore(index);
 		}
 	}
+
 	/**
 	 * True if the node is selected for the label list
 	 */
@@ -50,23 +125,22 @@ public class Node implements Leaf, IDataType {
 	 * My ri-score
 	 */
 	private float riScore = 0.0f;
-	
+
 	/**
 	 * My re-score
 	 */
 	private double reScore = 0.0f;
-	
 
 	/**
 	 * Line from the source code
 	 */
 	private int line = 0;
-	
+
 	/**
 	 * Column from the source code
 	 */
 	private int column = 0;
-	
+
 	/**
 	 * Name
 	 */
@@ -86,6 +160,7 @@ public class Node implements Leaf, IDataType {
 
 	/**
 	 * Return my name
+	 * 
 	 * @return
 	 */
 	public String getName() {
@@ -94,6 +169,7 @@ public class Node implements Leaf, IDataType {
 
 	/**
 	 * Return the list of my child
+	 * 
 	 * @return
 	 */
 	public List<Node> getChild() {
@@ -112,6 +188,7 @@ public class Node implements Leaf, IDataType {
 
 	/**
 	 * Return my informative score
+	 * 
 	 * @return
 	 */
 	public float getiScore() {
@@ -120,14 +197,16 @@ public class Node implements Leaf, IDataType {
 
 	/**
 	 * Return my representive in score
+	 * 
 	 * @return
 	 */
 	public float getriScore() {
 		return riScore;
 	}
-	
+
 	/**
 	 * Return my representive ext score
+	 * 
 	 * @return
 	 */
 	public double getreScore() {
@@ -136,6 +215,7 @@ public class Node implements Leaf, IDataType {
 
 	/**
 	 * Consume my informative
+	 * 
 	 * @param value
 	 */
 	public void dec(double value) {
@@ -159,24 +239,25 @@ public class Node implements Leaf, IDataType {
 		this.line = line;
 		this.column = column;
 		this.child = new ArrayList<Node>();
-		
-		if(this.name == "*") {
+
+		if (this.name == "*") {
 			this.iScore = 0.0f;
 			this.riScore = 0.0f;
 			this.reScore = 0.0f;
-		} else if(this.name == "Q") {
+		} else if (this.name == "Q") {
 			this.iScore = 0.0f;
 			this.riScore = 0.0f;
 			this.reScore = 0.0f;
-		} else if(this.name == "?") {
+		} else if (this.name == "?") {
 			this.iScore = 0.0f;
 			this.riScore = 0.0f;
 			this.reScore = 0.0f;
-		} 
+		}
 	}
 
 	/**
 	 * Get my line on source file
+	 * 
 	 * @return
 	 */
 	public int getLine() {
@@ -185,6 +266,7 @@ public class Node implements Leaf, IDataType {
 
 	/**
 	 * Get my column on source file
+	 * 
 	 * @return
 	 */
 	public int getColumn() {
@@ -197,9 +279,9 @@ public class Node implements Leaf, IDataType {
 	 * !!! initialize all data
 	 */
 	public void test(int level) {
-		int l = level+1;
+		int l = level + 1;
 		this.selected = false;
-		for(int i = 0; i < level; i++) {
+		for (int i = 0; i < level; i++) {
 			System.out.print("-");
 		}
 		System.out.println("-> " + this.name + " (" + iScore + ", " + riScore + "," + reScore + ")");
@@ -210,14 +292,16 @@ public class Node implements Leaf, IDataType {
 
 	/**
 	 * Count the labels on the graph
+	 * 
 	 * @param labels
 	 */
 	public void countLabels(List<String> labels) {
 		if (!labels.contains(this.name) && this.name != "*" && this.name != "?" && !this.name.equals("Q")) {
 			labels.add(this.name);
 		}
-		if(this.father != null ){
-			if (!labels.contains(this.father.getName()) && this.name != "*" && this.name != "?" && !this.name.equals("Q")) {
+		if (this.father != null) {
+			if (!labels.contains(this.father.getName()) && this.name != "*" && this.name != "?"
+					&& !this.name.equals("Q")) {
 				labels.add(this.father.getName());
 			}
 		}
@@ -228,6 +312,7 @@ public class Node implements Leaf, IDataType {
 
 	/**
 	 * Return a valid node (i + r > 1)
+	 * 
 	 * @param maxNode
 	 * @return
 	 */
@@ -246,9 +331,10 @@ public class Node implements Leaf, IDataType {
 			return null;
 		return maxNode;
 	}
-	
+
 	/**
 	 * Get My R Score
+	 * 
 	 * @return
 	 */
 	public double rScore() {
@@ -257,6 +343,7 @@ public class Node implements Leaf, IDataType {
 
 	/**
 	 * Node already select for the label list (=true)
+	 * 
 	 * @return
 	 */
 	public boolean isSelected() {
@@ -265,13 +352,13 @@ public class Node implements Leaf, IDataType {
 
 	/**
 	 * Set
+	 * 
 	 * @param pass
 	 */
 	public void setSelected(boolean selected) {
 		this.selected = selected;
 	}
-	
-	
+
 	@Override
 	public int hashCode() {
 		int result = this.name != null ? this.name.hashCode() : 0;
@@ -280,12 +367,25 @@ public class Node implements Leaf, IDataType {
 		}
 		return result;
 	}
-	
 
 	@Override
 	public void eval(SortedMap<Integer, IsabellaError> errorList, int line, int column) {
-		if(name == null || name.trim().length()<=0) {
-			errorList.put((line * 1000) + 1, new IsabellaError(line, column, "Name code non defined; \"name\" : \"xxxxx\""));
-		}		
+		if (name == null || name.trim().length() <= 0) {
+			errorList.put((line * 1000) + 1,
+					new IsabellaError(line, column, "Name code non defined; \"name\" : \"xxxxx\""));
+		}
+	}
+	
+
+	public void newQ(ArrayList<String[]> arrayList) {
+		for(String[] k : arrayList) {
+			if(k[0].equals(this.name)) {
+				this.name = k[1];
+			}
+		}
+		for (Node node : getChild()) {
+			node.newQ(arrayList);
+		}
+		
 	}
 }

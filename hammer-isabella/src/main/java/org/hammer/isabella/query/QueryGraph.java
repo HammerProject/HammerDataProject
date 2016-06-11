@@ -1,5 +1,6 @@
 package org.hammer.isabella.query;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -11,7 +12,12 @@ import java.util.List;
  * @project Hammer Project - Isabella
  *
  */
-public class QueryGraph {
+public class QueryGraph implements Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -4443478641451747940L;
 
 	/**
 	 * List of Question Node from "select" statement
@@ -48,6 +54,10 @@ public class QueryGraph {
 		return index;
 	}
 
+	/**
+	 * Set index
+	 * @param index
+	 */
 	public void setIndex(HashMap<String, Keyword> index) {
 		this.index = index;
 	}
@@ -202,6 +212,7 @@ public class QueryGraph {
 	 * Select label
 	 */
 	public void labelSelection() {
+		this.calculateSimilarity();
 		this.updareReScore();
 		this.test();
 		System.out.println("--------- find labels -------");
@@ -237,6 +248,13 @@ public class QueryGraph {
 			System.out.println(" ----> " + label);
 		}
 
+	}
+	
+	/**
+	 * Select similarity
+	 */
+	public void calculateSimilarity() {
+		root.calcSimilaritySet(this.index);
 	}
 
 	/**
@@ -303,6 +321,10 @@ public class QueryGraph {
 		}
 		return t;
 
+	}
+
+	public void newQ(ArrayList<String[]> arrayList) {
+		root.newQ(arrayList);
 	}
 
 	

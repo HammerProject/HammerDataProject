@@ -102,6 +102,7 @@ public class App {
 		Isabella parser = new Isabella(new StringReader(query));
 		
 		QueryGraph q;
+		
 		try {
 			q = parser.queryGraph();
 		} catch (ParseException e) {
@@ -116,13 +117,7 @@ public class App {
 		if (parser.getErrors().size() > 0) {
 			throw new IOException("Query syntax not correct.");
 		}
-		if(queryMode.equals("labels")) {
-			q.calculateMyLabels();
-			conf.set("keywords", q.getMyLabels());
-		} else {
-			q.labelSelection();
-			conf.set("keywords", q.getKeyWords());
-		}
+		
 		conf.set("query-table", "query" + (q.hashCode() + "").replaceAll("-", "_"));
 		conf.set("query-result", "result" + (q.hashCode() + "").replaceAll("-", "_"));
 		conf.set("list-result", "list" + (q.hashCode() + "").replaceAll("-", "_"));

@@ -1,5 +1,6 @@
 package org.hammer.isabella.query;
 
+import java.io.Serializable;
 import java.util.SortedMap;
 
 
@@ -10,7 +11,7 @@ import java.util.SortedMap;
  * @project Hammer Project - Isabella
  *
  */
-public interface IDataType {
+public interface IDataType extends Serializable {
 	
 	
 	/**

@@ -1,5 +1,7 @@
 package org.hammer.isabella.query;
 
+import java.io.Serializable;
+
 /**
  * Lead - Contract for Query-Graph
  * 
@@ -7,6 +9,6 @@ package org.hammer.isabella.query;
  * @project Hammer Project - Isabella
  *
  */
-public interface Leaf {
+public interface Leaf extends Serializable {
 
 }

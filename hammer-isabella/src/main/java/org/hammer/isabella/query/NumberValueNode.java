@@ -10,6 +10,11 @@ package org.hammer.isabella.query;
 public class NumberValueNode extends ValueNode {
 
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1636442874685152781L;
+
+	/**
 	 * Build a Number Value Node
 	 * @param name
 	 * @param line

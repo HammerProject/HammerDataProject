@@ -14,6 +14,11 @@ public class IsabellaError implements IDataType {
 	
 	/**
 	 * 
+	 */
+	private static final long serialVersionUID = -5524379181554669993L;
+
+	/**
+	 * 
 	 * @param line
 	 * @param column
 	 * @param message

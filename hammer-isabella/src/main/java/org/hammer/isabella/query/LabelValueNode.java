@@ -12,6 +12,11 @@ import java.util.SortedMap;
 public class LabelValueNode extends ValueNode {
 
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -2171934903595343669L;
+
+	/**
 	 * Build a label node
 	 * @param instance
 	 * @param name

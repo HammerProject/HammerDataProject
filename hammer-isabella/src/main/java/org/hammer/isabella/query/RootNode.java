@@ -10,10 +10,16 @@ package org.hammer.isabella.query;
 public class RootNode extends Node {
 
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 4590490622931824458L;
+
+	/**
 	 * The root node
 	 */
 	public RootNode() {
 		super("Q", 0.0f, 0.0f, 0.0f, 0, 0);
 	}
+
 
 }
