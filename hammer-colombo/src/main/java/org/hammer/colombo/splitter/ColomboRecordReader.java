@@ -122,22 +122,15 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 			LOG.info(split.getUrl());
 			try {
 				long size = -1;
-				LOG.info("--------" + conf.get("simulate") + "-----");
-				if (conf.get("simulate").equals("true")) {
-					LOG.info("-------- Start simulate -----");
-					LOG.info("--> " + split.getUrl());
-					size = tryGetFileSize(split.getUrl());
-				} else {
-					size = saveUrl(split.getName(), split.getUrl());
-				}
+				size = saveUrl(split.getName(), split.getUrl());
 				if (split.getDataSetType().equals("org.hammer.santamaria.mapper.dataset.SocrataDataSetInput")) {
-					doc.put("selectedRecord", SocrataUtils.CountPackageList(conf, split.getUrl(), split.getName()));
-					doc.put("record", SocrataUtils.CountTotalPackageList(split.getUrl(), split.getName()));
+					doc.put("record-selected", SocrataUtils.CountPackageList(conf, split.getUrl(), split.getName()));
+					doc.put("record-total", SocrataUtils.CountTotalPackageList(split.getUrl(), split.getName()));
 				} else if (split.getDataSetType().equals("org.hammer.santamaria.mapper.dataset.Socrata2DataSetInput")) {
 				  	doc.put("selectedRecord", SocrataUtils.CountPackageList(conf, split.getUrl(), split.getName()));
-				  	doc.put("record", SocrataUtils.CountTotalPackageList(split.getUrl(), split.getName()));
+				  	doc.put("record-total", SocrataUtils.CountTotalPackageList(split.getUrl(), split.getName()));
 				} else {
-					doc.put("record", countRecord(split.getName()));
+					doc.put("record-total", countRecord(split.getName()));
 				}
 				doc.put("size", size);
 			} catch (Exception e) {
@@ -342,7 +335,7 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 	 * @param url
 	 * @return
 	 */
-	private long tryGetFileSize(String url) {
+	protected long tryGetFileSize(String url) {
 
 		HttpURLConnection conn = null;
 		try {

@@ -11,10 +11,12 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.mapreduce.InputSplit;
+import org.bson.BSONObject;
+import org.bson.BasicBSONObject;
 import org.bson.Document;
-import org.hammer.colombo.App;
 import org.hammer.colombo.utils.RecursiveString;
 import org.hammer.colombo.utils.SocrataUtils;
+import org.hammer.colombo.utils.StatUtils;
 import org.hammer.isabella.cc.Isabella;
 import org.hammer.isabella.cc.ParseException;
 import org.hammer.isabella.cc.util.QueryGraphCloner;
@@ -68,11 +70,11 @@ public class DataSetSplitter extends MongoSplitter {
 
 	@Override
 	public List<InputSplit> calculateSplits() throws SplitFailedException {
-		final HashMap<String, Keyword> kwIndex = App.GetMyIndex(getConfiguration());
-		System.out.println("Calculate INPUTSPLIT FOR DATASET");
+		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex(getConfiguration());
+		LOG.info("---> Calculate INPUTSPLIT FOR DATASET");
 		MongoClientURI inputURI = MongoConfigUtil.getInputURI(getConfiguration());
 		List<InputSplit> splits = new ArrayList<InputSplit>();
-		System.out.println("Colombo calculating splits for " + inputURI);
+		LOG.debug("---> Colombo calculating splits for " + inputURI);
 
 		// create my query graph object
 		// System.out.println(query);
@@ -87,9 +89,9 @@ public class DataSetSplitter extends MongoSplitter {
 			throw new SplitFailedException(e.getMessage());
 		}
 		for (IsabellaError err : parser.getErrors().values()) {
-			System.out.println(err.toString());
+			LOG.error(err.toString());
 		}
-		
+
 		if (getConfiguration().get("query-mode").equals("labels")) {
 			q.calculateMyLabels();
 			getConfiguration().set("keywords", q.getMyLabels());
@@ -106,8 +108,8 @@ public class DataSetSplitter extends MongoSplitter {
 				ArrayList<String> tempList = new ArrayList<String>();
 				for (String s : kwIndex.keySet()) {
 					double sim = JaroWinkler.Apply(key, s.toLowerCase());
-					// set the degree threshold to 80%
-					if (sim > 0.99) {
+					// set the degree threshold to 90%
+					if (sim > 0.90) {
 						tempList.add(s.toLowerCase());
 					}
 				}
@@ -116,42 +118,70 @@ public class DataSetSplitter extends MongoSplitter {
 			}
 		}
 
-		System.out.println("---- Create all the combination ");
+		LOG.info("------------------------------------------------------");
+		LOG.info("---- Create all the combination per FUZZY SEARCH -----");
 		// recursive call
 		ArrayList<String[]> optionsList = new ArrayList<String[]>();
 		ArrayList<ArrayList<String[]>> cases = new ArrayList<ArrayList<String[]>>();
-		RecursiveString.Recurse(optionsList, similarity, 0, cases);
 
-		ArrayList<QueryGraph> qList = new ArrayList<QueryGraph>();
+		// calculate all the combination
+		RecursiveString.Recurse(optionsList, similarity, 0, cases);
+		LOG.info("--- FUZZY SEARCH QUERY --> " + cases.size());
+
+		// qList is the list of all query for fuzzy search
+		// the key of the list is a string corresponds to the keywords
+		// so we remove the duplicate query!
+		// also we have the keywords to operate the fuzzy search the the funcion
+		// getList
+		HashMap<String, QueryGraph> qList = new HashMap<String, QueryGraph>();
+		// first we add the original query
+		qList.put(keywords, q);
+
 		for (int i = 0; i < cases.size(); i++) {
-			System.out.println("Q Case " + (i + 1) + ": ");
+			LOG.debug("----> Query case " + (i + 1) + ": ");
+			String keywordsCase = "";
 			for (String[] k : cases.get(i)) {
-				System.out.println(k[0] + "-" + k[1] + ",");
+				LOG.debug(k[0] + "-" + k[1] + ",");
+				keywordsCase += ";" + k[1];
 			}
-			
+
 			try {
-				QueryGraph temp = QueryGraphCloner.deepCopy(q);
-				temp.newQ(cases.get(i));
-				qList.add(temp);
+				QueryGraph temp = QueryGraphCloner.deepCopy(getConfiguration().get("query-string"), cases.get(i),
+						kwIndex);
+				qList.put(keywordsCase, temp);
 
 			} catch (Exception e) {
-				e.printStackTrace();
+				LOG.error(e.getMessage());
+				LOG.debug(e);
 			}
-			System.out.println("\n");
 		}
-		System.out.println("---- End all the combination ");
 
-		System.out.println("Qx --> " + qList.size());
+		LOG.info("------------------------------------------------------");
+		LOG.info("------------------------------------------------------");
+		LOG.info("--Total fuzzy search query " + qList.size());
+		LOG.info("---- End combination for FUZZY SEARCH ----------------");
+
+		// esexute the getSetList function for every fuzzy query
+		// the function return the list of the resources that match with the query
+		// we store the data into a dataset map
+		// for eliminate the duplicate resource
 		Map<String, Document> dataSet = new HashMap<String, Document>();
-		for (QueryGraph qx : qList) {
-			List<Document> temp = getSetList(qx, keywords);
+		for (String key : qList.keySet()) {
+			List<Document> temp = getSetList(qList.get(key), key);
+
 			for (Document t : temp) {
-				String key = t.getString("_id");
-				dataSet.put(key, t);
+				String documentKey = t.getString("_id");
+				dataSet.put(documentKey, t);
 			}
 		}
 
-		System.out.println("---> found !!!!!! " + dataSet.size());
+		LOG.info("!!!!! FUZZY SEARCH has found " + dataSet.size() + " RESOURCES !!!!!");
+		//
+		//
+		//
+		// pass the document to map function
+		//
+		//
 		for (Document doc : dataSet.values()) {
 			String key = doc.getString("_id");
 			LOG.debug("---> found " + key + " - " + doc.getString("title"));
@@ -189,9 +219,7 @@ public class DataSetSplitter extends MongoSplitter {
 				}
 			}
 		}
-		if (getConfiguration().getBoolean("only-count", true)) {
-			new SplitFailedException("ONLY-COUNT set to true (only simulate input slits!!!)");
-		}
+		
 		return splits;
 
 	}
@@ -207,7 +235,6 @@ public class DataSetSplitter extends MongoSplitter {
 		MongoClient mongo = null;
 		final ArrayList<Document> returnList = new ArrayList<Document>();
 		MongoDatabase db = null;
-		System.out.println("Colombo gets data set from database...");
 		float thKrm = Float.parseFloat(getConfiguration().get("thKrm"));
 		float thRm = Float.parseFloat(getConfiguration().get("thRm"));
 
@@ -217,10 +244,10 @@ public class DataSetSplitter extends MongoSplitter {
 			mongo = new MongoClient(inputURI);
 			db = mongo.getDatabase(inputURI.getDatabase());
 			// create the table for the result
-			if (db.getCollection(getConfiguration().get("list-result")) == null) {
-				db.createCollection(getConfiguration().get("list-result"));
-			}
-			db.getCollection(getConfiguration().get("list-result")).deleteMany(new BasicDBObject());
+			// and clean
+			BSONObject statObj = new BasicBSONObject();
+			statObj.put("type", "clean");
+			StatUtils.SaveStat(getConfiguration(), statObj);
 
 			// connection with dataset and index collection of mongodb
 			MongoCollection<Document> dataset = db.getCollection(inputURI.getCollection());
@@ -228,6 +255,7 @@ public class DataSetSplitter extends MongoSplitter {
 
 			// now search the keywords or the labels on the index (with or)
 			StringTokenizer st = new StringTokenizer(keywords, ";");
+
 			BasicDBList or = new BasicDBList();
 			while (st.hasMoreElements()) {
 				String word = st.nextToken().trim().toLowerCase();
@@ -252,7 +280,7 @@ public class DataSetSplitter extends MongoSplitter {
 
 			// search the keywords on my index
 			BasicDBObject searchQuery = new BasicDBObject("$or", or);
-			System.out.println("Colombo gets data set from database..." + searchQuery.toString());
+			LOG.debug("Colombo gets data set from database..." + searchQuery.toString());
 
 			FindIterable<Document> indexS = index.find(searchQuery);
 
@@ -280,7 +308,7 @@ public class DataSetSplitter extends MongoSplitter {
 			if (kwFinded.size() == 0) {
 				throw new Exception("!!!!! ERROR NOTHING FOUND !!!!");
 			} else {
-				System.out.println(" Found keyword with resources --> " + kwFinded.size());
+				LOG.info(" Found keyword with resources --> " + kwFinded.size());
 			}
 
 			// now we find the relevant resources and calculate krm
@@ -292,7 +320,7 @@ public class DataSetSplitter extends MongoSplitter {
 			BasicDBList rSet = new BasicDBList();
 			HashMap<String, Float> krmMap = new HashMap<String, Float>();
 
-			System.out.println("Get resources and calc krm....");
+			LOG.debug("Get resources and calc krm....");
 			for (ArrayList<String> listId : kwFinded.values()) {
 				for (String key : listId) {
 					float found = 0;
@@ -315,11 +343,11 @@ public class DataSetSplitter extends MongoSplitter {
 				}
 			}
 
-			System.out.println(" ----------------------------------------------> ");
+			LOG.info(" ----------------------------------------------> ");
 			if (rSet.size() == 0) {
 				throw new Exception("!!!!! ERROR NOTHING RESOURCE FOUND !!!!");
 			} else {
-				System.out.println(" --> fount relevant resources  " + rSet.size());
+				LOG.info(" --> fount relevant resources  " + rSet.size());
 			}
 
 			// now we calc sdfMap where the map key is the document key and the
@@ -378,7 +406,7 @@ public class DataSetSplitter extends MongoSplitter {
 			if (idSet.size() == 0) {
 				throw new Exception("!!!!! ERROR NOTHING RELEVANT RESOURCES FOUND (with rm >= " + thRm + ") !!!!");
 			} else {
-				System.out.println("--- > FOUND RELEVANT RESOURCES FOUND (with rm >= " + thRm + ") " + idSet.size());
+				LOG.info("--- > FOUND RELEVANT RESOURCES FOUND (with rm >= " + thRm + ") " + idSet.size());
 			}
 
 			// search the resources
@@ -421,27 +449,29 @@ public class DataSetSplitter extends MongoSplitter {
 								tempDoc.replace("url", tempUrl);
 								tempDoc.replace("_id", doc.get("_id") + "_" + offset);
 								returnList.add(tempDoc);
-								db.getCollection(getConfiguration().get("list-result")).insertOne(tempDoc);
+								// save stat
+								StatUtils.UpdateResultList(getConfiguration(), tempDoc);
 								offset = offset + 1000;
 							}
 						}
 					}
 
 				} else {
-					db.getCollection(getConfiguration().get("list-result")).insertOne(doc);
+            		// save stat
+            		StatUtils.UpdateResultList(getConfiguration(), doc);
 					returnList.add(doc);
 				}
 			}
 
 		} catch (Exception ex) {
-			LOG.error(ex);
-			ex.printStackTrace();
+			LOG.error(ex.getMessage());
+			LOG.debug(ex);
 		} finally {
 			if (mongo != null) {
 				mongo.close();
 			}
 		}
-		System.out.println("Colombo find " + returnList.size());
+		LOG.info("Colombo find " + returnList.size());
 		return returnList;
 	}
 

@@ -13,15 +13,11 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 import org.bson.BSONObject;
 import org.bson.BasicBSONObject;
-import org.bson.Document;
 import org.bson.types.BasicBSONList;
+import org.hammer.colombo.utils.StatUtils;
 import org.hammer.colombo.utils.ThesaurusUtils;
 
-import com.mongodb.MongoClient;
-import com.mongodb.MongoClientURI;
-import com.mongodb.client.MongoDatabase;
 import com.mongodb.hadoop.io.BSONWritable;
-import com.mongodb.hadoop.util.MongoConfigUtil;
 
 /**
  * Mapper
@@ -80,7 +76,14 @@ public class ColomboMapper extends Mapper<Object, BSONObject, Text, BSONWritable
     		} else {
 
             	if(pValue instanceof BasicBSONList) {
-            		saveMap((String) pKey, ((BasicBSONList) pValue).toMap().size() );
+            		// save stat
+            		BSONObject statObj = new BasicBSONObject();
+            		statObj.put("type", "resource");
+            		statObj.put("name", (String) pKey);
+            		statObj.put("count",  ((BasicBSONList) pValue).toMap().size());
+            		StatUtils.SaveStat(this.conf, statObj);
+
+            		
     				BasicBSONList pList = (BasicBSONList) pValue; 
             		for(Object pObj : pList) {
             			Text key = new Text(pObj.hashCode() + "");
@@ -99,7 +102,13 @@ public class ColomboMapper extends Mapper<Object, BSONObject, Text, BSONWritable
             			}
             		}
             	} else if(pValue instanceof BSONObject) {
-            		saveMap((String) pKey, 1);
+            		// save stat
+            		BSONObject statObj = new BasicBSONObject();
+            		statObj.put("type", "resource");
+            		statObj.put("name", (String) pKey);
+            		statObj.put("count", 1);
+            		StatUtils.SaveStat(this.conf, statObj);
+
             		Text key = new Text(pValue.hashCode() + "");
             		pValue.put("datasource_id", (String) pKey);
             		pContext.write(key, new BSONWritable(pValue) );
@@ -137,51 +146,6 @@ public class ColomboMapper extends Mapper<Object, BSONObject, Text, BSONWritable
     	}   
     }
 	
-	/**
-	 * Return the configuration
-	 * 
-	 * @return
-	 */
-	private Configuration getConfiguration() {
-		return this.conf;
-	}
-	
-	/**
-	 * 
-	 * Save the data of the mapper to database
-	 * 
-	 * @param datasource
-	 * @param count
-	 */
-	private void saveMap(String datasource, int count) {
-		MongoClient mongo = null;
-		MongoDatabase db = null;
-
-		
-		try {
-
-			MongoClientURI inputURI = MongoConfigUtil.getInputURI(getConfiguration());
-			mongo = new MongoClient(inputURI);
-			db = mongo.getDatabase(inputURI.getDatabase());
-
-			if (db.getCollection(getConfiguration().get("list-result")) == null) {
-				db.createCollection(getConfiguration().get("list-result"));
-			}
-			
-			
-			db.getCollection(getConfiguration().get("list-result")).findOneAndUpdate(new Document("_id", datasource), new Document("$set", new Document("size", count)));
-
-
-		} catch (Exception ex) {
-			LOG.error(ex);
-			ex.printStackTrace();
-		} finally {
-			if (mongo != null) {
-				mongo.close();
-			}
-		}
-		
-	}
 	
 	
 

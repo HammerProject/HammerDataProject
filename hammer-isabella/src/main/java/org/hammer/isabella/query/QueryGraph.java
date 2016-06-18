@@ -302,6 +302,9 @@ public class QueryGraph implements Serializable {
 		return t;
 
 	}
+	
+	
+
 
 	/**
 	 * Get the list of all my labels

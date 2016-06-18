@@ -425,22 +425,20 @@ public class SocrataUtils {
 	 */
 	private static void SaveData(Configuration conf, String datasource, String link, String searchQuery) {
 		MongoClient mongo = null;
-		MongoDatabase db = null;
 
 		try {
 
 			MongoClientURI inputURI = MongoConfigUtil.getInputURI(conf);
 			mongo = new MongoClient(inputURI);
-			db = mongo.getDatabase(inputURI.getDatabase());
 
-			if (db.getCollection(conf.get("list-result")) == null) {
-				db.createCollection(conf.get("list-result"));
-			}
+			// save stat
+			BSONObject statObj = new BasicBSONObject();
+			statObj.put("type", "link");
+			statObj.put("name", datasource);
+			statObj.put("search_query", searchQuery);
+			statObj.put("res_link", link);
+			StatUtils.SaveStat(conf, statObj);
 
-			db.getCollection(conf.get("list-result")).findOneAndUpdate(new Document("_id", datasource),
-					new Document("$set", new Document("search_query", searchQuery)));
-			db.getCollection(conf.get("list-result")).findOneAndUpdate(new Document("_id", datasource),
-					new Document("$set", new Document("res_link", link)));
 
 		} catch (Exception ex) {
 			LOG.error(ex);

@@ -1,8 +1,16 @@
 package org.hammer.isabella.cc.util;
 
+import java.io.IOException;
+import java.io.StringReader;
+import java.util.ArrayList;
+import java.util.HashMap;
+
+import org.hammer.isabella.cc.Isabella;
+import org.hammer.isabella.cc.ParseException;
+import org.hammer.isabella.query.IsabellaError;
+import org.hammer.isabella.query.Keyword;
 import org.hammer.isabella.query.QueryGraph;
 
-import com.rits.cloning.Cloner;
 
 public class QueryGraphCloner {
 
@@ -11,31 +19,47 @@ public class QueryGraphCloner {
 	}
 
 	// returns a deep copy of an object
-	static public QueryGraph deepCopy(QueryGraph oldObj) throws Exception {
-		Cloner cloner = new Cloner();
+	static public QueryGraph deepCopy(String q, ArrayList<String[]> arrayList, HashMap<String, Keyword> index)
+			throws Exception {
 
-		return (QueryGraph) cloner.deepClone(oldObj);
-		
-		/*ObjectOutputStream oos = null;
-		ObjectInputStream ois = null;
+		for (String[] k : arrayList) {
+			if (!k[0].equals("select") && !k[0].equals("where") && !k[0].equals("from")) {
+				q = q.replaceAll(k[0], k[1]);
+			}
+		}
+
+		Isabella parser = new Isabella(new StringReader(q));
+		QueryGraph query;
+
 		try {
-			ByteArrayOutputStream bos = new ByteArrayOutputStream(); // A
-			oos = new ObjectOutputStream(bos); // B
-			// serialize and pass the object
-			oos.writeObject(oldObj); // C
-			oos.flush(); // D
-			ByteArrayInputStream bin = new ByteArrayInputStream(bos.toByteArray()); // E
-			ois = new ObjectInputStream(bin); // F
-			// return the new object
-			return (QueryGraph) ois.readObject(); // G
-		} catch (Exception e) {
-			e.printStackTrace();
-			System.out.println("Exception in ObjectCloner = " + e);
-			throw (e);
-		} finally {
-			oos.close();
-			ois.close();
-		}*/
+			query = parser.queryGraph();
+		} catch (ParseException e) {
+			throw new IOException(e);
+		}
+		query.setIndex(index);
+
+		for (IsabellaError err : parser.getErrors().values()) {
+			System.out.println(err.toString());
+		}
+
+		if (parser.getErrors().size() > 0) {
+			throw new IOException("Query syntax not correct.");
+		}
+
+		return query;
+
+		/*
+		 * ObjectOutputStream oos = null; ObjectInputStream ois = null; try {
+		 * ByteArrayOutputStream bos = new ByteArrayOutputStream(); // A oos =
+		 * new ObjectOutputStream(bos); // B // serialize and pass the object
+		 * oos.writeObject(oldObj); // C oos.flush(); // D ByteArrayInputStream
+		 * bin = new ByteArrayInputStream(bos.toByteArray()); // E ois = new
+		 * ObjectInputStream(bin); // F // return the new object return
+		 * (QueryGraph) ois.readObject(); // G } catch (Exception e) {
+		 * e.printStackTrace(); System.out.println(
+		 * "Exception in ObjectCloner = " + e); throw (e); } finally {
+		 * oos.close(); ois.close(); }
+		 */
 	}
 
 }

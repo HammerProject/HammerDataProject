@@ -5,6 +5,10 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+
+
 /**
  * 
  * Recursive String
@@ -15,6 +19,7 @@ import java.util.Map;
  */
 public class RecursiveString {
 	
+	public static final Log LOG = LogFactory.getLog(RecursiveString.class);
 	/**
 	 * @param args
 	 *            the command line arguments
@@ -81,10 +86,10 @@ public class RecursiveString {
 
 				newTestCase.add(t);
 			}
-			System.out.println("\t### Adding: " + newTestCase.toString());
+			LOG.debug("\t### Adding: " + newTestCase.toString());
 			
 			testCases.add(newTestCase);
 		}
-		System.out.println("\t### Total:  " + testCases.size());
+		LOG.debug("\t### Total:  " + testCases.size());
 	}
 }

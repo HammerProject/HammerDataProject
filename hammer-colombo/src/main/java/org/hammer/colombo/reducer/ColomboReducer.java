@@ -7,8 +7,10 @@ import org.apache.commons.logging.LogFactory;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
+import org.bson.BSONObject;
+import org.bson.BasicBSONObject;
+import org.hammer.colombo.utils.StatUtils;
 
-import com.mongodb.BasicDBObject;
 import com.mongodb.hadoop.io.BSONWritable;
 
 /**
@@ -40,24 +42,31 @@ public class ColomboReducer extends Reducer<Text, BSONWritable, Text, BSONWritab
 		 */
 
 		if (conf.get("search-mode").equals("download")) {
+
 			long size = 0;
 			long record = 0;
 			long selectedRecord = 0;
-			int count = 0;
+			long count = 0;
 			for (final BSONWritable value : pValues) {
-				size += (value.getDoc().containsField("size")) ? (Long)value.getDoc().get("size") : 0;
-				record += (value.getDoc().containsField("record")) ? (Long)value.getDoc().get("record") : 0;
-				selectedRecord += (value.getDoc().containsField("selectedRecord")) ? (Long)value.getDoc().get("selectedRecord") : 0;
+				size += (value.getDoc().containsField("size")) ? (Long) value.getDoc().get("size") : 0;
+				record += (value.getDoc().containsField("record-total")) ? (Long) value.getDoc().get("record-total")
+						: 0;
+				selectedRecord += (value.getDoc().containsField("record-selected"))
+						? (Long) value.getDoc().get("record-selected") : 0;
 
-				count ++;
+				count++;
 			}
-			BasicDBObject temp = new BasicDBObject();
-			temp.put("size", size);
-			temp.put("record", record);
-			temp.put("selectedRecord", selectedRecord);
-			temp.put("count", count);
-			
-			pContext.write(new Text("size"), new BSONWritable(temp));
+
+			// save the stat
+			BSONObject statObj = new BasicBSONObject();
+			statObj.put("type", "stat");
+			statObj.put("record-total", record);
+			statObj.put("record-selected", selectedRecord);
+			statObj.put("resource-count", count);
+			statObj.put("size", size);
+			StatUtils.SaveStat(conf, statObj);
+
+			// download output doesn't sent record to commiter and record writer
 		} else {
 			for (final BSONWritable value : pValues) {
 
