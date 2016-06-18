@@ -20,7 +20,7 @@ bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/te
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/example_1.json local search labels 0.3 0.3
 
 ## search selected resources by query
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/example_1.json local search keywords 0.3 0.3
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/example_1f.json local search keywords 0.3 0.3
 
 
 ###############################################################################

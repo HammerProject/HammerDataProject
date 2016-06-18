@@ -3,8 +3,8 @@ package org.hammer.colombo;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.io.Text;
-import org.hammer.colombo.mapper.ColomboMapper;
-import org.hammer.colombo.reducer.ColomboReducer;
+import org.hammer.colombo.mapper.ColomboMapper2;
+import org.hammer.colombo.reducer.ColomboReducer2;
 
 import com.mongodb.MongoClient;
 import com.mongodb.MongoClientURI;
@@ -36,11 +36,11 @@ public class ColomboConfig extends MongoTool {
         
         
        
-        MongoConfigUtil.setMapper(conf, ColomboMapper.class);
+        MongoConfigUtil.setMapper(conf, ColomboMapper2.class);
         MongoConfigUtil.setMapperOutputKey(conf, Text.class);
         MongoConfigUtil.setMapperOutputValue(conf, BSONWritable.class);
 
-        MongoConfigUtil.setReducer(conf, ColomboReducer.class);
+        MongoConfigUtil.setReducer(conf, ColomboReducer2.class);
         MongoConfigUtil.setOutputKey(conf, Text.class);
         MongoConfigUtil.setOutputValue(conf, BSONWritable.class);
         

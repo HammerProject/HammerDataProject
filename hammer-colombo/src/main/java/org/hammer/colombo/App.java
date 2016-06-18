@@ -90,7 +90,7 @@ public class App {
 		conf.set("query-table", "query" + (q.hashCode() + "").replaceAll("-", "_"));
 		conf.set("query-result", "result" + (q.hashCode() + "").replaceAll("-", "_"));
 		conf.set("list-result", "list" + (q.hashCode() + "").replaceAll("-", "_"));
-		conf.set("stat-result", "list" + (q.hashCode() + "").replaceAll("-", "_"));
+		conf.set("stat-result", "stat" + (q.hashCode() + "").replaceAll("-", "_"));
 		conf.set("joinCondition", q.getJoinCondition());
 		
 		System.out.println("******************************************************************");
@@ -111,7 +111,7 @@ public class App {
 
 	public static void main(String[] pArgs) throws Exception {
 
-		if (pArgs == null || pArgs.length < 8) {
+		if (pArgs == null || pArgs.length < 6) {
 			throw new Exception("Parameter: <path_to_query> <file-system: local|hdfs> <search mode: search|download> <query mode: keywords|labels> <thKrm: 0.5|0.01..>  <thRm: 0.5|0.01..>");
 		}
 		Run(pArgs[0], pArgs[1], pArgs[2], pArgs[3], Float.parseFloat(pArgs[4]), Float.parseFloat(pArgs[5]));
