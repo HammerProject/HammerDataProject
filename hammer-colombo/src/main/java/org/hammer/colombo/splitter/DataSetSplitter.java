@@ -161,17 +161,52 @@ public class DataSetSplitter extends MongoSplitter {
 		LOG.info("--Total fuzzy search query " + qList.size());
 		LOG.info("---- End combination for FUZZY SEARCH ----------------");
 
-		// esexute the getSetList function for every fuzzy query
-		// the function return the list of the resources that match with the query
+		// create the table for the result
+		// and clean
+		BSONObject statObj = new BasicBSONObject();
+		statObj.put("type", "clean");
+		StatUtils.SaveStat(getConfiguration(), statObj);
+
+		// save stat
+		statObj = new BasicBSONObject();
+		statObj.put("type", "stat");
+		statObj.put("record-total", 0);
+		statObj.put("record-selected", 0);
+		statObj.put("resource-count", 0);
+		statObj.put("size", 0);
+		statObj.put("fuzzy-query", qList.size());
+
+		StatUtils.SaveStat(this.getConfiguration(), statObj);
+
+		// esecute the getSetList function for every fuzzy query
+		// the function return the list of the resources that match with the
+		// query
 		// we store the data into a dataset map
 		// for eliminate the duplicate resource
 		Map<String, Document> dataSet = new HashMap<String, Document>();
-		for (String key : qList.keySet()) {
-			List<Document> temp = getSetList(qList.get(key), key);
+		MongoClient mongo = null;
+		MongoDatabase db = null;
+		try {
+			mongo = new MongoClient(inputURI);
+			db = mongo.getDatabase(inputURI.getDatabase());
+			// connection with dataset and index collection of mongodb
+			MongoCollection<Document> dataset = db.getCollection(inputURI.getCollection());
+			MongoCollection<Document> index = db.getCollection("index");
 
-			for (Document t : temp) {
-				String documentKey = t.getString("_id");
-				dataSet.put(documentKey, t);
+			for (String key : qList.keySet()) {
+				List<Document> temp = getSetList(qList.get(key), key, dataset, index);
+
+				for (Document t : temp) {
+					String documentKey = t.getString("_id");
+					dataSet.put(documentKey, t);
+				}
+			}
+		} catch (Exception ex) {
+			LOG.error(ex.getMessage());
+			LOG.debug(ex);
+		} finally {
+			if (mongo != null) {
+				mongo.close();
 			}
 		}
 
@@ -219,7 +254,7 @@ public class DataSetSplitter extends MongoSplitter {
 				}
 			}
 		}
-		
+
 		return splits;
 
 	}
@@ -230,28 +265,15 @@ public class DataSetSplitter extends MongoSplitter {
 	 * 
 	 * @return
 	 */
-	protected ArrayList<Document> getSetList(QueryGraph q, String keywords) {
+	protected ArrayList<Document> getSetList(QueryGraph q, String keywords, MongoCollection<Document> dataset, MongoCollection<Document> index) {
 
-		MongoClient mongo = null;
 		final ArrayList<Document> returnList = new ArrayList<Document>();
-		MongoDatabase db = null;
 		float thKrm = Float.parseFloat(getConfiguration().get("thKrm"));
 		float thRm = Float.parseFloat(getConfiguration().get("thRm"));
 
 		try {
 
-			MongoClientURI inputURI = MongoConfigUtil.getInputURI(getConfiguration());
-			mongo = new MongoClient(inputURI);
-			db = mongo.getDatabase(inputURI.getDatabase());
-			// create the table for the result
-			// and clean
-			BSONObject statObj = new BasicBSONObject();
-			statObj.put("type", "clean");
-			StatUtils.SaveStat(getConfiguration(), statObj);
 
-			// connection with dataset and index collection of mongodb
-			MongoCollection<Document> dataset = db.getCollection(inputURI.getCollection());
-			MongoCollection<Document> index = db.getCollection("index");
 
 			// now search the keywords or the labels on the index (with or)
 			StringTokenizer st = new StringTokenizer(keywords, ";");
@@ -457,8 +479,8 @@ public class DataSetSplitter extends MongoSplitter {
 					}
 
 				} else {
-            		// save stat
-            		StatUtils.UpdateResultList(getConfiguration(), doc);
+					// save stat
+					StatUtils.UpdateResultList(getConfiguration(), doc);
 					returnList.add(doc);
 				}
 			}
@@ -466,10 +488,6 @@ public class DataSetSplitter extends MongoSplitter {
 		} catch (Exception ex) {
 			LOG.error(ex.getMessage());
 			LOG.debug(ex);
-		} finally {
-			if (mongo != null) {
-				mongo.close();
-			}
 		}
 		LOG.info("Colombo find " + returnList.size());
 		return returnList;

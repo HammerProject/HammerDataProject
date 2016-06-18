@@ -15,6 +15,7 @@ import org.bson.BasicBSONObject;
 import org.hammer.colombo.utils.StatUtils;
 import org.hammer.isabella.cc.Isabella;
 import org.hammer.isabella.cc.ParseException;
+import org.hammer.isabella.fuzzy.JaroWinkler;
 import org.hammer.isabella.query.Edge;
 import org.hammer.isabella.query.IsabellaError;
 import org.hammer.isabella.query.Keyword;
@@ -37,6 +38,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 
 	private Configuration conf = null;
 	private QueryGraph q = null;
+	private float thSim = 0.0f;
 
 	@Override
 	protected void setup(Reducer<Text, BSONWritable, Text, BSONWritable>.Context context)
@@ -45,7 +47,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 		LOG.info("SETUP REDUCE2 - Hammer Colombo Project");
 		this.conf = context.getConfiguration();
 		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex(conf);
-
+		thSim = Float.parseFloat(conf.get("thSim"));
 		Isabella parser = new Isabella(new StringReader(conf.get("query-string")));
 		try {
 			q = parser.queryGraph();
@@ -89,6 +91,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 			statObj.put("record-selected", selectedRecord);
 			statObj.put("resource-count", count);
 			statObj.put("size", size);
+			statObj.put("fuzzy-query", 0);
 			StatUtils.SaveStat(this.conf, statObj);
 
 			// download output doesn't sent record to commiter and record writer
@@ -106,29 +109,34 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 			boolean c = false;
 			for (Edge en : q.getQueryCondition()) {
 				for (Node ch : en.getChild()) {
+
 					if ((ch instanceof ValueNode) && en.getCondition().equals("OR")) {
-						if (en.getOperator().equals("=") && en.getName().toLowerCase().equals(column)
-								&& ch.getName().toLowerCase().equals(value)) {
-							c = true;
-						} else if (en.getOperator().equals(">") && en.getName().equals(column)) {
-							if (ch.getName().toLowerCase().compareTo(value) > 0) {
+
+						double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
+
+						if (sim > thSim) {
+							if (en.getOperator().equals("=") && ch.getName().toLowerCase().equals(value)) {
 								c = true;
-							}
-						} else if (en.getOperator().equals("<") && en.getName().equals(column)) {
-							if (ch.getName().toLowerCase().compareTo(value) < 0) {
-								c = true;
-							}
-						} else if (en.getOperator().equals(">=") && en.getName().equals(column)) {
-							if (ch.getName().toLowerCase().compareTo(value) >= 0) {
-								c = true;
-							}
-						} else if (en.getOperator().equals("<=") && en.getName().equals(column)) {
-							if (ch.getName().toLowerCase().compareTo(value) <= 0) {
-								c = true;
-							}
-						} else if (en.getName().equals(column)) {
-							if (ch.getName().toLowerCase().compareTo(value) == 0) {
-								c = true;
+							} else if (en.getOperator().equals(">")) {
+								if (ch.getName().toLowerCase().compareTo(value) > 0) {
+									c = true;
+								}
+							} else if (en.getOperator().equals("<")) {
+								if (ch.getName().toLowerCase().compareTo(value) < 0) {
+									c = true;
+								}
+							} else if (en.getOperator().equals(">=")) {
+								if (ch.getName().toLowerCase().compareTo(value) >= 0) {
+									c = true;
+								}
+							} else if (en.getOperator().equals("<=")) {
+								if (ch.getName().toLowerCase().compareTo(value) <= 0) {
+									c = true;
+								}
+							} else if (en.getName().equals(column)) {
+								if (ch.getName().toLowerCase().compareTo(value) == 0) {
+									c = true;
+								}
 							}
 						}
 					}
@@ -156,6 +164,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 			statObj.put("record-selected", selectedRecord);
 			statObj.put("resource-count", count);
 			statObj.put("size", size);
+			statObj.put("fuzzy-query", 0);
 			StatUtils.SaveStat(this.conf, statObj);
 
 			LOG.debug("COLOMBO REDUCE2 - FOUND AND WRITE " + pKey + " DATASET ");
