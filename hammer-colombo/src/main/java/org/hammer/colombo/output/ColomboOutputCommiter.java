@@ -3,22 +3,20 @@ package org.hammer.colombo.output;
 import java.io.IOException;
 import java.io.StringReader;
 import java.util.HashMap;
-import java.util.Map;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FSDataInputStream;
-import org.apache.hadoop.fs.FSDataOutputStream;
 import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.mapreduce.JobContext;
 import org.apache.hadoop.mapreduce.OutputCommitter;
 import org.apache.hadoop.mapreduce.TaskAttemptContext;
-import org.bson.Document;
 import org.hammer.colombo.utils.StatUtils;
 import org.hammer.isabella.cc.Isabella;
 import org.hammer.isabella.cc.ParseException;
+import org.hammer.isabella.fuzzy.JaroWinkler;
 import org.hammer.isabella.query.Edge;
 import org.hammer.isabella.query.IsabellaError;
 import org.hammer.isabella.query.Keyword;
@@ -27,16 +25,9 @@ import org.hammer.isabella.query.QueryGraph;
 import org.hammer.isabella.query.ValueNode;
 
 import com.mongodb.BasicDBObject;
-import com.mongodb.Block;
 import com.mongodb.DBCollection;
 import com.mongodb.DBCursor;
-import com.mongodb.MongoClient;
-import com.mongodb.MongoClientURI;
-import com.mongodb.client.FindIterable;
-import com.mongodb.client.MongoCollection;
-import com.mongodb.client.MongoDatabase;
 import com.mongodb.hadoop.io.BSONWritable;
-import com.mongodb.hadoop.util.MongoConfigUtil;
 
 /**
  * 
@@ -51,10 +42,11 @@ public class ColomboOutputCommiter extends OutputCommitter {
 	private static final Log LOG = LogFactory.getLog(ColomboOutputCommiter.class);
 
 	private int inserted = 0;
-
+    private QueryGraph q = null;
 	private final DBCollection collection;
 	public static final String TEMP_DIR_NAME = "_MONGO_OUT_TEMP";
-
+	private float thSim = 0.0f;
+	
 	public ColomboOutputCommiter(final DBCollection collection) {
 		this.collection = collection;
 	}
@@ -108,15 +100,19 @@ public class ColomboOutputCommiter extends OutputCommitter {
 				BSONWritable bw = new BSONWritable();
 				bw.readFields(inputStream);
 				BasicDBObject bo = new BasicDBObject(bw.getDoc().toMap());
+				// we applicate all the and condition (for reduce data)
+				// if we download data we don't apply the selection condition
+				
+				if (applyWhereCondition(bo)) {
 
-				BasicDBObject searchQuery = new BasicDBObject().append("_id", bo.get("_id"));
-				DBCursor c = collection.find(searchQuery);
-				if (!c.hasNext()) {
-					collection.insert(bo);
-					inserted++;
+					BasicDBObject searchQuery = new BasicDBObject().append("_id", bo.get("_id"));
+					DBCursor c = collection.find(searchQuery);
+					if (!c.hasNext()) {
+						collection.insert(bo);
+						inserted++;
+					}
+					c.close();
 				}
-				c.close();
-
 				taskContext.progress();
 
 			} catch (Exception e) {
@@ -128,17 +124,6 @@ public class ColomboOutputCommiter extends OutputCommitter {
 
 		LOG.info("PINTA INSERT - DATA SET : " + inserted);
 
-		// after insert we applicate we and condition (for reduce data)
-		// if we download data we don't apply the selection condition
-		if (taskContext.getConfiguration().get("search-mode").equals("download")) {
-			try {
-				this.applyWhereCondition(taskContext);
-			} catch (Exception e) {
-				LOG.error(e.getMessage());
-				LOG.debug(e);
-				throw new IOException(e);
-			}
-		}
 		cleanupAfterCommit(inputStream, taskContext);
 	}
 
@@ -148,108 +133,52 @@ public class ColomboOutputCommiter extends OutputCommitter {
 	 * @param conf
 	 * @param q
 	 */
-	private void applyWhereCondition(final TaskAttemptContext taskContext) throws Exception {
-		// first recreate the query
-		Configuration conf = taskContext.getConfiguration();
-		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex(conf);
-		QueryGraph q = null;
-		Isabella parser = new Isabella(new StringReader(conf.get("query-string")));
-		try {
-			q = parser.queryGraph();
-			q.setIndex(kwIndex);
-		} catch (ParseException e) {
-			throw new Exception(e.getMessage());
-		}
-		for (IsabellaError err : parser.getErrors().values()) {
-			LOG.error(err.toString());
-		}
-		//
-
-		MongoClient mongo = null;
-		final Map<String, Document> dataMap = new HashMap<String, Document>();
-		MongoDatabase db = null;
-		LOG.info("--- COLOMBO OUTPUT LAUNCH SELECTION PHASE ---");
-		FileSystem fs = null;
-		FSDataOutputStream fin = null;
-
-		try {
-
-			MongoClientURI inputURI = MongoConfigUtil.getInputURI(conf);
-			mongo = new MongoClient(inputURI);
-			db = mongo.getDatabase(inputURI.getDatabase());
-
-			MongoCollection<Document> queryTable = db.getCollection(conf.get("query-table"));
-
-			if (db.getCollection(conf.get("query-result")) == null) {
-				db.createCollection(conf.get("query-result"));
-			}
-			db.getCollection(conf.get("query-result")).deleteMany(new BasicDBObject());
+	private boolean applyWhereCondition(BasicDBObject bo) throws Exception {
 			//
-			// don't create or condition because reduce phase
-			// has also check this condition
+			// check AND condition
 			//
-			BasicDBObject searchQuery = new BasicDBObject();
-
-			//
-			// create AND condition
-			//
+			boolean check = true;
+			int c  = q.getQueryCondition().size();
 			for (Edge en : q.getQueryCondition()) {
 				for (Node ch : en.getChild()) {
 					if ((ch instanceof ValueNode) && en.getCondition().equals("AND")) {
-						if (en.getOperator().equals("=")) {
-							searchQuery.append(en.getName(), new BasicDBObject("$regex", ch.getName()));
-						} else if (en.getOperator().equals(">")) {
-							searchQuery.append(en.getName(), new BasicDBObject("$gt", ch.getName()));
-						} else if (en.getOperator().equals(">=")) {
-							searchQuery.append(en.getName(), new BasicDBObject("$ge", ch.getName()));
-						} else if (en.getOperator().equals("<")) {
-							searchQuery.append(en.getName(), new BasicDBObject("$lt", ch.getName()));
-						} else if (en.getOperator().equals("<=")) {
-							searchQuery.append(en.getName(), new BasicDBObject("$le", ch.getName()));
-						} else {
-							searchQuery.append(en.getName(), new BasicDBObject("$regex", ch.getName()));
+						for(String column : bo.keySet()) {
+							double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
+							String value = bo.getString(column);
+							if (sim > thSim) {
+								c--;
+								if (en.getOperator().equals("=") && !ch.getName().toLowerCase().equals(value)) {
+									check = false;
+								} else if (en.getOperator().equals(">")) {
+									if (ch.getName().toLowerCase().compareTo(value) <= 0) {
+										check = false;
+									}
+								} else if (en.getOperator().equals("<")) {
+									if (ch.getName().toLowerCase().compareTo(value) >= 0) {
+										check = false;
+									}
+								} else if (en.getOperator().equals(">=")) {
+									if (ch.getName().toLowerCase().compareTo(value) < 0) {
+										check = false;
+									}
+								} else if (en.getOperator().equals("<=")) {
+									if (ch.getName().toLowerCase().compareTo(value) > 0) {
+										check = false;
+									}
+								} else if (en.getName().equals(column)) {
+									if (ch.getName().toLowerCase().compareTo(value) != 0) {
+										check = false;
+									}
+								}
+							}
 						}
+						
 
 					}
 				}
 			}
-
-			FindIterable<Document> iterable = queryTable.find(searchQuery);
-
-			LOG.info("FINAL QUERY FOR AND SELECTION..." + searchQuery.toString());
-
-			iterable.forEach(new Block<Document>() {
-
-				public void apply(final Document document) {
-					dataMap.put(document.getString("_id"), document);
-				}
-			});
-
-			for (Document d : dataMap.values()) {
-				db.getCollection(conf.get("query-result")).insertOne(d);
-			}
-			LOG.info("--- COLOMBO FINAL FIND " + dataMap.size() + " RECORD");
-		} catch (Exception ex) {
-			ex.printStackTrace();
-		} finally {
-			if (mongo != null) {
-				mongo.close();
-			}
-			if (fin != null) {
-				try {
-					fin.close();
-				} catch (IOException e) {
-					e.printStackTrace();
-				}
-			}
-			if (fs != null) {
-				try {
-					fs.close();
-				} catch (IOException e) {
-					e.printStackTrace();
-				}
-			}
-		}
+			
+			return (c == 0 && check);
 
 	}
 
@@ -295,6 +224,24 @@ public class ColomboOutputCommiter extends OutputCommitter {
 	@Override
 	public void setupTask(final TaskAttemptContext taskContext) {
 		LOG.info("COLOMBO COMMITER - Setting up task.");
+		
+		
+		// first recreate the query
+		Configuration conf = taskContext.getConfiguration();
+		thSim = Float.parseFloat(conf.get("thSim"));
+		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex(conf);
+		Isabella parser = new Isabella(new StringReader(conf.get("query-string")));
+		try {
+			q = parser.queryGraph();
+			q.setIndex(kwIndex);
+		} catch (ParseException e) {
+			LOG.error(e);
+		}
+		for (IsabellaError err : parser.getErrors().values()) {
+			LOG.error(err.toString());
+		}
+		//
+
 	}
 
 	/**

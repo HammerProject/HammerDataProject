@@ -214,14 +214,8 @@ public class StatUtils {
 			if (db.getCollection(conf.get("list-result")) == null) {
 				db.createCollection(conf.get("list-result"));
 			}
-			Document tempDoc = new Document();
-			tempDoc.replace("_id", doc.get("_id"));
-			FindIterable<Document> iterable = db.getCollection(conf.get("stat-result")).find(tempDoc);
-			if(iterable.first() == null) {
-				db.getCollection(conf.get("list-result")).insertOne(doc);
-			} else {
-				db.getCollection(conf.get("list-result")).findOneAndUpdate(tempDoc,doc);
-			}
+			db.getCollection(conf.get("list-result")).deleteOne(doc);
+			db.getCollection(conf.get("list-result")).insertOne(doc);
 
 		} catch (Exception ex) {
 			LOG.error(ex);

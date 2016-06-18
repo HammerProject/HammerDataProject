@@ -89,9 +89,8 @@ public class App {
 			throw new IOException("Query syntax not correct.");
 		}
 		
-		// the the paramter from the qeury
+		// the the paramter from the query
 		conf.set("query-table", "query" + (q.hashCode() + "").replaceAll("-", "_"));
-		conf.set("query-result", "result" + (q.hashCode() + "").replaceAll("-", "_"));
 		conf.set("list-result", "list" + (q.hashCode() + "").replaceAll("-", "_"));
 		conf.set("stat-result", "stat" + (q.hashCode() + "").replaceAll("-", "_"));
 		conf.set("joinCondition", q.getJoinCondition());
@@ -100,7 +99,6 @@ public class App {
 		System.out.println("******************************************************************");
 		System.out.println("******************************************************************");
 		System.out.println("COLOMBO Create temp table " + conf.get("query-table"));
-		System.out.println("COLOMBO Create result table " + conf.get("query-result"));
 		System.out.println("COLOMBO Create list resources " + conf.get("list-result"));
 		System.out.println("COLOMBO Create stat output " + conf.get("stat-result"));
 		System.out.println("******************************************************************");

@@ -75,7 +75,7 @@ public class DataSetSplitter extends MongoSplitter {
 		MongoClientURI inputURI = MongoConfigUtil.getInputURI(getConfiguration());
 		List<InputSplit> splits = new ArrayList<InputSplit>();
 		LOG.debug("---> Colombo calculating splits for " + inputURI);
-
+		float thSim = Float.parseFloat(getConfiguration().get("thSim"));
 		// create my query graph object
 		// System.out.println(query);
 		Isabella parser = new Isabella(new StringReader(getConfiguration().get("query-string")));
@@ -109,7 +109,7 @@ public class DataSetSplitter extends MongoSplitter {
 				for (String s : kwIndex.keySet()) {
 					double sim = JaroWinkler.Apply(key, s.toLowerCase());
 					// set the degree threshold to 90%
-					if (sim > 0.90) {
+					if (sim > thSim) {
 						tempList.add(s.toLowerCase());
 					}
 				}
