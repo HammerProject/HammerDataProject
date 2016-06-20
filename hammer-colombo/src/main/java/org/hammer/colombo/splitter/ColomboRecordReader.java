@@ -512,7 +512,7 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 		BSONObject newObj = new BasicBSONObject();
 		int i = 0;
 		for (String t : meta) {
-			LOG.info(t + " --- ");
+			LOG.debug(t + " --- ");
 			newObj.put(t, bObj.get(i));
 			i++;
 		}

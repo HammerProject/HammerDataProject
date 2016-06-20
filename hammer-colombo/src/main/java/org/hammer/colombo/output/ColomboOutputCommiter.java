@@ -141,27 +141,27 @@ public class ColomboOutputCommiter extends OutputCommitter {
 			int c  = q.getQueryCondition().size();
 			for (Edge en : q.getQueryCondition()) {
 				for (Node ch : en.getChild()) {
-					if ((ch instanceof ValueNode) && en.getCondition().equals("AND")) {
+					if ((ch instanceof ValueNode) && en.getCondition().equals("and")) {
 						for(String column : bo.keySet()) {
 							double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
 							String value = bo.getString(column);
 							if (sim > thSim) {
 								c--;
-								if (en.getOperator().equals("=") && !ch.getName().toLowerCase().equals(value)) {
+								if (en.getOperator().equals("eq") && !ch.getName().toLowerCase().equals(value)) {
 									check = false;
-								} else if (en.getOperator().equals(">")) {
+								} else if (en.getOperator().equals("gt")) {
 									if (ch.getName().toLowerCase().compareTo(value) <= 0) {
 										check = false;
 									}
-								} else if (en.getOperator().equals("<")) {
+								} else if (en.getOperator().equals("lt")) {
 									if (ch.getName().toLowerCase().compareTo(value) >= 0) {
 										check = false;
 									}
-								} else if (en.getOperator().equals(">=")) {
+								} else if (en.getOperator().equals("ge")) {
 									if (ch.getName().toLowerCase().compareTo(value) < 0) {
 										check = false;
 									}
-								} else if (en.getOperator().equals("<=")) {
+								} else if (en.getOperator().equals("le")) {
 									if (ch.getName().toLowerCase().compareTo(value) > 0) {
 										check = false;
 									}

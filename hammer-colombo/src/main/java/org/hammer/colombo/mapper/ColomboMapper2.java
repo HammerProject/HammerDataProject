@@ -1,7 +1,13 @@
 package org.hammer.colombo.mapper;
 
 import java.io.IOException;
+import java.util.ArrayList;
 
+import org.apache.commons.httpclient.DefaultHttpMethodRetryHandler;
+import org.apache.commons.httpclient.HttpClient;
+import org.apache.commons.httpclient.HttpStatus;
+import org.apache.commons.httpclient.methods.GetMethod;
+import org.apache.commons.httpclient.params.HttpMethodParams;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.apache.hadoop.conf.Configuration;
@@ -10,8 +16,11 @@ import org.apache.hadoop.mapreduce.Mapper;
 import org.bson.BSONObject;
 import org.bson.BasicBSONObject;
 import org.bson.types.BasicBSONList;
+import org.hammer.colombo.splitter.ColomboRecordReader;
+import org.hammer.colombo.utils.JSON;
 import org.hammer.colombo.utils.StatUtils;
 
+import com.mongodb.BasicDBList;
 import com.mongodb.hadoop.io.BSONWritable;
 
 /**
@@ -113,6 +122,90 @@ public class ColomboMapper2 extends Mapper<Object, BSONObject, Text, BSONWritabl
 		}
 	}
 
+	//
+	// test function
+	//
+	public static void main(String[] pArgs) throws Exception {
+		HttpClient client = new HttpClient();
+		GetMethod method = null;
 
+		try {
+			method = new GetMethod("https://www.opendata.go.ke/api/views/2faz-jghi/rows.json?accessType=DOWNLOAD");
+
+			method.getParams().setParameter(HttpMethodParams.RETRY_HANDLER,
+					new DefaultHttpMethodRetryHandler(3, false));
+			method.setRequestHeader("User-Agent", "Hammer Project - Colombo query");
+			method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - Colombo query");
+
+			int statusCode = client.executeMethod(method);
+
+			if (statusCode != HttpStatus.SC_OK) {
+				throw new Exception("Method failed: " + method.getStatusLine());
+			}
+			byte[] responseBody = method.getResponseBody();
+			LOG.debug(new String(responseBody));
+
+			BSONObject doc = (BSONObject) JSON.parse(new String(responseBody));
+
+			// check if is a view + data object
+			ArrayList<String> meta = new ArrayList<String>();
+			BasicBSONList pList = null;
+
+			for (String metaKey : doc.keySet()) {
+				if (!meta.contains(metaKey.toLowerCase())) {
+					meta.add(metaKey.toLowerCase());
+				}
+			}
+
+			if ((meta.size() == 2) && (meta.contains("meta")) && (meta.contains("data"))) {
+				pList = (BasicBSONList) ((BSONObject) ((BSONObject) doc.get("meta")).get("view")).get("columns");
+				meta = new ArrayList<String>();
+				for (Object obj : pList) {
+					BasicBSONObject pObj = (BasicBSONObject) obj;
+					if (pObj.containsField("fieldName")) {
+						meta.add(pObj.getString("fieldName").toLowerCase().replaceAll(":", ""));
+					}
+				}
+
+				BasicBSONList newList = new BasicBSONList();
+				pList = (BasicBSONList) doc.get("data");
+				for (Object obj : pList) {
+					BasicDBList bObj = (BasicDBList) obj;
+					BSONObject newObj = ColomboRecordReader.GetDataByItem(meta, bObj);
+					newList.add(newObj);
+				}
+				doc = newList;
+				
+				
+				
+				
+				
+			}
+			
+			
+			if (doc instanceof BasicBSONList) {
+
+				BasicBSONList newList = (BasicBSONList) doc;
+				// for each record we store a key-value
+				// - key = column-value
+				// - value = the record
+				for (Object pObj : newList) {
+
+					if (pObj instanceof BSONObject) {
+						BSONObject bsonObj = (BSONObject) pObj;
+						for (Object column : bsonObj.keySet()) {
+							String columnName = (String) column;
+							LOG.info(columnName + "|" + bsonObj.get(columnName));
+						}
+					}
+				}
+			}
+		} catch (Exception e) {
+			LOG.error(e);
+		} finally {
+			method.releaseConnection();
+		}
+
+	}
 
 }
