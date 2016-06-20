@@ -109,11 +109,12 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 			boolean c = false;
 			for (Edge en : q.getQueryCondition()) {
 				for (Node ch : en.getChild()) {
-
+					LOG.info(en.getName().toLowerCase() + " -- " + column.toLowerCase());
+					LOG.info(ch.getName().toLowerCase() + " -- " + value);
+					
 					if ((ch instanceof ValueNode) && en.getCondition().equals("OR")) {
 
 						double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
-
 						if (sim > thSim) {
 							if (en.getOperator().equals("=") && ch.getName().toLowerCase().equals(value)) {
 								c = true;
@@ -142,11 +143,11 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 					}
 				}
 			}
-
+			
+			LOG.info("---> " + c);
 			long size = 0;
 			long totalRecord = 0;
 			long selectedRecord = 0;
-			long count = 1;
 
 			for (final BSONWritable record : pValues) {
 				if (c) {
@@ -162,7 +163,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 			statObj.put("type", "stat");
 			statObj.put("record-total", totalRecord);
 			statObj.put("record-selected", selectedRecord);
-			statObj.put("resource-count", count);
+			statObj.put("resource-count", 0);
 			statObj.put("size", size);
 			statObj.put("fuzzy-query", 0);
 			StatUtils.SaveStat(this.conf, statObj);

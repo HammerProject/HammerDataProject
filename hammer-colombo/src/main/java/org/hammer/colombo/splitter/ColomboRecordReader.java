@@ -12,6 +12,7 @@ import java.io.OutputStreamWriter;
 import java.net.HttpURLConnection;
 import java.net.URI;
 import java.net.URL;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
@@ -41,6 +42,7 @@ import com.fasterxml.jackson.databind.MappingIterator;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.csv.CsvMapper;
 import com.fasterxml.jackson.dataformat.csv.CsvSchema;
+import com.mongodb.BasicDBList;
 
 /**
  * CKAN record reader
@@ -127,8 +129,8 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 					doc.put("record-selected", SocrataUtils.CountPackageList(conf, split.getUrl(), split.getName()));
 					doc.put("record-total", SocrataUtils.CountTotalPackageList(split.getUrl(), split.getName()));
 				} else if (split.getDataSetType().equals("org.hammer.santamaria.mapper.dataset.Socrata2DataSetInput")) {
-				  	doc.put("selectedRecord", SocrataUtils.CountPackageList(conf, split.getUrl(), split.getName()));
-				  	doc.put("record-total", SocrataUtils.CountTotalPackageList(split.getUrl(), split.getName()));
+					doc.put("selectedRecord", SocrataUtils.CountPackageList(conf, split.getUrl(), split.getName()));
+					doc.put("record-total", SocrataUtils.CountTotalPackageList(split.getUrl(), split.getName()));
 				} else {
 					doc.put("record-total", countRecord(split.getName()));
 				}
@@ -190,6 +192,38 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 
 					if (split.getType().equals("JSON")) {
 						doc = (BSONObject) JSON.parse(new String(responseBody));
+
+						// check if is a view + data object
+						ArrayList<String> meta = new ArrayList<String>();
+						BasicBSONList pList = null;
+
+						for (String metaKey : doc.keySet()) {
+							if (!meta.contains(metaKey.toLowerCase())) {
+								meta.add(metaKey.toLowerCase());
+							}
+						}
+
+						if ((meta.size() == 2) && (meta.contains("meta")) && (meta.contains("data"))) {
+							pList = (BasicBSONList) ((BSONObject) ((BSONObject) doc.get("meta")).get("view"))
+									.get("columns");
+							meta = new ArrayList<String>();
+							for (Object obj : pList) {
+								BasicBSONObject pObj = (BasicBSONObject) obj;
+								if (pObj.containsField("fieldName")) {
+									meta.add(pObj.getString("fieldName").toLowerCase().replaceAll(":", ""));
+								}
+							}
+
+							BasicBSONList newList = new BasicBSONList();
+							pList = (BasicBSONList) doc.get("data");
+							for (Object obj : pList) {
+								BasicDBList bObj = (BasicDBList) obj;
+								BSONObject newObj = GetDataByItem(meta, bObj);
+								newList.add(newObj);
+							}
+							doc = newList;
+						}
+
 					} else if (split.getType().equals("CSV")) {
 						List<Map<?, ?>> dataMap = readObjectsFromCsv(new String(responseBody));
 						String json = returnAsJson(dataMap);
@@ -279,8 +313,7 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 			in = new BufferedInputStream(new URL(urlString).openStream());
 
 			long total = IOUtils.copyLarge(in, out);
-			
-			
+
 			return total;
 		} catch (Exception e) {
 			LOG.error(e);
@@ -304,9 +337,10 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 
 		}
 	}
-	
+
 	/**
 	 * Count record
+	 * 
 	 * @return
 	 */
 	private long countRecord(String file) {
@@ -314,13 +348,13 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 		try {
 			String response = ReadFileFromHdfs(conf, file);
 			LOG.info(response);
-			BSONObject	doc = (BSONObject) JSON.parse(new String(response));
-			
-			if(doc instanceof BasicBSONList) {
+			BSONObject doc = (BSONObject) JSON.parse(new String(response));
+
+			if (doc instanceof BasicBSONList) {
 				record = ((BasicBSONList) doc).toMap().size();
-			}else if((doc instanceof BSONObject) && (((BSONObject) doc)).containsField("meta") 
-   				 && (((BSONObject) doc)).containsField("data")) {
-			    record = ((BasicBSONList) (((BSONObject) doc)).get("data")).toMap().size();	
+			} else if ((doc instanceof BSONObject) && (((BSONObject) doc)).containsField("meta")
+					&& (((BSONObject) doc)).containsField("data")) {
+				record = ((BasicBSONList) (((BSONObject) doc)).get("data")).toMap().size();
 			}
 		} catch (Exception ex) {
 			LOG.error(ex);
@@ -352,7 +386,7 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 		} finally {
 			conn.disconnect();
 		}
-		
+
 		HttpClient client = new HttpClient();
 		client.getHttpConnectionManager().getParams().setParameter(ClientPNames.HANDLE_REDIRECTS, false);
 		GetMethod method = new GetMethod(url);
@@ -418,7 +452,7 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 
 		return sb.toString();
 	}
-	
+
 	//
 	public static void main(String[] pArgs) throws Exception {
 		InputStream in = null;
@@ -428,24 +462,24 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 			out = new FileOutputStream("test.json");
 			br = new BufferedWriter(new OutputStreamWriter(out, "UTF-8"));
 			in = new BufferedInputStream(new URL("https://data.cityofnewyork.us/resource/kpav-sd4t.json").openStream());
-			
+
 			long record = 0;
 			long total = IOUtils.copyLarge(in, out);
 			String response = IsabellaUtils.readFile("test.json");
 			try {
-				BSONObject	doc = (BSONObject) JSON.parse(new String(response));
-				if(doc instanceof BasicBSONList) {
+				BSONObject doc = (BSONObject) JSON.parse(new String(response));
+				if (doc instanceof BasicBSONList) {
 					record = ((BasicBSONList) doc).toMap().size();
-				}else if((doc instanceof BSONObject) && (((BSONObject) doc)).containsField("meta") 
-       				 && (((BSONObject) doc)).containsField("data")) {
-				    record = ((BasicBSONList) (((BSONObject) doc)).get("data")).toMap().size();	
+				} else if ((doc instanceof BSONObject) && (((BSONObject) doc)).containsField("meta")
+						&& (((BSONObject) doc)).containsField("data")) {
+					record = ((BasicBSONList) (((BSONObject) doc)).get("data")).toMap().size();
 				}
-				record = SocrataUtils.CountTotalPackageList("https://data.cityofnewyork.us/resource/kpav-sd4t.json", "kpav-sd4t");
+				record = SocrataUtils.CountTotalPackageList("https://data.cityofnewyork.us/resource/kpav-sd4t.json",
+						"kpav-sd4t");
 			} catch (Exception ex) {
 				ex.printStackTrace();
 				record = 1;
 			}
-			
 
 			System.out.println(total);
 			System.out.println(record);
@@ -465,7 +499,23 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 				out.close();
 			}
 
-
 		}
+	}
+
+	/**
+	 * Get data from bson obj not in key-value format
+	 * 
+	 * @param bObj
+	 * @return
+	 */
+	public static BSONObject GetDataByItem(ArrayList<String> meta, BasicDBList bObj) {
+		BSONObject newObj = new BasicBSONObject();
+		int i = 0;
+		for (String t : meta) {
+			LOG.info(t + " --- ");
+			newObj.put(t, bObj.get(i));
+			i++;
+		}
+		return newObj;
 	}
 }

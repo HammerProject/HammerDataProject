@@ -177,7 +177,7 @@ public class StatUtils {
 					doc.append("size", size);
 					doc.append("resource-count", resource_count);
 					doc.append("fuzzy-query", fuzzy_query);
-					db.getCollection(conf.get("list-result")).insertOne(doc);
+					db.getCollection(conf.get("stat-result")).insertOne(doc);
 				}
 
 			}

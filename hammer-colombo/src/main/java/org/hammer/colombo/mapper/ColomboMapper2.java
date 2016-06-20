@@ -113,4 +113,6 @@ public class ColomboMapper2 extends Mapper<Object, BSONObject, Text, BSONWritabl
 		}
 	}
 
+
+
 }
