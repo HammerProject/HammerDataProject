@@ -21,7 +21,7 @@ import com.mongodb.hadoop.io.BSONWritable;
 
 
 /**
- * Mapper
+ * Query Mapper
  * 
  * @author mauro.pelucchi@gmail.com
  * @project Hammer Project -Colombo
