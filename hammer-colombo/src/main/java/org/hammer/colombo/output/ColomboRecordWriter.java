@@ -45,10 +45,10 @@ public class ColomboRecordWriter extends RecordWriter<Text, BSONWritable> {
         try {
             FileSystem fs = FileSystem.get(ctx.getConfiguration());
             Path outputPath = MongoOutputCommitter.getTaskAttemptPath(ctx);
-            LOG.info("PINTA Writing to temporary file: " + outputPath.toString());
+            LOG.info("COLOMBO Writing to temporary file: " + outputPath.toString());
             outputStream = fs.create(outputPath, true);
         } catch (IOException e) {
-            LOG.error("PINTA  Could not open temporary file for buffering Mongo output", e);
+            LOG.error("COLOMBO  Could not open temporary file for buffering Mongo output", e);
         }
     }
 

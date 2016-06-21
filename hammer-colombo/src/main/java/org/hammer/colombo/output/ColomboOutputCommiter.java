@@ -42,11 +42,11 @@ public class ColomboOutputCommiter extends OutputCommitter {
 	private static final Log LOG = LogFactory.getLog(ColomboOutputCommiter.class);
 
 	private int inserted = 0;
-    private QueryGraph q = null;
+	private QueryGraph q = null;
 	private final DBCollection collection;
 	public static final String TEMP_DIR_NAME = "_MONGO_OUT_TEMP";
 	private float thSim = 0.0f;
-	
+
 	public ColomboOutputCommiter(final DBCollection collection) {
 		this.collection = collection;
 	}
@@ -65,34 +65,34 @@ public class ColomboOutputCommiter extends OutputCommitter {
 
 	@Override
 	public void abortTask(final TaskAttemptContext taskContext) throws IOException {
-		LOG.info("PINTA COMMITTER - Aborting task.");
+		LOG.info("COLOMBO COMMITTER - Aborting task.");
 		cleanupTemporaryFiles(taskContext);
 	}
 
 	@Override
 	public void commitTask(final TaskAttemptContext taskContext) throws IOException {
-		LOG.info("PINTA COMMITER - Committing task.");
+		LOG.info("COLOMBO COMMITER - Committing task.");
 
 		inserted = 0;
 		Path tempFilePath = getTaskAttemptPath(taskContext);
-		LOG.info("PINTA -  Committing from temporary file: " + tempFilePath.toString());
+		LOG.info("COLOMBO -  Committing from temporary file: " + tempFilePath.toString());
 
 		FSDataInputStream inputStream = null;
 		try {
 			FileSystem fs = FileSystem.get(taskContext.getConfiguration());
 			inputStream = fs.open(tempFilePath);
 		} catch (IOException e) {
-			LOG.error("PINTA COMMITER  Could not open temporary file for committing", e);
+			LOG.error("COLOMBO COMMITER  Could not open temporary file for committing", e);
 			LOG.error(e);
 			cleanupAfterCommit(inputStream, taskContext);
 
 			throw e;
 		}
 
-		LOG.info("PINTA Clean collection " + collection.getFullName());
+		LOG.info("COLOMBO Clean collection " + collection.getFullName());
 
 		collection.remove(new BasicDBObject());
-		LOG.info("PINTA After clear : collection " + collection.count());
+		LOG.info("COLOMBO After clear : collection " + collection.count());
 
 		inserted = 0;
 		while (inputStream.available() > 0) {
@@ -102,7 +102,7 @@ public class ColomboOutputCommiter extends OutputCommitter {
 				BasicDBObject bo = new BasicDBObject(bw.getDoc().toMap());
 				// we applicate all the and condition (for reduce data)
 				// if we download data we don't apply the selection condition
-				
+
 				if (applyWhereCondition(bo)) {
 
 					BasicDBObject searchQuery = new BasicDBObject().append("_id", bo.get("_id"));
@@ -134,51 +134,68 @@ public class ColomboOutputCommiter extends OutputCommitter {
 	 * @param q
 	 */
 	private boolean applyWhereCondition(BasicDBObject bo) throws Exception {
-			//
-			// check AND condition
-			//
-			boolean check = true;
-			int c  = q.getQueryCondition().size();
-			for (Edge en : q.getQueryCondition()) {
-				for (Node ch : en.getChild()) {
-					if ((ch instanceof ValueNode) && en.getCondition().equals("and")) {
-						for(String column : bo.keySet()) {
-							double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
-							String value = bo.getString(column);
-							if (sim > thSim) {
-								c--;
-								if (en.getOperator().equals("eq") && !ch.getName().toLowerCase().equals(value)) {
+		//
+		// check AND condition
+		//
+		boolean check = true;
+		int c = 0;
+		for (Edge en : q.getQueryCondition()) {
+			for (Node ch : en.getChild()) {
+
+				if ((ch instanceof ValueNode) && en.getCondition().equals("and")) {
+					c++;
+				}
+			}
+		}
+		for (Edge en : q.getQueryCondition()) {
+			LOG.info(en.getCondition());
+			LOG.info(en.getOperator());
+			LOG.info("------------------------------------");
+
+			for (Node ch : en.getChild()) {
+
+				if ((ch instanceof ValueNode) && en.getCondition().equals("and")) {
+					for (String column : bo.keySet()) {
+
+						double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
+						String value = bo.getString(column);
+
+						LOG.info(en.getName().toLowerCase() + " -- " + column.toLowerCase());
+						LOG.info(ch.getName().toLowerCase() + " -- " + value);
+
+						if (sim > thSim) {
+							c--;
+							if (en.getOperator().equals("eq") && !ch.getName().toLowerCase().equals(value)) {
+								check = false;
+							} else if (en.getOperator().equals("gt")) {
+								if (ch.getName().toLowerCase().compareTo(value) <= 0) {
 									check = false;
-								} else if (en.getOperator().equals("gt")) {
-									if (ch.getName().toLowerCase().compareTo(value) <= 0) {
-										check = false;
-									}
-								} else if (en.getOperator().equals("lt")) {
-									if (ch.getName().toLowerCase().compareTo(value) >= 0) {
-										check = false;
-									}
-								} else if (en.getOperator().equals("ge")) {
-									if (ch.getName().toLowerCase().compareTo(value) < 0) {
-										check = false;
-									}
-								} else if (en.getOperator().equals("le")) {
-									if (ch.getName().toLowerCase().compareTo(value) > 0) {
-										check = false;
-									}
-								} else if (en.getName().equals(column)) {
-									if (ch.getName().toLowerCase().compareTo(value) != 0) {
-										check = false;
-									}
+								}
+							} else if (en.getOperator().equals("lt")) {
+								if (ch.getName().toLowerCase().compareTo(value) >= 0) {
+									check = false;
+								}
+							} else if (en.getOperator().equals("ge")) {
+								if (ch.getName().toLowerCase().compareTo(value) < 0) {
+									check = false;
+								}
+							} else if (en.getOperator().equals("le")) {
+								if (ch.getName().toLowerCase().compareTo(value) > 0) {
+									check = false;
+								}
+							} else if (en.getName().equals(column)) {
+								if (ch.getName().toLowerCase().compareTo(value) != 0) {
+									check = false;
 								}
 							}
 						}
-						
-
 					}
+
 				}
 			}
-			
-			return (c == 0 && check);
+		}
+
+		return (c == 0 && check);
 
 	}
 
@@ -224,8 +241,7 @@ public class ColomboOutputCommiter extends OutputCommitter {
 	@Override
 	public void setupTask(final TaskAttemptContext taskContext) {
 		LOG.info("COLOMBO COMMITER - Setting up task.");
-		
-		
+
 		// first recreate the query
 		Configuration conf = taskContext.getConfiguration();
 		thSim = Float.parseFloat(conf.get("thSim"));
