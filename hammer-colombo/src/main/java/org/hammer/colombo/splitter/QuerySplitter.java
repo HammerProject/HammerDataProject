@@ -107,7 +107,7 @@ public class QuerySplitter extends MongoSplitter {
 				ArrayList<String> tempList = new ArrayList<String>();
 				for (String s : kwIndex.keySet()) {
 					double sim = JaroWinkler.Apply(key, s.toLowerCase());
-					// set the degree threshold to 90%
+					// set the degree threshold to custom value
 					if (sim > thSim) {
 						tempList.add(s.toLowerCase());
 					}
@@ -127,14 +127,18 @@ public class QuerySplitter extends MongoSplitter {
 		RecursiveString.Recurse(optionsList, similarity, 0, cases);
 		LOG.info("--- FUZZY SEARCH QUERY --> " + cases.size());
 
-		// qList is the list of all query for fuzzy search
+		
+		// qSplit is the list of all query for fuzzy search
 		// the key of the list is a string corresponds to the keywords
 		// so we remove the duplicate query!
 		// also we have the keywords to operate the fuzzy search the the funcion
 		// getList
-		HashMap<String, QueryGraph> qList = new HashMap<String, QueryGraph>();
+		HashMap<String, QuerySplit> qSplit = new HashMap<String, QuerySplit>();
 		// first we add the original query
-		qList.put(keywords, q);
+		QuerySplit qOne = new QuerySplit();
+		qOne.setKeywords(keywords);
+		qOne.setQueryString(getConfiguration().get("query-string"));
+		qSplit.put(keywords, qOne);
 
 		for (int i = 0; i < cases.size(); i++) {
 			LOG.debug("----> Query case " + (i + 1) + ": ");
@@ -143,21 +147,16 @@ public class QuerySplitter extends MongoSplitter {
 				LOG.debug(k[0] + "-" + k[1] + ",");
 				keywordsCase += ";" + k[1];
 			}
-
-			try {
-				QueryGraph temp = QueryGraphCloner.deepCopy(getConfiguration().get("query-string"), cases.get(i),
-						kwIndex);
-				qList.put(keywordsCase, temp);
-
-			} catch (Exception e) {
-				LOG.error(e.getMessage());
-				LOG.debug(e);
-			}
+			String newQuery = getQuery(getConfiguration().get("query-string"), cases.get(i));
+			QuerySplit newQ = new QuerySplit();
+			qOne.setKeywords(keywordsCase);
+			qOne.setQueryString(newQuery);
+			qSplit.put(keywordsCase, newQ);
 		}
 
 		LOG.info("------------------------------------------------------");
 		LOG.info("------------------------------------------------------");
-		LOG.info("--Total fuzzy search query " + qList.size());
+		LOG.info("--   Total fuzzy search query " + qSplit.size());
 		LOG.info("---- End combination for FUZZY SEARCH ----------------");
 
 		// create the table for the result
@@ -173,96 +172,12 @@ public class QuerySplitter extends MongoSplitter {
 		statObj.put("record-selected", 0);
 		statObj.put("resource-count", 0);
 		statObj.put("size", 0);
-		statObj.put("fuzzy-query", qList.size());
+		statObj.put("fuzzy-query", qSplit.size());
 
 		StatUtils.SaveStat(this.getConfiguration(), statObj);
 
-		// esecute the getSetList function for every fuzzy query
-		// the function return the list of the resources that match with the
-		// query
-		// we store the data into a dataset map
-		// for eliminate the duplicate resource
-		Map<String, Document> dataSet = new HashMap<String, Document>();
-		MongoClient mongo = null;
-		MongoDatabase db = null;
-		try {
-			mongo = new MongoClient(inputURI);
-			db = mongo.getDatabase(inputURI.getDatabase());
-			// connection with dataset and index collection of mongodb
-			MongoCollection<Document> dataset = db.getCollection(inputURI.getCollection());
-			MongoCollection<Document> index = db.getCollection("index");
 
-			for (String key : qList.keySet()) {
-				List<Document> temp = getSetList(qList.get(key), key, dataset, index);
-
-				for (Document t : temp) {
-					String documentKey = t.getString("_id");
-					dataSet.put(documentKey, t);
-				}
-			}
-		} catch (Exception ex) {
-			LOG.error(ex.getMessage());
-			LOG.debug(ex);
-		} finally {
-			if (mongo != null) {
-				mongo.close();
-			}
-		}
-
-		LOG.info("!!!!! FUZZY SEARCH has found " + dataSet.size() + " RESOURCES !!!!!");
-		statObj = new BasicBSONObject();
-		statObj.put("type", "stat");
-		statObj.put("record-total", 0);
-		statObj.put("record-selected", 0);
-		statObj.put("resource-count", dataSet.size());
-		statObj.put("size",  0);
-		statObj.put("fuzzy-query", 0);
-		StatUtils.SaveStat(this.getConfiguration(), statObj);
-		//
-		//
-		//
-		// pass the document to map function
-		//
-		//
-		for (Document doc : dataSet.values()) {
-			String key = doc.getString("_id");
-			LOG.debug("---> found " + key + " - " + doc.getString("title"));
-			DataSetSplit dsSplit = new DataSetSplit();
-			if (getConfiguration().get("search-mode").equals("download")) {
-				dsSplit.setName(key);
-				if (doc.containsKey("url") && !doc.containsKey("remove")) {
-					dsSplit.setUrl(doc.getString("url"));
-					dsSplit.setType(doc.getString("dataset-type"));
-					dsSplit.setDataSetType(doc.getString("datainput_type"));
-					dsSplit.setDatasource(doc.getString("id"));
-					splits.add(dsSplit);
-				}
-				/*
-				 * if (doc.containsKey("resources")) { ArrayList<Document>
-				 * resources = (ArrayList<Document>) doc.get("resources"); for
-				 * (Document resource : resources) { String rKey = key + "_" +
-				 * resource.getString("id"); dsSplit.setName(rKey);
-				 * dsSplit.setUrl(resource.getString("url"));
-				 * dsSplit.setType(doc.getString("dataset-type"));
-				 * dsSplit.setDataSetType(doc.getString("datainput_type"));
-				 * dsSplit.setDatasource(doc.getString("id"));
-				 * splits.add(dsSplit);
-				 * 
-				 * } }
-				 */
-			} else {
-				dsSplit.setName(key);
-				if (doc.containsKey("url") && !doc.containsKey("remove")) {
-					dsSplit.setUrl(doc.getString("url"));
-					dsSplit.setType(doc.getString("dataset-type"));
-					dsSplit.setDataSetType(doc.getString("datainput_type"));
-					dsSplit.setDatasource(doc.getString("id"));
-					splits.add(dsSplit);
-				}
-			}
-		}
-
-		return splits;
+		return qSplit.values().;
 
 	}
 

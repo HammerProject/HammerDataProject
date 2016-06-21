@@ -12,8 +12,8 @@ import org.apache.hadoop.mapreduce.JobContext;
 import org.apache.hadoop.mapreduce.RecordReader;
 import org.apache.hadoop.mapreduce.TaskAttemptContext;
 import org.bson.BSONObject;
-import org.hammer.colombo.splitter.ColomboRecordReader;
-import org.hammer.colombo.splitter.DataSetSplit;
+import org.hammer.colombo.splitter.QueryRecordReader;
+import org.hammer.colombo.splitter.QuerySplit;
 
 import com.mongodb.hadoop.splitter.MongoSplitter;
 import com.mongodb.hadoop.splitter.MongoSplitterFactory;
@@ -32,12 +32,12 @@ public class ColomboQueryInputFormat extends InputFormat<Object, BSONObject> {
     private static final Log LOG = LogFactory.getLog(ColomboQueryInputFormat.class);
 
 	public RecordReader<Object, BSONObject> createRecordReader(final InputSplit split, final TaskAttemptContext context) {
-        if (!(split instanceof DataSetSplit)) {
-            throw new IllegalStateException("Creation of a new RecordReader requires a DataSetSplit instance.");
+        if (!(split instanceof QuerySplit)) {
+            throw new IllegalStateException("Creation of a new RecordReader requires a QuerySplit instance.");
         }
-        System.out.println("COLOMBO get record for " + ((DataSetSplit) split).getUrl());
-        final DataSetSplit mis = (DataSetSplit) split;
-        RecordReader<Object, BSONObject> t = new ColomboRecordReader(mis);		
+        System.out.println("COLOMBO get query for " + ((QuerySplit) split).getKeywords());
+        final QuerySplit mis = (QuerySplit) split;
+        RecordReader<Object, BSONObject> t = new QueryRecordReader(mis);		
         return t;
     }
 
@@ -49,7 +49,7 @@ public class ColomboQueryInputFormat extends InputFormat<Object, BSONObject> {
 
         try {
             MongoSplitter splitterImpl = MongoSplitterFactory.getSplitter(conf);
-            LOG.debug("COLOMBO on MongoDB - Using " + splitterImpl.toString() + " to calculate splits.");
+            LOG.debug("COLOMBO on MongoDB - Using " + splitterImpl.toString() + " to calculate query splits.");
             return splitterImpl.calculateSplits();
         } catch (SplitFailedException spfe) {
             throw new IOException(spfe);

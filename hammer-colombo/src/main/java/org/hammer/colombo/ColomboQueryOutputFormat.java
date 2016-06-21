@@ -8,15 +8,15 @@ import org.apache.hadoop.mapreduce.OutputCommitter;
 import org.apache.hadoop.mapreduce.OutputFormat;
 import org.apache.hadoop.mapreduce.RecordWriter;
 import org.apache.hadoop.mapreduce.TaskAttemptContext;
-import org.hammer.colombo.output.ColomboOutputCommiter;
-import org.hammer.colombo.output.ColomboRecordWriter;
+import org.hammer.colombo.output.QueryOutputCommiter;
+import org.hammer.colombo.output.QueryRecordWriter;
 
 import com.mongodb.hadoop.io.BSONWritable;
 import com.mongodb.hadoop.util.MongoConfigUtil;
 
 /**
  * 
- * Colombo Output Format
+ * Colombo Query Output Format
  * 
  * @author mauro.pelucchi@gmail.com
  * @project Hammer-Project - Colombo
@@ -26,12 +26,12 @@ public class ColomboQueryOutputFormat extends OutputFormat<Text, BSONWritable> {
 
     public void checkOutputSpecs(final JobContext context) throws IOException {
         if (MongoConfigUtil.getOutputURIs(context.getConfiguration()).isEmpty()) {
-            throw new IOException("COLOMBO CONFIG ERROR: No output URI is specified. You must set mongo.output.uri.");
+            throw new IOException("COLOMBO QUERY CONFIG ERROR: No output URI is specified. You must set mongo.output.uri.");
         }
     }
 
     public OutputCommitter getOutputCommitter(final TaskAttemptContext context) {
-        return new ColomboOutputCommiter(
+        return new QueryOutputCommiter(
         		MongoConfigUtil.getOutputCollection(context.getConfiguration()));
     }
 
@@ -39,7 +39,7 @@ public class ColomboQueryOutputFormat extends OutputFormat<Text, BSONWritable> {
      * Get the record writer that points to the output collection.
      */
     public RecordWriter<Text, BSONWritable> getRecordWriter(final TaskAttemptContext context) {
-        return new ColomboRecordWriter(
+        return new QueryRecordWriter(
           MongoConfigUtil.getOutputCollection(context.getConfiguration()),
           context);
     }
