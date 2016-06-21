@@ -113,12 +113,16 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 			// so
 			// if key match the where condition we take the record
 			// else we doesn't store the record
+			LOG.info("---------------------------------------------------");
 			StringTokenizer st = new StringTokenizer(pKey.toString(), "|");
 			String column = st.nextToken().toLowerCase();
 			String value = st.nextToken().toLowerCase();
 
 			boolean c = false;
 			for (Edge en : q.getQueryCondition()) {
+				LOG.info(en.getCondition());
+				LOG.info(en.getOperator());
+				LOG.info("------------------------------------");
 				for (Node ch : en.getChild()) {
 					LOG.info(en.getName().toLowerCase() + " -- " + column.toLowerCase());
 					LOG.info(ch.getName().toLowerCase() + " -- " + value);
@@ -126,22 +130,24 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 					if ((ch instanceof ValueNode) && en.getCondition().equals("or")) {
 
 						double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
+						LOG.info("ok" + sim);
 						if (sim > thSim) {
-							if (en.getOperator().equals("=") && ch.getName().toLowerCase().equals(value)) {
+							LOG.info("ok" + sim);
+							if (en.getOperator().equals("eq") && ch.getName().toLowerCase().equals(value)) {
 								c = true;
-							} else if (en.getOperator().equals(">")) {
+							} else if (en.getOperator().equals("gt")) {
 								if (ch.getName().toLowerCase().compareTo(value) > 0) {
 									c = true;
 								}
-							} else if (en.getOperator().equals("<")) {
+							} else if (en.getOperator().equals("lt")) {
 								if (ch.getName().toLowerCase().compareTo(value) < 0) {
 									c = true;
 								}
-							} else if (en.getOperator().equals(">=")) {
+							} else if (en.getOperator().equals("ge")) {
 								if (ch.getName().toLowerCase().compareTo(value) >= 0) {
 									c = true;
 								}
-							} else if (en.getOperator().equals("<=")) {
+							} else if (en.getOperator().equals("le")) {
 								if (ch.getName().toLowerCase().compareTo(value) <= 0) {
 									c = true;
 								}
@@ -274,7 +280,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 				LOG.error(err.toString());
 			}
 			float thSim = 0.9f;
-			
+
 			for (String pKey : t) {
 				LOG.info("---------------------------------------------------");
 				LOG.info(pKey);
@@ -290,7 +296,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 					for (Node ch : en.getChild()) {
 						LOG.info(en.getName().toLowerCase() + " -- " + column.toLowerCase());
 						LOG.info(ch.getName().toLowerCase() + " -- " + value);
-						
+
 						if ((ch instanceof ValueNode) && en.getCondition().equals("or")) {
 
 							double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
@@ -324,14 +330,14 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 						}
 					}
 				}
-				
+
 				LOG.info("---> " + c);
-				if(c) {
+				if (c) {
 					r.add(pKey);
 				}
 			}
-			
-			for(String result: r)  {
+
+			for (String result : r) {
 				System.out.println(result);
 			}
 

@@ -17,10 +17,10 @@ bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/te
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/example_1.json local download keywords 0.0 0.0 0.0
 
 ## search all resources by query
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/example_1.json local search labels 0.3 0.3 0.9
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/example_1.json local search labels 0.3 0.3 0.95
 
 ## search selected resources by query
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/example_1f.json local search keywords 0.3 0.3 0.9
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/example_1f.json local search keywords 0.3 0.3 0.95
 
 
 ###############################################################################
@@ -44,10 +44,10 @@ bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/
 bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/example_1.json local download keywords 0.0 0.0 0.0
 
 ## search all resources by query
-bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/example_1.json local search labels 0.3 0.3 0.9
+bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/example_1.json local search labels 0.3 0.3 0.95
 
 ## search selected resources by query
-bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/example_1.json local search keywords 0.3 0.3 0.9
+bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/example_1.json local search keywords 0.3 0.3 0.95
 
 
 
