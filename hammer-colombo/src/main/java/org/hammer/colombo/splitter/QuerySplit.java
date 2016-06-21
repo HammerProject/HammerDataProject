@@ -49,6 +49,19 @@ public class QuerySplit extends InputSplit implements Writable, org.apache.hadoo
     private String queryString = "";
     
     /**
+     * The keywords set
+     */
+    private String keywords = "";
+    
+    public String getKeywords() {
+		return keywords;
+	}
+
+	public void setKeywords(String keywords) {
+		this.keywords = keywords;
+	}
+
+	/**
      * Get my query string
      * @return
      */
@@ -62,6 +75,7 @@ public class QuerySplit extends InputSplit implements Writable, org.apache.hadoo
     public void write(final DataOutput out) throws IOException {
         BSONObject spec = BasicDBObjectBuilder.start()
                                               .add("queryString", getQueryString())
+                                              .add("keywords", getKeywords())
                                               .get();
         byte[] buf = _bsonEncoder.encode(spec);
         out.write(buf);
@@ -82,17 +96,19 @@ public class QuerySplit extends InputSplit implements Writable, org.apache.hadoo
         _bsonDecoder.decode(data, cb);
         spec = (BSONObject) cb.get();
         setQueryString(spec.get("queryString").toString());
+        setKeywords(spec.get("keywords").toString());
     }
 
 
     @Override
     public String toString() {
-        return "QuerySplit{queryString=" + this.queryString + '}';
+        return "QuerySplit{queryString=" + this.queryString + ", keywords" + this.keywords + "}";
     }
 
     @Override
     public int hashCode() {
         int result = this.queryString != null ? this.queryString.hashCode() : 0;
+        result = 31 * result + (this.keywords != null ? this.keywords.hashCode() : 0);
         return result;
     }
 
@@ -104,7 +120,7 @@ public class QuerySplit extends InputSplit implements Writable, org.apache.hadoo
 	@Override
 	public String[] getLocations() {
 		String[] urls = new String[1];
-		urls[0] = this.queryString;
+		urls[0] = this.keywords;
 		return urls;
 	}
 

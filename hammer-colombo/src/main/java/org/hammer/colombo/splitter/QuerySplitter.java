@@ -39,7 +39,7 @@ import com.mongodb.hadoop.util.MongoConfigUtil;
 
 /**
  * 
- * Create the query and get resource for each query
+ * Create the query for first map-reduce phase
  * 
  * @author mauro.pelucchi@gmail.com
  * @project Hammer-Project - Colombo
