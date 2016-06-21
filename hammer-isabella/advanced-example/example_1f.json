@@ -16,34 +16,34 @@
 // in East-Aprifca
 // from africaopendata.org 
 //
-// FUZZY!
+// FUZZY QUERY!
 //
 //
 // SQL
-// SELECT updated, county, location, under_weight_3_sd, stuting_3_sd, wasting_3_sd
-// FROM nutrition
-// WHERE county = "Turkana" or county = "Kenya Average"
+// SELECT updated, county1, location, under_weight_3_sd, stuting_3_sd, wasting_3_sd
+// FROM nutrition_child
+// WHERE county1 = "Turkana" or county1 = "Kenya Average"
 
 {
   "select": [
-  	  { "column": { "instance": "nutrition", "label":"updated"}},
-      { "column": { "instance": "nutrition", "label":"county1"}},
-      { "column": { "instance": "nutrition", "label":"location"}},
-      { "column": { "instance": "nutrition", "label":"under_weight_3_sd"}},
-      { "column": { "instance": "nutrition", "label":"stuting_3_sd"}},
-      { "column": { "instance": "nutrition", "label":"wasting_3_sd"}}
+  	  { "column": { "instance": "nutrition_child", "label":"updated"}},
+      { "column": { "instance": "nutrition_child", "label":"county1"}},
+      { "column": { "instance": "nutrition_child", "label":"location"}},
+      { "column": { "instance": "nutrition_child", "label":"under_weight_3_sd"}},
+      { "column": { "instance": "nutrition_child", "label":"stuting_3_sd"}},
+      { "column": { "instance": "nutrition_child", "label":"wasting_3_sd"}}
   ],
   "from": [
-    "nutrition"
+    "nutrition_child"
   ],
   "where": [{"condition": {
-      "instance1": "nutrition",
+      "instance1": "nutrition_child",
       "label1": "county1",
       "operator": "eq",
       "value": "Turkana",
       "logicalOperator": "or"
     }}, {"condition": {
-      "instance1": "nutrition",
+      "instance1": "nutrition_child",
       "label1": "county1",
       "operator": "eq",
       "value": "Kenya Average",
