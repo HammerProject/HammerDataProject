@@ -31,7 +31,7 @@ import com.mongodb.hadoop.io.BSONWritable;
 
 /**
  * 
- * PINTA output commiter
+ * Colombo output commiter
  * 
  * @author mauro.pelucchi@gmail.com
  * @project Hammer-Project - PINTA

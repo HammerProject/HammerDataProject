@@ -3,8 +3,8 @@ package org.hammer.colombo;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.io.Text;
-import org.hammer.colombo.mapper.ColomboMapper2;
-import org.hammer.colombo.reducer.ColomboReducer2;
+import org.hammer.colombo.mapper.QueryMapper;
+import org.hammer.colombo.reducer.QueryReducer;
 
 import com.mongodb.MongoClient;
 import com.mongodb.MongoClientURI;
@@ -31,24 +31,21 @@ public class ColomboQueryConfig extends MongoTool {
         setConf(conf);
         
         
-        MongoConfigUtil.setInputFormat(conf, ColomboInputFormat.class);
-        MongoConfigUtil.setOutputFormat(conf, ColomboOutputFormat.class);
+        MongoConfigUtil.setInputFormat(conf, ColomboQueryInputFormat.class);
+        MongoConfigUtil.setOutputFormat(conf, ColomboQueryOutputFormat.class);
         
         
        
-        MongoConfigUtil.setMapper(conf, ColomboMapper2.class);
+        MongoConfigUtil.setMapper(conf, QueryMapper.class);
         MongoConfigUtil.setMapperOutputKey(conf, Text.class);
         MongoConfigUtil.setMapperOutputValue(conf, BSONWritable.class);
 
-        MongoConfigUtil.setReducer(conf, ColomboReducer2.class);
+        MongoConfigUtil.setReducer(conf, QueryReducer.class);
         MongoConfigUtil.setOutputKey(conf, Text.class);
         MongoConfigUtil.setOutputValue(conf, BSONWritable.class);
         
         MongoConfigUtil.setInputURI(conf, "mongodb://192.168.56.90:27017/hammer.dataset");
-        MongoConfigUtil.setOutputURI(conf, "mongodb://192.168.56.90:27017/hammer." + conf.get("query-table"));
-
-//        MongoConfigUtil.setInputURI(conf, "mongodb://hammerdb-instance-1:27017/hammer.dataset");
-//        MongoConfigUtil.setOutputURI(conf, "mongodb://hammerdb-instance-1:27017/hammer." + conf.get("query-table"));
+        MongoConfigUtil.setOutputURI(conf, "mongodb://192.168.56.90:27017/hammer." + conf.get("resource-table"));
 
         MongoClient mongo = null;
         MongoDatabase db = null;
@@ -56,7 +53,7 @@ public class ColomboQueryConfig extends MongoTool {
         	MongoClientURI outputURI = MongoConfigUtil.getOutputURI(conf);
 			mongo = new MongoClient(outputURI);
 			db =  mongo.getDatabase(outputURI.getDatabase());
-			System.out.println("COLOMBO Create temp table " + outputURI.getCollection());
+			System.out.println("COLOMBO QUERY Create temp table " + outputURI.getCollection());
 			if(db.getCollection(outputURI.getCollection()) == null) {
 				db.createCollection(outputURI.getCollection());
 			}

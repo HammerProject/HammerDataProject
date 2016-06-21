@@ -11,7 +11,6 @@ import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.mapreduce.JobContext;
 import org.apache.hadoop.mapreduce.OutputCommitter;
 import org.apache.hadoop.mapreduce.TaskAttemptContext;
-import org.hammer.isabella.query.QueryGraph;
 
 import com.mongodb.BasicDBObject;
 import com.mongodb.DBCollection;

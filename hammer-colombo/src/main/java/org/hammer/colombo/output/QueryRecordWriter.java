@@ -19,15 +19,15 @@ import com.mongodb.hadoop.output.MongoOutputCommitter;
 
 /**
  * 
- * Colombo Record Writer
+ * Query Record Writer
  * 
  * @author mauro.pelucchi@gmail.com
  * @project Hammer-Project - Pinta
  *
  */
-public class ColomboRecordWriter extends RecordWriter<Text, BSONWritable> {
+public class QueryRecordWriter extends RecordWriter<Text, BSONWritable> {
 
-	private static final Log LOG = LogFactory.getLog(ColomboRecordWriter.class);
+	private static final Log LOG = LogFactory.getLog(QueryRecordWriter.class);
 	private final DBCollection collection;
 	private final TaskAttemptContext context;
 	private final BSONWritable bsonWritable;
@@ -38,17 +38,17 @@ public class ColomboRecordWriter extends RecordWriter<Text, BSONWritable> {
      * @param c a DBCollection
      * @param ctx the TaskAttemptContext
      */
-    public ColomboRecordWriter(final DBCollection c, final TaskAttemptContext ctx) {
+    public QueryRecordWriter(final DBCollection c, final TaskAttemptContext ctx) {
         collection = c;
         context = ctx;
         bsonWritable = new BSONWritable();
         try {
             FileSystem fs = FileSystem.get(ctx.getConfiguration());
             Path outputPath = MongoOutputCommitter.getTaskAttemptPath(ctx);
-            LOG.info("COLOMBO Writing to temporary file: " + outputPath.toString());
+            LOG.info("COLOMBO QUERY Writing to temporary file: " + outputPath.toString());
             outputStream = fs.create(outputPath, true);
         } catch (IOException e) {
-            LOG.error("COLOMBO  Could not open temporary file for buffering Mongo output", e);
+            LOG.error("COLOMBO QUERY  Could not open temporary file for buffering Mongo output", e);
         }
     }
 
