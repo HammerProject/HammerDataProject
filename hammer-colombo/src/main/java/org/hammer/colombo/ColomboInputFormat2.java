@@ -12,40 +12,44 @@ import org.apache.hadoop.mapreduce.JobContext;
 import org.apache.hadoop.mapreduce.RecordReader;
 import org.apache.hadoop.mapreduce.TaskAttemptContext;
 import org.bson.BSONObject;
-import org.hammer.colombo.splitter.QueryRecordReader;
-import org.hammer.colombo.splitter.QuerySplit;
-import org.hammer.colombo.splitter.QuerySplitter;
+import org.hammer.colombo.splitter.ColomboRecordReader;
+import org.hammer.colombo.splitter.DataSetSplit;
 
 import com.mongodb.hadoop.splitter.MongoSplitter;
+import com.mongodb.hadoop.splitter.MongoSplitterFactory;
 import com.mongodb.hadoop.splitter.SplitFailedException;
 
 /**
  * 
- * Colombo Query Input Format
+ * Colombo Input Format 2 version
  * 
  * @author mauro.pelucchi@gmail.com
  * @project Hammer-Project - Colombo
  *
  */
-public class ColomboQueryInputFormat extends InputFormat<Object, BSONObject> {
+public class ColomboInputFormat2 extends InputFormat<Object, BSONObject> {
 
-    private static final Log LOG = LogFactory.getLog(ColomboQueryInputFormat.class);
+    private static final Log LOG = LogFactory.getLog(ColomboInputFormat2.class);
 
 	public RecordReader<Object, BSONObject> createRecordReader(final InputSplit split, final TaskAttemptContext context) {
-        if (!(split instanceof QuerySplit)) {
-            throw new IllegalStateException("Creation of a new RecordReader requires a QuerySplit instance.");
+        if (!(split instanceof DataSetSplit)) {
+            throw new IllegalStateException("Creation of a new RecordReader requires a DataSetSplit instance.");
         }
-        System.out.println("COLOMBO get query for " + ((QuerySplit) split).getKeywords());
-        final QuerySplit mis = (QuerySplit) split;
-        RecordReader<Object, BSONObject> t = new QueryRecordReader(mis);		
+        System.out.println("COLOMBO get record for " + ((DataSetSplit) split).getUrl());
+        final DataSetSplit mis = (DataSetSplit) split;
+        RecordReader<Object, BSONObject> t = new ColomboRecordReader(mis);		
         return t;
     }
 
     public List<InputSplit> getSplits(final JobContext context) throws IOException {
     	System.out.println(context.getClass().toString());
+        final Configuration conf = context.getConfiguration();
+
+
+
         try {
-            MongoSplitter splitterImpl = new QuerySplitter();
-            LOG.debug("COLOMBO on MongoDB - Using " + splitterImpl.toString() + " to calculate query splits.");
+            MongoSplitter splitterImpl = MongoSplitterFactory.getSplitter(conf);
+            LOG.debug("COLOMBO on MongoDB - Using " + splitterImpl.toString() + " to calculate splits.");
             return splitterImpl.calculateSplits();
         } catch (SplitFailedException spfe) {
             throw new IOException(spfe);

@@ -14,24 +14,24 @@ import com.mongodb.hadoop.util.MongoConfigUtil;
 import com.mongodb.hadoop.util.MongoTool;
 
 /**
- * Config
+ * Config 2 version
  * 
  * @author mauro.pelucchi@gmail.com
  * @project Hammer Project -Colombo
  *
  */
-public class ColomboConfig extends MongoTool {
+public class ColomboConfig2 extends MongoTool {
 
 	
-	public ColomboConfig() {
+	public ColomboConfig2() {
         this(new Configuration());
     }
 
-    public ColomboConfig(final Configuration conf) {
+    public ColomboConfig2(final Configuration conf) {
         setConf(conf);
         
         
-        MongoConfigUtil.setInputFormat(conf, ColomboInputFormat.class);
+        MongoConfigUtil.setInputFormat(conf, ColomboInputFormat2.class);
         MongoConfigUtil.setOutputFormat(conf, ColomboOutputFormat.class);
         
         
@@ -44,12 +44,8 @@ public class ColomboConfig extends MongoTool {
         MongoConfigUtil.setOutputKey(conf, Text.class);
         MongoConfigUtil.setOutputValue(conf, BSONWritable.class);
         
-        MongoConfigUtil.setInputURI(conf, "mongodb://192.168.56.90:27017/hammer.dataset");
-        
+        MongoConfigUtil.setInputURI(conf, "mongodb://192.168.56.90:27017/hammer." + conf.get("resource-table"));
         MongoConfigUtil.setOutputURI(conf, "mongodb://192.168.56.90:27017/hammer." + conf.get("query-table"));
-
-//        MongoConfigUtil.setInputURI(conf, "mongodb://hammerdb-instance-1:27017/hammer.dataset");
-//        MongoConfigUtil.setOutputURI(conf, "mongodb://hammerdb-instance-1:27017/hammer." + conf.get("query-table"));
 
         MongoClient mongo = null;
         MongoDatabase db = null;
