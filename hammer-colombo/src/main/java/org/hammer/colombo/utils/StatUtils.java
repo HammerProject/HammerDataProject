@@ -217,6 +217,8 @@ public class StatUtils {
 			db.getCollection(conf.get("list-result")).deleteOne(doc);
 			db.getCollection(conf.get("list-result")).insertOne(doc);
 
+			
+			
 		} catch (Exception ex) {
 			LOG.error(ex);
 			ex.printStackTrace();

@@ -94,6 +94,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 
 				count++;
 			}
+			
 
 			// save the stat
 			BSONObject statObj = new BasicBSONObject();

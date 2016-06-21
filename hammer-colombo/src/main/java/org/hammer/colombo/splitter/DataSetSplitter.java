@@ -123,7 +123,7 @@ public class DataSetSplitter extends MongoSplitter {
 		// recursive call
 		ArrayList<String[]> optionsList = new ArrayList<String[]>();
 		ArrayList<ArrayList<String[]>> cases = new ArrayList<ArrayList<String[]>>();
-
+		
 		// calculate all the combination
 		RecursiveString.Recurse(optionsList, similarity, 0, cases);
 		LOG.info("--- FUZZY SEARCH QUERY --> " + cases.size());
@@ -215,8 +215,8 @@ public class DataSetSplitter extends MongoSplitter {
 		statObj.put("type", "stat");
 		statObj.put("record-total", 0);
 		statObj.put("record-selected", 0);
-		statObj.put("resource-count", 0);
-		statObj.put("size",  dataSet.size());
+		statObj.put("resource-count", dataSet.size());
+		statObj.put("size",  0);
 		statObj.put("fuzzy-query", 0);
 		StatUtils.SaveStat(this.getConfiguration(), statObj);
 		//
