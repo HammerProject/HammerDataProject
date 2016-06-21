@@ -13,26 +13,16 @@ import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.mapreduce.InputSplit;
 import org.bson.BSONObject;
 import org.bson.BasicBSONObject;
-import org.bson.Document;
 import org.hammer.colombo.utils.RecursiveString;
-import org.hammer.colombo.utils.SocrataUtils;
 import org.hammer.colombo.utils.StatUtils;
 import org.hammer.isabella.cc.Isabella;
 import org.hammer.isabella.cc.ParseException;
-import org.hammer.isabella.cc.util.QueryGraphCloner;
 import org.hammer.isabella.fuzzy.JaroWinkler;
 import org.hammer.isabella.query.IsabellaError;
 import org.hammer.isabella.query.Keyword;
 import org.hammer.isabella.query.QueryGraph;
 
-import com.mongodb.BasicDBList;
-import com.mongodb.BasicDBObject;
-import com.mongodb.Block;
-import com.mongodb.MongoClient;
 import com.mongodb.MongoClientURI;
-import com.mongodb.client.FindIterable;
-import com.mongodb.client.MongoCollection;
-import com.mongodb.client.MongoDatabase;
 import com.mongodb.hadoop.splitter.MongoSplitter;
 import com.mongodb.hadoop.splitter.SplitFailedException;
 import com.mongodb.hadoop.util.MongoConfigUtil;
@@ -72,8 +62,7 @@ public class QuerySplitter extends MongoSplitter {
 		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex(getConfiguration());
 		LOG.info("---> Calculate INPUTSPLIT FOR QUERY");
 		MongoClientURI inputURI = MongoConfigUtil.getInputURI(getConfiguration());
-		List<InputSplit> splits = new ArrayList<InputSplit>();
-		LOG.debug("---> Colombo calculating splits for " + inputURI);
+		LOG.debug("---> Colombo Query calculating splits for " + inputURI);
 		float thSim = Float.parseFloat(getConfiguration().get("thSim"));
 		// create my query graph object
 		// System.out.println(query);
@@ -129,16 +118,12 @@ public class QuerySplitter extends MongoSplitter {
 
 		
 		// qSplit is the list of all query for fuzzy search
-		// the key of the list is a string corresponds to the keywords
-		// so we remove the duplicate query!
-		// also we have the keywords to operate the fuzzy search the the funcion
-		// getList
-		HashMap<String, QuerySplit> qSplit = new HashMap<String, QuerySplit>();
+		List< InputSplit> qSplit = new ArrayList< InputSplit>();
 		// first we add the original query
 		QuerySplit qOne = new QuerySplit();
 		qOne.setKeywords(keywords);
 		qOne.setQueryString(getConfiguration().get("query-string"));
-		qSplit.put(keywords, qOne);
+		qSplit.add(qOne);
 
 		for (int i = 0; i < cases.size(); i++) {
 			LOG.debug("----> Query case " + (i + 1) + ": ");
@@ -151,7 +136,7 @@ public class QuerySplitter extends MongoSplitter {
 			QuerySplit newQ = new QuerySplit();
 			qOne.setKeywords(keywordsCase);
 			qOne.setQueryString(newQuery);
-			qSplit.put(keywordsCase, newQ);
+			qSplit.add( newQ);
 		}
 
 		LOG.info("------------------------------------------------------");
@@ -177,7 +162,7 @@ public class QuerySplitter extends MongoSplitter {
 		StatUtils.SaveStat(this.getConfiguration(), statObj);
 
 
-		return qSplit.values().;
+		return qSplit;
 
 	}
 
