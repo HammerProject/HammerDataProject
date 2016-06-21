@@ -46,15 +46,15 @@ import com.mongodb.BasicDBList;
 
 
 /**
- * Colombo record reader
+ * Query record reader
  * 
  * @author mauro.pelucchi@gmail.com
  * @project Hammer Project -Colombo
  *
  */
-public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
+public class QueryRecordReader extends RecordReader<Object, BSONObject> {
 
-	private static final Log LOG = LogFactory.getLog(ColomboRecordReader.class);
+	private static final Log LOG = LogFactory.getLog(QueryRecordReader.class);
 
 	protected BSONObject current;
 	protected final DataSetSplit split;
@@ -63,7 +63,7 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 	protected int socrataRecordLimit = 0;
 	protected Configuration conf = null;
 
-	public ColomboRecordReader(final DataSetSplit split) {
+	public QueryRecordReader(final DataSetSplit split) {
 		this.split = split;
 	}
 
