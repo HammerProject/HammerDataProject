@@ -16,13 +16,13 @@
 // in East-Aprifca
 // from africaopendata.org 
 //
-// FUZZY!
+// FUZZY QUERY!
 //
 //
 // SQL
-// SELECT updated, county, location, under_weight_3_sd, stuting_3_sd, wasting_3_sd
-// FROM nutrition
-// WHERE county = "Turkana" or county = "Kenya Average"
+// SELECT updated, county1, location, under_weight_3_sd, stuting_3_sd, wasting_3_sd
+// FROM nutrition_child
+// WHERE county1 = "Turkana" or county1 = "Kenya Average"
 
 {
   "select": [
@@ -59,8 +59,8 @@
 // (updated 15/5/2016 22:30)
 //
 // Selected keywords
-// ----> nutrition
-// ----> county
+// ----> nutrition_child --> nutrition
+// ----> county1 --> county
 // ----> wasting_3_sd
 // ----> stuting_3_sd
 // ----> under_weight_3_sd
@@ -69,18 +69,6 @@
 
 //
 // 
-// Resources (distinct) --> 1
+// Resources (distinct) --> 74
+// Record find --> 6
 //
-// All labels
-// 
-// ----> nutrition
-// ----> updated
-// ----> county
-// ----> location
-// ----> under_weight_3_sd
-// ----> stuting_3_sd
-// ----> wasting_3_sd
-// ----> Turkana
-// ----> Kenya Average
-// 
-// Resources (distinct) --> 13
