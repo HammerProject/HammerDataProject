@@ -184,7 +184,6 @@ public class StatUtils {
 
 		} catch (Exception ex) {
 			LOG.error(ex);
-			ex.printStackTrace();
 		} finally {
 			if (mongo != null) {
 				mongo.close();
@@ -221,7 +220,6 @@ public class StatUtils {
 			
 		} catch (Exception ex) {
 			LOG.error(ex);
-			ex.printStackTrace();
 		} finally {
 			if (mongo != null) {
 				mongo.close();

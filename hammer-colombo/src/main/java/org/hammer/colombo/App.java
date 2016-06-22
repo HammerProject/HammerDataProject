@@ -42,36 +42,51 @@ public class App {
 		System.out.println("!!! Hammer Project !!!");
 		System.out.println("!!! Colombo Module start.....");
 		
-		Configuration conf = new Configuration();
-		new ColomboConfig(conf);
-		conf.set("thesaurus.url", "http://thesaurus.altervista.org/thesaurus/v1");
-		conf.set("thesaurus.key", "bVKAPIcUum3hEFGKEBAu"); // x hammerproject
-		conf.set("thesaurus.lang", "it_IT");
+		Configuration conf1 = new Configuration();
+		Configuration conf2 = new Configuration();
+		new ColomboQueryConfig(conf1);
+		new ColomboConfig(conf2);
+		
+		conf2.set("thesaurus.url", "http://thesaurus.altervista.org/thesaurus/v1");
+		conf2.set("thesaurus.key", "bVKAPIcUum3hEFGKEBAu"); // x hammerproject
+		conf2.set("thesaurus.lang", "it_IT");
 		// insert a limit to socrata recordset for memory heap problem
-		conf.set("socrata.record.limit", "30000");
-		conf.set("mongo.splitter.class", "org.hammer.colombo.splitter.DataSetSplitter2");
-		conf.set("colombo.2phasesplitter", "org.hammer.colombo.splitter.QuerySplitter");
+		conf1.set("socrata.record.limit", "30000");
+		conf2.set("socrata.record.limit", "30000");
+		conf2.set("mongo.splitter.class", "org.hammer.colombo.splitter.DataSetSplitter2");
+		conf1.set("colombo.2phasesplitter", "org.hammer.colombo.splitter.QuerySplitter");
 
 
 		String query = "";
-		conf.set("hdfs-site", "hdfs://192.168.56.90:9000"); //54310???
-		conf.set("download", "hdfs://192.168.56.90:9000/hammer/download");
+		conf1.set("hdfs-site", "hdfs://192.168.56.90:9000"); //54310???
+		conf1.set("download", "hdfs://192.168.56.90:9000/hammer/download");
+		conf2.set("hdfs-site", "hdfs://192.168.56.90:9000"); //54310???
+		conf2.set("download", "hdfs://192.168.56.90:9000/hammer/download");
 		if (fileSystem.equals("hdfs")) {
-			conf.set("query-file", "hdfs://192.168.56.90:9000/hammer/" + fileQuery);
-			query = ReadFileFromHdfs(conf);
+			conf1.set("query-file", "hdfs://192.168.56.90:9000/hammer/" + fileQuery);
+			conf2.set("query-file", "hdfs://192.168.56.90:9000/hammer/" + fileQuery);
+			query = ReadFileFromHdfs(conf1);
 		} else {
-			conf.set("query-file", fileQuery);
+			conf1.set("query-file", fileQuery);
+			conf2.set("query-file", fileQuery);
 			query = IsabellaUtils.readFile(fileQuery);
 		}
 		
 		
 		// set the parameter
-		conf.set("search-mode", searchMode);
-		conf.set("query-mode", queryMode);
-		conf.set("query-string", query);
-		conf.set("thRm", thRm + "");
-		conf.set("thKrm", thKrm + "");
-		conf.set("thSim", thSim + "");
+		conf1.set("search-mode", searchMode);
+		conf1.set("query-mode", queryMode);
+		conf1.set("query-string", query);
+		conf1.set("thRm", thRm + "");
+		conf1.set("thKrm", thKrm + "");
+		conf1.set("thSim", thSim + "");
+		
+		conf2.set("search-mode", searchMode);
+		conf2.set("query-mode", queryMode);
+		conf2.set("query-string", query);
+		conf2.set("thRm", thRm + "");
+		conf2.set("thKrm", thKrm + "");
+		conf2.set("thSim", thSim + "");
 		
 		// check the query
 		Isabella parser = new Isabella(new StringReader(query));
@@ -81,7 +96,7 @@ public class App {
 		} catch (ParseException e) {
 			throw new IOException(e);
 		}
-		q.setIndex(StatUtils.GetMyIndex(conf));
+		q.setIndex(StatUtils.GetMyIndex(conf1));
 
 		for (IsabellaError err : parser.getErrors().values()) {
 			System.out.println(err.toString());
@@ -91,26 +106,33 @@ public class App {
 		}
 		
 		// the the paramter from the query
-		conf.set("query-table", "query" + (q.hashCode() + "").replaceAll("-", "_"));
-		conf.set("list-result", "list" + (q.hashCode() + "").replaceAll("-", "_"));
-		conf.set("resource-table", "resource" + (q.hashCode() + "").replaceAll("-", "_"));
-		conf.set("stat-result", "stat" + (q.hashCode() + "").replaceAll("-", "_"));
-		conf.set("joinCondition", q.getJoinCondition());
+		conf1.set("query-table", "query" + (q.hashCode() + "").replaceAll("-", "_"));
+		conf1.set("list-result", "list" + (q.hashCode() + "").replaceAll("-", "_"));
+		conf1.set("resource-table", "resource" + (q.hashCode() + "").replaceAll("-", "_"));
+		conf1.set("stat-result", "stat" + (q.hashCode() + "").replaceAll("-", "_"));
+		conf1.set("joinCondition", q.getJoinCondition());
+		
+		conf2.set("query-table", "query" + (q.hashCode() + "").replaceAll("-", "_"));
+		conf2.set("list-result", "list" + (q.hashCode() + "").replaceAll("-", "_"));
+		conf2.set("resource-table", "resource" + (q.hashCode() + "").replaceAll("-", "_"));
+		conf2.set("stat-result", "stat" + (q.hashCode() + "").replaceAll("-", "_"));
+		conf2.set("joinCondition", q.getJoinCondition());
+
 		
 		System.out.println("******************************************************************");
 		System.out.println("******************************************************************");
 		System.out.println("******************************************************************");
-		System.out.println("COLOMBO Create temp table " + conf.get("query-table"));
-		System.out.println("COLOMBO Create resources table " + conf.get("resource-table"));
-		System.out.println("COLOMBO Create list resources " + conf.get("list-result"));
-		System.out.println("COLOMBO Create stat output " + conf.get("stat-result"));
+		System.out.println("COLOMBO Create temp table " + conf1.get("query-table"));
+		System.out.println("COLOMBO Create resources table " + conf1.get("resource-table"));
+		System.out.println("COLOMBO Create list resources " + conf1.get("list-result"));
+		System.out.println("COLOMBO Create stat output " + conf1.get("stat-result"));
 		System.out.println("******************************************************************");
 		System.out.println("******************************************************************");
 		System.out.println("******************************************************************");
 		
-		ToolRunner.run(conf, new ColomboQueryConfig(conf), new String[0]);
+		ToolRunner.run(conf1, new ColomboQueryConfig(conf1), new String[0]);
 		
-		ToolRunner.run(conf, new ColomboConfig(conf), new String[0]);
+		ToolRunner.run(conf2, new ColomboConfig(conf2), new String[0]);
 
 	}
 

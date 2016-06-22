@@ -44,7 +44,7 @@ public class ColomboQueryInputFormat extends InputFormat<Object, BSONObject> {
     public List<InputSplit> getSplits(final JobContext context) throws IOException {
     	System.out.println(context.getClass().toString());
         try {
-            MongoSplitter splitterImpl = new QuerySplitter();
+            MongoSplitter splitterImpl = new QuerySplitter(context.getConfiguration());
             LOG.debug("COLOMBO on MongoDB - Using " + splitterImpl.toString() + " to calculate query splits.");
             return splitterImpl.calculateSplits();
         } catch (SplitFailedException spfe) {
