@@ -11,6 +11,9 @@ import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.mapreduce.JobContext;
 import org.apache.hadoop.mapreduce.OutputCommitter;
 import org.apache.hadoop.mapreduce.TaskAttemptContext;
+import org.bson.BSONObject;
+import org.bson.BasicBSONObject;
+import org.hammer.colombo.utils.StatUtils;
 
 import com.mongodb.BasicDBObject;
 import com.mongodb.DBCollection;
@@ -106,6 +109,16 @@ public class QueryOutputCommiter extends OutputCommitter {
 		}
 
 		LOG.info("COLOMBO QUERY INSERT - DATA SET : " + inserted);
+
+		// save the stat
+		BSONObject statObj = new BasicBSONObject();
+		statObj.put("type", "stat");
+		statObj.put("record-total", 0);
+		statObj.put("record-selected", 0);
+		statObj.put("resource-count", inserted);
+		statObj.put("size", 0);
+		statObj.put("fuzzy-query", 0);
+		StatUtils.SaveStat(taskContext.getConfiguration(), statObj);
 
 		cleanupAfterCommit(inputStream, taskContext);
 	}
