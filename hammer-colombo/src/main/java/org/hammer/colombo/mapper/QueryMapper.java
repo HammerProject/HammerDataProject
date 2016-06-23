@@ -234,7 +234,7 @@ public class QueryMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 			BasicDBList rSet = new BasicDBList();
 			HashMap<String, Float> krmMap = new HashMap<String, Float>();
 
-			LOG.debug("Get resources and calc krm....");
+			LOG.info("Get resources and calc krm....");
 			for (ArrayList<String> listId : kwFinded.values()) {
 				for (String key : listId) {
 					float found = 0;
@@ -247,6 +247,7 @@ public class QueryMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 					//
 					// if krm >= th ok!!!
 					//
+					LOG.info(krm + " >= " + thKrm);
 					if (krm >= thKrm) {
 						BasicDBObject temp = new BasicDBObject("_id", key);
 						if (!krmMap.containsKey(key)) {
@@ -308,9 +309,12 @@ public class QueryMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 			//
 			for (String documentKey : krmMap.keySet()) {
 				float krm = krmMap.get(documentKey);
+				
 				float sdf = (sdfMap.containsKey(documentKey)) ? sdfMap.get(documentKey) : 0.0f;
+				LOG.info("sdf " + sdf);
 				float rm = ((1.0f - 0.6f) * krm) + (0.6f * sdf);
 				rmMap.put(documentKey, rm);
+				LOG.info("RM:" + rm + ">=" + thRm);
 				if (rm >= thRm) {
 					BasicDBObject temp = new BasicDBObject("_id", documentKey);
 					idSet.add(temp);

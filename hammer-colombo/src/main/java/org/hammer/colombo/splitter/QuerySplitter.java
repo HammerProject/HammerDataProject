@@ -134,8 +134,8 @@ public class QuerySplitter extends MongoSplitter {
 			}
 			String newQuery = getQuery(getConfiguration().get("query-string"), cases.get(i));
 			QuerySplit newQ = new QuerySplit();
-			qOne.setKeywords(keywordsCase);
-			qOne.setQueryString(newQuery);
+			newQ.setKeywords(keywordsCase);
+			newQ.setQueryString(newQuery);
 			qSplit.add( newQ);
 		}
 
