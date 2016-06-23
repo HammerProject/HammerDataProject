@@ -9,6 +9,7 @@ import org.apache.hadoop.mapreduce.InputSplit;
 import org.apache.hadoop.mapreduce.RecordReader;
 import org.apache.hadoop.mapreduce.TaskAttemptContext;
 import org.bson.BSONObject;
+import org.bson.BasicBSONObject;
 
 
 /**
@@ -52,7 +53,10 @@ public class QueryRecordReader extends RecordReader<Object, BSONObject> {
 	public void initialize(final InputSplit split, final TaskAttemptContext context) {
 		LOG.info("COLOMBO QUERY RECORD READER: Get QUERY");
 		this.conf = context.getConfiguration();
-
+		BasicBSONObject bObj = new BasicBSONObject();
+		bObj.append("keywords", this.split.getKeywords());
+		bObj.append("queryString", this.split.getQueryString());
+		this.current = bObj;
 		this.seen = 0;
 		this.total = 1;
 
