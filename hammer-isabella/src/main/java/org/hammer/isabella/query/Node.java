@@ -95,6 +95,7 @@ public class Node implements Leaf, IDataType, Serializable {
 		} else if (this.simName != null) {
 			System.out.println(" not found !!! " + this.simName.toString());
 			this.reScore = index.get(this.simName.toLowerCase()).getReScore();
+			this.name = this.simName.toLowerCase();
 		} else {
 			// System.out.println(" not found !!! " +
 			// this.getName().toString());

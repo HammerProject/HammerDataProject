@@ -60,10 +60,10 @@ public class QueryMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 	@Override
 	public void map(final Object pKey, final BSONObject pValue, final Context pContext)
 			throws IOException, InterruptedException {
-		LOG.debug("START COLOMBO QUERY MAPPER " + pKey + " --- " + pValue);
+		LOG.info("START COLOMBO QUERY MAPPER " + pKey + " --- " + pValue);
 
 		if (pValue != null) {
-			LOG.debug("START COLOMBO MAPPER - Dataset " + pKey + " --- " + pValue.hashCode());
+			LOG.info("START COLOMBO MAPPER - Dataset " + pKey + " --- " + pValue.hashCode());
 			// get the query string from pValue
 			String queryString = (String) pValue.get("queryString");
 			Isabella parser = new Isabella(new StringReader(queryString));
@@ -194,7 +194,7 @@ public class QueryMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 
 			// search the keywords on my index
 			BasicDBObject searchQuery = new BasicDBObject("$or", or);
-			LOG.debug("Colombo gets data set from database..." + searchQuery.toString());
+			LOG.info("Colombo gets data set from database..." + searchQuery.toString());
 
 			FindIterable<Document> indexS = index.find(searchQuery);
 
