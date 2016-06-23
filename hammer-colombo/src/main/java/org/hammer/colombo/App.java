@@ -132,7 +132,7 @@ public class App {
 		
 		ToolRunner.run(conf1, new ColomboQueryConfig(conf1), new String[0]);
 		
-		ToolRunner.run(conf2, new ColomboConfig(conf2), new String[0]);
+		//ToolRunner.run(conf2, new ColomboConfig(conf2), new String[0]);
 
 	}
 
