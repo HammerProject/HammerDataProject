@@ -4,12 +4,8 @@ import java.io.IOException;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
-import org.bson.BSONObject;
-import org.bson.BasicBSONObject;
-import org.hammer.colombo.utils.StatUtils;
 
 import com.mongodb.hadoop.io.BSONWritable;
 
