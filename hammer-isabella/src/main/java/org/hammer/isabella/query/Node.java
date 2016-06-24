@@ -7,6 +7,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.SortedMap;
 
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
 import org.hammer.isabella.fuzzy.JaroWinkler;
 
 /**
@@ -18,6 +20,7 @@ import org.hammer.isabella.fuzzy.JaroWinkler;
  */
 public class Node implements Leaf, IDataType, Serializable {
 
+	private static final Log LOG = LogFactory.getLog(Node.class);
 	/**
 	 * 
 	 */
@@ -56,13 +59,21 @@ public class Node implements Leaf, IDataType, Serializable {
 		if (this.simName == null && !this.name.equals("Q") && !this.name.equals("?") && !this.name.equals("*")) {
 			for (String s : index.keySet()) {
 				double sim = JaroWinkler.Apply(this.name.toLowerCase(), s.toLowerCase());
+				// avg the value of sim with the value of re
+				// we want to give more importance to terms that are more
+				// representative of our index
+				double re = index.get(s).getReScore();
+				sim = (sim + re) / 2.0d;
+				
 				if (sim > 0) {
+
+					
 					Keyword k = index.get(s).clone();
 					k.setSimilarity(sim);
 					this.similatirySet.add(k);
 					this.similatirySet.sort(cmp);
 					this.simName = this.similatirySet.get(0).getKeyword();
-
+					
 				}
 			}
 			
@@ -95,10 +106,12 @@ public class Node implements Leaf, IDataType, Serializable {
 		} else if (this.simName != null) {
 			System.out.println(" not found !!! " + this.simName.toString());
 			this.reScore = index.get(this.simName.toLowerCase()).getReScore();
+			// take the value of most sim terms and replace the label of the query
+			// in other terms we modify the original graph with a graph "fitted" with 
+			// our index
 			this.name = this.simName.toLowerCase();
 		} else {
-			// System.out.println(" not found !!! " +
-			// this.getName().toString());
+			LOG.debug(" not found !!! " + this.getName().toString());
 			this.reScore = 0.0f;
 			this.riScore = 0.0f;
 		}
