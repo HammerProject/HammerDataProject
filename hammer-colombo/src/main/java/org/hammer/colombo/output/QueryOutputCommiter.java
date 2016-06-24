@@ -113,9 +113,9 @@ public class QueryOutputCommiter extends OutputCommitter {
 		// save the stat
 		BSONObject statObj = new BasicBSONObject();
 		statObj.put("type", "stat");
-		statObj.put("record-total", 0);
+		statObj.put("record-total", inserted);
 		statObj.put("record-selected", 0);
-		statObj.put("resource-count", inserted);
+		statObj.put("resource-count", 0);
 		statObj.put("size", 0);
 		statObj.put("fuzzy-query", 0);
 		StatUtils.SaveStat(taskContext.getConfiguration(), statObj);
