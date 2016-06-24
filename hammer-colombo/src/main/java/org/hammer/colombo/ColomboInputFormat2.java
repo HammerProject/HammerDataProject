@@ -14,9 +14,9 @@ import org.apache.hadoop.mapreduce.TaskAttemptContext;
 import org.bson.BSONObject;
 import org.hammer.colombo.splitter.ColomboRecordReader;
 import org.hammer.colombo.splitter.DataSetSplit;
+import org.hammer.colombo.splitter.DataSetSplitter2;
 
 import com.mongodb.hadoop.splitter.MongoSplitter;
-import com.mongodb.hadoop.splitter.MongoSplitterFactory;
 import com.mongodb.hadoop.splitter.SplitFailedException;
 
 /**
@@ -35,20 +35,16 @@ public class ColomboInputFormat2 extends InputFormat<Object, BSONObject> {
         if (!(split instanceof DataSetSplit)) {
             throw new IllegalStateException("Creation of a new RecordReader requires a DataSetSplit instance.");
         }
-        System.out.println("COLOMBO get record for " + ((DataSetSplit) split).getUrl());
+        LOG.info("COLOMBO get record for " + ((DataSetSplit) split).getUrl());
         final DataSetSplit mis = (DataSetSplit) split;
         RecordReader<Object, BSONObject> t = new ColomboRecordReader(mis);		
         return t;
     }
 
     public List<InputSplit> getSplits(final JobContext context) throws IOException {
-    	System.out.println(context.getClass().toString());
-        final Configuration conf = context.getConfiguration();
-
-
-
+    	LOG.debug(context.getClass().toString());
         try {
-            MongoSplitter splitterImpl = MongoSplitterFactory.getSplitter(conf);
+            MongoSplitter splitterImpl = new DataSetSplitter2(context.getConfiguration());
             LOG.debug("COLOMBO on MongoDB - Using " + splitterImpl.toString() + " to calculate splits.");
             return splitterImpl.calculateSplits();
         } catch (SplitFailedException spfe) {

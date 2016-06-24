@@ -45,7 +45,7 @@ public class App {
 		Configuration conf1 = new Configuration();
 		Configuration conf2 = new Configuration();
 		new ColomboQueryConfig(conf1);
-		new ColomboConfig(conf2);
+		new ColomboConfig2(conf2);
 		
 		conf2.set("thesaurus.url", "http://thesaurus.altervista.org/thesaurus/v1");
 		conf2.set("thesaurus.key", "bVKAPIcUum3hEFGKEBAu"); // x hammerproject
@@ -53,9 +53,6 @@ public class App {
 		// insert a limit to socrata recordset for memory heap problem
 		conf1.set("socrata.record.limit", "30000");
 		conf2.set("socrata.record.limit", "30000");
-		conf2.set("mongo.splitter.class", "org.hammer.colombo.splitter.DataSetSplitter2");
-		conf1.set("colombo.2phasesplitter", "org.hammer.colombo.splitter.QuerySplitter");
-
 
 		String query = "";
 		conf1.set("hdfs-site", "hdfs://192.168.56.90:9000"); //54310???
@@ -130,9 +127,12 @@ public class App {
 		System.out.println("******************************************************************");
 		System.out.println("******************************************************************");
 		
+		// 1phase MapReduce --> calc the fuzzy-query list and populate the resource-table
 		ToolRunner.run(conf1, new ColomboQueryConfig(conf1), new String[0]);
 		
-		//ToolRunner.run(conf2, new ColomboConfig(conf2), new String[0]);
+		// 2phase MapReduce --> download the resource-table, apply the selection model (with fuzzy logic)
+		// and return the record in query-table
+		ToolRunner.run(conf2, new ColomboConfig2(conf2), new String[0]);
 
 	}
 

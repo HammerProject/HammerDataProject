@@ -60,7 +60,7 @@ public class DataSetSplitter2 extends MongoSplitter {
 		LOG.info("---> Calculate INPUTSPLIT FOR DATASET - 2phase");
 		MongoClientURI inputURI = MongoConfigUtil.getInputURI(getConfiguration());
 		List<InputSplit> splits = new ArrayList<InputSplit>();
-		LOG.debug("---> Colombo calculating splits for - 2phase" + inputURI);
+		LOG.info("---> Colombo calculating splits for - 2phase" + inputURI);
 
 		// get the resource from db
 		Map<String, Document> dataSet = new HashMap<String, Document>();
