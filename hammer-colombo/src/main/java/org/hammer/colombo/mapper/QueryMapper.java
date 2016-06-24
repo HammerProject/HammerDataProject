@@ -346,7 +346,9 @@ public class QueryMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 
 			// before return split check socrata case
 			for (Document doc : rmList) {
-
+				doc.append("rm", rmMap.get(doc.get("_id")));
+				doc.append("krm", krmMap.get(doc.get("_id")));
+				
 				// if socrata split in set by 5000 record
 				if (doc.containsKey("datainput_type") && doc.get("datainput_type")
 						.equals("org.hammer.santamaria.mapper.dataset.SocrataDataSetInput")) {
@@ -365,7 +367,6 @@ public class QueryMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 										doc.getString("url"), offset, 1000, socrataQuery);
 								tempDoc.replace("url", tempUrl);
 								tempDoc.replace("_id", doc.get("_id") + "_" + offset);
-								returnList.add(tempDoc);
 								// save stat
 								StatUtils.UpdateResultList(conf, tempDoc);
 								offset = offset + 1000;

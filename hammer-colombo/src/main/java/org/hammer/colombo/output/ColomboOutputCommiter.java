@@ -163,7 +163,7 @@ public class ColomboOutputCommiter extends OutputCommitter {
 						LOG.info(en.getName().toLowerCase() + " -- " + column.toLowerCase());
 						LOG.info(ch.getName().toLowerCase() + " -- " + value);
 
-						if (sim > thSim) {
+						if (sim >= thSim) {
 							c--;
 							if (en.getOperator().equals("eq") && !ch.getName().toLowerCase().equals(value)) {
 								check = false;

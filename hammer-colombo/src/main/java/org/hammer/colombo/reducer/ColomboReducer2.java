@@ -132,7 +132,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 
 						double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
 						LOG.info("ok" + sim);
-						if (sim > thSim) {
+						if (sim >= thSim) {
 							LOG.info("ok" + sim);
 							if (en.getOperator().equals("eq") && ch.getName().toLowerCase().equals(value)) {
 								c = true;
