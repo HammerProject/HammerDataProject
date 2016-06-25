@@ -49,7 +49,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 
 	private Configuration conf = null;
 	private QueryGraph q = null;
-	private float thSim = 0.0f;
+	private double thSim = 0.0f;
 
 	@Override
 	protected void setup(Reducer<Text, BSONWritable, Text, BSONWritable>.Context context)
@@ -133,7 +133,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 						double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
 						LOG.info("test " + sim + ">=" + thSim);
 						if (sim >= thSim) {
-							LOG.info("ok" --> " + sim);
+							LOG.info("ok --> " + sim);
 							LOG.info("check  --> " + ch.getName().toLowerCase().compareTo(value));
 							if (en.getOperator().equals("eq") && ch.getName().toLowerCase().equals(value)) {
 								c = true;
