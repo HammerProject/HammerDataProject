@@ -113,14 +113,6 @@ public class DataSetSplitter2 extends MongoSplitter {
 		}
 
 		LOG.info("!!!!! FUZZY SEARCH has found " + dataSet.size() + " RESOURCES !!!!!");
-		BSONObject statObj = new BasicBSONObject();
-		statObj.put("type", "stat");
-		statObj.put("record-total", 0);
-		statObj.put("record-selected", 0);
-		statObj.put("resource-count", dataSet.size());
-		statObj.put("size",  0);
-		statObj.put("fuzzy-query", 0);
-		StatUtils.SaveStat(this.getConfiguration(), statObj);
 		
 
 		return splits;

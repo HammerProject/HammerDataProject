@@ -102,7 +102,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 			statObj.put("type", "stat");
 			statObj.put("record-total", record);
 			statObj.put("record-selected", selectedRecord);
-			statObj.put("resource-count", count);
+			statObj.put("resource-count", 0);
 			statObj.put("size", size);
 			statObj.put("fuzzy-query", 0);
 			StatUtils.SaveStat(this.conf, statObj);
