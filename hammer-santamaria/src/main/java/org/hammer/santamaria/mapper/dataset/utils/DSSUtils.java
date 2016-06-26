@@ -20,7 +20,6 @@ import org.hammer.santamaria.utils.HtmlUtils;
 import com.mongodb.BasicDBObject;
 import com.mongodb.util.JSON;
 
-
 /**
  * DSS Utils tool kit
  * 
@@ -34,7 +33,7 @@ public class DSSUtils {
 	 * LIMIT per input stream size to 1 MB to prevent heap size problem
 	 */
 	private static final int LIMIT = 1024 * 1024;// set to 1MB
-	
+
 	private static final Log LOG = LogFactory.getLog(DSSUtils.class);
 
 	/**
@@ -44,48 +43,54 @@ public class DSSUtils {
 	 * @return
 	 */
 	public static DSS CheckDSSByMeta(ArrayList<String> meta) {
-		if(meta == null) {
+		if (meta == null) {
 			return DSS.UNDEFINED;
 		}
-		if((meta.size() == 2)&&(meta.contains("dataset_id"))&&(meta.contains("data"))) {
+		if ((meta.size() == 2) && (meta.contains("dataset_id")) && (meta.contains("data"))) {
 			return DSS.ALBANO_LAZIALE;
 		}
-		if((meta.size() == 2)&&(meta.contains("meta"))&&(meta.contains("data"))) {
+		if ((meta.size() == 2) && (meta.contains("meta")) && (meta.contains("data"))) {
 			return DSS.OPENAFRICA_ORG;
 		}
-		
+
 		return DSS.UNDEFINED;
 	}
-	
+
 	/**
 	 * Extract keywords from text
 	 * 
 	 * @param text
 	 * @return
 	 */
-	public static ArrayList<String> GetKeyWordsFromText(String myText){
+	public static ArrayList<String> GetKeyWordsFromText(String myText) {
 		String text = HtmlUtils.sanitize(myText);
 		ArrayList<String> myKeys = new ArrayList<String>();
-		if(text == null) {
+		if (text == null) {
 			return myKeys;
 		}
+
 		StringTokenizer st = new StringTokenizer(text, " ");
-		
+
 		while (st.hasMoreElements()) {
 			String tW = st.nextToken();
 			StringTokenizer st1 = new StringTokenizer(tW, "-.,!_");
 			while (st1.hasMoreElements()) {
 				String word = st1.nextToken();
-				if(word.length() >= 3) {
+				if (word.length() >= 3) {
+					word = word.replaceAll("[^a-zA-Z0-9]", "");
 					myKeys.add(word.toLowerCase());
 				}
 			}
 		}
-		
+
+		if (LOG.isDebugEnabled()) {
+			for (String t : myKeys) {
+				LOG.info(t + " --- ");
+			}
+		}
 		return myKeys;
 	}
-	
-	
+
 	/**
 	 * Return meta from a resource
 	 * 
@@ -153,6 +158,7 @@ public class DSSUtils {
 
 			if (temp != null) {
 				for (String metaKey : temp.keySet()) {
+					metaKey = metaKey.replaceAll("[^a-zA-Z0-9]", "");
 					if (!meta.contains(metaKey.toLowerCase())) {
 						meta.add(metaKey.toLowerCase());
 					}
@@ -160,8 +166,10 @@ public class DSSUtils {
 			}
 
 			LOG.info("CHECK DSS by META ");
-			for (String t : meta) {
-				LOG.info(t + " --- ");
+			if (LOG.isDebugEnabled()) {
+				for (String t : meta) {
+					LOG.info(t + " --- ");
+				}
 			}
 			DSS dss = DSSUtils.CheckDSSByMeta(meta);
 			if (dss.equals(DSS.ALBANO_LAZIALE)) {
@@ -170,27 +178,34 @@ public class DSSUtils {
 					temp = (BSONObject) pList.get(0);
 					meta = new ArrayList<String>();
 					for (String metaKey : temp.keySet()) {
+						metaKey = metaKey.replaceAll("[^a-zA-Z0-9]", "");
 						if (!meta.contains(metaKey.toLowerCase())) {
 							meta.add(metaKey.toLowerCase());
 						}
 					}
 				}
 				LOG.info("ALBANO LAZ. - CHECK DSS by META ");
-				for (String t : meta) {
-					LOG.debug(t + " --- ");
+				if (LOG.isDebugEnabled()) {
+					for (String t : meta) {
+						LOG.debug(t + " --- ");
+					}
 				}
 			} else if (dss.equals(DSS.OPENAFRICA_ORG)) {
-				pList = (BasicBSONList) ( (BSONObject) ((BSONObject) temp.get("meta")).get("view")).get("columns");
+				pList = (BasicBSONList) ((BSONObject) ((BSONObject) temp.get("meta")).get("view")).get("columns");
 				meta = new ArrayList<String>();
-				for(Object obj : pList) {
+				for (Object obj : pList) {
 					BasicBSONObject pObj = (BasicBSONObject) obj;
 					if (pObj.containsField("fieldName")) {
-						meta.add(pObj.getString("fieldName").toLowerCase().replaceAll(":", ""));
+						String metaKey = pObj.getString("fieldName").toLowerCase().replaceAll(":", "");
+						metaKey = metaKey.replaceAll("[^a-zA-Z0-9]", "");
+						meta.add(metaKey);
 					}
 				}
 				LOG.info("OPENAFRICA - CHECK DSS by META ");
-				for (String t : meta) {
-					LOG.debug(t + " --- ");
+				if (LOG.isDebugEnabled()) {
+					for (String t : meta) {
+						LOG.debug(t + " --- ");
+					}
 				}
 			}
 
@@ -203,4 +218,7 @@ public class DSSUtils {
 		return meta;
 	}
 
+	public static void main(String[] pArgs) throws Exception {
+		DSSUtils.GetKeyWordsFromText("prova1 ciao) come_ andiamo-");
+	}
 }

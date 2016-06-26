@@ -14,65 +14,60 @@ db.datasource.insert(
 db.datasource.insert(
 { "name" : "dati.comune.matera.it", "url" : "http://dati.comune.matera.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader", "action" : "http://dati.comune.matera.it/api/action" });
 
-db.datasource.insert(
+**** db.datasource.insert(
 { "name" : "dati.lombardia.it", "url" : "https://www.dati.lombardia.it/resource/425r-pyq4.json", "type" : "org.hammer.santamaria.input.SocrataSourceRecordReader" , "action" : "https://www.dati.lombardia.it/resource/425r-pyq4.json"});
 
-db.datasource.insert(
+**** db.datasource.insert(
 { "name" : "opendata.comune.bari.it", "url" : "http://opendata.comune.bari.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" , "action" : "http://opendata.comune.bari.it/api/action"});
 
-db.datasource.insert(
+**** db.datasource.insert(
 { "name" : "dati.lazio.it", "url" : "http://dati.lazio.it/catalog/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader",  "action" : "http://dati.lazio.it/catalog/api/action" });
 
-db.datasource.insert(
+**** db.datasource.insert(
 { "name" : "dati.openexpo2015.it", "url" : "http://dati.openexpo2015.it/catalog/api/3/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader", "action" : "http://dati.openexpo2015.it/catalog/api/3/action" });
 
-db.datasource.insert(
+**** db.datasource.insert(
 { "name" : "serviziweb2.inps.it", "url" : "https://serviziweb2.inps.it/odapi/catalog", "type" : "org.hammer.santamaria.input.INPSSourceRecordReader" , "action" : "https://serviziweb2.inps.it/odapi/catalog"});
 
-db.datasource.insert(
+**** db.datasource.insert(
 { "name" : "dati.gov.it", "url" : "http://www.dati.gov.it/api/3/action", "action" : "http://www.dati.gov.it/api/3/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
 );
 
-db.datasource.insert(
+**** db.datasource.insert(
 { "name" : "dati.trentino.it", "url" : "http://dati.trentino.it/api/action", "action" : "http://dati.trentino.it/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
 );
 
 
-db.datasource.insert(
+**** db.datasource.insert(
 { "name" : "open-data.europa.eu", "url" : "http://open-data.europa.eu/data/api/action", "action" : "http://open-data.europa.eu/data/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
 );
 
 
-db.datasource.insert(
+**** db.datasource.insert(
 { "name" : "dati.veneto.it", "url" : "http://dati.veneto.it/api/action", "action" : "http://dati.veneto.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
 );
 
-db.datasource.insert(
+**** db.datasource.insert(
 { "name" : "dati.retecivica.bz.it", "url" : "http://dati.retecivica.bz.it/api/action", "action" : "http://dati.retecivica.bz.it/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
 );
 
-db.datasource.insert(
+**** db.datasource.insert(
 { "name" : "dati.regione.basilicata.it", "url" : "http://dati.regione.basilicata.it/catalog/api/action", "action" : "http://dati.regione.basilicata.it/catalog/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
 );
 
-
-db.datasource.insert(
-{ "name" : "dati.regione.basilicata.it", "url" : "http://dati.regione.basilicata.it/catalog/api/action", "action" : "http://dati.regione.basilicata.it/catalog/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
-);
-
-db.datasource.insert(
+**** db.datasource.insert(
 { "name" : "dati.umbria.it", "url" : "http://dati.umbria.it/api/action", "action" : "http://dati.umbria.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
 );
 
-db.datasource.insert(
+**** db.datasource.insert(
 { "name" : "dati.piemonte.it", "url" : "http://www.dati.piemonte.it/rpapisrv/api/rest", "action" : "http://www.dati.piemonte.it/rpapisrv/api/rest/package", "type" : "org.hammer.santamaria.input.CKAN2SourceRecordReader" }
 );
 
-db.datasource.insert(
+**** db.datasource.insert(
 { "name" : "dati.emilia-romagna.it", "url" : "http://lod.dati.emilia-romagna.it:8080/odapisrv/api/rest", "action" : "http://lod.dati.emilia-romagna.it:8080/odapisrv/api/rest/package", "type" : "org.hammer.santamaria.input.CKAN2SourceRecordReader" }
 );
 
-db.datasource.insert(
+**** db.datasource.insert(
 { "name" : "dati.mit.gov.it", "url" : "http://dati.mit.gov.it/catalog/api/action", "action" : "http://dati.mit.gov.it/catalog/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" }
 );
 
