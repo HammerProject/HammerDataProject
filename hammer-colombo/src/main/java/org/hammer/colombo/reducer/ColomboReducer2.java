@@ -85,15 +85,12 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 			long size = 0;
 			long record = 0;
 			long selectedRecord = 0;
-			long count = 0;
 			for (final BSONWritable value : pValues) {
 				size += (value.getDoc().containsField("size")) ? (Long) value.getDoc().get("size") : 0;
 				record += (value.getDoc().containsField("record-total")) ? (Long) value.getDoc().get("record-total")
 						: 0;
 				selectedRecord += (value.getDoc().containsField("record-selected"))
 						? (Long) value.getDoc().get("record-selected") : 0;
-
-				count++;
 			}
 			
 

@@ -9,10 +9,7 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.mapreduce.InputSplit;
-import org.bson.BSONObject;
-import org.bson.BasicBSONObject;
 import org.bson.Document;
-import org.hammer.colombo.utils.StatUtils;
 
 import com.mongodb.Block;
 import com.mongodb.MongoClient;
