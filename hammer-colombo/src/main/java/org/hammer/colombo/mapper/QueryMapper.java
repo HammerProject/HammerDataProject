@@ -115,7 +115,12 @@ public class QueryMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 								resource.put("dataset-type", t.getString("dataset-type"));
 								resource.put("datainput_type", t.getString("datainput_type"));
 								resource.put("id", t.getString("id"));
+								
 
+								resource.put("rm", t.get("rm"));
+								resource.put("krm", t.get("krm"));
+								resource.put("keywords", t.get("keywords"));
+								
 								Text key = new Text(documentKey);
 								pContext.write(key, new BSONWritable(resource));
 
@@ -129,6 +134,9 @@ public class QueryMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 								resource.put("dataset-type", t.getString("dataset-type"));
 								resource.put("datainput_type", t.getString("datainput_type"));
 								resource.put("id", t.getString("id"));
+								resource.put("rm", t.get("rm"));
+								resource.put("krm", t.get("krm"));
+								resource.put("keywords", t.get("keywords"));
 
 								Text key = new Text(documentKey);
 								pContext.write(key, new BSONWritable(resource));
@@ -348,6 +356,7 @@ public class QueryMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 			for (Document doc : rmList) {
 				doc.append("rm", rmMap.get(doc.get("_id")));
 				doc.append("krm", krmMap.get(doc.get("_id")));
+				doc.append("keywords", keywords);
 				
 				// if socrata split in set by 5000 record
 				if (doc.containsKey("datainput_type") && doc.get("datainput_type")

@@ -6,6 +6,7 @@ import java.util.HashMap;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
+import org.apache.commons.math3.util.Precision;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FSDataInputStream;
 import org.apache.hadoop.fs.FileSystem;
@@ -45,7 +46,7 @@ public class ColomboOutputCommiter extends OutputCommitter {
 	private QueryGraph q = null;
 	private final DBCollection collection;
 	public static final String TEMP_DIR_NAME = "_MONGO_OUT_TEMP";
-	private float thSim = 0.0f;
+	private double thSim = 0.0d;
 
 	public ColomboOutputCommiter(final DBCollection collection) {
 		this.collection = collection;
@@ -244,7 +245,7 @@ public class ColomboOutputCommiter extends OutputCommitter {
 
 		// first recreate the query
 		Configuration conf = taskContext.getConfiguration();
-		thSim = Float.parseFloat(conf.get("thSim"));
+		thSim = Precision.round(Double.parseDouble(conf.get("thSim")), 2);
 		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex(conf);
 		Isabella parser = new Isabella(new StringReader(conf.get("query-string")));
 		try {

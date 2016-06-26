@@ -13,6 +13,7 @@ import org.apache.commons.httpclient.methods.GetMethod;
 import org.apache.commons.httpclient.params.HttpMethodParams;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
+import org.apache.commons.math3.util.Precision;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
@@ -49,7 +50,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 
 	private Configuration conf = null;
 	private QueryGraph q = null;
-	private double thSim = 0.0f;
+	private double thSim = 0.0d;
 
 	@Override
 	protected void setup(Reducer<Text, BSONWritable, Text, BSONWritable>.Context context)
@@ -58,7 +59,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 		LOG.info("SETUP REDUCE2 - Hammer Colombo Project");
 		this.conf = context.getConfiguration();
 		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex(conf);
-		thSim = Float.parseFloat(conf.get("thSim"));
+		thSim = Precision.round(Double.parseDouble(conf.get("thSim")), 2);
 		Isabella parser = new Isabella(new StringReader(conf.get("query-string")));
 		try {
 			q = parser.queryGraph();
@@ -134,6 +135,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 						LOG.info("test " + sim + ">=" + thSim);
 						if (sim >= thSim) {
 							LOG.info("ok --> " + sim);
+							
 							LOG.info("check  --> " + ch.getName().toLowerCase().compareTo(value));
 							if (en.getOperator().equals("eq") && ch.getName().toLowerCase().equals(value)) {
 								c = true;
