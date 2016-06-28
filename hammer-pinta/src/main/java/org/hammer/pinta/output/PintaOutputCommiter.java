@@ -8,6 +8,7 @@ import java.util.List;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
+import org.apache.commons.math3.util.Precision;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FSDataInputStream;
 import org.apache.hadoop.fs.FileSystem;
@@ -48,6 +49,7 @@ public class PintaOutputCommiter extends OutputCommitter {
 	private int inserted = 0;
 	private int updated = 0;
 
+	private double thSim = 0.0d;
 	private final DBCollection collection;
 	public static final String TEMP_DIR_NAME = "_MONGO_OUT_TEMP";
 
@@ -151,6 +153,7 @@ public class PintaOutputCommiter extends OutputCommitter {
 	 */
 	private void CalcSimTerms(Configuration conf) {
 		LOG.info("----- CALC SIM TERMS ------");
+		thSim = Precision.round(Double.parseDouble(conf.get("thSim")), 2);
 		HashMap<String, Keyword> index = GetMyIndex(conf);
 		for(String term : index.keySet()) {
 			List<Keyword> similatirySet = new ArrayList<Keyword>();
@@ -162,7 +165,7 @@ public class PintaOutputCommiter extends OutputCommitter {
 				double re = index.get(s).getReScore();
 				sim = (sim + re) / 2.0d;
 				
-				if (sim > 0) {
+				if (sim >= thSim) {
 
 					Keyword k = index.get(s).clone();
 					k.setSimilarity(sim);
