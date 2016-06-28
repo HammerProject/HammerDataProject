@@ -4,6 +4,7 @@
 
 db.createCollection("datasource");
 db.createCollection("datasource1");
+db.createCollection("datasource2");
 
 db.createCollection("dataset");
 db.createCollection("index");
@@ -110,7 +111,9 @@ db.datasource.insert(
 );
 
 
-db.datasource.insert(
+/*****/
+
+db.datasource2.insert(
 { "name" : "data.cityofnewyork.us", "url" : "https://data.cityofnewyork.us/resource/3gcn-igeu.json", "action" : "https://data.cityofnewyork.us/resource", "type" : "org.hammer.santamaria.input.Socrata2SourceRecordReader" }
 );
 

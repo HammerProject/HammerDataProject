@@ -4,6 +4,7 @@
 ## start santamaria with open sources from "datasource1" collection
 bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App datasource
 bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App datasource1
+bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App datasource2
 
 ## start twitter stream for "lombardia" box
 bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App tweets lombardia
