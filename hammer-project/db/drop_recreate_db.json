@@ -1,0 +1,26 @@
+use hammer_new
+db.dropDatabase();
+
+use hammer
+
+db.collection.find({},{}).forEach(function(doc){
+    db = db.getSiblingDB("hammer_new");
+    db.collection_subset.insert(doc);
+});
+
+use hammer
+db.dropDatabase();
+
+use hammer_new
+
+db.collection_subset.find({},{}).forEach(function(doc){
+    db = db.getSiblingDB("hammer");
+    db.collection.insert(doc);
+});
+
+use hammer
+
+db.collection.ensureIndex({field:1});
+
+use hammer_new
+db.dropDatabase();

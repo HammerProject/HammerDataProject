@@ -1,0 +1,21 @@
+
+var storage = db.hammer.storageSize();
+var total = db.hammer.totalSize();
+
+print('Storage Size: ' + tojson(storage));
+
+print('TotalSize: ' + tojson(total));
+
+print('-----------------------');
+print('Running db.repairDatabase()');
+print('-----------------------');
+
+// Run repair
+db.repairDatabase()
+
+// Get new collection sizes.
+var storage_a = db.hammer.storageSize();
+var total_a = db.hammer.totalSize();
+
+print('Storage Size: ' + tojson(storage_a));
+print('TotalSize: ' + tojson(total_a));

@@ -8,7 +8,7 @@ bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App da
 bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App tweets lombardia
 
 ## create/update the inverted index
-bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App
+bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.8
 
 ## download all resources by query
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/query_1.json local download labels 0.0 0.0 0.0
