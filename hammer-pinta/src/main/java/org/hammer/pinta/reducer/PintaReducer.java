@@ -25,6 +25,7 @@ public class PintaReducer extends Reducer<Text, BSONWritable, Text, BSONWritable
 	
 	public static final Log LOG = LogFactory.getLog(PintaReducer.class);
 	
+
 	
 	@Override
     public void reduce( final Text pKey, final Iterable<BSONWritable> pValues, final Context pContext )
@@ -41,6 +42,9 @@ public class PintaReducer extends Reducer<Text, BSONWritable, Text, BSONWritable
 		BasicDBObject obj = new BasicDBObject("keyword", keyword);
 		obj.append("documents", documents);
 		obj.append("last-update", (new Date()));
+		
+		
+		
 		pContext.write( pKey, new BSONWritable(obj));
 		
 		/*ArrayList<String> synonyms = ThesaurusUtils.Get(conf.get("thesaurus.url"), keyword,conf.get("thesaurus.lang"), conf.get("thesaurus.key"), "json");

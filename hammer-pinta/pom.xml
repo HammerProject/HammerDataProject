@@ -79,6 +79,12 @@
     	<artifactId>hammer-core</artifactId>
     	<version>0.0.1</version>
     </dependency>
+    		<dependency>
+			<groupId>org.hammer-project.isabella</groupId>
+			<artifactId>hammer-isabella</artifactId>
+			<version>0.0.2</version>
+		</dependency>
+		
   </dependencies>
       
   
