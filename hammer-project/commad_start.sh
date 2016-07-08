@@ -9,8 +9,12 @@ bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App da
 ## start twitter stream for "lombardia" box
 bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App tweets lombardia
 
-## create/update the inverted index
-bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.8
+## create/update the inverted index and calc re/sim of each tems
+bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 true
+
+## create/update the inverted index only calc re/sim of each tems
+bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 false
+
 
 ## download all resources by query
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/query_1.json local download labels 0.0 0.0 0.0

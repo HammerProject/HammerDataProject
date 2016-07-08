@@ -11,6 +11,7 @@ import com.mongodb.hadoop.util.MongoConfigUtil;
 import com.mongodb.hadoop.util.MongoTool;
 
 /**
+ * 
  * Config
  * 
  * @author mauro.pelucchi@gmail.com

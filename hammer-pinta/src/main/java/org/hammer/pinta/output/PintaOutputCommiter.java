@@ -36,6 +36,7 @@ import com.mongodb.hadoop.util.MongoConfigUtil;
 
 /**
  * 
+ * 
  * Pinta output commiter
  * 
  * @author mauro.pelucchi@gmail.com
@@ -49,7 +50,6 @@ public class PintaOutputCommiter extends OutputCommitter {
 	private int inserted = 0;
 	private int updated = 0;
 
-	private double thSim = 0.0d;
 	private final DBCollection collection;
 	public static final String TEMP_DIR_NAME = "_MONGO_OUT_TEMP";
 
@@ -140,70 +140,101 @@ public class PintaOutputCommiter extends OutputCommitter {
 
 		LOG.info("COLOMBO INSERT - DATA SET : " + inserted);
 		LOG.info("UPDATE : " + updated);
-		CalcSimTerms(taskContext.getConfiguration());
 
 		cleanupAfterCommit(inputStream, taskContext);
 	}
 
-	Comparator<Keyword> cmp = new Comparator<Keyword>() {
-		public int compare(Keyword o1,Keyword o2){return(o1.getSimilarity()<o2.getSimilarity())?1:((o1.getSimilarity()>o2.getSimilarity())?-1:0);}};
+	public static Comparator<Keyword> CMP = new Comparator<Keyword>() {
+		public int compare(Keyword o1, Keyword o2) {
+			return (o1.getSimilarity() < o2.getSimilarity()) ? 1 : ((o1.getSimilarity() > o2.getSimilarity()) ? -1 : 0);
+		}
+	};
 
 	/**
 	 * Calcola i termini simili
 	 */
-	private void CalcSimTerms(Configuration conf) {
+	public static void CalcSimTerms(Configuration conf) {
 		LOG.info("----- CALC SIM TERMS ------");
-		thSim = Precision.round(Double.parseDouble(conf.get("thSim")), 2);
+		double thSim = Precision.round(Double.parseDouble(conf.get("thSim")), 2);
 		HashMap<String, Keyword> index = GetMyIndex(conf);
-		for(String term : index.keySet()) {
-			List<Keyword> similatirySet = new ArrayList<Keyword>();
-			for (String s : index.keySet()) {
-				double sim = JaroWinkler.Apply(term.toLowerCase(), s.toLowerCase());
-				// avg the value of sim with the value of re
-				// we want to give more importance to terms that are more
-				// representative of our index
-				double re = index.get(s).getReScore();
-				sim = (sim + re) / 2.0d;
-				
-				if (sim >= thSim) {
+		float size = index.size();
+		MongoClient mongo = null;
+		MongoDatabase db = null;
+		try {
+			MongoClientURI inputURI = MongoConfigUtil.getInputURI(conf);
+			mongo = new MongoClient(inputURI);
+			db = mongo.getDatabase(inputURI.getDatabase());
+			MongoCollection<Document> myIdx = db.getCollection("index");
+			float c = 0.0f;
+			for (String term : index.keySet()) {
+				List<Keyword> similatirySet = new ArrayList<Keyword>();
+				for (String s : index.keySet()) {
+					if (!s.equals(term)) {
+						double sim = JaroWinkler.Apply(term.toLowerCase(), s.toLowerCase());
+						// avg the value of sim with the value of re
+						// we want to give more importance to terms that are
+						// more
+						// representative of our index
+						double re = index.get(s).getReScore();
+						sim = (sim + re) / 2.0d;
 
-					Keyword k = index.get(s).clone();
-					k.setSimilarity(sim);
-					similatirySet.add(k);
-							
+						if (sim >= thSim) {
+
+							Keyword k = index.get(s).clone();
+							k.setSimilarity(sim);
+							similatirySet.add(k);
+
+						}
+					}
 				}
-			}
-			similatirySet.sort(cmp);			
-			// we update the keyword with re and list of similarity terms
-			try {
-				BasicDBObject searchQuery = new BasicDBObject().append("keyword", term);
-				DBCursor c = collection.find(searchQuery);
-				if (c.hasNext()) {
-					DBObject obj = c.next();
-					
-					obj.removeField("sim-terms");
+				BasicDBObject mostSim = new BasicDBObject();
+				if (similatirySet.size() > 0) {
+					similatirySet.sort(CMP);
+					mostSim.append("term", similatirySet.get(0).getKeyword());
+					mostSim.append("re", similatirySet.get(0).getReScore());
+					mostSim.append("sim", similatirySet.get(0).getSimilarity());
+				}
+				// we update the keyword with re and list of similarity terms
+				try {
+					BasicDBObject searchQuery = new BasicDBObject().append("keyword", term);
+
+					Document updateField = new Document();
 					BasicDBList simTermsList = new BasicDBList();
-					for(Keyword k: similatirySet) {
+					for (Keyword k : similatirySet) {
 						BasicDBObject kObj = new BasicDBObject();
 						kObj.append("term", k.getKeyword());
 						kObj.append("re", k.getReScore());
 						kObj.append("sim", k.getSimilarity());
 						simTermsList.add(kObj);
 					}
-					obj.put("re", index.get(term).getReScore());
-					obj.put("sim-terms", simTermsList);
-					collection.update(searchQuery, obj);
-					updated++;
-				}
-				c.close();
+					updateField.put("re", index.get(term).getReScore());
+					updateField.put("sim-terms", simTermsList);
+					if (similatirySet.size() > 0) {
+						updateField.put("most-sim", mostSim);
+					}
+					Document updateObj = new Document("$set", updateField);
+					myIdx.findOneAndUpdate(searchQuery, updateObj);
+					LOG.debug("save " + term);
 
-			} catch (Exception e) {
-				LOG.error(e);
-				LOG.error("PINTA COMMITTER: Error reading from temporary file", e);
+				} catch (Exception e) {
+					LOG.error(e);
+					LOG.error("PINTA COMMITTER: Error reading from temporary file", e);
+				}
+				c++;
+				if ((c % 1000 == 0) || (Precision.round((c / size) * 100f, 3) > 99)) {
+					LOG.info(Precision.round((c / size) * 100f, 3) + " %");
+				}
+			}
+		} catch (Exception ex) {
+			LOG.error(ex);
+			ex.printStackTrace();
+			LOG.error(ex.getMessage());
+		} finally {
+			if (mongo != null) {
+				mongo.close();
 			}
 		}
-		
-			
+
 	}
 
 	/**
