@@ -38,7 +38,7 @@ public class App {
 	 * 
 	 * @throws Exception
 	 */
-	public static void Run(String fileQuery, String fileSystem, String searchMode, String queryMode, float thKrm,  float thRm, float thSim) throws Exception {
+	public static void Run(String fileQuery, String fileSystem, String searchMode, String queryMode, float thKrm,  float thRm, float thSim, int maxSim) throws Exception {
 		System.out.println("!!! Hammer Project !!!");
 		System.out.println("!!! Colombo Module start.....");
 		
@@ -77,6 +77,8 @@ public class App {
 		conf1.set("thRm", thRm + "");
 		conf1.set("thKrm", thKrm + "");
 		conf1.set("thSim", thSim + "");
+		conf1.set("maxSim", maxSim + "");
+
 		
 		conf2.set("search-mode", searchMode);
 		conf2.set("query-mode", queryMode);
@@ -84,7 +86,8 @@ public class App {
 		conf2.set("thRm", thRm + "");
 		conf2.set("thKrm", thKrm + "");
 		conf2.set("thSim", thSim + "");
-		
+		conf2.set("maxSim", maxSim + "");
+
 		// check the query
 		Isabella parser = new Isabella(new StringReader(query));
 		QueryGraph q;
@@ -138,10 +141,10 @@ public class App {
 
 	public static void main(String[] pArgs) throws Exception {
 
-		if (pArgs == null || pArgs.length < 7) {
-			throw new Exception("Parameter: <path_to_query> <file-system: local|hdfs> <search mode: search|download> <query mode: keywords|labels> <thKrm: 0.5|0.01..>  <thRm: 0.5|0.01..> <thSim: 0.5|0.01..>");
+		if (pArgs == null || pArgs.length < 8) {
+			throw new Exception("Parameter: <path_to_query> <file-system: local|hdfs> <search mode: search|download> <query mode: keywords|labels> <thKrm: 0.5|0.01..>  <thRm: 0.5|0.01..> <thSim: 0.5|0.01..> <maxSim: 1|2|3...>");
 		}
-		Run(pArgs[0], pArgs[1], pArgs[2], pArgs[3], Float.parseFloat(pArgs[4]), Float.parseFloat(pArgs[5]), Float.parseFloat(pArgs[6]));
+		Run(pArgs[0], pArgs[1], pArgs[2], pArgs[3], Float.parseFloat(pArgs[4]), Float.parseFloat(pArgs[5]), Float.parseFloat(pArgs[6]), Integer.parseInt(pArgs[7]));
 	}
 
 	public static String ReadFileFromHdfs(Configuration conf) {

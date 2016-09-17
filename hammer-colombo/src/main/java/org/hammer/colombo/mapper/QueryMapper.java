@@ -82,7 +82,7 @@ public class QueryMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 
 			if (parser.getErrors().size() == 0) {
 				// search document for this query
-				// esecute the getSetList function for every fuzzy query
+				// execute the getSetList function for every fuzzy query
 				// the function return the list of the resources that match with
 				// the
 				// query

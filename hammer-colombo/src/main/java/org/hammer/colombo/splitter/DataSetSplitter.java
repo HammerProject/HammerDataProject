@@ -125,7 +125,7 @@ public class DataSetSplitter extends MongoSplitter {
 		ArrayList<ArrayList<String[]>> cases = new ArrayList<ArrayList<String[]>>();
 		
 		// calculate all the combination
-		RecursiveString.Recurse(optionsList, similarity, 0, cases);
+		RecursiveString.RecurseWithString(optionsList, similarity, 0, cases);
 		LOG.info("--- FUZZY SEARCH QUERY --> " + cases.size());
 
 		// qList is the list of all query for fuzzy search

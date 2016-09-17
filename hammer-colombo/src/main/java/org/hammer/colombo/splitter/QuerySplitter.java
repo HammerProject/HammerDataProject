@@ -14,7 +14,9 @@ import org.apache.hadoop.mapreduce.InputSplit;
 import org.bson.BSONObject;
 import org.bson.BasicBSONObject;
 import org.hammer.colombo.utils.RecursiveString;
+import org.hammer.colombo.utils.Space;
 import org.hammer.colombo.utils.StatUtils;
+import org.hammer.colombo.utils.Term;
 import org.hammer.isabella.cc.Isabella;
 import org.hammer.isabella.cc.ParseException;
 import org.hammer.isabella.fuzzy.JaroWinkler;
@@ -64,11 +66,13 @@ public class QuerySplitter extends MongoSplitter {
 		MongoClientURI inputURI = MongoConfigUtil.getInputURI(getConfiguration());
 		LOG.debug("---> Colombo Query calculating splits for " + inputURI);
 		float thSim = Float.parseFloat(getConfiguration().get("thSim"));
+		int maxSim = Integer.parseInt(getConfiguration().get("maxSim"));
+
 		// create my query graph object
 		// System.out.println(query);
 		Isabella parser = new Isabella(new StringReader(getConfiguration().get("query-string")));
 		String keywords = "";
-		Map<String, ArrayList<String>> similarity = new HashMap<String, ArrayList<String>>();
+		Map<String, ArrayList<Term>> similarity = new HashMap<String, ArrayList<Term>>();
 		QueryGraph q;
 		try {
 			q = parser.queryGraph();
@@ -93,13 +97,20 @@ public class QuerySplitter extends MongoSplitter {
 			while (st.hasMoreElements()) {
 				String key = st.nextToken().trim().toLowerCase();
 
-				ArrayList<String> tempList = new ArrayList<String>();
+				ArrayList<Term> tempList = new ArrayList<Term>();
 				for (String s : kwIndex.keySet()) {
 					double sim = JaroWinkler.Apply(key, s.toLowerCase());
 					// set the degree threshold to custom value
 					if (sim > thSim) {
-						tempList.add(s.toLowerCase());
+						Term point = new Term();
+						point.setTerm(s.toLowerCase());
+						point.setWeigth(sim);
+						tempList.add(point);
 					}
+				}
+				
+				if(tempList.size() > maxSim) {
+					tempList = (ArrayList<Term>) tempList.subList(0, maxSim);
 				}
 
 				similarity.put(key, tempList);
@@ -109,12 +120,24 @@ public class QuerySplitter extends MongoSplitter {
 		LOG.info("------------------------------------------------------");
 		LOG.info("---- Create all the combination per FUZZY SEARCH -----");
 		// recursive call
-		ArrayList<String[]> optionsList = new ArrayList<String[]>();
-		ArrayList<ArrayList<String[]>> cases = new ArrayList<ArrayList<String[]>>();
+		ArrayList<Term[]> optionsList = new ArrayList<Term[]>();
+		ArrayList<ArrayList<Term[]>> cases = new ArrayList<ArrayList<Term[]>>();
 		
 		// calculate all the combination
 		RecursiveString.Recurse(optionsList, similarity, 0, cases);
+		
 		LOG.info("--- FUZZY SEARCH QUERY --> " + cases.size());
+
+		// check the generate query with the main query and remove the major distance query
+		for(ArrayList<Term[]> testq: cases) {
+			double sim = Space.cos(testq);
+			if(sim < thSim) {
+				testq.remove(testq);
+			}
+		}
+		//
+		
+		LOG.info("--- FUZZY SEARCH QUERY AFTER PRUNNING --> " + cases.size());
 
 		
 		// qSplit is the list of all query for fuzzy search
@@ -128,9 +151,9 @@ public class QuerySplitter extends MongoSplitter {
 		for (int i = 0; i < cases.size(); i++) {
 			LOG.debug("----> Query case " + (i + 1) + ": ");
 			String keywordsCase = "";
-			for (String[] k : cases.get(i)) {
-				LOG.debug(k[0] + "-" + k[1] + ",");
-				keywordsCase += ";" + k[1];
+			for (Term[] k : cases.get(i)) {
+				LOG.debug(k[0] + "-" + k[1].getTerm() + ",");
+				keywordsCase += ";" + k[1].getTerm();
 			}
 			String newQuery = getQuery(getConfiguration().get("query-string"), cases.get(i));
 			QuerySplit newQ = new QuerySplit();
@@ -173,12 +196,12 @@ public class QuerySplitter extends MongoSplitter {
 	 * @param arrayList
 	 * @return
 	 */
-	private String getQuery(String q, ArrayList<String[]> arrayList) {
-		for (String[] k : arrayList) {
-			if (!k[0].equals("select") && !k[0].equals("where") && !k[0].equals("from") && !k[0].equals("label1")
-					&& !k[0].equals("value") && !k[0].equals("instance1") && !k[0].equals("instance")
-					&& !k[0].equals("label")) {
-				q = q.replaceAll(k[0], k[1]);
+	private String getQuery(String q, ArrayList<Term[]> arrayList) {
+		for (Term[] k : arrayList) {
+			if (!k[0].getTerm().equals("select") && !k[0].getTerm().equals("where") && !k[0].getTerm().equals("from") && !k[0].getTerm().equals("label1")
+					&& !k[0].getTerm().equals("value") && !k[0].getTerm().equals("instance1") && !k[0].getTerm().equals("instance")
+					&& !k[0].getTerm().equals("label")) {
+				q = q.replaceAll(k[0].getTerm(), k[1].getTerm());
 			}
 		}
 		return q;
