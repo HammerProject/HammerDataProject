@@ -72,7 +72,7 @@ public class QuerySplitter extends MongoSplitter {
 		// System.out.println(query);
 		Isabella parser = new Isabella(new StringReader(getConfiguration().get("query-string")));
 		String keywords = "";
-		Map<String, ArrayList<Term>> similarity = new HashMap<String, ArrayList<Term>>();
+		Map<String, List<Term>> similarity = new HashMap<String, List<Term>>();
 		QueryGraph q;
 		try {
 			q = parser.queryGraph();
@@ -97,7 +97,7 @@ public class QuerySplitter extends MongoSplitter {
 			while (st.hasMoreElements()) {
 				String key = st.nextToken().trim().toLowerCase();
 
-				ArrayList<Term> tempList = new ArrayList<Term>();
+				List<Term> tempList = new ArrayList<Term>();
 				for (String s : kwIndex.keySet()) {
 					double sim = JaroWinkler.Apply(key, s.toLowerCase());
 					// set the degree threshold to custom value
@@ -110,7 +110,7 @@ public class QuerySplitter extends MongoSplitter {
 				}
 				
 				if(tempList.size() > maxSim) {
-					tempList = (ArrayList<Term>) tempList.subList(0, maxSim);
+					tempList = tempList.subList(0, maxSim);
 				}
 
 				similarity.put(key, tempList);
@@ -120,8 +120,8 @@ public class QuerySplitter extends MongoSplitter {
 		LOG.info("------------------------------------------------------");
 		LOG.info("---- Create all the combination per FUZZY SEARCH -----");
 		// recursive call
-		ArrayList<Term[]> optionsList = new ArrayList<Term[]>();
-		ArrayList<ArrayList<Term[]>> cases = new ArrayList<ArrayList<Term[]>>();
+		List<Term[]> optionsList = new ArrayList<Term[]>();
+		List<List<Term[]>> cases = new ArrayList<List<Term[]>>();
 		
 		// calculate all the combination
 		RecursiveString.Recurse(optionsList, similarity, 0, cases);
@@ -129,7 +129,7 @@ public class QuerySplitter extends MongoSplitter {
 		LOG.info("--- FUZZY SEARCH QUERY --> " + cases.size());
 
 		// check the generate query with the main query and remove the major distance query
-		for(ArrayList<Term[]> testq: cases) {
+		for(List<Term[]> testq: cases) {
 			double sim = Space.cos(testq);
 			if(sim < thSim) {
 				testq.remove(testq);
@@ -196,7 +196,7 @@ public class QuerySplitter extends MongoSplitter {
 	 * @param arrayList
 	 * @return
 	 */
-	private String getQuery(String q, ArrayList<Term[]> arrayList) {
+	private String getQuery(String q, List<Term[]> arrayList) {
 		for (Term[] k : arrayList) {
 			if (!k[0].getTerm().equals("select") && !k[0].getTerm().equals("where") && !k[0].getTerm().equals("from") && !k[0].getTerm().equals("label1")
 					&& !k[0].getTerm().equals("value") && !k[0].getTerm().equals("instance1") && !k[0].getTerm().equals("instance")

@@ -1,6 +1,9 @@
 package org.hammer.colombo.utils;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 import org.apache.commons.logging.Log;
@@ -20,15 +23,15 @@ public class RecursiveString {
 	public static final Log LOG = LogFactory.getLog(RecursiveString.class);
 	
 
-	public static void Recurse(ArrayList<Term[]> newOptionsList, Map<String, ArrayList<Term>> newAofA,
-			int placeHolder, ArrayList<ArrayList<Term[]>> testCases) {
+	public static void Recurse(List<Term[]> newOptionsList, Map<String, List<Term>> newAofA,
+			int placeHolder, List<List<Term[]>> testCases) {
 		
 		// check to see if we are at the end of all TestAspects
 		if (placeHolder < newAofA.size()) {
 
 			// remove the first item in the ArrayOfArrays
 			Term k = (Term) newAofA.keySet().toArray()[placeHolder];
-			ArrayList<Term> currentAspectsOptions = newAofA.get(k);
+			List<Term> currentAspectsOptions = newAofA.get(k);
 			// iterate through the popped off options
 
 			for (int i = 0; i < currentAspectsOptions.size(); i++) {
@@ -102,4 +105,38 @@ public class RecursiveString {
 		}
 		LOG.debug("\t### Total:  " + testCases.size());
 	}
+	
+	
+	
+	/**
+	 * @param args
+	 *            the command line arguments
+	 */
+	public static void main(String[] args) {
+		ArrayList<String> VariableA = new ArrayList<String>(Arrays.asList("red", "green"));
+		ArrayList<String> VariableB = new ArrayList<String>(Arrays.asList("A", "B", "C"));
+		ArrayList<String> VariableC = new ArrayList<String>(Arrays.asList("1", "2", "3", "4", "5"));
+
+		Map<String, ArrayList<String>> AofA = new HashMap<String, ArrayList<String>>();
+		AofA.put("k1", VariableA);
+		AofA.put("k2", VariableB);
+		AofA.put("k3", VariableC);
+
+		System.out.println("Array of Arrays: ToString(): " + AofA.toString());
+
+		ArrayList<String[]> optionsList = new ArrayList<String[]>();
+
+		// recursive call
+		ArrayList<ArrayList<String[]>> testCases = new ArrayList<ArrayList<String[]>>();
+		RecurseWithString(optionsList, AofA, 0, testCases);
+
+		for (int i = 0; i < testCases.size(); i++) {
+			System.out.println("Test Case " + (i + 1) + ": ");
+			for(String[] k : testCases.get(i)) {
+				System.out.println(k[0] + "-" + k[1] + ",");
+			}
+			System.out.println("\n");
+		}
+
+	}		
 }
