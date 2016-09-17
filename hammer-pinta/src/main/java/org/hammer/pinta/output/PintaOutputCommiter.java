@@ -198,7 +198,7 @@ public class PintaOutputCommiter extends OutputCommitter {
 				}
 				// we update the keyword with re and list of similarity terms
 				try {
-					BasicDBObject searchQuery = new BasicDBObject().append("keyword", term);
+					BasicDBObject searchQuery = new BasicDBObject().append("keyword", term.toLowerCase());
 
 					Document updateField = new Document();
 					BasicDBList simTermsList = new BasicDBList();
