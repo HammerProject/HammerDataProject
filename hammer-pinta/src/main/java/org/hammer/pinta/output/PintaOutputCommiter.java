@@ -156,6 +156,8 @@ public class PintaOutputCommiter extends OutputCommitter {
 	public static void CalcSimTerms(Configuration conf) {
 		LOG.info("----- CALC SIM TERMS ------");
 		double thSim = Precision.round(Double.parseDouble(conf.get("thSim")), 2);
+		int maxSim = Integer.parseInt(conf.get("maxSim"));
+
 		HashMap<String, Keyword> index = GetMyIndex(conf);
 		float size = index.size();
 		MongoClient mongo = null;
@@ -190,7 +192,7 @@ public class PintaOutputCommiter extends OutputCommitter {
 				BasicDBObject mostSim = new BasicDBObject();
 				if (similatirySet.size() > 0) {
 					similatirySet.sort(CMP);
-					mostSim.append("term", similatirySet.get(0).getKeyword());
+					mostSim.append("term", similatirySet.get(0).getKeyword().toLowerCase());
 					mostSim.append("re", similatirySet.get(0).getReScore());
 					mostSim.append("sim", similatirySet.get(0).getSimilarity());
 				}
@@ -200,12 +202,17 @@ public class PintaOutputCommiter extends OutputCommitter {
 
 					Document updateField = new Document();
 					BasicDBList simTermsList = new BasicDBList();
+					int countSim = 0;
 					for (Keyword k : similatirySet) {
 						BasicDBObject kObj = new BasicDBObject();
-						kObj.append("term", k.getKeyword());
+						kObj.append("term", k.getKeyword().toLowerCase());
 						kObj.append("re", k.getReScore());
 						kObj.append("sim", k.getSimilarity());
 						simTermsList.add(kObj);
+						if(countSim >= maxSim) {
+							break;
+						}
+						countSim++;
 					}
 					updateField.put("re", index.get(term).getReScore());
 					updateField.put("sim-terms", simTermsList);

@@ -10,10 +10,10 @@ bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App da
 bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App tweets lombardia
 
 ## create/update the inverted index and calc re/sim of each tems
-bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 true
+bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 true 5
 
 ## create/update the inverted index only calc re/sim of each tems
-bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 false
+bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 false 5
 
 
 ## download all resources by query

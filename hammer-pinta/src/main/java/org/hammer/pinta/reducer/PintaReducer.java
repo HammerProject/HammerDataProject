@@ -39,7 +39,7 @@ public class PintaReducer extends Reducer<Text, BSONWritable, Text, BSONWritable
         //(Configuration conf = pContext.getConfiguration();
         
         String keyword = pKey.toString();
-		BasicDBObject obj = new BasicDBObject("keyword", keyword);
+		BasicDBObject obj = new BasicDBObject("keyword", keyword.toLowerCase());
 		obj.append("documents", documents);
 		obj.append("last-update", (new Date()));
 		
