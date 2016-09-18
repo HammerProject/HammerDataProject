@@ -30,7 +30,7 @@ public class RecursiveString {
 		if (placeHolder < newAofA.size()) {
 
 			// remove the first item in the ArrayOfArrays
-			Term k = (Term) newAofA.keySet().toArray()[placeHolder];
+			String k = (String) newAofA.keySet().toArray()[placeHolder];
 			List<Term> currentAspectsOptions = newAofA.get(k);
 			// iterate through the popped off options
 
@@ -42,7 +42,9 @@ public class RecursiveString {
 				}
 
 				Term[] t = new Term[2];
-				t[0] = k;
+				t[0] = new Term();
+				t[0].setWeigth(1.0d);
+				t[0].setTerm(k);
 				t[1] = currentAspectsOptions.get(i);
 				newOptions.add(t);
 				int newPlaceHolder = placeHolder + 1;

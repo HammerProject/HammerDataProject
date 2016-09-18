@@ -61,7 +61,9 @@ public class StatUtils {
 					ArrayList<Document> docList = (ArrayList<Document>) document.get("documents");
 					long mT = docList.size();
 					Keyword k = new Keyword(document.getString("keyword"), totalResources, mT);
+					
 					index.put(document.getString("keyword"), k);
+					
 				}
 			});
 
@@ -76,7 +78,7 @@ public class StatUtils {
 		return index;
 
 	}
-
+	
 	/**
 	 * 
 	 * Save the stat of the query

@@ -14,7 +14,7 @@ import org.apache.hadoop.mapreduce.InputSplit;
 import org.bson.BSONObject;
 import org.bson.BasicBSONObject;
 import org.hammer.colombo.utils.RecursiveString;
-import org.hammer.colombo.utils.Space;
+import org.hammer.colombo.utils.SpaceUtils;
 import org.hammer.colombo.utils.StatUtils;
 import org.hammer.colombo.utils.Term;
 import org.hammer.isabella.cc.Isabella;
@@ -130,7 +130,7 @@ public class QuerySplitter extends MongoSplitter {
 
 		// check the generate query with the main query and remove the major distance query
 		for(List<Term[]> testq: cases) {
-			double sim = Space.cos(testq);
+			double sim = SpaceUtils.cos(testq);
 			if(sim < thSim) {
 				testq.remove(testq);
 			}

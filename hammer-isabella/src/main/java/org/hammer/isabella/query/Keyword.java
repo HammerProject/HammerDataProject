@@ -109,6 +109,4 @@ public class Keyword implements Cloneable, Serializable {
 	 * Similarity
 	 */
 	private double similarity = 0.0d;
-	
-	
 }
