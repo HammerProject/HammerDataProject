@@ -1,9 +1,7 @@
 package org.hammer.colombo.splitter;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
@@ -60,7 +58,6 @@ public class DataSetSplitter2 extends MongoSplitter {
 		LOG.info("---> Colombo calculating splits for - 2phase" + inputURI);
 
 		// get the resource from db
-		Map<String, Document> dataSet = new HashMap<String, Document>();
 		MongoClient mongo = null;
 		MongoDatabase db = null;
 		try {
@@ -109,7 +106,7 @@ public class DataSetSplitter2 extends MongoSplitter {
 			}
 		}
 
-		LOG.info("!!!!! FUZZY SEARCH has found " + dataSet.size() + " RESOURCES !!!!!");
+		LOG.info("!!!!! FUZZY SEARCH has found " + splits.size() + " RESOURCES !!!!!");
 		
 
 		return splits;
