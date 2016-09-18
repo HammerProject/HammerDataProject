@@ -39,22 +39,25 @@ bin/yarn jar share/hammer/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App 
 ## start twitter stream for "lombardia" box
 bin/yarn jar share/hammer/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App tweets lombardia
 
-## create/update the inverted index
-bin/yarn jar share/hammer/hammer-pinta-0.0.2.jar org.hammer.pinta.App
+## create/update the inverted index and calc re/sim of each tems
+bin/yarn jar share/hammer/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 true 5 dataset index
+
+## create/update the inverted index only calc re/sim of each tems
+bin/yarn jar share/hammer/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 false 5 dataset index
+
 
 
 ## download all resources by query
-bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/query_1.json local download labels 0.0 0.0 0.0
+bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/query_1.json local download labels 0.0 0.0 0.0 0 dataset index 0.0
 
 ## download selected resources by query
-bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/example_1.json local download keywords 0.0 0.0 0.0
+bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/example_1.json local download keywords 0.0 0.0 0.0 0 dataset index 0.0
 
 ## search all resources by query
-bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/example_1.json local search labels 0.3 0.3 0.95
+bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/example_1.json local search labels 0.3 0.3 0.90 2 dataset index 0.9996
 
 ## search selected resources by query
-bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/example_1.json local search keywords 0.3 0.3 0.95
-
+bin/yarn jar share/hammer/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/hammer/example_1.json local search keywords 0.3 0.3 0.90 2 dataset index 0.9996
 
 
 ##################################################################################
