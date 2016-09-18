@@ -16,35 +16,37 @@
 // in East-Aprifca
 // from africaopendata.org 
 //
-// FUZZY QUERY!
+// 
 //
-//
+// ORIGINAL QUERY:
 // SQL
 // SELECT updated, county1, location, under_weight_3_sd, stuting_3_sd, wasting_3_sd
 // FROM nutrition_child
 // WHERE county1 = "Turkana" or county1 = "Kenya Average"
+//
+// FUZZY QUERY!
 
 {
   "select": [
   	  { "column": { "instance": "nutrition", "label":"updated"}},
-      { "column": { "instance": "nutrition", "label":"county1"}},
+      { "column": { "instance": "nutrition", "label":"county"}},
       { "column": { "instance": "nutrition", "label":"location"}},
-      { "column": { "instance": "nutrition", "label":"under_weight_3_sd"}},
-      { "column": { "instance": "nutrition", "label":"stuting_3_sd"}},
-      { "column": { "instance": "nutrition", "label":"wasting_3_sd"}}
+      { "column": { "instance": "nutrition", "label":"under_weight"}},
+      { "column": { "instance": "nutrition", "label":"stuting"}},
+      { "column": { "instance": "nutrition", "label":"wasting"}}
   ],
   "from": [
     "nutrition"
   ],
   "where": [{"condition": {
       "instance1": "nutrition",
-      "label1": "county1",
+      "label1": "county",
       "operator": "eq",
       "value": "Turkana",
       "logicalOperator": "or"
     }}, {"condition": {
       "instance1": "nutrition",
-      "label1": "county1",
+      "label1": "county",
       "operator": "eq",
       "value": "Kenya Average",
       "logicalOperator": "or"
@@ -52,23 +54,3 @@
   ]
 }
 
-//
-// Open Data Sources (total) --> 27 (number of record in opendatasource collection)
-// Open Data Resources (total) --> 40518 (number of record in opendataresource collection)
-// Index keywords (total) --> 94866 (number of keywords in inverted index)
-// (updated 15/5/2016 22:30)
-//
-// Selected keywords
-// ----> nutrition_child --> nutrition
-// ----> county1 --> county
-// ----> wasting_3_sd
-// ----> stuting_3_sd
-// ----> under_weight_3_sd
-// ----> updated
-// ----> location
-
-//
-// 
-// Resources (distinct) --> 74
-// Record find --> 6
-//
