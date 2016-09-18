@@ -13,6 +13,7 @@
 // (from wikipedia)
 //
 // ORIGINAL QUERY (if we known the domain and the database...):
+//
 // SELECT registrationyear, registrationmonth, spouse1age, spouse2age
 // FROM civil-unions
 // WHERE registrationyear >= 2012 and (spouse1age>= 35 or spouse2age >= 35)

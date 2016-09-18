@@ -1,0 +1,55 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// Police crime stats 2015 --> focus on "Drug-related crime", detail = province
+// Africa
+//
+// Metadata:
+// Province,Cluster,Station,Unit,Crime Category,Year,Count,Position,Station / Province
+// from africaopendata.org 
+//
+//
+// ORIGINAL QUERY (if we known the domain and the database...):
+//
+// SELECT year, position, crime_category, province, count
+// FROM crime
+// WHERE cluster = "province" and year = 2015 and category like '%drug%'
+//
+// FUZZY QUERY (if we don't known the dataset...) :
+
+
+{
+  "select": [
+  	  { "column": { "instance": "crimedatabase", "label":"year"}},
+  	  { "column": { "instance": "crimedatabase", "label":"position"}},
+  	  { "column": { "instance": "crimedatabase", "label":"province"}},
+      { "column": { "instance": "crimedatabase", "label":"category"}},
+      { "column": { "instance": "crimedatabase", "label":"count"}}
+  ],
+  "from": [
+    "crimedatabase"
+  ],
+  "where": [{"condition": {
+      "instance1": "crimedatabase",
+      "label1": "category",
+      "operator": "eq",
+      "value": "drug",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "crimedatabase",
+      "label1": "year",
+      "operator": "eq",
+      "value": 2015,
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "crimedatabase",
+      "label1": "cluster",
+      "operator": "eq",
+      "value": "province",
+      "logicalOperator": "and"
+    }}
+  ]
+}
