@@ -40,8 +40,8 @@ public class PintaConfig extends MongoTool {
         MongoConfigUtil.setReducer(conf, PintaReducer.class);
         MongoConfigUtil.setOutputKey(conf, Text.class);
         MongoConfigUtil.setOutputValue(conf, BSONWritable.class);
-        MongoConfigUtil.setInputURI(conf, "mongodb://192.168.56.90:27017/hammer.dataset");
-        MongoConfigUtil.setOutputURI(conf, "mongodb://192.168.56.90:27017/hammer.index");
+        MongoConfigUtil.setInputURI(conf, "mongodb://192.168.56.90:27017/hammer." + conf.get("dataset-table"));
+        MongoConfigUtil.setOutputURI(conf, "mongodb://192.168.56.90:27017/hammer." +  conf.get("index-table"));
         //MongoConfigUtil.setInputURI(conf, "mongodb://hammerdb-instance-1:27017/hammer.dataset");
         //MongoConfigUtil.setOutputURI(conf, "mongodb://hammerdb-instance-1:27017/hammer.index");
 
