@@ -26,6 +26,7 @@ public class App {
 	
 
 	/**
+	 * 
 	 * Run the Colombo Search Engine
 	 * 
 	 * @param fileQuery path to file
@@ -35,10 +36,13 @@ public class App {
 	 * @param thKrm the krm value to cut the resources (during relevant resource search)
 	 * @param thRm  the rm value to cut the resources (during sdf phase)
 	 * @param thSim the sim value to cut record during apply where condition
-	 * 
+	 * @param maxSim max number of sim
+	 * @param datasetTable the dataset table
+	 * @param indexTable the index table
+	 * @param thQuery the limit used to prunning the set of query (using cos(theta) function)
 	 * @throws Exception
 	 */
-	public static void Run(String fileQuery, String fileSystem, String searchMode, String queryMode, float thKrm,  float thRm, float thSim, int maxSim, String datasetTable, String indexTable) throws Exception {
+	public static void Run(String fileQuery, String fileSystem, String searchMode, String queryMode, float thKrm,  float thRm, float thSim, int maxSim, String datasetTable, String indexTable, float thQuery) throws Exception {
 		System.out.println("!!! Hammer Project !!!");
 		System.out.println("!!! Colombo Module start.....");
 		
@@ -80,7 +84,7 @@ public class App {
 		conf1.set("maxSim", maxSim + "");
 		conf1.set("dataset-table", datasetTable + "");
 		conf1.set("index-table", indexTable + "");
-
+		conf1.set("thQuery", thQuery + "");
 		
 		conf2.set("search-mode", searchMode);
 		conf2.set("query-mode", queryMode);
@@ -91,6 +95,8 @@ public class App {
 		conf2.set("maxSim", maxSim + "");
 		conf2.set("dataset-table", datasetTable + "");
 		conf2.set("index-table", indexTable + "");
+		conf2.set("thQuery", thQuery + "");
+
 
 
 		// check the query
@@ -146,10 +152,10 @@ public class App {
 
 	public static void main(String[] pArgs) throws Exception {
 
-		if (pArgs == null || pArgs.length < 10) {
-			throw new Exception("Parameter: <path_to_query> <file-system: local|hdfs> <search mode: search|download> <query mode: keywords|labels> <thKrm: 0.5|0.01..>  <thRm: 0.5|0.01..> <thSim: 0.5|0.01..> <maxSim: 1|2|3...> <dataset-table> <index-table>");
+		if (pArgs == null || pArgs.length < 11) {
+			throw new Exception("Parameter: <path_to_query> <file-system: local|hdfs> <search mode: search|download> <query mode: keywords|labels> <thKrm: 0.5|0.01..>  <thRm: 0.5|0.01..> <thSim: 0.5|0.01..> <maxSim: 1|2|3...> <dataset-table> <index-table> <cosTh:0.9991|0.9992>");
 		}
-		Run(pArgs[0], pArgs[1], pArgs[2], pArgs[3], Float.parseFloat(pArgs[4]), Float.parseFloat(pArgs[5]), Float.parseFloat(pArgs[6]), Integer.parseInt(pArgs[7]), pArgs[8], pArgs[9]);
+		Run(pArgs[0], pArgs[1], pArgs[2], pArgs[3], Float.parseFloat(pArgs[4]), Float.parseFloat(pArgs[5]), Float.parseFloat(pArgs[6]), Integer.parseInt(pArgs[7]), pArgs[8], pArgs[9], Float.parseFloat(pArgs[10]));
 	}
 
 	public static String ReadFileFromHdfs(Configuration conf) {

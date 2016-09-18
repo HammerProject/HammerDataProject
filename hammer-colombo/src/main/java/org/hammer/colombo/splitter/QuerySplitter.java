@@ -66,6 +66,7 @@ public class QuerySplitter extends MongoSplitter {
 		MongoClientURI inputURI = MongoConfigUtil.getInputURI(getConfiguration());
 		LOG.debug("---> Colombo Query calculating splits for " + inputURI);
 		float thSim = Float.parseFloat(getConfiguration().get("thSim"));
+		float thQuery = Float.parseFloat(getConfiguration().get("thQuery"));
 		int maxSim = Integer.parseInt(getConfiguration().get("maxSim"));
 
 		// create my query graph object
@@ -131,7 +132,7 @@ public class QuerySplitter extends MongoSplitter {
 		// check the generate query with the main query and remove the major distance query
 		for(List<Term[]> testq: cases) {
 			double sim = SpaceUtils.cos(testq);
-			if(sim < thSim) {
+			if(sim < thQuery) {
 				testq.remove(testq);
 			}
 		}
