@@ -4,44 +4,49 @@
 // www.hammer-project.com
 // mauro.pelucchi@gmail.com
 //
-// List of Damns and hazard potential clas. hight/significant  (LIMPOPO)
+// Civil Unions in South Africa (civil-unions, registrationyear >= 2012, age of spouse >= 35)
 // from africaopendata.org 
 //
+// The Civil Union Act, 2006 (Act No. 17 of 2006) is an act of the 
+// Parliament of South Africa which legalised same-sex marriage. It allows two people, 
+// regardless of gender, to form either a marriage or a civil partnership. 
+// (from wikipedia)
 //
 // ORIGINAL QUERY (if we known the domain and the database...):
-// SELECT town_nearest, hazard_potential, capacity_1000_cub_m, size
-// FROM dams
-// WHERE region_code = "LIMPOPO"....
+// SELECT registrationyear, registrationmonth, spouse1age, spouse2age
+// FROM civil-unions
+// WHERE registrationyear >= 2012 and (spouse1age>= 35 or spouse2age >= 35)
 //
 // FUZZY QUERY (if we don't known the dataset...) :
-//
+
 
 {
   "select": [
-  	  { "column": { "instance": "dams", "label":"town"}},
-  	  { "column": { "instance": "dams", "label":"hazard"}},
-      { "column": { "instance": "dams", "label":"capacity"}}
+  	  { "column": { "instance": "civilunions", "label":"year"}},
+      { "column": { "instance": "civilunions", "label":"month"}},
+      { "column": { "instance": "civilunions", "label":"spouse1age"}},
+      { "column": { "instance": "civilunions", "label":"spouse2age"}}
   ],
   "from": [
-    "dams"
+    "civilunions"
   ],
   "where": [{"condition": {
-      "instance1": "dams",
-      "label1": "region",
-      "operator": "eq",
-      "value": "LIMPOPO",
+      "instance1": "civilunions",
+      "label1": "year",
+      "operator": "ge",
+      "value": 2012,
       "logicalOperator": "and"
     }},{"condition": {
-      "instance1": "dams",
-      "label1": "hazard",
-      "operator": "eq",
-      "value": "Hight",
+      "instance1": "civilunions",
+      "label1": "spouse1age",
+      "operator": "ge",
+      "value": 35,
       "logicalOperator": "or"
     }},{"condition": {
-      "instance1": "dams",
-      "label1": "hazard",
-      "operator": "eq",
-      "value": "Significant",
+      "instance1": "civilunions",
+      "label1": "spouse2age",
+      "operator": "ge",
+      "value": 35,
       "logicalOperator": "or"
     }}
   ]
