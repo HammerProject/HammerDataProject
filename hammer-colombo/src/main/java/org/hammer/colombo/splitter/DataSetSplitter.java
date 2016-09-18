@@ -191,7 +191,7 @@ public class DataSetSplitter extends MongoSplitter {
 			db = mongo.getDatabase(inputURI.getDatabase());
 			// connection with dataset and index collection of mongodb
 			MongoCollection<Document> dataset = db.getCollection(inputURI.getCollection());
-			MongoCollection<Document> index = db.getCollection("index");
+			MongoCollection<Document> index = db.getCollection(getConfiguration().get("index-table") + "");
 
 			for (String key : qList.keySet()) {
 				List<Document> temp = getSetList(qList.get(key), key, dataset, index);

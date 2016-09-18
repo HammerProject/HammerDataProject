@@ -38,7 +38,7 @@ public class App {
 	 * 
 	 * @throws Exception
 	 */
-	public static void Run(String fileQuery, String fileSystem, String searchMode, String queryMode, float thKrm,  float thRm, float thSim, int maxSim) throws Exception {
+	public static void Run(String fileQuery, String fileSystem, String searchMode, String queryMode, float thKrm,  float thRm, float thSim, int maxSim, String datasetTable, String indexTable) throws Exception {
 		System.out.println("!!! Hammer Project !!!");
 		System.out.println("!!! Colombo Module start.....");
 		
@@ -78,6 +78,8 @@ public class App {
 		conf1.set("thKrm", thKrm + "");
 		conf1.set("thSim", thSim + "");
 		conf1.set("maxSim", maxSim + "");
+		conf1.set("dataset-table", datasetTable + "");
+		conf1.set("index-table", indexTable + "");
 
 		
 		conf2.set("search-mode", searchMode);
@@ -87,6 +89,9 @@ public class App {
 		conf2.set("thKrm", thKrm + "");
 		conf2.set("thSim", thSim + "");
 		conf2.set("maxSim", maxSim + "");
+		conf2.set("dataset-table", datasetTable + "");
+		conf2.set("index-table", indexTable + "");
+
 
 		// check the query
 		Isabella parser = new Isabella(new StringReader(query));
@@ -141,10 +146,10 @@ public class App {
 
 	public static void main(String[] pArgs) throws Exception {
 
-		if (pArgs == null || pArgs.length < 8) {
-			throw new Exception("Parameter: <path_to_query> <file-system: local|hdfs> <search mode: search|download> <query mode: keywords|labels> <thKrm: 0.5|0.01..>  <thRm: 0.5|0.01..> <thSim: 0.5|0.01..> <maxSim: 1|2|3...>");
+		if (pArgs == null || pArgs.length < 10) {
+			throw new Exception("Parameter: <path_to_query> <file-system: local|hdfs> <search mode: search|download> <query mode: keywords|labels> <thKrm: 0.5|0.01..>  <thRm: 0.5|0.01..> <thSim: 0.5|0.01..> <maxSim: 1|2|3...> <dataset-table> <index-table>");
 		}
-		Run(pArgs[0], pArgs[1], pArgs[2], pArgs[3], Float.parseFloat(pArgs[4]), Float.parseFloat(pArgs[5]), Float.parseFloat(pArgs[6]), Integer.parseInt(pArgs[7]));
+		Run(pArgs[0], pArgs[1], pArgs[2], pArgs[3], Float.parseFloat(pArgs[4]), Float.parseFloat(pArgs[5]), Float.parseFloat(pArgs[6]), Integer.parseInt(pArgs[7]), pArgs[8], pArgs[9]);
 	}
 
 	public static String ReadFileFromHdfs(Configuration conf) {

@@ -97,7 +97,7 @@ public class QueryMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 					db = mongo.getDatabase(inputURI.getDatabase());
 					// connection with dataset and index collection of mongodb
 					MongoCollection<Document> dataset = db.getCollection(inputURI.getCollection());
-					MongoCollection<Document> index = db.getCollection("index");
+					MongoCollection<Document> index = db.getCollection(conf.get("index-table") + "");
 
 					List<Document> temp = getSetList(query, pKey.toString(), dataset, index);
 

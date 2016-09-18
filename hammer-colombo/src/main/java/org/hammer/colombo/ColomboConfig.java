@@ -44,7 +44,7 @@ public class ColomboConfig extends MongoTool {
         MongoConfigUtil.setOutputKey(conf, Text.class);
         MongoConfigUtil.setOutputValue(conf, BSONWritable.class);
         
-        MongoConfigUtil.setInputURI(conf, "mongodb://192.168.56.90:27017/hammer.dataset");
+        MongoConfigUtil.setInputURI(conf, "mongodb://192.168.56.90:27017/hammer." + conf.get("dataset-table"));
         
         MongoConfigUtil.setOutputURI(conf, "mongodb://192.168.56.90:27017/hammer." + conf.get("query-table"));
 

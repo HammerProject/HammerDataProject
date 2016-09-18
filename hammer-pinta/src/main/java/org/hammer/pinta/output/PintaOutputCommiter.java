@@ -166,7 +166,7 @@ public class PintaOutputCommiter extends OutputCommitter {
 			MongoClientURI inputURI = MongoConfigUtil.getInputURI(conf);
 			mongo = new MongoClient(inputURI);
 			db = mongo.getDatabase(inputURI.getDatabase());
-			MongoCollection<Document> myIdx = db.getCollection("index");
+			MongoCollection<Document> myIdx = db.getCollection(conf.get("index-table") + "");
 			float c = 0.0f;
 			for (String term : index.keySet()) {
 				List<Keyword> similatirySet = new ArrayList<Keyword>();
@@ -327,7 +327,7 @@ public class PintaOutputCommiter extends OutputCommitter {
 			mongo = new MongoClient(inputURI);
 			db = mongo.getDatabase(inputURI.getDatabase());
 
-			MongoCollection<Document> myIdx = db.getCollection("index");
+			MongoCollection<Document> myIdx = db.getCollection(conf.get("index-table") + "");
 			final long totalResources = myIdx.count();
 			LOG.info("TOTAL INDEX KEYWORDS ---> " + totalResources);
 			FindIterable<Document> iterable = myIdx.find();

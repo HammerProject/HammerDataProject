@@ -49,7 +49,7 @@ public class StatUtils {
 			mongo = new MongoClient(inputURI);
 			db = mongo.getDatabase(inputURI.getDatabase());
 
-			MongoCollection<Document> myIdx = db.getCollection("index");
+			MongoCollection<Document> myIdx = db.getCollection(conf.get("index-table") + "");
 			final long totalResources = myIdx.count();
 			LOG.info("TOTAL INDEX KEYWORDS ---> " + totalResources);
 			FindIterable<Document> iterable = myIdx.find();
