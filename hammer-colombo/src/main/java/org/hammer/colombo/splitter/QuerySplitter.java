@@ -131,7 +131,7 @@ public class QuerySplitter extends MongoSplitter {
 		LOG.info("--- FUZZY SEARCH QUERY --> " + beforePrunning.size());
 
 		// check the generate query with the main query and remove the major distance query
-		for(List<Term[]> testq: cases) {
+		for(List<Term[]> testq: beforePrunning) {
 			double sim = SpaceUtils.cos(testq);
 			if(sim >= thQuery) {
 				cases.add(testq);
