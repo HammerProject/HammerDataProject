@@ -14,7 +14,7 @@
 //
 // ORIGINAL QUERY (if we known the domain and the database...):
 //
-// SELECT year, position, crime_category, province, count
+// SELECT crime_category, province, count
 // FROM crime
 // WHERE cluster = "province" and year = 2015 and category like '%drug%'
 //
@@ -23,8 +23,6 @@
 
 {
   "select": [
-  	  { "column": { "instance": "crimedatabase", "label":"year"}},
-  	  { "column": { "instance": "crimedatabase", "label":"position"}},
   	  { "column": { "instance": "crimedatabase", "label":"province"}},
       { "column": { "instance": "crimedatabase", "label":"category"}},
       { "column": { "instance": "crimedatabase", "label":"count"}}
