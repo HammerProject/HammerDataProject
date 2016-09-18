@@ -122,18 +122,19 @@ public class QuerySplitter extends MongoSplitter {
 		LOG.info("---- Create all the combination per FUZZY SEARCH -----");
 		// recursive call
 		List<Term[]> optionsList = new ArrayList<Term[]>();
+		List<List<Term[]>> beforePrunning = new ArrayList<List<Term[]>>();
 		List<List<Term[]>> cases = new ArrayList<List<Term[]>>();
 		
 		// calculate all the combination
-		RecursiveString.Recurse(optionsList, similarity, 0, cases);
+		RecursiveString.Recurse(optionsList, similarity, 0, beforePrunning);
 		
-		LOG.info("--- FUZZY SEARCH QUERY --> " + cases.size());
+		LOG.info("--- FUZZY SEARCH QUERY --> " + beforePrunning.size());
 
 		// check the generate query with the main query and remove the major distance query
 		for(List<Term[]> testq: cases) {
 			double sim = SpaceUtils.cos(testq);
-			if(sim < thQuery) {
-				testq.remove(testq);
+			if(sim >= thQuery) {
+				cases.add(testq);
 			}
 		}
 		//
