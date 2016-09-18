@@ -17,16 +17,16 @@ bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 false 5
 
 
 ## download all resources by query
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/query_1.json local download labels 0.0 0.0 0.0
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/query_1.json local download labels 0.0 0.0 0.0 0 dataset index 0.0
 
 ## download selected resources by query
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/example_1.json local download keywords 0.0 0.0 0.0
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/example_1.json local download keywords 0.0 0.0 0.0 0 dataset index 0.0
 
 ## search all resources by query
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/example_1.json local search labels 0.3 0.3 0.95 3
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/example_1.json local search labels 0.3 0.3 0.90 2 subset subindex 0.9996
 
 ## search selected resources by query
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/test_1f.json local search keywords 0.3 0.3 0.95 3
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/test_1f.json local search keywords 0.3 0.3 0.90 2 subset subindex 0.9996
 
 
 ###############################################################################
