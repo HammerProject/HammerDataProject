@@ -1,0 +1,33 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// Restaurant Inspection Results
+//
+
+{
+  "select": [
+      { "column": { "instance": "restaurant_inspection", "label":"inspection_date"}},
+      { "column": { "instance": "restaurant_inspection", "label":"zip_code"}},
+      { "column": { "instance": "restaurant_inspection", "label":"city"}},
+      { "column": { "instance": "restaurant_inspection", "label":"street"}},
+ 	  { "column": { "instance": "restaurant_inspection", "label":"critical"}},
+ 	  { "column": { "instance": "restaurant_inspection", "label":"violation"}},
+ 	  { "column": { "instance": "restaurant_inspection", "label":"score"}}
+  ],
+  "from": [
+    "restaurant_inspection"
+  ],
+  "where": [{"condition": {
+      "instance1": "restaurant_inspection",
+      "label1": "date",
+      "operator": "gt",
+      "value": "2016/01/01",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+

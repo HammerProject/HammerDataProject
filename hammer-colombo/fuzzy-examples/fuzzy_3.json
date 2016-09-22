@@ -7,18 +7,6 @@
 // Police crime stats 2015 --> focus on "Drug-related crime", detail = province
 // Africa
 //
-// Metadata:
-// Province,Cluster,Station,Unit,Crime Category,Year,Count,Position,Station / Province
-// from africaopendata.org 
-//
-//
-// ORIGINAL QUERY (if we known the domain and the database...):
-//
-// SELECT crime_category, province, count
-// FROM crime
-// WHERE cluster = "province" and year = 2015 and category like '%drug%'
-//
-// FUZZY QUERY (if we don't known the dataset...) :
 
 
 {

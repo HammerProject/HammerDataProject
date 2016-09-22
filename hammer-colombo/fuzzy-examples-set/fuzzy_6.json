@@ -1,0 +1,32 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// Where are Water point not funtional?
+//
+
+{
+  "select": [
+      { "column": { "instance": "water", "label":"waterpoint_name"}},
+  	  { "column": { "instance": "water", "label":"ward"}},
+ 	  { "column": { "instance": "water", "label":"quantity"}},
+ 	  { "column": { "instance": "water", "label":"longitude"}},
+ 	  { "column": { "instance": "water", "label":"latitude"}},
+      { "column": { "instance": "water", "label":"status"}}
+  ],
+  "from": [
+    "water"
+  ],
+  "where": [{"condition": {
+      "instance1": "water",
+      "label1": "status",
+      "operator": "eq",
+      "value": "no functional",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+

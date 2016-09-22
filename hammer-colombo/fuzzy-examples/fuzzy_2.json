@@ -7,18 +7,6 @@
 // Civil Unions in South Africa (civil-unions, registrationyear >= 2012, age of spouse >= 35)
 // from africaopendata.org 
 //
-// The Civil Union Act, 2006 (Act No. 17 of 2006) is an act of the 
-// Parliament of South Africa which legalised same-sex marriage. It allows two people, 
-// regardless of gender, to form either a marriage or a civil partnership. 
-// (from wikipedia)
-//
-// ORIGINAL QUERY (if we known the domain and the database...):
-//
-// SELECT registrationyear, registrationmonth, spouse1age, spouse2age
-// FROM civil-unions
-// WHERE registrationyear >= 2012 and (spouse1age>= 35 or spouse2age >= 35)
-//
-// FUZZY QUERY (if we don't known the dataset...) :
 
 
 {

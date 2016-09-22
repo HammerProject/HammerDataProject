@@ -1,0 +1,37 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// Free Wi-Fi Hotspot Locations in New York
+//
+
+{
+  "select": [
+      { "column": { "instance": "wifi", "label":"location"}},
+      { "column": { "instance": "wifi", "label":"ssid"}},
+ 	  { "column": { "instance": "wifi", "label":"lat"}},
+ 	  { "column": { "instance": "wifi", "label":"long"}},
+ 	  { "column": { "instance": "wifi", "label":"name"}}
+  ],
+  "from": [
+    "wifi"
+  ],
+  "where": [{"condition": {
+      "instance1": "wifi",
+      "label1": "type",
+      "operator": "eq",
+      "value": "free",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "wifi",
+      "label1": "city",
+      "operator": "eq",
+      "value": "New York",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+

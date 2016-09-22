@@ -13,18 +13,6 @@
 // county --> county/area of Kenya
 // 
 //
-// in East-Aprifca
-// from africaopendata.org 
-//
-// 
-//
-// ORIGINAL QUERY (if we known the domain and the database...):
-// SQL
-// SELECT updated, county1, location, under_weight_3_sd, stuting_3_sd, wasting_3_sd
-// FROM nutrition_child
-// WHERE county1 = "Turkana" or county1 = "Kenya Average"
-//
-// FUZZY QUERY (if we don't known the dataset...) :
 
 {
   "select": [

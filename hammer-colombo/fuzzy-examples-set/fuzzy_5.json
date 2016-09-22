@@ -1,0 +1,30 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// Water Usage by city, year and description (year = 2016)
+//
+
+{
+  "select": [
+      { "column": { "instance": "water", "label":"city"}},
+  	  { "column": { "instance": "water", "label":"year"}},
+ 	  { "column": { "instance": "water", "label":"description"}},
+      { "column": { "instance": "water", "label":"consumption"}}
+  ],
+  "from": [
+    "water"
+  ],
+  "where": [{"condition": {
+      "instance1": "water",
+      "label1": "year",
+      "operator": "eq",
+      "value": "2016",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
