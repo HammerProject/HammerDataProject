@@ -5,27 +5,34 @@
 // mauro.pelucchi@gmail.com
 //
 // 
-// Where are Water point not funtional?
+// Where are Water point with insufficient quantity or dry?
 //
 
 {
   "select": [
-      { "column": { "instance": "water", "label":"waterpoint_name"}},
-  	  { "column": { "instance": "water", "label":"ward"}},
- 	  { "column": { "instance": "water", "label":"quantity"}},
- 	  { "column": { "instance": "water", "label":"longitude"}},
- 	  { "column": { "instance": "water", "label":"latitude"}},
-      { "column": { "instance": "water", "label":"status"}}
+      { "column": { "instance": "waterpoint", "label":"region"}},
+  	  { "column": { "instance": "waterpoint", "label":"ward"}},
+ 	  { "column": { "instance": "waterpoint", "label":"quantity"}},
+ 	  { "column": { "instance": "waterpoint", "label":"waterquality"}},
+ 	  { "column": { "instance": "waterpoint", "label":"longitude"}},
+ 	  { "column": { "instance": "waterpoint", "label":"latitude"}},
+      { "column": { "instance": "waterpoint", "label":"status"}}
   ],
   "from": [
-    "water"
+    "waterpoint"
   ],
   "where": [{"condition": {
-      "instance1": "water",
-      "label1": "status",
+      "instance1": "waterpoint",
+      "label1": "quantity",
       "operator": "eq",
-      "value": "no functional",
-      "logicalOperator": "and"
+      "value": "dry",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "waterpoint",
+      "label1": "quantity",
+      "operator": "eq",
+      "value": "insufficient",
+      "logicalOperator": "or"
     }}
   ]
 }

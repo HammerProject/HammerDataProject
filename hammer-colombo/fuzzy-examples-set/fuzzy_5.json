@@ -10,16 +10,16 @@
 
 {
   "select": [
-      { "column": { "instance": "water", "label":"city"}},
-  	  { "column": { "instance": "water", "label":"year"}},
- 	  { "column": { "instance": "water", "label":"description"}},
-      { "column": { "instance": "water", "label":"consumption"}}
+      { "column": { "instance": "water_usage", "label":"city"}},
+  	  { "column": { "instance": "water_usage", "label":"year"}},
+ 	  { "column": { "instance": "water_usage", "label":"description"}},
+      { "column": { "instance": "water_usage", "label":"consumption"}}
   ],
   "from": [
-    "water"
+    "water_usage"
   ],
   "where": [{"condition": {
-      "instance1": "water",
+      "instance1": "water_usage",
       "label1": "year",
       "operator": "eq",
       "value": "2016",

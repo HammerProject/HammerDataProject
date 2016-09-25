@@ -6,32 +6,25 @@
 //
 // 
 // Social Media Usage by 311 US Agency
-// from 1/1/2015
 // 
 //
 //
 
 {
   "select": [
-      { "column": { "instance": "platform", "label":"platform"}},
-  	  { "column": { "instance": "platform", "label":"date"}},
-  	  { "column": { "instance": "platform", "label":"agency"}},
-      { "column": { "instance": "platform", "label":"statistics"}}
+  	  { "column": { "instance": "twitter_statistics", "label":"date"}},
+  	  { "column": { "instance": "twitter_statistics", "label":"agency"}},
+  	  { "column": { "instance": "twitter_statistics", "label":"url"}},
+      { "column": { "instance": "twitter_statistics", "label":"statistics"}}
   ],
   "from": [
-    "platform"
+    "twitter_statistics"
   ],
   "where": [{"condition": {
-      "instance1": "platform",
+      "instance1": "twitter_statistics",
       "label1": "agency",
       "operator": "eq",
       "value": "311",
-      "logicalOperator": "and"
-    }},{"condition": {
-      "instance1": "platform",
-      "label1": "date",
-      "operator": "ge",
-      "value": "01/01/2015",
       "logicalOperator": "and"
     }}
   ]

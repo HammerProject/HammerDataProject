@@ -13,7 +13,7 @@
       { "column": { "instance": "collisions", "label":"date"}},
   	  { "column": { "instance": "collisions", "label":"latitude"}},
  	  { "column": { "instance": "collisions", "label":"longitude"}},
- 	  { "column": { "instance": "collisions", "label":"vehicle_type_code"}}
+ 	  { "column": { "instance": "collisions", "label":"vehicle_type"}}
   ],
   "from": [
     "collisions"

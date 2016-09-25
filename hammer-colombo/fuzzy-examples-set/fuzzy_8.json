@@ -12,8 +12,8 @@
   "select": [
       { "column": { "instance": "wifi", "label":"location"}},
       { "column": { "instance": "wifi", "label":"ssid"}},
- 	  { "column": { "instance": "wifi", "label":"lat"}},
- 	  { "column": { "instance": "wifi", "label":"long"}},
+ 	  { "column": { "instance": "wifi", "label":"latitude"}},
+ 	  { "column": { "instance": "wifi", "label":"longitude"}},
  	  { "column": { "instance": "wifi", "label":"name"}}
   ],
   "from": [

@@ -5,21 +5,15 @@
 // mauro.pelucchi@gmail.com
 //
 // Percentage of Children (6 - 59 months)  who are Severely Undernourished
-// (KENYA Average vs Turkana)
+// (KENYA Monbasa vs Naiorbi vs Turkana)
 // 
-// wasting_3_sd --> % severe undernutrition
-// stuting_3_sd --> % severe stunting
-// under_weight_3_sd --> % severe underweight
-// county --> county/area of Kenya
 // 
 //
 
 {
   "select": [
-  	  { "column": { "instance": "nutrition", "label":"updated"}},
       { "column": { "instance": "nutrition", "label":"county"}},
-      { "column": { "instance": "nutrition", "label":"location"}},
-      { "column": { "instance": "nutrition", "label":"under_weight"}},
+      { "column": { "instance": "nutrition", "label":"underweight"}},
       { "column": { "instance": "nutrition", "label":"stuting"}},
       { "column": { "instance": "nutrition", "label":"wasting"}}
   ],
@@ -36,7 +30,13 @@
       "instance1": "nutrition",
       "label1": "county",
       "operator": "eq",
-      "value": "Kenya Average",
+      "value": "Monbasa",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "nutrition",
+      "label1": "county",
+      "operator": "eq",
+      "value": "Nairobi",
       "logicalOperator": "or"
     }}
   ]

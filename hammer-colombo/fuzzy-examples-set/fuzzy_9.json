@@ -14,8 +14,8 @@
       { "column": { "instance": "restaurant_inspection", "label":"zip_code"}},
       { "column": { "instance": "restaurant_inspection", "label":"city"}},
       { "column": { "instance": "restaurant_inspection", "label":"street"}},
- 	  { "column": { "instance": "restaurant_inspection", "label":"critical"}},
- 	  { "column": { "instance": "restaurant_inspection", "label":"violation"}},
+ 	  { "column": { "instance": "restaurant_inspection", "label":"critical_issue"}},
+ 	  { "column": { "instance": "restaurant_inspection", "label":"violation_list"}},
  	  { "column": { "instance": "restaurant_inspection", "label":"score"}}
   ],
   "from": [
