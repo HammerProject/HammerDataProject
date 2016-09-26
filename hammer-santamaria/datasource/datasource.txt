@@ -122,3 +122,4 @@ db.datasource2.insert(
 db.datasource1.insert(
 { "name" : "data.gov", "url" : "http://catalog.data.gov/api/action", "action" : "http://catalog.data.gov/api/action", "type" : "org.hammer.santamaria.input.CKAN3BigSourceRecordReader" }
 );
+

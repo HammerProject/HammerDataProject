@@ -1,0 +1,7 @@
+db.dataset.find({"datasource":"data.cityofnewyork.us"}).forEach(function(doc){
+   db.cityofnewyork.insert(doc);
+});
+
+
+## create/update the inverted index and calc re/sim of each tems
+bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 true 5 cityofnewyork cny_index
