@@ -4,7 +4,7 @@
 // www.hammer-project.com
 // mauro.pelucchi@gmail.com
 //
-// Police crime stats 2015 --> focus on "Drug-related crime", detail = province
+// Police crime stats 2015 --> focus on "Drug-related crime"
 // Africa
 //
 
@@ -29,12 +29,6 @@
       "label1": "year",
       "operator": "eq",
       "value": 2015,
-      "logicalOperator": "and"
-    }},{"condition": {
-      "instance1": "crimedatabase",
-      "label1": "cluster",
-      "operator": "eq",
-      "value": "province",
       "logicalOperator": "and"
     }}
   ]

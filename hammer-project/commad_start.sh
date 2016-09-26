@@ -72,3 +72,8 @@ bin/hadoop fs -rm -r /hammer/download
 
 ## create download folder
 bin/hadoop fs -mkdir /hammer/download
+
+
+
+## avvio mongodb
+sudo mongod -f /etc/mongod.conf --smallfiles
