@@ -25,7 +25,7 @@
       "label1": "agency",
       "operator": "eq",
       "value": "311",
-      "logicalOperator": "and"
+      "logicalOperator": "or"
     }}
   ]
 }

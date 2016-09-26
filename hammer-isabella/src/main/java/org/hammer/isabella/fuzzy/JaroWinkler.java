@@ -322,7 +322,7 @@ public class JaroWinkler {
     
 	public static void main( String[] args )
     {
-		System.out.println(JaroWinkler.ApplyToTextByList("till ios10","ios10, sistema"));
-    
+		//System.out.println(JaroWinkler.ApplyToTextByList("till ios10","ios10, sistema"));
+		System.out.println(JaroWinkler.Apply("311", "311"));
     }
 }
