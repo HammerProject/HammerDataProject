@@ -174,6 +174,7 @@ public class DataSetSplitter extends MongoSplitter {
 		statObj.put("record-selected", 0);
 		statObj.put("resource-count", 0);
 		statObj.put("size", 0);
+		statObj.put("total-query", 0);
 		statObj.put("fuzzy-query", qList.size());
 
 		StatUtils.SaveStat(this.getConfiguration(), statObj);
@@ -218,6 +219,7 @@ public class DataSetSplitter extends MongoSplitter {
 		statObj.put("resource-count", dataSet.size());
 		statObj.put("size",  0);
 		statObj.put("fuzzy-query", 0);
+		statObj.put("total-query", 0);
 		StatUtils.SaveStat(this.getConfiguration(), statObj);
 		//
 		//

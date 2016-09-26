@@ -118,6 +118,7 @@ public class QueryOutputCommiter extends OutputCommitter {
 		statObj.put("resource-count", inserted);
 		statObj.put("size", 0);
 		statObj.put("fuzzy-query", 0);
+		statObj.put("total-query", 0);
 		StatUtils.SaveStat(taskContext.getConfiguration(), statObj);
 
 		cleanupAfterCommit(inputStream, taskContext);

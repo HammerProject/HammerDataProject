@@ -102,6 +102,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 			statObj.put("resource-count", 0);
 			statObj.put("size", size);
 			statObj.put("fuzzy-query", 0);
+			statObj.put("total-query", 0);
 			StatUtils.SaveStat(this.conf, statObj);
 
 			// download output doesn't sent record to commiter and record writer
@@ -185,6 +186,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 			statObj.put("resource-count", 0);
 			statObj.put("size", size);
 			statObj.put("fuzzy-query", 0);
+			statObj.put("total-query", 0);
 			StatUtils.SaveStat(this.conf, statObj);
 
 			LOG.debug("COLOMBO REDUCE2 - FOUND AND WRITE " + pKey + " DATASET ");
