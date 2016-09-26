@@ -46,11 +46,11 @@ public class SpaceUtils {
 		
 		double cosTheta = (xy) / (xbar * ybar);
 		
-		LOG.info("--------------------------------------");
-		LOG.info(x_);
-		LOG.info(y_);
-		LOG.info("cos(th) - " + cosTheta);
-		LOG.info("--------------------------------------");
+		LOG.debug("--------------------------------------");
+		LOG.debug(x_);
+		LOG.debug(y_);
+		LOG.debug("cos(th) - " + cosTheta);
+		LOG.debug("--------------------------------------");
 
 		
 		return cosTheta;

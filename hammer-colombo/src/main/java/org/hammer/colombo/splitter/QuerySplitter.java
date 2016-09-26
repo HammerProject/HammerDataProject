@@ -129,6 +129,7 @@ public class QuerySplitter extends MongoSplitter {
 		RecursiveString.Recurse(optionsList, similarity, 0, beforePrunning);
 		
 		LOG.info("--- FUZZY SEARCH QUERY --> " + beforePrunning.size());
+		int fuzzyQueryBefore =  beforePrunning.size();
 
 		// check the generate query with the main query and remove the major distance query
 		for(List<Term[]> testq: beforePrunning) {
@@ -183,6 +184,9 @@ public class QuerySplitter extends MongoSplitter {
 		statObj.put("resource-count", 0);
 		statObj.put("size", 0);
 		statObj.put("fuzzy-query", qSplit.size());
+		statObj.put("total-query", fuzzyQueryBefore);
+		
+		
 
 		StatUtils.SaveStat(this.getConfiguration(), statObj);
 

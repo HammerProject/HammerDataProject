@@ -153,6 +153,7 @@ public class StatUtils {
 				long  size =  Long.parseLong("" + stat.get("size"));
 				long  resource_count = Long.parseLong("" + stat.get("resource-count"));
 				long  fuzzy_query = Long.parseLong("" + stat.get("fuzzy-query"));
+				long  total_query = Long.parseLong("" + stat.get("total-query"));
 				
 				if(oldStat != null ) {
 					record_total += oldStat.getLong("record-total");
@@ -160,6 +161,7 @@ public class StatUtils {
 					size += oldStat.getLong("size");
 					resource_count += oldStat.getLong("resource-count");
 					fuzzy_query += oldStat.getLong("fuzzy-query");
+					total_query += oldStat.getLong("total-query");
 							
 					db.getCollection(conf.get("stat-result")).findOneAndUpdate(new Document("_id", "stat"),
 							new Document("$set", new Document("record-total", record_total)));
@@ -171,6 +173,8 @@ public class StatUtils {
 							new Document("$set", new Document("resource-count", resource_count)));
 					db.getCollection(conf.get("stat-result")).findOneAndUpdate(new Document("_id", "stat"),
 							new Document("$set", new Document("fuzzy-query", fuzzy_query)));
+					db.getCollection(conf.get("stat-result")).findOneAndUpdate(new Document("_id", "stat"),
+							new Document("$set", new Document("total-query", total_query)));
 				} else {
 					Document doc = new Document();
 					doc.append("_id", "stat");
@@ -179,6 +183,7 @@ public class StatUtils {
 					doc.append("size", size);
 					doc.append("resource-count", resource_count);
 					doc.append("fuzzy-query", fuzzy_query);
+					doc.append("total-query", total_query);
 					db.getCollection(conf.get("stat-result")).insertOne(doc);
 				}
 
