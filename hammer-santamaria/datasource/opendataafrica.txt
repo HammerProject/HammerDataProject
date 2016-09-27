@@ -12,4 +12,7 @@ mongoexport --host localhost --db hammer --collection subset --csv --out opendat
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/fuzzy_1.json local search keywords 0.2 0.2 0.90 3 subset subindex 0.9995
 
 ##export list
-mongoexport --host localhost --db hammer --collection list_1234402126 --csv --out list_1234402126.csv --fields title
+mongoexport --host localhost --db hammer --collection list_1041005739 --csv --out list_1041005739.csv --fields title
+
+
+
