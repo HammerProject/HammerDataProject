@@ -12,5 +12,5 @@ mongoexport --host localhost --db hammer --collection cityofnewyork --csv --out 
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/fuzzy_4.json local search keywords 0.2 0.2 0.90 3 cityofnewyork cny_index 0.9995
 
 
-mongoexport --host localhost --db hammer --collection list_1645114732 --csv --out list_1645114732.csv --fields title
+mongoexport --host localhost --db hammer --collection list756795478 --csv --out list756795478.csv --fields title
 
