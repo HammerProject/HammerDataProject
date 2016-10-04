@@ -5,26 +5,25 @@
 // mauro.pelucchi@gmail.com
 //
 // 
-// Social Media Usage by 311 US Agency
+// How many teachers work at the public school?
 // 
 //
 //
 
 {
   "select": [
-  	  { "column": { "instance": "twitter_statistics", "label":"date"}},
-  	  { "column": { "instance": "twitter_statistics", "label":"agency"}},
-  	  { "column": { "instance": "twitter_statistics", "label":"url"}},
-      { "column": { "instance": "twitter_statistics", "label":"statistics"}}
+  	  { "column": { "instance": "teachers", "label":"county"}},
+  	  { "column": { "instance": "teachers", "label":"schooltype"}},
+  	  { "column": { "instance": "teachers", "label":"noofteachers"}}
   ],
   "from": [
-    "twitter_statistics"
+    "teachers"
   ],
   "where": [{"condition": {
-      "instance1": "twitter_statistics",
-      "label1": "agency",
+      "instance1": "teachers",
+      "label1": "schooltype",
       "operator": "eq",
-      "value": "311",
+      "value": "public",
       "logicalOperator": "or"
     }}
   ]

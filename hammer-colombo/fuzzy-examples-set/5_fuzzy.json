@@ -5,25 +5,25 @@
 // mauro.pelucchi@gmail.com
 //
 // 
-// Water Usage by city, year and description (year = 2016)
+// Water Consumption by city, year and description (year = 2013)
 //
 
 {
   "select": [
-      { "column": { "instance": "water_usage", "label":"city"}},
-  	  { "column": { "instance": "water_usage", "label":"year"}},
- 	  { "column": { "instance": "water_usage", "label":"description"}},
-      { "column": { "instance": "water_usage", "label":"consumption"}}
+      { "column": { "instance": "waterconsumption", "label":"city"}},
+  	  { "column": { "instance": "waterconsumption", "label":"date"}},
+ 	  { "column": { "instance": "waterconsumption", "label":"description"}},
+      { "column": { "instance": "waterconsumption", "label":"consumption_per_capita"}}
   ],
   "from": [
-    "water_usage"
+    "waterconsumption"
   ],
   "where": [{"condition": {
-      "instance1": "water_usage",
-      "label1": "year",
+      "instance1": "waterconsumption",
+      "label1": "date",
       "operator": "eq",
-      "value": "2016",
-      "logicalOperator": "and"
+      "value": "2013-12-31t00:00:00",
+      "logicalOperator": "or"
     }}
   ]
 }

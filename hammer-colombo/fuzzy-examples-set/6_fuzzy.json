@@ -1,0 +1,31 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// Export of Orchids
+// 
+//
+//
+
+{
+  "select": [
+  	  { "column": { "instance": "national-exports", "label":"commodity"}},
+  	  { "column": { "instance": "national-exports", "label":"kg"}},
+  	  { "column": { "instance": "national-exports", "label":"money"}}
+  ],
+  "from": [
+    "national-exports"
+  ],
+  "where": [{"condition": {
+      "instance1": "national-exports",
+      "label1": "commodity",
+      "operator": "eq",
+      "value": "Orchids",
+      "logicalOperator": "or"
+    }}
+  ]
+}
+

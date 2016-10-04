@@ -4,32 +4,33 @@
 // www.hammer-project.com
 // mauro.pelucchi@gmail.com
 //
-// Police crime stats 2015 --> focus on "Drug-related crime"
-// Africa
+// 
+// Where are Water point?
 //
-
 
 {
   "select": [
-  	  { "column": { "instance": "crimedatabase", "label":"province"}},
-      { "column": { "instance": "crimedatabase", "label":"category"}},
-      { "column": { "instance": "crimedatabase", "label":"count"}}
+      { "column": { "instance": "wateravailability", "label":"district"}},
+  	  { "column": { "instance": "wateravailability", "label":"location"}},
+ 	  { "column": { "instance": "wateravailability", "label":"position"}},
+      { "column": { "instance": "wateravailability", "label":"wateravailability"}}
   ],
   "from": [
-    "crimedatabase"
+    "wateravailability"
   ],
   "where": [{"condition": {
-      "instance1": "crimedatabase",
-      "label1": "category",
+      "instance1": "wateravailability",
+      "label1": "functional-status",
       "operator": "eq",
-      "value": "drug",
-      "logicalOperator": "and"
+      "value": "functional",
+      "logicalOperator": "or"
     }},{"condition": {
-      "instance1": "crimedatabase",
-      "label1": "year",
+      "instance1": "wateravailability",
+      "label1": "functional-status",
       "operator": "eq",
-      "value": 2015,
-      "logicalOperator": "and"
+      "value": "yes",
+      "logicalOperator": "or"
     }}
   ]
 }
+
