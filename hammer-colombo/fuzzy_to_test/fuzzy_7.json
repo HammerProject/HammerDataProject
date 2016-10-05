@@ -23,7 +23,7 @@
       "label1": "date",
       "operator": "gt",
       "value": "2016/01/01",
-      "logicalOperator": "and"
+      "logicalOperator": "or"
     }}
   ]
 }
