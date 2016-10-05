@@ -1,0 +1,31 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// List of protest manifestation for Xenophobia
+//
+
+{
+  "select": [
+      { "column": { "instance": "protests", "label":"coordinates"}},
+      { "column": { "instance": "protests", "label":"reasonforprotest"}},
+ 	  { "column": { "instance": "protests", "label":"startdate"}},
+ 	  { "column": { "instance": "protests", "label":"enddate"}},
+ 	  { "column": { "instance": "protests", "label":"violentornoviolent"}}
+  ],
+  "from": [
+    "protests"
+  ],
+  "where": [{"condition": {
+      "instance1": "protests",
+      "label1": "type",
+      "operator": "eq",
+      "value": "xenophobia",
+      "logicalOperator": "or"
+    }}
+  ]
+}
+
