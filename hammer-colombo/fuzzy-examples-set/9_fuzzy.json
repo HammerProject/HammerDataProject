@@ -12,7 +12,7 @@
   "select": [
       { "column": { "instance": "party", "label":"party"}},
       { "column": { "instance": "party", "label":"proportional"}},
-      { "column": { "instance": "party", "label":"quitable"}}
+      { "column": { "instance": "party", "label":"equitable"}}
   ],
   "from": [
     "party"
