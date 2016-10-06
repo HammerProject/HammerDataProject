@@ -5,23 +5,23 @@
 // mauro.pelucchi@gmail.com
 //
 // 
-// Candidates election from 2010
+// Political Party Fund Allocations 2015
 //
 
 {
   "select": [
-      { "column": { "instance": "candidates", "label":"party"}},
-      { "column": { "instance": "candidates", "label":"surname"}},
-      { "column": { "instance": "candidates", "label":"name"}}
+      { "column": { "instance": "party", "label":"party"}},
+      { "column": { "instance": "party", "label":"proportional"}},
+      { "column": { "instance": "party", "label":"quitable"}}
   ],
   "from": [
-    "candidates"
+    "party"
   ],
   "where": [{"condition": {
-      "instance1": "candidates",
+      "instance1": "party",
       "label1": "year",
-      "operator": "ge",
-      "value": "2010",
+      "operator": "eq",
+      "value": "2015",
       "logicalOperator": "or"
     }}
   ]
