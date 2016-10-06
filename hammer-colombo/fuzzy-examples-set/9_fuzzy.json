@@ -5,7 +5,7 @@
 // mauro.pelucchi@gmail.com
 //
 // 
-// Candidates election 2010
+// Candidates election from 2010
 //
 
 {
@@ -20,7 +20,7 @@
   "where": [{"condition": {
       "instance1": "candidates",
       "label1": "year",
-      "operator": "gq",
+      "operator": "ge",
       "value": "2010",
       "logicalOperator": "or"
     }}
