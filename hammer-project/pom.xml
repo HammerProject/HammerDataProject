@@ -51,14 +51,6 @@
   	<name>Mauro Pelucchi</name>
   	<url>http://www.mauropelucchi.com</url>
   </organization>
-  <modules>
-  	<module>hammer-core</module>
-  	<module>hammer-santamaria</module>
-  	<module>hammer-colombo</module>
-    <module>hammer-isabella</module>
-    <module>hammer-taino</module>
-    <module>hammer-pinta</module>
-  </modules>
   <version>0.0.1</version>
   
   
@@ -88,4 +80,12 @@
         <url>http://localhost:8081/artifactory/libs-release-local</url>
       </repository>
     </distributionManagement>
+	<modules>
+		<module>../hammer-colombo</module>
+		<module>../hammer-core</module>
+		<module>../hammer-isabella</module>
+		<module>../hammer-pinta</module>
+		<module>../hammer-santamaria</module>
+		<module>../hammer-taino</module>
+	</modules>
 </project>
