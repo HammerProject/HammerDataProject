@@ -26,7 +26,7 @@ bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/te
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/example_1.json local search labels 0.3 0.3 0.90 2 subset subindex 0.9996
 
 ## search selected resources by query
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/8_fuzzy.json local search keywords 0.25 0.25 0.80 3 subset subindex 0.9995
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_fuzzy.json local search keywords 0.30 0.30 0.90 3 subset subindex 0.9995
 
 
 ###############################################################################
