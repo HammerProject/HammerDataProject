@@ -77,3 +77,10 @@ bin/hadoop fs -mkdir /hammer/download
 
 ## avvio mongodb
 sudo mongod -f /etc/mongod.conf --smallfiles
+
+
+
+##check hdsf
+bin/hadoop dfsadmin -safemode leave
+bin/hdfs fsck -check
+bin/hdfs fsck -check
