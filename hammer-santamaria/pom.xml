@@ -7,6 +7,7 @@
 		<groupId>org.hammer-project</groupId>
 		<artifactId>hammer-project</artifactId>
 		<version>0.0.1</version>
+		<relativePath>../hammer-project/pom.xml</relativePath>
 	</parent>
 	<groupId>org.hammer-project.santamaria</groupId>
 	<artifactId>hammer-santamaria</artifactId>

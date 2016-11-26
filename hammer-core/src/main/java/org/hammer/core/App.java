@@ -2,6 +2,7 @@ package org.hammer.core;
 
 
 
+
 /**
  * Hello world!
  *
