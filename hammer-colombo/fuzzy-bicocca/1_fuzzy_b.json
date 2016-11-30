@@ -1,0 +1,48 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// Fuzzy Search "bicocca"
+// 
+// 
+//
+
+{
+  "select": [
+      { "column": { "instance": "servizi", "label":"denominazione"}},
+      { "column": { "instance": "servizi", "label":"indirizzo"}},
+      { "column": { "instance": "servizi", "label":"tipo"}}
+  ],
+  "from": [
+    "servizi"
+  ],
+  "where": [{"condition": {
+      "instance1": "servizi",
+      "label1": "indirizzo",
+      "operator": "eq",
+      "value": "bicocca",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "servizi",
+      "label1": "indirizzo",
+      "operator": "eq",
+      "value": "pirelli",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "servizi",
+      "label1": "indirizzo",
+      "operator": "eq",
+      "value": "ateneo",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "servizi",
+      "label1": "indirizo",
+      "operator": "eq",
+      "value": "sarca",
+      "logicalOperator": "or"
+    }}
+  ]
+}
+

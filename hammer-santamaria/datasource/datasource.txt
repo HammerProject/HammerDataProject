@@ -6,6 +6,10 @@ db.createCollection("datasource");
 db.createCollection("datasource1");
 db.createCollection("datasource2");
 
+db.createCollection("datasource_rl");
+db.createCollection("index_rl");
+
+
 db.createCollection("dataset");
 db.createCollection("index");
 
@@ -22,6 +26,10 @@ db.datasource.insert(
 
 db.datasource.insert(
 { "name" : "dati.lombardia.it", "url" : "https://www.dati.lombardia.it/resource/425r-pyq4.json", "type" : "org.hammer.santamaria.input.SocrataSourceRecordReader" , "action" : "https://www.dati.lombardia.it/resource/425r-pyq4.json"});
+
+db.datasource_rl.insert(
+{ "name" : "dati.lombardia.it", "url" : "https://www.dati.lombardia.it/resource/425r-pyq4.json", "type" : "org.hammer.santamaria.input.SocrataSourceRecordReader" , "action" : "https://www.dati.lombardia.it/resource/425r-pyq4.json"});
+
 
 db.datasource.insert(
 { "name" : "opendata.comune.bari.it", "url" : "http://opendata.comune.bari.it/api/action", "type" : "org.hammer.santamaria.input.CKANSourceRecordReader" , "action" : "http://opendata.comune.bari.it/api/action"});
