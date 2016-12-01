@@ -36,7 +36,7 @@ public class App {
     		System.out.println("Total resources " + docs.size());
     		int c = 1;
     		for (BasicDBObject doc : docs) {
-    			if(doc.containsField("url")) {
+    			if(doc.containsField("url") && (!doc.get("url").equals("https://data.code4sa.org/api/views/8wvj-mtxb/rows.json?accessType=DOWNLOAD"))) {
     				System.out.print(c + "/" + docs.size() + " - " + doc.get("url").toString());
     				GetFromUrl("datasource/temp/" + doc.get("_id").toString() + ".json", doc.get("url").toString());
     				System.out.println(" ---> ok");
