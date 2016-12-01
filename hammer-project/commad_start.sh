@@ -82,8 +82,7 @@ bin/hadoop fs -mkdir /hammer/download
 
 
 ## avvio mongodb
-sudo mongod -f /etc/mongod.conf --smallfiles
-
+sudo -b mongod -f /etc/mongod.conf --smallfiles
 
 
 ##check hdsf
