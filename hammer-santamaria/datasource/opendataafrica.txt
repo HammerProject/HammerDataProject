@@ -1,3 +1,7 @@
+###################################################################
+### script and utils to work with open data africa
+###
+
 db.dataset.find({"datasource":"africaopendata.org"}).forEach(function(doc){
    db.subset.insert(doc);
 });

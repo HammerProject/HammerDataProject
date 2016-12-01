@@ -1,3 +1,7 @@
+###################################################################
+### script and utils to work with open data regione lombardia
+###
+
 db.createCollection("datasource_rl");
 db.createCollection("dataset_rl");
 db.createCollection("index_rl");

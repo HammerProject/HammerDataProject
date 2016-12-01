@@ -14,20 +14,18 @@ curl http://localhost:9200/_cat/indices?v
 
 ### create a new index
 
-curl -X PUT http://localhost:9200/my_job
+curl -X PUT http://localhost:9200/opendata
 
 
 ### bulk load
-curl -XPOST 'localhost:9200/opendata/_bulk' -d@kenyan-counties.geojson
-
-curl -XPUT 'localhost:9200/twitter/opendata/1' -d'
+curl -XPUT 'localhost:9200/opendata/1' -d'
 {
     "user" : "mauro",
     "post_date" : "2016-11-30T06:20:00",
     "message" : "trying out Elasticsearch"
 }'
 
-curl -XPUT 'localhost:9200/twitter/opendata/2' -d'
+curl -XPUT 'localhost:9200/opendata/2' -d'
 {
     "user" : "paola",
     "post_date" : "2016-11-30T06:20:00",
@@ -36,7 +34,7 @@ curl -XPUT 'localhost:9200/twitter/opendata/2' -d'
 }'
 
 
-curl -XPUT 'localhost:9200/twitter/opendata/3' -d'
+curl -XPUT 'localhost:9200/opendata/3' -d'
 {
     "user" : "nicola",
     "post_date" : "2016-11-30T06:20:00",
@@ -46,7 +44,7 @@ curl -XPUT 'localhost:9200/twitter/opendata/3' -d'
 }'
 
 
-curl -XPOST 'localhost:9200/twitter/opendata/' -d'
+curl -XPOST 'localhost:9200/opendata/' -d'
 {
     "user" : "mario",
     "post_date" : "2016-11-30T06:20:00",
@@ -57,7 +55,7 @@ curl -XPOST 'localhost:9200/twitter/opendata/' -d'
 
 
 
-curl -XPOST 'localhost:9200/twitter/opendata/_search' -d'
+curl -XPOST 'localhost:9200/opendata/_search' -d'
 {
   "query": {
     "match": {
@@ -73,7 +71,7 @@ curl -XPOST 'localhost:9200/twitter/opendata/_search' -d'
 
 
 
-# Create the index
+# Create the index for fuzzy search
 curl -XPUT 'localhost:9200/fuzzy_products'
 
 # Create the product mapping
@@ -112,23 +110,11 @@ curl -XPUT 'localhost:9200/fuzzy_products/product/_search' -d'
 }'
 
 
+
+
+### upload json file
 cat ../africa_org/festival_mantova.json | ./jq-linux64 -c '.[] | {"index": {"_index": "africa_opendata", "_type": "africa_opendata"}}, .' | curl -XPOST localhost:9200/africa_opendata/_bulk --data-binary @-
 
-
 cat ../africa_org/1_fuzzy_b.json | ./jq-linux64 -c '.[] | {"index": {"_index": "africa_opendata", "_type": "africa_opendata"}}, .' | curl -XPOST localhost:9200/africa_opendata/_bulk --data-binary @-
-
-
-
-
-#solr
-
-bin/solr start -e cloud -noprompt
-
-
-http://ma-ha-2:8983/solr/#/
-
-
-bin/post -c gettingstarted ../../africa_org/festival_mantova.json
-
 
 
