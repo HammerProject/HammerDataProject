@@ -55,11 +55,17 @@ public class App {
 	 * @param url
 	 */
 	public static void GetFromUrl(String filePath, String url) {
+		File file = new File(filePath);
+		if (file.exists()) return;
+		
+		
 		//ArrayList<BasicDBObject> docs = null;
 		HttpClient client = new HttpClient();
 		GetMethod method = new GetMethod(url);
 		method.getParams().setParameter(HttpMethodParams.RETRY_HANDLER, new DefaultHttpMethodRetryHandler(3, false));
 		method.setRequestHeader("User-Agent", "Hammer Project - Performance Test");
+		client.getHttpConnectionManager().getParams().setConnectionTimeout(3000);
+		client.getHttpConnectionManager().getParams().setSoTimeout(2000);
 		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - Performance Test");		
 		try {
 			int statusCode = client.executeMethod(method);
@@ -148,15 +154,17 @@ public class App {
 			// if file doesn't exists, then create it
 			if (!file.exists()) {
 				file.createNewFile();
+				
+				fop.write(byteArray);
+				fop.flush();
+				fop.close();
+
 			} else {
-				file.delete();
-				file.createNewFile();
+				//file.delete();
+				//file.createNewFile();
 			}
 
-			fop.write(byteArray);
-			fop.flush();
-			fop.close();
-
+			
 		
 
 		} catch (IOException e) {
