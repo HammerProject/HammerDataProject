@@ -10,3 +10,4 @@ http://ma-ha-2:8983/solr/#/
 
 bin/post -c gettingstarted ../../africa_org/festival_mantova.json
 
+bin/post -c gettingstarted ../../africa_org/*.json
