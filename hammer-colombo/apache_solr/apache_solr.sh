@@ -10,6 +10,8 @@ bin/solr create -c openafrica
 bin/solr delete -c openafrica
 
 
+bin/solr create -c openafricaj
+
 
 http://ma-ha-2:8983/solr/#/
 
@@ -19,7 +21,7 @@ curl http://ma-ha-2:8983/solr/gettingstarted/update -H "Content-Type: text/xml" 
 
 bin/post -c openafrica ../../africa_org/festival_mantova.json
 
-bin/post -c openafrica ../../africa_org/*.json
+bin/post -c openafricaj ../../africa_org/*.json
 
 
 bin/post -c openafrica ../../africa_org/festival_mantova.json -params "literal.fileName=a"

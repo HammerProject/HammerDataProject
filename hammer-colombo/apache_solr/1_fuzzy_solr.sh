@@ -1,12 +1,12 @@
-curl http://localhost:8983/solr/gettingstarted/query -d '
+curl "http://localhost:8983/solr/openafrica/query?start=0&rows=100" -d '
 {
-  "query" : "Nutrition~2 Monbasa~2 Turkana~2 Nairobi~2",
-  "fields" : ["*county*","*underweight*","*stuting*","*wasting*"]
+  "query" : "wasting stuting underweight Nutrition County Monbasa Turkana Nairobi",
+  "fields" : ["title"]
 }'
 
 
-curl http://localhost:8983/solr/openafrica/query -d '
+curl "http://localhost:8983/solr/openafricaj/query?start=0&rows=10" -d '
 {
-  "query" : "mantova~2",
-  "fields" : ["*filename*"]
+  "query" : "(wasting stuting underweight Nutrition) and (County=Monbasa or county=Turkana or county=Nairobi)",
+  "fields" : ["id","stuting*","underweight*","*county*","*"]
 }'
