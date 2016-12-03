@@ -12,11 +12,13 @@
 {
   "select": [
       { "column": { "instance": "servizi", "label":"denominazione"}},
+      { "column": { "instance": "servizi", "label":"tipo"}},
       { "column": { "instance": "servizi", "label":"indirizzo"}},
-      { "column": { "instance": "servizi", "label":"numero alloggi"}},
       { "column": { "instance": "servizi", "label":"studenti"}},
       { "column": { "instance": "servizi", "label":"università"}},
-      { "column": { "instance": "servizi", "label":"tipo"}}
+      { "column": { "instance": "servizi", "label":"negozio"}},
+      { "column": { "instance": "servizi", "label":"mail"}},
+      { "column": { "instance": "servizi", "label":"gratuito"}}
   ],
   "from": [
     "servizi"

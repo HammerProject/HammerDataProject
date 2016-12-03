@@ -26,6 +26,8 @@ bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 true 5 
 ## query
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_fuzzy_b.json local search keywords 0.30 0.30 0.90 3 dataset_rl index_rl 0.9995
 
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_fuzzy_b.json local search keywords 0.3 0.3 0.80 3 dataset_rl index_rl 0.9995
+
 
 ##export table
 mongoexport --host localhost --db hammer --collection dataset_rl --csv --out rl.csv --fields title
