@@ -24,8 +24,5 @@ bin/post -c openafrica ../../africa_org/festival_mantova.json
 bin/post -c openafricaj ../../africa_org/*.json
 
 
-bin/post -c openafrica ../../africa_org/festival_mantova.json -params "literal.fileName=a"
-
-
 curl "http://localhost:8983/solr/openafrica/update/extract?literal.id=festival_mantova.json&commit=true" -F "myfile=@../../africa_org/festival_mantova.json"
 
