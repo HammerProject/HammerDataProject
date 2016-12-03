@@ -13,6 +13,9 @@
   "select": [
       { "column": { "instance": "servizi", "label":"denominazione"}},
       { "column": { "instance": "servizi", "label":"indirizzo"}},
+      { "column": { "instance": "servizi", "label":"numero alloggi"}},
+      { "column": { "instance": "servizi", "label":"studenti"}},
+      { "column": { "instance": "servizi", "label":"università"}},
       { "column": { "instance": "servizi", "label":"tipo"}}
   ],
   "from": [
@@ -22,25 +25,31 @@
       "instance1": "servizi",
       "label1": "indirizzo",
       "operator": "eq",
-      "value": "bicocca",
+      "value": "via bicocca",
       "logicalOperator": "or"
     }}, {"condition": {
       "instance1": "servizi",
       "label1": "indirizzo",
       "operator": "eq",
-      "value": "pirelli",
+      "value": "via pirelli",
       "logicalOperator": "or"
     }}, {"condition": {
       "instance1": "servizi",
       "label1": "indirizzo",
       "operator": "eq",
-      "value": "ateneo",
+      "value": "piazza ateneo",
       "logicalOperator": "or"
     }}, {"condition": {
       "instance1": "servizi",
-      "label1": "indirizo",
+      "label1": "indirizzo",
       "operator": "eq",
-      "value": "sarca",
+      "value": "viale sarca",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "servizi",
+      "label1": "indirizzo",
+      "operator": "eq",
+      "value": "viale fulvio testi",
       "logicalOperator": "or"
     }}
   ]
