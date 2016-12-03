@@ -5,8 +5,8 @@ curl http://localhost:8983/solr/gettingstarted/query -d '
 }'
 
 
-curl http://localhost:8983/solr/gettingstarted/query -d '
+curl http://localhost:8983/solr/openafrica/query -d '
 {
-  "query" : "stuting~2",
-  "fields" : ["filename"]
+  "query" : "mantova~2",
+  "fields" : ["*filename*"]
 }'
