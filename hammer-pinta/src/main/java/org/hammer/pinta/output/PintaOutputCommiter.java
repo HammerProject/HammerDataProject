@@ -315,14 +315,44 @@ public class PintaOutputCommiter extends OutputCommitter {
 					/* insert synset terms */
 					for (String s : mySynSet.keySet()) {
 						if(!index.containsKey(s)) {
+							
+							
+							
+							
 							Document bo = new Document();
 							bo.put("re", index.get(term).getReScore());
 							bo.put("syn-set", simTermsList);
-							bo.put("keyword", s);
-							bo.put("keyword", s);
-							bo.append("documents", myObj.get("documents"));
+							bo.put("keyword", s.toLowerCase());
+							bo.append("document", myObj.get("document"));
 							bo.append("last-update", (new Date()));
-							myIdx.insertOne(bo);
+							
+							
+							
+							
+							BasicDBObject tempSearch = new BasicDBObject().append("keyword", s.toLowerCase());
+							FindIterable<Document> myDoc = myIdx.find(tempSearch);
+							if (myDoc.iterator().hasNext()) {
+								Document obj = myDoc.iterator().next();
+								@SuppressWarnings("unchecked")
+								ArrayList<String> newList = (ArrayList<String>) bo.get("document");
+								if (newList == null) {
+									newList = new ArrayList<String>();
+								}
+								@SuppressWarnings("unchecked")
+								ArrayList<String> oldList = (ArrayList<String>) obj.get("document");
+								if (oldList != null) {
+									newList.addAll(oldList);
+								}
+								bo.remove("document");
+								bo.put("document", newList);
+								myIdx.insertOne(bo);
+								myIdx.findOneAndUpdate(tempSearch, bo);
+							} else {
+								bo.append("wn", "true");
+								myIdx.insertOne(bo);
+							}
+							
+							
 						}
 					}
 					
