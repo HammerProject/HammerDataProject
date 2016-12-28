@@ -113,9 +113,7 @@ public class QuerySplitter extends MongoSplitter {
 					}
 				}
 				
-				if(tempList.size() > maxSim) {
-					tempList = tempList.subList(0, maxSim);
-				}
+				
 				
 				// add synset by word net
 				Map<String, String> mySynSet = WordNetUtils.MySynset(wnHome, key.toLowerCase());
@@ -130,6 +128,11 @@ public class QuerySplitter extends MongoSplitter {
 					}
 				}
 
+				
+				if(tempList.size() > maxSim) {
+					tempList = tempList.subList(0, maxSim); // ????
+				}
+				
 				similarity.put(key, tempList);
 			}
 		}

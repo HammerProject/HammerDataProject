@@ -212,7 +212,7 @@ public class PintaOutputCommiter extends OutputCommitter {
 						kObj.append("re", k.getReScore());
 						kObj.append("sim", k.getSimilarity());
 						simTermsList.add(kObj);
-						if(countSim >= maxSim) {
+						if (countSim >= maxSim) {
 							break;
 						}
 						countSim++;
@@ -246,10 +246,7 @@ public class PintaOutputCommiter extends OutputCommitter {
 		}
 
 	}
-	
-	
-	
-	
+
 	/**
 	 * Calc synset with WordNet (only for English terms)
 	 */
@@ -269,14 +266,13 @@ public class PintaOutputCommiter extends OutputCommitter {
 			for (String term : index.keySet()) {
 				List<Keyword> synSet = new ArrayList<Keyword>();
 				Map<String, String> mySynSet = WordNetUtils.MySynset(conf.get("wn-home") + "", term);
-				
-				
+
 				for (String s : mySynSet.keySet()) {
-					if (!s.equals(term) /* && index.containsKey(s) */) {
+					if (!s.toLowerCase().equals(term.toLowerCase()) /* && index.containsKey(s) */) {
 						// a term of synset has the same re of the original term
 						double re = index.get(term).getReScore();
 						Keyword k = index.get(term).clone();
-						k.setKeyword(s);
+						k.setKeyword(s.toLowerCase());
 						k.setSimilarity(re);
 						synSet.add(k);
 					}
@@ -288,7 +284,7 @@ public class PintaOutputCommiter extends OutputCommitter {
 					mostSyn.append("re", synSet.get(0).getReScore());
 					mostSyn.append("sim", synSet.get(0).getSimilarity());
 				}
-				
+
 				// we update the keyword with re and list of synset terms
 				try {
 					BasicDBObject searchQuery = new BasicDBObject().append("keyword", term.toLowerCase());
@@ -302,7 +298,7 @@ public class PintaOutputCommiter extends OutputCommitter {
 						kObj.append("sim", k.getSimilarity());
 						simTermsList.add(kObj);
 					}
-					
+
 					updateField.put("re", index.get(term).getReScore());
 					updateField.put("syn-set", simTermsList);
 					if (synSet.size() > 0) {
@@ -314,48 +310,39 @@ public class PintaOutputCommiter extends OutputCommitter {
 
 					/* insert synset terms */
 					for (String s : mySynSet.keySet()) {
-						if(!index.containsKey(s)) {
-							
-							
-							
-							
-							Document bo = new Document();
-							bo.put("re", index.get(term).getReScore());
-							bo.put("syn-set", simTermsList);
-							bo.put("keyword", s.toLowerCase());
-							bo.append("document", myObj.get("document"));
-							bo.append("last-update", (new Date()));
-							
-							
-							
-							
-							BasicDBObject tempSearch = new BasicDBObject().append("keyword", s.toLowerCase());
-							FindIterable<Document> myDoc = myIdx.find(tempSearch);
-							if (myDoc.iterator().hasNext()) {
-								Document obj = myDoc.iterator().next();
-								@SuppressWarnings("unchecked")
-								ArrayList<String> newList = (ArrayList<String>) bo.get("document");
-								if (newList == null) {
-									newList = new ArrayList<String>();
-								}
-								@SuppressWarnings("unchecked")
-								ArrayList<String> oldList = (ArrayList<String>) obj.get("document");
-								if (oldList != null) {
-									newList.addAll(oldList);
-								}
-								bo.remove("document");
-								bo.put("document", newList);
-								myIdx.insertOne(bo);
-								myIdx.findOneAndUpdate(tempSearch, bo);
-							} else {
-								bo.append("wn", "true");
-								myIdx.insertOne(bo);
+
+						BasicDBObject tempSearch = new BasicDBObject().append("keyword", s.toLowerCase());
+						FindIterable<Document> myDoc = myIdx.find(tempSearch);
+						if (myDoc.iterator().hasNext()) {
+							Document obj = myDoc.iterator().next();
+							Document myUpdateObj = new Document();
+							@SuppressWarnings("unchecked")
+							ArrayList<String> newList = (ArrayList<String>) myObj.get("documents");
+							if (newList == null) {
+								newList = new ArrayList<String>();
 							}
-							
-							
+							@SuppressWarnings("unchecked")
+							ArrayList<String> oldList = (ArrayList<String>) obj.get("documents");
+							if (oldList != null) {
+								newList.addAll(oldList);
+							}
+							myUpdateObj.put("documents", newList);
+							Document myUpdate = new Document("$set", obj);
+							myIdx.findOneAndUpdate(tempSearch, myUpdate);
+						} else {
+							Document bo = new Document();
+							bo.append("re", index.get(term).getReScore());
+							bo.append("syn-set", simTermsList);
+							bo.append("keyword", s.toLowerCase());
+							bo.append("documents", myObj.get("documents"));
+							bo.append("last-update", (new Date()));
+
+							bo.append("wn", "true");
+							myIdx.insertOne(bo);
 						}
+
 					}
-					
+
 				} catch (Exception e) {
 					LOG.error(e);
 					LOG.error("PINTA COMMITTER: Error reading from temporary file", e);
