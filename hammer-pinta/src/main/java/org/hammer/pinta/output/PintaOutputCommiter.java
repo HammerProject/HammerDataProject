@@ -3,8 +3,10 @@ package org.hammer.pinta.output;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Comparator;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
@@ -19,6 +21,7 @@ import org.apache.hadoop.mapreduce.TaskAttemptContext;
 import org.bson.Document;
 import org.hammer.isabella.fuzzy.JaroWinkler;
 import org.hammer.isabella.query.Keyword;
+import org.hammer.pinta.utils.WordNetUtils;
 
 import com.mongodb.BasicDBList;
 import com.mongodb.BasicDBObject;
@@ -151,7 +154,7 @@ public class PintaOutputCommiter extends OutputCommitter {
 	};
 
 	/**
-	 * Calcola i termini simili
+	 * Calc similar terms with Jaro-Winkler
 	 */
 	public static void CalcSimTerms(Configuration conf) {
 		LOG.info("----- CALC SIM TERMS ------");
@@ -223,6 +226,106 @@ public class PintaOutputCommiter extends OutputCommitter {
 					myIdx.findOneAndUpdate(searchQuery, updateObj);
 					LOG.debug("save " + term);
 
+				} catch (Exception e) {
+					LOG.error(e);
+					LOG.error("PINTA COMMITTER: Error reading from temporary file", e);
+				}
+				c++;
+				if ((c % 1000 == 0) || (Precision.round((c / size) * 100f, 3) > 99)) {
+					LOG.info(Precision.round((c / size) * 100f, 3) + " %");
+				}
+			}
+		} catch (Exception ex) {
+			LOG.error(ex);
+			ex.printStackTrace();
+			LOG.error(ex.getMessage());
+		} finally {
+			if (mongo != null) {
+				mongo.close();
+			}
+		}
+
+	}
+	
+	
+	
+	
+	/**
+	 * Calc synset with WordNet (only for English terms)
+	 */
+	public static void CalcSynset(Configuration conf) {
+		LOG.info("----- CALC SYNSET        ------");
+
+		HashMap<String, Keyword> index = GetMyIndex(conf);
+		float size = index.size();
+		MongoClient mongo = null;
+		MongoDatabase db = null;
+		try {
+			MongoClientURI inputURI = MongoConfigUtil.getInputURI(conf);
+			mongo = new MongoClient(inputURI);
+			db = mongo.getDatabase(inputURI.getDatabase());
+			MongoCollection<Document> myIdx = db.getCollection(conf.get("index-table") + "");
+			float c = 0.0f;
+			for (String term : index.keySet()) {
+				List<Keyword> synSet = new ArrayList<Keyword>();
+				Map<String, String> mySynSet = WordNetUtils.MySynset(conf.get("wn-home") + "", term);
+				
+				
+				for (String s : mySynSet.keySet()) {
+					if (!s.equals(term) /* && index.containsKey(s) */) {
+						// a term of synset has the same re of the original term
+						double re = index.get(term).getReScore();
+						Keyword k = index.get(term).clone();
+						k.setKeyword(s);
+						k.setSimilarity(re);
+						synSet.add(k);
+					}
+				}
+				BasicDBObject mostSyn = new BasicDBObject();
+				if (synSet.size() > 0) {
+					synSet.sort(CMP);
+					mostSyn.append("term", synSet.get(0).getKeyword().toLowerCase());
+					mostSyn.append("re", synSet.get(0).getReScore());
+					mostSyn.append("sim", synSet.get(0).getSimilarity());
+				}
+				
+				// we update the keyword with re and list of synset terms
+				try {
+					BasicDBObject searchQuery = new BasicDBObject().append("keyword", term.toLowerCase());
+
+					Document updateField = new Document();
+					BasicDBList simTermsList = new BasicDBList();
+					for (Keyword k : synSet) {
+						BasicDBObject kObj = new BasicDBObject();
+						kObj.append("term", k.getKeyword().toLowerCase());
+						kObj.append("re", k.getReScore());
+						kObj.append("sim", k.getSimilarity());
+						simTermsList.add(kObj);
+					}
+					
+					updateField.put("re", index.get(term).getReScore());
+					updateField.put("syn-set", simTermsList);
+					if (synSet.size() > 0) {
+						updateField.put("most-syn", mostSyn);
+					}
+					Document updateObj = new Document("$set", updateField);
+					Document myObj = myIdx.findOneAndUpdate(searchQuery, updateObj);
+					LOG.debug("save " + term);
+
+					/* insert synset terms */
+					for (String s : mySynSet.keySet()) {
+						if(!index.containsKey(s)) {
+							Document bo = new Document();
+							bo.put("re", index.get(term).getReScore());
+							bo.put("syn-set", simTermsList);
+							bo.put("keyword", s);
+							bo.put("keyword", s);
+							bo.append("documents", myObj.get("documents"));
+							bo.append("last-update", (new Date()));
+							myIdx.insertOne(bo);
+						}
+					}
+					
 				} catch (Exception e) {
 					LOG.error(e);
 					LOG.error("PINTA COMMITTER: Error reading from temporary file", e);

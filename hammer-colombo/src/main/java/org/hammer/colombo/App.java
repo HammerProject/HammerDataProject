@@ -51,6 +51,11 @@ public class App {
 		new ColomboQueryConfig(conf1);
 		new ColomboConfig2(conf2);
 		
+		// set word net home
+		String wnHome = "/home/hadoop/software/WordNet-3.0";
+		conf1.set("wn-home", wnHome);
+		conf2.set("wn-home", wnHome);
+		
 		conf2.set("thesaurus.url", "http://thesaurus.altervista.org/thesaurus/v1");
 		conf2.set("thesaurus.key", "bVKAPIcUum3hEFGKEBAu"); // x hammerproject
 		conf2.set("thesaurus.lang", "it_IT");
@@ -108,6 +113,7 @@ public class App {
 			throw new IOException(e);
 		}
 		q.setIndex(StatUtils.GetMyIndex(conf1));
+		q.setWnHome(wnHome);
 
 		for (IsabellaError err : parser.getErrors().values()) {
 			System.out.println(err.toString());

@@ -5,11 +5,13 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.SortedMap;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.hammer.isabella.fuzzy.JaroWinkler;
+import org.hammer.isabella.fuzzy.WordNetUtils;
 
 /**
  * Node
@@ -26,6 +28,15 @@ public class Node implements Leaf, IDataType, Serializable {
 	 */
 	private static final long serialVersionUID = 2082275786927456129L;
 
+	/**
+	 * The synset
+	 */
+	private List<Keyword> synSet = new ArrayList<Keyword>();
+
+	public List<Keyword> getSynSet() {
+		return synSet;
+	}
+	
 	/**
 	 * The similatiry set
 	 */
@@ -55,7 +66,7 @@ public class Node implements Leaf, IDataType, Serializable {
 	 * 
 	 * @param index
 	 */
-	public void calcSimilaritySet(HashMap<String, Keyword> index) {
+	public void calcSimilaritySet(HashMap<String, Keyword> index, String wnHome) {
 		if (this.simName == null && !this.name.equals("Q") && !this.name.equals("?") && !this.name.equals("*")) {
 			for (String s : index.keySet()) {
 				double sim = JaroWinkler.Apply(this.name.toLowerCase(), s.toLowerCase());
@@ -77,19 +88,36 @@ public class Node implements Leaf, IDataType, Serializable {
 				}
 			}
 			
+			Map<String, String> mySynSet = WordNetUtils.MySynset(wnHome, this.name.toLowerCase());
+			
+			
+			for (String s : mySynSet.keySet()) {
+				if (index.containsKey(s)) {
+					// a term of synset has the same re of the original term
+					double re = index.get(s).getReScore();
+					Keyword k = index.get(s).clone();
+					k.setSimilarity(re);
+					this.synSet.add(k);
+					this.synSet.sort(cmp);
+					
+					// if find a good synset, we can substitute the sinName by Jaro with synset by WordNet
+					this.simName = this.synSet.get(0).getKeyword();
+				}
+			}
+			
 			System.out.println("-------------------------------------------------");
 			System.out.println(this.name.toString());
 			System.out.println(this.simName.toString());
 			System.out.println("-------------------------------------------------");
 			
 			if (this.father != null) {
-				this.father.calcSimilaritySet(index);
+				this.father.calcSimilaritySet(index, wnHome);
 			}
 
 		}
 
 		for (Node node : getChild()) {
-			node.calcSimilaritySet(index);
+			node.calcSimilaritySet(index, wnHome);
 		}
 	}
 

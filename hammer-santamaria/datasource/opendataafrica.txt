@@ -13,7 +13,12 @@ bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 true 5 
 ##export table
 mongoexport --host localhost --db hammer --collection subset --csv --out opendataafrica.csv --fields title
 
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/fuzzy_1.json local search keywords 0.2 0.2 0.90 3 subset subindex 0.9995
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/3_fuzzy.json local search keywords 0.3 0.3 0.90 3 subset subindex 0.9995
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/3_fuzzy.json local search keywords 0.3 0.3 0.80 3 subset subindex 0.9995
+
+
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_wn.json local search keywords 0.3 0.3 0.80 3 subset subindex 0.9995
+
 
 ##export list
 mongoexport --host localhost --db hammer --collection list1407775553 --csv --out list1407775553.csv --fields title

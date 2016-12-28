@@ -20,6 +20,7 @@ import org.hammer.colombo.utils.Term;
 import org.hammer.isabella.cc.Isabella;
 import org.hammer.isabella.cc.ParseException;
 import org.hammer.isabella.fuzzy.JaroWinkler;
+import org.hammer.isabella.fuzzy.WordNetUtils;
 import org.hammer.isabella.query.IsabellaError;
 import org.hammer.isabella.query.Keyword;
 import org.hammer.isabella.query.QueryGraph;
@@ -68,6 +69,7 @@ public class QuerySplitter extends MongoSplitter {
 		float thSim = Float.parseFloat(getConfiguration().get("thSim"));
 		float thQuery = Float.parseFloat(getConfiguration().get("thQuery"));
 		int maxSim = Integer.parseInt(getConfiguration().get("maxSim"));
+		String wnHome = getConfiguration().get("wn-home") + "";
 
 		// create my query graph object
 		// System.out.println(query);
@@ -78,6 +80,7 @@ public class QuerySplitter extends MongoSplitter {
 		try {
 			q = parser.queryGraph();
 			q.setIndex(kwIndex);
+			q.setWnHome(wnHome);
 		} catch (ParseException e) {
 			throw new SplitFailedException(e.getMessage());
 		}
@@ -112,6 +115,19 @@ public class QuerySplitter extends MongoSplitter {
 				
 				if(tempList.size() > maxSim) {
 					tempList = tempList.subList(0, maxSim);
+				}
+				
+				// add synset by word net
+				Map<String, String> mySynSet = WordNetUtils.MySynset(wnHome, key.toLowerCase());
+				
+				
+				for (String s : mySynSet.keySet()) {
+					if (kwIndex.containsKey(s)) {
+						Term point = new Term();
+						point.setTerm(s.toLowerCase());
+						point.setWeigth(1.0d); // ????
+						tempList.add(point);
+					}
 				}
 
 				similarity.put(key, tempList);

@@ -83,6 +83,19 @@ public class QueryGraph implements Serializable {
 	}
 
 	/**
+	 * Word Net Home
+	 */
+	private String wnHome = "";
+	
+	public String getWnHome() {
+		return wnHome;
+	}
+
+	public void setWnHome(String wnHome) {
+		this.wnHome = wnHome;
+	}
+
+	/**
 	 * Constuctor for the Query Graph
 	 * 
 	 * @param root
@@ -254,7 +267,7 @@ public class QueryGraph implements Serializable {
 	 * Select similarity
 	 */
 	public void calculateSimilarity() {
-		root.calcSimilaritySet(this.index);
+		root.calcSimilaritySet(this.index, this.wnHome);
 	}
 
 	/**

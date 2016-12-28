@@ -23,9 +23,10 @@ public class App {
 	 * @param maxSim --> limit the number of term
 	 * @param dataset --> the name of the dataset table
 	 * @param index --> the name of the index table
+	 * @param wordNetHome --> the path to word net dictionary
 	 * @throws Exception
 	 */
-	public static void Run(float thSim, boolean recalcIndex, int maxSim, String dataset, String index) throws Exception {
+	public static void Run(float thSim, boolean recalcIndex, int maxSim, String dataset, String index, String wordNetHome) throws Exception {
 		System.out.println("!!! Hammer Project !!!");
 		System.out.println("!!! Pinta Module start.....");
 		Configuration conf = new Configuration();
@@ -36,6 +37,7 @@ public class App {
 		conf.set("maxSim", maxSim + "");
 		conf.set("dataset-table", dataset + "");
 		conf.set("index-table", index + "");
+		conf.set("wn-home", wordNetHome + "");
 
 		conf.set("mongo.splitter.class", "org.hammer.pinta.splitter.PintaSplitter");
 		new PintaConfig(conf);
@@ -43,14 +45,15 @@ public class App {
 			ToolRunner.run(conf, new PintaConfig(conf), new String[0]);
 		}
 		PintaOutputCommiter.CalcSimTerms(conf);
+		PintaOutputCommiter.CalcSynset(conf);
 	}
 	
 	public static void main(String[] pArgs) throws Exception {
 
-		if (pArgs == null || pArgs.length < 5) {
-			throw new Exception("Parameter: <thSim: 0.5|0.01..> <recalcindex: true|false> <maxSim: 0|1|2...> <dataset-table> <index-table>");
+		if (pArgs == null || pArgs.length < 6) {
+			throw new Exception("Parameter: <thSim: 0.5|0.01..> <recalcindex: true|false> <maxSim: 0|1|2...> <dataset-table> <index-table> <path_wn>");
 		}
-		Run(Float.parseFloat(pArgs[0]), Boolean.parseBoolean(pArgs[1]), Integer.parseInt(pArgs[2]), pArgs[3], pArgs[4]);
+		Run(Float.parseFloat(pArgs[0]), Boolean.parseBoolean(pArgs[1]), Integer.parseInt(pArgs[2]), pArgs[3], pArgs[4], pArgs[5]);
 	}
 
 

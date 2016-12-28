@@ -1,0 +1,31 @@
+//
+// Hammer Project
+// @ 2016 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// Average price of cereals in 2015
+// 
+// 
+//
+
+{
+  "select": [
+      { "column": { "instance": "food", "label":"year"}},
+      { "column": { "instance": "food", "label":"product"}},
+      { "column": { "instance": "food", "label":"commodity"}},
+      { "column": { "instance": "food", "label":"price"}}
+  ],
+  "from": [
+    "food"
+  ],
+  "where": [{"condition": {
+      "instance1": "food",
+      "label1": "product",
+      "operator": "eq",
+      "value": "Cereals",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+

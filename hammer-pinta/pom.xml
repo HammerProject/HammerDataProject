@@ -86,6 +86,12 @@
 			<version>0.0.2</version>
 		</dependency>
 		
+<dependency>
+    <groupId>edu.mit</groupId>
+    <artifactId>jwi</artifactId>
+    <version>2.2.3</version>
+</dependency>
+
   </dependencies>
       
   
