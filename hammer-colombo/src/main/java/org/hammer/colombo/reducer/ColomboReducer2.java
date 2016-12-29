@@ -13,7 +13,6 @@ import org.apache.commons.httpclient.methods.GetMethod;
 import org.apache.commons.httpclient.params.HttpMethodParams;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.apache.commons.math3.util.Precision;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
@@ -50,7 +49,6 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 
 	private Configuration conf = null;
 	private QueryGraph q = null;
-	private double thSim = 0.0d;
 
 	@Override
 	protected void setup(Reducer<Text, BSONWritable, Text, BSONWritable>.Context context)
@@ -59,7 +57,6 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 		LOG.info("SETUP REDUCE2 - Hammer Colombo Project");
 		this.conf = context.getConfiguration();
 		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex(conf);
-		thSim = Precision.round(Double.parseDouble(conf.get("thSim")), 2);
 		Isabella parser = new Isabella(new StringReader(conf.get("query-string")));
 		try {
 			q = parser.queryGraph();
@@ -92,7 +89,6 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 				selectedRecord += (value.getDoc().containsField("record-selected"))
 						? (Long) value.getDoc().get("record-selected") : 0;
 			}
-			
 
 			// save the stat
 			BSONObject statObj = new BasicBSONObject();
@@ -110,73 +106,17 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 			//
 			// key = column-value --> pKey
 			// value = the record --> pValues
-			// so
-			// if key match the where condition we take the record
-			// else we doesn't store the record
+
 			LOG.info("---------------------------------------------------");
-			StringTokenizer st = new StringTokenizer(pKey.toString(), "|");
-			String column = st.nextToken().toLowerCase();
-			String value = st.nextToken().toLowerCase();
 
-			boolean c = false;
-			for (Edge en : q.getQueryCondition()) {
-				LOG.info(en.getCondition());
-				LOG.info(en.getOperator());
-				LOG.info("------------------------------------");
-				for (Node ch : en.getChild()) {
-					LOG.info(en.getName().toLowerCase() + " -- " + column.toLowerCase());
-					LOG.info(ch.getName().toLowerCase() + " -- " + value);
-
-					if ((ch instanceof ValueNode) && en.getCondition().equals("or")) {
-
-						double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
-						
-						LOG.info("test " + sim + ">=" + thSim);
-						if (sim >= thSim) {
-							LOG.info("ok --> " + sim);
-							
-							LOG.info("check  --> " + ch.getName().toLowerCase().compareTo(value));
-							double simV = JaroWinkler.Apply(ch.getName().toLowerCase(), value.toLowerCase());
-							LOG.info("check  --> " + simV);
-							if (en.getOperator().equals("eq") && (ch.getName().toLowerCase().equals(value) || (simV >= thSim))) {
-								c = true;
-							} else if (en.getOperator().equals("gt")) {
-								if (ch.getName().toLowerCase().compareTo(value) > 0) {
-									c = true;
-								}
-							} else if (en.getOperator().equals("lt")) {
-								if (ch.getName().toLowerCase().compareTo(value) < 0) {
-									c = true;
-								}
-							} else if (en.getOperator().equals("ge")) {
-								if (ch.getName().toLowerCase().compareTo(value) >= 0) {
-									c = true;
-								}
-							} else if (en.getOperator().equals("le")) {
-								if (ch.getName().toLowerCase().compareTo(value) <= 0) {
-									c = true;
-								}
-							} else if (en.getName().equals(column)) {
-								if (ch.getName().toLowerCase().compareTo(value) == 0) {
-									c = true;
-								}
-							}
-						}
-					}
-				}
-			}
-
-			LOG.info("---> " + c);
 			long size = 0;
 			long totalRecord = 0;
 			long selectedRecord = 0;
 
 			for (final BSONWritable record : pValues) {
-				if (c) {
-					pContext.write(new Text(record.hashCode() + ""), record);
-					selectedRecord++;
-					size += record.getDoc().toString().length();
-				}
+				pContext.write(new Text(record.hashCode() + ""), record);
+				selectedRecord++;
+				size += record.getDoc().toString().length();
 				totalRecord++;
 			}
 

@@ -2,7 +2,10 @@ package org.hammer.colombo.output;
 
 import java.io.IOException;
 import java.io.StringReader;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
@@ -14,6 +17,7 @@ import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.mapreduce.JobContext;
 import org.apache.hadoop.mapreduce.OutputCommitter;
 import org.apache.hadoop.mapreduce.TaskAttemptContext;
+import org.bson.Document;
 import org.hammer.colombo.utils.StatUtils;
 import org.hammer.isabella.cc.Isabella;
 import org.hammer.isabella.cc.ParseException;
@@ -28,7 +32,13 @@ import org.hammer.isabella.query.ValueNode;
 import com.mongodb.BasicDBObject;
 import com.mongodb.DBCollection;
 import com.mongodb.DBCursor;
+import com.mongodb.MongoClient;
+import com.mongodb.MongoClientURI;
+import com.mongodb.client.FindIterable;
+import com.mongodb.client.MongoCollection;
+import com.mongodb.client.MongoDatabase;
 import com.mongodb.hadoop.io.BSONWritable;
+import com.mongodb.hadoop.util.MongoConfigUtil;
 
 /**
  * 
@@ -101,10 +111,10 @@ public class ColomboOutputCommiter extends OutputCommitter {
 				BSONWritable bw = new BSONWritable();
 				bw.readFields(inputStream);
 				BasicDBObject bo = new BasicDBObject(bw.getDoc().toMap());
-				// we applicate all the and condition (for reduce data)
+				// we applicate all the condition (for reduce data)
 				// if we download data we don't apply the selection condition
 
-				if (applyWhereCondition(bo)) {
+				if (applyWhereCondition(bo, taskContext.getConfiguration())) {
 
 					BasicDBObject searchQuery = new BasicDBObject().append("_id", bo.get("_id"));
 					DBCursor c = collection.find(searchQuery);
@@ -128,13 +138,144 @@ public class ColomboOutputCommiter extends OutputCommitter {
 		cleanupAfterCommit(inputStream, taskContext);
 	}
 
+	private Map<String, List<String>> synset = new HashMap<String, List<String>>();
+	
+	
+	/**
+	 * Verify if field is in synset of column
+	 * 
+	 * @param column the column
+	 * @param field the field
+	 * @param conf the configuration for access hadoop
+	 * @return true or false
+	 */
+	private boolean checkSynset(String column, String field, Configuration conf) {
+		
+		if(synset.containsKey(column)) {
+			List<String> mySynSet = synset.get(column.toLowerCase());
+			return mySynSet.contains(field.toLowerCase());
+		}
+		
+		
+		boolean check = false;
+		MongoClient mongo = null;
+		MongoDatabase db = null;
+		try {
+			MongoClientURI inputURI = MongoConfigUtil.getInputURI(conf);
+			mongo = new MongoClient(inputURI);
+			db = mongo.getDatabase(inputURI.getDatabase());
+			MongoCollection<Document> myIdx = db.getCollection(conf.get("index-table") + "");
+			BasicDBObject searchQuery = new BasicDBObject().append("keyword", column.toLowerCase());
+			FindIterable<Document> myTerm = myIdx.find(searchQuery);
+			if (myTerm.iterator().hasNext()) {
+				Document obj = myTerm.iterator().next();
+				@SuppressWarnings("unchecked")
+				ArrayList<Document> dbSynSet = (ArrayList<Document>) obj.get("syn-set");
+				ArrayList<String> mySynSet = new ArrayList<String>();
+				if (mySynSet != null) {
+					for(Document o: dbSynSet) {
+						mySynSet.add((o.get("term") + "").toLowerCase());
+					}
+				}
+				synset.put(column.toLowerCase(), mySynSet);
+				
+				
+			}
+			
+			
+			if(synset.containsKey(column)) {
+				List<String> mySynSet = synset.get(column.toLowerCase());
+				check = mySynSet.contains(field.toLowerCase());
+			}
+			
+		} catch (Exception ex) {
+			LOG.error(ex);
+			ex.printStackTrace();
+			LOG.error(ex.getMessage());
+		} finally {
+			if (mongo != null) {
+				mongo.close();
+			}
+		}
+		
+		return check;
+	}
+	
 	/**
 	 * Apply where condition
 	 * 
 	 * @param conf
 	 * @param q
 	 */
-	private boolean applyWhereCondition(BasicDBObject bo) throws Exception {
+	private boolean applyWhereCondition(BasicDBObject bo, Configuration conf) throws Exception {
+		//
+		// check OR condition
+		//
+
+		boolean orCheck = false;
+		int orCount = 0;
+		for (Edge en : q.getQueryCondition()) {
+			LOG.info(en.getCondition());
+			LOG.info(en.getOperator());
+			LOG.info("------------------------------------");
+			for (Node ch : en.getChild()) {
+
+				
+
+				if ((ch instanceof ValueNode) && en.getCondition().equals("or")) {
+					orCount ++;
+					
+					for (String column : bo.keySet()) {
+						String value = bo.getString(column);
+						
+						LOG.info(en.getName().toLowerCase() + " -- " + column.toLowerCase());
+						LOG.info(ch.getName().toLowerCase() + " -- " + value);
+						
+						boolean syn = checkSynset(en.getName().toLowerCase(), column.toLowerCase(), conf);
+						double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
+
+						LOG.info("test " + sim + ">=" + thSim + " -- syn: " + syn);
+						if ((sim >= thSim)||(syn)) {
+							LOG.info("ok sim --> " + sim);
+							LOG.info("ok syn --> " + syn);
+
+							LOG.info("check  --> " + ch.getName().toLowerCase().compareTo(value));
+							double simV = JaroWinkler.Apply(ch.getName().toLowerCase(), value.toLowerCase());
+							LOG.info("check  --> " + simV);
+							if (en.getOperator().equals("eq")
+									&& (ch.getName().toLowerCase().equals(value) || (simV >= thSim))) {
+								orCheck = true;
+							} else if (en.getOperator().equals("gt")) {
+								if (ch.getName().toLowerCase().compareTo(value) > 0) {
+									orCheck = true;
+								}
+							} else if (en.getOperator().equals("lt")) {
+								if (ch.getName().toLowerCase().compareTo(value) < 0) {
+									orCheck = true;
+								}
+							} else if (en.getOperator().equals("ge")) {
+								if (ch.getName().toLowerCase().compareTo(value) >= 0) {
+									orCheck = true;
+								}
+							} else if (en.getOperator().equals("le")) {
+								if (ch.getName().toLowerCase().compareTo(value) <= 0) {
+									orCheck = true;
+								}
+							} else if (en.getName().equals(column)) {
+								if (ch.getName().toLowerCase().compareTo(value) == 0) {
+									orCheck = true;
+								}
+							}
+						}
+
+					}
+				}
+
+			}
+		}
+
+		LOG.info("---> " + orCheck);
+
 		//
 		// check AND condition
 		//
@@ -158,17 +299,23 @@ public class ColomboOutputCommiter extends OutputCommitter {
 				if ((ch instanceof ValueNode) && en.getCondition().equals("and")) {
 					for (String column : bo.keySet()) {
 
+						boolean syn = checkSynset(en.getName().toLowerCase(), column.toLowerCase(), conf);
 						double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
 						String value = bo.getString(column);
 
 						LOG.info(en.getName().toLowerCase() + " -- " + column.toLowerCase());
 						LOG.info(ch.getName().toLowerCase() + " -- " + value);
 
-						if (sim >= thSim) {
+						LOG.info("test " + sim + ">=" + thSim + " -- syn: " + syn);
+						if ((sim >= thSim)||(syn)) {
+							LOG.info("ok sim --> " + sim);
+							LOG.info("ok syn --> " + syn);
+							
 							c--;
 							double simV = JaroWinkler.Apply(ch.getName().toLowerCase(), value.toLowerCase());
 							LOG.info("check  --> " + simV);
-							if (en.getOperator().equals("eq") && !ch.getName().toLowerCase().equals(value) && (simV < thSim)) {
+							if (en.getOperator().equals("eq") && !ch.getName().toLowerCase().equals(value)
+									&& (simV < thSim)) {
 								check = false;
 							} else if (en.getOperator().equals("gt")) {
 								if (ch.getName().toLowerCase().compareTo(value) <= 0) {
@@ -198,7 +345,7 @@ public class ColomboOutputCommiter extends OutputCommitter {
 			}
 		}
 
-		return (c == 0 && check);
+		return (((c == 0 || check)) && (orCheck || orCount == 0));
 
 	}
 
