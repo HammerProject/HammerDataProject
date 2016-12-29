@@ -4,7 +4,7 @@
 // www.hammer-project.com
 // mauro.pelucchi@gmail.com
 //
-// Average price of cereals in 2015
+// Series of average price of some fruit and vegetables
 // 
 // 
 //
@@ -12,8 +12,7 @@
 {
   "select": [
       { "column": { "instance": "food", "label":"year"}},
-      { "column": { "instance": "food", "label":"productvariety"}},
-      { "column": { "instance": "food", "label":"commodity"}},
+      { "column": { "instance": "food", "label":"tradegood"}},
       { "column": { "instance": "food", "label":"value"}}
   ],
   "from": [
@@ -21,10 +20,28 @@
   ],
   "where": [{"condition": {
       "instance1": "food",
-      "label1": "productvariety",
+      "label1": "tradegood",
       "operator": "eq",
-      "value": "Cereals",
-      "logicalOperator": "and"
+      "value": "banana",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "food",
+      "label1": "tradegood",
+      "operator": "eq",
+      "value": "apple",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "food",
+      "label1": "tradegood",
+      "operator": "eq",
+      "value": "strawberry",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "food",
+      "label1": "tradegood",
+      "operator": "eq",
+      "value": "tomato",
+      "logicalOperator": "or"
     }}
   ]
 }

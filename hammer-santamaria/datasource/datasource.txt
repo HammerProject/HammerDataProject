@@ -6,8 +6,13 @@ db.createCollection("datasource");
 db.createCollection("datasource1");
 db.createCollection("datasource2");
 
+
 db.createCollection("datasource_rl");
 db.createCollection("index_rl");
+
+db.createCollection("datasource_us");
+db.createCollection("index_us");
+
 
 
 db.createCollection("dataset");
@@ -127,7 +132,7 @@ db.datasource2.insert(
 
 /*****/
 
-db.datasource1.insert(
+db.datasource_us.insert(
 { "name" : "data.gov", "url" : "http://catalog.data.gov/api/action", "action" : "http://catalog.data.gov/api/action", "type" : "org.hammer.santamaria.input.CKAN3BigSourceRecordReader" }
 );
 

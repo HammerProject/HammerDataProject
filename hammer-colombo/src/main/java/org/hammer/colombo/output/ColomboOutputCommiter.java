@@ -211,7 +211,8 @@ public class ColomboOutputCommiter extends OutputCommitter {
 		//
 		// check OR condition
 		//
-
+		/*
+		 
 		boolean orCheck = false;
 		int orCount = 0;
 		for (Edge en : q.getQueryCondition()) {
@@ -276,6 +277,8 @@ public class ColomboOutputCommiter extends OutputCommitter {
 
 		LOG.info("---> " + orCheck);
 
+		*/
+		
 		//
 		// check AND condition
 		//
@@ -345,7 +348,7 @@ public class ColomboOutputCommiter extends OutputCommitter {
 			}
 		}
 
-		return (((c == 0 || check)) && (orCheck || orCount == 0));
+		return (c == 0 || check) /* && (orCheck || orCount == 0)) */ ;
 
 	}
 
