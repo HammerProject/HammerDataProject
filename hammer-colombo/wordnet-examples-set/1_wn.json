@@ -12,16 +12,16 @@
 {
   "select": [
       { "column": { "instance": "food", "label":"year"}},
-      { "column": { "instance": "food", "label":"product"}},
+      { "column": { "instance": "food", "label":"productvariety"}},
       { "column": { "instance": "food", "label":"commodity"}},
-      { "column": { "instance": "food", "label":"price"}}
+      { "column": { "instance": "food", "label":"value"}}
   ],
   "from": [
     "food"
   ],
   "where": [{"condition": {
       "instance1": "food",
-      "label1": "product",
+      "label1": "productvariety",
       "operator": "eq",
       "value": "Cereals",
       "logicalOperator": "and"

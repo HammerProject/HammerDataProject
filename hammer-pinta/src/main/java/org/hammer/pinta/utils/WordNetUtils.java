@@ -36,8 +36,8 @@ public class WordNetUtils {
 	 * @return
 	 * @throws IOException
 	 */
-	public static Map<String, String> GetSynset(String wnhome, String term) throws IOException {
-		Map<String, String> mylist = new HashMap<String, String>();
+	public static Map<String, Double> GetSynset(String wnhome, String term) throws IOException {
+		Map<String, Double> mylist = new HashMap<String, Double>();
 		String path = wnhome + File.separator + "dict"; URL url = new URL("file", null, path);
 		IDictionary dict = null;
 		try {
@@ -51,7 +51,7 @@ public class WordNetUtils {
 				IWord word = dict.getWord(wordID);
 
 					for(IWord w : word.getSynset().getWords()) {
-						mylist.put(w.getLemma().replaceAll("_",""),term);
+						mylist.put(w.getLemma().replaceAll("_",""),1.0d);
 						
 					}
 			}
@@ -72,8 +72,8 @@ public class WordNetUtils {
 	 * @param term a term
 	 * @return a map of term
 	 */
-	public static Map<String, String> MySynset(String wnhome, String term) {
-		Map<String, String> myList = new HashMap<String, String>();
+	public static Map<String, Double> MySynset(String wnhome, String term) {
+		Map<String, Double> myList = new HashMap<String, Double>();
 		try {
 			term = term.replaceAll("[^a-zA-Z]", "").toLowerCase();
 			myList = WordNetUtils.GetSynset(wnhome, term);
@@ -83,19 +83,29 @@ public class WordNetUtils {
 				String termE = term.substring(i, term.length());
 				String termC = termS + "_" + termE;
 				
-				Map<String, String> myListS = new HashMap<String, String>();
-				Map<String, String> myListE = new HashMap<String, String>();
-				Map<String, String> myListC = new HashMap<String, String>();
+				Map<String, Double> myListS = new HashMap<String, Double>();
+				Map<String, Double> myListE = new HashMap<String, Double>();
+				Map<String, Double> myListC = new HashMap<String, Double>();
 
 				if (termS.length() >= 3) { myListS = WordNetUtils.GetSynset(wnhome, termS); }
 				if (termE.length() >= 3) { myListE = WordNetUtils.GetSynset(wnhome, termE); }
 				if (termC.length() >= 3) { myListC = WordNetUtils.GetSynset(wnhome, termC); }
 				
 				if (myListS.size() > 0 && myListE.size() > 0) {
-					myList.putAll(myListS);
-					myList.putAll(myListE);
+					double l = myListS.size() + myListE.size();
+					for(String s : myListS.keySet()) {
+						myList.put(s, 1.0d / l);
+					}
+					for(String s : myListE.keySet()) {
+						myList.put(s, 1.0d / l);
+					}
 				}
-				myList.putAll(myListC);
+				if (myListC.size() > 0) {
+					double l = myListC.size();
+					for(String s : myListC.keySet()) {
+						myList.put(s, 1.0d / l);
+					}
+				}
 				
 				 
 			}

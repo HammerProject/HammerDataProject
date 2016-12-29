@@ -115,17 +115,17 @@ public class PintaOutputCommiter extends OutputCommitter {
 				if (c.hasNext()) {
 					DBObject obj = c.next();
 					@SuppressWarnings("unchecked")
-					ArrayList<String> newList = (ArrayList<String>) bo.get("document");
+					ArrayList<DBObject> newList = (ArrayList<DBObject>) bo.get("documents");
 					if (newList == null) {
-						newList = new ArrayList<String>();
+						newList = new ArrayList<DBObject>();
 					}
 					@SuppressWarnings("unchecked")
-					ArrayList<String> oldList = (ArrayList<String>) obj.get("document");
+					ArrayList<DBObject> oldList = (ArrayList<DBObject>) obj.get("documents");
 					if (oldList != null) {
 						newList.addAll(oldList);
 					}
-					bo.remove("document");
-					bo.put("document", newList);
+					bo.remove("documents");
+					bo.put("documents", newList);
 					collection.update(searchQuery, bo);
 					updated++;
 				} else {
@@ -265,12 +265,14 @@ public class PintaOutputCommiter extends OutputCommitter {
 			float c = 0.0f;
 			for (String term : index.keySet()) {
 				List<Keyword> synSet = new ArrayList<Keyword>();
-				Map<String, String> mySynSet = WordNetUtils.MySynset(conf.get("wn-home") + "", term);
+				Map<String, Double> mySynSet = WordNetUtils.MySynset(conf.get("wn-home") + "", term);
 
 				for (String s : mySynSet.keySet()) {
 					if (!s.toLowerCase().equals(term.toLowerCase()) /* && index.containsKey(s) */) {
 						// a term of synset has the same re of the original term
+						// but i use prior probability to adjust
 						double re = index.get(term).getReScore();
+						re = re * mySynSet.get(s);
 						Keyword k = index.get(term).clone();
 						k.setKeyword(s.toLowerCase());
 						k.setSimilarity(re);
@@ -317,21 +319,28 @@ public class PintaOutputCommiter extends OutputCommitter {
 							Document obj = myDoc.iterator().next();
 							Document myUpdateObj = new Document();
 							@SuppressWarnings("unchecked")
-							ArrayList<String> newList = (ArrayList<String>) myObj.get("documents");
+							ArrayList<Document> newList = (ArrayList<Document>) myObj.get("documents");
 							if (newList == null) {
-								newList = new ArrayList<String>();
+								newList = new ArrayList<Document>();
 							}
 							@SuppressWarnings("unchecked")
-							ArrayList<String> oldList = (ArrayList<String>) obj.get("documents");
+							ArrayList<Document> oldList = (ArrayList<Document>) obj.get("documents");
 							if (oldList != null) {
-								newList.addAll(oldList);
+								for(Document o: oldList) {
+									if(!newList.contains(o)) {
+										newList.add(o);
+									}
+								}
 							}
 							myUpdateObj.put("documents", newList);
 							Document myUpdate = new Document("$set", obj);
 							myIdx.findOneAndUpdate(tempSearch, myUpdate);
 						} else {
 							Document bo = new Document();
-							bo.append("re", index.get(term).getReScore());
+							double re = index.get(term).getReScore();
+							re = re * mySynSet.get(s);
+							
+							bo.append("re", re);
 							bo.append("syn-set", simTermsList);
 							bo.append("keyword", s.toLowerCase());
 							bo.append("documents", myObj.get("documents"));

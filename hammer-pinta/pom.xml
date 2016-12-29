@@ -92,6 +92,12 @@
     <version>2.2.3</version>
 </dependency>
 
+<dependency>
+  <groupId>com.aylien.textapi</groupId>
+  <artifactId>client</artifactId>
+  <version>0.6.0</version>
+</dependency>
+
   </dependencies>
       
   

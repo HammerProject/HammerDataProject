@@ -2,6 +2,7 @@ package org.hammer.colombo.splitter;
 
 import java.io.StringReader;
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -60,6 +61,11 @@ public class QuerySplitter extends MongoSplitter {
 		super(conf);
 	}
 
+	Comparator<Term> cmp = new Comparator<Term>() {
+		public int compare(Term o1, Term o2) {
+			return (o1.getWeigth() < o2.getWeigth()) ? 1 : ((o1.getWeigth() > o2.getWeigth()) ? -1 : 0);
+		}
+	};
 	@Override
 	public List<InputSplit> calculateSplits() throws SplitFailedException {
 		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex(getConfiguration());
@@ -110,27 +116,35 @@ public class QuerySplitter extends MongoSplitter {
 						point.setTerm(s.toLowerCase());
 						point.setWeigth(sim);
 						tempList.add(point);
+						
 					}
 				}
 				
+				tempList.sort(cmp);
+				// cut the queue to maxsim
+				if(tempList.size() > maxSim) {
+					tempList = tempList.subList(0, maxSim);
+				}
 				
-				
+				List<Term> tempSyn = new ArrayList<Term>();
 				// add synset by word net
-				Map<String, String> mySynSet = WordNetUtils.MySynset(wnHome, key.toLowerCase());
+				Map<String, Double> mySynSet = WordNetUtils.MySynset(wnHome, key.toLowerCase());
 				
 				
 				for (String s : mySynSet.keySet()) {
 					if (kwIndex.containsKey(s)) {
 						Term point = new Term();
 						point.setTerm(s.toLowerCase());
-						point.setWeigth(1.0d); // ????
-						tempList.add(point);
+						point.setWeigth(mySynSet.get(s));
+						tempSyn.add(point);
 					}
 				}
 
-				
-				if(tempList.size() > maxSim) {
-					tempList = tempList.subList(0, maxSim); // ????
+				// cut the queue to maxsim
+				tempSyn.sort(cmp);
+				if(tempSyn.size() > maxSim) {
+					// add synset to temp queue
+					tempList = tempSyn.subList(0, maxSim);
 				}
 				
 				similarity.put(key, tempList);

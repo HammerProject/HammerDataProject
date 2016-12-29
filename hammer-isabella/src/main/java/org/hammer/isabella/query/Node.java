@@ -88,15 +88,16 @@ public class Node implements Leaf, IDataType, Serializable {
 				}
 			}
 			
-			Map<String, String> mySynSet = WordNetUtils.MySynset(wnHome, this.name.toLowerCase());
+			Map<String, Double> mySynSet = WordNetUtils.MySynset(wnHome, this.name.toLowerCase());
 			
 			
 			for (String s : mySynSet.keySet()) {
 				if (index.containsKey(s)) {
 					// a term of synset has the same re of the original term
 					double re = index.get(s).getReScore();
+					double sim = (mySynSet.get(s) + re) / 2.0d;
 					Keyword k = index.get(s).clone();
-					k.setSimilarity(re);
+					k.setSimilarity(sim);
 					this.synSet.add(k);
 					this.synSet.sort(cmp);
 					
