@@ -1,3 +1,30 @@
+###################################################################
+### script and utils to work with open data data.cityofnewyork.us
+###
+
+db.createCollection("datasource_ny");
+db.createCollection("dataset_ny");
+db.createCollection("index_ny");
+
+db.datasource_ny.insert(
+{ "name" : "data.cityofnewyork.us", "url" : "https://data.cityofnewyork.us/resource/3gcn-igeu.json", "action" : "https://data.cityofnewyork.us/resource", "type" : "org.hammer.santamaria.input.Socrata2SourceRecordReader" }
+);
+
+bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App datasource_ny
+
+
+db.dataset.find({"datasource":"data.cityofnewyork.us"}).forEach(function(doc){
+   db.dataset_ny.insert(doc);
+});
+
+
+## create/update the inverted index and calc re/sim of each tems
+bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 true 5 dataset_us index_us
+
+
+
+
+
 db.dataset.find({"datasource":"data.cityofnewyork.us"}).forEach(function(doc){
    db.cityofnewyork.insert(doc);
 });

@@ -13,30 +13,12 @@ db.datasource_us.insert(
 bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App datasource_us
 
 
-db.dataset.find({"datasource":"dati.lombardia.it"}).forEach(function(doc){
-   db.dataset_rl.insert(doc);
+db.dataset.find({"datasource":"data.gov"}).forEach(function(doc){
+   db.dataset_us.insert(doc);
 });
 
 
 ## create/update the inverted index and calc re/sim of each tems
-bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 true 5 dataset_rl index_rl
+bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 true 5 dataset_us index_us
 
-
-
-## query
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_fuzzy_b.json local search keywords 0.30 0.30 0.90 3 dataset_rl index_rl 0.9995
-
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_fuzzy_b.json local search keywords 0.3 0.3 0.80 3 dataset_rl index_rl 0.9995
-
-
-##export table
-mongoexport --host localhost --db hammer --collection dataset_rl --csv --out rl.csv --fields title
-
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_rl_fuzzy.json local search keywords 0.3 0.3 0.90 3 dataset_rl index_rl 0.9995
-
-##export list
-mongoexport --host localhost --db hammer --collection list1407775553 --csv --out list1407775553.csv --fields title
-
-
-mongoexport --host localhost --db hammer --collection dataset_rl --json --out regione_lombardia_cat.json
 
