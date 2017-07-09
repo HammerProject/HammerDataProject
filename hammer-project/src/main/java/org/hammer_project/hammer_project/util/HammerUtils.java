@@ -16,6 +16,11 @@ import org.apache.commons.httpclient.params.HttpMethodParams;
 import com.mongodb.BasicDBObject;
 import com.mongodb.util.JSON;
 
+/**
+ * 
+ * @author mauropelucchi
+ *
+ */
 public class HammerUtils {
 
 	
