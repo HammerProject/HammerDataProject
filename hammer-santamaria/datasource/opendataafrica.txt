@@ -8,12 +8,12 @@ db.dataset.find({"datasource":"africaopendata.org"}).forEach(function(doc){
 
 
 ## create/update the inverted index and calc re/sim of each tems
-bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 true 5 subset subindex
+bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 true 5 subset subindex /home/hadoop/software/WordNet-3.0
 
 ##export table
 mongoexport --host localhost --db hammer --collection subset --csv --out opendataafrica.csv --fields title
 
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/3_fuzzy.json local search keywords 0.3 0.3 0.90 3 subset subindex 0.9995
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_fuzzy.json local search keywords 0.3 0.3 0.90 3 subset subindex 0.9995
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/3_fuzzy.json local search keywords 0.3 0.3 0.80 3 subset subindex 0.9995
 
 

@@ -66,16 +66,21 @@ public class QueryMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 			LOG.info("START COLOMBO MAPPER - Dataset " + pKey + " --- " + pValue.hashCode());
 			// get the query string from pValue
 			String queryString = (String) pValue.get("queryString");
+			String wnHome = conf.get("wn-home") + "";
 			Isabella parser = new Isabella(new StringReader(queryString));
 			QueryGraph query;
 
 			try {
 				query = parser.queryGraph();
+				query.setIndex(kwIndex);
+				query.setWnHome(wnHome);
 			} catch (ParseException e) {
 				throw new IOException(e);
 			}
-			query.setIndex(kwIndex);
 
+			// select label
+			query.labelSelection();
+			
 			for (IsabellaError err : parser.getErrors().values()) {
 				LOG.error(err.toString());
 			}
@@ -99,7 +104,7 @@ public class QueryMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 					MongoCollection<Document> dataset = db.getCollection(inputURI.getCollection());
 					MongoCollection<Document> index = db.getCollection(conf.get("index-table") + "");
 
-					List<Document> temp = getSetList(query, pKey.toString(), dataset, index);
+					List<Document> temp = getSetList(query, query.getKeyWords(), dataset, index);
 
 					for (Document t : temp) {
 						String documentKey = t.getString("_id");

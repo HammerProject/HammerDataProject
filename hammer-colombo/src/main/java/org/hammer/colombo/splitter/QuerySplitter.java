@@ -66,6 +66,7 @@ public class QuerySplitter extends MongoSplitter {
 			return (o1.getWeigth() < o2.getWeigth()) ? 1 : ((o1.getWeigth() > o2.getWeigth()) ? -1 : 0);
 		}
 	};
+
 	@Override
 	public List<InputSplit> calculateSplits() throws SplitFailedException {
 		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex(getConfiguration());
@@ -94,53 +95,83 @@ public class QuerySplitter extends MongoSplitter {
 			LOG.error(err.toString());
 		}
 
-		if (getConfiguration().get("query-mode").equals("labels")) {
-			q.calculateMyLabels();
-			getConfiguration().set("keywords", q.getMyLabels());
-			keywords = q.getMyLabels();
-		} else {
-			q.labelSelection();
-			getConfiguration().set("keywords", q.getKeyWords());
-			keywords = q.getKeyWords();
+		// query splitter old
+		/*
+		 * if (getConfiguration().get("query-mode").equals("labels")) {
+		 * q.calculateMyLabels(); getConfiguration().set("keywords",
+		 * q.getMyLabels()); keywords = q.getMyLabels(); } else {
+		 * q.labelSelection(); getConfiguration().set("keywords",
+		 * q.getKeyWords()); keywords = q.getKeyWords();
+		 * 
+		 * StringTokenizer st = new StringTokenizer(keywords, ";"); while
+		 * (st.hasMoreElements()) { String key =
+		 * st.nextToken().trim().toLowerCase();
+		 * 
+		 * List<Term> tempList = new ArrayList<Term>(); for (String s :
+		 * kwIndex.keySet()) { double sim = JaroWinkler.Apply(key,
+		 * s.toLowerCase()); // set the degree threshold to custom value if (sim
+		 * > thSim) { Term point = new Term(); point.setTerm(s.toLowerCase());
+		 * point.setWeigth(sim); tempList.add(point);
+		 * 
+		 * } }
+		 * 
+		 * // add synset by word net Map<String, Double> mySynSet =
+		 * WordNetUtils.MySynset(wnHome, key.toLowerCase());
+		 * 
+		 * 
+		 * for (String s : mySynSet.keySet()) { if (kwIndex.containsKey(s)) {
+		 * Term point = new Term(); point.setTerm(s.toLowerCase());
+		 * point.setWeigth(mySynSet.get(s)); tempList.add(point); } }
+		 * 
+		 * // cut the queue to maxsim tempList.sort(cmp); if(tempList.size() >
+		 * maxSim) { tempList = tempList.subList(0, maxSim); }
+		 * 
+		 * similarity.put(key, tempList); } }
+		 */
 
-			StringTokenizer st = new StringTokenizer(keywords, ";");
-			while (st.hasMoreElements()) {
-				String key = st.nextToken().trim().toLowerCase();
+		q.labelSelection();
+		getConfiguration().set("keywords", q.getKeyWords());
+		q.calculateMyLabels();
+		getConfiguration().set("mylabels", q.getMyLabels());
+		keywords = q.getMyLabels();
 
-				List<Term> tempList = new ArrayList<Term>();
-				for (String s : kwIndex.keySet()) {
-					double sim = JaroWinkler.Apply(key, s.toLowerCase());
-					// set the degree threshold to custom value
-					if (sim > thSim) {
-						Term point = new Term();
-						point.setTerm(s.toLowerCase());
-						point.setWeigth(sim);
-						tempList.add(point);
-						
-					}
-				}
-				
-				// add synset by word net
-				Map<String, Double> mySynSet = WordNetUtils.MySynset(wnHome, key.toLowerCase());
-				
-				
-				for (String s : mySynSet.keySet()) {
-					if (kwIndex.containsKey(s)) {
-						Term point = new Term();
-						point.setTerm(s.toLowerCase());
-						point.setWeigth(mySynSet.get(s));
-						tempList.add(point);
-					}
-				}
+		StringTokenizer st = new StringTokenizer(keywords, ";");
+		while (st.hasMoreElements()) {
+			String key = st.nextToken().trim().toLowerCase();
 
-				// cut the queue to maxsim
-				tempList.sort(cmp);
-				if(tempList.size() > maxSim) {
-					tempList = tempList.subList(0, maxSim);
+			// add synset by jaro winkler
+			List<Term> tempList = new ArrayList<Term>();
+			for (String s : kwIndex.keySet()) {
+				double sim = JaroWinkler.Apply(key, s.toLowerCase());
+				// set the degree threshold to custom value
+				if (sim > thSim) {
+					Term point = new Term();
+					point.setTerm(s.toLowerCase());
+					point.setWeigth(sim);
+					tempList.add(point);
+
 				}
-				
-				similarity.put(key, tempList);
 			}
+
+			// add synset by word net
+			Map<String, Double> mySynSet = WordNetUtils.MySynset(wnHome, key.toLowerCase());
+
+			for (String s : mySynSet.keySet()) {
+				if (kwIndex.containsKey(s)) {
+					Term point = new Term();
+					point.setTerm(s.toLowerCase());
+					point.setWeigth(mySynSet.get(s));
+					tempList.add(point);
+				}
+			}
+
+			// cut the queue to maxsim
+			tempList.sort(cmp);
+			if (tempList.size() > maxSim) {
+				tempList = tempList.subList(0, maxSim);
+			}
+
+			similarity.put(key, tempList);
 		}
 
 		LOG.info("------------------------------------------------------");
@@ -149,27 +180,27 @@ public class QuerySplitter extends MongoSplitter {
 		List<Term[]> optionsList = new ArrayList<Term[]>();
 		List<List<Term[]>> beforePrunning = new ArrayList<List<Term[]>>();
 		List<List<Term[]>> cases = new ArrayList<List<Term[]>>();
-		
+
 		// calculate all the combination
 		RecursiveString.Recurse(optionsList, similarity, 0, beforePrunning);
-		
-		LOG.info("--- FUZZY SEARCH QUERY --> " + beforePrunning.size());
-		int fuzzyQueryBefore =  beforePrunning.size();
 
-		// check the generate query with the main query and remove the major distance query
-		for(List<Term[]> testq: beforePrunning) {
+		LOG.info("--- FUZZY SEARCH QUERY --> " + beforePrunning.size());
+		int fuzzyQueryBefore = beforePrunning.size();
+
+		// check the generate query with the main query and remove the major
+		// distance query
+		for (List<Term[]> testq : beforePrunning) {
 			double sim = SpaceUtils.cos(testq);
-			if(sim >= thQuery) {
+			if (sim >= thQuery) {
 				cases.add(testq);
 			}
 		}
 		//
-		
+
 		LOG.info("--- FUZZY SEARCH QUERY AFTER PRUNNING --> " + cases.size());
 
-		
 		// qSplit is the list of all query for fuzzy search
-		List< InputSplit> qSplit = new ArrayList< InputSplit>();
+		List<InputSplit> qSplit = new ArrayList<InputSplit>();
 		// first we add the original query
 		QuerySplit qOne = new QuerySplit();
 		qOne.setKeywords(keywords);
@@ -187,7 +218,7 @@ public class QuerySplitter extends MongoSplitter {
 			QuerySplit newQ = new QuerySplit();
 			newQ.setKeywords(keywordsCase);
 			newQ.setQueryString(newQuery);
-			qSplit.add( newQ);
+			qSplit.add(newQ);
 		}
 
 		LOG.info("------------------------------------------------------");
@@ -210,27 +241,25 @@ public class QuerySplitter extends MongoSplitter {
 		statObj.put("size", 0);
 		statObj.put("fuzzy-query", qSplit.size());
 		statObj.put("total-query", fuzzyQueryBefore);
-		
-		
 
 		StatUtils.SaveStat(this.getConfiguration(), statObj);
-
 
 		return qSplit;
 
 	}
 
-
 	/**
 	 * Create a new query
+	 * 
 	 * @param q
 	 * @param arrayList
 	 * @return
 	 */
 	private String getQuery(String q, List<Term[]> arrayList) {
 		for (Term[] k : arrayList) {
-			if (!k[0].getTerm().equals("select") && !k[0].getTerm().equals("where") && !k[0].getTerm().equals("from") && !k[0].getTerm().equals("label1")
-					&& !k[0].getTerm().equals("value") && !k[0].getTerm().equals("instance1") && !k[0].getTerm().equals("instance")
+			if (!k[0].getTerm().equals("select") && !k[0].getTerm().equals("where") && !k[0].getTerm().equals("from")
+					&& !k[0].getTerm().equals("label1") && !k[0].getTerm().equals("value")
+					&& !k[0].getTerm().equals("instance1") && !k[0].getTerm().equals("instance")
 					&& !k[0].getTerm().equals("label")) {
 				q = q.replaceAll(k[0].getTerm(), k[1].getTerm());
 			}

@@ -40,7 +40,7 @@ public class QueryRecordReader extends RecordReader<Object, BSONObject> {
 
 	@Override
 	public Object getCurrentKey() {
-		return split.getKeywords();
+		return split.getQueryString();
 	}
 
 	@Override

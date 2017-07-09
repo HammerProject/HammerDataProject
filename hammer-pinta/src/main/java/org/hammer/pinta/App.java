@@ -45,7 +45,8 @@ public class App {
 			ToolRunner.run(conf, new PintaConfig(conf), new String[0]);
 		}
 		PintaOutputCommiter.CalcSimTerms(conf);
-		PintaOutputCommiter.CalcSynset(conf);
+		//deprecated!!! synset is computed during search process
+		//PintaOutputCommiter.CalcSynset(conf);
 	}
 	
 	public static void main(String[] pArgs) throws Exception {
