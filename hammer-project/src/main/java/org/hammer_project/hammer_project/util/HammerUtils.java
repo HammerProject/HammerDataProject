@@ -19,7 +19,7 @@ import com.mongodb.util.JSON;
 /**
  * 
  * @author mauropelucchi
- *
+ * @versione 1.0.0
  */
 public class HammerUtils {
 
