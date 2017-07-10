@@ -28,3 +28,9 @@ mongoexport --host localhost --db hammer --collection list1407775553 --csv --out
 
 mongoexport --host localhost --db hammer --collection subset --json --out opendataafrica.json
 
+
+
+##### new configuration for cosine similarity of neighbours queries
+0.999
+0.9991
+0.9993

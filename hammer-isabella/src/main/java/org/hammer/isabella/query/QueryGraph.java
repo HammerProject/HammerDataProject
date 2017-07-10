@@ -217,8 +217,8 @@ public class QueryGraph implements Serializable {
 	/**
 	 * Update the reScore for each node
 	 */
-	private void updareReScore() {
-		root.updareReScore(this.index);
+	private void updareReScore(boolean sub) {
+		root.updareReScore(this.index, sub);
 	}
 	
 	/**
@@ -226,7 +226,7 @@ public class QueryGraph implements Serializable {
 	 */
 	public void labelSelection() {
 		this.calculateSimilarity();
-		this.updareReScore();
+		this.updareReScore(true);
 		this.test();
 		System.out.println("--------- find labels -------");
 		this.keyWords = new ArrayList<String>();
@@ -252,7 +252,7 @@ public class QueryGraph implements Serializable {
 	 * Select label
 	 */
 	public void calculateMyLabels() {
-		this.updareReScore();
+		this.updareReScore(false);
 		System.out.println("--------- find all labels -------");
 		this.test();
 		root.countLabels(this.myLabels);
@@ -333,7 +333,7 @@ public class QueryGraph implements Serializable {
 	public String getMyLabels() {
 		String t = "";
 		for (String label : myLabels) {
-			t += label + ";";
+			t += label.toLowerCase() + ";";
 		}
 		return t;
 

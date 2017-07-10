@@ -129,8 +129,6 @@ public class QuerySplitter extends MongoSplitter {
 		 * similarity.put(key, tempList); } }
 		 */
 
-		q.labelSelection();
-		getConfiguration().set("keywords", q.getKeyWords());
 		q.calculateMyLabels();
 		getConfiguration().set("mylabels", q.getMyLabels());
 		keywords = q.getMyLabels();
@@ -154,6 +152,7 @@ public class QuerySplitter extends MongoSplitter {
 			}
 
 			// add synset by word net
+			List<Term> tempList1 = new ArrayList<Term>();
 			Map<String, Double> mySynSet = WordNetUtils.MySynset(wnHome, key.toLowerCase());
 
 			for (String s : mySynSet.keySet()) {
@@ -161,7 +160,7 @@ public class QuerySplitter extends MongoSplitter {
 					Term point = new Term();
 					point.setTerm(s.toLowerCase());
 					point.setWeigth(mySynSet.get(s));
-					tempList.add(point);
+					tempList1.add(point);
 				}
 			}
 
@@ -171,6 +170,13 @@ public class QuerySplitter extends MongoSplitter {
 				tempList = tempList.subList(0, maxSim);
 			}
 
+			// cut the queue to maxsim
+			tempList1.sort(cmp);
+			if (tempList1.size() > maxSim) {
+				tempList1 = tempList1.subList(0, maxSim);
+			}
+
+			tempList.addAll(tempList1);
 			similarity.put(key, tempList);
 		}
 

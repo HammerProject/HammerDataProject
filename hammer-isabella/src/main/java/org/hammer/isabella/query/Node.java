@@ -127,12 +127,12 @@ public class Node implements Leaf, IDataType, Serializable {
 	 * 
 	 * @param index
 	 */
-	public void updareReScore(HashMap<String, Keyword> index) {
+	public void updareReScore(HashMap<String, Keyword> index, boolean sub) {
 		if (index.containsKey(this.getName().toLowerCase())) {
 			// System.out.println(" found !!! " +
 			// index.get(this.getName().toLowerCase()).toString());
 			this.reScore = index.get(this.getName().toLowerCase()).getReScore();
-		} else if (this.simName != null) {
+		} else if (this.simName != null && sub) {
 			System.out.println(" not found !!! " + this.simName.toString());
 			this.reScore = index.get(this.simName.toLowerCase()).getReScore();
 			// take the value of most sim terms and replace the label of the query
@@ -145,7 +145,7 @@ public class Node implements Leaf, IDataType, Serializable {
 			this.riScore = 0.0f;
 		}
 		for (Node node : getChild()) {
-			node.updareReScore(index);
+			node.updareReScore(index, sub);
 		}
 	}
 
