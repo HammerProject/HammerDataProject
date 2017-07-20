@@ -1,0 +1,2836 @@
+[ {
+  "job_type" : "Driver",
+  "type_of_service" : "Coach",
+  "vendor_name" : "ACADEMY EXPRESS LLC",
+  "school_year" : "2015-2016",
+  "active_employees" : "20"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ACADEMY EXPRESS LLC",
+  "school_year" : "2015-2016",
+  "active_employees" : "20"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ACME BUS CORP. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "4"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ACME BUS CORP. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "53"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ACME BUS CORP. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "55"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "ALINA SERVICES CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "4"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "ALINA SERVICES CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "60"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "ALINA SERVICES CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "74"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ALL AMERICAN SCHOOL BUS CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "55"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ALL AMERICAN SCHOOL BUS CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "152"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ALL COUNTY BUS LLC (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "53"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ALL COUNTY BUS LLC (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "55"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ALLIED TRANSIT CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ALLIED TRANSIT CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "33"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ALLIED TRANSIT CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "77"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "ANOTHER RIDE INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "7"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "ANOTHER RIDE INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "8"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "B & F SKILLED INC.(B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "B & F SKILLED INC.(B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "40"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "B & F SKILLED INC.(B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "45"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "B & F SKILLED, INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "13"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "B & F SKILLED, INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "13"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "BOBBY`S BUS CO. INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "152"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "BORO TRANSIT, INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "BORO TRANSIT, INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "382"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "BORO TRANSIT, INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "566"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CAREFUL BUS",
+  "school_year" : "2015-2016",
+  "active_employees" : "16"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CAREFUL BUS",
+  "school_year" : "2015-2016",
+  "active_employees" : "89"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CAREFUL BUS",
+  "school_year" : "2015-2016",
+  "active_employees" : "115"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CAREFUL BUS SERVICE INC (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CAREFUL BUS SERVICE INC (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "10"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CAREFUL BUS SERVICE INC (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "10"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CHILDREN`S TRANS INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "11"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CHILDREN`S TRANS INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "11"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CONSOLIDATED BUS TRANS. INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CONSOLIDATED BUS TRANS. INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "109"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CONSOLIDATED BUS TRANS. INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "115"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "DON THOMAS BUSES, INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "23"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "DON THOMAS BUSES, INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "28"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "DON THOMAS BUSES, INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "4"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "DON THOMAS BUSES, INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "124"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "DON THOMAS BUSES, INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "135"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "E-Z BUS LLC (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "8"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "E-Z BUS LLC (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "11"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "EMPIRE CHARTER SERVICE INC",
+  "school_year" : "2015-2016",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "EMPIRE CHARTER SERVICE INC",
+  "school_year" : "2015-2016",
+  "active_employees" : "11"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "EMPIRE CHARTER SERVICE INC",
+  "school_year" : "2015-2016",
+  "active_employees" : "14"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "EMPIRE STATE BUS CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "EMPIRE STATE BUS CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "13"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "EMPIRE STATE BUS CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "21"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "FIRST STEPS",
+  "school_year" : "2015-2016",
+  "active_employees" : "19"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "FIRST STEPS",
+  "school_year" : "2015-2016",
+  "active_employees" : "28"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "FIRST STEPS TRANSP INC. (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "6"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "FIRST STEPS TRANSP INC. (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "154"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "FIRST STEPS TRANSP INC. (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "197"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "FORTUNA BUS COMPANY",
+  "school_year" : "2015-2016",
+  "active_employees" : "37"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "FORTUNA BUS COMPANY",
+  "school_year" : "2015-2016",
+  "active_employees" : "39"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "G.V.C. LTD. (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "16"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "G.V.C. LTD. (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "115"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "G.V.C. LTD. (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "134"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "G.V.C., LTD.",
+  "school_year" : "2015-2016",
+  "active_employees" : "8"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "G.V.C., LTD.",
+  "school_year" : "2015-2016",
+  "active_employees" : "105"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "G.V.C., LTD.",
+  "school_year" : "2015-2016",
+  "active_employees" : "124"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "GRANDPA`S BUS CO., INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "5"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "GRANDPA`S BUS CO., INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "277"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "HAPPY CHILD TRANS LLC (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "HAPPY CHILD TRANS LLC (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "95"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "HAPPY CHILD TRANS LLC (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "147"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "HAPPY DAY TRANSIT",
+  "school_year" : "2015-2016",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "HAPPY DAY TRANSIT",
+  "school_year" : "2015-2016",
+  "active_employees" : "48"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "HAPPY DAY TRANSIT",
+  "school_year" : "2015-2016",
+  "active_employees" : "55"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "HOYT TRANSPORTATION CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "144"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "HOYT TRANSPORTATION CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "165"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "I & Y TRANSIT CORP",
+  "school_year" : "2015-2016",
+  "active_employees" : "9"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "I & Y TRANSIT CORP",
+  "school_year" : "2015-2016",
+  "active_employees" : "10"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "IC BUS INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "IC BUS INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "83"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "IC BUS INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "84"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "IC BUS INC. (PRE-K)",
+  "school_year" : "2015-2016",
+  "active_employees" : "48"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "IC BUS INC. (PRE-K)",
+  "school_year" : "2015-2016",
+  "active_employees" : "55"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "JEA BUS COMPANY INC",
+  "school_year" : "2015-2016",
+  "active_employees" : "15"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "JEA BUS COMPANY INC",
+  "school_year" : "2015-2016",
+  "active_employees" : "20"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "JOFAZ TRANSPORTATION INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "JOFAZ TRANSPORTATION INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "74"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "JOFAZ TRANSPORTATION INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "322"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "L & M BUS CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "L & M BUS CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "210"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "L & M BUS CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "228"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "L & M BUS CORP. (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "69"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "L & M BUS CORP. (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "88"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "L & M BUS CORP. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "5"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "L & M BUS CORP. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "10"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LEESEL TRANSP CORP (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "13"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LEESEL TRANSP CORP (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "282"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LEESEL TRANSP CORP (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "302"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LITTLE LINDA BUS CO.,INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "16"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LITTLE LINDA BUS CO.,INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "17"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LITTLE LISA BUS CO. INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "71"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LITTLE LISA BUS CO. INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "73"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LITTLE RICHIE BUS SERVICE",
+  "school_year" : "2015-2016",
+  "active_employees" : "547"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LITTLE RICHIE BUS SERVICE",
+  "school_year" : "2015-2016",
+  "active_employees" : "550"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LOGAN BUS COMPANY INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "5"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LOGAN BUS COMPANY INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "272"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LOGAN BUS COMPANY INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "324"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LOGAN TRANSPORTATION SYSTEMS",
+  "school_year" : "2015-2016",
+  "active_employees" : "32"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LORINDA ENT. LTD.",
+  "school_year" : "2015-2016",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LORINDA ENT. LTD.",
+  "school_year" : "2015-2016",
+  "active_employees" : "203"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LORINDA ENT. LTD.",
+  "school_year" : "2015-2016",
+  "active_employees" : "218"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LORISSA BUS SERVICE INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "124"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MAR-CAN TRANSPORT CO. INC (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MAR-CAN TRANSPORT CO. INC (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "220"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MAR-CAN TRANSPORT CO. INC (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "245"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "MJT BUS",
+  "school_year" : "2015-2016",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MONTAUK STUDENT TRANS LLC (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MONTAUK STUDENT TRANS LLC (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "4"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MONTAUK STUDENT TRANS, INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "34"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MONTAUK STUDENT TRANS, INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "37"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MUTUAL BUS CORP. (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MUTUAL BUS CORP. (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "13"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MUTUAL BUS CORP. (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "14"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MUTUAL BUS CORP. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "10"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MUTUAL BUS CORP. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "18"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MUTUAL BUS CORP. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "44"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MV TRANSPORTATION, INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "29"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "NEW DAWN TRANSIT, LLC (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "NEW DAWN TRANSIT, LLC (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "182"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "NEW DAWN TRANSIT, LLC (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "193"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "PENNY TRANSPORTATION",
+  "school_year" : "2015-2016",
+  "active_employees" : "17"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "PENNY TRANSPORTATION",
+  "school_year" : "2015-2016",
+  "active_employees" : "23"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PHILLIP BUS CORP (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PHILLIP BUS CORP (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "35"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PHILLIP BUS CORP (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "40"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "PHILLIPS BUS SERVICE",
+  "school_year" : "2015-2016",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "PHILLIPS BUS SERVICE",
+  "school_year" : "2015-2016",
+  "active_employees" : "46"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "PHILLIPS BUS SERVICE",
+  "school_year" : "2015-2016",
+  "active_employees" : "51"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PIONEER TRANSPORTATION CORP",
+  "school_year" : "2015-2016",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PIONEER TRANSPORTATION CORP",
+  "school_year" : "2015-2016",
+  "active_employees" : "190"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PIONEER TRANSPORTATION CORP",
+  "school_year" : "2015-2016",
+  "active_employees" : "744"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PRIDE TRANSPORTATION (SCH AGE)",
+  "school_year" : "2015-2016",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PRIDE TRANSPORTATION (SCH AGE)",
+  "school_year" : "2015-2016",
+  "active_employees" : "77"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PRIDE TRANSPORTATION (SCH AGE)",
+  "school_year" : "2015-2016",
+  "active_employees" : "80"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "QUALITY TRANSPORTATION CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "47"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "QUALITY TRANSPORTATION CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "147"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "R & C TRANSIT, INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "R & C TRANSIT, INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "4"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "R & C TRANSIT, INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "5"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "RELIANT TRANS, INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "RELIANT TRANS, INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "938"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "RELIANT TRANS, INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "991"
+}
+, {
+  "job_type" : "Driver&Paramedic",
+  "type_of_service" : "Ambulance",
+  "vendor_name" : "RICHMOND COUNTY AMBULANCE SERV",
+  "school_year" : "2015-2016",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Ambulance",
+  "vendor_name" : "RICHMOND COUNTY AMBULANCE SERV",
+  "school_year" : "2015-2016",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Paramedic",
+  "type_of_service" : "Ambulance",
+  "vendor_name" : "RICHMOND COUNTY AMBULANCE SERV",
+  "school_year" : "2015-2016",
+  "active_employees" : "11"
+}
+, {
+  "job_type" : "Driver&EMT",
+  "type_of_service" : "Ambulance",
+  "vendor_name" : "RICHMOND COUNTY AMBULANCE SERV",
+  "school_year" : "2015-2016",
+  "active_employees" : "18"
+}
+, {
+  "job_type" : "EMT",
+  "type_of_service" : "Ambulance",
+  "vendor_name" : "RICHMOND COUNTY AMBULANCE SERV",
+  "school_year" : "2015-2016",
+  "active_employees" : "22"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "ROYAL EXPRESS LINE CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "18"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "ROYAL EXPRESS LINE CORP.",
+  "school_year" : "2015-2016",
+  "active_employees" : "21"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "SAFE COACH INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "4"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "SAFE COACH INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "54"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "SAFE COACH INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "59"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "SELBY TRANS CORP. (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "SELBY TRANS CORP. (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "SELBY TRANSPORTATION",
+  "school_year" : "2015-2016",
+  "active_employees" : "5"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "SELBY TRANSPORTATION",
+  "school_year" : "2015-2016",
+  "active_employees" : "82"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "SELBY TRANSPORTATION",
+  "school_year" : "2015-2016",
+  "active_employees" : "90"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "SMART PICK",
+  "school_year" : "2015-2016",
+  "active_employees" : "41"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "SMART PICK",
+  "school_year" : "2015-2016",
+  "active_employees" : "43"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "SNT BUS INC",
+  "school_year" : "2015-2016",
+  "active_employees" : "415"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Coach",
+  "vendor_name" : "SUBURBAN TRAILS, INC",
+  "school_year" : "2015-2016",
+  "active_employees" : "31"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "THIRD AVENUE TRANSIT",
+  "school_year" : "2015-2016",
+  "active_employees" : "11"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "THIRD AVENUE TRANSIT",
+  "school_year" : "2015-2016",
+  "active_employees" : "18"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "THOMAS BUSES INC (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "THOMAS BUSES INC (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "21"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "THOMAS BUSES INC (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "33"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "THOMAS BUSES, INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "THOMAS BUSES, INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "15"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "THOMAS BUSES, INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "16"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "THOMAS BUSES, INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "THOMAS BUSES, INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "69"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "THOMAS BUSES, INC. (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "75"
+}
+, {
+  "job_type" : "Paramedic",
+  "type_of_service" : "Ambulance",
+  "vendor_name" : "TRANSCARE NEW YORK, INC.",
+  "school_year" : "2015-2016",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "TWENTY FIRST AV TRANSP (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "17"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "TWENTY FIRST AV TRANSP (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "131"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "TWENTY FIRST AV TRANSP (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "145"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "VAN TRANS LLC (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "9"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "VAN TRANS LLC (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "143"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "VAN TRANS LLC (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "157"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "VINNY`S BUS SERVICES (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "VINNY`S BUS SERVICES (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "45"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "VINNY`S BUS SERVICES (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "47"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "Y & M TRANSIT CORP (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "19"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "Y & M TRANSIT CORP (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "216"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "Y & M TRANSIT CORP (B2192)",
+  "school_year" : "2015-2016",
+  "active_employees" : "263"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "Y & M TRANSIT CORP (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "Y & M TRANSIT CORP (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "22"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "Y & M TRANSIT CORP (B2321)",
+  "school_year" : "2015-2016",
+  "active_employees" : "30"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Coach",
+  "vendor_name" : "ACADEMY EXPRESS LLC",
+  "school_year" : "2016-2017",
+  "active_employees" : "20"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ACME BUS CORP. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "58"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ACME BUS CORP. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "57"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ACME BUS CORP. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "5"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "ALINA SERVICES CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "73"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "ALINA SERVICES CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "62"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "ALINA SERVICES CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ALL AMERICAN SCHOOL BUS CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "59"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ALL AMERICAN SCHOOL BUS CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "159"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ALL COUNTY BUS LLC (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "56"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ALL COUNTY BUS LLC (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "51"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ALLIED TRANSIT CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "48"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ALLIED TRANSIT CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "84"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ALLIED TRANSIT CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "ANOTHER RIDE INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "8"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "ANOTHER RIDE INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "6"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "B & F SKILLED INC.(B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "55"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "B & F SKILLED INC.(B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "49"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "B & F SKILLED INC.(B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "B & F SKILLED, INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "13"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "B & F SKILLED, INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "12"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "BOBBY`S BUS CO. INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "147"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "BORO TRANSIT, INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "384"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "BORO TRANSIT, INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "585"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "BORO TRANSIT, INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CAREFUL BUS SERVICE INC (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "16"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CAREFUL BUS SERVICE INC (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "10"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CAREFUL BUS SERVICE INC (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CAREFUL BUS",
+  "school_year" : "2016-2017",
+  "active_employees" : "117"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CAREFUL BUS",
+  "school_year" : "2016-2017",
+  "active_employees" : "94"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CAREFUL BUS",
+  "school_year" : "2016-2017",
+  "active_employees" : "11"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CHILDREN`S TRANS INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "19"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CHILDREN`S TRANS INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "16"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CHILDREN`S TRANS INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CONSOLIDATED BUS TRANS. INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "156"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CONSOLIDATED BUS TRANS. INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "122"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "CONSOLIDATED BUS TRANS. INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "DON THOMAS BUSES, INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "135"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "DON THOMAS BUSES, INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "118"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "DON THOMAS BUSES, INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "5"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "DON THOMAS BUSES, INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "27"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "DON THOMAS BUSES, INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "20"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "E-Z BUS LLC (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "7"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "E-Z BUS LLC (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "9"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "EMPIRE CHARTER SERVICE INC",
+  "school_year" : "2016-2017",
+  "active_employees" : "15"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "EMPIRE CHARTER SERVICE INC",
+  "school_year" : "2016-2017",
+  "active_employees" : "14"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "EMPIRE STATE BUS CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "12"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "EMPIRE STATE BUS CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "19"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "EMPIRE STATE BUS CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "FIRST STEPS TRANSP INC. (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "153"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "FIRST STEPS TRANSP INC. (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "141"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "FIRST STEPS TRANSP INC. (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "4"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "FIRST STEPS",
+  "school_year" : "2016-2017",
+  "active_employees" : "21"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "FIRST STEPS",
+  "school_year" : "2016-2017",
+  "active_employees" : "20"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "FORTUNA BUS COMPANY",
+  "school_year" : "2016-2017",
+  "active_employees" : "41"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "FORTUNA BUS COMPANY",
+  "school_year" : "2016-2017",
+  "active_employees" : "39"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "G.V.C. LTD. (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "160"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "G.V.C. LTD. (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "126"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "G.V.C. LTD. (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "22"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "G.V.C., LTD.",
+  "school_year" : "2016-2017",
+  "active_employees" : "121"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "G.V.C., LTD.",
+  "school_year" : "2016-2017",
+  "active_employees" : "101"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "G.V.C., LTD.",
+  "school_year" : "2016-2017",
+  "active_employees" : "8"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "GRANDPA`S BUS CO., INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "270"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "GRANDPA`S BUS CO., INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "HAPPY CHILD TRANS LLC (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "138"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "HAPPY CHILD TRANS LLC (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "80"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "HAPPY DAY TRANSIT",
+  "school_year" : "2016-2017",
+  "active_employees" : "62"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "HAPPY DAY TRANSIT",
+  "school_year" : "2016-2017",
+  "active_employees" : "45"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "HAPPY DAY TRANSIT",
+  "school_year" : "2016-2017",
+  "active_employees" : "4"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "HOYT TRANSPORTATION CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "203"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "HOYT TRANSPORTATION CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "189"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "HOYT TRANSPORTATION CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "I & Y TRANSIT CORP",
+  "school_year" : "2016-2017",
+  "active_employees" : "11"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "I & Y TRANSIT CORP",
+  "school_year" : "2016-2017",
+  "active_employees" : "9"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "IC BUS INC. (PRE-K)",
+  "school_year" : "2016-2017",
+  "active_employees" : "60"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "IC BUS INC. (PRE-K)",
+  "school_year" : "2016-2017",
+  "active_employees" : "64"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "IC BUS INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "74"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "IC BUS INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "80"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "IC BUS INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "JEA BUS COMPANY INC",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "JOFAZ TRANSPORTATION INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "80"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "JOFAZ TRANSPORTATION INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "351"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "JOFAZ TRANSPORTATION INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "L & M BUS CORP (A)",
+  "school_year" : "2016-2017",
+  "active_employees" : "12"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "L & M BUS CORP (A)",
+  "school_year" : "2016-2017",
+  "active_employees" : "11"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "L & M BUS CORP. (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "60"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "L & M BUS CORP. (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "58"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "L & M BUS CORP. (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "L & M BUS CORP. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "12"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "L & M BUS CORP. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "7"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "L & M BUS CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "236"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "L & M BUS CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "208"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "L & M BUS CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LEESEL TRANSP CORP (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "329"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LEESEL TRANSP CORP (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "315"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LEESEL TRANSP CORP (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "15"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LITTLE LINDA BUS CO.,INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "14"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LITTLE LINDA BUS CO.,INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "15"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LITTLE LISA BUS CO. INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "112"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LITTLE LISA BUS CO. INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "107"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LITTLE LISA BUS CO. INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LITTLE RICHIE BUS SERVICE",
+  "school_year" : "2016-2017",
+  "active_employees" : "542"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LITTLE RICHIE BUS SERVICE",
+  "school_year" : "2016-2017",
+  "active_employees" : "535"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LITTLE RICHIE BUS SERVICE",
+  "school_year" : "2016-2017",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LOGAN BUS COMPANY INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "309"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LOGAN BUS COMPANY INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "365"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LOGAN BUS COMPANY INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LOGAN TRANSPORTATION SYSTEMS",
+  "school_year" : "2016-2017",
+  "active_employees" : "31"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LORINDA ENT. LTD.",
+  "school_year" : "2016-2017",
+  "active_employees" : "256"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LORINDA ENT. LTD.",
+  "school_year" : "2016-2017",
+  "active_employees" : "238"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LORINDA ENT. LTD.",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "LORISSA BUS SERVICE INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "124"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MAR-CAN TRANSPORT CO. INC (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "264"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MAR-CAN TRANSPORT CO. INC (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "244"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MAR-CAN TRANSPORT CO. INC (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "MJT BUS",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MONTAUK STUDENT TRANS LLC (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MONTAUK STUDENT TRANS LLC (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "7"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MONTAUK STUDENT TRANS, INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "23"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MONTAUK STUDENT TRANS, INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "21"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MONTAUK STUDENT TRANS, INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MUTUAL BUS CORP. (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "12"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MUTUAL BUS CORP. (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "8"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MUTUAL BUS CORP. (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MUTUAL BUS CORP. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "40"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MUTUAL BUS CORP. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "21"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MUTUAL BUS CORP. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "7"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MV TRANSPORTATION, INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "16"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "NEW DAWN TRANSIT, LLC (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "232"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "NEW DAWN TRANSIT, LLC (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "210"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "NEW DAWN TRANSIT, LLC (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "PENNY TRANSPORTATION",
+  "school_year" : "2016-2017",
+  "active_employees" : "28"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "PENNY TRANSPORTATION",
+  "school_year" : "2016-2017",
+  "active_employees" : "29"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PHILLIP BUS CORP (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "41"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PHILLIP BUS CORP (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "43"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PHILLIP BUS CORP (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "PHILLIPS BUS SERVICE",
+  "school_year" : "2016-2017",
+  "active_employees" : "50"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "PHILLIPS BUS SERVICE",
+  "school_year" : "2016-2017",
+  "active_employees" : "43"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "PHILLIPS BUS SERVICE",
+  "school_year" : "2016-2017",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PIONEER TRANSPORTATION CORP",
+  "school_year" : "2016-2017",
+  "active_employees" : "200"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PIONEER TRANSPORTATION CORP",
+  "school_year" : "2016-2017",
+  "active_employees" : "742"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PIONEER TRANSPORTATION CORP",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PRIDE TRANSPORTATION (SCH AGE)",
+  "school_year" : "2016-2017",
+  "active_employees" : "113"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PRIDE TRANSPORTATION (SCH AGE)",
+  "school_year" : "2016-2017",
+  "active_employees" : "123"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "PRIDE TRANSPORTATION (SCH AGE)",
+  "school_year" : "2016-2017",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "QUALITY TRANSPORTATION CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "235"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "QUALITY TRANSPORTATION CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "R & C TRANSIT, INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "6"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "R & C TRANSIT, INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "4"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "R & C TRANSIT, INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "RELIANT TRANS, INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "901"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "RELIANT TRANS, INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "879"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "RELIANT TRANS, INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "9"
+}
+, {
+  "job_type" : "Driver&EMT",
+  "type_of_service" : "Ambulance",
+  "vendor_name" : "RICHMOND COUNTY AMBULANCE SERV",
+  "school_year" : "2016-2017",
+  "active_employees" : "22"
+}
+, {
+  "job_type" : "Driver&Paramedic",
+  "type_of_service" : "Ambulance",
+  "vendor_name" : "RICHMOND COUNTY AMBULANCE SERV",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "EMT",
+  "type_of_service" : "Ambulance",
+  "vendor_name" : "RICHMOND COUNTY AMBULANCE SERV",
+  "school_year" : "2016-2017",
+  "active_employees" : "29"
+}
+, {
+  "job_type" : "Paramedic",
+  "type_of_service" : "Ambulance",
+  "vendor_name" : "RICHMOND COUNTY AMBULANCE SERV",
+  "school_year" : "2016-2017",
+  "active_employees" : "10"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "ROYAL EXPRESS LINE CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "22"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "ROYAL EXPRESS LINE CORP.",
+  "school_year" : "2016-2017",
+  "active_employees" : "21"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "SAFE COACH INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "63"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "SAFE COACH INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "54"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "SAFE COACH INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "5"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "SELBY TRANS CORP. (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "SELBY TRANS CORP. (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "SELBY TRANS CORP. (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "SELBY TRANSPORTATION",
+  "school_year" : "2016-2017",
+  "active_employees" : "61"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "SELBY TRANSPORTATION",
+  "school_year" : "2016-2017",
+  "active_employees" : "83"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "SELBY TRANSPORTATION",
+  "school_year" : "2016-2017",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "SMART PICK",
+  "school_year" : "2016-2017",
+  "active_employees" : "39"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "SMART PICK",
+  "school_year" : "2016-2017",
+  "active_employees" : "37"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "SNT BUS INC",
+  "school_year" : "2016-2017",
+  "active_employees" : "423"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Coach",
+  "vendor_name" : "SUBURBAN TRAILS, INC",
+  "school_year" : "2016-2017",
+  "active_employees" : "32"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "THIRD AVENUE TRANSIT",
+  "school_year" : "2016-2017",
+  "active_employees" : "12"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "THIRD AVENUE TRANSIT",
+  "school_year" : "2016-2017",
+  "active_employees" : "11"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "THOMAS BUSES INC (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "30"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "THOMAS BUSES INC (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "22"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "THOMAS BUSES INC (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "THOMAS BUSES, INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "80"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "THOMAS BUSES, INC. (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "48"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "THOMAS BUSES, INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "17"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "THOMAS BUSES, INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "18"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "Pre-K",
+  "vendor_name" : "THOMAS BUSES, INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Paramedic",
+  "type_of_service" : "Ambulance",
+  "vendor_name" : "TRANSCARE NEW YORK, INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "TWENTY FIRST AV TRANSP (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "135"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "TWENTY FIRST AV TRANSP (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "118"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "TWENTY FIRST AV TRANSP (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "13"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "VAN TRANS LLC (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "160"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "VAN TRANS LLC (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "160"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "VAN TRANS LLC (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "15"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "VINNY`S BUS SERVICES (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "53"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "VINNY`S BUS SERVICES (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "53"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "VINNY`S BUS SERVICES (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "3"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "Y & M TRANSIT CORP (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "282"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "Y & M TRANSIT CORP (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "242"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "Y & M TRANSIT CORP (B2192)",
+  "school_year" : "2016-2017",
+  "active_employees" : "15"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "Y & M TRANSIT CORP (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "25"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "Y & M TRANSIT CORP (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "18"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "Y & M TRANSIT CORP (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "Ambulance",
+  "vendor_name" : "RICHMOND COUNTY AMBULANCE SERV",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "SAFE COACH INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "ALL COUNTY BUS LLC (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "MV TRANSPORTATION, INC.",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Driver&Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "E-Z BUS LLC (B2321)",
+  "school_year" : "2016-2017",
+  "active_employees" : "2"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "Ambulance",
+  "vendor_name" : "RICHMOND COUNTY AMBULANCE SERV",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Attendant",
+  "type_of_service" : "School Age",
+  "vendor_name" : "RICHMOND COUNTY AMBULANCE SERV",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Driver",
+  "type_of_service" : "School Age",
+  "vendor_name" : "RICHMOND COUNTY AMBULANCE SERV",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "Driver&EMT",
+  "type_of_service" : "School Age",
+  "vendor_name" : "RICHMOND COUNTY AMBULANCE SERV",
+  "school_year" : "2016-2017",
+  "active_employees" : "22"
+}
+, {
+  "job_type" : "Driver&Paramedic",
+  "type_of_service" : "School Age",
+  "vendor_name" : "RICHMOND COUNTY AMBULANCE SERV",
+  "school_year" : "2016-2017",
+  "active_employees" : "1"
+}
+, {
+  "job_type" : "EMT",
+  "type_of_service" : "School Age",
+  "vendor_name" : "RICHMOND COUNTY AMBULANCE SERV",
+  "school_year" : "2016-2017",
+  "active_employees" : "29"
+}
+, {
+  "job_type" : "Paramedic",
+  "type_of_service" : "School Age",
+  "vendor_name" : "RICHMOND COUNTY AMBULANCE SERV",
+  "school_year" : "2016-2017",
+  "active_employees" : "10"
+}
+ ]

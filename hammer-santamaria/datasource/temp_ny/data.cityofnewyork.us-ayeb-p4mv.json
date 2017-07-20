@@ -1,0 +1,581 @@
+[ {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.756224",
+    "human_address" : "{\"address\":\"41st Road\",\"city\":\"Flushing\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.831928"
+  },
+  "buildingnumber" : "132-49",
+  "streetname" : "41st Road",
+  "city" : "Flushing",
+  "latitude" : "40.756224",
+  "telephone" : "(718) 886-6249",
+  "schoolname" : "AAA DTA Driver Training Associates - ???? ",
+  "zipcode" : "11355",
+  "suiteapt" : "Suite 1b",
+  "web" : {
+    "url" : "http://www.dtadirect.com"
+  },
+  "state" : "NY ",
+  "time" : "16:16:53",
+  "email" : "info@dtadirect.com",
+  "longitude" : "-73.831928"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.635028",
+    "human_address" : "{\"address\":\"Glenwood Road\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.935002"
+  },
+  "buildingnumber" : "4301",
+  "streetname" : "Glenwood Road",
+  "city" : "Brooklyn",
+  "latitude" : "40.635028",
+  "telephone" : "(347) 829-2999",
+  "schoolname" : "Abba Training School",
+  "zipcode" : "11210",
+  "web" : {
+    "url" : "http://www.training4tlc.com"
+  },
+  "state" : "NY ",
+  "time" : "16:16:53",
+  "longitude" : "-73.935002"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.859032",
+    "human_address" : "{\"address\":\"Boston Road\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.867547"
+  },
+  "buildingnumber" : "2250",
+  "streetname" : "Boston Road",
+  "city" : "Bronx",
+  "latitude" : "40.859032",
+  "telephone" : "(347) 622-1111 ",
+  "schoolname" : "Abba Training School",
+  "zipcode" : "10467",
+  "suiteapt" : "Suite D.E.",
+  "web" : {
+    "url" : "http://www.training4tlc.com"
+  },
+  "state" : "NY ",
+  "time" : "16:16:53",
+  "longitude" : "-73.867547"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.634363",
+    "human_address" : "{\"address\":\"East 43rd Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.935172"
+  },
+  "buildingnumber" : "847",
+  "streetname" : "East 43rd Street",
+  "city" : "Brooklyn",
+  "latitude" : "40.634363",
+  "telephone" : "(718) 253-1212",
+  "schoolname" : "Advance Mobility Plus",
+  "zipcode" : "11210",
+  "web" : {
+    "url" : "http://www.advancemobilityplus.com"
+  },
+  "contact" : "Jeff Grobman",
+  "state" : "NY ",
+  "time" : "16:16:53",
+  "email" : "advancemobilityplus@gmail.com",
+  "longitude" : "-73.935172"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.851991",
+    "human_address" : "{\"address\":\"Westchester Ave\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.828319"
+  },
+  "buildingnumber" : "3250",
+  "streetname" : "Westchester Ave",
+  "city" : "Bronx",
+  "latitude" : "40.851991",
+  "telephone" : "(718) 684-4889",
+  "schoolname" : "Advance Mobility Plus",
+  "zipcode" : "10461",
+  "suiteapt" : "Suite 2015",
+  "web" : {
+    "url" : "http://www.advancemobilityplus.com"
+  },
+  "contact" : "Brian Grobman",
+  "state" : "NY ",
+  "time" : "16:16:53",
+  "email" : "advancemobilityplus@gmail.com",
+  "longitude" : "-73.828319"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.746598",
+    "human_address" : "{\"address\":\"Jackson Avenue\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.944532"
+  },
+  "buildingnumber" : "24-29",
+  "streetname" : "Jackson Avenue",
+  "city" : "Long Island City",
+  "latitude" : "40.746598",
+  "telephone" : "(718) 472-1699",
+  "schoolname" : "American Master Cabbie Taxi Academy",
+  "zipcode" : "11101",
+  "web" : {
+    "url" : "http://www.mastercabbie.com"
+  },
+  "contact" : "Terry Gelber",
+  "state" : "NY ",
+  "time" : "16:16:53",
+  "longitude" : "-73.944532"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.816422",
+    "human_address" : "{\"address\":\"East 149th Street\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91812"
+  },
+  "buildingnumber" : "391",
+  "streetname" : "East 149th Street",
+  "city" : "Bronx",
+  "latitude" : "40.816422",
+  "telephone" : "(347) 590-2220",
+  "schoolname" : "American Master Cabbie Taxi Academy",
+  "zipcode" : "10455",
+  "web" : {
+    "url" : "http://www.mastercabbie.com"
+  },
+  "contact" : "Terry Gelber",
+  "state" : "NY ",
+  "time" : "16:16:53",
+  "longitude" : "-73.91812"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.851797",
+    "human_address" : "{\"address\":\"Jerome Ave\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.909214"
+  },
+  "buildingnumber" : "19-54",
+  "streetname" : "Jerome Ave",
+  "city" : "Bronx",
+  "latitude" : "40.851797",
+  "telephone" : "(718) 733-1220",
+  "schoolname" : "Bussani Mobility Team",
+  "zipcode" : "10453",
+  "web" : {
+    "url" : "http://www.bronxtaxischool.com"
+  },
+  "contact" : "Pavel Lopez",
+  "state" : "NY ",
+  "time" : "16:16:53",
+  "longitude" : "-73.909214"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.753637",
+    "human_address" : "{\"address\":\"1 East 43rd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.979182"
+  },
+  "buildingnumber" : "20",
+  "streetname" : "1 East 43rd Street",
+  "city" : "New York",
+  "latitude" : "40.753637",
+  "telephone" : "(877) 369-0940",
+  "schoolname" : "Easter Seals of New York/FEDCAP",
+  "zipcode" : "10017",
+  "suiteapt" : "3rd Floor",
+  "web" : {
+    "url" : "http://www.fedcap.org/wavtraining"
+  },
+  "state" : "NY ",
+  "time" : "16:16:53",
+  "longitude" : "-73.979182"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.663353",
+    "human_address" : "{\"address\":\"3rd Avenue\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.998939"
+  },
+  "buildingnumber" : "712",
+  "streetname" : "3rd Avenue",
+  "city" : "Brooklyn",
+  "latitude" : "40.663353",
+  "telephone" : "(718) 514-6500",
+  "schoolname" : "Fleet Radio Leasing",
+  "zipcode" : "11232",
+  "web" : {
+    "url" : "http://www.cabclass.com"
+  },
+  "contact" : "Gavriel Gavrilov",
+  "state" : "NY",
+  "time" : "16:16:53",
+  "email" : "gavriel@nextcenturyinsurance.com",
+  "longitude" : "-73.998939"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.792045",
+    "human_address" : "{\"address\":\"14th Avenue\",\"city\":\"Whitestone\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.809557"
+  },
+  "buildingnumber" : "150-51",
+  "streetname" : "14th Avenue",
+  "city" : "Whitestone",
+  "latitude" : "40.792045",
+  "telephone" : "(718) 746-4400",
+  "schoolname" : "Goog Transportation Education Academy",
+  "zipcode" : "11357",
+  "suiteapt" : "Lower Level, Unit A",
+  "web" : {
+    "url" : "http://www.googeducation.com"
+  },
+  "state" : "NY",
+  "time" : "16:16:53",
+  "email" : "info@googeducation.com",
+  "longitude" : "-73.809557"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.751777",
+    "human_address" : "{\"address\":\"Northern Boulevard\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.930235"
+  },
+  "buildingnumber" : "33-24",
+  "streetname" : "Northern Boulevard",
+  "city" : "Long Island City",
+  "latitude" : "40.751777",
+  "telephone" : "(718) 433-0439",
+  "schoolname" : "HANAC NYC Taxi Academy",
+  "zipcode" : "11101",
+  "suiteapt" : "4th Floor",
+  "web" : {
+    "url" : "http://www.hanactaxi.com"
+  },
+  "contact" : "Hasain Shakil",
+  "state" : "NY ",
+  "time" : "16:16:53",
+  "longitude" : "-73.930235"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.751777",
+    "human_address" : "{\"address\":\"Northern Boulevard\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.930235"
+  },
+  "buildingnumber" : "33-24",
+  "streetname" : "Northern Boulevard",
+  "city" : "Long Island City",
+  "latitude" : "40.751777",
+  "telephone" : "(718) 433-0439",
+  "schoolname" : "HANAC NYC Taxi Academy",
+  "zipcode" : "11101",
+  "suiteapt" : "4th Floor",
+  "web" : {
+    "url" : "http://www.hanactaxi.com"
+  },
+  "contact" : "Hasain Shakil",
+  "state" : "NY ",
+  "time" : "16:16:53",
+  "longitude" : "-73.930235"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.744818",
+    "human_address" : "{\"address\":\"Queens Boulevard\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.929438"
+  },
+  "buildingnumber" : "35-01",
+  "streetname" : "Queens Boulevard",
+  "city" : "Long Island City",
+  "latitude" : "40.744818",
+  "telephone" : "(718) 709-1990",
+  "schoolname" : "HANAC NYC Taxi Academy",
+  "zipcode" : "11101",
+  "suiteapt" : "Ground Floor",
+  "web" : {
+    "url" : "http://www.hanactaxi.com"
+  },
+  "contact" : "Hasain Shakil",
+  "state" : "NY ",
+  "time" : "16:16:53",
+  "longitude" : "-73.929438"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.701122",
+    "human_address" : "{\"address\":\"Lefferts Boulevard\",\"city\":\"Richmond Hill\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.831383"
+  },
+  "buildingnumber" : "86-11",
+  "streetname" : "Lefferts Boulevard",
+  "city" : "Richmond Hill",
+  "latitude" : "40.701122",
+  "telephone" : "(718) 790-2000",
+  "schoolname" : "Knowledge Seekers, Inc.",
+  "zipcode" : "11418",
+  "web" : {
+    "url" : "http://www.knowledgeseekers.nyc"
+  },
+  "contact" : "Asad R. Siddiqy",
+  "state" : "NY ",
+  "time" : "16:16:53",
+  "email" : "info@knowledgeseekers.nyc",
+  "longitude" : "-73.831383"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.577814",
+    "human_address" : "{\"address\":\"Oriental Boulevard\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.935561"
+  },
+  "buildingnumber" : "2001",
+  "streetname" : "Oriental Boulevard",
+  "city" : "Brooklyn",
+  "latitude" : "40.577814",
+  "telephone" : "(718) 368-5189",
+  "schoolname" : "Kingsborough Community College",
+  "zipcode" : "11235",
+  "suiteapt" : "Room T4122",
+  "contact" : "Abel Zamora",
+  "state" : "NY ",
+  "time" : "16:16:53",
+  "email" : "taxi@kbcc.cuny.edu",
+  "longitude" : "-73.935561"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.744",
+    "human_address" : "{\"address\":\"Thomson Avenue\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.935013"
+  },
+  "buildingnumber" : "31-10",
+  "streetname" : "Thomson Avenue",
+  "city" : "Long Island City",
+  "latitude" : "40.744",
+  "telephone" : "(718) 482-5335",
+  "schoolname" : "LaGuardia Community College",
+  "zipcode" : "11101",
+  "suiteapt" : "M-building, Room M-143",
+  "web" : {
+    "url" : "http://www.lagcc.cuny.edu/taxi"
+  },
+  "contact" : "Karini Rodriguez",
+  "state" : "NY ",
+  "time" : "16:16:53",
+  "email" : "cunytaxi@lagcc.cuny.edu",
+  "longitude" : "-73.935013"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.59802",
+    "human_address" : "{\"address\":\"Hylan Boulevard\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.082364"
+  },
+  "buildingnumber" : "1194",
+  "streetname" : "Hylan Boulevard",
+  "city" : "Staten Island ",
+  "latitude" : "40.59802",
+  "telephone" : "(718) 816-6400",
+  "schoolname" : "MDS Corp.",
+  "zipcode" : "10305",
+  "contact" : "Mickey Milbauer",
+  "state" : "NY ",
+  "time" : "16:16:53",
+  "email" : "mickey2449@gmail.com",
+  "longitude" : "-74.082364"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.744409",
+    "human_address" : "{\"address\":\"Queens Boulevard\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.933008"
+  },
+  "buildingnumber" : "32-02",
+  "streetname" : "Queens Boulevard",
+  "city" : "Long Island City",
+  "latitude" : "40.744409",
+  "telephone" : "(718) 361-2232",
+  "schoolname" : "MDS Corp.",
+  "zipcode" : "11101",
+  "contact" : "Mickey Milbauer",
+  "state" : "NY",
+  "time" : "16:16:53",
+  "email" : "mickey2449@gmail.com",
+  "longitude" : "-73.933008"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.74209",
+    "human_address" : "{\"address\":\"47th Avenue\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.935516"
+  },
+  "buildingnumber" : "31-00",
+  "streetname" : "47th Avenue",
+  "city" : "Long Island City",
+  "latitude" : "40.74209",
+  "telephone" : "(718) 392-0627",
+  "schoolname" : "MDS Corp.",
+  "zipcode" : "11101",
+  "suiteapt" : "3rd Floor",
+  "contact" : "Mickey Milbauer",
+  "state" : "NY",
+  "time" : "16:16:53",
+  "longitude" : "-73.935516"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.86885",
+    "human_address" : "{\"address\":\"Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.916637"
+  },
+  "buildingnumber" : "5030",
+  "streetname" : "Broadway ",
+  "city" : "New York",
+  "latitude" : "40.86885",
+  "telephone" : "(718) 503-8004",
+  "schoolname" : "NYC Taxi Limo Training Center",
+  "zipcode" : "10034",
+  "suiteapt" : "Suite #626",
+  "web" : {
+    "url" : "http://www.nyctaxilimotrainingcenter.com"
+  },
+  "contact" : "Anthony Cabrera",
+  "state" : "NY ",
+  "time" : "16:16:53",
+  "email" : "nyctaxilimotrainingcenter@gmail.com",
+  "longitude" : "-73.916637"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.675575",
+    "human_address" : "{\"address\":\"37th Avenue\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.110142"
+  },
+  "buildingnumber" : "31-10 ",
+  "streetname" : "37th Avenue",
+  "city" : "Long Island City",
+  "latitude" : "40.675575",
+  "telephone" : "(718) 70-NYTWA",
+  "schoolname" : "Taxi Workers Academy at NYTWA",
+  "zipcode" : "11101",
+  "suiteapt" : "Suite 3000",
+  "web" : {
+    "url" : "http://www.nytwa.org"
+  },
+  "state" : "NY",
+  "time" : "16:16:53",
+  "longitude" : "-74.110142"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.767429",
+    "human_address" : "{\"address\":\"Steinway Street\",\"city\":\"Astoria\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.911747"
+  },
+  "buildingnumber" : "25-15 ",
+  "streetname" : "Steinway Street",
+  "city" : "Astoria",
+  "latitude" : "40.767429",
+  "telephone" : "(718) 355-9009",
+  "schoolname" : "TLC Akademy",
+  "zipcode" : "11101",
+  "suiteapt" : "3rd Floor",
+  "web" : {
+    "url" : "http://www.tlcakademy.com"
+  },
+  "state" : "NY",
+  "time" : "16:16:53",
+  "email" : "info@tlcakademy.com",
+  "longitude" : "-73.911747"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.74209",
+    "human_address" : "{\"address\":\"47th Avenue\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.935516"
+  },
+  "buildingnumber" : "31-00 ",
+  "streetname" : "47th Avenue",
+  "city" : "Long Island City",
+  "latitude" : "40.74209",
+  "telephone" : "(718) 255-9500",
+  "schoolname" : "TLC Driver Institute",
+  "zipcode" : "11101",
+  "suiteapt" : "1st floor",
+  "contact" : "Angelica Meza",
+  "state" : "NY",
+  "time" : "16:16:53",
+  "longitude" : "-73.935516"
+}
+, {
+  "date" : "2017-04-14T00:00:00",
+  "location_1" : {
+    "latitude" : "40.610119",
+    "human_address" : "{\"address\":\"Nostrand Avenue\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.943369"
+  },
+  "buildingnumber" : "3051",
+  "streetname" : "Nostrand Avenue",
+  "city" : "Brooklyn",
+  "latitude" : "40.610119",
+  "telephone" : "(646) 886-0156",
+  "schoolname" : "Training In Transportation",
+  "zipcode" : "11229",
+  "web" : {
+    "url" : "http://www.nybustraining.com"
+  },
+  "contact" : "JoAnn Tufaro",
+  "state" : "NY",
+  "time" : "16:16:53",
+  "longitude" : "-73.943369"
+}
+ ]

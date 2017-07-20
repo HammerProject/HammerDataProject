@@ -1,0 +1,154 @@
+[ {
+  "location_1" : {
+    "latitude" : "40.713122420000445",
+    "human_address" : "{\"address\":\"49-51 Chambers Street\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"10007\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00403760199964"
+  },
+  "chair" : "Catherine McVey-Hughes",
+  "board_meeting_cabinet_meeting" : "Fourth Tuesday, 6PM",
+  "district_manager" : "Noah Pfefferbilt",
+  "community_board_number" : "1",
+  "location_2" : "Room 715"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.72885268400046",
+    "human_address" : "{\"address\":\"3 Washington Square Village\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"10012\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99719191899965"
+  },
+  "chair" : "David Gruber",
+  "board_meeting_cabinet_meeting" : "Second to last Thursday, 6PM",
+  "district_manager" : "Bob Gormley",
+  "community_board_number" : "2",
+  "location_2" : "1A"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.726836645000446",
+    "human_address" : "{\"address\":\"59 East 4th Street\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99089945799966"
+  },
+  "chair" : "Gigi Li",
+  "board_meeting_cabinet_meeting" : "Fourth Tuesday, 6:30PM",
+  "district_manager" : "Susan Stetzer",
+  "community_board_number" : "3"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.757864622000454",
+    "human_address" : "{\"address\":\"330 West 42nd Street\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99136137699963"
+  },
+  "chair" : "Corey Johnson",
+  "board_meeting_cabinet_meeting" : "First Wednesday. 6:30PM",
+  "district_manager" : "Robert J. Benfatto",
+  "community_board_number" : "4",
+  "location_2" : "Suite 2618"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.75132905000049",
+    "human_address" : "{\"address\":\"450 7th Avenue\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"10123\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99041621899966"
+  },
+  "chair" : "Vikki Babero",
+  "board_meeting_cabinet_meeting" : "Second Thursday, 6PM",
+  "district_manager" : "Wally Rubin",
+  "community_board_number" : "5",
+  "location_2" : "Room 2109"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.75302256500049",
+    "human_address" : "{\"address\":\"866 UN Plaza\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"10017\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97480609599967"
+  },
+  "chair" : "Sandro Sherrod",
+  "board_meeting_cabinet_meeting" : "Second Wednesday, 7PM",
+  "district_manager" : "Dan Miner",
+  "community_board_number" : "6",
+  "location_2" : "Suite 308"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.78902366200049",
+    "human_address" : "{\"address\":\"250 W. 87th Street\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97615779399968"
+  },
+  "chair" : "Mark N. Diller",
+  "board_meeting_cabinet_meeting" : "First Tuesday, 6:30PM",
+  "district_manager" : "Penny Ryan",
+  "community_board_number" : "7"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.763061811000455",
+    "human_address" : "{\"address\":\"505 Park Avenue\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"10022\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96951494299964"
+  },
+  "chair" : "Nicholas Viest",
+  "board_meeting_cabinet_meeting" : "Third Wednesday, 6:30PM",
+  "district_manager" : "Latha Thompson",
+  "community_board_number" : "8",
+  "location_2" : "Suite 620"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.81515317800046",
+    "human_address" : "{\"address\":\"16-18 Old Broadway\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"10027\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95781819899963"
+  },
+  "chair" : "Georgette Morgan-Thomas",
+  "board_meeting_cabinet_meeting" : "Third Thursday, 6:30 PM",
+  "district_manager" : "Eutha R. Prince",
+  "community_board_number" : "9"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.809347352000486",
+    "human_address" : "{\"address\":\"215 West 125th Street\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"10027\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94915020499963"
+  },
+  "chair" : "Henrietta Lyle",
+  "board_meeting_cabinet_meeting" : "First Wednesday, 6PM",
+  "district_manager" : "Christopher T. Wooley",
+  "community_board_number" : "10",
+  "location_2" : "4th floor"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.80029017200047",
+    "human_address" : "{\"address\":\"1664 Park Avenue\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94271649199965"
+  },
+  "chair" : "Matthew Washington",
+  "board_meeting_cabinet_meeting" : "Third Tuesday, 6:30PM",
+  "district_manager" : "George Sarkissian",
+  "community_board_number" : "11",
+  "location_2" : "Ground Floor"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.84228929800048",
+    "human_address" : "{\"address\":\"711 West 168th Street\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"10032\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94246863299963"
+  },
+  "chair" : "George Fernandez",
+  "board_meeting_cabinet_meeting" : "Fourth Tuesday, 7PM",
+  "district_manager" : "Ebenezer Smith",
+  "community_board_number" : "12",
+  "location_2" : "Ground Floor"
+}
+ ]

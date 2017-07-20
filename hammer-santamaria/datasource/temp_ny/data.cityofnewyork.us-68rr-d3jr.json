@@ -1,0 +1,237 @@
+[ {
+  "service_description" : "Work Readiness consists of services to provide clients with the skills and interpersonal competencies that are essential to successful job search, securing employment, and workplace performance. Examples include Career Advisement, Individual Job Search Preparation, Interview Preparation, Resume Preparation, Skills Assessment and Workplace Literacy.",
+  "service_area" : "Work Readiness"
+}
+, {
+  "service_description" : "Transportation consists of vehicular services to carry individuals from one place to another. Transportation services may include facilitation of reservations, dispatch, vehicular routing, private transportation, and passenger pick-up for individuals or groups in a secure or non-secure setting. Transportation services are targeted towards persons who require such service because their destination is beyond their walking (or driving) ability and they have no alternative means of transportation, or because public transportation is beyond the individual's abilities. Transportation may also be provided to staff traveling to clients in need of community-based services. Examples include Group Transportation, Individual Transportation, and Secure Transportation.",
+  "service_area" : "Transportation"
+}
+, {
+  "service_description" : "Translation consists of the written rendering from one language to another to facilitate communication and reduce language barriers in the delivery of services. Translation services may also include synchronous translation, which is the immediate transmission into another language through IT enablement. Translation services providers may translate into one or more languages forms, publications and other materials used to support program activities. Examples include Translation of Legal Documents and Translation of Program Materials.",
+  "service_area" : "Translation"
+}
+, {
+  "service_description" : "Telecommunications consists of services to facilitate communication via the telephone. Telecommunications services may include the operation of a counseling call center or an emergency hotline. Telecommunications providers may also offer services to provide phone-based services to individuals who are deaf or hearing impaired. Examples include Hotline, Call Center, Telecommunications Device for the Deaf (TDD), and Tele Typewriter (TTY).",
+  "service_area" : "Telecommunications"
+}
+, {
+  "service_description" : "Substance Abuse Services consist of health services to support the diagnosis, treatment, and prevention of drug and alcohol abuse and compulsive gambling. Substance Abuse Services may also include services to reduce harms from drug and alcohol use and to improve the health of people who use drugs. Examples include Medically Supervised/Monitored Withdrawal, Medically Managed Detoxification, Inpatient Rehabilitation, Community Residential Treatment, Post Treatment Housing, Recovery Community Centers, Recovery Community Organizing Initiative, Residential Rehabilitation, Intensive Residential Services, Opioid Treatment, Methadone Maintenance, Methadone to Abstinence, Managed Addiction Treatment Services, Medically Supervised Outpatient Services, Outpatient Rehabilitation, Compulsive Gambling Treatment, Overdose Prevention, and Naloxone Treatment.",
+  "service_area" : "Substance Abuse Services"
+}
+, {
+  "service_description" : "Shelter consists of temporary housing provided to clients in need of emergency transitional shelter having been displaced from their homes. Shelter services are provided to homeless persons in general and also to specific populations depending on special service needs. Examples include Runaway Youth Shelters, Domestic Violence Shelters, Emergency Housing and Respite, Safe Haven, and Stabilization Beds.",
+  "service_area" : "Shelter"
+}
+, {
+  "service_description" : "Secure Detention consists of services to provide the detainment of individuals who have been sentenced to serve time in facilities that have been designed and staffed to restrict the physical movements and activities of detainees. Examples include Secure Juvenile Detention Facilities and Supportive Programming.",
+  "service_area" : "Secure Detention"
+}
+, {
+  "service_description" : "Restitution Collections consist of services to secure financial compensation for victims. Restitution Collections providers may be responsible for contacting victims to determine loss amounts, investigating the offender's assets, helping the victim present a restitution request to the appropriate authorities, reporting findings to the court, monitoring payments of restitution and/or employing a variety of legally sanctioned methods (such as tax liens and judgment orders) to recover losses for victims in situations where the offender fails to make payments as agreed. Examples include Restitution Oversight and Restitution Database Management.",
+  "service_area" : "Restitution Collections"
+}
+, {
+  "service_description" : "Respite Care consists of short-term, temporary care provided by a trained respite worker or nurse for the purpose of supporting parents and other caregivers who may otherwise be overwhelmed by the intensity and constancy of caregiving responsibilities. Respite Care services are often provided for parents of children with special needs and are not intended to substitute for day care while a parent/caregiver is working or attending school, or to replace ongoing nursing or homemaking services. Examples include Group Respite Care, such as a weekend or summer camp program and Individual Respite Care, such as home-based temporary care.",
+  "service_area" : "Respite Care"
+}
+, {
+  "service_description" : "Rehabilitation/Therapy consists of therapeutic services to provide various treatments aimed to increase functional independence, prevent further loss of function, and maintain or improve quality of life and to enhance independence in as many aspects of life as possible. There are different types of rehabilitation, including occupational, physical, and speech as well as rehabilitation of particular behaviors or disorders. Examples include Occupational Therapy, Physical Therapy, Speech Therapy, and Behavioral Rehabilitation.",
+  "service_area" : "Rehabilitation/Therapy"
+}
+, {
+  "service_description" : "Recreational Services are services to promote physical health, mental stimulation and socialization skills. Recreational Services are often provided as part of an after-school or senior center program. Examples include Arts and Culture Activities and Physical Recreation, including Athletic Leagues and both Structured and Unstructured programming.",
+  "service_area" : "Recreational Services"
+}
+, {
+  "service_description" : "Primary Care consists of services provided at a patient's first point of entry into the health care system, access to a physician and as the continuing focal point for all needed health care services. Examples include Clinic Services, Medical Assessment and Physicals.",
+  "service_area" : "Primary Care"
+}
+, {
+  "service_description" : "Preventive Services consist of support and intervention provided to promote behaviors, activities, treatment and services in order to prevent harmful outcomes. Preventive Services provide support necessary to avoid the displacement of a child or family, involvement in the criminal and juvenile justice systems, domestic abuse, child abuse and neglect, substance abuse,health issues and disease, untreated mental illness. Preventive Services may include crisis intervention, family mediation, community-based wrap-around and other services aimed at preventing negative outcomes. Examples include Substance Abuse Prevention, Child Abuse Prevention, Disease Prevention, PINS Diversion, Harm Reduction Counseling, Criminal Justice Prevention and Services for those at risk.",
+  "service_area" : "Preventive Services"
+}
+, {
+  "service_description" : "Pregnancy Services consist of services for pregnant women and women with newborns to promote healthy pregnancies and families. Examples include Neo-Natal and Pre-Natal Care.",
+  "service_area" : "Pregnancy Services"
+}
+, {
+  "service_description" : "Parenting Services consist of services that provide specialized support for individuals caring for dependents. Parenting Services often include counseling, home-based assessments and support, and guidance on parent-child relationships. Examples include Home Visiting and Parental Counseling.",
+  "service_area" : "Parenting Services"
+}
+, {
+  "service_description" : "Outreach consists of planned activities designed to bring the existing service delivery system to a defined population or program participants in a designated area. Outreach services are intended to engage or assess individuals potentially in need and provide information or linkages to community-based services. Examples include Street Outreach, Enrollment and Recruitment, Individual Client Outreach (such as Friendly Visiting or Individual Crisis Intervention), Materials Design and Development (such as distribution of informational pamphlets about programs), and Soliciting Referral Options (such as creating a resource directory).",
+  "service_area" : "Outreach"
+}
+, {
+  "service_description" : "Nursing consists of services provided by accredited nurses to promote health, the prevention of illness, and the care of clients with diseases, disabilities, or terminal illness. Examples include Nurse-Family Programming, Nursing Home, Hospital-based Nursing Services and Home-based Nursing Services.",
+  "service_area" : "Nursing"
+}
+, {
+  "service_description" : "Non-secure Placement consists of an alternative to secure detention that provides structured residential care in a less restrictive setting. Non-secure Placement provides juvenile clients with close supervision in a family-like supportive environment when they have been remanded to ACS custody, are awaiting disposition of court cases, or other reasons for requiring supervision. Examples include Foster Care Group Homes and Non-secure Detention for Juvenile Offenders.",
+  "service_area" : "Non-secure Placement"
+}
+, {
+  "service_description" : "Mental Health Services consists of services to support the diagnosis, treatment, and prevention of mental disease and illness by means of psychiatric or psychological services and education, care coordination, rehabilitation, supportive housing services, advocacy, and other supports provided by a psychiatrist, psychologist, registered nurse, nurse practitioner, social worker, mental health aide or peer. Examples include Psychiatric Treatment Services and Psychological Treatment Services, including Anger Management, Applied Behavioral Analysis, Behavioral Counseling and Clinical Counseling.",
+  "service_area" : "Mental Health Services"
+}
+, {
+  "service_description" : "Medication Management consists of services to administer, regulate, order, dispense, deliver and store medications, often in a pharmacy setting, in accordance with state laws. Examples include Treatment Management and Prescription Management.",
+  "service_area" : "Medication Management"
+}
+, {
+  "service_description" : "Literacy consists of services to provide clients with reading, writing, speaking, and math skills that are critical to academic achievement and/or career development. Examples include Adult Basic Education, Literacy Classes, and Math Courses.",
+  "service_area" : "Literacy"
+}
+, {
+  "service_description" : "Life Skills consist of socialization and educational services to provide social, financial, interpersonal, and activities of daily living training that help individuals achieve self-sufficiency, contribute to the community, make informed decisions, and establish healthy relationships with others. Examples include Financial Literacy, Independent Living Skills, Leadership Development, Mentoring and Parenting Skills.",
+  "service_area" : "Life Skills"
+}
+, {
+  "service_description" : "Legal Services consist of work performed by legal professionals and may include processing paperwork and documentation, court-based services, representation, or other services to assist with legal matters on behalf of a client and his/her needs. Legal Services may include advocacy services to ensure that clients are aware of rights and entitlements for which they are eligible. Examples include Citizenship Assistance, Legal Mediation and Legal Representation.",
+  "service_area" : "Legal Services"
+}
+, {
+  "service_description" : "Language Skills consists of services to provide educational programming to facilitate the acquisition of language skills. Language Skills services are often provided to clients with limited native language literacy and limited proficiency in speaking, reading and writing English. Language Skills services may also help clients develop basic reading and writing skills in their native language in addition to English. Examples include English as a Second Language (ESL) courses, English for Speakers of Other Languages (ESOL) courses and Basic Education in Native Language (BENL) courses.",
+  "service_area" : "Language Skills"
+}
+, {
+  "service_description" : "Job/Vocational Training consists of services to develop or enhance skills needed to meet the hiring requirements of industries/employers and participate in the workforce. Job/Vocational Training may be provided to obtain specific credentials or more general skill sets. Examples include Credential Based Training, Customized Training, Entrepreneurial Training, On-the-Job Training and Sheltered Workshops.",
+  "service_area" : "Job/Vocational Training"
+}
+, {
+  "service_description" : "Job Placement Services provide clients with access to job placements that will allow clients to participate in the workforce immediately or following appropriate assessment or training. Job Placement types range, including direct employment, post-secondary education, or vocational training. Services may also include building relationships with placement providing organizations, conducting job searches and matching for clients and working with clients to understand workforce interests and goals. Successful placements allow clients to enhance their career options and workforce participation. Examples include Career Exploration, Employer Recruitment, Internship, Job Search, Job Matching, Placement Development, Post Placement Support/Retention Services, Transitional Employment and Volunteering.",
+  "service_area" : "Job Placement Services"
+}
+, {
+  "service_description" : "Interpretation consists of the verbal rendering from one language to another to facilitate communication and reduce language barriers in the delivery of services. Interpretation Services may include providing live daytime and evening interpretation services at service locations, including health-related meetings, forums and hearings. Examples include Language Bank and Medical Appointment Accompaniment by an Interpreter.",
+  "service_area" : "Interpretation"
+}
+, {
+  "service_description" : "Housing consists of longer-term or permanent residential placement for individuals in need. Housing may include supportive services, such as medical services, case management, and other services that promote self-sufficiency and enable special needs populations to live as independently as possible in a permanent setting. Examples include Supportive Housing, Supported Housing, NORC, Senior Housing, HIV/AIDS Housing, MICA Housing, and other long-term or permanent housing and residential services.",
+  "service_area" : "Housing"
+}
+, {
+  "service_description" : "Housekeeping consists of services to maintain a safe and clean abode for clients. Housekeeping providers often offer cleaning services for homebound clients on a regular basis, such as weekly or daily. Housekeeping may also be provided on a one-time basis. Services are often provided to individuals who are unable to independently perform household chores and activities. Examples include Heavy-Duty Housekeeping and Light/Daily Housekeeping.",
+  "service_area" : "Housekeeping"
+}
+, {
+  "service_description" : "Homemaking Services consist of services to provide parents and guardians with teaching and training in appropriate childcare, parenting, and household management responsibilities. Examples include Home-based Assessment and Household Management Training.",
+  "service_area" : "Homemaking Services"
+}
+, {
+  "service_description" : "Homelessness Prevention consists of using risk factors to target households at risk of shelter entry and addressing the emergency housing crisis with services that help the clients avoid homelessness. Homelessness Prevention services are provided to assist clients in achieving long-term housing stability. Examples include Eviction Prevention, Housing Financial Assistance (including Tenant-Based Rental Assistance, Emergency Rental Assistance, and Start-Up Rental Assistance), and Housing Identification and Placement.",
+  "service_area" : "Homelessness Prevention"
+}
+, {
+  "service_description" : "Home Attendant Services consist of home-based personal care to stabilize clients who have exceptional needs and/or are in exceptional circumstances so they can remain safely at home, maintain a degree of independence, and/or avoid being institutionalized. Home attendants may be responsible for assisting clients with physical, mental, social, behavioral and/or environmental problems by supporting activities of daily living. Examples include Personal Care, Feeding, Ambulation Assistance, Bathing, Personal Grooming, Dressing, Marketing, Laundry, Meal Preparation, and Errands.",
+  "service_area" : "Home Attendant Services"
+}
+, {
+  "service_description" : "Health Education and Supports consist of information and guidance in areas that affect community health. Examples include Health Care Access Services, Health Promotion, and Nutrition Education and Counseling.",
+  "service_area" : "Health Education and Supports"
+}
+, {
+  "service_description" : "Foster Care Services consist of services that provide placement and support to families and children/dependent individuals in the foster care system. Foster Care Services providers often maintain regular contact with dependent individuals, assess the quality of the relationship between parents and dependent individuals, and monitor safety. Foster Care Services also include supportive services for youth transitioning out of foster care. Examples include Foster Care Placement, including Family-Based (General, Specialized, and Treatment) and Residential, Foster Family Recruitment, including General and Special Needs, and Transitional Living Skills.",
+  "service_area" : "Foster Care Services"
+}
+, {
+  "service_description" : "Food and Nutrition services consists of services to provide meals and/or nutrition information to promote health and well-being. Food Services may be offered at program locations or in clients homes. Examples include Catering, Delivery, Meal Preparation, Nutrition and Menu Planning, and Pantry.",
+  "service_area" : "Food and Nutrition"
+}
+, {
+  "service_description" : "Financial Counseling consists of services to provide information on personal finance management to promote self-sufficiency through management of personal funds. Examples include Client Fiscal Management, Home Finance Management, Debt Counseling, Foreclosure Prevention, and Small Business Financing Counseling.",
+  "service_area" : "Financial Counseling"
+}
+, {
+  "service_description" : "Family Planning consists of services in areas of contraception, healthy pregnancy, pregnancy options, and making choices about having children to promote development of healthy families. Examples include Reproductive Health Services and Emergency Contraception.",
+  "service_area" : "Family Planning"
+}
+, {
+  "service_description" : "Facility Management consists of the coordination of the physical facility with the people who work and/or live there. Facility Management may include the maintenance and oversight of all aspects of a building, including its structural integrity and operational capacity. Examples include Accessibility Services (such as Assistive Technologies, Home Modification, and Vehicular Modification), Buildout/Facility Development, Property Management, Facility Operations, and Weatherization and Repairs.",
+  "service_area" : "Facility Management"
+}
+, {
+  "service_description" : "Environmental Health consists of services to provide for the prevention and control of environmental health risks such as disease, animal, food-borne or other risks to public health. Examples include Environmental Health Control (such as Extermination), Epidemiology, Environmental Health Inspections, and Prevention (such as providing hand sanitizer in public venues).",
+  "service_area" : "Environmental Health"
+}
+, {
+  "service_description" : "Entitlements Assistance consists of Case Management services to help clients to obtain benefits, entitlements and help them to meet financial obligations or avoid crises. Entitlements Assistance may include help obtaining unemployment benefits, health and disability insurance, food assistance, veterans' benefits, SSI/SSD, and other forms of public assistance. Examples include Public Health Insurance Enrollment, Public Assistance Eligibility Screenings, and Benefits Advocacy.",
+  "service_area" : "Entitlements Assistance"
+}
+, {
+  "service_description" : "Emergency Treatment consists of services provided to clients in need of emergency acute medical care. Emergency Treatment involves triage, patient stabilization and appropriate transfer of client to the next care setting. Examples include Hospital Emergency Room, Urgent Care Center, and Emergency Walk-In Clinic.",
+  "service_area" : "Emergency Treatment"
+}
+, {
+  "service_description" : "Emergency Preparedness and Response consists of services to provide outreach, engagement, and support in response to or in preparation for major events, including traumatic life events, disasters, and emergencies (natural or man-made). Examples include Crisis Counseling, Emergency Planning Courses and Disaster Relief Services.",
+  "service_area" : "Emergency Preparedness and Response"
+}
+, {
+  "service_description" : "Drop-in Center consists of a day-only service hub where street homeless and those at risk can receive case management and referrals to temporary emergency shelter in a safe environment. Examples include Homeless Reception Centers and Walk-in Personal Care Services.",
+  "service_area" : "Drop-In Center"
+}
+, {
+  "service_description" : "Disease Control consists of services to prevent, detect and stop the progress of diseases affecting the general or specific populations. Disease Control services may include immunizations, testing and information. Examples include Disease Prevention services and Testing.",
+  "service_area" : "Disease Control"
+}
+, {
+  "service_description" : "Discharge/Re-Entry consists of services to help people who have been released from a correctional facility make a successful transition to living in the community. Services may include an assessment of client needs and short-term case management, including coordination of needed services, including housing location assistance, job training, job placement and retention services, legal assistance, literacy skills development, GED courses, parenting classes, life skills training, access to food and shelter resources, and other support services. Examples include Transition Planning, Ex-Offenders Case Management and Family Reunification.",
+  "service_area" : "Discharge/Re-Entry"
+}
+, {
+  "service_description" : "Diploma/HSE Training consists of services to assist in the preparation for registering and completing the New York State High School Equivalency (HSE) examination. Diploma/HSE Training may include preparatory classes and assistance in scheduling the examination. Examples include HSE Classes and Individual HSE Preparation.",
+  "service_area" : "Diploma/HSE Training"
+}
+, {
+  "service_description" : "Diploma/GED Training consists of services to assist in the preparation for registering for and completing the New York State High School Equivalency examination. Diploma/GED Training may include preparatory classes and assistance in scheduling the examination. Examples include GED Classes and Individual GED Preparation.",
+  "service_area" : "Diploma/GED Training"
+}
+, {
+  "service_description" : "Diagnostic Testing consists of services provided to obtain objective evidence of the presence of a condition and determine diagnosis. Examples include HIV/AIDS Testing, Mental Health Assessment, and Hearing Testing.",
+  "service_area" : "Diagnostic Testing"
+}
+, {
+  "service_description" : "Dental Services consist of preventive and clinical dentistry services provided by dentists, dental hygienists and technicians to prevent and treat oral disease and injury. Examples include Dental Cleaning, Examination, and Treatment.",
+  "service_area" : "Dental Services"
+}
+, {
+  "service_description" : "Court Appointed Guardian Services consists of services to assign an individual or institution authorized by a court to manage the personal and/or financial affairs of a person who cannot manage for himself or herself because of incapacity. Court Appointed Guardian Services also consist of monitoring and overseeing the services provided. Court Appointed Guardian Services may prevent financial exploitation and help individuals maintain financial health. Examples include Adult Protective Services, Community Court Appointed Guardian Services and Private Court Appointed Guardian Services.",
+  "service_area" : "Court Appointed Guardian Services"
+}
+, {
+  "service_description" : "Conflict Resolution/Mediation consists of services to provide methods of negotiation and objective intervention to resolve social disputes. Conflict Resolution/Mediation may include assistance with disputes in areas of landlord-tenant conflicts, family-related matters, and workplace disputes. Examples include Group Conflict Resolution/Mediation and Single/Interpersonal Conflict Resolution/Mediation.",
+  "service_area" : "Conflict Resolution/Mediation"
+}
+, {
+  "service_description" : "Community Engagement consists of the facilitation and oversight of clients' meaningful participation in community processes and programs to provide enrichment, socialization, and development. Community Engagement may include projects to support local community spaces, including park revitalization and green spaces, and enables clients to become active and engaged members of their community. Examples include Civic Engagement and Community Service opportunities.",
+  "service_area" : "Community Engagement"
+}
+, {
+  "service_description" : "Child Support Enforcement consists of services to ensure that children receive financial and medical support from both parents. Services may include establishing paternity; locating noncustodial parents; establishing child support and medical support orders; and collecting, distributing, and enforcing child support payments. Examples also include programs to assist noncustodial parents in managing their child support obligation.",
+  "service_area" : "Child Support Enforcement"
+}
+, {
+  "service_description" : "Child Care consists of services to provide supervision to children and promote family well being by allowing parents to maintain employment, supporting protective, foster care, and preventive services, and serving families that are homeless or need child care for medical or social reasons. Child Care services may also include educational programming and family support. Examples include Day Care, Family Day Care, Head Start, Pre-Kindergarten and Children's Room in a Service Location.",
+  "service_area" : "Child Care"
+}
+, {
+  "service_description" : "Case Management consists of services to help persons and families achieve or maintain optimum social, psychological, and physical functioning by planning, securing, coordinating, and monitoring services from different organizations and personnel on behalf of those served. Case Management may include services to establish and maintain client engagement in needed services. Services may also include client team communications to facilitate the exchange of information between two or more parties in relation to the status of or service delivery to a client. Examples include Advocacy (Community and Individual), Aftercare, Case Assistance, Case Conferencing, Client Evaluation/Assessment, Client Monitoring, Client Referrals, Counseling, Crisis Intervention/Management, Diversion Services, Intake, Safety Planning, Service/Care Planning and Transition/Discharge Planning.",
+  "service_area" : "Case Management"
+}
+, {
+  "service_description" : "Caregiver Support Services consist of supportive counseling and assistance provided to help individuals who care for a family member or loved one who has physical, mental, or developmental issues. Examples include Caregiver Support Group and Caregiver Counseling.",
+  "service_area" : "Caregiver Support"
+}
+, {
+  "service_description" : "Alternative Justice Management consists of services to provide alternatives to incarceration for individuals involved in the adult or juvenile justice system. Alternative Justice Management may include the formal supervision of offenders released conditionally on probation or parole or confined to their homes or other venues in the community. Services may also provide the option of participating in counseling, educational or work programs as an alternative to incarceration in a correctional facility, payment of a fine or other sanctions. Examples include Community Service Management, Parole Management, Probation Management, Alternative Placement, and Alternatives to Incarceration.",
+  "service_area" : "Alternative Justice Management"
+}
+, {
+  "service_description" : "Adoption Services consist of services to provide information, counseling, and support to birth parents, children, youth, and prospective adoptive parents to facilitate permanent caring relationships for children within families. Adoption services also provide support to birth parents, adopted individuals, and adoptive parents after an adoption has been finalized. Examples include Family Finding and Post Adoption Support.",
+  "service_area" : "Adoption Services"
+}
+, {
+  "service_description" : "Academic Supports consist of education and enrichment to promote academic performance and advancement. Examples include Academic Counseling, Academic Engagement, Continuing Education/Lifelong Learning, Educational Neglect Prevention, Homework Help, Post-Secondary/College Awareness, Project Based Learning, Truancy Prevention and Tutoring.",
+  "service_area" : "Academic Supports"
+}
+ ]

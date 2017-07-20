@@ -1,0 +1,67 @@
+[ {
+  "avg_pit_liability" : "-78",
+  "number_of_tax_payers" : "9",
+  "total_nyc_pit_liability" : "-27",
+  "income_group" : "1st Decile"
+}
+, {
+  "avg_pit_liability" : "-107",
+  "number_of_tax_payers" : "214",
+  "total_nyc_pit_liability" : "-37",
+  "income_group" : "2nd Decile"
+}
+, {
+  "avg_pit_liability" : "-114",
+  "number_of_tax_payers" : "104979",
+  "total_nyc_pit_liability" : "-39.6",
+  "income_group" : "3rd Decile"
+}
+, {
+  "avg_pit_liability" : "-6",
+  "number_of_tax_payers" : "175647",
+  "total_nyc_pit_liability" : "-2.1",
+  "income_group" : "4th Decile"
+}
+, {
+  "avg_pit_liability" : "226",
+  "number_of_tax_payers" : "286107",
+  "total_nyc_pit_liability" : "78.400000000000006",
+  "income_group" : "5th Decile"
+}
+, {
+  "avg_pit_liability" : "557",
+  "number_of_tax_payers" : "338188",
+  "total_nyc_pit_liability" : "192.6",
+  "income_group" : "6th Decile"
+}
+, {
+  "avg_pit_liability" : "925",
+  "number_of_tax_payers" : "342856",
+  "total_nyc_pit_liability" : "320.39999999999998",
+  "income_group" : "7th Decile"
+}
+, {
+  "avg_pit_liability" : "1392",
+  "number_of_tax_payers" : "344058",
+  "total_nyc_pit_liability" : "481.7",
+  "income_group" : "8th Decile"
+}
+, {
+  "avg_pit_liability" : "2227",
+  "number_of_tax_payers" : "344774",
+  "total_nyc_pit_liability" : "770.7",
+  "income_group" : "9th Decile"
+}
+, {
+  "avg_pit_liability" : "12441",
+  "number_of_tax_payers" : "345169",
+  "total_nyc_pit_liability" : "4306",
+  "income_group" : "10th Decile"
+}
+, {
+  "avg_pit_liability" : "1746",
+  "number_of_tax_payers" : "2282001",
+  "total_nyc_pit_liability" : "6044.3",
+  "income_group" : "Total"
+}
+ ]

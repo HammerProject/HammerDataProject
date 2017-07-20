@@ -1,0 +1,124 @@
+[ {
+  "basin" : "Basin"
+}
+, {
+  "total_acres" : "163405.5",
+  "stream_miles" : "485.4",
+  "reservoir_acres" : "8106.5",
+  "basin" : "Ashokan",
+  "_100_ft_riparian_buffer_acres" : "11384.2",
+  "basin_acres_land_only" : "155299.0",
+  "reservoir_shoreline_miles" : "53.2"
+}
+, {
+  "total_acres" : "291077.3",
+  "stream_miles" : "802.6",
+  "reservoir_acres" : "4712.7",
+  "basin" : "Cannonsville",
+  "_100_ft_riparian_buffer_acres" : "18782.6",
+  "basin_acres_land_only" : "286364.6",
+  "reservoir_shoreline_miles" : "56.2"
+}
+, {
+  "total_acres" : "58902.2",
+  "stream_miles" : "229.9",
+  "reservoir_acres" : "1492.8",
+  "basin" : "Neversink",
+  "_100_ft_riparian_buffer_acres" : "5389.6",
+  "basin_acres_land_only" : "57409.4",
+  "reservoir_shoreline_miles" : "18.6"
+}
+, {
+  "total_acres" : "237472.2",
+  "stream_miles" : "664.6",
+  "reservoir_acres" : "5193.7",
+  "basin" : "Pepacton",
+  "_100_ft_riparian_buffer_acres" : "15711.4",
+  "basin_acres_land_only" : "232278.5",
+  "reservoir_shoreline_miles" : "53.2"
+}
+, {
+  "total_acres" : "61039.0",
+  "stream_miles" : "203.4",
+  "reservoir_acres" : "2037.9",
+  "basin" : "Rondout",
+  "_100_ft_riparian_buffer_acres" : "4797.7",
+  "basin_acres_land_only" : "59001.1",
+  "reservoir_shoreline_miles" : "20.3"
+}
+, {
+  "total_acres" : "202039.9",
+  "stream_miles" : "742.7",
+  "reservoir_acres" : "1144.8",
+  "basin" : "Schoharie",
+  "_100_ft_riparian_buffer_acres" : "17371.9",
+  "basin_acres_land_only" : "200895.0",
+  "reservoir_shoreline_miles" : "14.9"
+}
+, {
+  "total_acres" : "1013936.0",
+  "stream_miles" : "3128.6",
+  "reservoir_acres" : "22688.4",
+  "basin" : "WOH Total",
+  "_100_ft_riparian_buffer_acres" : "73437.4",
+  "basin_acres_land_only" : "991247.5",
+  "reservoir_shoreline_miles" : "216.4"
+}
+, {
+  "total_acres" : "14317.8",
+  "stream_miles" : "51.3",
+  "reservoir_acres" : "222.3",
+  "basin" : "Boyds Corner",
+  "_100_ft_riparian_buffer_acres" : "1187.7",
+  "basin_acres_land_only" : "14095.6",
+  "reservoir_shoreline_miles" : "5.5"
+}
+, {
+  "total_acres" : "8475.5",
+  "stream_miles" : "20.7",
+  "reservoir_acres" : "2069.2",
+  "basin" : "Kensico",
+  "_100_ft_riparian_buffer_acres" : "448.3",
+  "basin_acres_land_only" : "6406.3",
+  "reservoir_shoreline_miles" : "32.4"
+}
+, {
+  "total_acres" : "12735.9",
+  "stream_miles" : "54.4",
+  "reservoir_acres" : "1002.3",
+  "basin" : "West Branch",
+  "_100_ft_riparian_buffer_acres" : "1258.2",
+  "basin_acres_land_only" : "11733.6",
+  "reservoir_shoreline_miles" : "14.0"
+}
+, {
+  "total_acres" : "35529.2",
+  "stream_miles" : "126.5",
+  "reservoir_acres" : "3293.8",
+  "basin" : "EOH Total",
+  "_100_ft_riparian_buffer_acres" : "2894.1",
+  "basin_acres_land_only" : "32235.4",
+  "reservoir_shoreline_miles" : "51.9"
+}
+, {
+  "total_acres" : "1049465.2",
+  "stream_miles" : "3255.0",
+  "reservoir_acres" : "25982.2",
+  "basin" : "Watershed Total",
+  "_100_ft_riparian_buffer_acres" : "76331.5",
+  "basin_acres_land_only" : "1023482.9",
+  "reservoir_shoreline_miles" : "268.3"
+}
+, {
+  "basin" : "*CAT/DEL includes all WOH basins plus West Branch, Boyds Corner, and Kensico."
+}
+, {
+  "basin" : "**Includes streams and rivers only (stream24 plus NHD vectors for streampoly proxies)."
+}
+, {
+  "basin" : "***Hydro features buffered include streams and rivers only (stream24 plus water24), and exlude reservoirs and lakes."
+}
+, {
+  "basin" : "Catskill / Delaware* Land and Reservoir Areas and Stream** Length by Basin"
+}
+ ]

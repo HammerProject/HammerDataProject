@@ -1,0 +1,4814 @@
+[ {
+  "sponsor" : "Phipps Community Development",
+  "development" : "(Murphy Consolidated) 1010 East 178th Street ",
+  "address" : "1030 East 178th Street",
+  "borough_code" : "Bronx",
+  "type" : "Other - Education / GED",
+  "zip_code" : "10460",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "1162 Washington",
+  "address" : "1162 Washington Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care ",
+  "zip_code" : "10459",
+  "status" : "Reserved - application on file"
+}
+, {
+  "sponsor" : "Citizen's Care Day Care Center, Inc",
+  "development" : "131 Saint Nicholas Avenue",
+  "address" : "131 Saint Nicholas Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10026",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "131 Saint Nicholas Avenue",
+  "address" : "131 Saint Nicholas Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant",
+  "zip_code" : "10026",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Research Foundation of CUNY (Hostos Community College)",
+  "development" : "335 East 111th St (managed by Jefferson)",
+  "address" : "335 East 111th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Jobs Plus",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Alonzo A. Daughtry Memorial DCC Inc.",
+  "development" : "572 Warren St",
+  "address" : "565 Baltic Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - UPK 2014",
+  "zip_code" : "11217",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Philip Michaels Child Care Center, Inc.",
+  "development" : "Adams",
+  "address" : "690 Westchester Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care ",
+  "zip_code" : "10456",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Neighborhood SHOPP",
+  "development" : "Adams",
+  "address" : "735 East 152nd Street",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10455",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Adams",
+  "address" : "755 East 152nd Street",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10455",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Brooklyn Kindergarten Society, Inc.",
+  "development" : "Albany",
+  "address" : "1185 Park Place",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11213",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "SCO Family of Services",
+  "development" : "Albany",
+  "address" : "164 Troy Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11213",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Hudson Guild",
+  "development" : "Amsterdam",
+  "address" : "206 West 64th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - UPK 2014",
+  "zip_code" : "10023",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Amsterdam",
+  "address" : "216 West 63rd Street",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant",
+  "zip_code" : "10025",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Lincoln Square Neighborhood Center, Inc.",
+  "development" : "Amsterdam",
+  "address" : "243 West 64th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10023",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Lincoln Square Neighborhood Center, Inc.",
+  "development" : "Amsterdam Addition",
+  "address" : "250 West 65th Street",
+  "borough_code" : "Manhattan",
+  "type" : "NORC",
+  "zip_code" : "10023",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Lincoln Square Neighborhood Center, Inc.",
+  "development" : "Amsterdam Addition",
+  "address" : "250 West 65th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10023",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Lincoln Square Neighborhood Center, Inc.",
+  "development" : "Amsterdam Addition",
+  "address" : "250 West 65th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10023",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Bedford Stuyvesant Early Childhood Development Ctr., Inc.",
+  "development" : "Armstrong",
+  "address" : "262 Lexington Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care ",
+  "zip_code" : "11216",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Armstrong",
+  "address" : "264 Lexington Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care ",
+  "zip_code" : "11216",
+  "status" : "Reserved - application on file"
+}
+, {
+  "sponsor" : "Provider Name Unknown",
+  "development" : "Armstrong",
+  "address" : "360 Nostrand Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11216",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Police Athletic League, Inc.",
+  "development" : "Armstrong",
+  "address" : "495 Gates Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11216",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Cleveland Education Services",
+  "development" : "Astoria",
+  "address" : "2-08 Astoria Blvd.",
+  "borough_code" : "Queens",
+  "type" : "Child Care - UPK 2014",
+  "zip_code" : "11102",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Astoria",
+  "address" : "3-10 Astoria Blvd.",
+  "borough_code" : "Queens",
+  "type" : "Plasterer's Shop",
+  "zip_code" : "11102",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Hellenic American Neighborhood Action Committee (HANAC)",
+  "development" : "Astoria",
+  "address" : "4-05 Astoria Blvd",
+  "borough_code" : "Queens",
+  "type" : "Community Center",
+  "zip_code" : "11102",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Astoria",
+  "address" : "4-05 Astoria Blvd",
+  "borough_code" : "Queens",
+  "type" : "Senior Center",
+  "zip_code" : "11102",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Urban Upbound",
+  "development" : "Astoria",
+  "address" : "4-25 Astoria Blvd",
+  "borough_code" : "Queens",
+  "type" : "Other - Jobs Plus",
+  "zip_code" : "11102",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "University Settlement Society of New York, Inc.",
+  "development" : "Atlantic Terminal Site 4B",
+  "address" : "501 Carlton Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11238",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Audobon",
+  "address" : "1909 Amsterdam Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Community/Senior",
+  "zip_code" : "10032",
+  "status" : "Reserved - application on file"
+}
+, {
+  "sponsor" : "Regional Aid For Interim Needs, Inc.",
+  "development" : "Bailey Avenue-West 193rd Street",
+  "address" : "2660 Bailey Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10463",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Baisley Park",
+  "address" : "116-40 Guy Brewer Blvd",
+  "borough_code" : "Queens",
+  "type" : "Vacant",
+  "zip_code" : "11434",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Clifford Glover Day Care Center, Inc.",
+  "development" : "Baisley Park",
+  "address" : "116-55 Guy Brewer Blvd",
+  "borough_code" : "Queens",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11433",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Baisley Park",
+  "address" : "116-80 Guy Brewer Blvd",
+  "borough_code" : "Queens",
+  "type" : "Senior Center",
+  "zip_code" : "11434",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Henry Street Settlement, Inc.",
+  "development" : "Baruch",
+  "address" : "110-120 Baruch Drive",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Baruch",
+  "address" : "280 Delancey Street",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant- health clinic",
+  "zip_code" : "10002",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Grand Street Settlement, Inc.",
+  "development" : "Baruch",
+  "address" : "294 Delancey Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Grand Street Settlement, Inc.",
+  "development" : "Baruch",
+  "address" : "300 Delancey Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Henry Street Settlement, Inc.",
+  "development" : "Baruch",
+  "address" : "595- 605 FDR Drive",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Battered Women shelter",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Grand Street Settlement, Inc.",
+  "development" : "Baruch",
+  "address" : "605 FDR Drive",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Grand Street Settlement, Inc.",
+  "development" : "Baruch Addition",
+  "address" : "72 Columbia Street",
+  "borough_code" : "Manhattan",
+  "type" : "NORC",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Baychester Youth Council",
+  "development" : "Baychester",
+  "address" : "1220 East 229th Street",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10466",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Jewish Association Services For the Aged",
+  "development" : "Baychester",
+  "address" : "1220 East 229th Street",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10466",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Millennium Development Corp.",
+  "development" : "Bayview",
+  "address" : "5955 Shore Parkway",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11236",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Bayview",
+  "address" : "5985 Shore Parkway",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant",
+  "zip_code" : "11236",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Child Center of New York",
+  "development" : "Beach 41st ",
+  "address" : "426 Beach 40th Street",
+  "borough_code" : "Queens",
+  "type" : "Community Center",
+  "zip_code" : "11691",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Research Foundation of the State University of New York",
+  "development" : "Beach 41st ",
+  "address" : "426 Beach 40th Street",
+  "borough_code" : "Queens",
+  "type" : "Other - ATTAIN LAB",
+  "zip_code" : "11691",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Theodore Atlas Foundation",
+  "development" : "Berry Houses",
+  "address" : "1742 Richmond Road",
+  "borough_code" : "Staten Island",
+  "type" : "Other- Sports - Boxing Program",
+  "zip_code" : "10306",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Research Foundation of the State University of New York",
+  "development" : "Berry Houses",
+  "address" : "211 Jefferson St.",
+  "borough_code" : "Staten Island",
+  "type" : "Other - ATTAIN LAB",
+  "zip_code" : "10306",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "United Activities Unlimited Inc",
+  "development" : "Berry Houses",
+  "address" : "211 Jefferson St.",
+  "borough_code" : "Staten Island",
+  "type" : "Community Center",
+  "zip_code" : "10306",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Staten Island Mental Health Society, Inc.",
+  "development" : "Berry Houses",
+  "address" : "44 Dongan Hills",
+  "borough_code" : "Staten Island",
+  "type" : "Child Care ",
+  "zip_code" : "10306",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Berry Street",
+  "address" : "71 South 10th Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant",
+  "zip_code" : "11211",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Institute for the Puerto Rican/Hispanic Elderly",
+  "development" : "Betances I",
+  "address" : "401 St. Anns Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center/ under renovation",
+  "zip_code" : "10454",
+  "status" : "Reserved - temporarily relocated"
+}
+, {
+  "sponsor" : "South Bronx Head Start Program, Inc.",
+  "development" : "Betances Site IV",
+  "address" : "490 East 143rd Street",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10454",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Sheltering Arms Chidren and Family Services, Inc.",
+  "development" : "Betances Site IV",
+  "address" : "528 East 146th Street",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10455",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Bronxworks, Inc.",
+  "development" : "Betances VI",
+  "address" : "465 St. Anns Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10455",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Bethune",
+  "address" : "1949 Amsterdam Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant",
+  "zip_code" : "10032",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "League For Better Community Life, Inc.",
+  "development" : "Bland",
+  "address" : "133-16 Roosevelt Avenue",
+  "borough_code" : "Queens",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11354",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "School Construction Authority",
+  "development" : "Bland",
+  "address" : "133-36 Roosevelt Avenue",
+  "borough_code" : "Queens",
+  "type" : "Occupied",
+  "zip_code" : "11354",
+  "status" : "Reserved UPK 2015"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Bland",
+  "address" : "40-15 College Pt Blvd",
+  "borough_code" : "Queens",
+  "type" : "Senior Center",
+  "zip_code" : "11354",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "YMCA of Greater New York ",
+  "development" : "Borinquen Plaza I",
+  "address" : "125 Humboldt Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Ridgewood-Bushwick Sr Citizens Council, Inc.",
+  "development" : "Borinquen Plaza I",
+  "address" : "80 Seigel Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Regional Aid For Interim Needs, Inc.",
+  "development" : "Boston Road Plaza",
+  "address" : "2424 Boston Road",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10467",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Mosholu Montefiore Community Center Inc.",
+  "development" : "Boston Secor",
+  "address" : "3540 Bivona Street",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10475",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYC Department of Education",
+  "development" : "Boston Secor",
+  "address" : "3540 Bivona Street",
+  "borough_code" : "Bronx",
+  "type" : "Other - Education/ School",
+  "zip_code" : "10475",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Regional Aid For Interim Needs, Inc.",
+  "development" : "Boston Secor",
+  "address" : "3540 Bivona Street",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10475",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Boulevard Nursery School, Inc.",
+  "development" : "Boulevard",
+  "address" : "2150 Linden Blvd",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care ",
+  "zip_code" : "11207",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "CAMBA",
+  "development" : "Boulevard",
+  "address" : "726 Stanley Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11207",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Boynton Avenue Rehab",
+  "address" : "1057 Boynton Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10472",
+  "status" : "Vacant + being looked at"
+}
+, {
+  "sponsor" : "Butterfly Child Care Center Inc.",
+  "development" : "Bracetti Plaza",
+  "address" : "296 East 4th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - UPK 2015",
+  "zip_code" : "10009",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Recreation Rooms & Settlement",
+  "development" : "Breukelen",
+  "address" : "715 East 105th Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11236",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Police Athletic League, Inc.",
+  "development" : "Breukelen",
+  "address" : "715 East 105th Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11236",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Recreation Rooms & Settlement",
+  "development" : "Breukelen",
+  "address" : "717 East 105th Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11236",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Brooklyn Kindergarten Society, Inc.",
+  "development" : "Brevoort",
+  "address" : "250 Ralph Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11233",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Brevoort",
+  "address" : "258 Ralph Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant- health clinic",
+  "zip_code" : "11233",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "CAMBA",
+  "development" : "Brevoort",
+  "address" : "280 Ralph Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11233",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Ridgewood-Bushwick Sr Citizens Council, Inc.",
+  "development" : "Brevoort",
+  "address" : "280 Ralph Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11233",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Tremont Crotona Day Care Ctr., Inc.",
+  "development" : "Bronx River",
+  "address" : "1555 East 174th Street",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10472",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Bronx River",
+  "address" : "1585 East 174th Street",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10472",
+  "status" : "NYCHA HOLD "
+}
+, {
+  "sponsor" : "Children's Arts and Science Workshop, Inc.",
+  "development" : "Bronx River",
+  "address" : "1619 East 174th Street",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10472",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Infinity Bible Church",
+  "development" : "Bronx River",
+  "address" : "1619 East 174th Street",
+  "borough_code" : "Bronx",
+  "type" : "Other - Religious Center",
+  "zip_code" : "10472",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Institute for the Puerto Rican/Hispanic Elderly",
+  "development" : "Bronx River",
+  "address" : "1619 East 174th Street",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10472",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Bronx River",
+  "address" : "1625 East 174th Street",
+  "borough_code" : "Bronx",
+  "type" : "Plasterer's Shop",
+  "zip_code" : "10472",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Bronx River Add",
+  "address" : "1350 Manor Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10472",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Wayside Out-Reach Development Corporation, Inc.",
+  "development" : "Brown",
+  "address" : "1630 St Marks Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11233",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Brownsville",
+  "address" : "320 Blake Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant",
+  "zip_code" : "11212",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Brownsville",
+  "address" : "528 Mother Gaston Blvd.",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11212",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Bryant Ave - East 174th St",
+  "address" : "1705 Bryant Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10460",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Grand Street Settlement, Inc.",
+  "development" : "Bushwick",
+  "address" : "50 Humboldt Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Jewish Association Services For the Aged",
+  "development" : "Bushwick",
+  "address" : "50 Humboldt Street",
+  "borough_code" : "Brooklyn",
+  "type" : "NORC",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Coalition for Hispanic Family Services",
+  "development" : "Bushwick II",
+  "address" : "422 Central Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11221",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "William Hodson Senior Center, Inc.",
+  "development" : "Butler",
+  "address" : "1320 Webster Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10456",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Directions For Our Youth, Inc.",
+  "development" : "Butler",
+  "address" : "1368 Webster Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10456",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Claremont Neighborhood Center",
+  "development" : "Butler",
+  "address" : "1450 Webster Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care ",
+  "zip_code" : "10456",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "South Bronx Head Start Program, Inc.",
+  "development" : "Butler",
+  "address" : "1458 Webster Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care ",
+  "zip_code" : "10456",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "University Settlement Society of New York, Inc.",
+  "development" : "Campos Plaza II",
+  "address" : "611 East 13th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10009",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Heartshare Human Services",
+  "development" : "Carey Gardens",
+  "address" : "2315 Surf Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11224",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Police Athletic League, Inc.",
+  "development" : "Carey Gardens",
+  "address" : "2964 West 23rd Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11224",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Bethel Mission Station Church, Inc.",
+  "development" : "Carlton Manor",
+  "address" : "72-05 & 71-15 Beach Channel Drive",
+  "borough_code" : "Queens",
+  "type" : "Child Care ",
+  "zip_code" : "11692",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Carver",
+  "address" : "1445 Madison Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant",
+  "zip_code" : "10029",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Union Settlement Association",
+  "development" : "Carver",
+  "address" : "1565 Madison Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Institute for the Puerto Rican/Hispanic Elderly",
+  "development" : "Carver",
+  "address" : "55 East 102nd Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Community Agency for Senior Citizens, Inc.",
+  "development" : "Cassidy/Lafayette",
+  "address" : "125 Cassidy Pl",
+  "borough_code" : "Staten Island",
+  "type" : "Senior Center",
+  "zip_code" : "10301",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Leake & Watts Children's Services Inc.",
+  "development" : "Castle Hill",
+  "address" : "2165 Randall Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care ",
+  "zip_code" : "10473",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Kips Bay Boys & Girls Club/Dept for the Aging",
+  "development" : "Castle Hill",
+  "address" : "625 Castle Hill Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10473",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Kips Bay Boys & Girls Club/Dept for the Aging",
+  "development" : "Castle Hill",
+  "address" : "625 Castle Hill Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10473",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "I Have A Dream Foundation-NY",
+  "development" : "Chelsea",
+  "address" : "420 West 26th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Education / IHAD Literacy",
+  "zip_code" : "10001",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Hudson Guild",
+  "development" : "Chelsea",
+  "address" : "428 West 26th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Office Space",
+  "zip_code" : "10001",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Hudson Guild",
+  "development" : "Chelsea Addition",
+  "address" : "441 West 26th Street",
+  "borough_code" : "Manhattan",
+  "type" : "NORC",
+  "zip_code" : "10001",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Hudson Guild",
+  "development" : "Chelsea Addition",
+  "address" : "441 West 26th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care ",
+  "zip_code" : "10001",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Hudson Guild",
+  "development" : "Chelsea Addition",
+  "address" : "441 West 26th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10001",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Hudson Guild",
+  "development" : "Chelsea Addition",
+  "address" : "441 West 26th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Health Clinic",
+  "zip_code" : "10001",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Institute for the Puerto Rican/Hispanic Elderly",
+  "development" : "Claremont Parkway-Franklin Avenue",
+  "address" : "1315 Franklin Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10456",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Claremont Rehab",
+  "address" : "1105 Teller Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10456",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Clinton",
+  "address" : "120 East 110th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care ",
+  "zip_code" : "10029",
+  "status" : "Reserved - application on file"
+}
+, {
+  "sponsor" : "SCAN Supportive Children's Advocacy Network",
+  "development" : "Clinton",
+  "address" : "120 East 110th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "College Ave (1020)",
+  "address" : "1020 College Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10456",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Jewish Association Services For the Aged",
+  "development" : "Coney Island I (Site 8)",
+  "address" : "2950 W 35th Street",
+  "borough_code" : "Brooklyn",
+  "type" : "NORC",
+  "zip_code" : "11224",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Coney Island I (Sites 4 & 5)",
+  "address" : "2947 West 28th Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant",
+  "zip_code" : "11224",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Jamaica Service Program for Older Adults (JSPOA)",
+  "development" : "Conlon-Lihfe Towers",
+  "address" : "92-33 170th Street",
+  "borough_code" : "Queens",
+  "type" : "Senior Center",
+  "zip_code" : "11433",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Jewish Association Services For the Aged",
+  "development" : "Cooper Park",
+  "address" : "288 Frost Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11222",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Sheltering Arms Chidren and Family Services, Inc.",
+  "development" : "Cooper Park",
+  "address" : "292 Frost Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11222",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "St. Nicks Alliance",
+  "development" : "Cooper Park",
+  "address" : "76 Kingsland Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11211",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Harlem RBI + SMART Program",
+  "development" : "Corsi",
+  "address" : "307 East 116th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Miscellaneous",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Union Settlement Association",
+  "development" : "Corsi",
+  "address" : "307 East 116th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Directions For Our Youth, Inc.",
+  "development" : "Cypress Hills",
+  "address" : "475 Fountain Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11208",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Cypress Hills",
+  "address" : "475 Fountain Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11208",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Colony South Brooklyn Houses",
+  "development" : "Cypress Hills",
+  "address" : "720 Euclid Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care ",
+  "zip_code" : "11208",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Graham Windham Services to Families & Children",
+  "development" : "Davidson",
+  "address" : "1221 Prospect Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10459",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "I Have A Dream Foundation-NY",
+  "development" : "DeHostos Apartments",
+  "address" : "201 West 93rd Street",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Education / IHAD Literacy",
+  "zip_code" : "10025",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Institute for Family Health",
+  "development" : "DeHostos Apartments",
+  "address" : "690 Amsterdam Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Health Clinic",
+  "zip_code" : "10025",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Stryker's Bay Neighborhood Council, Inc./The Dome Project",
+  "development" : "DeHostos Apartments",
+  "address" : "696 Amsterdam Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10024",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Children's Aid Society, Inc.",
+  "development" : "Douglas I",
+  "address" : "865 Columbus Avenue ",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Office Space",
+  "zip_code" : "10025",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Children's Aid Society, Inc.",
+  "development" : "Douglas I",
+  "address" : "885 Columbus Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10025",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Children's Aid Society, Inc.",
+  "development" : "Douglas I",
+  "address" : "885 Columbus Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10025",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Open Door Associates, Inc.",
+  "development" : "Douglas II",
+  "address" : "820 Columbus Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10025",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "West Side Federation for Senior and Supportive Housing",
+  "development" : "Douglass Addition",
+  "address" : "868 Amsterdam Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10025",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "New York City Mission Society",
+  "development" : "Drew Hamilton",
+  "address" : "220 West 143rd Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10030",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Drew Hamilton",
+  "address" : "220 West 143rd Street",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant",
+  "zip_code" : "10030",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Research Foundation of the State University of New York",
+  "development" : "Drew Hamilton",
+  "address" : "220 West 143rd Street",
+  "borough_code" : "Manhattan",
+  "type" : "Other - ATTAIN LAB",
+  "zip_code" : "10030",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Children's Aid Society, Inc.",
+  "development" : "Drew Hamilton",
+  "address" : "2672 Frederick Douglas Blvd.",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10030",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Nurse Family Partnership / Harlem Hospital Center",
+  "development" : "Drew Hamilton",
+  "address" : "2690 8th Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Health Clinic",
+  "zip_code" : "10030",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Renaissance Health Care Network ",
+  "development" : "Drew Hamilton",
+  "address" : "2698 Frederick Douglass Blvd",
+  "borough_code" : "Manhattan",
+  "type" : "Health Clinic",
+  "zip_code" : "10030",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Renaissance Health Care Network ",
+  "development" : "Dyckman",
+  "address" : "175 Nagle Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Health Clinic",
+  "zip_code" : "10034",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Friends of Crown Heights",
+  "development" : "Dyckman",
+  "address" : "3732 Tenth Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10034",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "New York Foundation For Senior Citizens",
+  "development" : "Dyckman",
+  "address" : "3754 Tenth Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10034",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Catholic Charities Community Services Archdiocese of NY",
+  "development" : "Dyckman",
+  "address" : "3782 Tenth Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10034",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "East Side House Settlement",
+  "development" : "East 152nd Street-Courtlandt Avenue",
+  "address" : "372 E 152nd Street",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10455",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Good Shepherd Services",
+  "development" : "East 180th Street-Monterey Avenue",
+  "address" : "2100 Monterey Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10457",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYC Department of Education",
+  "development" : "East 180th Street-Monterey Avenue",
+  "address" : "2120 Quarry Road",
+  "borough_code" : "Bronx",
+  "type" : "Child Care ",
+  "zip_code" : "10457",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Union Settlement Association",
+  "development" : "East River",
+  "address" : "400 -402 East 105th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Social Adult Day Care",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "SCAN Supportive Children's Advocacy Network",
+  "development" : "East River",
+  "address" : "404 East 105th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "SCAN Supportive Children's Advocacy Network",
+  "development" : "East River",
+  "address" : "414 East 105th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "East River Children's Center Committee Inc.",
+  "development" : "East River",
+  "address" : "416 East 105th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care ",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "East River",
+  "address" : "453 East 102nd Street",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant",
+  "zip_code" : "10029",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Regional Aid For Interim Needs, Inc.",
+  "development" : "Eastchester Gardens",
+  "address" : "1246 Burke Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10469",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Neighborhood Initiatives Development Corporation",
+  "development" : "Eastchester Gardens",
+  "address" : "3016 Yates Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10469",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Edenwald",
+  "address" : "1135 229th Dr South",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10466",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Northeast Bronx Day Care Center",
+  "development" : "Edenwald",
+  "address" : "1140 East 229th Street",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10466",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Edenwald",
+  "address" : "1141 East 229th Street",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10466",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Mosholu Montefiore Community Center Inc.",
+  "development" : "Edenwald",
+  "address" : "1150 East 229th Street",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10466",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Elliott",
+  "address" : "447 West 25th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant",
+  "zip_code" : "10001",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Hudson Guild",
+  "development" : "Elliott",
+  "address" : "459 West 26th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care ",
+  "zip_code" : "10001",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Goodwill Industries of Greater New York",
+  "development" : "Farragut",
+  "address" : "228 York Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11201",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Research Foundation of the State University of New York",
+  "development" : "Farragut",
+  "address" : "228 York Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Other - ATTAIN LAB",
+  "zip_code" : "11201",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Spanish Speaking Elderly Council - RAICES",
+  "development" : "Farragut",
+  "address" : "228 York Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Farragut",
+  "address" : "32 Navy Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant",
+  "zip_code" : "11201",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Forest",
+  "address" : "1005 Tinton Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Vacant- health clinic",
+  "zip_code" : "10456",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Southeast Bronx Neighborhood Centers",
+  "development" : "Forest",
+  "address" : "749 East 163rd Street",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10456",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Southeast Bronx Neighborhood Centers",
+  "development" : "Forest",
+  "address" : "955 Tinton Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10456",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Queens Community House, Inc.",
+  "development" : "FOREST HILLS COOP (108TH STREET-62ND DRIVE)",
+  "address" : "108-25 62nd Drive",
+  "borough_code" : "Queens",
+  "type" : "Senior Center",
+  "zip_code" : "11375",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Queens Community House, Inc.",
+  "development" : "FOREST HILLS COOP (108TH STREET-62ND DRIVE)",
+  "address" : "108-25 62nd Drive",
+  "borough_code" : "Queens",
+  "type" : "Community Center",
+  "zip_code" : "11375",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Queens Community House, Inc.",
+  "development" : "FOREST HILLS COOP (108TH STREET-62ND DRIVE)",
+  "address" : "108-25 62nd Drive ",
+  "borough_code" : "Queens",
+  "type" : "NORC",
+  "zip_code" : "11375",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Queens Community House, Inc.",
+  "development" : "FOREST HILLS COOP (108TH STREET-62ND DRIVE)",
+  "address" : "110-01 62nd Drive",
+  "borough_code" : "Queens",
+  "type" : "Child Care ",
+  "zip_code" : "11375",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Queens Community House, Inc.",
+  "development" : "FOREST HILLS COOP (108TH STREET-62ND DRIVE)",
+  "address" : "62-27 108th Street",
+  "borough_code" : "Queens",
+  "type" : "Other - Storage",
+  "zip_code" : "11375",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Riverstone Senior Life Services, Inc.",
+  "development" : "Fort Washington Avenue Rehab",
+  "address" : "99 Ft Washington Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10032",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Mosholu Montefiore Community Center Inc.",
+  "development" : "Ft Independence",
+  "address" : "3350 Bailey Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10463",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Provider Name Unknown",
+  "development" : "Ft Independence",
+  "address" : "3350 Bailey Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10463",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Hudson Guild",
+  "development" : "Fulton",
+  "address" : "119 Ninth Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10011",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Hudson Guild",
+  "development" : "Fulton",
+  "address" : "418 West 17th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Computer Lab",
+  "zip_code" : "10011",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "YMCA of Greater New York ",
+  "development" : "Glebe Avenue-Westchester Avenue",
+  "address" : "2125 Glebe Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10462",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Glenmore Plaza",
+  "address" : "1777 Pitkin Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11212",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Catholic Charities Neighborhood Services, Inc.",
+  "development" : "Glenwood",
+  "address" : "5701 Avenue H",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11234",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Sesame Flyers International Inc.",
+  "development" : "Glenwood",
+  "address" : "5816 Farragut Road",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11234",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Grand Street Settlement, Inc.",
+  "development" : "Gompers",
+  "address" : "80 Pitt Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care ",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Grand Street Settlement, Inc.",
+  "development" : "Gompers",
+  "address" : "80 Pitt Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Grand Street Settlement, Inc.",
+  "development" : "Gompers",
+  "address" : "80 Pitt Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Spanish Speaking Elderly Council - RAICES",
+  "development" : "Gowanus",
+  "address" : "420 Baltic Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11217",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "East Harlem Block Nursery, Inc.",
+  "development" : "Grant",
+  "address" : "1299 Amsterdam Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10027",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Charles A. Walburg Multi-Service, Inc.",
+  "development" : "Grant",
+  "address" : "1301 Amsterdam Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10027",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "New York City Mission Society",
+  "development" : "Grant",
+  "address" : "1301 Amsterdam Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10027",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Renaissance Health Care Network ",
+  "development" : "Grant",
+  "address" : "3170 Broadway",
+  "borough_code" : "Manhattan",
+  "type" : "Health Clinic",
+  "zip_code" : "10027",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Labor Industry for Education, Inc",
+  "development" : "Gravesend",
+  "address" : "2757 W 33rd Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11224",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Gravesend",
+  "address" : "3146 Bayview Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant",
+  "zip_code" : "11224",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Northeast Bronx Day Care Center",
+  "development" : "Gun Hill",
+  "address" : "3440 White Plains Road",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10467",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Gun Hill",
+  "address" : "3445 Holland Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10467",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Gun Hill",
+  "address" : "3450 White Plains Road",
+  "borough_code" : "Bronx",
+  "type" : "Vacant- health clinic",
+  "zip_code" : "10467",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Gun Hill",
+  "address" : "744 Gunhill Road",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10467",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Mosholu Montefiore Community Center Inc.",
+  "development" : "Gun Hill",
+  "address" : "745 Magenta Street",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10467",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Jewish Community Council of Coney Island",
+  "development" : "Haber",
+  "address" : "3024 West 24th Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11224",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Action Center for Education and Community Development, Inc.",
+  "development" : "Hammel",
+  "address" : "81-14 Rockaway Beach Boulevard",
+  "borough_code" : "Queens",
+  "type" : "Community Center",
+  "zip_code" : "11693",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Atled, Inc.",
+  "development" : "Hammel",
+  "address" : "82-10 Rockaway Beach Boulevard",
+  "borough_code" : "Queens",
+  "type" : "Child Care ",
+  "zip_code" : "11693",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Find Aid for The Aged, Inc.",
+  "development" : "Harborview Terrace",
+  "address" : "530 West 55th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10019",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Harborview Terrace",
+  "address" : "536 West 56th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Performing Arts - Art Center",
+  "zip_code" : "10019",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Harlem River",
+  "address" : "207 West 151 Street",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant",
+  "zip_code" : "10030",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Bethany Day Nursery, Inc.",
+  "development" : "Harlem River",
+  "address" : "220-224 West 152nd Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care ",
+  "zip_code" : "10039",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "YMCA of Greater New York ",
+  "development" : "Harlem River",
+  "address" : "2627 7th Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10039",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYC Public Library",
+  "development" : "Harlem River",
+  "address" : "2650 A C Powell Blvd",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Library",
+  "zip_code" : "10039",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "University Settlement Society of New York, Inc.",
+  "development" : "Hernandez",
+  "address" : "189 Allen Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Highbridge Gardens",
+  "address" : "1145 University Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10452",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Catholic Charities Community Services Archdiocese of NY",
+  "development" : "Highbridge Gardens",
+  "address" : "1155 University Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10452",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Highbridge Advisory Council, Inc",
+  "development" : "Highbridge Gardens",
+  "address" : "1165 University Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10452",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Highbridge Rehab",
+  "address" : "125 West 166th Street",
+  "borough_code" : "Bronx",
+  "type" : "Religious Services",
+  "zip_code" : "10452",
+  "status" : "Reserved - application on file"
+}
+, {
+  "sponsor" : "Stanley M. Isaacs Neighborhood Center",
+  "development" : "Holmes Towers",
+  "address" : "1792 First Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10128",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "SCAN Supportive Children's Advocacy Network",
+  "development" : "Holmes Towers",
+  "address" : "1794 First Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10128",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Ridgewood-Bushwick Sr Citizens Council, Inc.",
+  "development" : "Hope Gardens",
+  "address" : "195 Linden Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11221",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Bushwick United Housing Development Fund",
+  "development" : "Hope Gardens",
+  "address" : "331 Central Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11221",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "YWCA - New York City",
+  "development" : "Howard",
+  "address" : "1592 East New York Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11212",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Howard",
+  "address" : "1620 E N Y Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant- health clinic",
+  "zip_code" : "11212",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Police Athletic League, Inc.",
+  "development" : "Howard",
+  "address" : "90 Watkins Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11212",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Howard Ave /Park Place",
+  "address" : "1767B Sterling Place",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant",
+  "zip_code" : "11233",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Hughes Apartments",
+  "address" : "301 Sutter Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11212",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Research Foundation",
+  "development" : "Hughes Apartments",
+  "address" : "301 Sutter Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11212",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Hunts Point Avenue Rehab",
+  "address" : "875 Irvine Street",
+  "borough_code" : "Bronx",
+  "type" : "Child Care ",
+  "zip_code" : "10474",
+  "status" : "Reserved - application on file"
+}
+, {
+  "sponsor" : "Sheltering Arms Chidren and Family Services, Inc.",
+  "development" : "Independence Towers",
+  "address" : "110 Taylor Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11211",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "El Puente De Williamsburg",
+  "development" : "Independence Towers",
+  "address" : "114 Taylor Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11211",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Millennium Development Corp.",
+  "development" : "Independence Towers",
+  "address" : "114 Taylor Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11211",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "University Settlement Society of New York, Inc.",
+  "development" : "Ingersoll",
+  "address" : "177 Myrtle Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11201",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Jamaica Service Program for Older Adults (JSPOA)",
+  "development" : "International Towers",
+  "address" : "90-20 170th Street",
+  "borough_code" : "Queens",
+  "type" : "Senior Center",
+  "zip_code" : "11432",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Stanley M. Isaacs Neighborhood Center",
+  "development" : "Isaacs",
+  "address" : "415 East 93rd Street",
+  "borough_code" : "Manhattan",
+  "type" : "NORC",
+  "zip_code" : "10128",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Stanley M. Isaacs Neighborhood Center",
+  "development" : "Isaacs",
+  "address" : "415 East 93rd Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10128",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Presbyterian Senior Services",
+  "development" : "Jackson",
+  "address" : "325 East 156th Street",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10451",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Union Settlement Association",
+  "development" : "Jefferson",
+  "address" : "2089 Third Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Health Clinic (mental)",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Union Settlement Association",
+  "development" : "Jefferson",
+  "address" : "2095 Third Avenue ",
+  "borough_code" : "Manhattan",
+  "type" : "Health Clinic (mental)",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Union Settlement Association",
+  "development" : "Jefferson",
+  "address" : "210 East 115th Street ",
+  "borough_code" : "Manhattan",
+  "type" : "Health Clinic (mental)",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Union Settlement Association",
+  "development" : "Jefferson",
+  "address" : "2205 First Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Dawning Village",
+  "development" : "Jefferson",
+  "address" : "2211 First Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care ",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Johnson",
+  "address" : "173 East 112th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant",
+  "zip_code" : "10029",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "El Barrio Boxing",
+  "development" : "Johnson",
+  "address" : "1820 Lexington Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Sports - Boxing Program",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Union Settlement Association",
+  "development" : "Johnson",
+  "address" : "1829 Lexington Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "SCAN Supportive Children's Advocacy Network",
+  "development" : "Johnson",
+  "address" : "1833 Lexington Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Phipps Community Development",
+  "development" : "Justice Sonia Sotomayor Houses",
+  "address" : "1000 Rosedale Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10472",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Bronxdale Tenant's League DayCare Ctr.",
+  "development" : "Justice Sonia Sotomayor Houses",
+  "address" : "1065 Beach Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10472",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "East Calvary Day Care Center, Inc.",
+  "development" : "King Towers",
+  "address" : "1 West 112th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10026",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "SCAN Supportive Children's Advocacy Network",
+  "development" : "King Towers",
+  "address" : "2 West 115th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10026",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Presbyterian Senior Services",
+  "development" : "King Towers",
+  "address" : "50 Lenox Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10026",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Coalition for Hispanic Family Services",
+  "development" : "Kingsborough",
+  "address" : "129 Kingsborough 1st Walk",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11233",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Bedford Stuyvesant Early Childhood Development Ctr., Inc.",
+  "development" : "Kingsborough",
+  "address" : "133 Kingsborough 1st Walk",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care ",
+  "zip_code" : "11233",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Kingsborough",
+  "address" : "342 Kingsborough 3rd Walk",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant- health clinic",
+  "zip_code" : "11233",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Fort Greene Senior Citizens Council",
+  "development" : "Kingsborough",
+  "address" : "447 Kingsborough 4th Walk",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11233",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Henry Street Settlement, Inc.",
+  "development" : "La Guardia",
+  "address" : "40 Montgomery Street",
+  "borough_code" : "Manhattan",
+  "type" : "Health Clinic",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Billy Martin Child Dev Center",
+  "development" : "Lafayette Gardens",
+  "address" : "333 Classon Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care ",
+  "zip_code" : "11205",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Lafayette Gardens",
+  "address" : "433 Lafayette Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Storage",
+  "zip_code" : "11228",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Cumberland Hospital ",
+  "development" : "Lafayette Gardens",
+  "address" : "434 DeKalb Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Health Clinic",
+  "zip_code" : "11205",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Graham Windham Services to Families & Children",
+  "development" : "Lafayette Gardens",
+  "address" : "442 Dekalb Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11205",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Lafayette Gardens",
+  "address" : "470 Dekalb Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant",
+  "zip_code" : "11205",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "New York Foundation For Senior Citizens",
+  "development" : "LaGuardia Addition",
+  "address" : "280 Cherry Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Child Center of New York",
+  "development" : "Latimer Gardens",
+  "address" : "34-30 137th Street",
+  "borough_code" : "Queens",
+  "type" : "Community Center",
+  "zip_code" : "11354",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Self Help Community Services, Inc",
+  "development" : "Latimer Gardens",
+  "address" : "34-30 137th Street",
+  "borough_code" : "Queens",
+  "type" : "Senior Center",
+  "zip_code" : "11354",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Henry Street Settlement, Inc.",
+  "development" : "Lavanburg",
+  "address" : "126-142 Baruch Place",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Family / Urban Family Ctr",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "SCAN Supportive Children's Advocacy Network",
+  "development" : "Lehman Village",
+  "address" : "1589 Madison Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Carter Burden",
+  "development" : "Lehman Village",
+  "address" : "1641 Madison Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Child Welfare Organizing Project",
+  "development" : "Lehman Village",
+  "address" : "80 East 110th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Case Management /Child Welfare Program",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Lexington Children's Center",
+  "development" : "Lexington",
+  "address" : "115 East 98th Steet",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "School Construction Authority",
+  "development" : "Lexington",
+  "address" : "183 East 98th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Occuped",
+  "zip_code" : "10029",
+  "status" : "Reserved UPK 2015"
+}
+, {
+  "sponsor" : "Harlem Children's Zone, Inc.",
+  "development" : "Lincoln",
+  "address" : "2110 Madison Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10037",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "East Harlem Block Nursery, Inc.",
+  "development" : "Lincoln",
+  "address" : "2112 Madison Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care ",
+  "zip_code" : "10037",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Lincoln",
+  "address" : "60 East 135th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10037",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Fort Greene Senior Citizens Council",
+  "development" : "Low Houses",
+  "address" : "137 Belmont Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11212",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Research Foundation of CUNY",
+  "development" : "Low Houses",
+  "address" : "137 Belmont Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11212",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Brooklyn Kindergarten Society, Inc.",
+  "development" : "Low Houses",
+  "address" : "232 Powell Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11212",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Greenwich Village Youth Council",
+  "development" : "Lower East Side I Infill",
+  "address" : "213 Eldridge Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "University Settlement Society of New York, Inc.",
+  "development" : "Lower East Side II",
+  "address" : "175 Eldridge Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Citizen's Care Day Care Center, Inc",
+  "development" : "Manhattanville",
+  "address" : "3240 Broadway",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10027",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Boys and Girls Club of Harlem, Inc.",
+  "development" : "Manhattanville",
+  "address" : "530 West 133rd Street",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Family / Teen Program",
+  "zip_code" : "10027",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Graham Windham Services to Families & Children",
+  "development" : "Manhattanville",
+  "address" : "530 West 133rd Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10027",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Manhattanville",
+  "address" : "530 West 133rd Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10027",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Mosholu Montefiore Community Center Inc.",
+  "development" : "Marble Hill",
+  "address" : "5365 Broadway",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10463",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Mosholu Montefiore Community Center Inc.",
+  "development" : "Marble Hill",
+  "address" : "5365 Broadway",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10463",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Marble Hill Nursery School",
+  "development" : "Marble Hill",
+  "address" : "5470 Broadway",
+  "borough_code" : "Bronx",
+  "type" : "Child Care ",
+  "zip_code" : "10463",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Reach One To Teach One",
+  "development" : "Marble Hill",
+  "address" : "5480 Broadway",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - UPK 2014",
+  "zip_code" : "10463",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Fort Greene Senior Citizens Council",
+  "development" : "Marcus Garvey",
+  "address" : "1440 E N Y Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11212",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Research Foundation ",
+  "development" : "Marcus Garvey",
+  "address" : "20 Amboy Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11212",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Marcy",
+  "address" : "468 Marcy Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant",
+  "zip_code" : "11206",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Sheltering Arms Chidren and Family Services, Inc.",
+  "development" : "Marcy",
+  "address" : "494 Marcy Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Marcy",
+  "address" : "582 Park Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant",
+  "zip_code" : "11206",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "UAU",
+  "development" : "Mariner's Harbor",
+  "address" : "157 Brabant Street",
+  "borough_code" : "Staten Island",
+  "type" : "Community Center",
+  "zip_code" : "10303",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Staten Island Mental Health Society, Inc.",
+  "development" : "Mariner's Harbor",
+  "address" : "166 Lockman Avenue",
+  "borough_code" : "Staten Island",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10303",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Mariner's Harbor",
+  "address" : "22 Roxbury Street",
+  "borough_code" : "Staten Island",
+  "type" : "Vacant",
+  "zip_code" : "10303",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Federation of Italian American Organizations of Brooklyn",
+  "development" : "Marlboro",
+  "address" : "2298 West 8th Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11223",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Jewish Community Council of Coney Island",
+  "development" : "Marlboro",
+  "address" : "2298 West 8th Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11223",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Friends of Crown Heights",
+  "development" : "Marlboro",
+  "address" : "49 Avenue W",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11223",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "United Block Association",
+  "development" : "Marshall Plaza",
+  "address" : "1970 Amsterdam Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10032",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Southeast Bronx Neighborhood Centers",
+  "development" : "McKinley",
+  "address" : "751 East 161st Street",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10456",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Southeast Bronx Neighborhood Centers",
+  "development" : "McKinley",
+  "address" : "909 Tinton Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10456",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Melrose",
+  "address" : "277 East  153rd Street",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10451",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Bronxworks, Inc.",
+  "development" : "Melrose",
+  "address" : "286 East 156th Street",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10451",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Lincoln Hospital ",
+  "development" : "Melrose",
+  "address" : "348 East 156th Street",
+  "borough_code" : "Bronx",
+  "type" : "Health Clinic",
+  "zip_code" : "10451",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Melrose",
+  "address" : "731 Courtlandt Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10451",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "University Settlement Society of New York, Inc.",
+  "development" : "Meltzer Towers",
+  "address" : "94 East 1st Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10009",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Union Settlement Association",
+  "development" : "Metro North Plaza",
+  "address" : "304 East 102nd Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Addie Mae Collins Comm. Serv.",
+  "development" : "Metro North Plaza",
+  "address" : "345 East 101st Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Regional Aid For Interim Needs, Inc.",
+  "development" : "Middletown Plaza",
+  "address" : "3035 Middletown Road",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10461",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Pamela C. Torres Day Care Center, Inc.",
+  "development" : "Millbrook",
+  "address" : "161 Saint Anns Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care ",
+  "zip_code" : "10454",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "East Side House Settlement",
+  "development" : "Millbrook",
+  "address" : "201 St. Anns Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10454",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "East Side House Settlement",
+  "development" : "Millbrook",
+  "address" : "201 St. Anns Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Other - Jobs Plus",
+  "zip_code" : "10454",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Institute for the Puerto Rican/Hispanic Elderly",
+  "development" : "Millbrook",
+  "address" : "201 St. Anns Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10454",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "East Side House Settlement",
+  "development" : "Millbrook",
+  "address" : "201 St. Anns Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10454",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Mitchel",
+  "address" : "185 Willis Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10454",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "East Side House Settlement",
+  "development" : "Mitchel",
+  "address" : "188 Lincoln Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10454",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "East Side House Settlement",
+  "development" : "Mitchel",
+  "address" : "200 Alexander Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10454",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "East Side House Settlement",
+  "development" : "Mitchel",
+  "address" : "210 Alexander Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10454",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Institute for the Puerto Rican/Hispanic Elderly",
+  "development" : "Monroe",
+  "address" : "1776 Story Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10473",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "East Tremont Head Start Alumni Day Care Center",
+  "development" : "Monroe",
+  "address" : "1780 Story Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10473",
+  "status" : "Occupied + Reserved - application on file"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Monroe",
+  "address" : "1802 Story Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Monroe",
+  "address" : "816 Soundview Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Vacant- health clinic",
+  "zip_code" : "10473",
+  "status" : "NYCHA HOLD + being looked at"
+}
+, {
+  "sponsor" : "Bronxworks, Inc.",
+  "development" : "Moore",
+  "address" : "515 Jackson Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10455",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Morissania Air Rights",
+  "address" : "3071 Park Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Storage",
+  "zip_code" : "10451",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Morissania Air Rights",
+  "address" : "3131 Park Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10451",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Morissania Air Rights",
+  "address" : "3135 Park Avenue ",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10451",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Presbyterian Senior Services",
+  "development" : "Morissania Air Rights",
+  "address" : "3135 Park Avenue ",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10451",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Morissania Air Rights",
+  "address" : "3204 Park Avenue ",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10451",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Claremont Neighborhood Center",
+  "development" : "Morris I",
+  "address" : "489 East 169th Street",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10456",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "East Side House Settlement",
+  "development" : "Mott Haven",
+  "address" : "375 East 143rd Street",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10454",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "East Tremont Child Care & Development Center",
+  "development" : "Murphy",
+  "address" : "1811 Crotona Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10457",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "ACDP",
+  "development" : "Murphy",
+  "address" : "601 Crotona Park North",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10457",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Community Agency for Senior Citizens, Inc.",
+  "development" : "New Lane",
+  "address" : "70 New Lane",
+  "borough_code" : "Staten Island",
+  "type" : "Senior Center",
+  "zip_code" : "10305",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Kings Bay YM-YWHA",
+  "development" : "Nostrand",
+  "address" : "3043 Avenue W",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11229",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Action Center for Education and Community Development, Inc.",
+  "development" : "Ocean Bay Apartments (Bayside)",
+  "address" : "57-10 Beach Channel Dr",
+  "borough_code" : "Queens",
+  "type" : "Community Center",
+  "zip_code" : "11692",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Bethel Mission Station Church, Inc.",
+  "development" : "Ocean Bay Apartments (Oceanside)",
+  "address" : "338 Beach 56th Street",
+  "borough_code" : "Queens",
+  "type" : "Child Care ",
+  "zip_code" : "11692",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Ocean Bay Apts/Oceanside",
+  "address" : "339 Beach 54th Street",
+  "borough_code" : "Queens",
+  "type" : "Vacant",
+  "zip_code" : "11692",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Ocean Hill",
+  "address" : "305 MacDougal Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant",
+  "zip_code" : "11233",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Heartshare Human Services",
+  "development" : "O'Dwyer Gardens",
+  "address" : "2945 West 33rd Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11224",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Ridgewood-Bushwick Sr Citizens Council, Inc.",
+  "development" : "Palmetto Gardens",
+  "address" : "85 Palmetto Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11221",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Mosholu Montefiore Community Center Inc.",
+  "development" : "Parkside",
+  "address" : "2972 Bronx Park East",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10467",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Presbyterian Senior Services",
+  "development" : "Parkside",
+  "address" : "644 Adee Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10467",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "East Side House Settlement",
+  "development" : "Patterson",
+  "address" : "308 East 145th Street",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10451",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "East Side House Settlement",
+  "development" : "Patterson",
+  "address" : "340 Morris Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10451",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "East Side House Settlement",
+  "development" : "Patterson",
+  "address" : "414 Morris Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10454",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Bronx House, Inc.",
+  "development" : "Pelham Parkway",
+  "address" : "2222 Wallace Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care ",
+  "zip_code" : "10467",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "New York State Association for Retarted Children, Inc.",
+  "development" : "Pelham Parkway",
+  "address" : "2280 Wallace Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care ",
+  "zip_code" : "10469",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Bronx Jewish Community Council",
+  "development" : "Pelham Parkway",
+  "address" : "2425 Williamsbridge Road",
+  "borough_code" : "Bronx",
+  "type" : "NORC",
+  "zip_code" : "10469",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Mosholu Montefiore Community Center Inc.",
+  "development" : "Pelham Parkway",
+  "address" : "785 Pelham Pkway N",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10467",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Jewish Association Services For the Aged",
+  "development" : "Pelham Parkway",
+  "address" : "975 Waring Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYC Department of Education",
+  "development" : "Pennsylvania Avenue-Wortman Avenue",
+  "address" : "530 Stanley Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Other - Education /School",
+  "zip_code" : "11207",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "CAMBA",
+  "development" : "Pennsylvania Avenue-Wortman Avenue",
+  "address" : "895 Pennsylvania Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11207",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Millennium Development Corp.",
+  "development" : "Pennsylvania Avenue-Wortman Avenue",
+  "address" : "895 Pennsylvania Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11207",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Colony South Brooklyn Houses",
+  "development" : "Pink",
+  "address" : "2700 Linden Boulevard",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care ",
+  "zip_code" : "11208",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Fort Greene Senior Citizens Council",
+  "development" : "Pink",
+  "address" : "2702 Linden Boulevard",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11208",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Italian American Civil Rights League",
+  "development" : "Pink",
+  "address" : "2702 Linden Boulevard",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11208",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "United Community Centers",
+  "development" : "Pink",
+  "address" : "2702 Linden Boulevard",
+  "borough_code" : "Brooklyn",
+  "type" : "Other - Urban Farm",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Church on the Hill",
+  "development" : "Polo Grounds Towers",
+  "address" : "2965 Eighth Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10039",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Research Foundation of the State University of New York",
+  "development" : "Polo Grounds Towers",
+  "address" : "2965 Eighth Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Other - ATTAIN LAB",
+  "zip_code" : "10039",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Sheltering Arms Chidren and Family Services, Inc.",
+  "development" : "Polo Grounds Towers",
+  "address" : "2967 Eighth Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10039",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Children's Village",
+  "development" : "Polo Grounds Towers",
+  "address" : "3005 8th Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10039",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Queens Community House, Inc.",
+  "development" : "Pomonok",
+  "address" : "67-09 Kissena Blvd",
+  "borough_code" : "Queens",
+  "type" : "Senior Center",
+  "zip_code" : "11367",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Queens Community House, Inc.",
+  "development" : "Pomonok",
+  "address" : "67-09 Kissena Blvd",
+  "borough_code" : "Queens",
+  "type" : "Community Center",
+  "zip_code" : "11367",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "ARC XVI Ft. Washington, Inc.",
+  "development" : "Public School 39 (Conversion)",
+  "address" : "120 West 140th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10030",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Jacob A. Riis Neighborhood Settlement, Inc.",
+  "development" : "Queensbridge North",
+  "address" : "10-25 41st Avenue",
+  "borough_code" : "Queens",
+  "type" : "Other - Computer Room",
+  "zip_code" : "11101",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Jacob A. Riis Neighborhood Settlement, Inc.",
+  "development" : "Queensbridge North",
+  "address" : "10-25 41st Avenue",
+  "borough_code" : "Queens",
+  "type" : "Community Center",
+  "zip_code" : "11101",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Jacob A. Riis Neighborhood Settlement, Inc.",
+  "development" : "Queensbridge North",
+  "address" : "10-25 41st Avenue",
+  "borough_code" : "Queens",
+  "type" : "Senior Center",
+  "zip_code" : "11101",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Police Athletic League, Inc.",
+  "development" : "Queensbridge North",
+  "address" : "10-26 41st Avenue",
+  "borough_code" : "Queens",
+  "type" : "Child Care ",
+  "zip_code" : "11101",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Floating Hospital",
+  "development" : "Queensbridge North",
+  "address" : "10-29 41st Avenue",
+  "borough_code" : "Queens",
+  "type" : "Health Clinic",
+  "zip_code" : "11101",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Queens Borough Public Library",
+  "development" : "Queensbridge North",
+  "address" : "10-43 41st Avenue",
+  "borough_code" : "Queens",
+  "type" : "Other - Education /Literacy Center",
+  "zip_code" : "11101",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Steinway Child & Family Services, Inc.",
+  "development" : "Queensbridge North",
+  "address" : "40-10 10th Street ",
+  "borough_code" : "Queens",
+  "type" : "Other - Case Management /Referral Services",
+  "zip_code" : "11101",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Jacob A. Riis Neighborhood Settlement, Inc.",
+  "development" : "Queensbridge North",
+  "address" : "40-11 10th Street ",
+  "borough_code" : "Queens",
+  "type" : "Other - Office Space",
+  "zip_code" : "11101",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Queensbridge South",
+  "address" : "10-30 41st Avenue",
+  "borough_code" : "Queens",
+  "type" : "Family Services",
+  "zip_code" : "11101",
+  "status" : "Occupied "
+}
+, {
+  "sponsor" : "Jewish Association Services For the Aged",
+  "development" : "Randall Avenue-Balcom Avenue",
+  "address" : "2705 Schley Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10465",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Prince Hall Service Fund, Inc.",
+  "development" : "Rangel",
+  "address" : "159-30 Harlem River Drive",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care ",
+  "zip_code" : "10039",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Catholic Charities Community Services Archdiocese of NY",
+  "development" : "Rangel",
+  "address" : "159-36 Harlem River Drive",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10039",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Church on the Hill",
+  "development" : "Rangel",
+  "address" : "159-36 Harlem River Drive",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10039",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Prince Hall Service Fund, Inc.",
+  "development" : "Rangel",
+  "address" : "159-44 Harlem River Drive",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care ",
+  "zip_code" : "10039",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Rangel",
+  "address" : "159-62 Harlem River Drive",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant",
+  "zip_code" : "10039",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "I Have A Dream Foundation-NY",
+  "development" : "Ravenswood",
+  "address" : "14-01 36 Avenue",
+  "borough_code" : "Queens",
+  "type" : "Other - Education / IHAD Literacy",
+  "zip_code" : "11106",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Catholic Charities Neighborhood Services, Inc.",
+  "development" : "Ravenswood",
+  "address" : "21-20 35th Avenue",
+  "borough_code" : "Queens",
+  "type" : "Child Care ",
+  "zip_code" : "11106",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "HANAC, Inc.",
+  "development" : "Ravenswood",
+  "address" : "34-35A 12th Street",
+  "borough_code" : "Queens",
+  "type" : "Senior Center ",
+  "zip_code" : "11106",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "HANAC, Inc.",
+  "development" : "Ravenswood",
+  "address" : "34-35A 12th Street",
+  "borough_code" : "Queens",
+  "type" : "NORC",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Queens Borough Public Library",
+  "development" : "Ravenswood",
+  "address" : "35-32 21st Street",
+  "borough_code" : "Queens",
+  "type" : "Child Care - UPK 2015",
+  "zip_code" : "11106",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Jacob A. Riis Neighborhood Settlement, Inc.",
+  "development" : "Ravenswood",
+  "address" : "35-40 21st Street",
+  "borough_code" : "Queens",
+  "type" : "Community Center",
+  "zip_code" : "11106",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Good Shepherd Services",
+  "development" : "Red Hook East",
+  "address" : "110 West 9th Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11231",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Spanish Speaking Elderly Council - RAICES",
+  "development" : "Red Hook East",
+  "address" : "110 West 9th Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Spanish Speaking Elderly Council - RAICES",
+  "development" : "Red Hook East",
+  "address" : "120 West 9th Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11231",
+  "status" : "Reserved - temporarily relocated"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Red Hook West",
+  "address" : "6 Wolcott Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant",
+  "zip_code" : "11231",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Bethel Mission Station Church, Inc.",
+  "development" : "Redfern",
+  "address" : "14-66 Beach Channel Dr",
+  "borough_code" : "Queens",
+  "type" : "Child Care ",
+  "zip_code" : "11691",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Police Athletic League, Inc.",
+  "development" : "Redfern",
+  "address" : "15-44 Hassock Street",
+  "borough_code" : "Queens",
+  "type" : "Community Center",
+  "zip_code" : "11691",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Fort Greene Senior Citizens Council",
+  "development" : "Reid Apartments",
+  "address" : "720 E New York Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11203",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Jewish Community Center of Staten Island",
+  "development" : "Richmond Terrace",
+  "address" : "71 Jersey Street",
+  "borough_code" : "Staten Island",
+  "type" : "Community Center",
+  "zip_code" : "10301",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Chinese-American Planning Council",
+  "development" : "Riis",
+  "address" : "108 Avenue D",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care ",
+  "zip_code" : "10009",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Riis",
+  "address" : "152-154 Avenue D",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant",
+  "zip_code" : "10009",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Sheltering Arms Chidren and Family Services, Inc.",
+  "development" : "Riis",
+  "address" : "464 East 10th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10009",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Grand Street Settlement, Inc.",
+  "development" : "Riis",
+  "address" : "80 Avenue D",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10009",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Chinese-American Planning Council",
+  "development" : "Riis",
+  "address" : "90 Avenue D",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care ",
+  "zip_code" : "10009",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Lenox Hill Neighborhood House",
+  "development" : "Robbins Plaza",
+  "address" : "343 East 70th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10021",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "SCAN Supportive Children's Advocacy Network",
+  "development" : "Robinson",
+  "address" : "110 East 129th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10035",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Addie Mae Collins Comm. Serv.",
+  "development" : "Robinson",
+  "address" : "110 East 129th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10035",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Cumberland Hospital ",
+  "development" : "Roosevelt",
+  "address" : "388 Pulaski Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Health Clinic",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Mary McLeod Bethune Day Care Center",
+  "development" : "Roosevelt I",
+  "address" : "360 Pulaski Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care ",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Bedford Stuyvesant Early Childhood Development Ctr., Inc.",
+  "development" : "Roosevelt I",
+  "address" : "971 DeKalb Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care ",
+  "zip_code" : "11221",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Fort Greene Senior Citizens Council",
+  "development" : "Roosevelt II",
+  "address" : "400 Hart Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Good Shepherd Services",
+  "development" : "Roosevelt II",
+  "address" : "400 Hart Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "YMCA of Greater New York ",
+  "development" : "Rutgers",
+  "address" : "200 Madison Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Goodwill Industries of Greater New York",
+  "development" : "Sack-Wern",
+  "address" : "710 Noble Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Unknown",
+  "zip_code" : "10473",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Bronxworks, Inc.",
+  "development" : "Saint Mary's Park",
+  "address" : "595 Trinity Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10455",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Saint Mary's Park",
+  "address" : "675 Westchester Ave.",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10455",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Central Harlem Senior Center",
+  "development" : "Saint Nicholas",
+  "address" : "210 West 131st Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10027",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Saint Nicholas",
+  "address" : "220 West 131st Street",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant",
+  "zip_code" : "10027",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Utopia Children's Center",
+  "development" : "Saint Nicholas",
+  "address" : "236 West 129st Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10027",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Utopia Children's Center",
+  "development" : "Saint Nicholas",
+  "address" : "236 West 131st Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10027",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Harlem Children's Zone, Inc.",
+  "development" : "Saint Nicholas",
+  "address" : "2374 Eighth Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10027",
+  "status" : "Reserved - temporarily relocated"
+}
+, {
+  "sponsor" : "Renaissance Health Care Network ",
+  "development" : "Saint Nicholas",
+  "address" : "281 West 127th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Health Clinic",
+  "zip_code" : "10027",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Abyssinian Baptist Church",
+  "development" : "Samuel (City)",
+  "address" : "669 Lenox Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10030",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Sheltering Arms Chidren and Family Services, Inc.",
+  "development" : "Samuel (City)",
+  "address" : "669 Lenox Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10030",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Ridgewood-Bushwick Sr Citizens Council, Inc.",
+  "development" : "Saratoga Square",
+  "address" : "930 Halsey Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Coalition for Hispanic Family Services",
+  "development" : "Saratoga Village",
+  "address" : "940 Hancock Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11233",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Sedgwick",
+  "address" : "1531 University Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10453",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Catholic Charities Community Services Archdiocese of NY",
+  "development" : "Sedgwick",
+  "address" : "1553 University Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10453",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Sedgwick",
+  "address" : "1553 University Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10453",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Grand Street Settlement, Inc.",
+  "development" : "Seward Park Extension",
+  "address" : "56 Essex Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Grand Street Settlement, Inc.",
+  "development" : "Seward Park Extension",
+  "address" : "60 Essex Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Beachbrook Nursery School",
+  "development" : "Sheepshead Bay",
+  "address" : "2953 Avenue X",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care ",
+  "zip_code" : "11235",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Catholic Charities Neighborhood Services, Inc.",
+  "development" : "Sheepshead Bay",
+  "address" : "3643 Nostrand Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11229",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Catholic Charities Neighborhood Services, Inc.",
+  "development" : "Sheepshead Bay",
+  "address" : "3677 Nostrand Ave",
+  "borough_code" : "Brooklyn",
+  "type" : "NORC",
+  "zip_code" : "11229",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Catholic Charities Neighborhood Services, Inc.",
+  "development" : "Sheepshead Bay",
+  "address" : "3679 Nostrand Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11229",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Federation of Italian American Organizations of Brooklyn",
+  "development" : "Sheepshead Bay",
+  "address" : "3679 Nostrand Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11229",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Sheepshead/Nostrand",
+  "address" : "3525 Nostrand Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant- health clinic",
+  "zip_code" : "11229",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Jamaica Service Program for Older Adults (JSPOA)",
+  "development" : "Shelton",
+  "address" : "89-09 162nd Street",
+  "borough_code" : "Queens",
+  "type" : "Senior Center",
+  "zip_code" : "11432",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Hamilton-Madison House, Inc.",
+  "development" : "Smith",
+  "address" : "10 Catherine Slip",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Training Center",
+  "zip_code" : "10038",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Hamilton-Madison House, Inc.",
+  "development" : "Smith",
+  "address" : "50 Madison Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care ",
+  "zip_code" : "10038",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Hamilton-Madison House, Inc.",
+  "development" : "Smith",
+  "address" : "50 Madison Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10038",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Hamilton-Madison House, Inc.",
+  "development" : "Smith",
+  "address" : "50 Madison Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10038",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Hamilton-Madison House, Inc.",
+  "development" : "Smith",
+  "address" : "50 Madison Street",
+  "borough_code" : "Manhattan",
+  "type" : "NORC",
+  "zip_code" : "10038",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Hamilton-Madison House, Inc.",
+  "development" : "Smith",
+  "address" : "60 Catherine Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10038",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Gouvenier Hospital ",
+  "development" : "Smith",
+  "address" : "60 Madison Street",
+  "borough_code" : "Manhattan",
+  "type" : "Health Clinic",
+  "zip_code" : "10038",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Sotomayor Houses",
+  "address" : "1818 Watson Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10472",
+  "status" : "RES HOLD"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Soundview",
+  "address" : "1674 Seward Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10473",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Phipps Community Development",
+  "development" : "Soundview",
+  "address" : "1680 Seward Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10473",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Ciditty Kiddie Corporation",
+  "development" : "Soundview",
+  "address" : "1700 Seward Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - UPK 2015",
+  "zip_code" : "10473",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "United Activities Unlimited Inc",
+  "development" : "South Beach",
+  "address" : "155 Norway Avenue",
+  "borough_code" : "Staten Island",
+  "type" : "Community Center",
+  "zip_code" : "10305",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "South Jamaica",
+  "address" : "107-60 159th Street",
+  "borough_code" : "Queens",
+  "type" : "Vacant",
+  "zip_code" : "11433",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "South Jamaica",
+  "address" : "159-07 108th Avenue",
+  "borough_code" : "Queens",
+  "type" : "Vacant",
+  "zip_code" : "11433",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Afro-American Parents Day Care Center",
+  "development" : "South Jamaica II",
+  "address" : "108-17 159th Street",
+  "borough_code" : "Queens",
+  "type" : "Child Care ",
+  "zip_code" : "11433",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Southern Queens Park Association",
+  "development" : "South Jamaica II",
+  "address" : "109-04 160th Street",
+  "borough_code" : "Queens",
+  "type" : "Community Center",
+  "zip_code" : "11433",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Jewish Community Center of Staten Island",
+  "development" : "Stapleton",
+  "address" : "189 Gordon Street",
+  "borough_code" : "Staten Island",
+  "type" : "Senior Center",
+  "zip_code" : "10304",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Friends of Crown Heights",
+  "development" : "Stapleton",
+  "address" : "195 Gordon Street",
+  "borough_code" : "Staten Island",
+  "type" : "Child Care - UPK 2014",
+  "zip_code" : "10304",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Jewish Community Center of Staten Island",
+  "development" : "Stapleton",
+  "address" : "230 Broad St.",
+  "borough_code" : "Staten Island",
+  "type" : "Community Center",
+  "zip_code" : "10304",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Straus",
+  "address" : "225 East 27th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Performing Arts - Center",
+  "zip_code" : "10016",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "SCO Family of Services",
+  "development" : "Stuyvesant Gardens",
+  "address" : "214 Stuyvesant Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11221",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Bedford Stuyvesant Early Childhood Development Ctr., Inc.",
+  "development" : "Stuyvesant Gardens I",
+  "address" : "214 Stuyvesant Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care ",
+  "zip_code" : "11221",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Ridgewood-Bushwick Sr Citizens Council, Inc.",
+  "development" : "Stuyvesant Gardens II",
+  "address" : "150 Malcolm X Blvd",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11221",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "New York Child Resource Center's, Inc.",
+  "development" : "Stuyvesant Gardens II",
+  "address" : "706 Quincy Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care ",
+  "zip_code" : "11221",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Cumberland Hospital ",
+  "development" : "Sumner",
+  "address" : "47 Marcus Garvey Blvd.",
+  "borough_code" : "Brooklyn",
+  "type" : "Health Clinic",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Brooklyn Kindergarten Society, Inc.",
+  "development" : "Sumner",
+  "address" : "860 Park Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Good Shepherd Services",
+  "development" : "Sumner",
+  "address" : "862 Park Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Sumner",
+  "address" : "862 Park Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Taft",
+  "address" : "1365  5th Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Taft",
+  "address" : "1385  5th Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Performing Arts - Youth Chorus",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Children's Aid Society, Inc.",
+  "development" : "Taft",
+  "address" : "1724-26 Madison Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Children's Aid Society, Inc.",
+  "development" : "Taft",
+  "address" : "1732 Madison Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Citizen's Care Committee, Inc",
+  "development" : "Tafts Rehab",
+  "address" : "146 St. Nicholas Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Office Space",
+  "zip_code" : "10026",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "El Puente De Williamsburg",
+  "development" : "Taylor Street-Wythe Avenue",
+  "address" : "80 Clymer Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11211",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Thomas Apartments",
+  "address" : "102 West 91 Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Program",
+  "zip_code" : "10024",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Tremont Crotona Day Care Ctr., Inc.",
+  "development" : "Throggs Neck",
+  "address" : "461 Swinton Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10465",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Kips Bay Boys & Girls Club/Dept for the Aging",
+  "development" : "Throggs Neck Addition",
+  "address" : "550 Balcom Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Community Center",
+  "zip_code" : "10465",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Research Foundation of CUNY",
+  "development" : "Tilden",
+  "address" : "630 Mother Gaston Blvd.",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11212",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Wayside Out-Reach Development Corporation, Inc.",
+  "development" : "Tilden",
+  "address" : "630 Mother Gaston Blvd.",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11212",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Staten Island Comm Servs Friendship Club, Inc.",
+  "development" : "Todt Hill",
+  "address" : "184 Schmidts Lane",
+  "borough_code" : "Staten Island",
+  "type" : "Senior Center",
+  "zip_code" : "10314",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Jewish Community Center of Staten Island",
+  "development" : "Todt Hill",
+  "address" : "255 Westwood Avenue",
+  "borough_code" : "Staten Island",
+  "type" : "Community Center",
+  "zip_code" : "10314",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Brooklyn Kindergarten Society, Inc.",
+  "development" : "Tompkins",
+  "address" : "730 Park Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Grand Street Settlement, Inc.",
+  "development" : "Tompkins",
+  "address" : "736 Park Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Neighborhood SHOPP",
+  "development" : "Twin Parks East",
+  "address" : "2070 Clinton Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10457",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Twin Parks West",
+  "address" : "355 East 183rd Street",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10458",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "YMCA of Greater New York ",
+  "development" : "Two Bridges",
+  "address" : "286 South Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Presbyterian Senior Services",
+  "development" : "Union Avenue",
+  "address" : "950 Union Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Senior Center",
+  "zip_code" : "10459",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Research Foundation of CUNY",
+  "development" : "Unity Plaza (sites 4-27)",
+  "address" : "576 Blake Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11207",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "University Avenue ",
+  "address" : "1925 University Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Religious Services",
+  "zip_code" : "10453",
+  "status" : "Reserved - application on file"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "UPACA 6 (Site 6)",
+  "address" : "1940 Lexington Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant",
+  "zip_code" : "10035",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "DB Grant Associates, Inc.",
+  "development" : "Van Dyke I",
+  "address" : "330 Powell Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Other - Jobs Plus",
+  "zip_code" : "11212",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Van Dyke I",
+  "address" : "382 Sutter Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Construction Training",
+  "zip_code" : "11212",
+  "status" : "Reserved - application on file"
+}
+, {
+  "sponsor" : "Medgar Evers",
+  "development" : "Van Dyke I ",
+  "address" : "392 Blake Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11212",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Wayside Out-Reach Development Corporation, Inc.",
+  "development" : "Van Dyke II",
+  "address" : "430 Dumont Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11212",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Millennium Development Corp.",
+  "development" : "Vandalia",
+  "address" : "47 Vandalia Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11239",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Research Foundation of the State University of New York",
+  "development" : "Vernon Avenue",
+  "address" : "1060 Myrtle Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Other - ATTAIN LAB",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Henry Street Settlement, Inc.",
+  "development" : "Vladeck",
+  "address" : "334 Madison Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Henry Street Settlement, Inc.",
+  "development" : "Vladeck",
+  "address" : "351 Madison Street ",
+  "borough_code" : "Manhattan",
+  "type" : "NORC",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Henry Street Settlement, Inc.",
+  "development" : "Vladeck",
+  "address" : "367 Madison Street",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Family/Youth Program",
+  "zip_code" : "10002",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Wagner",
+  "address" : "435 East 120th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10035",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "SCAN Supportive Children's Advocacy Network",
+  "development" : "Wagner",
+  "address" : "435 East 120th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10035",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Wagner",
+  "address" : "451 East 120th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant",
+  "zip_code" : "10035",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Felix Milan Little League",
+  "development" : "Wald",
+  "address" : "12 Avenue D",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Sports Program",
+  "zip_code" : "10009",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "United Jewish Council",
+  "development" : "Wald",
+  "address" : "12 Avenue D",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10009",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Educational Alliance, Inc.",
+  "development" : "Wald",
+  "address" : "18 Avenue D",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care ",
+  "zip_code" : "10009",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Henry Street Settlement, Inc.",
+  "development" : "Wald",
+  "address" : "24 Avenue D",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Jobs Plus",
+  "zip_code" : "10009",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Educational Alliance, Inc.",
+  "development" : "Wald",
+  "address" : "34 Avenue D",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10009",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Henry Street Settlement, Inc.",
+  "development" : "Wald",
+  "address" : "888 East 6th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10009",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Wald",
+  "address" : "934 East Fourth Walk",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant",
+  "zip_code" : "10009",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Union Settlement Association",
+  "development" : "Washington",
+  "address" : "1761 Third Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Community Center Annex",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Union Settlement Association",
+  "development" : "Washington",
+  "address" : "1775 Third Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Union Settlement Association",
+  "development" : "Washington",
+  "address" : "1775 Third Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Union Settlement Association",
+  "development" : "Washington",
+  "address" : "1893 Second Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Dominican Women's Development Center, Inc.",
+  "development" : "Washington Hts Rehab (Groups I and II)",
+  "address" : "2340-46 Amsterdam Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care ",
+  "zip_code" : "10033",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Washington Hts Rehab (Groups I and II)",
+  "address" : "500 West 164th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Provider Name Unknown",
+  "development" : "Washington Hts Rehab (Groups I and II)",
+  "address" : "503 West 177th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Battered Women center",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Claremont Neighborhood Center",
+  "development" : "Webster",
+  "address" : "1240 Webster Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10456",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Morrisania Diagnostic & Treament Center ",
+  "development" : "Webster",
+  "address" : "401 East 168th Street",
+  "borough_code" : "Bronx",
+  "type" : "Health Clinic",
+  "zip_code" : "10456",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Webster",
+  "address" : "421 East 168th Street",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10456",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Brooklyn Kindergarten Society, Inc. & DDC",
+  "development" : "Weeksville",
+  "address" : "1640 Pacific Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - UPK 2015",
+  "zip_code" : "11213",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "West Brighton",
+  "address" : "1085 Castleton Avenue",
+  "borough_code" : "Staten Island",
+  "type" : "Storage",
+  "zip_code" : "10310",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Catholic Charities Community Services Archdiocese of NY",
+  "development" : "West Brighton",
+  "address" : "230 Broadway",
+  "borough_code" : "Staten Island",
+  "type" : "Senior Center",
+  "zip_code" : "10310",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "United Activities Unlimited Inc",
+  "development" : "West Brighton",
+  "address" : "230 Broadway",
+  "borough_code" : "Staten Island",
+  "type" : "Community Center",
+  "zip_code" : "10310",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Goddard Riverside Outreach",
+  "development" : "West Side Urban Renewal",
+  "address" : "647 Columbus Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10025",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "West Tremont",
+  "address" : "228 West Tremont Avenue",
+  "borough_code" : "Bronx",
+  "type" : "Vacant",
+  "zip_code" : "10453",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Union Settlement Association",
+  "development" : "White",
+  "address" : "2029 2nd Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Senior Center",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Union Settlement Association",
+  "development" : "White",
+  "address" : "237 East 104th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Community Center",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Union Settlement Association",
+  "development" : "White",
+  "address" : "237 East 104th Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Fort Greene Senior Citizens Council",
+  "development" : "Whitman",
+  "address" : "105 North Portland Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11205",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Whitman",
+  "address" : "149 North Oxford Walk",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant",
+  "zip_code" : "11205",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Brooklyn Bureau of Comm. Service",
+  "development" : "Whitman",
+  "address" : "285 Myrtle Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Other - Office Space",
+  "zip_code" : "11205",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Labor Industry for Education, Inc",
+  "development" : "Williams Plaza",
+  "address" : "321 Roebling Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11211",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "El Puente De Williamsburg",
+  "development" : "Williams Plaza",
+  "address" : "323 Roebling Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11211",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Cumberland Hospital",
+  "development" : "Williams Plaza",
+  "address" : "333 Roebling Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Health Clinic",
+  "zip_code" : "11211",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Bushwick United Housing Development Fund",
+  "development" : "Williamsburg",
+  "address" : "178 Leonard Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "St. Nicks Alliance",
+  "development" : "Williamsburg",
+  "address" : "195 Graham Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Jewish Association Services For the Aged",
+  "development" : "Williamsburg",
+  "address" : "202 Graham Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Colony South Brooklyn Houses",
+  "development" : "Williamsburg",
+  "address" : "222 Graham Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Child Care ",
+  "zip_code" : "11206",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Wilson",
+  "address" : "405 East 105th Steet",
+  "borough_code" : "Manhattan",
+  "type" : "Management Office",
+  "zip_code" : "10029",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Goddard Riverside Outreach",
+  "development" : "Wise Towers/WSURA",
+  "address" : "114 West 91st Street",
+  "borough_code" : "Manhattan",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "10024",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Wise Towers/WSURA",
+  "address" : "136 West 91st Steet",
+  "borough_code" : "Manhattan",
+  "type" : "Vacant",
+  "zip_code" : "10024",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Goddard Riverside Outreach",
+  "development" : "Wise Towers/WSURA",
+  "address" : "589 Amsterdam Avenue",
+  "borough_code" : "Manhattan",
+  "type" : "Other - Case Management / Homeless Outreach ",
+  "zip_code" : "10024",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Woodside",
+  "address" : "49-11 Broadway",
+  "borough_code" : "Queens",
+  "type" : "Vacant",
+  "zip_code" : "11377",
+  "status" : "NYCHA HOLD"
+}
+, {
+  "sponsor" : "Goodwill Industries of Greater New York",
+  "development" : "Woodside",
+  "address" : "50-19 Broadway",
+  "borough_code" : "Queens",
+  "type" : "Community Center",
+  "zip_code" : "11377",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Police Athletic League, Inc.",
+  "development" : "Woodside",
+  "address" : "50-37 Broadway",
+  "borough_code" : "Queens",
+  "type" : "Child Care - Early Learn",
+  "zip_code" : "11377",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Samaritan Village",
+  "development" : "Woodside",
+  "address" : "50-37 Newtown Road",
+  "borough_code" : "Queens",
+  "type" : "Senior Center",
+  "zip_code" : "11377",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Elmhurst Hospital ",
+  "development" : "Woodside",
+  "address" : "50-53 Newtown Road",
+  "borough_code" : "Queens",
+  "type" : "Health Clinic",
+  "zip_code" : "11377",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Wayside Out-Reach Development Corporation, Inc.",
+  "development" : "Woodson",
+  "address" : "460 Dumont Avenue",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11212",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "NYCHA",
+  "development" : "Wyckoff Gardens",
+  "address" : "266 Wyckoff Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Vacant",
+  "status" : "Vacant "
+}
+, {
+  "sponsor" : "Colony South Brooklyn Houses",
+  "development" : "Wyckoff Gardens",
+  "address" : "272 Wyckoff Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11217",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Goodwill Industries of Greater New York",
+  "development" : "Wyckoff Gardens",
+  "address" : "280 Wyckoff Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Community Center",
+  "zip_code" : "11217",
+  "status" : "Occupied"
+}
+, {
+  "sponsor" : "Spanish Speaking Elderly Council - RAICES",
+  "development" : "Wyckoff Gardens",
+  "address" : "280 Wyckoff Street",
+  "borough_code" : "Brooklyn",
+  "type" : "Senior Center",
+  "zip_code" : "11217",
+  "status" : "Occupied"
+}
+ ]

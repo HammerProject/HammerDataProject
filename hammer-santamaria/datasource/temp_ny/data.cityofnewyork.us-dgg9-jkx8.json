@@ -1,0 +1,46 @@
+[ {
+  "total" : "154",
+  "categories" : "Resident",
+  "_of_total" : "20"
+}
+, {
+  "total" : "378",
+  "categories" : "Local Worker",
+  "_of_total" : "50"
+}
+, {
+  "total" : "77",
+  "categories" : "Resident + Local Worker",
+  "_of_total" : "10"
+}
+, {
+  "total" : "51",
+  "categories" : "Clean-Up Worker",
+  "_of_total" : "7"
+}
+, {
+  "total" : "20",
+  "categories" : "Clean-Up Worker + Local Worker",
+  "_of_total" : "3"
+}
+, {
+  "total" : "4",
+  "categories" : "Rescue/Recovery",
+  "_of_total" : "1"
+}
+, {
+  "total" : "32",
+  "categories" : "Passerby, Commuter",
+  "_of_total" : "4"
+}
+, {
+  "total" : "25",
+  "categories" : "Student",
+  "_of_total" : "3"
+}
+, {
+  "total" : "13",
+  "categories" : "Other",
+  "_of_total" : "2"
+}
+ ]

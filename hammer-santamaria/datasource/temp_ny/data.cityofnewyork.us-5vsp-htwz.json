@@ -1,0 +1,436 @@
+[ {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "R301-01(b)(1)",
+  "type_of_material_operation_or_facility" : "Boatyards, marinas and similar facilities"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC303.4",
+  "type_of_material_operation_or_facility" : "Tar kettle operations using combustible liquid"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "R303-01(b)(2)",
+  "type_of_material_operation_or_facility" : "Asphalt melter operations using combustible liquid"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC313.5.2.6",
+  "type_of_material_operation_or_facility" : "Portable space heaters storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC316.3",
+  "type_of_material_operation_or_facility" : "De-fueling motor vehicle fuel tanks"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC306.2.1",
+  "type_of_material_operation_or_facility" : "Cellulose nitrate storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC401.6.1",
+  "type_of_material_operation_or_facility" : "Group A occupancies (fire safety training)"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC401.6.2.2",
+  "type_of_material_operation_or_facility" : "Group B office building fire safety director"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC401.7.2",
+  "type_of_material_operation_or_facility" : "Group B office building EAP/fire safety director"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC401.6.4",
+  "type_of_material_operation_or_facility" : "Group I-2 occupancies (fire safety training)"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC401.6.5.2",
+  "type_of_material_operation_or_facility" : "Group R-1 occupancies (fire safety director)"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC401.6.8.2",
+  "type_of_material_operation_or_facility" : "Group R-1 homeless shelter (fire safety coordinator)"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC401.6.8.3",
+  "type_of_material_operation_or_facility" : "Group R-1 homeless shelter (fire guards)"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "R403-01(b)(4)(D)",
+  "type_of_material_operation_or_facility" : "Street festivals, fairs, bazaars, carnivals and similar outdoor events\nKerosene and other combustible liquid storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC603.1.8",
+  "type_of_material_operation_or_facility" : "Preheating of fuel oil in stationary oil-fired systems"
+}
+, {
+  "supervision_type" : "General",
+  "fire_code_rule_section" : "R603-01(c)",
+  "type_of_material_operation_or_facility" : "Fuel oil transfer from a stationary tank to fuel-oil  burning equipment or another stationary tank installed above the lowest floor"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC606.1.1",
+  "type_of_material_operation_or_facility" : "Refrigerating system operating engineer (certificate of qualification)"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC801.7\nR 805-01(b)(3) and 805-02(b)(3)",
+  "type_of_material_operation_or_facility" : "Flameproofing of decorations, drapes and scenery"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC 901.6.3(1) and 903.5",
+  "type_of_material_operation_or_facility" : "Sprinkler system inspection, testing and other maintenance"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC901.6.3(2)",
+  "type_of_material_operation_or_facility" : "Standpipe system inspection, testing and other maintenance"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC 901.6.3(3)",
+  "type_of_material_operation_or_facility" : "Foam extinguishing system inspection, testing and other maintenance"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC901.6.3(5)",
+  "type_of_material_operation_or_facility" : "Private hydrant system inspection, testing and other maintenance"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC 901.6.3(6) and 914.3",
+  "type_of_material_operation_or_facility" : "Yard hydrant system inspection, testing and other maintenance"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC901.6.3(4)",
+  "type_of_material_operation_or_facility" : "Fire alarm system inspection, testing and other maintenance"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC901.6.3.1",
+  "type_of_material_operation_or_facility" : "Servicing of portable fire extinguishers"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "R901-03(c)",
+  "type_of_material_operation_or_facility" : "Portable Fire Extinguisher Sales"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC901.6.3.3",
+  "type_of_material_operation_or_facility" : "Inspection and cleaning of commercial cooking exhaust systems"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC901.7",
+  "type_of_material_operation_or_facility" : "Fire guard for out-of-service fire protection systems"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "R901-01(f)(3)(A)",
+  "type_of_material_operation_or_facility" : "Central station monitoring of fire alarm systems"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC905.1.1",
+  "type_of_material_operation_or_facility" : "Standpipe system operations (multi-zone system)"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "R907-01(e)(2)",
+  "type_of_material_operation_or_facility" : "Smoke detector maintenance"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC1110.6",
+  "type_of_material_operation_or_facility" : "Helicopter lift operations"
+}
+, {
+  "supervision_type" : "General",
+  "fire_code_rule_section" : "FC1201.4",
+  "type_of_material_operation_or_facility" : "Dry cleaning facilities using flammable or combustible liquids"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC1403.6",
+  "type_of_material_operation_or_facility" : "Construction site handling and use of space heaters"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "R1403-01(d)",
+  "type_of_material_operation_or_facility" : "Construction site space heaters fueled by piped natural gas"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC1404.5",
+  "type_of_material_operation_or_facility" : "Construction site (demolition operations) fire guard"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "R1405-01(d)",
+  "type_of_material_operation_or_facility" : "Construction site aerial fueling of cranes"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC1406.2.3",
+  "type_of_material_operation_or_facility" : "Construction site liquid oxygen storage and use"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "R1408-01(b)(2)",
+  "type_of_material_operation_or_facility" : "Construction site fire safety manager (effective 7/1/10)"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC1418.1.1",
+  "type_of_material_operation_or_facility" : "Construction site powder-actuated tools"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC1501.4(1)",
+  "type_of_material_operation_or_facility" : "Spray finishing and dipping operations"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC1501.4(2)",
+  "type_of_material_operation_or_facility" : "Floor finishing operations"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC1701.4.2",
+  "type_of_material_operation_or_facility" : "Fumigation and thermal insecticidal fogging operations"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC2201.7",
+  "type_of_material_operation_or_facility" : "Automotive and marine liquid motor fuel-dispensing facilities"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC2201.7",
+  "type_of_material_operation_or_facility" : "Compressed natural gas motor fuel-dispensing facilities"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC2603.4.1",
+  "type_of_material_operation_or_facility" : "Torch operations using oxygen and a flammable gas"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC2604.2.7",
+  "type_of_material_operation_or_facility" : "Fire guard for construction site, rooftop and citywide torch operations"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC2706.4",
+  "type_of_material_operation_or_facility" : "Non-production laboratories"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC2707.7.2",
+  "type_of_material_operation_or_facility" : "Handling and use of explosives delivered to waterfront structures"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "R2801-01(c)",
+  "type_of_material_operation_or_facility" : "Aerosol storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC2906.8.1",
+  "type_of_material_operation_or_facility" : "Fire guard for combustible fibers on waterfront structures"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC3001.4.3",
+  "type_of_material_operation_or_facility" : "Compressing of a gas"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC3001.4.1",
+  "type_of_material_operation_or_facility" : "Compressed gas storage, handling or use"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "R3004-01(d)(2)",
+  "type_of_material_operation_or_facility" : "Carbon dioxide container filling"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC3101.4",
+  "type_of_material_operation_or_facility" : "Corrosive material storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC3201.4.1 and 3201.4.3",
+  "type_of_material_operation_or_facility" : "Cryogenic fluid storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC3201.4.2",
+  "type_of_material_operation_or_facility" : "Cryogenic tank installer"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC3301.5.1",
+  "type_of_material_operation_or_facility" : "High explosives storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC3301.5.1",
+  "type_of_material_operation_or_facility" : "Blasting site personnel (other than blasting personnel)"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC3301.5.2",
+  "type_of_material_operation_or_facility" : "Fireworks storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC3301.5.3",
+  "type_of_material_operation_or_facility" : "Special effects displays, and storage and handling"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC3401.6.1",
+  "type_of_material_operation_or_facility" : "Flammable/combustible liquid manufacture"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC3401.6.2 and 3401.6.3",
+  "type_of_material_operation_or_facility" : "Flammable/combustible liquid storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "R3404-02(b)(3)",
+  "type_of_material_operation_or_facility" : "Underground storage system precision test"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC3406.2.8(7)",
+  "type_of_material_operation_or_facility" : "Flammable/combustible liquid cargo tank dispensing"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC3406.4.7.1",
+  "type_of_material_operation_or_facility" : "Flammable/combustible liquid handling at wharfs"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC3406.4.12",
+  "type_of_material_operation_or_facility" : "Bulk plants and terminals"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC3501.4",
+  "type_of_material_operation_or_facility" : "Flammable gas storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC3501.4.1",
+  "type_of_material_operation_or_facility" : "Ethylene oxide handled and used in sterilizers"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC3501.4.2\nR3507-01(e)",
+  "type_of_material_operation_or_facility" : "Compressed natural gas handling and use"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC3501.4.2\nR3507-01(j)(2)(F)(1)",
+  "type_of_material_operation_or_facility" : "Tar kettle operations using CNG"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "R3507-01(j)(2)(G)(1)",
+  "type_of_material_operation_or_facility" : "Asphalt melter operations using CNG"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "R3507-01(j)(2)(F)(4)",
+  "type_of_material_operation_or_facility" : "Fire guard for CNG torch operations"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC3501.4.3\nR3508-01(b)(3)",
+  "type_of_material_operation_or_facility" : "Methane recovery plant"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "R3601-01(c)",
+  "type_of_material_operation_or_facility" : "Flammable solid storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC3701.5",
+  "type_of_material_operation_or_facility" : "Toxic and highly toxic storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC3801.5\nR3809-01(e)",
+  "type_of_material_operation_or_facility" : "LPG storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC3801.5.2\nR3809-01(j)(2)(F)(1)",
+  "type_of_material_operation_or_facility" : "Tar kettle operations using LPG"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "R3809-01(j)(2)(F)(4)",
+  "type_of_material_operation_or_facility" : "Fire guard for LPG torch operations"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "FC3801.5.6\nR403-01(b)(4)(C)",
+  "type_of_material_operation_or_facility" : "Street festivals, fairs, bazaars, carnivals and similar outdoor events\nLPG storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal",
+  "fire_code_rule_section" : "R3809-01(j)(2)(G)(1)",
+  "type_of_material_operation_or_facility" : "Asphalt melter operations using LPG"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC3901.5",
+  "type_of_material_operation_or_facility" : "Organic peroxide storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC4001.4",
+  "type_of_material_operation_or_facility" : "Oxidizer storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC4101.5",
+  "type_of_material_operation_or_facility" : "Pyrophoric material storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC4201.5",
+  "type_of_material_operation_or_facility" : "Pyroxylin plastics storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC4301.5",
+  "type_of_material_operation_or_facility" : "Unstable (reactive) material storage, handling and use"
+}
+, {
+  "supervision_type" : "Personal/General",
+  "fire_code_rule_section" : "FC4401.5",
+  "type_of_material_operation_or_facility" : "Water-reactive solid and liquid storage, handling and use"
+}
+ ]

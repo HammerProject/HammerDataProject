@@ -1,0 +1,262 @@
+[ {
+  "new_c_of_f" : "E-20",
+  "new_test_is_required" : "No",
+  "job_description" : "Use and discharge of Fireworks\n(NEW!)",
+  "old_c_of_f" : "E-20",
+  "old_c_of_f_is_still_valid" : "Yes",
+  "new_test_starting_date" : "1-2-13"
+}
+, {
+  "new_c_of_f" : "F-07/ W-07",
+  "new_test_is_required" : "Yes",
+  "job_description" : "Fire and Emergency Drill Conductor (NEW!)",
+  "special_note" : "W-07  Citywide\nF-07  Premises related",
+  "old_c_of_f" : "F-33,F34 F35,W10, W-13",
+  "old_c_of_f_is_still_valid" : "Certificates F33,F34 F35,W10, W13\nissued before 12-13- 12 are Valid until expiration date",
+  "new_test_starting_date" : "1-2-13\n(These old tests\nF33,F34 F35,W10,\nW13) will be\navailable until\n1-31-13 but valid only for 1 year"
+}
+, {
+  "new_c_of_f" : "S-78 / F-78",
+  "new_test_is_required" : "Yes",
+  "job_description" : "Inspection, Cleaning & Testing of Smoke Detectors\n(NEW!)",
+  "special_note" : "S-78  Citywide\nF-78  Premises related\nW-26/F-57 renewals can be obtained until 12/31/12 for 1 year only. N-78 will be issued if applicant is not employed.",
+  "old_c_of_f" : "W-26 / F-57",
+  "old_c_of_f_is_still_valid" : "W-26/F-57 valid until the certificate expiration date.",
+  "new_test_starting_date" : "11/15/2012"
+}
+, {
+  "new_c_of_f" : "S-98",
+  "new_test_is_required" : "Yes",
+  "job_description" : "Fire Alarm Systems\nInspection, Testing and Service Technician (NEW!)",
+  "special_note" : "S-98 employees",
+  "new_test_starting_date" : "9/10/2012"
+}
+, {
+  "new_c_of_f" : "F-03\n/F-04",
+  "new_test_is_required" : "Yes",
+  "job_description" : "Place of Assembly\nSafety Personnel\n(NEW!)",
+  "special_note" : "F-03 premises related F-04 citywide",
+  "old_c_of_f" : "F-94,\nF-28 & F-26",
+  "old_c_of_f_is_still_valid" : "F-94,F-28 & F-26 valid until the expiration date.",
+  "new_test_starting_date" : "9/4/2012"
+}
+, {
+  "job_description" : "F-00 for Fire Guard\n(CHANGE!)",
+  "special_note" : "F-44 and F-92 will be issued from F-00 letter until it expires.",
+  "old_c_of_f" : "F-00",
+  "old_c_of_f_is_still_valid" : "F-32, F-36, F-91, or F-94\nwill not be issued from F-00 letter after 12/31/12 & F-93 will not be issued for F-00 letters issued after 6/1/11."
+}
+, {
+  "new_c_of_f" : "C-30",
+  "new_test_is_required" : "Yes",
+  "job_description" : "Supervision of\nFlammable and Combustible Finishing Operations\n(NEW!)",
+  "special_note" : "Individuals who are certified for the C-30 will be exempt from having to obtain a separate C-92. This exemption is for  spray operations only.",
+  "old_c_of_f" : "C-22",
+  "old_c_of_f_is_still_valid" : "C-22 valid until the certificate expiration date.",
+  "new_test_starting_date" : "7/23/2012"
+}
+, {
+  "new_c_of_f" : "P-02",
+  "new_test_is_required" : "No",
+  "job_description" : "Precision Test",
+  "special_note" : "Old W-18, W-21, W-29, W-\n30, W-33 and W-34 are converted into P-02",
+  "old_c_of_f" : "P-01",
+  "old_c_of_f_is_still_valid" : "Yes",
+  "new_test_starting_date" : "6/1/2012"
+}
+, {
+  "new_c_of_f" : "C-92\n/S-93",
+  "new_test_is_required" : "Yes",
+  "job_description" : "Flammable or Combustible Liquids",
+  "special_note" : "Construction S-93 OthersC-92",
+  "old_c_of_f" : "C-98\n(C12,C25\n& C26)",
+  "old_c_of_f_is_still_valid" : "C-98 valid until the expiration date.",
+  "new_test_starting_date" : "4/1/2012"
+}
+, {
+  "new_c_of_f" : "S-93/ S-94",
+  "new_test_is_required" : "Yes",
+  "job_description" : "Flammable/\ncombustible liquids portable containers",
+  "special_note" : "Construction S-93 OthersS-94",
+  "old_c_of_f" : "W-14",
+  "old_c_of_f_is_still_valid" : "W-14 valid until the expiration date",
+  "new_test_starting_date" : "4/1/2012"
+}
+, {
+  "new_c_of_f" : "S-13",
+  "new_test_is_required" : "Yes",
+  "job_description" : "City Wide Standpipe System",
+  "special_note" : "Old Certificates (see the list\non page 3) are valid until the expiration date of the\ncertificates.",
+  "old_c_of_f" : "see the list on page 3",
+  "old_c_of_f_is_still_valid" : "valid until the expiration date\nof the certificate ( For Old Certificates see the list on\npage 3)",
+  "new_test_starting_date" : "1/9/2012"
+}
+, {
+  "new_c_of_f" : "S-14",
+  "new_test_is_required" : "Yes",
+  "job_description" : "Standpipe for Multi- Zone",
+  "old_c_of_f" : "see the list on page 3",
+  "old_c_of_f_is_still_valid" : "valid until the expiration\ndate of the certificate ( For Old Certificates see the list on page 3)",
+  "new_test_starting_date" : "1/9/2012"
+}
+, {
+  "new_c_of_f" : "New C of F",
+  "new_test_is_required" : "New test is\nrequired",
+  "job_description" : "Job Description",
+  "special_note" : "Special note",
+  "old_c_of_f" : "Old C of F",
+  "old_c_of_f_is_still_valid" : "Old C of F is still valid?",
+  "new_test_starting_date" : "New test starting\ndate"
+}
+, {
+  "new_c_of_f" : "F-25&\nF-58",
+  "job_description" : "Fire Safety Director",
+  "special_note" : "renewal with school attendance",
+  "old_c_of_f" : "F-25 &\nF-58",
+  "old_c_of_f_is_still_valid" : "Yes",
+  "new_test_starting_date" : "2010"
+}
+, {
+  "new_c_of_f" : "F-60",
+  "new_test_is_required" : "Yes",
+  "job_description" : "Fire Guard at\nConstruction Sites",
+  "old_c_of_f" : "F-29",
+  "old_c_of_f_is_still_valid" : "F-29 valid until the expiration date.",
+  "new_test_starting_date" : "6/1/2011"
+}
+, {
+  "new_c_of_f" : "F-60",
+  "new_test_is_required" : "Yes",
+  "job_description" : "FG for Torch operations",
+  "old_c_of_f" : "F-30",
+  "old_c_of_f_is_still_valid" : "F-30 valid until the\nexpiration date of the certificate",
+  "new_test_starting_date" : "6/1/2011"
+}
+, {
+  "new_c_of_f" : "F-01",
+  "job_description" : "Citywide Fire Guard (Impairment)",
+  "old_c_of_f" : "F-32,\nF-36, & F-91",
+  "old_c_of_f_is_still_valid" : "F-32, F-36 & F-91 are valid and renewable.",
+  "new_test_starting_date" : "12/1/2011"
+}
+, {
+  "new_c_of_f" : "F-60",
+  "new_test_is_required" : "Yes",
+  "job_description" : "Fire Guard\n(Torch/Construction)",
+  "old_c_of_f" : "F-93",
+  "old_c_of_f_is_still_valid" : "F-93 valid until the expiration date of the certificate",
+  "new_test_starting_date" : "6/1/2011"
+}
+, {
+  "new_c_of_f" : "S-11",
+  "new_test_is_required" : "Yes",
+  "job_description" : "Residential Sprinkler\nSystem",
+  "old_c_of_f" : "F-95",
+  "old_c_of_f_is_still_valid" : "F-95 valid until the expiration date",
+  "new_test_starting_date" : "1/9/2012"
+}
+, {
+  "new_c_of_f" : "G-22",
+  "job_description" : "(LPG) engine fuel\nsystem (forklift)",
+  "old_c_of_f" : "G-22",
+  "old_c_of_f_is_still_valid" : "Yes",
+  "new_test_starting_date" : "5/9/2011"
+}
+, {
+  "new_c_of_f" : "G-23",
+  "job_description" : "(LPG) outdoor cooking, street vender/mobile\nkitchen",
+  "old_c_of_f" : "G-23",
+  "old_c_of_f_is_still_valid" : "Yes",
+  "new_test_starting_date" : "5/9/2011"
+}
+, {
+  "new_c_of_f" : "G-24",
+  "job_description" : "(LPG) emergency\nrepair",
+  "old_c_of_f" : "G-24",
+  "old_c_of_f_is_still_valid" : "Yes",
+  "new_test_starting_date" : "5/9/2011"
+}
+, {
+  "new_c_of_f" : "A-35",
+  "new_test_is_required" : "No",
+  "job_description" : "Air Compressor",
+  "special_note" : "A-35 covers to operate and maintain",
+  "old_c_of_f" : "G-35& W-11",
+  "old_c_of_f_is_still_valid" : "G-35 and W-11 are valid and renewable",
+  "new_test_starting_date" : "1/9/2012"
+}
+, {
+  "new_c_of_f" : "G-36",
+  "job_description" : "(LPG) manhole",
+  "old_c_of_f" : "G-36",
+  "old_c_of_f_is_still_valid" : "Yes",
+  "new_test_starting_date" : "5/9/2011"
+}
+, {
+  "new_c_of_f" : "G-40",
+  "job_description" : "(LPG)tar, asphalt,\nroofing, street repair, traffic lines",
+  "old_c_of_f" : "G-40",
+  "old_c_of_f_is_still_valid" : "Yes",
+  "new_test_starting_date" : "5/9/2011"
+}
+, {
+  "new_c_of_f" : "G-44",
+  "job_description" : "(LPG) storage, handling",
+  "old_c_of_f" : "G-44",
+  "old_c_of_f_is_still_valid" : "Yes",
+  "new_test_starting_date" : "5/9/2011"
+}
+, {
+  "new_c_of_f" : "S-92",
+  "new_test_is_required" : "Yes",
+  "job_description" : "Portable fueled space heaters",
+  "special_note" : "S-92 is good for all types (coke, Kerosene, LPG, and Piped Natural gas )",
+  "old_c_of_f" : "G-94 & G-27",
+  "old_c_of_f_is_still_valid" : "Yes, But G-27 and G-27 is good for LPG and Piped Natural gas only",
+  "new_test_starting_date" : "2010"
+}
+, {
+  "new_c_of_f" : "G-60",
+  "new_test_is_required" : "Yes",
+  "job_description" : "Torch operations",
+  "special_note" : "old C of F is valid until its expiration date",
+  "old_c_of_f" : "G-95 &\nG-38",
+  "old_c_of_f_is_still_valid" : "G-95 and G-38 are valid until the expiration date",
+  "new_test_starting_date" : "6/1/2011"
+}
+, {
+  "new_c_of_f" : "G-61",
+  "new_test_is_required" : "Yes",
+  "job_description" : "Torch use in jewelry factory",
+  "old_c_of_f" : "G-95 & G-39",
+  "old_c_of_f_is_still_valid" : "G-95 and G-38 valid until the expiration date",
+  "new_test_starting_date" : "6/1/2011"
+}
+, {
+  "job_description" : "(LPG) consolidated\ntest",
+  "old_c_of_f" : "G-96",
+  "old_c_of_f_is_still_valid" : "G-96 is valid and renewable"
+}
+, {
+  "new_c_of_f" : "S-12",
+  "new_test_is_required" : "Yes",
+  "job_description" : "Sprinkler system",
+  "old_c_of_f" : "W-12",
+  "old_c_of_f_is_still_valid" : "W-12 is valid until the\n12/31/2011",
+  "new_test_starting_date" : "1/1/2011"
+}
+, {
+  "new_c_of_f" : "S-56",
+  "new_test_is_required" : "Yes",
+  "job_description" : "Construction Site Fire\nSafety Manager",
+  "special_note" : "New Test",
+  "old_c_of_f_is_still_valid" : "New C of F",
+  "new_test_starting_date" : "1/11/2011"
+}
+, {
+  "job_description" : "Z-00 Generic Standpipe / Sprinkler System",
+  "special_note" : "F-19, F-95, F-96, F-97, F-98\n& F-99 will not be issued from the Z-00 letter after\n12/31/2012.",
+  "old_c_of_f" : "Z-00",
+  "old_c_of_f_is_still_valid" : "Z-00 is valid until the\n12/31/2012"
+}
+ ]

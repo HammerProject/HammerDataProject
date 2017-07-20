@@ -1,0 +1,20 @@
+[ {
+  "fee" : "$200",
+  "age" : "Adults (ages 18-61)",
+  "duplicate_permit_fee" : "$15"
+}
+, {
+  "fee" : "$20",
+  "age" : "Senior Citizens (ages 62 and over)",
+  "duplicate_permit_fee" : "$15"
+}
+, {
+  "fee" : "$10",
+  "age" : "Juniors (ages 17 and under)",
+  "duplicate_permit_fee" : "$6"
+}
+, {
+  "fee" : "$15",
+  "age" : "Single-Play Tickets (all ages, no photograph needed)"
+}
+ ]

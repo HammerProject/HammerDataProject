@@ -1,0 +1,760 @@
+[ {
+  "average_session_duration" : "1899-12-31T00:03:01",
+  "total_subscribers_per_week" : "2391",
+  "week" : "Week of 2/29/2016",
+  "sessions_per_week" : "31523",
+  "cumulative_sessions_to_date" : "161899",
+  "bandwidth_utilization_per_week_tb" : "0.418",
+  "cumulative_bandwidth_utilization_to_date_tb" : "1.73",
+  "new_subscribers_per_week" : "1022",
+  "cumulative_subscribers_to_date" : "6116"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:47",
+  "total_subscribers_per_week" : "4041",
+  "week" : "Week of 3/7/2016",
+  "sessions_per_week" : "54896",
+  "cumulative_sessions_to_date" : "216795",
+  "bandwidth_utilization_per_week_tb" : "0.635",
+  "cumulative_bandwidth_utilization_to_date_tb" : "1.84",
+  "new_subscribers_per_week" : "2216",
+  "cumulative_subscribers_to_date" : "8357"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:49",
+  "total_subscribers_per_week" : "4983",
+  "week" : "Week of 3/14/2016",
+  "sessions_per_week" : "61217",
+  "cumulative_sessions_to_date" : "285012",
+  "bandwidth_utilization_per_week_tb" : "0.602",
+  "cumulative_bandwidth_utilization_to_date_tb" : "2.32",
+  "new_subscribers_per_week" : "2587",
+  "cumulative_subscribers_to_date" : "10984"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:09",
+  "total_subscribers_per_week" : "8322",
+  "week" : "Week of 3/21/2016",
+  "sessions_per_week" : "103613",
+  "cumulative_sessions_to_date" : "381766",
+  "bandwidth_utilization_per_week_tb" : "1.103",
+  "cumulative_bandwidth_utilization_to_date_tb" : "3.21",
+  "new_subscribers_per_week" : "5223",
+  "cumulative_subscribers_to_date" : "15920"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:53",
+  "total_subscribers_per_week" : "10961",
+  "week" : "Week of 3/28/2016",
+  "sessions_per_week" : "158420",
+  "cumulative_sessions_to_date" : "540186",
+  "bandwidth_utilization_per_week_tb" : "1.315",
+  "cumulative_bandwidth_utilization_to_date_tb" : "5.28",
+  "new_subscribers_per_week" : "6235",
+  "cumulative_subscribers_to_date" : "22232"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:58",
+  "total_subscribers_per_week" : "15480",
+  "week" : "Week of 4/4/2016",
+  "sessions_per_week" : "232615",
+  "cumulative_sessions_to_date" : "772801",
+  "bandwidth_utilization_per_week_tb" : "1.975",
+  "cumulative_bandwidth_utilization_to_date_tb" : "7.25",
+  "new_subscribers_per_week" : "8558",
+  "cumulative_subscribers_to_date" : "30901"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:41",
+  "total_subscribers_per_week" : "17622",
+  "week" : "Week of 4/11/2016",
+  "sessions_per_week" : "265788",
+  "cumulative_sessions_to_date" : "1038587",
+  "bandwidth_utilization_per_week_tb" : "2.045",
+  "cumulative_bandwidth_utilization_to_date_tb" : "9.28999999999999",
+  "new_subscribers_per_week" : "8354",
+  "cumulative_subscribers_to_date" : "39355"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:42",
+  "total_subscribers_per_week" : "19662",
+  "week" : "Week of 4/18/2016",
+  "sessions_per_week" : "295665",
+  "cumulative_sessions_to_date" : "1334252",
+  "bandwidth_utilization_per_week_tb" : "2.19",
+  "cumulative_bandwidth_utilization_to_date_tb" : "11.47",
+  "new_subscribers_per_week" : "8918",
+  "cumulative_subscribers_to_date" : "48412"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:55",
+  "total_subscribers_per_week" : "26751",
+  "week" : "Week of 4/25/2016",
+  "sessions_per_week" : "398208",
+  "cumulative_sessions_to_date" : "1732457",
+  "bandwidth_utilization_per_week_tb" : "3.26",
+  "cumulative_bandwidth_utilization_to_date_tb" : "14.74",
+  "new_subscribers_per_week" : "13938",
+  "cumulative_subscribers_to_date" : "62517"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:57",
+  "total_subscribers_per_week" : "30871",
+  "week" : "Week of 5/2/2016",
+  "sessions_per_week" : "461639",
+  "cumulative_sessions_to_date" : "2194096",
+  "bandwidth_utilization_per_week_tb" : "3.74",
+  "cumulative_bandwidth_utilization_to_date_tb" : "18.48",
+  "new_subscribers_per_week" : "14630",
+  "cumulative_subscribers_to_date" : "77352"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:56",
+  "total_subscribers_per_week" : "34288",
+  "week" : "Week of 5/9/2016",
+  "sessions_per_week" : "534479",
+  "cumulative_sessions_to_date" : "2728575",
+  "bandwidth_utilization_per_week_tb" : "4.39",
+  "cumulative_bandwidth_utilization_to_date_tb" : "22.87",
+  "new_subscribers_per_week" : "15366",
+  "cumulative_subscribers_to_date" : "92941"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:58",
+  "total_subscribers_per_week" : "36269",
+  "week" : "Week of 5/16/2016",
+  "sessions_per_week" : "564942",
+  "cumulative_sessions_to_date" : "3293515",
+  "bandwidth_utilization_per_week_tb" : "4.43",
+  "cumulative_bandwidth_utilization_to_date_tb" : "27.3",
+  "new_subscribers_per_week" : "15536",
+  "cumulative_subscribers_to_date" : "108671"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:55",
+  "total_subscribers_per_week" : "39053",
+  "week" : "Week of 5/23/2016",
+  "sessions_per_week" : "630668",
+  "cumulative_sessions_to_date" : "3924182",
+  "bandwidth_utilization_per_week_tb" : "5.03",
+  "cumulative_bandwidth_utilization_to_date_tb" : "32.33",
+  "new_subscribers_per_week" : "16277",
+  "cumulative_subscribers_to_date" : "125157"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:57",
+  "total_subscribers_per_week" : "40251",
+  "week" : "Week of 5/30/2016",
+  "sessions_per_week" : "626790",
+  "cumulative_sessions_to_date" : "4550969",
+  "bandwidth_utilization_per_week_tb" : "4.75",
+  "cumulative_bandwidth_utilization_to_date_tb" : "37.08",
+  "new_subscribers_per_week" : "15618",
+  "cumulative_subscribers_to_date" : "141040"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:57",
+  "total_subscribers_per_week" : "41830",
+  "week" : "Week of 6/6/2016",
+  "sessions_per_week" : "687625",
+  "cumulative_sessions_to_date" : "5238591",
+  "bandwidth_utilization_per_week_tb" : "5.49",
+  "cumulative_bandwidth_utilization_to_date_tb" : "42.57",
+  "new_subscribers_per_week" : "15186",
+  "cumulative_subscribers_to_date" : "156436"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:55",
+  "total_subscribers_per_week" : "43526",
+  "week" : "Week of 6/13/2016",
+  "sessions_per_week" : "714250",
+  "cumulative_sessions_to_date" : "5952837",
+  "bandwidth_utilization_per_week_tb" : "5.6",
+  "cumulative_bandwidth_utilization_to_date_tb" : "48.17",
+  "new_subscribers_per_week" : "15492",
+  "cumulative_subscribers_to_date" : "172136"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:55",
+  "total_subscribers_per_week" : "45667",
+  "week" : "Week of 6/20/2016",
+  "sessions_per_week" : "738350",
+  "cumulative_sessions_to_date" : "6691186",
+  "bandwidth_utilization_per_week_tb" : "5.6",
+  "cumulative_bandwidth_utilization_to_date_tb" : "53.77",
+  "new_subscribers_per_week" : "16544",
+  "cumulative_subscribers_to_date" : "188868"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:55",
+  "total_subscribers_per_week" : "46572",
+  "week" : "Week of 6/27/2016",
+  "sessions_per_week" : "752740",
+  "cumulative_sessions_to_date" : "7443924",
+  "bandwidth_utilization_per_week_tb" : "5.7",
+  "cumulative_bandwidth_utilization_to_date_tb" : "59.47",
+  "new_subscribers_per_week" : "16445",
+  "cumulative_subscribers_to_date" : "205533"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:06",
+  "total_subscribers_per_week" : "48709",
+  "week" : "Week of 7/4/2016",
+  "sessions_per_week" : "746462",
+  "cumulative_sessions_to_date" : "8190384",
+  "bandwidth_utilization_per_week_tb" : "6.19",
+  "cumulative_bandwidth_utilization_to_date_tb" : "65.66",
+  "new_subscribers_per_week" : "18204",
+  "cumulative_subscribers_to_date" : "223955"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:55",
+  "total_subscribers_per_week" : "56359",
+  "week" : "Week of 7/11/2016",
+  "sessions_per_week" : "893033",
+  "cumulative_sessions_to_date" : "9083415",
+  "bandwidth_utilization_per_week_tb" : "6.7",
+  "cumulative_bandwidth_utilization_to_date_tb" : "72.36",
+  "new_subscribers_per_week" : "21429",
+  "cumulative_subscribers_to_date" : "245704"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:57",
+  "total_subscribers_per_week" : "64733",
+  "week" : "Week of 7/18/2016",
+  "sessions_per_week" : "1035958",
+  "cumulative_sessions_to_date" : "10119373",
+  "bandwidth_utilization_per_week_tb" : "7.79",
+  "cumulative_bandwidth_utilization_to_date_tb" : "80.15",
+  "new_subscribers_per_week" : "26371",
+  "cumulative_subscribers_to_date" : "272394"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:02:55",
+  "total_subscribers_per_week" : "71664",
+  "week" : "Week of 7/25/2016",
+  "sessions_per_week" : "1193660",
+  "cumulative_sessions_to_date" : "11313032",
+  "bandwidth_utilization_per_week_tb" : "8.65",
+  "cumulative_bandwidth_utilization_to_date_tb" : "88.79",
+  "new_subscribers_per_week" : "29405",
+  "cumulative_subscribers_to_date" : "302184"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:13",
+  "total_subscribers_per_week" : "67277",
+  "week" : "Week of 8/1/2016",
+  "sessions_per_week" : "1377833",
+  "cumulative_sessions_to_date" : "12697236",
+  "bandwidth_utilization_per_week_tb" : "10.37",
+  "cumulative_bandwidth_utilization_to_date_tb" : "102.84",
+  "new_subscribers_per_week" : "21611",
+  "cumulative_subscribers_to_date" : "321912"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:22",
+  "total_subscribers_per_week" : "73728",
+  "week" : "Week of 8/8/2016",
+  "sessions_per_week" : "1585082",
+  "cumulative_sessions_to_date" : "14282318",
+  "bandwidth_utilization_per_week_tb" : "12.29",
+  "cumulative_bandwidth_utilization_to_date_tb" : "115.13",
+  "new_subscribers_per_week" : "28378",
+  "cumulative_subscribers_to_date" : "350592"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:25",
+  "total_subscribers_per_week" : "79126",
+  "week" : "Week of 8/15/2016",
+  "sessions_per_week" : "1663717",
+  "cumulative_sessions_to_date" : "15946035",
+  "bandwidth_utilization_per_week_tb" : "12.7",
+  "cumulative_bandwidth_utilization_to_date_tb" : "127.83",
+  "new_subscribers_per_week" : "30799",
+  "cumulative_subscribers_to_date" : "381696"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:23",
+  "total_subscribers_per_week" : "83605",
+  "week" : "Week of 8/21/2016",
+  "sessions_per_week" : "1775886",
+  "cumulative_sessions_to_date" : "17721921",
+  "bandwidth_utilization_per_week_tb" : "13.91",
+  "cumulative_bandwidth_utilization_to_date_tb" : "141.74",
+  "new_subscribers_per_week" : "32248",
+  "cumulative_subscribers_to_date" : "414213"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:27",
+  "total_subscribers_per_week" : "77424",
+  "week" : "Week of 8/29/2016",
+  "sessions_per_week" : "1641374",
+  "cumulative_sessions_to_date" : "19363295",
+  "bandwidth_utilization_per_week_tb" : "13.73",
+  "cumulative_bandwidth_utilization_to_date_tb" : "155.479999999999",
+  "new_subscribers_per_week" : "24616",
+  "cumulative_subscribers_to_date" : "439082"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:22",
+  "total_subscribers_per_week" : "78640",
+  "week" : "Week of 9/5/2016",
+  "sessions_per_week" : "1728568",
+  "cumulative_sessions_to_date" : "21091863",
+  "bandwidth_utilization_per_week_tb" : "13.84",
+  "cumulative_bandwidth_utilization_to_date_tb" : "169.31",
+  "new_subscribers_per_week" : "24129",
+  "cumulative_subscribers_to_date" : "463460"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:16",
+  "total_subscribers_per_week" : "83660",
+  "week" : "Week of 9/12/2016",
+  "sessions_per_week" : "1822249",
+  "cumulative_sessions_to_date" : "22914112",
+  "bandwidth_utilization_per_week_tb" : "15.36",
+  "cumulative_bandwidth_utilization_to_date_tb" : "184.68",
+  "new_subscribers_per_week" : "25714",
+  "cumulative_subscribers_to_date" : "489405"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:16",
+  "total_subscribers_per_week" : "54908",
+  "week" : "Week of 9/19/2016",
+  "sessions_per_week" : "785022",
+  "cumulative_sessions_to_date" : "23699134",
+  "bandwidth_utilization_per_week_tb" : "16.42",
+  "cumulative_bandwidth_utilization_to_date_tb" : "191.1",
+  "new_subscribers_per_week" : "10288",
+  "cumulative_subscribers_to_date" : "499761"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:04:59",
+  "total_subscribers_per_week" : "201612",
+  "week" : "Week of 9/26/2016",
+  "sessions_per_week" : "2569162",
+  "cumulative_sessions_to_date" : "28663930",
+  "bandwidth_utilization_per_week_tb" : "19.3099999999998",
+  "cumulative_bandwidth_utilization_to_date_tb" : "224.59",
+  "new_subscribers_per_week" : "30867",
+  "cumulative_subscribers_to_date" : "607188"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:05:16",
+  "total_subscribers_per_week" : "209943",
+  "week" : "Week of 10/3/2016",
+  "sessions_per_week" : "2656233",
+  "cumulative_sessions_to_date" : "31320163",
+  "bandwidth_utilization_per_week_tb" : "20.0799999999998",
+  "cumulative_bandwidth_utilization_to_date_tb" : "244.67",
+  "new_subscribers_per_week" : "34317",
+  "cumulative_subscribers_to_date" : "641505"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:05:26",
+  "total_subscribers_per_week" : "217831",
+  "week" : "Week of 10/10/2016",
+  "sessions_per_week" : "2797828",
+  "cumulative_sessions_to_date" : "34117991",
+  "bandwidth_utilization_per_week_tb" : "21.42",
+  "cumulative_bandwidth_utilization_to_date_tb" : "266.089999999999",
+  "new_subscribers_per_week" : "30225",
+  "cumulative_subscribers_to_date" : "671730"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:06:45",
+  "total_subscribers_per_week" : "225031",
+  "week" : "Week of 10/17/2016",
+  "sessions_per_week" : "2966555",
+  "cumulative_sessions_to_date" : "37084545",
+  "bandwidth_utilization_per_week_tb" : "22.58",
+  "cumulative_bandwidth_utilization_to_date_tb" : "288.67",
+  "new_subscribers_per_week" : "25357",
+  "cumulative_subscribers_to_date" : "697087"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:06:41",
+  "total_subscribers_per_week" : "228912",
+  "week" : "Week of 10/24/2016",
+  "sessions_per_week" : "3004361",
+  "cumulative_sessions_to_date" : "40088906",
+  "bandwidth_utilization_per_week_tb" : "21.37",
+  "cumulative_bandwidth_utilization_to_date_tb" : "310.04",
+  "new_subscribers_per_week" : "30726",
+  "cumulative_subscribers_to_date" : "727813"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:05:50",
+  "total_subscribers_per_week" : "240833",
+  "week" : "Week of 10/31/2016",
+  "sessions_per_week" : "3339811",
+  "cumulative_sessions_to_date" : "43428717",
+  "bandwidth_utilization_per_week_tb" : "26.13",
+  "cumulative_bandwidth_utilization_to_date_tb" : "336.17",
+  "new_subscribers_per_week" : "36036",
+  "cumulative_subscribers_to_date" : "763849"
+}
+, {
+  "average_session_duration" : " 0:05:37",
+  "total_subscribers_per_week" : "243175",
+  "week" : "Week of 11/7/2016",
+  "sessions_per_week" : "3415825",
+  "cumulative_sessions_to_date" : "46844542",
+  "bandwidth_utilization_per_week_tb" : "26.96",
+  "cumulative_bandwidth_utilization_to_date_tb" : "363.13",
+  "new_subscribers_per_week" : "20821",
+  "cumulative_subscribers_to_date" : "784670"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:05:08",
+  "total_subscribers_per_week" : "246763",
+  "week" : "Week of 11/14/2016",
+  "sessions_per_week" : "3711319",
+  "cumulative_sessions_to_date" : "50555861",
+  "bandwidth_utilization_per_week_tb" : "26.27",
+  "cumulative_bandwidth_utilization_to_date_tb" : "389.4",
+  "new_subscribers_per_week" : "28792",
+  "cumulative_subscribers_to_date" : "813462"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:06:04",
+  "total_subscribers_per_week" : "246122",
+  "week" : "Week of 11/21/2016",
+  "sessions_per_week" : "3374213",
+  "cumulative_sessions_to_date" : "53930074",
+  "bandwidth_utilization_per_week_tb" : "24.52",
+  "cumulative_bandwidth_utilization_to_date_tb" : "413.64",
+  "new_subscribers_per_week" : "31653",
+  "cumulative_subscribers_to_date" : "845115"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:08:05",
+  "total_subscribers_per_week" : "254982",
+  "week" : "Week of 11/28/2016",
+  "sessions_per_week" : "3820644",
+  "cumulative_sessions_to_date" : "57750718",
+  "bandwidth_utilization_per_week_tb" : "27.01",
+  "cumulative_bandwidth_utilization_to_date_tb" : "440.64",
+  "new_subscribers_per_week" : "25809",
+  "cumulative_subscribers_to_date" : "870924"
+}
+, {
+  "average_session_duration" : "NA",
+  "total_subscribers_per_week" : "261267",
+  "week" : "Week of 12/5/2016",
+  "sessions_per_week" : "3918249",
+  "cumulative_sessions_to_date" : "61668967",
+  "bandwidth_utilization_per_week_tb" : "27.75",
+  "cumulative_bandwidth_utilization_to_date_tb" : "468.39",
+  "new_subscribers_per_week" : "24861",
+  "cumulative_subscribers_to_date" : "895785"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:05:59",
+  "total_subscribers_per_week" : "257312",
+  "week" : "Week of 12/12/2016",
+  "sessions_per_week" : "3856446",
+  "cumulative_sessions_to_date" : "65525413",
+  "bandwidth_utilization_per_week_tb" : "27.53",
+  "cumulative_bandwidth_utilization_to_date_tb" : "495.92",
+  "new_subscribers_per_week" : "25617",
+  "cumulative_subscribers_to_date" : "921402"
+}
+, {
+  "average_session_duration" : " 0:05:50",
+  "total_subscribers_per_week" : "268875",
+  "week" : "Week of 12/19/2016",
+  "sessions_per_week" : "4007559",
+  "cumulative_sessions_to_date" : "69532972",
+  "bandwidth_utilization_per_week_tb" : "29.02",
+  "cumulative_bandwidth_utilization_to_date_tb" : "524.94",
+  "new_subscribers_per_week" : "40073",
+  "cumulative_subscribers_to_date" : "961475"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:08:09",
+  "total_subscribers_per_week" : "296875",
+  "week" : "Week of 12/26/2016",
+  "sessions_per_week" : "4306985",
+  "cumulative_sessions_to_date" : "73839957",
+  "bandwidth_utilization_per_week_tb" : "30.77",
+  "cumulative_bandwidth_utilization_to_date_tb" : "555.71",
+  "new_subscribers_per_week" : "42729",
+  "cumulative_subscribers_to_date" : "1004204"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:06:54",
+  "total_subscribers_per_week" : "283136",
+  "week" : "Week of 1/2/2017",
+  "sessions_per_week" : "4020306",
+  "cumulative_sessions_to_date" : "77860263",
+  "bandwidth_utilization_per_week_tb" : "29.2",
+  "cumulative_bandwidth_utilization_to_date_tb" : "554.14",
+  "new_subscribers_per_week" : "33774",
+  "cumulative_subscribers_to_date" : "1037978"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:07:07",
+  "total_subscribers_per_week" : "271031",
+  "week" : "Week of 1/9/2017",
+  "sessions_per_week" : "3890622",
+  "cumulative_sessions_to_date" : "81750885",
+  "bandwidth_utilization_per_week_tb" : "26.75",
+  "cumulative_bandwidth_utilization_to_date_tb" : "611.66",
+  "new_subscribers_per_week" : "21907",
+  "cumulative_subscribers_to_date" : "1059885"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:04:29",
+  "total_subscribers_per_week" : "278513",
+  "week" : "Week of 1/16/2017",
+  "sessions_per_week" : "4160809",
+  "cumulative_sessions_to_date" : "85911694",
+  "bandwidth_utilization_per_week_tb" : "28.64",
+  "cumulative_bandwidth_utilization_to_date_tb" : "644.18",
+  "new_subscribers_per_week" : "26696",
+  "cumulative_subscribers_to_date" : "1086581"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:04:29",
+  "total_subscribers_per_week" : "285875",
+  "week" : "Week of 1/23/2017",
+  "sessions_per_week" : "4323824",
+  "cumulative_sessions_to_date" : "90235518",
+  "bandwidth_utilization_per_week_tb" : "30.26",
+  "cumulative_bandwidth_utilization_to_date_tb" : "678.13",
+  "new_subscribers_per_week" : "24368",
+  "cumulative_subscribers_to_date" : "1110949"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:04:54",
+  "total_subscribers_per_week" : "296558",
+  "week" : "Week of 1/30/2017",
+  "sessions_per_week" : "4656164",
+  "cumulative_sessions_to_date" : "94891682",
+  "bandwidth_utilization_per_week_tb" : "32.24",
+  "cumulative_bandwidth_utilization_to_date_tb" : "714.74",
+  "new_subscribers_per_week" : "27572",
+  "cumulative_subscribers_to_date" : "1138521"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:04:55",
+  "total_subscribers_per_week" : "297366",
+  "week" : "Week of 2/6/2017",
+  "sessions_per_week" : "4528495",
+  "cumulative_sessions_to_date" : "99420177",
+  "bandwidth_utilization_per_week_tb" : "31.07",
+  "cumulative_bandwidth_utilization_to_date_tb" : "750.13",
+  "new_subscribers_per_week" : "23262",
+  "cumulative_subscribers_to_date" : "1161783"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:04:57",
+  "total_subscribers_per_week" : "322806",
+  "week" : "Week of 2/13/2017",
+  "sessions_per_week" : "5080560",
+  "cumulative_sessions_to_date" : "104500737",
+  "bandwidth_utilization_per_week_tb" : "32.72",
+  "cumulative_bandwidth_utilization_to_date_tb" : "787.71",
+  "new_subscribers_per_week" : "33196",
+  "cumulative_subscribers_to_date" : "1194979"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:04:24",
+  "total_subscribers_per_week" : "335773",
+  "week" : "Week of 2/20/2017",
+  "sessions_per_week" : "5276948",
+  "cumulative_sessions_to_date" : "109777685",
+  "bandwidth_utilization_per_week_tb" : "36.25",
+  "cumulative_bandwidth_utilization_to_date_tb" : "829.4",
+  "new_subscribers_per_week" : "33925",
+  "cumulative_subscribers_to_date" : "1228904"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:04:20",
+  "total_subscribers_per_week" : "337532",
+  "week" : "Week of 2/27/2017",
+  "sessions_per_week" : "5395485",
+  "cumulative_sessions_to_date" : "115173170",
+  "bandwidth_utilization_per_week_tb" : "36.57",
+  "cumulative_bandwidth_utilization_to_date_tb" : "870.86",
+  "new_subscribers_per_week" : "27546",
+  "cumulative_subscribers_to_date" : "1256450"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:04:22",
+  "total_subscribers_per_week" : "337109",
+  "week" : "Week of 3/6/2017",
+  "sessions_per_week" : "5246526",
+  "cumulative_sessions_to_date" : "120419696",
+  "bandwidth_utilization_per_week_tb" : "36.08",
+  "cumulative_bandwidth_utilization_to_date_tb" : "911.88",
+  "new_subscribers_per_week" : "24201",
+  "cumulative_subscribers_to_date" : "1280651"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:04:35",
+  "total_subscribers_per_week" : "329391",
+  "week" : "Week of 3/13/2017",
+  "sessions_per_week" : "5089725",
+  "cumulative_sessions_to_date" : "125509421",
+  "bandwidth_utilization_per_week_tb" : "34.37",
+  "cumulative_bandwidth_utilization_to_date_tb" : "951.31",
+  "new_subscribers_per_week" : "28588",
+  "cumulative_subscribers_to_date" : "1309239"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:04:25",
+  "total_subscribers_per_week" : "353800",
+  "week" : "Week of 3/20/2017",
+  "sessions_per_week" : "5967035",
+  "cumulative_sessions_to_date" : "131476456",
+  "bandwidth_utilization_per_week_tb" : "39.91",
+  "cumulative_bandwidth_utilization_to_date_tb" : "996.62",
+  "new_subscribers_per_week" : "30209",
+  "cumulative_subscribers_to_date" : "1339448"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:04:17",
+  "total_subscribers_per_week" : "361819",
+  "week" : "Week of 3/27/2017",
+  "sessions_per_week" : "5984897",
+  "cumulative_sessions_to_date" : "137461353",
+  "bandwidth_utilization_per_week_tb" : "38.98",
+  "cumulative_bandwidth_utilization_to_date_tb" : "1041.21",
+  "new_subscribers_per_week" : "33603",
+  "cumulative_subscribers_to_date" : "1373051"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:55",
+  "total_subscribers_per_week" : "385427",
+  "week" : "Week of 4/3/2017",
+  "sessions_per_week" : "6520665",
+  "cumulative_sessions_to_date" : "143982018",
+  "bandwidth_utilization_per_week_tb" : "41.49",
+  "cumulative_bandwidth_utilization_to_date_tb" : "1088.87",
+  "new_subscribers_per_week" : "47557",
+  "cumulative_subscribers_to_date" : "1420608"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:53",
+  "total_subscribers_per_week" : "418491",
+  "week" : "Week of 4/10/2017",
+  "sessions_per_week" : "7089679",
+  "cumulative_sessions_to_date" : "151071697",
+  "bandwidth_utilization_per_week_tb" : "42.53",
+  "cumulative_bandwidth_utilization_to_date_tb" : "1139.11",
+  "new_subscribers_per_week" : "43631",
+  "cumulative_subscribers_to_date" : "1464239"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:54",
+  "total_subscribers_per_week" : "425653",
+  "week" : "Week of 5/1/2017",
+  "sessions_per_week" : "7320185",
+  "cumulative_sessions_to_date" : "159214706",
+  "bandwidth_utilization_per_week_tb" : "42.62",
+  "cumulative_bandwidth_utilization_to_date_tb" : "1287",
+  "new_subscribers_per_week" : "37810",
+  "cumulative_subscribers_to_date" : "1583481"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:04:02",
+  "total_subscribers_per_week" : "430240",
+  "week" : "Week of 5/8/2017",
+  "sessions_per_week" : "7373686",
+  "cumulative_sessions_to_date" : "166588392",
+  "bandwidth_utilization_per_week_tb" : "46.29",
+  "cumulative_bandwidth_utilization_to_date_tb" : "1340.35",
+  "new_subscribers_per_week" : "36600",
+  "cumulative_subscribers_to_date" : "1620081"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:55",
+  "total_subscribers_per_week" : "448986",
+  "week" : "Week of 5/15/2017",
+  "sessions_per_week" : "7817309",
+  "cumulative_sessions_to_date" : "174405701",
+  "bandwidth_utilization_per_week_tb" : "47.6",
+  "cumulative_bandwidth_utilization_to_date_tb" : "1396.29",
+  "new_subscribers_per_week" : "40560",
+  "cumulative_subscribers_to_date" : "1660641"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:59",
+  "total_subscribers_per_week" : "451085",
+  "week" : "Week of 5/22/2017",
+  "sessions_per_week" : "7552138",
+  "cumulative_sessions_to_date" : "181957839",
+  "bandwidth_utilization_per_week_tb" : "49.67",
+  "cumulative_bandwidth_utilization_to_date_tb" : "1455.33",
+  "new_subscribers_per_week" : "43333",
+  "cumulative_subscribers_to_date" : "1703974"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:39",
+  "total_subscribers_per_week" : "458998",
+  "week" : "Week of 5/29/2017",
+  "sessions_per_week" : "7877845",
+  "cumulative_sessions_to_date" : "189835684",
+  "bandwidth_utilization_per_week_tb" : "35.97",
+  "cumulative_bandwidth_utilization_to_date_tb" : "1498.59",
+  "new_subscribers_per_week" : "42007",
+  "cumulative_subscribers_to_date" : "1745981"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:46",
+  "total_subscribers_per_week" : "469036",
+  "week" : "Week of 6/5/2017",
+  "sessions_per_week" : "7897827",
+  "cumulative_sessions_to_date" : "197733511",
+  "bandwidth_utilization_per_week_tb" : "39.5",
+  "cumulative_bandwidth_utilization_to_date_tb" : "1545.46",
+  "new_subscribers_per_week" : "40998",
+  "cumulative_subscribers_to_date" : "1786979"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:48",
+  "total_subscribers_per_week" : "471615",
+  "week" : "Week of 6/12/2017",
+  "sessions_per_week" : "7778416",
+  "cumulative_sessions_to_date" : "205511927",
+  "bandwidth_utilization_per_week_tb" : "40.4",
+  "cumulative_bandwidth_utilization_to_date_tb" : "1593.23",
+  "new_subscribers_per_week" : "42308",
+  "cumulative_subscribers_to_date" : "1829287"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:50",
+  "total_subscribers_per_week" : "484295",
+  "week" : "Week of 6/19/2017",
+  "sessions_per_week" : "7888427",
+  "cumulative_sessions_to_date" : "213400354",
+  "bandwidth_utilization_per_week_tb" : "42.65",
+  "cumulative_bandwidth_utilization_to_date_tb" : "1644.7",
+  "new_subscribers_per_week" : "46795",
+  "cumulative_subscribers_to_date" : "1876082"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:51",
+  "total_subscribers_per_week" : "498107",
+  "week" : "Week of 6/26/2017",
+  "sessions_per_week" : "8342745",
+  "cumulative_sessions_to_date" : "221743099",
+  "bandwidth_utilization_per_week_tb" : "46.99",
+  "cumulative_bandwidth_utilization_to_date_tb" : "1700.78",
+  "new_subscribers_per_week" : "49271",
+  "cumulative_subscribers_to_date" : "1925353"
+}
+, {
+  "average_session_duration" : "1899-12-31T00:03:57",
+  "total_subscribers_per_week" : "483193",
+  "week" : "Week of 7/3/2017",
+  "sessions_per_week" : "7638826",
+  "cumulative_sessions_to_date" : "229381925",
+  "bandwidth_utilization_per_week_tb" : "46.85",
+  "cumulative_bandwidth_utilization_to_date_tb" : "1757.66",
+  "new_subscribers_per_week" : "48695",
+  "cumulative_subscribers_to_date" : "1974048"
+}
+ ]

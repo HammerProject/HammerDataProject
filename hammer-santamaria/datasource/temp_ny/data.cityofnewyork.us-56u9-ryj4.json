@@ -1,0 +1,970 @@
+[ {
+  "site_name" : "Henry Street Settlement",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.71399949305981",
+    "human_address" : "{\"address\":\"301 Henry Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98339877304709"
+  },
+  "agency" : "Henry Street Settlement",
+  "borough_community" : "New York",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.766.9200"
+}
+, {
+  "site_name" : "City As School",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.72940690922735",
+    "human_address" : "{\"address\":\"16 Clarkson Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10014\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00607060920572"
+  },
+  "agency" : "Federation Employment and Guidance Service, Inc.",
+  "borough_community" : "New York",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.366.8441"
+}
+, {
+  "site_name" : "Chinese American Planning Council/Manhattan",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.71645702482035",
+    "human_address" : "{\"address\":\"100 Hester Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99286250634624"
+  },
+  "agency" : "Chinese American Planning Council",
+  "borough_community" : "New York",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.941.0920"
+}
+, {
+  "site_name" : "The Door - A Center of Alternatives",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.72398399739069",
+    "human_address" : "{\"address\":\"121 6th Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10013\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00464968039944"
+  },
+  "agency" : "The Door - A Center of Alternatives",
+  "borough_community" : "New York",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.941.9090"
+}
+, {
+  "site_name" : "Employment & Technology Center (ETC)",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.805145122337365",
+    "human_address" : "{\"address\":\"304 117th Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10026\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95504759955925"
+  },
+  "agency" : "Harlem Children's Zone, Inc",
+  "borough_community" : "New York",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.534.0700"
+}
+, {
+  "site_name" : "Washington Houses Community Center",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.7870466388226",
+    "human_address" : "{\"address\":\"1775 Third Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10029\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94792934815561"
+  },
+  "agency" : "Union Settlement Association",
+  "borough_community" : "New York",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.828.6018"
+}
+, {
+  "site_name" : "Children's Arts & Science Workshops, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.85074343742053",
+    "human_address" : "{\"address\":\"4271 Broadway\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10033\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93544685024483"
+  },
+  "agency" : "Children's Arts & Science Workshops, Inc.",
+  "borough_community" : "New York",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.923.7766"
+}
+, {
+  "site_name" : "Children's Arts & Science Workshops, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.86801941360335",
+    "human_address" : "{\"address\":\"686 204th Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10034\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92376465708418"
+  },
+  "agency" : "Children's Arts & Science Workshops, Inc.",
+  "borough_community" : "New York",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.923.7766"
+}
+, {
+  "site_name" : "Harlem Children's Zone, Inc",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.80596750958526",
+    "human_address" : "{\"address\":\"35 125th Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9411236532852"
+  },
+  "agency" : "Harlem Children's Zone, Inc",
+  "borough_community" : "New York",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.534.0700"
+}
+, {
+  "site_name" : "East Harlem Council For Community Improvement",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.79820504446883",
+    "human_address" : "{\"address\":\"413 120th Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93266794517427"
+  },
+  "agency" : "East Harlem Council For Community Improvement",
+  "borough_community" : "New York",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.410.7707"
+}
+, {
+  "site_name" : "New York City Mission Society",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.818574610432336",
+    "human_address" : "{\"address\":\"646 Malcolm X Boulevard\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10037\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93746544310494"
+  },
+  "agency" : "New York City Mission Society",
+  "borough_community" : "New York",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.979.5764"
+}
+, {
+  "site_name" : "Stanley M. Isaacs Neighborhood Center, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.7812386658001",
+    "human_address" : "{\"address\":\"415 93rd Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10128\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94580276497054"
+  },
+  "agency" : "Stanley M. Isaacs Neighborhood Center, Inc.",
+  "borough_community" : "New York",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.360.7620"
+}
+, {
+  "site_name" : "Police Athletic League (PAL)",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.6415823266761",
+    "human_address" : "{\"address\":\"55 Layton Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"10301\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.08535650074658"
+  },
+  "agency" : "Police Athletic League, Inc.",
+  "borough_community" : "Queens",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.477.6504"
+}
+, {
+  "site_name" : "Public School 80 - The Michael J. Petrides School",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.60745891713139",
+    "human_address" : "{\"address\":\"715 Ocean Terrace\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10301\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.10148829317096"
+  },
+  "agency" : "Police Athletic League, Inc.",
+  "borough_community" : "Staten Island",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.477.6504"
+}
+, {
+  "site_name" : "Public School 14 - Cornelius Vanderbilt Elementary School",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.622148795415534",
+    "human_address" : "{\"address\":\"100 Tompkins Avenue\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10304\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.07837687526822"
+  },
+  "agency" : "Police Athletic League, Inc.",
+  "borough_community" : "Staten Island",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.477.6504"
+}
+, {
+  "site_name" : "United Activities Unlimited @ PS 18 Beacon",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.63603930909672",
+    "human_address" : "{\"address\":\"221 Broadway\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10310\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.11747369098056"
+  },
+  "agency" : "United Activities Unlimited, Inc.",
+  "borough_community" : "Staten Island",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.987.8111"
+}
+, {
+  "site_name" : "Bronx School for Law, Government & Justice - H.S. 505",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.82755758070661",
+    "human_address" : "{\"address\":\"244 163rd Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10451\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91861304157015"
+  },
+  "agency" : "Federation Employment and Guidance Service, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.366.8441"
+}
+, {
+  "site_name" : "Family Preservation Center/MBCS",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.83772426336412",
+    "human_address" : "{\"address\":\"1125 Grand\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10452\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9233322114124"
+  },
+  "agency" : "Mid-Bronx Council Services, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.588.8200"
+}
+, {
+  "site_name" : "South Bronx Overall Economic Development Corp.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.81594441525443",
+    "human_address" : "{\"address\":\"555 Bergen Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91641591148277"
+  },
+  "agency" : "South Bronx Overall Economic Development Corp.",
+  "borough_community" : "Bronx",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.292.3113"
+}
+, {
+  "site_name" : "Citizens Advice Bureau/Girls Club of New York",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.8316941436386",
+    "human_address" : "{\"address\":\"1130 Grand\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10456\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9160410469591"
+  },
+  "agency" : "Citizens Advice Bureau, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.365.0910"
+}
+, {
+  "site_name" : "Grace Dodge Vocational High School - H.S. 660",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.85598037390898",
+    "human_address" : "{\"address\":\"2474 Crotona Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10458\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88255350719163"
+  },
+  "agency" : "Mid-Bronx Council Services, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.588.8200"
+}
+, {
+  "site_name" : "Simpson Street Development Association, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.82101228286123",
+    "human_address" : "{\"address\":\"997 163rd Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10459\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89341802447647"
+  },
+  "agency" : "Simpson Street Development Association, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.589.1510"
+}
+, {
+  "site_name" : "Intermediate School 217 - Rafael Hernandez School",
+  "program_type" : "Jobs & Internships",
+  "agency" : "Simpson Street Development Association, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.589.1510"
+}
+, {
+  "site_name" : "Herbert H. Lehman High School - H.S. 405",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.840618266233676",
+    "human_address" : "{\"address\":\"3000 Tremont Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10461\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.83830582037355"
+  },
+  "agency" : "Henkels & McCoy, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "800.622.5577"
+}
+, {
+  "site_name" : "John F. Kennedy High School - H.S. 475",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.877210772673564",
+    "human_address" : "{\"address\":\"99 Terrace View Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10463\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91213621128965"
+  },
+  "agency" : "Henkels & McCoy, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "800.622.5577"
+}
+, {
+  "site_name" : "Mosholu Montefiore Community Center, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.87877505492227",
+    "human_address" : "{\"address\":\"3400 Reservoir Oval\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10467\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87563356258636"
+  },
+  "agency" : "Mosholu Montefiore Community Center, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.882.4000"
+}
+, {
+  "site_name" : "Christopher Columbus High School - H.S. 415",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.859680011813644",
+    "human_address" : "{\"address\":\"925 Astor Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10469\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.86106256531913"
+  },
+  "agency" : "Henkels & McCoy, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "800.622.5577"
+}
+, {
+  "site_name" : "Adlai E. Stevenson High School - H.S. 450",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.82225901265785",
+    "human_address" : "{\"address\":\"1980 Lafayette Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10473\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85628678256198"
+  },
+  "agency" : "Episcopal Social Services, of New York, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.886.5602"
+}
+, {
+  "site_name" : "Jacob A. Riis Neighborhood Settlement, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"10 25 41st Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225"
+  },
+  "agency" : "Jacob A. Riis Neighborhood Settlement, Inc.",
+  "borough_community" : "Queens",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.744.7447"
+}
+, {
+  "site_name" : "LaGuardia Community College",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"31 10 Thomson Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225"
+  },
+  "agency" : "Research Foundation of CUNY/LaGuardia Community College",
+  "borough_community" : "Queens",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.270.6908"
+}
+, {
+  "site_name" : "Hellenic American Neighborhood Action Committee (HANAC)",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.77152402451418",
+    "human_address" : "{\"address\":\"23 16 30th Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11102\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92643545073543"
+  },
+  "agency" : "Hellenic American Neighborhood Action Committee (HANAC)",
+  "borough_community" : "Queens",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.840.8005"
+}
+, {
+  "site_name" : "Sunnyside Community Service, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.74489336663561",
+    "human_address" : "{\"address\":\"43 31 39th Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11104\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92054134530679"
+  },
+  "agency" : "Sunnyside Community Service, Inc.",
+  "borough_community" : "Queens",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.784.6173"
+}
+, {
+  "site_name" : "Public School 181 - John Steptoe School",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.648253402034975",
+    "human_address" : "{\"address\":\"1023 New York Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11203\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94634447537274"
+  },
+  "agency" : "Research Foundation of CUNY on behalf of Medgar Evers College",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.270.6908"
+}
+, {
+  "site_name" : "Intermediate School 232 - Winthrop School",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.65845142217417",
+    "human_address" : "{\"address\":\"905 Winthrop Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11203\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92913135988232"
+  },
+  "agency" : "Sesame Flyers International, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.693.0500"
+}
+, {
+  "site_name" : "Sesame Flyers International, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.65104606617694",
+    "human_address" : "{\"address\":\"3510 Church Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11203\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9446401676269"
+  },
+  "agency" : "Sesame Flyers International, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.693.0500"
+}
+, {
+  "site_name" : "East NY Development Corporation",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.67565526230447",
+    "human_address" : "{\"address\":\"2644 Atlantic Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89675297527339"
+  },
+  "agency" : "East NY Development Corporation",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.566.2129"
+}
+, {
+  "site_name" : "Franklin K. Lane High School - H.S. 420",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.6907285274162",
+    "human_address" : "{\"address\":\"999 Jamaica Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11208\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87016567362916"
+  },
+  "agency" : "Cypress Hills Local Development Corporation",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.647.2800"
+}
+, {
+  "site_name" : "Beth Chana, Ltd",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.721582628685766",
+    "human_address" : "{\"address\":\"712 Bedford Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11222\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.953734870062"
+  },
+  "agency" : "National Society For Hebrew Day Schools",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.227.1000"
+}
+, {
+  "site_name" : "Bnos Ahavas Israel Viznitz",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.72531118436204",
+    "human_address" : "{\"address\":\"12 Franklin Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11222\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95751636662311"
+  },
+  "agency" : "National Society For Hebrew Day Schools",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.227.1000"
+}
+, {
+  "site_name" : "Asociaciones Dominicanas, Inc",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.706434807769",
+    "human_address" : "{\"address\":\"202 Union Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11211\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95033181160849"
+  },
+  "agency" : "Asociaciones Dominicanas, Inc",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.247.2929"
+}
+, {
+  "site_name" : "Jewish Community Council of Greater Coney Island, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.573273749723825",
+    "human_address" : "{\"address\":\"3001 37th Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11224\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00249064003097"
+  },
+  "agency" : "Jewish Community Council of Greater Coney Island, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.449.5000"
+}
+, {
+  "site_name" : "P.S. 138",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.674353675202426",
+    "human_address" : "{\"address\":\"760 Prospect Place\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11216\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95141196170016"
+  },
+  "agency" : "Research Foundation of CUNY on behalf of Medgar Evers College",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.270.6908"
+}
+, {
+  "site_name" : "Bedford Stuyvesant Restoration Corporation",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.68016709769277",
+    "human_address" : "{\"address\":\"1368 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11216\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94592248315027"
+  },
+  "agency" : "Bedford Stuyvesant Restoration Corporation",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.636.6931"
+}
+, {
+  "site_name" : "Public School 1 - Bergen Elementary School",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.64919427766737",
+    "human_address" : "{\"address\":\"309 47 Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.01249722815565"
+  },
+  "agency" : "SCO Family of Services",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "516.671.1253"
+}
+, {
+  "site_name" : "Public School 314 - Luis Munoz Marin Elementary School",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.64220161479856",
+    "human_address" : "{\"address\":\"330 59th Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.0191758017247"
+  },
+  "agency" : "SCO Family of Services",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "516.671.1253"
+}
+, {
+  "site_name" : "Chinese-American Planning Council, Inc/Brooklyn Branch",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.64613150332472",
+    "human_address" : "{\"address\":\"4101 8th Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11232\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99844270592891"
+  },
+  "agency" : "Chinese American Planning Council",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.941.0920"
+}
+, {
+  "site_name" : "The International High School @ Prospect Heights (K524)",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.67045865769921",
+    "human_address" : "{\"address\":\"883 Classon Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11225\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96162827573441"
+  },
+  "agency" : "Chinese American Planning Council",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.941.0920"
+}
+, {
+  "site_name" : "Middle School 2",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.6561968174429",
+    "human_address" : "{\"address\":\"655 Parkside Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11226\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95158492978685"
+  },
+  "agency" : "Research Foundation of CUNY on behalf of Medgar Evers College",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.270.6908"
+}
+, {
+  "site_name" : "Bais Yaakov Academy",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.72426648164826",
+    "human_address" : "{\"address\":\"2 Franklin Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11222\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95768334814491"
+  },
+  "agency" : "National Society For Hebrew Day Schools",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.227.1000"
+}
+, {
+  "site_name" : "SCO Family Services/Center for Family Life",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.6510383207887",
+    "human_address" : "{\"address\":\"345 43rd Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11232\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.0095131568878"
+  },
+  "agency" : "SCO Family of Services",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "516.671.1253"
+}
+, {
+  "site_name" : "Junior High School 136 - Charles O. Dewey",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.65208990853318",
+    "human_address" : "{\"address\":\"4004 4th Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11232\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00688510833078"
+  },
+  "agency" : "SCO Family of Services",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "516.671.1253"
+}
+, {
+  "site_name" : "Ridgewood Bushwick Youth Center",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.69784030864716",
+    "human_address" : "{\"address\":\"1474 Gates Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11237\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91383248246076"
+  },
+  "agency" : "Ridgewood Bushwick Senior Citizens Council, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.381.9653"
+}
+, {
+  "site_name" : "Italian American Civil Rights League (Italian American Civil",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.64607779528712",
+    "human_address" : "{\"address\":\"1460 Pennsylvania Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11239\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87995018190169"
+  },
+  "agency" : "Italian American Civil Rights League (Italian American Civil",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.642.2857"
+}
+, {
+  "site_name" : "Public School 346 - Abe Stark Elementary School",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.64752174991216",
+    "human_address" : "{\"address\":\"1400 Pennsylvania Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11239\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88154676244247"
+  },
+  "agency" : "Italian American Civil Rights League (Italian American Civil",
+  "borough_community" : "Brooklyn",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.642.2857"
+}
+, {
+  "site_name" : "Flushing High School - H.S. 460",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.76862022064671",
+    "human_address" : "{\"address\":\"35 01 Union Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11354\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82719028070687"
+  },
+  "agency" : "Sports & Arts In Schools Foundation, Inc.",
+  "borough_community" : "Queens",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.786.7110"
+}
+, {
+  "site_name" : "Chinese American Planning Council",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.76862022064671",
+    "human_address" : "{\"address\":\"136 18 39th Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11354\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82719028070687"
+  },
+  "agency" : "Chinese American Planning Council",
+  "borough_community" : "Queens",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.941.0920"
+}
+, {
+  "site_name" : "Intermediate School 168 - Parsons School",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.72816440726166",
+    "human_address" : "{\"address\":\"158 40 76th Road\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11366\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79226817393703"
+  },
+  "agency" : "Queens Child Guidance Center",
+  "borough_community" : "Queens",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.651.7770"
+}
+, {
+  "site_name" : "Elmcor Youth and Adult Activities, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.749678220373596",
+    "human_address" : "{\"address\":\"33 16 108th Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11368\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85304068857687"
+  },
+  "agency" : "Elmcor Youth & Adult Activities, Inc.",
+  "borough_community" : "Queens",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.651.0096"
+}
+, {
+  "site_name" : "Greater Ridgewood Youth Council, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.70122489161548",
+    "human_address" : "{\"address\":\"62 04 Myrtle Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11385\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88334858436963"
+  },
+  "agency" : "Greater Ridgewood Youth Council, Inc.",
+  "borough_community" : "Queens",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.456.5437"
+}
+, {
+  "site_name" : "Intermediate School 93 - Ridgewood Intermediate School",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.70122489161548",
+    "human_address" : "{\"address\":\"66 56 Forest Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11385\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88334858436963"
+  },
+  "agency" : "Greater Ridgewood Youth Council, Inc.",
+  "borough_community" : "Queens",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.456.5437"
+}
+, {
+  "site_name" : "Foster-Laurie",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.69812711747255",
+    "human_address" : "{\"address\":\"199 10 112th Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11412\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.75923519834566"
+  },
+  "agency" : "Police Athletic League, Inc.",
+  "borough_community" : "Queens",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.477.6504"
+}
+, {
+  "site_name" : "Intermediate School 72 - Catherine & Count Basie School",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.6769452621142",
+    "human_address" : "{\"address\":\"133 25 Guy R Brewer Boulevard\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11434\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.77530690169215"
+  },
+  "agency" : "Queens Child Guidance Center",
+  "borough_community" : "Queens",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.651.7770"
+}
+, {
+  "site_name" : "Police Athletic League, Inc",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.6769452621142",
+    "human_address" : "{\"address\":\"116 25 Guy R Brewer Boulevard\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11434\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.77530690169215"
+  },
+  "agency" : "Police Athletic League, Inc.",
+  "borough_community" : "Queens",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "212.477.6504"
+}
+, {
+  "site_name" : "New Spirit II, Inc. -- Youth Center",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.698104881734935",
+    "human_address" : "{\"address\":\"162 04 South Road\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11433\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.7875740339145"
+  },
+  "agency" : "New Spirit II, Inc.",
+  "borough_community" : "Queens",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.712.1100"
+}
+, {
+  "site_name" : "Rockaway Development & Revitalization Corporation",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.6038795254241",
+    "human_address" : "{\"address\":\"1920 Mott Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11691\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.7521789315517"
+  },
+  "agency" : "Rockaway Development & Revitalization Corporation",
+  "borough_community" : "Queens",
+  "program" : "In-School Youth Employment (ISY)",
+  "grade_level_age_group" : "High School",
+  "contact_number" : "718.327.5300"
+}
+ ]

@@ -1,0 +1,31 @@
+[ {
+  "x_coordinate" : "983130.4",
+  "drop_off_site_location" : "605 West 30th Street, between 11th and 12th Avenues, opposite Manhattan 6 Garage",
+  "borough" : "Manhattan",
+  "y_coordinate" : "213727.9"
+}
+, {
+  "x_coordinate" : "985633.4",
+  "drop_off_site_location" : "1824 Shore Parkway, between 25th Avenue and Bay 41st Street, adjacent to Brooklyn South 11 Garage",
+  "borough" : "Brooklyn",
+  "y_coordinate" : "154770.8"
+}
+, {
+  "x_coordinate" : "1026496.5",
+  "drop_off_site_location" : "120-15 31st Avenue, College Point, adjacent to Queens East 7 Garage",
+  "borough" : "Queens",
+  "y_coordinate" : "220158.6"
+}
+, {
+  "x_coordinate" : "1018856.6",
+  "drop_off_site_location" : "Farragut and Halleck Streets, opposite the Hunts Point Food Cooperative",
+  "borough" : "Bronx",
+  "y_coordinate" : "231988.9"
+}
+, {
+  "x_coordinate" : "930589.5",
+  "drop_off_site_location" : "Foot of Muldoon Avenue, off the West Shore Expressway, adjacent to Staten Island 3 Garage",
+  "borough" : "Staten Island",
+  "y_coordinate" : "145667.5"
+}
+ ]

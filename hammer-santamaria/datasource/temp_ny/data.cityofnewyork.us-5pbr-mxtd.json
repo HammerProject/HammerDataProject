@@ -1,0 +1,385 @@
+[ {
+  "zip" : "11372",
+  "location_1" : {
+    "latitude" : "40.63321052232864",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.03512771634607"
+  },
+  "hours" : "Open January 18 through January 27, 2016<br>Monday - Friday: 10:00AM - 6:00PM",
+  "city" : "Jackson Height",
+  "address1" : "37-32 75th St, 1st Fl",
+  "name" : "Queens- Council Member Daniel Dromm's Office",
+  "id" : "1915",
+  "type" : "temporary"
+}
+, {
+  "zip" : "11355",
+  "location_1" : {
+    "latitude" : "40.751765041774895",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82033118614775"
+  },
+  "hours" : "Open February 16 through March 2, 2017<br>Monday - Friday: 8:40am - 4pm",
+  "city" : "Flushing",
+  "address1" : "45-25 Kissena Boulevard",
+  "name" : "Queens - SelfHelp Innovative Center",
+  "id" : "1942"
+}
+, {
+  "zip" : "11432",
+  "location_1" : {
+    "latitude" : "40.70786470347101",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79529508734025"
+  },
+  "hours" : "Monday - Thursday: 9:00am - 8:00pm<br>Friday: 9:00am - 7:00pm<br>Saturday: 10:00am - 5:00pm<br>Sunda",
+  "address2" : "(at 89th Ave and Merrick Blvd)",
+  "city" : "Queens",
+  "address1" : "89-11 Merrick Blvd",
+  "name" : "Queens - Central Library in Jamaica",
+  "id" : "1059",
+  "type" : "permanent"
+}
+, {
+  "zip" : "10009",
+  "location_1" : {
+    "latitude" : "40.72079680690595",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97815251110715"
+  },
+  "hours" : "Open February 6 through February 24, 2017<br>Monday - Friday: 9:00AM  -  5:00PM",
+  "city" : "New York",
+  "address1" : "25-29 Avenue D",
+  "name" : "Manhattan - Educational Alliance, Center for Recovery and Wellness",
+  "id" : "1941",
+  "type" : "tempoary"
+}
+, {
+  "zip" : "10458",
+  "location_1" : {
+    "latitude" : "40.86327596882396",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89421972525903"
+  },
+  "hours" : "Mon, Tue, Wed, Thu, Fri: 9:00am - 7:00pm<br>Sat: 9:00am - 6:00pm <br>Sun: 12:00pm - 6:00pm",
+  "address2" : "(at Kingsbridge and Briggs)",
+  "city" : "Bronx",
+  "address1" : "310 East Kingsbridge Road",
+  "name" : "Bronx - Bronx Library Center",
+  "id" : "1001",
+  "type" : "permanent"
+}
+, {
+  "zip" : "11355",
+  "location_1" : {
+    "latitude" : "40.70297127195531",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99066969278635"
+  },
+  "hours" : "Monday - Thursday: 9:00am - 8:00pm<br>Friday: 9:00am - 7:00pm<br>Saturday: 10:00am - 5:00pm<br>Sunda",
+  "address2" : "(at 41st Rd and Main St)",
+  "city" : "Flushing",
+  "address1" : "41-17 Main Street",
+  "name" : "Queens - Flushing Library",
+  "id" : "1000",
+  "type" : "permanent"
+}
+, {
+  "zip" : "10032",
+  "location_1" : {
+    "latitude" : "40.839281640096964",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.939852152795"
+  },
+  "hours" : "Mon, Tue, Fri: 9:00am - 4:00pm<br>Wed: 9:00am - 1:00pm<br>Thu: 9:00am - 6:00pm<br>Sat: 10:00am - 2:0",
+  "address2" : "(at W 166th St and St. Nicholas Ave)",
+  "city" : "New York",
+  "address1" : "1112 St. Nicholas Avenue, 1st Floor",
+  "name" : "Manhattan - Neighborhood Trust Federal Credit Union",
+  "id" : "1004",
+  "type" : "permanent"
+}
+, {
+  "zip" : "11220",
+  "location_1" : {
+    "latitude" : "40.64198546227264",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00211154341248"
+  },
+  "hours" : "Tue, Wed, Thu, Fri, Sat: 9:00am - 5:00pm",
+  "city" : "Brooklyn",
+  "address1" : "807 48th Street, 2nd  Floor",
+  "name" : "Brooklyn - Asian Americans for Equality",
+  "id" : "1606",
+  "type" : "permanent"
+}
+, {
+  "zip" : "10029",
+  "location_1" : {
+    "latitude" : "40.79775498573124",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94169916010283"
+  },
+  "hours" : "Mon-Fri: 9:00am-5:00pm",
+  "city" : "New York",
+  "address1" : "158 East 115 Street",
+  "name" : "Manhattan - East Harlem Health Center",
+  "id" : "1613",
+  "type" : "permanent"
+}
+, {
+  "zip" : "10016",
+  "location_1" : {
+    "latitude" : "40.75200256210046",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9819536631412"
+  },
+  "hours" : "Monday - Friday 9:00am - 7:00pm<br>Saturday and Sunday: 10:00am - 4:00pm<br>",
+  "address2" : "(at E 40th St and 5th Ave)",
+  "city" : "New York",
+  "address1" : "455 5th Avenue, 4th Fl.",
+  "name" : "Manhattan - Mid-Manhattan Library",
+  "id" : "1002",
+  "type" : "permanent"
+}
+, {
+  "zip" : "10301",
+  "location_1" : {
+    "latitude" : "40.64070761118535",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.0776968338444"
+  },
+  "hours" : "Mon-Fri: 8:30am-4:30pm",
+  "address2" : "(at St Marks Pl and Hyatt St)",
+  "city" : "Staten Island",
+  "address1" : "350 St. Marks Place, 1st Floor",
+  "name" : "Staten Island - Department of Finance",
+  "id" : "996",
+  "type" : "permanent"
+}
+, {
+  "zip" : "10457",
+  "location_1" : {
+    "latitude" : "40.84568430802062",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89329351020154"
+  },
+  "hours" : "Open January 23 through February 3, 2017<br>Monday through Friday: 9:00am - 5:00pm",
+  "city" : "Bronx",
+  "address1" : "1932 Arthur Ave, Room 403-A",
+  "name" : "Bronx - Community Board 6",
+  "id" : "1936",
+  "type" : "temporary"
+}
+, {
+  "zip" : "10013",
+  "location_1" : {
+    "latitude" : "40.716083373805745",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00142489229653"
+  },
+  "hours" : "Mon, Wed, Thu, Fri: 9:00am - 5:00pm<br>Tue: 10:00am - 6:00pm",
+  "city" : "New York",
+  "address1" : "100 Centre Street, 14th Floor",
+  "name" : "Manhattan - Centre Street Office (Manhattan Criminal Court)",
+  "id" : "1593",
+  "type" : "permanent"
+}
+, {
+  "zip" : "11238",
+  "location_1" : {
+    "latitude" : "40.67283265706228",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96906924545588"
+  },
+  "hours" : "Monday-Saturday: 9:00am - 6:00pm<br>Sunday: 1:00pm - 5:00pm<br>",
+  "address2" : "(at Eastern Parkway and Flatbush Ave)",
+  "city" : "Brooklyn",
+  "address1" : "10 Grand Army Plaza",
+  "name" : "Brooklyn - Central Library at Grand Army Plaza",
+  "id" : "1003",
+  "type" : "permanent"
+}
+, {
+  "zip" : "10451",
+  "location_1" : {
+    "latitude" : "40.81774009596526",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92415579586793"
+  },
+  "hours" : "Monday - Friday: 8:00am - 4:00pm",
+  "address2" : "(entrance on Morris Avenue)",
+  "city" : "Bronx",
+  "address1" : "234 East 149th Street, 2nd Floor",
+  "name" : "Bronx - Lincoln Hospital",
+  "id" : "1293",
+  "type" : "permanent"
+}
+, {
+  "zip" : "10455",
+  "location_1" : {
+    "latitude" : "40.81985683303061",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91326756784316"
+  },
+  "hours" : "Mon-Fri: 8:30am - 4:30pm",
+  "address2" : "(at E156th St and Third Ave)",
+  "city" : "Bronx",
+  "address1" : "3030 Third Avenue, 2nd Fl",
+  "name" : "Bronx - Department of Finance",
+  "id" : "999",
+  "type" : "permanent"
+}
+, {
+  "zip" : "10030",
+  "location_1" : {
+    "latitude" : "40.814996949038964",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94091816662647"
+  },
+  "hours" : "Open February 28 through March 17, 2017<br>Monday and Tuesday: 10:00AM-6:30PM<br>Wednesday: 10:00AM-",
+  "city" : "New York",
+  "address1" : "104 W 136th Street",
+  "name" : "Manhattan - Countee Cullen Library",
+  "id" : "1943"
+}
+, {
+  "zip" : "11372",
+  "location_1" : {
+    "latitude" : "40.754178318973715",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8722313267847"
+  },
+  "hours" : "Mon-Fri: 8:30am-5:00pm",
+  "address2" : "(at 34th Road and Junction Blvd)",
+  "city" : "Jackson Heights",
+  "address1" : "34-33 Junction Blvd., Lower Level",
+  "name" : "Queens - DOHMH Corona IDNYC Center",
+  "id" : "1285",
+  "type" : "permanent"
+}
+, {
+  "zip" : "11201",
+  "location_1" : {
+    "latitude" : "40.692458799168385",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9904908616587"
+  },
+  "hours" : "Mon-Fri: 8:30-4:30pm",
+  "address2" : "(at Joralemon St and Court St)",
+  "city" : "Brooklyn",
+  "address1" : "210 Joralemon Street, 1st Floor",
+  "name" : "Brooklyn - Department of Finance",
+  "id" : "995",
+  "type" : "permanent"
+}
+, {
+  "zip" : "11233",
+  "location_1" : {
+    "latitude" : "40.68495920444568",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91489970550558"
+  },
+  "hours" : "Open January 5 through Jan 12, 2017<br>Monday 10am  -  6pm<br>Tuesday 10am  -  8pm<br>Wednesday 1pm",
+  "city" : "Brooklyn",
+  "address1" : "8 Thomas S. Boyland Street",
+  "name" : "Brooklyn - Saratoga Library",
+  "id" : "1935",
+  "type" : "temporary"
+}
+, {
+  "zip" : "11224",
+  "location_1" : {
+    "latitude" : "40.578355962423494",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97632716517158"
+  },
+  "hours" : "Mon-Fri: 9:00am-5:00pm",
+  "city" : "Brooklyn",
+  "address1" : "2865 West 8th Street, 1st Floor",
+  "name" : "Brooklyn - Coney Island IDNYC Center",
+  "id" : "1295",
+  "type" : "permanent"
+}
+, {
+  "zip" : "10473",
+  "location_1" : {
+    "latitude" : "40.81841650409519",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.86301077830767"
+  },
+  "hours" : "Open February 7 through February 23, 2017<br>Monday, Tuesday: 10:00 AM - 6:30 PM<br>Wednesday, Thurs",
+  "city" : "Bronx",
+  "address1" : "660 Sound View Avenue",
+  "name" : "Bronx - Soundview Library",
+  "id" : "1628"
+}
+, {
+  "zip" : "10038",
+  "location_1" : {
+    "latitude" : "40.708933026165674",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.007614240468"
+  },
+  "hours" : "Mon-Fri: 8:30am-4:30pm",
+  "address2" : "(at John St and William St)",
+  "city" : "New York",
+  "address1" : "66 John Street, 2nd Floor",
+  "name" : "Manhattan - Department of Finance",
+  "id" : "993",
+  "type" : "permanent"
+}
+, {
+  "zip" : "11230",
+  "location_1" : {
+    "latitude" : "40.63113593591006",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96645857722152"
+  },
+  "hours" : "Open February 15 through March 3, 2017<br>Monday - Friday: 900AM - 5:00PM",
+  "city" : "Brooklyn",
+  "address1" : "1077 Coney Island Ave",
+  "name" : "Brooklyn- Council of Peoples Organization",
+  "id" : "1940",
+  "type" : "temporary"
+}
+, {
+  "zip" : "11101",
+  "location_1" : {
+    "latitude" : "40.664682076752385",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.998835732781"
+  },
+  "hours" : "Monday: 9:00am  -  8:00pm<br>Tuesday: 1:00pm  -  6:00 pm<br>Wednesday: 10:00am  -  6:00pm<br>Thursda",
+  "city" : "Long Island City",
+  "address1" : "37-44 21st Street",
+  "name" : "Queens -  Long Island City Community Library",
+  "id" : "1907",
+  "type" : "permanent"
+}
+ ]

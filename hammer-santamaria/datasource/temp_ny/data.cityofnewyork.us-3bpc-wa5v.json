@@ -1,0 +1,64 @@
+[ {
+  "_percent_of_total_1" : "68.50%",
+  "gender" : "Male",
+  "_number_3" : "8007",
+  "_number_4" : "7355",
+  "_number_5" : "7709",
+  "_percent_of_total_2" : "69.70%",
+  "_percent_of_total_3" : "70.70%",
+  "_number_1" : "6428",
+  "_percent_of_total_4" : "70.20%",
+  "_number_2" : "7743",
+  "_percent_of_total_5" : "70.50%",
+  "_yr_percent_of_subtotal" : "70.00%",
+  "_yr_number" : "37242"
+}
+, {
+  "_percent_of_total_1" : "31.50%",
+  "gender" : "Female",
+  "_number_3" : "3324",
+  "_number_4" : "3124",
+  "_number_5" : "3223",
+  "_percent_of_total_2" : "30.30%",
+  "_percent_of_total_3" : "29.30%",
+  "_number_1" : "2958",
+  "_percent_of_total_4" : "29.80%",
+  "_number_2" : "3360",
+  "_percent_of_total_5" : "29.50%",
+  "_yr_percent_of_subtotal" : "30.00%",
+  "_yr_number" : "15989"
+}
+, {
+  "_percent_of_total_1" : "100.00%",
+  "gender" : "Subtotal",
+  "_number_3" : "11331",
+  "_number_4" : "10479",
+  "_number_5" : "10932",
+  "_percent_of_total_2" : "100.00%",
+  "_percent_of_total_3" : "100.00%",
+  "_number_1" : "9386",
+  "_percent_of_total_4" : "100.00%",
+  "_number_2" : "11103",
+  "_percent_of_total_5" : "100.00%",
+  "_yr_percent_of_subtotal" : "100.00%",
+  "_yr_number" : "53231"
+}
+, {
+  "gender" : "Unknown",
+  "_number_3" : "935",
+  "_number_4" : "865",
+  "_number_5" : "891",
+  "_number_1" : "659",
+  "_number_2" : "863",
+  "_yr_number" : "4213"
+}
+, {
+  "gender" : "Total",
+  "_number_3" : "12266",
+  "_number_4" : "11344",
+  "_number_5" : "11823",
+  "_number_1" : "10045",
+  "_number_2" : "11966",
+  "_yr_number" : "57444"
+}
+ ]

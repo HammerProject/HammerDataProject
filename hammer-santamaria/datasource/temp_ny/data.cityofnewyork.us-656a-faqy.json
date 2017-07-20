@@ -1,0 +1,1786 @@
+[ {
+  "business_name" : "Rocio's Bakery ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"501 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-384-0773"
+}
+, {
+  "business_name" : "New Apolo Restaurant",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"502 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-1773"
+}
+, {
+  "business_name" : "Flash Haircuts Unisex",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"503 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-782-4246"
+}
+, {
+  "business_name" : "Open Grill 24/7 Deli",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"505 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-599-0937"
+}
+, {
+  "business_name" : "Williams & Bailey",
+  "website" : {
+    "url" : "http://www.willliamsandbaileyny.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"507 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-782-3500"
+}
+, {
+  "business_name" : "Redd's Tavern ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"511 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-218-9429"
+}
+, {
+  "business_name" : "Singa's Famous Pizza",
+  "website" : {
+    "url" : "http://www.singaspizzas.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"512 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-782-2100"
+}
+, {
+  "business_name" : "Curry Heaven, Inc.",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"513 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-3021"
+}
+, {
+  "business_name" : "Lee's Furniture",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"517 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-2743"
+}
+, {
+  "business_name" : "Grand Animal Clinic",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"518 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-4746"
+}
+, {
+  "business_name" : "Sun Win Hardware Electrical and Pluming",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"521 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-302-8861"
+}
+, {
+  "business_name" : "Sun Nail & Hair",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"522 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-599-9251"
+}
+, {
+  "business_name" : "Mega Furniture Warehouse",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"524 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-218-8050"
+}
+, {
+  "business_name" : "United Pharmacy",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"527 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-384-7901"
+}
+, {
+  "business_name" : "Le Barricou",
+  "website" : {
+    "url" : "http://lebarricou.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"533 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-782-7372"
+}
+, {
+  "business_name" : "Franczoz Baking Corp",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"528 40 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-4741"
+}
+, {
+  "business_name" : "Great Wall Products (iron works supply)",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"541 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-782-0288"
+}
+, {
+  "business_name" : "Tai Shan Laundromat",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"543 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-599-3888"
+}
+, {
+  "business_name" : "Iglesia Mision Pentecostal",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"544 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  }
+}
+, {
+  "business_name" : "Kingdom Toys & Gift",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"547 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-599-0014"
+}
+, {
+  "business_name" : "Payomatic Financial Servcies",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"553 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-3377"
+}
+, {
+  "business_name" : "Live Astro",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"552 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "347-574-8600"
+}
+, {
+  "business_name" : "Fresthentic",
+  "website" : {
+    "url" : "http://www.fresthetic.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"552 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "347-394-2909"
+}
+, {
+  "business_name" : "Truval Cleaners",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"555 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-486-7639"
+}
+, {
+  "business_name" : "Seven Star Beauty Salon",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"556 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-218-8484"
+}
+, {
+  "business_name" : "Ontario",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"559 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-302-9675"
+}
+, {
+  "business_name" : "Rebelution Designs (custom printing)",
+  "website" : {
+    "url" : "http://www.rebelutiondesigns.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"560 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "917-971-3433"
+}
+, {
+  "business_name" : "Grand Street Food Deli",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"561 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-599-5940"
+}
+, {
+  "business_name" : "Desi's Clam Bar",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"562 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "347-599-0267"
+}
+, {
+  "business_name" : "America Medical Clinic ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"563 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-302-1170, 718-302-1109"
+}
+, {
+  "business_name" : "Kin Shoe Repair",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"566 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-782-0074"
+}
+, {
+  "business_name" : "Taj Cabob and Curry",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"568 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-782-1722"
+}
+, {
+  "business_name" : "Manna",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"572 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-384-2122"
+}
+, {
+  "business_name" : "Key Food",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"575 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-2776"
+}
+, {
+  "business_name" : "Sing Hing Chinese Restaurant",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"576 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-0446"
+}
+, {
+  "business_name" : "Paradise Laundromat",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"578 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-2888"
+}
+, {
+  "business_name" : "Bahn Mi",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"580 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-599-5015"
+}
+, {
+  "business_name" : "Fabric Barn Inc.",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"582 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-384-3448"
+}
+, {
+  "business_name" : "Elba Dominican Beauty Salon",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"584 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-5897"
+}
+, {
+  "business_name" : "Nail Essence",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"586 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-218-9772"
+}
+, {
+  "business_name" : "Huckleberry Bar",
+  "website" : {
+    "url" : "http://www.huckleberrybar.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"588 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718 218-8555"
+}
+, {
+  "business_name" : "Naturally Healthy",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"594 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-599-7527"
+}
+, {
+  "business_name" : "Genao Restaurant",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"596 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-963-6938"
+}
+, {
+  "business_name" : "Grand Liquor",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"598 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-599-3878"
+}
+, {
+  "business_name" : "Grand Street Bakery",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"602 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-2390"
+}
+, {
+  "business_name" : "Papa John's",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"604 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-7272"
+}
+, {
+  "business_name" : "Diogenes Almonte, MD",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"608 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-8400"
+}
+, {
+  "business_name" : "Brookridge Realty",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"611 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-782-2020"
+}
+, {
+  "business_name" : "Asian Bok Choy, Inc. (Chinese Wholesale)",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"612 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-1009"
+}
+, {
+  "business_name" : "The Saint Austere",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"613 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-0012"
+}
+, {
+  "business_name" : "Family Dental Center Ramakrishnan Vasanthi, MD ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"614 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-384-6455"
+}
+, {
+  "business_name" : "Lily Thai",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"615 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-218-7522"
+}
+, {
+  "business_name" : "Affinity Cycles",
+  "website" : {
+    "url" : "http://www.affinitycycles.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"616 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718.384.5181"
+}
+, {
+  "business_name" : "Ooba Bar/Restaurant",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"617 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "347-335-0373"
+}
+, {
+  "business_name" : "Bushwick Country Club ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"618 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718.388.2114"
+}
+, {
+  "business_name" : "Grand 99¢ ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"619 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-1206"
+}
+, {
+  "business_name" : "Red House (Chinese Restaurant)",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"622 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-8111"
+}
+, {
+  "business_name" : "Willburg Café",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"623 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-963-0219"
+}
+, {
+  "business_name" : "Sunday Love",
+  "website" : {
+    "url" : "http://www.sundaylove.biz"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"624 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "347-457-5453"
+}
+, {
+  "business_name" : "Ahn Houseware and Hardware",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"627 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-6050"
+}
+, {
+  "business_name" : "Denim Hut ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"629 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-4276"
+}
+, {
+  "business_name" : "Hachi Asian Bistro",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"631 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-218-9888"
+}
+, {
+  "business_name" : "O-T Real Estate",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"632 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-2288"
+}
+, {
+  "business_name" : "Lady Jay's",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"633 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-1029"
+}
+, {
+  "business_name" : "Baby Talk",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"635 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-384-2221"
+}
+, {
+  "business_name" : "Porto Rico Importing Company",
+  "website" : {
+    "url" : "http://www.portorico.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"636 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-782-1200"
+}
+, {
+  "business_name" : "Blue Angel Wine",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"638 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "(917) 753-6240 [Pari Passu Realty Office]"
+}
+, {
+  "business_name" : "Associated Supermarket",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"639 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-6938"
+}
+, {
+  "business_name" : "La Nacional",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"640 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-1792"
+}
+, {
+  "business_name" : "Vilda Saludable Healthy Life",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"644 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "347-520-7164"
+}
+, {
+  "business_name" : "Aladdin Brokerage Corp.",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"646 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-5906"
+}
+, {
+  "business_name" : "Ju-Na Fashion",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"648A Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-486-7431, 347-563-4966"
+}
+, {
+  "business_name" : "Bird Shop",
+  "website" : {
+    "url" : "http://www.paradisebirdshop.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"648 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "917-435-0232"
+}
+, {
+  "business_name" : "Dental Office: Josefa Parra-Levin DDS PC",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"648-D Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-384-4009"
+}
+, {
+  "business_name" : "Jerry's Pizzeria",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"649 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-384-7680"
+}
+, {
+  "business_name" : "Family and Cosmetic Dentistry-Howard A. Silver DDS",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"649 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-486-8900"
+}
+, {
+  "business_name" : "United Tae Kwon Do",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"653 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-384-8700"
+}
+, {
+  "business_name" : "To The World Farm",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"655 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-218-8120"
+}
+, {
+  "business_name" : "State Farm Insurance",
+  "website" : {
+    "url" : "http://www.markbutleragency.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"658 Grand St\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-3892"
+}
+, {
+  "business_name" : "Acisclo Plastic Cover",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"658 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-782-5472"
+}
+, {
+  "business_name" : "Andres DeLeon Handmade Cigars",
+  "website" : {
+    "url" : "http://www.andresdeleoncigars.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"658B Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "347-799-1688"
+}
+, {
+  "business_name" : "The Second Chance Saloon",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"659 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-4411"
+}
+, {
+  "business_name" : "Unique Beauty",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"660 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-782-9353"
+}
+, {
+  "business_name" : "7 Color Trading (Special Gift)",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"663 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "347-296-4228"
+}
+, {
+  "business_name" : "Bonilla Brothers Laundromat and Dry Cleaning",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"664 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-599-1150"
+}
+, {
+  "business_name" : "Grand Street Health Building Grand Street Medical and Silver A Howard DDS",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"666 8 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-486-8900/718-963-0555"
+}
+, {
+  "business_name" : "GST Pharmacy",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"669 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-963-1018"
+}
+, {
+  "business_name" : "Big Apple Deli",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"671 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-1624"
+}
+, {
+  "business_name" : "Q & A Services",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"672 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-782-8802"
+}
+, {
+  "business_name" : "Sisto Pharmacy (farmacia jente)",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"675 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-2665"
+}
+, {
+  "business_name" : "Blooming Cleaners",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"676 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-302-4045"
+}
+, {
+  "business_name" : "Grand Immediate Family Care Robert A. Zane, DPM & A Benchabbat, MD",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"678 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-3814 & 718-218-8357"
+}
+, {
+  "business_name" : "Ziby Fashion",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"679 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "no phone"
+}
+, {
+  "business_name" : "Hilda's Beauty Salon",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"682 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718 384-8632"
+}
+, {
+  "business_name" : "Zeus (Tattoo Shop)",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"682 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718.302.0094"
+}
+, {
+  "business_name" : "Gustavo Medina, Law Office (2nd Fl.)",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"682 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-782-0100"
+}
+, {
+  "business_name" : "L P'n Harmony (bar)",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"683 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "no phone"
+}
+, {
+  "business_name" : "Metro Sleek Design  (furniture)",
+  "website" : {
+    "url" : "http://Downtownfurniturenyc.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"686 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-599-1877"
+}
+, {
+  "business_name" : "Bahia Restaurant ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"690 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-218-9592"
+}
+, {
+  "business_name" : "Rainbow ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"693 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-302-3825"
+}
+, {
+  "business_name" : "Gem",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"695 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-9002"
+}
+, {
+  "business_name" : "Metro PCS",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"696 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "347-223-4108"
+}
+, {
+  "business_name" : "L.M. Orthodontics",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"700 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-486-7600"
+}
+, {
+  "business_name" : "New Himal Nails & Spa",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"700 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718 387-1033"
+}
+, {
+  "business_name" : "Tex-Mex Pizza Grill",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"702 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-302-6649"
+}
+, {
+  "business_name" : "5 Minute Discount",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"703 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-8998"
+}
+, {
+  "business_name" : "Los Primos Restaurant ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"704 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-486-8449"
+}
+, {
+  "business_name" : "Flores Del Valle",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"706 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718 384-6464"
+}
+, {
+  "business_name" : "Baron Medical Supply",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"709 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718 486-6164"
+}
+, {
+  "business_name" : "Active Wearhouse",
+  "website" : {
+    "url" : "http://www.activewearhousenyc.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"710 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718 599-6198"
+}
+, {
+  "business_name" : "Electronics Repair Center",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"711 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-2744"
+}
+, {
+  "business_name" : "Grand Electronics & Appliances",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"714 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718 302-3656"
+}
+, {
+  "business_name" : "Versaly Jewelry Inc.",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"716 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-486-8800"
+}
+, {
+  "business_name" : "Monica's Threading",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"716A Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718 388-8810"
+}
+, {
+  "business_name" : "Subway (Fast Food Restaurant) ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"717 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-218-8383 "
+}
+, {
+  "business_name" : "Wyckoff Heights Medical Center/Kings Optical/New York Eye Care",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"719 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-5200"
+}
+, {
+  "business_name" : "Express Deli & Grocery",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"720 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-384-1973"
+}
+, {
+  "business_name" : "Farmer Deli * Grocery",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"723 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-599-0661"
+}
+, {
+  "business_name" : "Tmobile",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"725 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-384-4093"
+}
+, {
+  "business_name" : "Chase",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"726 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "717-384-5320"
+}
+, {
+  "business_name" : "Grand Morelos Mexican Bakery",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"727 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-218-9441"
+}
+, {
+  "business_name" : "Super 99 Cents",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"731 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-902-3868"
+}
+, {
+  "business_name" : "Edwin Travel Agency Inc",
+  "website" : {
+    "url" : "http://www.edwintravel.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"733 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-782-4212"
+}
+, {
+  "business_name" : "McDonald's ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"741 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "1-800-244-6227"
+}
+, {
+  "business_name" : "Williamsburg Construction Corp",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"748 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-569-0089"
+}
+, {
+  "business_name" : "Modern Nail Salon",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"749 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-599-5591"
+}
+, {
+  "business_name" : "Family Dental Office ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"749 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-7007"
+}
+, {
+  "business_name" : "Grand Billiard & Café",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"750 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-384-4230"
+}
+, {
+  "business_name" : "Absolute Power",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"750 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-4711"
+}
+, {
+  "business_name" : "H & R Block",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"754 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-302-1491"
+}
+, {
+  "business_name" : "Lucky Wolf Tattoo",
+  "website" : {
+    "url" : "http://luckywolftattoo.tumbler.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"755 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-1472"
+}
+, {
+  "business_name" : "Sprint",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"755 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-0100"
+}
+, {
+  "business_name" : "New Hong Kong Kitchen ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"756 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-1331"
+}
+, {
+  "business_name" : "Williamsburg Pet Clinic ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"760 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718 302-2420"
+}
+, {
+  "business_name" : "Stingray Divers",
+  "website" : {
+    "url" : "http://www.stingraydivers.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"762 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-384-1280, 718 302-0465"
+}
+, {
+  "business_name" : "Medical Office",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"765 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-7283"
+}
+, {
+  "business_name" : "765 Grand Cleaners",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"765 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-599-3758"
+}
+, {
+  "business_name" : "Moe's Deli",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"766 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-6170"
+}
+, {
+  "business_name" : "Luna Unisex Beauty Salon",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"769 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718 388-3844"
+}
+, {
+  "business_name" : "C&C Pet Supplies, Inc.",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"769A Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718 782-5122"
+}
+, {
+  "business_name" : "Grand Street Laundromat",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"770 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-486-0019"
+}
+, {
+  "business_name" : "Camporese Hardware",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"771 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-782-8167, 917 833-9456"
+}
+, {
+  "business_name" : "DMS RX, Inc. Unity Drugs",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"772 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-486-0344"
+}
+, {
+  "business_name" : "Carol's Bridal ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"773 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-486-7928"
+}
+, {
+  "business_name" : "Cedeno Driving School",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"775 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-384-0450"
+}
+, {
+  "business_name" : "Up 2 Par",
+  "website" : {
+    "url" : "http://www.up2parstore.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"775 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-599-8880"
+}
+, {
+  "business_name" : "Super 99 Cents",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"779 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-599-8880"
+}
+, {
+  "business_name" : "Liberty Department Stores Inc",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"780 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-782-0719"
+}
+, {
+  "business_name" : "Alex Shoe Repair",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"783 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-302-0829"
+}
+, {
+  "business_name" : "Decor Nails ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"783 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-5242"
+}
+, {
+  "business_name" : "Bravo Supermarket",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"785 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "347 889-6279"
+}
+, {
+  "business_name" : "Cellular & Game Channel",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"790 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-302-3130"
+}
+, {
+  "business_name" : "Exito 83 Unisex Salon",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"791 B Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718 387-0425"
+}
+, {
+  "business_name" : "Grand Jewelry ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"791 A Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718 384-1695"
+}
+, {
+  "business_name" : "T.A.C. Taxpreplus",
+  "website" : {
+    "url" : "http://www.taxpreplus.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"793 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718 302-4944"
+}
+, {
+  "business_name" : "#8 Lucky Family Discount Co.",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"794 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "no phone"
+}
+, {
+  "business_name" : "Sri Thai Café",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"795 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718 388-7787"
+}
+, {
+  "business_name" : "Liberty Tax Service",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"796 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718 387-8325"
+}
+, {
+  "business_name" : "An Gift Shop",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"796 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "no phone"
+}
+, {
+  "business_name" : "Lula Bean",
+  "website" : {
+    "url" : "http://www.lulabeancafe.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"797 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-599-5852"
+}
+, {
+  "business_name" : "Grand Vision Eyewear",
+  "website" : {
+    "url" : "http://grandvisioneyewear.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"799 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-576-2380"
+}
+, {
+  "business_name" : "Dominican Bakery",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"800 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718.384.1995"
+}
+, {
+  "business_name" : "FresCo Tortillas ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"800 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-218-8340"
+}
+, {
+  "business_name" : "Shiree Record Shop",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"801 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "no phone"
+}
+, {
+  "business_name" : "Crown Grill and Salad",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"802 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-384-5900"
+}
+, {
+  "business_name" : "B&H Check Cashing, Inc.",
+  "website" : {
+    "url" : "http://718checks.com"
+  },
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"805 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-7375"
+}
+, {
+  "business_name" : "Dunkin Donuts",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"809 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-335-6845"
+}
+, {
+  "business_name" : "David's Italia Best Pizza",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"810 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-388-8210"
+}
+, {
+  "business_name" : "Grand Deli and Grocery",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"810 Grand\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "no phone"
+}
+, {
+  "business_name" : "Richie's Wine & Liquor",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"812 Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-387-2228"
+}
+, {
+  "business_name" : "An's Seafood & Fish Market ",
+  "address" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"98 Bushwick Ave (corner-Grand Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "tel" : "718-218-8189"
+}
+, {
+  "business_name" : "T & A Deli & Grocery",
+  "address" : {
+    "latitude" : "40.71214853777747",
+    "human_address" : "{\"address\":\"90 Bushwick Ave\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94081510287731"
+  },
+  "tel" : "718-782-3975"
+}
+ ]

@@ -1,0 +1,73 @@
+[ {
+  "street_homeless_population" : "3111",
+  "city" : {
+    "human_address" : "{\"address\":\"\",\"city\":\"New York City\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "general_population" : "8363710",
+  "ratio_of_unsheltered_homeless_to_general_population" : "1 in 2,688 "
+}
+, {
+  "street_homeless_population" : "24915",
+  "city" : {
+    "human_address" : "{\"address\":\"\",\"city\":\"Los Angeles, CA\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "general_population" : "3833995",
+  "ratio_of_unsheltered_homeless_to_general_population" : "1 in 154 "
+}
+, {
+  "street_homeless_population" : "2709",
+  "city" : {
+    "human_address" : "{\"address\":\"\",\"city\":\"San Francisco, CA\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "general_population" : "808976",
+  "ratio_of_unsheltered_homeless_to_general_population" : "1 in 299 "
+}
+, {
+  "street_homeless_population" : "1986",
+  "city" : {
+    "human_address" : "{\"address\":\"\",\"city\":\"Seattle, WA\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "general_population" : "598541",
+  "ratio_of_unsheltered_homeless_to_general_population" : "1 in 301 "
+}
+, {
+  "street_homeless_population" : "411",
+  "city" : {
+    "human_address" : "{\"address\":\"\",\"city\":\"Miami, FL\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "general_population" : "413201",
+  "ratio_of_unsheltered_homeless_to_general_population" : "1 in 1005 "
+}
+, {
+  "street_homeless_population" : "1576",
+  "city" : {
+    "human_address" : "{\"address\":\"\",\"city\":\"Chicago, IL\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "general_population" : "2853114",
+  "ratio_of_unsheltered_homeless_to_general_population" : "1 in 1,810 "
+}
+, {
+  "street_homeless_population" : "321",
+  "city" : {
+    "human_address" : "{\"address\":\"\",\"city\":\"Washington, DC\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "general_population" : "591833",
+  "ratio_of_unsheltered_homeless_to_general_population" : "1 in 1,844 "
+}
+, {
+  "street_homeless_population" : "219",
+  "city" : {
+    "human_address" : "{\"address\":\"\",\"city\":\"Boston\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "general_population" : "609023",
+  "ratio_of_unsheltered_homeless_to_general_population" : "1 in 2,781 "
+}
+ ]

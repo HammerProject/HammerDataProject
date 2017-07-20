@@ -1,0 +1,2355 @@
+[ {
+  "business_name" : "Afrikart",
+  "street_address" : "295 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.688161839643605",
+    "human_address" : "{\"address\":\"295 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.981872296889"
+  },
+  "website" : "no website ",
+  "business_category" : "Apparel & Footwear",
+  "phone" : "718-935-0458"
+}
+, {
+  "business_name" : "American Apparel",
+  "street_address" : "112 Court Street",
+  "location_1" : {
+    "latitude" : "40.690338406639405",
+    "human_address" : "{\"address\":\"112 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99209349040228"
+  },
+  "website" : "www.americanapparel.com",
+  "business_category" : "Apparel & Footwear",
+  "hours_sat" : "11am - 10pm",
+  "phone" : "718-855-4627",
+  "hours_mon_fri" : "F 11am - 10pm, 11am - 9pm",
+  "hours_sun" : "11am - 9pm"
+}
+, {
+  "business_name" : "Brooklyn Uniform Center",
+  "street_address" : "206 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68964544631397",
+    "human_address" : "{\"address\":\"206 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98587721241563"
+  },
+  "business_category" : "Apparel & Footwear",
+  "phone" : "718-875-7780"
+}
+, {
+  "business_name" : "Express Shoe Store & Repair",
+  "street_address" : "370 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.6874886886924",
+    "human_address" : "{\"address\":\"370 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98030723325142"
+  },
+  "website" : "no website ",
+  "business_category" : "Apparel & Footwear",
+  "phone" : "718-596-6921"
+}
+, {
+  "business_name" : "Eyvette Boutique",
+  "street_address" : "60 Court Street",
+  "location_1" : {
+    "latitude" : "40.69207212084573",
+    "human_address" : "{\"address\":\"60 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99125678089091"
+  },
+  "website" : "no website ",
+  "business_category" : "Apparel & Footwear",
+  "phone" : "718-254-9208"
+}
+, {
+  "business_name" : "Fulany Fashions",
+  "street_address" : "301 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.688074661614394",
+    "human_address" : "{\"address\":\"301 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98164404895796"
+  },
+  "business_category" : "Apparel & Footwear",
+  "phone" : "718-246-3777"
+}
+, {
+  "business_name" : "Gourd-Chips, Inc.",
+  "street_address" : "113A Court Street",
+  "location_1" : {
+    "latitude" : "40.69056870270664",
+    "human_address" : "{\"address\":\"113A Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99190225542351"
+  },
+  "website" : "www.gourdchips.com",
+  "business_category" : "Apparel & Footwear",
+  "phone" : "718-797-5236"
+}
+, {
+  "business_name" : "Marseille Fashion",
+  "street_address" : "342 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.687759636266755",
+    "human_address" : "{\"address\":\"342 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98100119842678"
+  },
+  "business_category" : "Apparel & Footwear",
+  "hours_sat" : "9am - 9pm",
+  "phone" : "718-855-2442",
+  "hours_mon_fri" : "9am - 9pm",
+  "hours_sun" : "9am - 9pm"
+}
+, {
+  "business_name" : "Poison Lady",
+  "street_address" : "293 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.688190898986676",
+    "human_address" : "{\"address\":\"293 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98194837953268"
+  },
+  "business_category" : "Apparel & Footwear",
+  "phone" : "718-522-1751"
+}
+, {
+  "business_name" : "Porta Bella",
+  "street_address" : "320 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68810262122939",
+    "human_address" : "{\"address\":\"320 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98187796904244"
+  },
+  "website" : "www.portabellastores.com",
+  "business_category" : "Apparel & Footwear",
+  "hours_sat" : "9:30am - 7pm",
+  "phone" : "718-892-8997",
+  "hours_mon_fri" : "9:30am - 7pm",
+  "hours_sun" : "10am - 6pm"
+}
+, {
+  "business_name" : "Pulse Cncpt",
+  "street_address" : "358 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68751235884906",
+    "human_address" : "{\"address\":\"358 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98038162517233"
+  },
+  "website" : "www.pulsenyc.com",
+  "business_category" : "Apparel & Footwear",
+  "hours_sat" : "10:30am - 9pm",
+  "phone" : "347-725-3923",
+  "hours_mon_fri" : "M-Th 10:30am - 8:30pm; F 10:30am - 9pm",
+  "hours_sun" : "Noon - 7pm"
+}
+, {
+  "business_name" : "Super Runner Shop",
+  "street_address" : "123 Court Street",
+  "location_1" : {
+    "latitude" : "40.69023100353827",
+    "human_address" : "{\"address\":\"123 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11202\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99206627377903"
+  },
+  "website" : "www.superrunnersshop.com",
+  "business_category" : "Apparel & Footwear",
+  "phone" : "718-858-8550"
+}
+, {
+  "business_name" : "Tempo",
+  "street_address" : "56 Court Street",
+  "location_1" : {
+    "latitude" : "40.692196389982534",
+    "human_address" : "{\"address\":\"56 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99119596833461"
+  },
+  "business_category" : "Apparel & Footwear",
+  "phone" : "718-403-0629"
+}
+, {
+  "business_name" : "Bail Bonds",
+  "street_address" : "21 Smith Street, 2nd floor",
+  "location_1" : {
+    "latitude" : "40.69086806738895",
+    "human_address" : "{\"address\":\"21 Smith Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98762803166429"
+  },
+  "business_category" : "Bail Bonds",
+  "phone" : "718-681-5933"
+}
+, {
+  "business_name" : "Empire Bail Bonds",
+  "street_address" : "92 Court Street",
+  "location_1" : {
+    "latitude" : "40.6910157160615",
+    "human_address" : "{\"address\":\"92 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9917693721289"
+  },
+  "website" : "www.bailempire.com",
+  "business_category" : "Bail Bonds",
+  "phone" : "718-858-1111"
+}
+, {
+  "business_name" : "NY Bail",
+  "street_address" : "75 Smith Street",
+  "location_1" : {
+    "latitude" : "40.68921104652358",
+    "human_address" : "{\"address\":\"75 Smith Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98869581088861"
+  },
+  "business_category" : "Bail Bonds",
+  "hours_sat" : "8:30am - 2am",
+  "hours_mon_fri" : "8:30am - 2am",
+  "hours_sun" : "8:30am - 2am"
+}
+, {
+  "business_name" : "ABRS Check Cashing",
+  "street_address" : "92 Court Street",
+  "location_1" : {
+    "latitude" : "40.6910157160615",
+    "human_address" : "{\"address\":\"92 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9917693721289"
+  },
+  "business_category" : "Banking",
+  "phone" : "718-875-0057"
+}
+, {
+  "business_name" : "Banco Popular",
+  "street_address" : "66 Court Street",
+  "location_1" : {
+    "latitude" : "40.69188571710734",
+    "human_address" : "{\"address\":\"66 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9913479997416"
+  },
+  "website" : "www.mypopularbanking.com",
+  "business_category" : "Banking",
+  "hours_sat" : "closed",
+  "phone" : "718-596-1352",
+  "hours_mon_fri" : "Th 9am 6pm, 9am - 3pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Brooklyn Federal Savings",
+  "street_address" : "81 Court Street",
+  "location_1" : {
+    "latitude" : "40.691571647391974",
+    "human_address" : "{\"address\":\"81 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99142251526149"
+  },
+  "website" : "www.brooklynbank.com",
+  "business_category" : "Banking",
+  "hours_sat" : "8:30am - 1pm",
+  "phone" : "718-855-8500",
+  "hours_mon_fri" : "F 8:30am - 6pm, 8:30am - 3:30pm",
+  "hours_sun" : "closed"
+}
+, {
+  "business_name" : "Carver Federal Savings",
+  "street_address" : "111 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.69109687573092",
+    "human_address" : "{\"address\":\"111 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98955322065659"
+  },
+  "website" : "www.carverbank.com",
+  "business_category" : "Banking",
+  "phone" : "718-230-2900"
+}
+, {
+  "business_name" : "Chase Bank",
+  "street_address" : "101 Court Street",
+  "location_1" : {
+    "latitude" : "40.690966023179186",
+    "human_address" : "{\"address\":\"101 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99171627562784"
+  },
+  "website" : "www.chase.com",
+  "business_category" : "Banking",
+  "hours_sat" : "10am - 10:30pm",
+  "phone" : "718-643-0048",
+  "hours_mon_fri" : "F 8am - 10:30pm; 8am - 9:30pm",
+  "hours_sun" : "12pm - 8pm"
+}
+, {
+  "business_name" : "Chase Bank",
+  "street_address" : "20 Flatbush Avenue",
+  "location_1" : {
+    "latitude" : "40.68843613755975",
+    "human_address" : "{\"address\":\"20 Flatbush Avenue\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98074588731704"
+  },
+  "website" : "www.chase.com",
+  "business_category" : "Banking",
+  "phone" : "718-858-5305"
+}
+, {
+  "business_name" : "Chase-ATM",
+  "street_address" : "86 Court Street",
+  "location_1" : {
+    "latitude" : "40.691231150791715",
+    "human_address" : "{\"address\":\"86 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99166428201663"
+  },
+  "website" : "www.chase.com",
+  "business_category" : "Banking",
+  "hours_sat" : "24 hours",
+  "hours_mon_fri" : "24 hours",
+  "hours_sun" : "24 hours"
+}
+, {
+  "business_name" : "Check Cashing",
+  "street_address" : "44 Hoyt Street",
+  "location_1" : {
+    "latitude" : "40.68923788862916",
+    "human_address" : "{\"address\":\"44 Hoyt Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9860406589291"
+  },
+  "business_category" : "Banking",
+  "phone" : "718-522-0774"
+}
+, {
+  "business_name" : "Esquire Bank",
+  "street_address" : "64 Court Street",
+  "location_1" : {
+    "latitude" : "40.691947851708925",
+    "human_address" : "{\"address\":\"64 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9913175934472"
+  },
+  "website" : "www.esquirebank.com",
+  "business_category" : "Banking",
+  "hours_sat" : "closed",
+  "phone" : "718-222-5066",
+  "hours_mon_fri" : "8:30am - 4:00pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Sovereign Bank",
+  "street_address" : "215 Atlantic Avenue",
+  "location_1" : {
+    "latitude" : "40.68965435116201",
+    "human_address" : "{\"address\":\"215 Atlantic Avenue\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99217031538377"
+  },
+  "website" : "www.soverignbank.com",
+  "business_category" : "Banking",
+  "hours_sat" : "9am - 1pm",
+  "phone" : "718-637-2205",
+  "hours_mon_fri" : "M 9am - 6pm, 9am - 5pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Afrik Elegance",
+  "street_address" : "310 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68823937106766",
+    "human_address" : "{\"address\":\"310 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98223600498265"
+  },
+  "business_category" : "Beauty Services",
+  "phone" : "718-260-8050"
+}
+, {
+  "business_name" : "Amy Nail & Salon",
+  "street_address" : "303 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68804560227132",
+    "human_address" : "{\"address\":\"303 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98156796631427"
+  },
+  "website" : "no website ",
+  "business_category" : "Beauty Services",
+  "phone" : "718-222-1848"
+}
+, {
+  "business_name" : "Black Elegance",
+  "street_address" : "46 Hoyt Street",
+  "location_1" : {
+    "latitude" : "40.68917495605284",
+    "human_address" : "{\"address\":\"46 Hoyt Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98608386636957"
+  },
+  "business_category" : "Beauty Services",
+  "phone" : "347-471-8805"
+}
+, {
+  "business_name" : "C's Beauty World Salon",
+  "street_address" : "305 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68801654292825",
+    "human_address" : "{\"address\":\"305 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9814918836706"
+  },
+  "business_category" : "Beauty Services",
+  "phone" : "718-624-7739"
+}
+, {
+  "business_name" : "Designer Nail Salon",
+  "street_address" : "344 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68772159494492",
+    "human_address" : "{\"address\":\"344 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98090651780353"
+  },
+  "website" : "no website ",
+  "business_category" : "Beauty Services",
+  "hours_sat" : "9am - 8pm",
+  "phone" : "718-243-1864",
+  "hours_mon_fri" : "M-Th 9am - 7:30pm; F 9am - 8pm",
+  "hours_sun" : "11am - 6pm"
+}
+, {
+  "business_name" : "Diallo Hair Braiding",
+  "street_address" : "301 Livingston Street, 2nd Floor",
+  "location_1" : {
+    "latitude" : "40.688074661614394",
+    "human_address" : "{\"address\":\"301 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98164404895796"
+  },
+  "website" : "no website ",
+  "business_category" : "Beauty Services",
+  "phone" : "347-247-2627"
+}
+, {
+  "business_name" : "Foye Princess Braiding",
+  "street_address" : "322 Livingston Street, 2nd Floor",
+  "location_1" : {
+    "latitude" : "40.688075271251094",
+    "human_address" : "{\"address\":\"322 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98180636182654"
+  },
+  "business_category" : "Beauty Services",
+  "phone" : "718-858-2738"
+}
+, {
+  "business_name" : "Fulton (Viva) Beauty Supply",
+  "street_address" : "8 Nevins Street",
+  "location_1" : {
+    "latitude" : "40.68849730515488",
+    "human_address" : "{\"address\":\"8 Nevins Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98103511967234"
+  },
+  "business_category" : "Beauty Services",
+  "hours_sat" : "9:30am-7:30pm",
+  "phone" : "718-522-7475 ",
+  "hours_mon_fri" : "9:30am-7:30pm",
+  "hours_sun" : "closed"
+}
+, {
+  "business_name" : "Hair Heaven",
+  "street_address" : "308 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68826672103708",
+    "human_address" : "{\"address\":\"308 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98230761217535"
+  },
+  "website" : "www.hairheavennyc.com",
+  "business_category" : "Beauty Services",
+  "hours_sat" : "10am - 7pm",
+  "phone" : "718-875-3576",
+  "hours_mon_fri" : "M-W 10am - 7pm; Th 10am - 7:30pm; F 10am - 8pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Heads Up Barber Shop",
+  "street_address" : "18 Nevins Street",
+  "location_1" : {
+    "latitude" : "40.6882400272718",
+    "human_address" : "{\"address\":\"18 Nevins Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98122223086004"
+  },
+  "business_category" : "Beauty Services",
+  "phone" : "718-246-2550"
+}
+, {
+  "business_name" : "Honey Cosmetics",
+  "street_address" : "310 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68823937106766",
+    "human_address" : "{\"address\":\"310 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98223600498265"
+  },
+  "business_category" : "Beauty Services",
+  "hours_sat" : "10am - 8pm",
+  "phone" : "718-855-7287",
+  "hours_mon_fri" : "M-Th 10am - 7:30pm; F 10am - 8pm",
+  "hours_sun" : "11am - 6pm"
+}
+, {
+  "business_name" : "J & J Sunshine (Lans Hair &) Nail Salon",
+  "street_address" : "368 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.687492633719124",
+    "human_address" : "{\"address\":\"368 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98031963190682"
+  },
+  "business_category" : "Beauty Services",
+  "hours_sat" : "10am - 7pm",
+  "phone" : "718-875-6571",
+  "hours_mon_fri" : "10am - 7pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Mama Senalgese Braiding",
+  "street_address" : "255 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68879868636235",
+    "human_address" : "{\"address\":\"255 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98352667294718"
+  },
+  "business_category" : "Beauty Services"
+}
+, {
+  "business_name" : "Nu Expressions Hair salon",
+  "street_address" : "314 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.6881846711288",
+    "human_address" : "{\"address\":\"314 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98209279059729"
+  },
+  "business_category" : "Beauty Services",
+  "hours_sat" : "10am - 6:30pm",
+  "phone" : "718-237-9991",
+  "hours_mon_fri" : "10am - 6:30pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Park Nail Spa",
+  "street_address" : "210 State Street",
+  "location_1" : {
+    "latitude" : "40.690224456499365",
+    "human_address" : "{\"address\":\"210 State Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99176187669438"
+  },
+  "business_category" : "Beauty Services",
+  "hours_sat" : "10am - 8pm",
+  "phone" : "718-935-1119",
+  "hours_mon_fri" : "10am - 8pm",
+  "hours_sun" : "11am - 7:30pm"
+}
+, {
+  "business_name" : "Tatyana's Nail Salon",
+  "street_address" : "85 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.691487621155595",
+    "human_address" : "{\"address\":\"85 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99094525123202"
+  },
+  "business_category" : "Beauty Services",
+  "hours_sat" : "9am-8pm",
+  "phone" : "718-855-1522",
+  "hours_mon_fri" : "9am-8pm",
+  "hours_sun" : "9am-8pm"
+}
+, {
+  "business_name" : "Top Nail",
+  "street_address" : "312 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68821202108936",
+    "human_address" : "{\"address\":\"312 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98216439776675"
+  },
+  "business_category" : "Beauty Services",
+  "hours_sat" : "9:30am - 8pm",
+  "phone" : "718-246-9063",
+  "hours_mon_fri" : "9:30am - 8pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Ynobee Studio 05",
+  "street_address" : "346 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68768355362308",
+    "human_address" : "{\"address\":\"346 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98081183718028"
+  },
+  "business_category" : "Beauty Services",
+  "hours_sat" : "10am - 7pm",
+  "phone" : "718-522-3901",
+  "hours_mon_fri" : "10am - 7pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Barclay School Supply",
+  "street_address" : "166 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.69028438349771",
+    "human_address" : "{\"address\":\"166 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9874978348599"
+  },
+  "website" : "www.barclayschoolsupplies.com",
+  "business_category" : "Book Stores",
+  "phone" : "718-875-2424"
+}
+, {
+  "business_name" : "Barnes and Noble",
+  "street_address" : "106 Court Street",
+  "location_1" : {
+    "latitude" : "40.69056843299655",
+    "human_address" : "{\"address\":\"106 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99197930108195"
+  },
+  "website" : "www.barnesandnoble.com",
+  "business_category" : "Book Stores",
+  "hours_sat" : "9am - 11pm",
+  "phone" : "718-246-4996",
+  "hours_mon_fri" : "9am - 11pm",
+  "hours_sun" : "10am - 10pm"
+}
+, {
+  "business_name" : "Bell Tower Christian Gift & Bookstore",
+  "street_address" : "163 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.69029639989092",
+    "human_address" : "{\"address\":\"163 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98736819414891"
+  },
+  "website" : "www.belltoweronline.com",
+  "business_category" : "Book Stores",
+  "phone" : "718-290-2100"
+}
+, {
+  "business_name" : "Official Connection, Inc.",
+  "street_address" : "316 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.688157321150506",
+    "human_address" : "{\"address\":\"316 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98202118338138"
+  },
+  "business_category" : "Book Stores",
+  "hours_sat" : "10am - 7 pm",
+  "phone" : "718-488-0006",
+  "hours_mon_fri" : "10am - 7pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Hanover  Place Learning Center",
+  "street_address" : "15 Hanover Place",
+  "location_1" : {
+    "latitude" : "40.688840530386095",
+    "human_address" : "{\"address\":\"15 Hanover Place\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98238547826749"
+  },
+  "website" : "www.hanoverchildcare.com",
+  "business_category" : "Child Care",
+  "phone" : "718-246-1479"
+}
+, {
+  "business_name" : "NYC Explorers",
+  "street_address" : "110 Schermerhorn Street",
+  "location_1" : {
+    "latitude" : "40.6901764883832",
+    "human_address" : "{\"address\":\"110 Schermerhorn Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98923820966998"
+  },
+  "business_category" : "Child Care"
+}
+, {
+  "business_name" : ".99 Store",
+  "street_address" : "328 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68799322135168",
+    "human_address" : "{\"address\":\"328 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98159154027171"
+  },
+  "business_category" : "Discount",
+  "hours_sat" : "9am - 8pm",
+  "hours_mon_fri" : "9am - 8pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Goodwill Store & Donation Center",
+  "street_address" : "258 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68893087041469",
+    "human_address" : "{\"address\":\"258 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9840271165258"
+  },
+  "website" : "www.goodwill.org",
+  "business_category" : "Discount",
+  "hours_sat" : "10am - 7pm",
+  "phone" : "718-330-0218",
+  "hours_mon_fri" : "10am - 8pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Webers Closeout Center",
+  "street_address" : "39 Bond Street",
+  "location_1" : {
+    "latitude" : "40.688497975088374",
+    "human_address" : "{\"address\":\"39 Bond Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.983726820184"
+  },
+  "business_category" : "Discount",
+  "phone" : "718-292-3605"
+}
+, {
+  "business_name" : "200 Dry Cleaners ",
+  "street_address" : "193 Schermerhorn Street",
+  "location_1" : {
+    "latitude" : "40.68909462227068",
+    "human_address" : "{\"address\":\"193 Schermerhorn Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9862692750753"
+  },
+  "business_category" : "Dry Cleaners / Tailors",
+  "hours_sat" : "8am - 9pm",
+  "phone" : "718-855-1116",
+  "hours_mon_fri" : "M-Th 8am-10pm, F 8am - 9pm",
+  "hours_sun" : "8am-9pm"
+}
+, {
+  "business_name" : "200 Dry Cleaners ",
+  "street_address" : "200-4 Schermerhorn Street",
+  "location_1" : {
+    "latitude" : "40.68231210132245",
+    "human_address" : "{\"address\":\"200 4 Schermerhorn Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97956718857483"
+  },
+  "business_category" : "Dry Cleaners / Tailors",
+  "hours_sat" : "8am - 9pm",
+  "phone" : "718-855-1122",
+  "hours_mon_fri" : "M-Th 8am-10pm, F 8am - 9pm",
+  "hours_sun" : "8am-9pm"
+}
+, {
+  "business_name" : "Bridge Cleaners & Tailors",
+  "street_address" : "204 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68967848132722",
+    "human_address" : "{\"address\":\"204 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98596077156681"
+  },
+  "website" : "www.bridgecleaners.com",
+  "business_category" : "Dry Cleaners / Tailors",
+  "phone" : "718-625-1446"
+}
+, {
+  "business_name" : "Downtown Cleaners",
+  "street_address" : "84 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.69147528293147",
+    "human_address" : "{\"address\":\"84 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99110955639823"
+  },
+  "business_category" : "Dry Cleaners / Tailors",
+  "phone" : "718-403-9300"
+}
+, {
+  "business_name" : "Mr. Rafaels Dry Cleaners & Tailoring",
+  "street_address" : "105 Court Street",
+  "location_1" : {
+    "latitude" : "40.69083358302672",
+    "human_address" : "{\"address\":\"105 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9917782688907"
+  },
+  "website" : "www.drycleanny.com",
+  "business_category" : "Dry Cleaners / Tailors",
+  "phone" : "718-858-5833"
+}
+, {
+  "business_name" : "Paramount Tailors",
+  "street_address" : "312 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68821202108936",
+    "human_address" : "{\"address\":\"312 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98216439776675"
+  },
+  "business_category" : "Dry Cleaners / Tailors",
+  "hours_sat" : "9am - 7pm",
+  "phone" : "718-852-4489",
+  "hours_mon_fri" : "9am - 7pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Game Champ",
+  "street_address" : "6 Nevins Street",
+  "location_1" : {
+    "latitude" : "40.68854876073915",
+    "human_address" : "{\"address\":\"6 Nevins Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98099769742923"
+  },
+  "business_category" : "Electronics"
+}
+, {
+  "business_name" : "Gamestop",
+  "street_address" : "116A Court Street",
+  "location_1" : {
+    "latitude" : "40.69015967281151",
+    "human_address" : "{\"address\":\"116A Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99217561135023"
+  },
+  "website" : "www.gamestop.com",
+  "business_category" : "Electronics",
+  "hours_sat" : "10am - 8pm",
+  "phone" : "718-488-0641",
+  "hours_mon_fri" : "10am - 8pm",
+  "hours_sun" : "11am - 6pm"
+}
+, {
+  "business_name" : "One Stop Mobile",
+  "street_address" : "255 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68879868636235",
+    "human_address" : "{\"address\":\"255 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98352667294718"
+  },
+  "website" : "www.t-mobile.com",
+  "business_category" : "Electronics",
+  "phone" : "718-624-4700"
+}
+, {
+  "business_name" : "Radio Shack",
+  "street_address" : "118 Court Street",
+  "location_1" : {
+    "latitude" : "40.690070305891595",
+    "human_address" : "{\"address\":\"118 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99221667182695"
+  },
+  "website" : "www.radioshack.com",
+  "business_category" : "Electronics",
+  "hours_sat" : "9am - 8pm",
+  "phone" : "718-855-5057",
+  "hours_mon_fri" : "9am - 8pm",
+  "hours_sun" : "11am - 7pm"
+}
+, {
+  "business_name" : "T-Mobile",
+  "street_address" : "76 Court Street",
+  "location_1" : {
+    "latitude" : "40.69159044813241",
+    "human_address" : "{\"address\":\"76 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99149043398637"
+  },
+  "website" : "www.t-mobile.com",
+  "business_category" : "Electronics",
+  "phone" : "718-488-5500"
+}
+, {
+  "business_name" : "Verizon Wireless",
+  "street_address" : "105 Court Street",
+  "location_1" : {
+    "latitude" : "40.69083358302672",
+    "human_address" : "{\"address\":\"105 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9917782688907"
+  },
+  "website" : "www.verizonwireless.com",
+  "business_category" : "Electronics",
+  "phone" : "718-625-7772"
+}
+, {
+  "business_name" : "Angelica Pizza & Restaurant",
+  "street_address" : "30 Nevins Street",
+  "location_1" : {
+    "latitude" : "40.687941266684575",
+    "human_address" : "{\"address\":\"30 Nevins Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98143780845336"
+  },
+  "business_category" : "Food Service",
+  "phone" : "718-852-2728"
+}
+, {
+  "business_name" : "B Lunch Bar",
+  "street_address" : "129 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.69080655800933",
+    "human_address" : "{\"address\":\"129 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98868481259358"
+  },
+  "business_category" : "Food Service",
+  "phone" : "718-522-4500"
+}
+, {
+  "business_name" : "Bella Pizza",
+  "street_address" : "208 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68961241133852",
+    "human_address" : "{\"address\":\"208 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98579365336009"
+  },
+  "business_category" : "Food Service",
+  "phone" : "718-624-3996"
+}
+, {
+  "business_name" : "Brooklyn Fare",
+  "street_address" : "200-1 Schermerhorn Street",
+  "location_1" : {
+    "latitude" : "40.69467825879468",
+    "human_address" : "{\"address\":\"200 1 Schermerhorn Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98992086835335"
+  },
+  "website" : "www.brooklynfare.com",
+  "business_category" : "Food Service",
+  "hours_sat" : "7am - 10pm",
+  "phone" : "718-243-0050",
+  "hours_mon_fri" : "7am - 10pm",
+  "hours_sun" : "8am - 9pm"
+}
+, {
+  "business_name" : "Brooklyn Fare Kitchen",
+  "street_address" : "200-3 Schermerhorn Street",
+  "location_1" : {
+    "latitude" : "40.69467825879468",
+    "human_address" : "{\"address\":\"200 3 Schermerhorn Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98992086835335"
+  },
+  "business_category" : "Food Service"
+}
+, {
+  "business_name" : "Checkers",
+  "street_address" : "111 Court Street",
+  "location_1" : {
+    "latitude" : "40.690634922775295",
+    "human_address" : "{\"address\":\"111 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99187125879563"
+  },
+  "website" : "www.checkers.com",
+  "business_category" : "Food Service",
+  "hours_sat" : "11m - 2am",
+  "phone" : "718-797-5333",
+  "hours_mon_fri" : "F 11am - 2am; 11am - 12am",
+  "hours_sun" : "11am - 12am"
+}
+, {
+  "business_name" : "Chunah Hing Chinese",
+  "street_address" : "48 Hoyt Street",
+  "location_1" : {
+    "latitude" : "40.689112023519726",
+    "human_address" : "{\"address\":\"48 Hoyt Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98612707378035"
+  },
+  "business_category" : "Food Service",
+  "phone" : "718-797-3188"
+}
+, {
+  "business_name" : "Chu's Gourmet",
+  "street_address" : "82 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.691502334538114",
+    "human_address" : "{\"address\":\"82 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99120592774689"
+  },
+  "business_category" : "Food Service",
+  "phone" : "718-260-8870"
+}
+, {
+  "business_name" : "Court Order",
+  "street_address" : "52 Court Street",
+  "location_1" : {
+    "latitude" : "40.692320620898926",
+    "human_address" : "{\"address\":\"52 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99113547975875"
+  },
+  "website" : "www.courtorderdeli.com",
+  "business_category" : "Food Service",
+  "phone" : "718-935-9300"
+}
+, {
+  "business_name" : "Dallas BBQ",
+  "street_address" : "180 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.690077690615844",
+    "human_address" : "{\"address\":\"180 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9869618756961"
+  },
+  "website" : "www.dallasbbq.com",
+  "business_category" : "Food Service",
+  "phone" : "718-643-5700"
+}
+, {
+  "business_name" : "Downtown Ale House",
+  "street_address" : "121 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.690915792944786",
+    "human_address" : "{\"address\":\"121 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98896336167901"
+  },
+  "website" : "www.downtownalehouse.com",
+  "business_category" : "Food Service",
+  "phone" : "347-457-5404"
+}
+, {
+  "business_name" : "Dunkin Donuts",
+  "street_address" : "56 Court Street",
+  "location_1" : {
+    "latitude" : "40.692196389982534",
+    "human_address" : "{\"address\":\"56 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99119596833461"
+  },
+  "website" : "www.dunkindonuts.com",
+  "business_category" : "Food Service",
+  "hours_sat" : "6:30am - 7:30pm",
+  "phone" : "718-625-2068",
+  "hours_mon_fri" : "M 12am - 5pm, 6:30am - 7:30pm",
+  "hours_sun" : "closed"
+}
+, {
+  "business_name" : "Dunkin Donuts",
+  "street_address" : "322 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.688075271251094",
+    "human_address" : "{\"address\":\"322 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98180636182654"
+  },
+  "website" : "www.dunkindonuts.com",
+  "business_category" : "Food Service",
+  "hours_sat" : "7am - 7:30pm",
+  "phone" : "718-788-7888",
+  "hours_mon_fri" : "6am - 7:30pm",
+  "hours_sun" : "7:30am - 7pm"
+}
+, {
+  "business_name" : "Fresco Tortilla Plus",
+  "street_address" : "113 Court Street",
+  "location_1" : {
+    "latitude" : "40.69056870270664",
+    "human_address" : "{\"address\":\"113 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99190225542351"
+  },
+  "business_category" : "Food Service",
+  "phone" : "718-237-3898"
+}
+, {
+  "business_name" : "Govinda's Luncheon",
+  "street_address" : "305 Schermerhorn Street",
+  "location_1" : {
+    "latitude" : "40.68750362425947",
+    "human_address" : "{\"address\":\"305 Schermerhorn Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98219907143293"
+  },
+  "website" : "www.radhagovinda108.com",
+  "business_category" : "Food Service",
+  "hours_sat" : "closed",
+  "phone" : "718-875-6127",
+  "hours_mon_fri" : "12pm - 3:30pm",
+  "hours_sun" : "closed"
+}
+, {
+  "business_name" : "Hero Shop",
+  "street_address" : "119 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.69094238222645",
+    "human_address" : "{\"address\":\"119 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9890359810318"
+  },
+  "business_category" : "Food Service",
+  "phone" : "718-834-8572"
+}
+, {
+  "business_name" : "IHOP",
+  "street_address" : "276 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68872067198442",
+    "human_address" : "{\"address\":\"276 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9834842768514"
+  },
+  "website" : "www.ihop.com",
+  "business_category" : "Food Service",
+  "hours_sat" : "24 Hr.",
+  "phone" : "718-222-4467",
+  "hours_mon_fri" : "M-Th 7am - Midnight; F 24hrs",
+  "hours_sun" : "Midnight - Midnight"
+}
+, {
+  "business_name" : "Jado's Pizza",
+  "street_address" : "90 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.691394128111554",
+    "human_address" : "{\"address\":\"90 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99082044235224"
+  },
+  "business_category" : "Food Service",
+  "phone" : "718-855-0110"
+}
+, {
+  "business_name" : "Jake's Wayback Burger",
+  "street_address" : "125 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.690861175472364",
+    "human_address" : "{\"address\":\"125 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98882408712434"
+  },
+  "business_category" : "Food Service",
+  "phone" : "718-935-9888"
+}
+, {
+  "business_name" : "Jung's Fish & Vegetable",
+  "street_address" : "297 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.688132780300535",
+    "human_address" : "{\"address\":\"297 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98179621424532"
+  },
+  "business_category" : "Food Service",
+  "phone" : "718-596-3578"
+}
+, {
+  "business_name" : "La Bagel Delight",
+  "street_address" : "90 Court Street",
+  "location_1" : {
+    "latitude" : "40.69108752763824",
+    "human_address" : "{\"address\":\"90 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99173434209148"
+  },
+  "website" : "www.labageldelight.com",
+  "business_category" : "Food Service",
+  "hours_sat" : "6am - 5pm",
+  "phone" : "718-522-0520",
+  "hours_mon_fri" : "6am - 6pm",
+  "hours_sun" : "6am - 4pm"
+}
+, {
+  "business_name" : "Livingston Diner",
+  "street_address" : "372 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68748474366794",
+    "human_address" : "{\"address\":\"372 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9802948346031"
+  },
+  "business_category" : "Food Service",
+  "hours_sat" : "5am-6pm",
+  "phone" : "718-522-6941",
+  "hours_mon_fri" : "5am - 6pm",
+  "hours_sun" : "closed"
+}
+, {
+  "business_name" : "McDonalds",
+  "street_address" : "82 Court Street",
+  "location_1" : {
+    "latitude" : "40.69137467872999",
+    "human_address" : "{\"address\":\"82 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99159432295792"
+  },
+  "website" : "www.mcdonalds.com",
+  "business_category" : "Food Service",
+  "phone" : "718-852-2626"
+}
+, {
+  "business_name" : "Metro King Café",
+  "street_address" : "16 Nevins Street",
+  "location_1" : {
+    "latitude" : "40.68829148284332",
+    "human_address" : "{\"address\":\"16 Nevins Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98118480862622"
+  },
+  "business_category" : "Food Service",
+  "hours_sat" : "8am - 6pm",
+  "phone" : "718-797-2178",
+  "hours_mon_fri" : "6:30am - 6:30pm",
+  "hours_sun" : "closed"
+}
+, {
+  "business_name" : "My Little Pizzeria",
+  "street_address" : "114 Court Street",
+  "location_1" : {
+    "latitude" : "40.69024903972546",
+    "human_address" : "{\"address\":\"114 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99213455087626"
+  },
+  "business_category" : "Food Service",
+  "phone" : "718-643-6120"
+}
+, {
+  "business_name" : "New Apollo Diner",
+  "street_address" : "155 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.69044433836474",
+    "human_address" : "{\"address\":\"155 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98775706099438"
+  },
+  "website" : "www.apollo-diner.com",
+  "business_category" : "Food Service",
+  "phone" : "718-858-5600"
+}
+, {
+  "business_name" : "O'Keefe's Bar & Grill",
+  "street_address" : "62 Court Street",
+  "location_1" : {
+    "latitude" : "40.69200998627733",
+    "human_address" : "{\"address\":\"62 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99128718716906"
+  },
+  "business_category" : "Food Service",
+  "phone" : "718-855-8751"
+}
+, {
+  "business_name" : "Papa Johns",
+  "street_address" : "290 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68851624791346",
+    "human_address" : "{\"address\":\"290 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98295707793154"
+  },
+  "website" : "www.papajohns.com",
+  "business_category" : "Food Service",
+  "hours_sat" : "11am - 1am",
+  "phone" : "718-596-7272",
+  "hours_mon_fri" : "M-Th 11am - Midnight; F 11am-1am",
+  "hours_sun" : "11am - Midnight"
+}
+, {
+  "business_name" : "Patty Plus",
+  "street_address" : "324 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.6880479212728",
+    "human_address" : "{\"address\":\"324 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98173475461064"
+  },
+  "business_category" : "Food Service",
+  "hours_sat" : "8am - 8pm",
+  "phone" : "718-522-7565",
+  "hours_mon_fri" : "8am - 8pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Popeyes",
+  "street_address" : "80 Court Street",
+  "location_1" : {
+    "latitude" : "40.69144660186413",
+    "human_address" : "{\"address\":\"80 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99155969330073"
+  },
+  "website" : "www.popeyes.com",
+  "business_category" : "Food Service",
+  "phone" : "718-422-0835"
+}
+, {
+  "business_name" : "Popeyes",
+  "street_address" : "290 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68851624791346",
+    "human_address" : "{\"address\":\"290 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98295707793154"
+  },
+  "website" : "www.popeyes.com",
+  "business_category" : "Food Service",
+  "phone" : "718-243-9434"
+}
+, {
+  "business_name" : "Queen Restaurant",
+  "street_address" : "84 Court Street",
+  "location_1" : {
+    "latitude" : "40.691302962368454",
+    "human_address" : "{\"address\":\"84 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9916292519792"
+  },
+  "website" : "www.queenrestaurant.com",
+  "business_category" : "Food Service",
+  "hours_sat" : "4pm - 11pm",
+  "phone" : "718-596-5954",
+  "hours_mon_fri" : "M, T - 11:30am - 10pm; W, Th - 11:30am - 10:30pm; F 11:30am - 11pm",
+  "hours_sun" : "2:30pm - 10pm"
+}
+, {
+  "business_name" : "Red Mango",
+  "street_address" : "125 Court Street",
+  "location_1" : {
+    "latitude" : "40.690141636624325",
+    "human_address" : "{\"address\":\"125 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.992107334253"
+  },
+  "website" : "www.redmangousa.com",
+  "business_category" : "Food Service",
+  "phone" : "718-797-2133"
+}
+, {
+  "business_name" : "Renaissance Java Café",
+  "street_address" : "200-2 Schermerhorn Street",
+  "location_1" : {
+    "latitude" : "40.69467825879468",
+    "human_address" : "{\"address\":\"200 2 Schermerhorn Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98992086835335"
+  },
+  "website" : "www.renaissancejavacafe.com",
+  "business_category" : "Food Service",
+  "hours_sat" : "9am - 5pm",
+  "phone" : "718-222-8868",
+  "hours_mon_fri" : "7am - 6pm",
+  "hours_sun" : "closed"
+}
+, {
+  "business_name" : "Saporita Pizza",
+  "street_address" : "27 Smith Street",
+  "location_1" : {
+    "latitude" : "40.69070306373426",
+    "human_address" : "{\"address\":\"27 Smith Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98771853283972"
+  },
+  "website" : "www.saporitapizza.com",
+  "business_category" : "Food Service",
+  "hours_sat" : "closed",
+  "phone" : "718-643-7777",
+  "hours_mon_fri" : "11am - 8pm",
+  "hours_sun" : "11am - 6pm"
+}
+, {
+  "business_name" : "Subway",
+  "street_address" : "288 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68854545134911",
+    "human_address" : "{\"address\":\"288 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98303239205505"
+  },
+  "website" : "www.subway.com",
+  "business_category" : "Food Service",
+  "hours_sat" : "8am - 10pm",
+  "phone" : "718-596-2530",
+  "hours_mon_fri" : "7am - 10pm",
+  "hours_sun" : "9am - 9pm"
+}
+, {
+  "business_name" : "Tio Pio",
+  "street_address" : "119 Court Street",
+  "location_1" : {
+    "latitude" : "40.69034611128023",
+    "human_address" : "{\"address\":\"119 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99201313781245"
+  },
+  "business_category" : "Food Service",
+  "phone" : "718-403-0044"
+}
+, {
+  "business_name" : "Wendy's",
+  "street_address" : "291 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.688219958329746",
+    "human_address" : "{\"address\":\"291 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98202446217635"
+  },
+  "website" : "www.wendys.com",
+  "business_category" : "Food Service"
+}
+, {
+  "business_name" : "Z-7 Diner",
+  "street_address" : "115 Court Street",
+  "location_1" : {
+    "latitude" : "40.69054899833005",
+    "human_address" : "{\"address\":\"115 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99191169428752"
+  },
+  "business_category" : "Food Service",
+  "phone" : "718-596-6237"
+}
+, {
+  "business_name" : "Gothic Cabinet Furniture",
+  "street_address" : "31 Smith Street",
+  "location_1" : {
+    "latitude" : "40.69059338069688",
+    "human_address" : "{\"address\":\"31 Smith Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98777946786052"
+  },
+  "website" : "www.gothiccabinetcraft.com",
+  "business_category" : "Furniture",
+  "hours_sat" : "10am - 7pm",
+  "phone" : "718-625-2333",
+  "hours_mon_fri" : "10am - 7pm",
+  "hours_sun" : "11am - 6pm"
+}
+, {
+  "business_name" : "Sleepy's ",
+  "street_address" : "268 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68856668126645",
+    "human_address" : "{\"address\":\"268 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98292834401565"
+  },
+  "website" : "www.sleepys.com",
+  "business_category" : "Furniture",
+  "hours_sat" : "10am - 8pm",
+  "phone" : "718-246-7957",
+  "hours_mon_fri" : "10am - 8pm",
+  "hours_sun" : "10am - 7pm"
+}
+, {
+  "business_name" : "Value Furniture Warehouse",
+  "street_address" : "254 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68897595642404",
+    "human_address" : "{\"address\":\"254 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9841435887166"
+  },
+  "business_category" : "Furniture",
+  "hours_sat" : "10am - 6pm",
+  "phone" : "718-243-2600",
+  "hours_mon_fri" : "10am - 6pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Mikey's Smoke Shop",
+  "street_address" : "60 Schermerhorn Street",
+  "location_1" : {
+    "latitude" : "40.690870316275465",
+    "human_address" : "{\"address\":\"60 Schermerhorn Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99142528260668"
+  },
+  "business_category" : "Gifts",
+  "hours_sat" : "9am- 5pm",
+  "phone" : "718-875-1139",
+  "hours_mon_fri" : "9:30am - 6pm",
+  "hours_sun" : "closed"
+}
+, {
+  "business_name" : "Trophy World",
+  "street_address" : "123 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.69088848421326",
+    "human_address" : "{\"address\":\"123 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98889372441363"
+  },
+  "website" : "www.trophyworld.com",
+  "business_category" : "Gifts",
+  "phone" : "718-797-1200"
+}
+, {
+  "business_name" : "True Value American Hardware",
+  "street_address" : "85 Court Street",
+  "location_1" : {
+    "latitude" : "40.69144378404727",
+    "human_address" : "{\"address\":\"85 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99148407909414"
+  },
+  "website" : "www.truevalue.com",
+  "business_category" : "Hardware",
+  "phone" : "718-243-0844"
+}
+, {
+  "business_name" : "True Value Brunos Home Center",
+  "street_address" : "95 Court Street",
+  "location_1" : {
+    "latitude" : "40.69112436297162",
+    "human_address" : "{\"address\":\"95 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99163928313062"
+  },
+  "business_category" : "Hardware",
+  "hours_sat" : "9am - 3pm",
+  "phone" : "718-858-5250",
+  "hours_mon_fri" : "8:30am - 6pm",
+  "hours_sun" : "closed"
+}
+, {
+  "business_name" : "Brooklyn Martial Arts",
+  "street_address" : "289 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68824901767282",
+    "human_address" : "{\"address\":\"289 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98210054482003"
+  },
+  "business_category" : "Health & Fitness",
+  "phone" : "718-403-9026"
+}
+, {
+  "business_name" : "Curves for Women",
+  "street_address" : "52 Court Street",
+  "location_1" : {
+    "latitude" : "40.692320620898926",
+    "human_address" : "{\"address\":\"52 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99113547975875"
+  },
+  "website" : "www.curves.com",
+  "business_category" : "Health & Fitness",
+  "hours_sat" : "8am - 1pm",
+  "phone" : "718-237-9394",
+  "hours_mon_fri" : "7am - 8pm",
+  "hours_sun" : "8am - 1pm"
+}
+, {
+  "business_name" : "GNC",
+  "street_address" : "58 Court Street",
+  "location_1" : {
+    "latitude" : "40.69213425541413",
+    "human_address" : "{\"address\":\"58 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99122637461275"
+  },
+  "website" : "www.gnc.com",
+  "business_category" : "Health & Fitness",
+  "phone" : "718-852-7625"
+}
+, {
+  "business_name" : "Gold's Gym",
+  "street_address" : "85 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.691487621155595",
+    "human_address" : "{\"address\":\"85 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99094525123202"
+  },
+  "website" : "www.goldsgym.com",
+  "business_category" : "Health & Fitness",
+  "phone" : "718-845-4653"
+}
+, {
+  "business_name" : "Lean On Me BodyWorks",
+  "street_address" : "85 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.691487621155595",
+    "human_address" : "{\"address\":\"85 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99094525123202"
+  },
+  "website" : "www.leanonmebodyworks.com",
+  "business_category" : "Health & Fitness",
+  "phone" : "718-222-8713"
+}
+, {
+  "business_name" : "Little Gym of Brooklyn Heights",
+  "street_address" : "221 Atlantic Avenue",
+  "location_1" : {
+    "latitude" : "40.68957826851833",
+    "human_address" : "{\"address\":\"221 Atlantic Avenue\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99193192310025"
+  },
+  "website" : "www.thelittlegym.com",
+  "business_category" : "Health & Fitness",
+  "hours_sat" : "9am - 12pm",
+  "phone" : "718-488-7744",
+  "hours_mon_fri" : "9am -6pm",
+  "hours_sun" : "9am - 12pm "
+}
+, {
+  "business_name" : "Streamline Pilates Studio",
+  "street_address" : "196 State Street",
+  "location_1" : {
+    "latitude" : "40.69039858259302",
+    "human_address" : "{\"address\":\"196 State Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99233922260112"
+  },
+  "website" : "www.streamlinepilates.com",
+  "business_category" : "Health & Fitness",
+  "hours_sat" : "by appointment",
+  "phone" : "718-488-8688",
+  "hours_mon_fri" : "by appointment",
+  "hours_sun" : "by appointment"
+}
+, {
+  "business_name" : "Stur-Dee Health Foods",
+  "street_address" : "222 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68939410888421",
+    "human_address" : "{\"address\":\"222 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98522718819748"
+  },
+  "business_category" : "Health & Fitness",
+  "phone" : "718-852-7600"
+}
+, {
+  "business_name" : "YMCA",
+  "street_address" : "225 Atlantic Avenue",
+  "location_1" : {
+    "latitude" : "40.68954213577108",
+    "human_address" : "{\"address\":\"225 Atlantic Avenue\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99183203254687"
+  },
+  "website" : "www.ymcanyc.org",
+  "business_category" : "Health & Fitness",
+  "hours_sat" : "7am - 8pm",
+  "phone" : "718-625-3136",
+  "hours_mon_fri" : "5:30am - 11pm",
+  "hours_sun" : "7am - 8pm"
+}
+, {
+  "business_name" : "Satnick's Fine Jewelry and Watches",
+  "street_address" : "187 State Street",
+  "location_1" : {
+    "latitude" : "40.69031219016463",
+    "human_address" : "{\"address\":\"187 State Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99184671157933"
+  },
+  "business_category" : "Jewelery & Accessories",
+  "phone" : "718-852-1421"
+}
+, {
+  "business_name" : "The Court Street Jewelers",
+  "street_address" : "60 Court Street",
+  "location_1" : {
+    "latitude" : "40.69207212084573",
+    "human_address" : "{\"address\":\"60 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99125678089091"
+  },
+  "business_category" : "Jewelery & Accessories",
+  "phone" : "718-834-8940"
+}
+, {
+  "business_name" : "Arimed",
+  "street_address" : "302 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68834877094537",
+    "human_address" : "{\"address\":\"302 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9825224337534"
+  },
+  "website" : "www.arimed.com",
+  "business_category" : "Medical/Dental/Optical",
+  "hours_sat" : "Closed",
+  "phone" : "(718) 875-8754",
+  "hours_mon_fri" : "8am - 5pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Cosmetic & General Dentistry",
+  "street_address" : "226 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68933070669082",
+    "human_address" : "{\"address\":\"226 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98506234249467"
+  },
+  "website" : "no website ",
+  "business_category" : "Medical/Dental/Optical",
+  "phone" : "718-596-0066"
+}
+, {
+  "business_name" : "Dello Russo Laser Vision",
+  "street_address" : "100 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.69125887007834",
+    "human_address" : "{\"address\":\"100 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99033858560894"
+  },
+  "website" : "www.dellorussolaservision.com",
+  "business_category" : "Medical/Dental/Optical",
+  "phone" : "718-254-9263"
+}
+, {
+  "business_name" : "Exclusive Eyewear",
+  "street_address" : "362 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68750446879703",
+    "human_address" : "{\"address\":\"362 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98035682786595"
+  },
+  "website" : "www.exclusiveeyewear.com",
+  "business_category" : "Medical/Dental/Optical",
+  "hours_sat" : "11am - 9pm",
+  "phone" : "718-596-9393",
+  "hours_mon_fri" : "M-Th 10am -7pm; F 10am - 8pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Eyes and Optics",
+  "street_address" : "314 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.6881846711288",
+    "human_address" : "{\"address\":\"314 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98209279059729"
+  },
+  "business_category" : "Medical/Dental/Optical",
+  "hours_sat" : "Closed",
+  "phone" : "718-875-3351",
+  "hours_mon_fri" : "M-Th 10am - 6pm; F 9am - 5pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "GVS General Vision",
+  "street_address" : "66 Court Street",
+  "location_1" : {
+    "latitude" : "40.69188571710734",
+    "human_address" : "{\"address\":\"66 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9913479997416"
+  },
+  "website" : "www.generalvision.com",
+  "business_category" : "Medical/Dental/Optical",
+  "phone" : "718-625-0025"
+}
+, {
+  "business_name" : "Lenscrafters Optique",
+  "street_address" : "121 Court Street",
+  "location_1" : {
+    "latitude" : "40.69032037045222",
+    "human_address" : "{\"address\":\"121 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99202521330506"
+  },
+  "website" : "www.lenscrafters.com",
+  "business_category" : "Medical/Dental/Optical",
+  "phone" : "718-858-7036"
+}
+, {
+  "business_name" : "Livingston Dental Care",
+  "street_address" : "366 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.687496578745844",
+    "human_address" : "{\"address\":\"366 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98033203056222"
+  },
+  "business_category" : "Medical/Dental/Optical",
+  "hours_sat" : "10am - 4pm",
+  "phone" : "718-722-7700",
+  "hours_mon_fri" : "10am - 7pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Optometrist: Dr. Aaron Mandel",
+  "street_address" : "228 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.689299005579606",
+    "human_address" : "{\"address\":\"228 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98497991960554"
+  },
+  "business_category" : "Medical/Dental/Optical"
+}
+, {
+  "business_name" : "Zolotar Dental Care",
+  "street_address" : "304 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68832142097594",
+    "human_address" : "{\"address\":\"304 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98245082656072"
+  },
+  "business_category" : "Medical/Dental/Optical",
+  "hours_sat" : "9am - 6pm",
+  "phone" : "718-797-2880",
+  "hours_mon_fri" : "9am - 6pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "United Artists",
+  "street_address" : "108 Court Street",
+  "location_1" : {
+    "latitude" : "40.69046698947164",
+    "human_address" : "{\"address\":\"108 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99203002284442"
+  },
+  "website" : "www.regmovies.com",
+  "business_category" : "Movie Theatres",
+  "hours_sat" : "11am - 2am",
+  "phone" : "718-246-8170",
+  "hours_mon_fri" : "11am - 2am",
+  "hours_sun" : "11am - 2am"
+}
+, {
+  "business_name" : "24 Hour Lotto",
+  "street_address" : "33 Smith Street",
+  "location_1" : {
+    "latitude" : "40.6905384690739",
+    "human_address" : "{\"address\":\"33 Smith Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98781227192659"
+  },
+  "business_category" : "Newsstands & Delis"
+}
+, {
+  "business_name" : "3 In 1 Deli",
+  "street_address" : "50 Hoyt Street",
+  "location_1" : {
+    "latitude" : "40.6890490909434",
+    "human_address" : "{\"address\":\"50 Hoyt Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98617028122082"
+  },
+  "business_category" : "Newsstands & Delis"
+}
+, {
+  "business_name" : "Danny & Andy Deli",
+  "street_address" : "229 Schermerhorn Street",
+  "location_1" : {
+    "latitude" : "40.688563269814445",
+    "human_address" : "{\"address\":\"229 Schermerhorn Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9849099302982"
+  },
+  "business_category" : "Newsstands & Delis",
+  "hours_sat" : "closed",
+  "phone" : "718-797-4188",
+  "hours_mon_fri" : "6am - 5pm",
+  "hours_sun" : "closed"
+}
+, {
+  "business_name" : "Diacks Variety",
+  "street_address" : "40 Hoyt Street",
+  "location_1" : {
+    "latitude" : "40.6893637537386",
+    "human_address" : "{\"address\":\"40 Hoyt Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98595424407785"
+  },
+  "business_category" : "Newsstands & Delis"
+}
+, {
+  "business_name" : "D-town Deli and Grill",
+  "street_address" : "26 Nevins Street",
+  "location_1" : {
+    "latitude" : "40.688034204934716",
+    "human_address" : "{\"address\":\"26 Nevins Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98137191983248"
+  },
+  "business_category" : "Newsstands & Delis",
+  "hours_sat" : "24 hours",
+  "phone" : "(718) 643-1770",
+  "hours_mon_fri" : "24 hours",
+  "hours_sun" : "24 hours"
+}
+, {
+  "business_name" : "Greenline Newsstand",
+  "street_address" : "245 Schermerhorn Street",
+  "location_1" : {
+    "latitude" : "40.68833622953143",
+    "human_address" : "{\"address\":\"245 Schermerhorn Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98433025297984"
+  },
+  "business_category" : "Newsstands & Delis",
+  "hours_sat" : "9am - 6pm",
+  "hours_mon_fri" : "8am - 8pm",
+  "hours_sun" : "9am - 6pm"
+}
+, {
+  "business_name" : "Livingston Newsstand",
+  "street_address" : "255 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68879868636235",
+    "human_address" : "{\"address\":\"255 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98352667294718"
+  },
+  "business_category" : "Newsstands & Delis"
+}
+, {
+  "business_name" : "Lucy Hot Dog and Donuts ",
+  "street_address" : "330 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.687965871373386",
+    "human_address" : "{\"address\":\"330 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98151993305581"
+  },
+  "business_category" : "Newsstands & Delis",
+  "hours_sat" : "8am - 7:30pm",
+  "phone" : "347-221-9471",
+  "hours_mon_fri" : "8am - 7:30pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "MS Store",
+  "street_address" : "24 Nevins Street",
+  "location_1" : {
+    "latitude" : "40.68808566050623",
+    "human_address" : "{\"address\":\"24 Nevins Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98133449759865"
+  },
+  "business_category" : "Newsstands & Delis",
+  "hours_sat" : "10am-6pm",
+  "hours_mon_fri" : "10am - 6pm",
+  "hours_sun" : "closed"
+}
+, {
+  "business_name" : "Nevins Optimo Shop",
+  "street_address" : "24 Nevins Street",
+  "location_1" : {
+    "latitude" : "40.68808566050623",
+    "human_address" : "{\"address\":\"24 Nevins Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98133449759865"
+  },
+  "business_category" : "Newsstands & Delis"
+}
+, {
+  "business_name" : "New Way Newstand & Candy",
+  "street_address" : "208 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68961241133852",
+    "human_address" : "{\"address\":\"208 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98579365336009"
+  },
+  "business_category" : "Newsstands & Delis",
+  "phone" : "973-767-5589"
+}
+, {
+  "business_name" : "Official Lotto Newsstand",
+  "street_address" : "155 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.69044433836474",
+    "human_address" : "{\"address\":\"155 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98775706099438"
+  },
+  "business_category" : "Newsstands & Delis"
+}
+, {
+  "business_name" : "Side Street Deli",
+  "street_address" : "187 State Street",
+  "location_1" : {
+    "latitude" : "40.69031219016463",
+    "human_address" : "{\"address\":\"187 State Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99184671157933"
+  },
+  "business_category" : "Newsstands & Delis",
+  "hours_sat" : "6:30am - 3pm",
+  "phone" : "718-802-1100",
+  "hours_mon_fri" : "6am - 6pm",
+  "hours_sun" : "closed"
+}
+, {
+  "business_name" : "Sikder & Sons",
+  "street_address" : "40 Hoyt Street",
+  "location_1" : {
+    "latitude" : "40.6893637537386",
+    "human_address" : "{\"address\":\"40 Hoyt Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98595424407785"
+  },
+  "business_category" : "Newsstands & Delis",
+  "phone" : "646-691-5893"
+}
+, {
+  "business_name" : "Smith Food Express",
+  "street_address" : "21 Smith Street",
+  "location_1" : {
+    "latitude" : "40.69086806738895",
+    "human_address" : "{\"address\":\"21 Smith Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98762803166429"
+  },
+  "business_category" : "Newsstands & Delis"
+}
+, {
+  "business_name" : "Brooklyn Ballet",
+  "street_address" : "160 Schermerhorn Street",
+  "location_1" : {
+    "latitude" : "40.689483146547786",
+    "human_address" : "{\"address\":\"160 Schermerhorn Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98743542976287"
+  },
+  "business_category" : "Nonprofit",
+  "phone" : "718-246-0146"
+}
+, {
+  "business_name" : "Nevins Drugs",
+  "street_address" : "326 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.6880205712945",
+    "human_address" : "{\"address\":\"326 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98166314739474"
+  },
+  "website" : "www.nevinsdrugs.com",
+  "business_category" : "Pharmacies",
+  "hours_sat" : "10am - 3pm",
+  "phone" : "718-422-0100",
+  "hours_mon_fri" : "9am - 6:30pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "Rite Aid (Store# 10571)",
+  "street_address" : "120 Court Street",
+  "location_1" : {
+    "latitude" : "40.68998093898361",
+    "human_address" : "{\"address\":\"120 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99225773229819"
+  },
+  "website" : "www.riteaid.com",
+  "business_category" : "Pharmacies",
+  "hours_sat" : "8am - 9pm",
+  "phone" : "718-643-2146",
+  "hours_mon_fri" : "7:30am-10pm",
+  "hours_sun" : "9am - 9pm"
+}
+, {
+  "business_name" : "Psychic Answers by Marie",
+  "street_address" : "304 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68832142097594",
+    "human_address" : "{\"address\":\"304 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98245082656072"
+  },
+  "website" : "no website ",
+  "business_category" : "Psychic",
+  "hours_sat" : "9am - 10pm",
+  "phone" : "718-237-2644",
+  "hours_mon_fri" : "9am - 10pm",
+  "hours_sun" : "9am - 10pm"
+}
+, {
+  "business_name" : "Psychic Readings",
+  "street_address" : "123 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.69088848421326",
+    "human_address" : "{\"address\":\"123 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98889372441363"
+  },
+  "business_category" : "Psychic",
+  "phone" : "347-529-4164"
+}
+, {
+  "business_name" : "CPEX Realty",
+  "street_address" : "350 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.6876074709794",
+    "human_address" : "{\"address\":\"350 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9806224759338"
+  },
+  "website" : "www.cpexre.com",
+  "business_category" : "Real Estate",
+  "phone" : "718-935-1800"
+}
+, {
+  "business_name" : "RE/MAX Metro",
+  "street_address" : "85 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.691487621155595",
+    "human_address" : "{\"address\":\"85 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99094525123202"
+  },
+  "website" : "www.remax-metro-brooklyn-ny.com",
+  "business_category" : "Real Estate",
+  "phone" : "718-243-2999"
+}
+, {
+  "business_name" : "H&R Block",
+  "street_address" : "287 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68827807701589",
+    "human_address" : "{\"address\":\"287 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98217662746372"
+  },
+  "website" : "www.hrblock.com",
+  "business_category" : "Tax Services",
+  "phone" : "718-625-1988"
+}
+, {
+  "business_name" : "Jackson Hewitt",
+  "street_address" : "364 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68750052377143",
+    "human_address" : "{\"address\":\"364 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98034442921409"
+  },
+  "website" : "www.jacksonhewitt.com",
+  "business_category" : "Tax Services",
+  "hours_sat" : "9am - 9pm",
+  "phone" : "877-580-1040",
+  "hours_mon_fri" : "9am - 9pm",
+  "hours_sun" : "9am - 7pm"
+}
+, {
+  "business_name" : "Liberty Tax Service",
+  "street_address" : "306 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68829407100651",
+    "human_address" : "{\"address\":\"306 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98237921936803"
+  },
+  "website" : "www.libertytax.xom",
+  "business_category" : "Tax Services",
+  "hours_sat" : "Closed",
+  "phone" : "718-855-2311",
+  "hours_mon_fri" : "M-W Appt.; F 10am - 6pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "National Tax Service",
+  "street_address" : "322 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.688075271251094",
+    "human_address" : "{\"address\":\"322 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98180636182654"
+  },
+  "business_category" : "Tax Services",
+  "phone" : "718-855-0780"
+}
+, {
+  "business_name" : "R&G Brenner Tax Consultants",
+  "street_address" : "206 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68964544631397",
+    "human_address" : "{\"address\":\"206 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98587721241563"
+  },
+  "website" : "www.rgbrenner.com",
+  "business_category" : "Tax Services",
+  "phone" : "718-596-1188"
+}
+, {
+  "business_name" : "AVIS Car Rental",
+  "street_address" : "211 Atlantic Avenue",
+  "location_1" : {
+    "latitude" : "40.68970507292447",
+    "human_address" : "{\"address\":\"211 Atlantic Avenue\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99232924357278"
+  },
+  "business_category" : "Transportation",
+  "hours_sat" : "7am - 3pm",
+  "phone" : "718-858-4787",
+  "hours_mon_fri" : "7am - 9pm",
+  "hours_sun" : "7am - 9pm"
+}
+, {
+  "business_name" : "Central Parking",
+  "street_address" : "300 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.688773069374214",
+    "human_address" : "{\"address\":\"300 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98361946383793"
+  },
+  "business_category" : "Transportation",
+  "hours_sat" : "6am - 11pm",
+  "phone" : "718-852-7317",
+  "hours_mon_fri" : "6am - 11pm",
+  "hours_sun" : "10am - 7pm"
+}
+, {
+  "business_name" : "Edison Park Fast",
+  "street_address" : "160 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.69037314658201",
+    "human_address" : "{\"address\":\"160 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98773115496718"
+  },
+  "business_category" : "Transportation",
+  "phone" : "718-403-0046"
+}
+, {
+  "business_name" : "Edison Park Fast",
+  "street_address" : "134 Schermerhorn Street",
+  "location_1" : {
+    "latitude" : "40.6898748347585",
+    "human_address" : "{\"address\":\"134 Schermerhorn Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98841488496893"
+  },
+  "business_category" : "Transportation",
+  "phone" : "718-246-0367"
+}
+, {
+  "business_name" : "Enterprise Rental Car",
+  "street_address" : "290 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68851624791346",
+    "human_address" : "{\"address\":\"290 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98295707793154"
+  },
+  "website" : "www.enterprise.com",
+  "business_category" : "Transportation",
+  "hours_sat" : "9am - Noon",
+  "phone" : "718-488-8800",
+  "hours_mon_fri" : "7:30am - 6pm",
+  "hours_sun" : "Closed"
+}
+, {
+  "business_name" : "GGMC Parking",
+  "street_address" : "66 Boerum Place",
+  "location_1" : {
+    "latitude" : "40.68958188641566",
+    "human_address" : "{\"address\":\"66 Boerum Place\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99041687184642"
+  },
+  "business_category" : "Transportation",
+  "hours_sat" : "8am - 8pm",
+  "phone" : "718-802-0610",
+  "hours_mon_fri" : "6am - 12am",
+  "hours_sun" : "8am - 8pm"
+}
+, {
+  "business_name" : "GGMC Parking",
+  "street_address" : "189 Schermerhorn Street",
+  "location_1" : {
+    "latitude" : "40.68914843493603",
+    "human_address" : "{\"address\":\"189 Schermerhorn Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98640947122978"
+  },
+  "business_category" : "Transportation",
+  "hours_sat" : "24 hours",
+  "hours_mon_fri" : "24 hours",
+  "hours_sun" : "24 hours"
+}
+, {
+  "business_name" : "Greyhound Brooklyn",
+  "street_address" : "288 Livingston Street",
+  "location_1" : {
+    "latitude" : "40.68854545134911",
+    "human_address" : "{\"address\":\"288 Livingston Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98303239205505"
+  },
+  "website" : "www.greyhound.com",
+  "business_category" : "Transportation",
+  "hours_sat" : "8:30am - 7:30pm",
+  "phone" : "(718) 222-8470",
+  "hours_mon_fri" : "8:30am - 7:30pm",
+  "hours_sun" : "8:30am - 7:30pm"
+}
+, {
+  "business_name" : "Park Kwik",
+  "street_address" : "211 Atlantic Avenue",
+  "location_1" : {
+    "latitude" : "40.68970507292447",
+    "human_address" : "{\"address\":\"211 Atlantic Avenue\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99232924357278"
+  },
+  "business_category" : "Transportation",
+  "phone" : "718-858-9356"
+}
+, {
+  "business_name" : "Campos Brokerage & Travel",
+  "street_address" : "30 Nevins Street, 2nd Floor",
+  "location_1" : {
+    "latitude" : "40.687941266684575",
+    "human_address" : "{\"address\":\"30 Nevins Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98143780845336"
+  },
+  "business_category" : "Travel",
+  "hours_sat" : "By appointment",
+  "phone" : "718-834-0231",
+  "hours_mon_fri" : "10am - 6pm",
+  "hours_sun" : "closed"
+}
+, {
+  "business_name" : "Zap Wine & Spirits",
+  "street_address" : "105 Court Street",
+  "location_1" : {
+    "latitude" : "40.69083358302672",
+    "human_address" : "{\"address\":\"105 Court Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9917782688907"
+  },
+  "website" : "www.zapwine.com",
+  "business_category" : "Wine & Spirits",
+  "hours_sat" : "10am - 10:30pm",
+  "phone" : "718-643-3395",
+  "hours_mon_fri" : "F 8am - 10:30pm; 8am - 9:30pm",
+  "hours_sun" : "12pm - 8pm"
+}
+ ]

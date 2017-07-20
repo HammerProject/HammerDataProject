@@ -1,0 +1,29 @@
+[ {
+  "estimate_of_percent_of_units_with_lbp" : "0%",
+  "year_built" : "1960+",
+  "total_units" : "779,347"
+}
+, {
+  "estimated_units_with_lbp" : "316,428",
+  "lbp_units_occupied_by_families_less_than_or_equal_to_50_of_median" : "119,294",
+  "estimate_of_percent_of_units_with_lbp" : "69%",
+  "year_built" : "1947-1959",
+  "lbp_units_occupied_by_families_less_than_or_equal_to_80_of_median" : "170,555",
+  "total_units" : "458,592"
+}
+, {
+  "estimated_units_with_lbp" : "1,620,051",
+  "lbp_units_occupied_by_families_less_than_or_equal_to_50_of_median" : "562,158",
+  "estimate_of_percent_of_units_with_lbp" : "90%",
+  "year_built" : "Before 1947",
+  "lbp_units_occupied_by_families_less_than_or_equal_to_80_of_median" : "840,807",
+  "total_units" : "1,800,057"
+}
+, {
+  "estimated_units_with_lbp" : "1,936,479",
+  "lbp_units_occupied_by_families_less_than_or_equal_to_50_of_median" : "681,452",
+  "year_built" : "TOTAL",
+  "lbp_units_occupied_by_families_less_than_or_equal_to_80_of_median" : "1,011,362",
+  "total_units" : "3,037,996"
+}
+ ]
