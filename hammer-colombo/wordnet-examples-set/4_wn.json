@@ -1,0 +1,31 @@
+//
+// Hammer Project
+// @ 2017 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// Drinking Fountains
+// 
+//
+
+{
+  "select": [
+      { "column": { "instance": "fountains", "label":"property"}},
+      { "column": { "instance": "fountains", "label":"site"}},
+      { "column": { "instance": "fountains", "label":"fountains"}},
+      { "column": { "instance": "fountains", "label":"borought"}}
+  ],
+  "from": [
+    "fountains"
+  ],
+  "where": [{"condition": {
+      "instance1": "fountains",
+      "label1": "drinking",
+      "operator": "ge",
+      "value": "1",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+

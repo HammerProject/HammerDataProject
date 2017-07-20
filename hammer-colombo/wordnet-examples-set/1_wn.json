@@ -5,40 +5,25 @@
 // mauro.pelucchi@gmail.com
 //
 // 
-// https://data.cityofnewyork.us/Housing-Development/DOB-Job-Application-Filings/ic3t-wcy2/data
+// NYC Parks Monuments new installation
 // 
 //
 
 {
   "select": [
-      { "column": { "instance": "job", "label":"job"}},
-      { "column": { "instance": "job", "label":"description"}},
-      { "column": { "instance": "job", "label":"borough"}},
-      { "column": { "instance": "job", "label":"address"}},
-      { "column": { "instance": "job", "label":"applicant"}},
-      { "column": { "instance": "job", "label":"date"}},
-      { "column": { "instance": "job", "label":"cost"}}  
+      { "column": { "instance": "monuments", "label":"name"}},
+      { "column": { "instance": "monuments", "label":"park"}},
+      { "column": { "instance": "monuments", "label":"location"}},
+      { "column": { "instance": "monuments", "label":"dedicated"}}
   ],
   "from": [
-    "job"
+    "monuments"
   ],
   "where": [{"condition": {
-      "instance1": "job",
-      "label1": "mechanical",
-      "operator": "eq",
-      "value": "X",
-      "logicalOperator": "or"
-    }}, {"condition": {
-      "instance1": "job",
-      "label1": "plumbing",
-      "operator": "eq",
-      "value": "X",
-      "logicalOperator": "or"
-    }}, {"condition": {
-      "instance1": "job",
-      "label1": "boiler",
-      "operator": "eq",
-      "value": "X",
+      "instance1": "monuments",
+      "label1": "installation",
+      "operator": "gt",
+      "value": "2010/01/01",
       "logicalOperator": "or"
     }}
   ]

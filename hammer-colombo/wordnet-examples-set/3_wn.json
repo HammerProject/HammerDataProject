@@ -5,40 +5,31 @@
 // mauro.pelucchi@gmail.com
 //
 // 
-// https://data.cityofnewyork.us/Housing-Development/DOB-Job-Application-Filings/ic3t-wcy2/data
+// Participatory Budgeting Projects (year 2017 and category housing)
 // 
 //
 
 {
   "select": [
-      { "column": { "instance": "job", "label":"job"}},
-      { "column": { "instance": "job", "label":"description"}},
-      { "column": { "instance": "job", "label":"borough"}},
-      { "column": { "instance": "job", "label":"address"}},
-      { "column": { "instance": "job", "label":"applicant"}},
-      { "column": { "instance": "job", "label":"date"}},
-      { "column": { "instance": "job", "label":"cost"}}  
+      { "column": { "instance": "projects", "label":"title"}},
+      { "column": { "instance": "projects", "label":"description"}},
+      { "column": { "instance": "projects", "label":"cost"}},
+      { "column": { "instance": "projects", "label":"location"}}
   ],
   "from": [
-    "job"
+    "projects"
   ],
   "where": [{"condition": {
-      "instance1": "job",
-      "label1": "mechanical",
+      "instance1": "projects",
+      "label1": "year",
       "operator": "eq",
-      "value": "X",
-      "logicalOperator": "or"
+      "value": "2017",
+      "logicalOperator": "and"
     }}, {"condition": {
-      "instance1": "job",
-      "label1": "plumbing",
+      "instance1": "projects",
+      "label1": "category",
       "operator": "eq",
-      "value": "X",
-      "logicalOperator": "or"
-    }}, {"condition": {
-      "instance1": "job",
-      "label1": "boiler",
-      "operator": "eq",
-      "value": "X",
+      "value": "Housing",
       "logicalOperator": "or"
     }}
   ]
