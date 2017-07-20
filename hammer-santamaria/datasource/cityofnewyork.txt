@@ -10,7 +10,7 @@ db.datasource_ny.insert(
 { "name" : "data.cityofnewyork.us", "url" : "https://data.cityofnewyork.us/resource/3gcn-igeu.json", "action" : "https://data.cityofnewyork.us/resource", "type" : "org.hammer.santamaria.input.Socrata2SourceRecordReader" }
 );
 
-bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App datasource_ny
+bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App datasource_ny 10.128.0.2
 
 
 db.dataset.find({"datasource":"data.cityofnewyork.us"}).forEach(function(doc){
@@ -24,9 +24,10 @@ bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 true 5 
 
 
 ## query execution
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_wn.json local search keywords 0.3 0.3 0.90 3 dataset_ny index_ny 0.99726
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_wn.json local search keywords 0.3 0.3 0.80 3 dataset_ny index_ny 0.99725
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_wn.json local search keywords 0.2 0.2 0.80 3 dataset_ny index_ny 0.99726
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_wn.json local search keywords 0.3 0.3 0.90 3 dataset_ny index_ny 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_wn.json local search keywords 0.3 0.3 0.80 3 dataset_ny index_ny 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_wn.json local search keywords 0.2 0.2 0.90 3 dataset_ny index_ny 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_wn.json local search keywords 0.2 0.2 0.80 3 dataset_ny index_ny 10
 
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/2_wn.json local search keywords 0.3 0.3 0.90 3 dataset_ny index_ny 0.9963
 

@@ -61,9 +61,23 @@ public class QuerySplitter extends MongoSplitter {
 		super(conf);
 	}
 
+	/**
+	 * Comparator for Term
+	 */
 	Comparator<Term> cmp = new Comparator<Term>() {
 		public int compare(Term o1, Term o2) {
 			return (o1.getWeigth() < o2.getWeigth()) ? 1 : ((o1.getWeigth() > o2.getWeigth()) ? -1 : 0);
+		}
+	};
+
+	/**
+	 * Comparator for Query
+	 */
+	Comparator<List<Term[]>> cmp_query = new Comparator<List<Term[]>>() {
+		public int compare(List<Term[]> o1, List<Term[]> o2) {
+			double sim1 = SpaceUtils.cos(o1);
+			double sim2 = SpaceUtils.cos(o1);
+			return (sim1 < sim2) ? 1 : ((sim1 > sim2) ? -1 : 0);
 		}
 	};
 
@@ -74,7 +88,7 @@ public class QuerySplitter extends MongoSplitter {
 		MongoClientURI inputURI = MongoConfigUtil.getInputURI(getConfiguration());
 		LOG.debug("---> Colombo Query calculating splits for " + inputURI);
 		float thSim = Float.parseFloat(getConfiguration().get("thSim"));
-		float thQuery = Float.parseFloat(getConfiguration().get("thQuery"));
+		int thQuery = Integer.parseInt(getConfiguration().get("thQuery"));
 		int maxSim = Integer.parseInt(getConfiguration().get("maxSim"));
 		String wnHome = getConfiguration().get("wn-home") + "";
 
@@ -165,12 +179,12 @@ public class QuerySplitter extends MongoSplitter {
 						max_sim = sim;
 						selected = synset;
 					}
-					if(max_sim == 1) {
+					if (max_sim == 1) {
 						break;
 					}
 				}
-				
-				if(!tempList.containsKey(selected.toLowerCase())) {
+
+				if (!tempList.containsKey(selected.toLowerCase())) {
 					Term point = new Term();
 					point.setTerm(selected.toLowerCase());
 					point.setWeigth(max_sim);
@@ -213,16 +227,39 @@ public class QuerySplitter extends MongoSplitter {
 
 		// check the generate query with the main query and remove the major
 		// distance query
-		for (List<Term[]> testq : beforePrunning) {
-			double sim = SpaceUtils.cos(testq);
-			if (sim >= thQuery) {
-				cases.add(testq);
-			}
+		// prunnning with a fix number of neithbour query
+		// for (List<Term[]> testq : beforePrunning) {
+		// double sim = SpaceUtils.cos(testq);
+		// if (sim >= thQuery) {
+		// cases.add(testq);
+		// }
+		// }
+		beforePrunning.sort(cmp_query);
+		if (beforePrunning.size() > thQuery) {
+			beforePrunning = beforePrunning.subList(0, thQuery);
 		}
+
 		//
 
+		System.out.println("#############################################################################");
 		LOG.info("--- FUZZY SEARCH QUERY AFTER PRUNNING --> " + cases.size());
 
+		// print selected query
+		for (List<Term[]> testq : beforePrunning) {
+			System.out.println("-------------------------------------------");
+			for (Term[] l : testq) {
+				String temp = "";
+				for (Term t : l) {
+					temp += t.getTerm() + " ";
+				}
+				System.out.println("--> {" + temp.trim() + "}");
+			}
+		}
+		
+		System.out.println("");
+		System.out.println("");
+		System.out.println("#############################################################################");
+		
 		// qSplit is the list of all query for fuzzy search
 		List<InputSplit> qSplit = new ArrayList<InputSplit>();
 		// first we add the original query
