@@ -30,7 +30,7 @@
       "label1": "category",
       "operator": "eq",
       "value": "Housing",
-      "logicalOperator": "or"
+      "logicalOperator": "and"
     }}
   ]
 }

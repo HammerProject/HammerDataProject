@@ -138,7 +138,7 @@ public class SocrataUtils {
 		String socrataQuery = CreateWhereCondition(conf, id);
 
 		long count = 0;
-		String urlStr = url + "?$select=count(*)&$where=" + EncodeURIComponent(socrataQuery);
+		String urlStr = url + "?$select=count(*)"; // &$where=" + EncodeURIComponent(socrataQuery);
 		//SaveData(conf, id, urlStr, socrataQuery);
 
 		GetMethod method = new GetMethod(urlStr);
@@ -147,7 +147,7 @@ public class SocrataUtils {
 		method.setRequestHeader("User-Agent", "Hammer Project - Colombo");
 		method.getParams().setParameter(HttpMethodParams.USER_AGENT, "Hammer Project - Colombo");
 		method.getParams().setParameter("$select", "count(*)");
-		method.getParams().setParameter("$where", socrataQuery);
+		//method.getParams().setParameter("$where", socrataQuery);
 
 		try {
 			int statusCode = client.executeMethod(method);
@@ -239,7 +239,7 @@ public class SocrataUtils {
 		BasicBSONList pList = new BasicBSONList();
 		String socrataQuery = CreateWhereCondition(conf, id);
 
-		String urlStr = url + "?$offset=" + offset + "&$limit=" + limit + "&$where=" + EncodeURIComponent(socrataQuery);
+		String urlStr = url + "?$offset=" + offset + "&$limit=" + limit; // + "&$where=" + EncodeURIComponent(socrataQuery);
 		SaveData(conf, id, urlStr, socrataQuery);
 
 		if (socrataQuery.length() == 0) {
@@ -494,7 +494,7 @@ public class SocrataUtils {
 	public static String GetUrl(Configuration conf, String id, String url, int offset, int limit, String socrataQuery)
 			throws Exception {
 
-		String urlStr = url + "?$offset=" + offset + "&$limit=" + limit + "&$where=" + EncodeURIComponent(socrataQuery);
+		String urlStr = url + "?$offset=" + offset + "&$limit=" + limit ;//+ "&$where=" + EncodeURIComponent(socrataQuery);
 		return urlStr;
 	}
 

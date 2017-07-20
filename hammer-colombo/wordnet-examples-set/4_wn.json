@@ -13,18 +13,18 @@
   "select": [
       { "column": { "instance": "fountains", "label":"property"}},
       { "column": { "instance": "fountains", "label":"site"}},
-      { "column": { "instance": "fountains", "label":"fountains"}},
-      { "column": { "instance": "fountains", "label":"borought"}}
+      { "column": { "instance": "fountains", "label":"drinking"}},
+      { "column": { "instance": "fountains", "label":"borough"}}
   ],
   "from": [
     "fountains"
   ],
   "where": [{"condition": {
       "instance1": "fountains",
-      "label1": "drinking",
-      "operator": "ge",
-      "value": "1",
-      "logicalOperator": "and"
+      "label1": "borough",
+      "operator": "eq",
+      "value": "M",
+      "logicalOperator": "or"
     }}
   ]
 }
