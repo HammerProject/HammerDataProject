@@ -57,6 +57,8 @@ public class WordNetUtils {
 			}
 			
 		} catch (Exception e) {
+			LOG.error(e);
+			e.printStackTrace();
 			/* do nothing */
 		} finally {
 			try { if (dict != null) { dict.close(); } } catch (Exception ex) { /* do nothing */ }

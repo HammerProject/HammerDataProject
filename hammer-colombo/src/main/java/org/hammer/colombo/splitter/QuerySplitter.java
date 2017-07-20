@@ -138,7 +138,7 @@ public class QuerySplitter extends MongoSplitter {
 			String key = st.nextToken().trim().toLowerCase();
 
 			// add synset by jaro winkler
-			List<Term> tempList = new ArrayList<Term>();
+			Map<String, Term> tempList = new HashMap<String, Term>();
 			for (String s : kwIndex.keySet()) {
 				double sim = JaroWinkler.Apply(key, s.toLowerCase());
 				// set the degree threshold to custom value
@@ -146,38 +146,56 @@ public class QuerySplitter extends MongoSplitter {
 					Term point = new Term();
 					point.setTerm(s.toLowerCase());
 					point.setWeigth(sim);
-					tempList.add(point);
+					tempList.put(s.toLowerCase(), point);
 
 				}
 			}
 
 			// add synset by word net
-			List<Term> tempList1 = new ArrayList<Term>();
 			Map<String, Double> mySynSet = WordNetUtils.MySynset(wnHome, key.toLowerCase());
 
-			for (String s : mySynSet.keySet()) {
-				if (kwIndex.containsKey(s)) {
+			for (String synset : mySynSet.keySet()) {
+				// add most similar term by our index
+				double max_sim = 0;
+				String selected = "";
+				for (String s : kwIndex.keySet()) {
+					double sim = JaroWinkler.Apply(synset, s.toLowerCase());
+					// set the degree threshold to custom value
+					if (sim > max_sim) {
+						max_sim = sim;
+						selected = synset;
+					}
+					if(max_sim == 1) {
+						break;
+					}
+				}
+				
+				if(!tempList.containsKey(selected.toLowerCase())) {
 					Term point = new Term();
-					point.setTerm(s.toLowerCase());
-					point.setWeigth(mySynSet.get(s));
-					tempList1.add(point);
+					point.setTerm(selected.toLowerCase());
+					point.setWeigth(max_sim);
+					tempList.put(selected.toLowerCase(), point);
 				}
 			}
 
 			// cut the queue to maxsim
-			tempList.sort(cmp);
-			if (tempList.size() > maxSim) {
-				tempList = tempList.subList(0, maxSim);
+			List<Term> myval = new ArrayList<Term>(tempList.values());
+			myval.sort(cmp);
+			if (myval.size() > maxSim) {
+				myval = myval.subList(0, maxSim);
 			}
 
-			// cut the queue to maxsim
-			tempList1.sort(cmp);
-			if (tempList1.size() > maxSim) {
-				tempList1 = tempList1.subList(0, maxSim);
-			}
+			similarity.put(key, myval);
+		}
 
-			tempList.addAll(tempList1);
-			similarity.put(key, tempList);
+		// print all combination found for testbed
+		for (String k : similarity.keySet()) {
+			List<Term> l = similarity.get(k);
+			String temp = "";
+			for (Term t : l) {
+				temp += t.getTerm() + " ";
+			}
+			System.out.println("--> [" + k + "] : {" + temp.trim() + "}");
 		}
 
 		LOG.info("------------------------------------------------------");

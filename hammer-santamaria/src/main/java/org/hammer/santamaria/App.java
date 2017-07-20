@@ -20,7 +20,7 @@ public class App {
 		System.out.println("!!! Santa Maria Module start.....");
 
 		if(pArgs == null || pArgs.length < 1) {
-			throw new Exception("Parameter: <datasource collection> | tweets <box>");
+			throw new Exception("Parameter: <datasource collection|mongodbhost> | tweets <box>");
 		}
 		if(pArgs[0].trim().equals("tweets")) {
 			if(pArgs.length < 2) {
@@ -29,7 +29,7 @@ public class App {
 			TwitterThread myTh = new TwitterThread(pArgs[1].trim().toLowerCase());
 	        myTh.run();
 		} else {
-			Run(pArgs[0]);
+			Run(pArgs[0],pArgs[1]);
 		}
 		
 	}
@@ -39,11 +39,11 @@ public class App {
 	 * @param datasource 
 	 * @throws Exception
 	 */
-	public static void Run(String datasource) throws Exception {
+	public static void Run(String datasource, String mongodb) throws Exception {
 		Configuration conf = new Configuration();
 		conf.set("mongo.splitter.class","org.hammer.santamaria.splitter.DataSourceSplitter");
 		conf.set("datasource-table", datasource);
-		
+		conf.set("mongodb-host", mongodb);
 		System.exit(ToolRunner.run(conf, new SantaMariaConfig(conf), new String[0]));
 	}
 }

@@ -19,24 +19,25 @@ db.dataset.find({"datasource":"data.cityofnewyork.us"}).forEach(function(doc){
 
 
 ## create/update the inverted index and calc re/sim of each tems
-bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 true 5 dataset_us index_us
+bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 true 5 dataset_ny index_ny /home/hadoop/software/WordNet-3.0
+
+
+
+## query execution
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_wn.json local search keywords 0.3 0.3 0.90 3 dataset_ny index_ny 0.99726
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_wn.json local search keywords 0.3 0.3 0.80 3 dataset_ny index_ny 0.99725
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_wn.json local search keywords 0.2 0.2 0.80 3 dataset_ny index_ny 0.99726
+
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/2_wn.json local search keywords 0.3 0.3 0.90 3 dataset_ny index_ny 0.9963
 
 
 
 
-
-db.dataset.find({"datasource":"data.cityofnewyork.us"}).forEach(function(doc){
-   db.cityofnewyork.insert(doc);
-});
-
-
-## create/update the inverted index and calc re/sim of each tems
-bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 true 5 cityofnewyork cny_index
 
 ##export table
-mongoexport --host localhost --db hammer --collection cityofnewyork --csv --out cityofnewyork.csv --fields title
+mongoexport --host localhost --db hammer --collection dataset_ny --csv --out cityofnewyork.csv --fields title
 
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/fuzzy_4.json local search keywords 0.2 0.2 0.90 3 cityofnewyork cny_index 0.9995
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/fuzzy_4.json local search keywords 0.3 0.3 0.90 3 dataset_ny index_ny 0.9995
 
 
 mongoexport --host localhost --db hammer --collection list756795478 --csv --out list756795478.csv --fields title

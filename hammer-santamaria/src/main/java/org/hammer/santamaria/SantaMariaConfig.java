@@ -37,9 +37,13 @@ public class SantaMariaConfig extends MongoTool {
         MongoConfigUtil.setOutputKey(conf, Text.class);
         MongoConfigUtil.setOutputValue(conf, BSONWritable.class);
         
+     
+        MongoConfigUtil.setInputURI(conf, "mongodb://" + conf.get("mongodb-host") + ":27017/hammer." + conf.get("datasource-table"));
+        MongoConfigUtil.setOutputURI(conf, "mongodb://" + conf.get("mongodb-host") + ":27017/hammer.dataset");
+     
         
-        MongoConfigUtil.setInputURI(conf, "mongodb://192.168.56.90:27017/hammer." + conf.get("datasource-table"));
-        MongoConfigUtil.setOutputURI(conf, "mongodb://192.168.56.90:27017/hammer.dataset");
+        //MongoConfigUtil.setInputURI(conf, "mongodb://192.168.56.90:27017/hammer." + conf.get("datasource-table"));
+        //MongoConfigUtil.setOutputURI(conf, "mongodb://192.168.56.90:27017/hammer.dataset");
         
 //        MongoConfigUtil.setInputURI(conf, "mongodb://hammerdb-instance-1:27017/hammer.datasource");
 //        MongoConfigUtil.setOutputURI(conf, "mongodb://hammerdb-instance-1:27017/hammer.dataset");
