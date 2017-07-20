@@ -1,0 +1,3121 @@
+[ {
+  "analysis_date_tthm_g_l_a" : "2017-05-02T15:47:00",
+  "site" : "15150",
+  "lraa_tthm_g_l_a" : "39",
+  "lraa_haa5_g_l_b" : "39",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - IFO 1420 E/S Grand Concourse, 1st SS S/O E 171st St, 20\"",
+  "result_tthm_g_l_a" : "35",
+  "analysis_date_haa5_g_l_b" : "2017-05-06T09:30:10",
+  "oel_tthm_g_l_a" : "33",
+  "result_haa5_g_l_b" : "39",
+  "oel_haa5_g_l_b" : "36"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-02T00:00:00",
+  "site" : "18650",
+  "lraa_tthm_g_l_a" : "34",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - N/S Dewey Ave, btw Quincy & Swinton Aves, 12\"",
+  "result_tthm_g_l_a" : "37",
+  "analysis_date_haa5_g_l_b" : "2017-05-06T10:12:00",
+  "oel_tthm_g_l_a" : "33",
+  "result_haa5_g_l_b" : "38",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-02T18:22:00",
+  "site" : "23450",
+  "lraa_tthm_g_l_a" : "40",
+  "lraa_haa5_g_l_b" : "34",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - N/S Jefferson Avenue, 2nd SS W/O Lewis Avenue, 20\"",
+  "result_tthm_g_l_a" : "35",
+  "analysis_date_haa5_g_l_b" : "2017-05-05T13:55:40",
+  "oel_tthm_g_l_a" : "34",
+  "result_haa5_g_l_b" : "41",
+  "oel_haa5_g_l_b" : "36"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-02T18:41:00",
+  "site" : "24350",
+  "lraa_tthm_g_l_a" : "44",
+  "lraa_haa5_g_l_b" : "44",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - W/S Brighton 11th Street, 2nd SS S/O Cass Place, 12\"",
+  "result_tthm_g_l_a" : "45",
+  "analysis_date_haa5_g_l_b" : "2017-05-05T14:37:30",
+  "oel_tthm_g_l_a" : "39",
+  "result_haa5_g_l_b" : "48",
+  "oel_haa5_g_l_b" : "42"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-02T19:01:00",
+  "site" : "31750",
+  "lraa_tthm_g_l_a" : "42",
+  "lraa_haa5_g_l_b" : "35",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - IFO 427 N/S W 26th St, 2nd SS W/O 9th Ave, 12\"",
+  "result_tthm_g_l_a" : "38",
+  "analysis_date_haa5_g_l_b" : "2017-05-05T15:19:29",
+  "oel_tthm_g_l_a" : "38",
+  "result_haa5_g_l_b" : "51",
+  "oel_haa5_g_l_b" : "41"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-02T19:20:00",
+  "site" : "31850",
+  "lraa_tthm_g_l_a" : "42",
+  "lraa_haa5_g_l_b" : "36",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - IFO 82 S/S Warren St, 2nd SS E/O Greenwich St, 12\"",
+  "result_tthm_g_l_a" : "31",
+  "analysis_date_haa5_g_l_b" : "2017-05-05T16:01:24",
+  "oel_tthm_g_l_a" : "36",
+  "result_haa5_g_l_b" : "47",
+  "oel_haa5_g_l_b" : "40"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-04T16:23:00",
+  "site" : "32350",
+  "lraa_tthm_g_l_a" : "42",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - IFO 116 E/S Ave C, 2nd SS N/O E 7th St, 12\"",
+  "result_tthm_g_l_a" : "37",
+  "analysis_date_haa5_g_l_b" : "2017-05-05T16:43:23",
+  "oel_tthm_g_l_a" : "38",
+  "result_haa5_g_l_b" : "48",
+  "oel_haa5_g_l_b" : "40"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-04T16:43:00",
+  "site" : "33450",
+  "lraa_tthm_g_l_a" : "33",
+  "lraa_haa5_g_l_b" : "35",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - IFO 135 N/S W 112th St, 2nd SS W/O St Nicholas Ave, 12\"",
+  "result_tthm_g_l_a" : "40",
+  "analysis_date_haa5_g_l_b" : "2017-05-05T17:25:15",
+  "oel_tthm_g_l_a" : "33",
+  "result_haa5_g_l_b" : "49",
+  "oel_haa5_g_l_b" : "39"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-05T14:18:00",
+  "site" : "33950",
+  "lraa_tthm_g_l_a" : "32",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - N/S E 104th Street, 2nd SS E/O 3rd Avenue, 12\"",
+  "result_tthm_g_l_a" : "34",
+  "analysis_date_haa5_g_l_b" : "2017-05-05T18:07:14",
+  "oel_tthm_g_l_a" : "30",
+  "result_haa5_g_l_b" : "53",
+  "oel_haa5_g_l_b" : "42"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-05T14:37:00",
+  "site" : "37950",
+  "lraa_tthm_g_l_a" : "45",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - IFO 325 N/S E 12th Street, 2nd SS E/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "40",
+  "analysis_date_haa5_g_l_b" : "2017-05-05T18:49:08",
+  "oel_tthm_g_l_a" : "40",
+  "result_haa5_g_l_b" : "46",
+  "oel_haa5_g_l_b" : "40"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-05T18:03:00",
+  "site" : "38250",
+  "lraa_tthm_g_l_a" : "42",
+  "lraa_haa5_g_l_b" : "44",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - IFO 309 N/S E 87th St, 2nd SS W/O 1st Ave, 12\"",
+  "result_tthm_g_l_a" : "30",
+  "analysis_date_haa5_g_l_b" : "2017-05-05T19:31:07",
+  "oel_tthm_g_l_a" : "33",
+  "result_haa5_g_l_b" : "45",
+  "oel_haa5_g_l_b" : "42"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-05T18:22:00",
+  "site" : "39650",
+  "lraa_tthm_g_l_a" : "39",
+  "lraa_haa5_g_l_b" : "39",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - IFO 229 N/S E 49th St, 2nd SS W/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "22",
+  "analysis_date_haa5_g_l_b" : "2017-05-05T20:13:00",
+  "oel_tthm_g_l_a" : "29",
+  "result_haa5_g_l_b" : "39",
+  "oel_haa5_g_l_b" : "37"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-05T19:20:00",
+  "site" : "44350",
+  "lraa_tthm_g_l_a" : "45",
+  "lraa_haa5_g_l_b" : "45",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - IFO 21-55 N/S 34th Ave, 1st SS W/O 24th St, 12\"",
+  "result_tthm_g_l_a" : "32",
+  "analysis_date_haa5_g_l_b" : "2017-05-08T21:02:52",
+  "oel_tthm_g_l_a" : "36",
+  "result_haa5_g_l_b" : "55",
+  "oel_haa5_g_l_b" : "46"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-05T19:39:00",
+  "site" : "45250",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - E/S Beach 58th St, 2nd SS N/O Beach Channel Drive, 12\"",
+  "result_tthm_g_l_a" : "27",
+  "analysis_date_haa5_g_l_b" : "2017-05-08T21:44:43",
+  "oel_tthm_g_l_a" : "30",
+  "result_haa5_g_l_b" : "45",
+  "oel_haa5_g_l_b" : "36"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-05T19:59:00",
+  "site" : "50250",
+  "lraa_tthm_g_l_a" : "33",
+  "lraa_haa5_g_l_b" : "39",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - IFO 937 N/S Victory Blvd, 2nd SS E/O Highland Ave, 20\"",
+  "result_tthm_g_l_a" : "22",
+  "analysis_date_haa5_g_l_b" : "2017-05-08T22:26:40",
+  "oel_tthm_g_l_a" : "26",
+  "result_haa5_g_l_b" : "40",
+  "oel_haa5_g_l_b" : "36"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-05T20:18:00",
+  "site" : "50750",
+  "lraa_tthm_g_l_a" : "41",
+  "lraa_haa5_g_l_b" : "38",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - E/S Woodhull Ave, 1st SS S/O Albourne Ave, 8\"",
+  "result_tthm_g_l_a" : "27",
+  "analysis_date_haa5_g_l_b" : "2017-05-08T23:08:47",
+  "oel_tthm_g_l_a" : "33",
+  "result_haa5_g_l_b" : "45",
+  "oel_haa5_g_l_b" : "39"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-05T20:37:00",
+  "site" : "50850",
+  "lraa_tthm_g_l_a" : "38",
+  "lraa_haa5_g_l_b" : "39",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - IFO 512 W/S Arlene St, 1st SS N/O Dawson Ct, 12\"",
+  "result_tthm_g_l_a" : "30",
+  "analysis_date_haa5_g_l_b" : "2017-05-08T23:50:41",
+  "oel_tthm_g_l_a" : "31",
+  "result_haa5_g_l_b" : "47",
+  "oel_haa5_g_l_b" : "39"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-05T20:57:00",
+  "site" : "52050",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "39",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - IFO 218 W/S Nicholas Ave, 1st SS S/O Charles Ave, 12\"",
+  "result_tthm_g_l_a" : "22",
+  "analysis_date_haa5_g_l_b" : "2017-05-09T00:32:25",
+  "oel_tthm_g_l_a" : "27",
+  "result_haa5_g_l_b" : "45",
+  "oel_haa5_g_l_b" : "39"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-05T21:16:00",
+  "site" : "58650",
+  "lraa_tthm_g_l_a" : "45",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - IFO 510 W/S Main St, 2nd SS S/O Hylan Blvd, 12\"",
+  "result_tthm_g_l_a" : "24",
+  "analysis_date_haa5_g_l_b" : "2017-05-09T01:14:15",
+  "oel_tthm_g_l_a" : "32",
+  "result_haa5_g_l_b" : "44",
+  "oel_haa5_g_l_b" : "36"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-05-05T21:35:00",
+  "site" : "77650",
+  "lraa_tthm_g_l_a" : "31",
+  "lraa_haa5_g_l_b" : "34",
+  "sample_date" : "2017-05-02T00:00:00",
+  "location" : "SS - OPP 110-52 E/S 207th St",
+  "result_tthm_g_l_a" : "24",
+  "analysis_date_haa5_g_l_b" : "2017-05-09T01:55:55",
+  "oel_tthm_g_l_a" : "25",
+  "result_haa5_g_l_b" : "42",
+  "oel_haa5_g_l_b" : "35"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-08T00:00:00",
+  "site" : "15150",
+  "lraa_tthm_g_l_a" : "42",
+  "lraa_haa5_g_l_b" : "42",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - IFO 1420 E/S Grand Concourse, 1st SS S/O E 171st St, 20\"",
+  "result_tthm_g_l_a" : "21",
+  "analysis_date_haa5_g_l_b" : "2017-02-10T00:00:00",
+  "oel_tthm_g_l_a" : "35",
+  "result_haa5_g_l_b" : "30",
+  "oel_haa5_g_l_b" : "37"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-09T00:00:00",
+  "site" : "18650",
+  "lraa_tthm_g_l_a" : "33",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - N/S Dewey Ave, btw Quincy & Swinton Aves, 12\"",
+  "result_tthm_g_l_a" : "25",
+  "analysis_date_haa5_g_l_b" : "2017-02-11T00:00:00",
+  "oel_tthm_g_l_a" : "31",
+  "result_haa5_g_l_b" : "29",
+  "oel_haa5_g_l_b" : "30"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-09T00:00:00",
+  "site" : "23450",
+  "lraa_tthm_g_l_a" : "42",
+  "lraa_haa5_g_l_b" : "35",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - N/S Jefferson Avenue, 2nd SS W/O Lewis Avenue, 20\"",
+  "result_tthm_g_l_a" : "19",
+  "analysis_date_haa5_g_l_b" : "2017-02-11T00:00:00",
+  "oel_tthm_g_l_a" : "36",
+  "result_haa5_g_l_b" : "25",
+  "oel_haa5_g_l_b" : "30"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-09T00:00:00",
+  "site" : "24350",
+  "lraa_tthm_g_l_a" : "44",
+  "lraa_haa5_g_l_b" : "45",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - W/S Brighton 11th Street, 2nd SS S/O Cass Place, 12\"",
+  "result_tthm_g_l_a" : "23",
+  "analysis_date_haa5_g_l_b" : "2017-02-11T00:00:00",
+  "oel_tthm_g_l_a" : "38",
+  "result_haa5_g_l_b" : "29",
+  "oel_haa5_g_l_b" : "39"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-09T00:00:00",
+  "site" : "31750",
+  "lraa_tthm_g_l_a" : "44",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - IFO 427 N/S W 26th St, 2nd SS W/O 9th Ave, 12\"",
+  "result_tthm_g_l_a" : "32",
+  "analysis_date_haa5_g_l_b" : "2017-02-11T00:00:00",
+  "oel_tthm_g_l_a" : "41",
+  "result_haa5_g_l_b" : "33",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-09T00:00:00",
+  "site" : "31850",
+  "lraa_tthm_g_l_a" : "47",
+  "lraa_haa5_g_l_b" : "34",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - IFO 82 S/S Warren St, 2nd SS E/O Greenwich St, 12\"",
+  "result_tthm_g_l_a" : "25",
+  "analysis_date_haa5_g_l_b" : "2017-02-11T00:00:00",
+  "oel_tthm_g_l_a" : "41",
+  "result_haa5_g_l_b" : "31",
+  "oel_haa5_g_l_b" : "32"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-09T00:00:00",
+  "site" : "32350",
+  "lraa_tthm_g_l_a" : "44",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - IFO 116 E/S Ave C, 2nd SS N/O E 7th St, 12\"",
+  "result_tthm_g_l_a" : "28",
+  "analysis_date_haa5_g_l_b" : "2017-02-11T00:00:00",
+  "oel_tthm_g_l_a" : "40",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-09T00:00:00",
+  "site" : "33450",
+  "lraa_tthm_g_l_a" : "29",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - IFO 135 N/S W 112th St, 2nd SS W/O St Nicholas Ave, 12\"",
+  "result_tthm_g_l_a" : "25",
+  "analysis_date_haa5_g_l_b" : "2017-02-13T00:00:00",
+  "oel_tthm_g_l_a" : "29",
+  "result_haa5_g_l_b" : "29",
+  "oel_haa5_g_l_b" : "30"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-09T00:00:00",
+  "site" : "33950",
+  "lraa_tthm_g_l_a" : "29",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - N/S E 104th Street, 2nd SS E/O 3rd Avenue, 12\"",
+  "result_tthm_g_l_a" : "25",
+  "analysis_date_haa5_g_l_b" : "2017-02-13T00:00:00",
+  "oel_tthm_g_l_a" : "29",
+  "result_haa5_g_l_b" : "31",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-09T00:00:00",
+  "site" : "37950",
+  "lraa_tthm_g_l_a" : "47",
+  "lraa_haa5_g_l_b" : "38",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - IFO 325 N/S E 12th Street, 2nd SS E/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "28",
+  "analysis_date_haa5_g_l_b" : "2017-02-13T00:00:00",
+  "oel_tthm_g_l_a" : "42",
+  "result_haa5_g_l_b" : "31",
+  "oel_haa5_g_l_b" : "33"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-09T00:00:00",
+  "site" : "38250",
+  "lraa_tthm_g_l_a" : "47",
+  "lraa_haa5_g_l_b" : "47",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - IFO 309 N/S E 87th St, 2nd SS W/O 1st Ave, 12\"",
+  "result_tthm_g_l_a" : "26",
+  "analysis_date_haa5_g_l_b" : "2017-02-13T00:00:00",
+  "oel_tthm_g_l_a" : "41",
+  "result_haa5_g_l_b" : "30",
+  "oel_haa5_g_l_b" : "40"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-10T00:00:00",
+  "site" : "39650",
+  "lraa_tthm_g_l_a" : "45",
+  "lraa_haa5_g_l_b" : "43",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - IFO 229 N/S E 49th St, 2nd SS W/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "28",
+  "analysis_date_haa5_g_l_b" : "2017-02-14T00:00:00",
+  "oel_tthm_g_l_a" : "41",
+  "result_haa5_g_l_b" : "32",
+  "oel_haa5_g_l_b" : "37"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-10T00:00:00",
+  "site" : "44350",
+  "lraa_tthm_g_l_a" : "49",
+  "lraa_haa5_g_l_b" : "45",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - IFO 21-55 N/S 34th Ave, 1st SS W/O 24th St, 12\"",
+  "result_tthm_g_l_a" : "33",
+  "analysis_date_haa5_g_l_b" : "2017-02-14T00:00:00",
+  "oel_tthm_g_l_a" : "45",
+  "result_haa5_g_l_b" : "33",
+  "oel_haa5_g_l_b" : "39"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-10T00:00:00",
+  "site" : "45250",
+  "lraa_tthm_g_l_a" : "40",
+  "lraa_haa5_g_l_b" : "36",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - E/S Beach 58th St, 2nd SS N/O Beach Channel Drive, 12\"",
+  "result_tthm_g_l_a" : "21",
+  "analysis_date_haa5_g_l_b" : "2017-02-14T00:00:00",
+  "oel_tthm_g_l_a" : "35",
+  "result_haa5_g_l_b" : "23",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-10T00:00:00",
+  "site" : "50250",
+  "lraa_tthm_g_l_a" : "37",
+  "lraa_haa5_g_l_b" : "42",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - IFO 937 N/S Victory Blvd, 2nd SS E/O Highland Ave, 20\"",
+  "result_tthm_g_l_a" : "18",
+  "analysis_date_haa5_g_l_b" : "2017-02-14T00:00:00",
+  "oel_tthm_g_l_a" : "32",
+  "result_haa5_g_l_b" : "22",
+  "oel_haa5_g_l_b" : "35"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-10T00:00:00",
+  "site" : "50750",
+  "lraa_tthm_g_l_a" : "45",
+  "lraa_haa5_g_l_b" : "40",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - E/S Woodhull Ave, 1st SS S/O Albourne Ave, 8\"",
+  "result_tthm_g_l_a" : "26",
+  "analysis_date_haa5_g_l_b" : "2017-02-14T00:00:00",
+  "oel_tthm_g_l_a" : "41",
+  "result_haa5_g_l_b" : "28",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-10T00:00:00",
+  "site" : "50850",
+  "lraa_tthm_g_l_a" : "41",
+  "lraa_haa5_g_l_b" : "41",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - IFO 512 W/S Arlene St, 1st SS N/O Dawson Ct, 12\"",
+  "result_tthm_g_l_a" : "19",
+  "analysis_date_haa5_g_l_b" : "2017-02-15T00:00:00",
+  "oel_tthm_g_l_a" : "35",
+  "result_haa5_g_l_b" : "23",
+  "oel_haa5_g_l_b" : "33"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-10T00:00:00",
+  "site" : "52050",
+  "lraa_tthm_g_l_a" : "40",
+  "lraa_haa5_g_l_b" : "41",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - IFO 218 W/S Nicholas Ave, 1st SS S/O Charles Ave, 12\"",
+  "result_tthm_g_l_a" : "21",
+  "analysis_date_haa5_g_l_b" : "2017-02-15T00:00:00",
+  "oel_tthm_g_l_a" : "36",
+  "result_haa5_g_l_b" : "25",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-10T00:00:00",
+  "site" : "58650",
+  "lraa_tthm_g_l_a" : "50",
+  "lraa_haa5_g_l_b" : "35",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - IFO 510 W/S Main St, 2nd SS S/O Hylan Blvd, 12\"",
+  "result_tthm_g_l_a" : "25",
+  "analysis_date_haa5_g_l_b" : "2017-02-15T00:00:00",
+  "oel_tthm_g_l_a" : "45",
+  "result_haa5_g_l_b" : "28",
+  "oel_haa5_g_l_b" : "29"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2017-02-10T00:00:00",
+  "site" : "77650",
+  "lraa_tthm_g_l_a" : "34",
+  "lraa_haa5_g_l_b" : "35",
+  "sample_date" : "2017-02-07T00:00:00",
+  "location" : "SS - OPP 110-52 E/S 207th St",
+  "result_tthm_g_l_a" : "18",
+  "analysis_date_haa5_g_l_b" : "2017-02-15T00:00:00",
+  "oel_tthm_g_l_a" : "30",
+  "result_haa5_g_l_b" : "22",
+  "oel_haa5_g_l_b" : "29"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-01T00:00:00",
+  "site" : "15150",
+  "lraa_tthm_g_l_a" : "45",
+  "lraa_haa5_g_l_b" : "43",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - IFO 1420 E/S Grand Concourse, 1st SS S/O E 171st St, 20\"",
+  "result_tthm_g_l_a" : "39",
+  "analysis_date_haa5_g_l_b" : "2016-11-03T00:00:00",
+  "oel_tthm_g_l_a" : "46",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "43"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-01T00:00:00",
+  "site" : "18650",
+  "lraa_tthm_g_l_a" : "33",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - N/S Dewey Ave, btw Quincy & Swinton Aves, 12\"",
+  "result_tthm_g_l_a" : "33",
+  "analysis_date_haa5_g_l_b" : "2016-11-04T00:00:00",
+  "oel_tthm_g_l_a" : "35",
+  "result_haa5_g_l_b" : "30",
+  "oel_haa5_g_l_b" : "32"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-01T00:00:00",
+  "site" : "23450",
+  "lraa_tthm_g_l_a" : "44",
+  "lraa_haa5_g_l_b" : "36",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - N/S Jefferson Avenue, 2nd SS W/O Lewis Avenue, 20\"",
+  "result_tthm_g_l_a" : "45",
+  "analysis_date_haa5_g_l_b" : "2016-11-04T00:00:00",
+  "oel_tthm_g_l_a" : "48",
+  "result_haa5_g_l_b" : "37",
+  "oel_haa5_g_l_b" : "38"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-01T00:00:00",
+  "site" : "24350",
+  "lraa_tthm_g_l_a" : "48",
+  "lraa_haa5_g_l_b" : "47",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - W/S Brighton 11th Street, 2nd SS S/O Cass Place, 12\"",
+  "result_tthm_g_l_a" : "44",
+  "analysis_date_haa5_g_l_b" : "2016-11-04T00:00:00",
+  "oel_tthm_g_l_a" : "49",
+  "result_haa5_g_l_b" : "43",
+  "oel_haa5_g_l_b" : "48"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-02T00:00:00",
+  "site" : "31750",
+  "lraa_tthm_g_l_a" : "45",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - IFO 427 N/S W 26th St, 2nd SS W/O 9th Ave, 12\"",
+  "result_tthm_g_l_a" : "44",
+  "analysis_date_haa5_g_l_b" : "2016-11-04T00:00:00",
+  "oel_tthm_g_l_a" : "47",
+  "result_haa5_g_l_b" : "27",
+  "oel_haa5_g_l_b" : "32"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-02T00:00:00",
+  "site" : "31850",
+  "lraa_tthm_g_l_a" : "51",
+  "lraa_haa5_g_l_b" : "34",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - IFO 82 S/S Warren St, 2nd SS E/O Greenwich St, 12\"",
+  "result_tthm_g_l_a" : "58",
+  "analysis_date_haa5_g_l_b" : "2016-11-04T00:00:00",
+  "oel_tthm_g_l_a" : "56",
+  "result_haa5_g_l_b" : "33",
+  "oel_haa5_g_l_b" : "35"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-02T00:00:00",
+  "site" : "32350",
+  "lraa_tthm_g_l_a" : "47",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - IFO 116 E/S Ave C, 2nd SS N/O E 7th St, 12\"",
+  "result_tthm_g_l_a" : "48",
+  "analysis_date_haa5_g_l_b" : "2016-11-04T00:00:00",
+  "oel_tthm_g_l_a" : "49",
+  "result_haa5_g_l_b" : "30",
+  "oel_haa5_g_l_b" : "36"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-01T00:00:00",
+  "site" : "33450",
+  "lraa_tthm_g_l_a" : "29",
+  "lraa_haa5_g_l_b" : "29",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - IFO 135 N/S W 112th St, 2nd SS W/O St Nicholas Ave, 12\"",
+  "result_tthm_g_l_a" : "25",
+  "analysis_date_haa5_g_l_b" : "2016-11-05T00:00:00",
+  "oel_tthm_g_l_a" : "29",
+  "result_haa5_g_l_b" : "29",
+  "oel_haa5_g_l_b" : "30"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-01T00:00:00",
+  "site" : "33950",
+  "lraa_tthm_g_l_a" : "29",
+  "lraa_haa5_g_l_b" : "29",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - N/S E 104th Street, 2nd SS E/O 3rd Avenue, 12\"",
+  "result_tthm_g_l_a" : "26",
+  "analysis_date_haa5_g_l_b" : "2016-11-05T00:00:00",
+  "oel_tthm_g_l_a" : "30",
+  "result_haa5_g_l_b" : "29",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-02T00:00:00",
+  "site" : "37950",
+  "lraa_tthm_g_l_a" : "50",
+  "lraa_haa5_g_l_b" : "39",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - IFO 325 N/S E 12th Street, 2nd SS E/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "53",
+  "analysis_date_haa5_g_l_b" : "2016-11-05T00:00:00",
+  "oel_tthm_g_l_a" : "53",
+  "result_haa5_g_l_b" : "36",
+  "oel_haa5_g_l_b" : "39"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-01T00:00:00",
+  "site" : "38250",
+  "lraa_tthm_g_l_a" : "50",
+  "lraa_haa5_g_l_b" : "49",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - IFO 309 N/S E 87th St, 2nd SS W/O 1st Ave, 12\"",
+  "result_tthm_g_l_a" : "45",
+  "analysis_date_haa5_g_l_b" : "2016-11-05T00:00:00",
+  "oel_tthm_g_l_a" : "52",
+  "result_haa5_g_l_b" : "48",
+  "oel_haa5_g_l_b" : "51"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-01T00:00:00",
+  "site" : "39650",
+  "lraa_tthm_g_l_a" : "47",
+  "lraa_haa5_g_l_b" : "44",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - IFO 229 N/S E 49th St, 2nd SS W/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "44",
+  "analysis_date_haa5_g_l_b" : "2016-11-07T00:00:00",
+  "oel_tthm_g_l_a" : "49",
+  "result_haa5_g_l_b" : "38",
+  "oel_haa5_g_l_b" : "44"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-02T00:00:00",
+  "site" : "44350",
+  "lraa_tthm_g_l_a" : "51",
+  "lraa_haa5_g_l_b" : "47",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - IFO 21-55 N/S 34th Ave, 1st SS W/O 24th St, 12\"",
+  "result_tthm_g_l_a" : "47",
+  "analysis_date_haa5_g_l_b" : "2016-11-07T00:00:00",
+  "oel_tthm_g_l_a" : "53",
+  "result_haa5_g_l_b" : "41",
+  "oel_haa5_g_l_b" : "47"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-01T00:00:00",
+  "site" : "45250",
+  "lraa_tthm_g_l_a" : "41",
+  "lraa_haa5_g_l_b" : "38",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - E/S Beach 58th St, 2nd SS N/O Beach Channel Drive, 12\"",
+  "result_tthm_g_l_a" : "43",
+  "analysis_date_haa5_g_l_b" : "2016-11-07T00:00:00",
+  "oel_tthm_g_l_a" : "45",
+  "result_haa5_g_l_b" : "32",
+  "oel_haa5_g_l_b" : "38"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-02T00:00:00",
+  "site" : "50250",
+  "lraa_tthm_g_l_a" : "39",
+  "lraa_haa5_g_l_b" : "45",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - IFO 937 N/S Victory Blvd, 2nd SS E/O Highland Ave, 20\"",
+  "result_tthm_g_l_a" : "42",
+  "analysis_date_haa5_g_l_b" : "2016-11-07T00:00:00",
+  "oel_tthm_g_l_a" : "43",
+  "result_haa5_g_l_b" : "43",
+  "oel_haa5_g_l_b" : "48"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-02T00:00:00",
+  "site" : "50750",
+  "lraa_tthm_g_l_a" : "46",
+  "lraa_haa5_g_l_b" : "42",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - E/S Woodhull Ave, 1st SS S/O Albourne Ave, 8\"",
+  "result_tthm_g_l_a" : "53",
+  "analysis_date_haa5_g_l_b" : "2016-11-07T00:00:00",
+  "oel_tthm_g_l_a" : "52",
+  "result_haa5_g_l_b" : "39",
+  "oel_haa5_g_l_b" : "43"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-02T00:00:00",
+  "site" : "50850",
+  "lraa_tthm_g_l_a" : "43",
+  "lraa_haa5_g_l_b" : "43",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - IFO 512 W/S Arlene St, 1st SS N/O Dawson Ct, 12\"",
+  "result_tthm_g_l_a" : "44",
+  "analysis_date_haa5_g_l_b" : "2016-11-08T00:00:00",
+  "oel_tthm_g_l_a" : "47",
+  "result_haa5_g_l_b" : "40",
+  "oel_haa5_g_l_b" : "45"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-02T00:00:00",
+  "site" : "52050",
+  "lraa_tthm_g_l_a" : "42",
+  "lraa_haa5_g_l_b" : "43",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - IFO 218 W/S Nicholas Ave, 1st SS S/O Charles Ave, 12\"",
+  "result_tthm_g_l_a" : "42",
+  "analysis_date_haa5_g_l_b" : "2016-11-08T00:00:00",
+  "oel_tthm_g_l_a" : "45",
+  "result_haa5_g_l_b" : "41",
+  "oel_haa5_g_l_b" : "45"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-03T00:00:00",
+  "site" : "58650",
+  "lraa_tthm_g_l_a" : "52",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - IFO 510 W/S Main St, 2nd SS S/O Hylan Blvd, 12\"",
+  "result_tthm_g_l_a" : "55",
+  "analysis_date_haa5_g_l_b" : "2016-11-08T00:00:00",
+  "oel_tthm_g_l_a" : "58",
+  "result_haa5_g_l_b" : "27",
+  "oel_haa5_g_l_b" : "35"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-11-03T00:00:00",
+  "site" : "77650",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2016-11-01T00:00:00",
+  "location" : "SS - OPP 110-52 E/S 207th St",
+  "result_tthm_g_l_a" : "33",
+  "analysis_date_haa5_g_l_b" : "2016-11-08T00:00:00",
+  "oel_tthm_g_l_a" : "38",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "38"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-15T00:00:00",
+  "site" : "52050",
+  "lraa_tthm_g_l_a" : "43",
+  "lraa_haa5_g_l_b" : "39",
+  "sample_date" : "2016-08-10T00:00:00",
+  "location" : "SS - IFO 218 W/S Nicholas Ave, 1st SS S/O Charles Ave, 12\"",
+  "result_tthm_g_l_a" : "58",
+  "analysis_date_haa5_g_l_b" : "2016-08-16T00:00:00",
+  "oel_tthm_g_l_a" : "46",
+  "result_haa5_g_l_b" : "46",
+  "oel_haa5_g_l_b" : "44"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-12T00:00:00",
+  "site" : "15150",
+  "lraa_tthm_g_l_a" : "46",
+  "lraa_haa5_g_l_b" : "46",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - IFO 1420 E/S Grand Concourse, 1st SS S/O E 171st St, 20\"",
+  "result_tthm_g_l_a" : "60",
+  "analysis_date_haa5_g_l_b" : "2016-08-15T00:00:00",
+  "oel_tthm_g_l_a" : "50",
+  "result_haa5_g_l_b" : "51",
+  "oel_haa5_g_l_b" : "47"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-10T00:00:00",
+  "site" : "18650",
+  "lraa_tthm_g_l_a" : "33",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - N/S Dewey Ave, btw Quincy & Swinton Aves, 12\"",
+  "result_tthm_g_l_a" : "42",
+  "analysis_date_haa5_g_l_b" : "2016-08-11T00:00:00",
+  "oel_tthm_g_l_a" : "35",
+  "result_haa5_g_l_b" : "31",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-10T00:00:00",
+  "site" : "23450",
+  "lraa_tthm_g_l_a" : "42",
+  "lraa_haa5_g_l_b" : "36",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - N/S Jefferson Avenue, 2nd SS W/O Lewis Avenue, 20\"",
+  "result_tthm_g_l_a" : "60",
+  "analysis_date_haa5_g_l_b" : "2016-08-11T00:00:00",
+  "oel_tthm_g_l_a" : "47",
+  "result_haa5_g_l_b" : "32",
+  "oel_haa5_g_l_b" : "35"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-10T00:00:00",
+  "site" : "24350",
+  "lraa_tthm_g_l_a" : "46",
+  "lraa_haa5_g_l_b" : "45",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - W/S Brighton 11th Street, 2nd SS S/O Cass Place, 12\"",
+  "result_tthm_g_l_a" : "63",
+  "analysis_date_haa5_g_l_b" : "2016-08-11T00:00:00",
+  "oel_tthm_g_l_a" : "52",
+  "result_haa5_g_l_b" : "55",
+  "oel_haa5_g_l_b" : "50"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-10T00:00:00",
+  "site" : "31750",
+  "lraa_tthm_g_l_a" : "46",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - IFO 427 N/S W 26th St, 2nd SS W/O 9th Ave, 12\"",
+  "result_tthm_g_l_a" : "55",
+  "analysis_date_haa5_g_l_b" : "2016-08-11T00:00:00",
+  "oel_tthm_g_l_a" : "48",
+  "result_haa5_g_l_b" : "29",
+  "oel_haa5_g_l_b" : "32"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-10T00:00:00",
+  "site" : "31850",
+  "lraa_tthm_g_l_a" : "49",
+  "lraa_haa5_g_l_b" : "34",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - IFO 82 S/S Warren St, 2nd SS E/O Greenwich St, 12\"",
+  "result_tthm_g_l_a" : "55",
+  "analysis_date_haa5_g_l_b" : "2016-08-12T00:00:00",
+  "oel_tthm_g_l_a" : "50",
+  "result_haa5_g_l_b" : "32",
+  "oel_haa5_g_l_b" : "33"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-10T00:00:00",
+  "site" : "32350",
+  "lraa_tthm_g_l_a" : "46",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - IFO 116 E/S Ave C, 2nd SS N/O E 7th St, 12\"",
+  "result_tthm_g_l_a" : "55",
+  "analysis_date_haa5_g_l_b" : "2016-08-12T00:00:00",
+  "oel_tthm_g_l_a" : "48",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "38"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-11T00:00:00",
+  "site" : "33450",
+  "lraa_tthm_g_l_a" : "32",
+  "lraa_haa5_g_l_b" : "28",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - IFO 135 N/S W 112th St, 2nd SS W/O St Nicholas Ave, 12\"",
+  "result_tthm_g_l_a" : "40",
+  "analysis_date_haa5_g_l_b" : "2016-08-12T00:00:00",
+  "oel_tthm_g_l_a" : "33",
+  "result_haa5_g_l_b" : "32",
+  "oel_haa5_g_l_b" : "29"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-11T00:00:00",
+  "site" : "33950",
+  "lraa_tthm_g_l_a" : "32",
+  "lraa_haa5_g_l_b" : "29",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - N/S E 104th Street, 2nd SS E/O 3rd Avenue, 12\"",
+  "result_tthm_g_l_a" : "41",
+  "analysis_date_haa5_g_l_b" : "2016-08-12T00:00:00",
+  "oel_tthm_g_l_a" : "33",
+  "result_haa5_g_l_b" : "33",
+  "oel_haa5_g_l_b" : "30"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-11T00:00:00",
+  "site" : "37950",
+  "lraa_tthm_g_l_a" : "49",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - IFO 325 N/S E 12th Street, 2nd SS E/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "57",
+  "analysis_date_haa5_g_l_b" : "2016-08-12T00:00:00",
+  "oel_tthm_g_l_a" : "51",
+  "result_haa5_g_l_b" : "33",
+  "oel_haa5_g_l_b" : "38"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-11T00:00:00",
+  "site" : "38250",
+  "lraa_tthm_g_l_a" : "52",
+  "lraa_haa5_g_l_b" : "50",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - IFO 309 N/S E 87th St, 2nd SS W/O 1st Ave, 12\"",
+  "result_tthm_g_l_a" : "66",
+  "analysis_date_haa5_g_l_b" : "2016-08-12T00:00:00",
+  "oel_tthm_g_l_a" : "55",
+  "result_haa5_g_l_b" : "53",
+  "oel_haa5_g_l_b" : "50"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-11T00:00:00",
+  "site" : "39650",
+  "lraa_tthm_g_l_a" : "48",
+  "lraa_haa5_g_l_b" : "45",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - IFO 229 N/S E 49th St, 2nd SS W/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "62",
+  "analysis_date_haa5_g_l_b" : "2016-08-13T00:00:00",
+  "oel_tthm_g_l_a" : "52",
+  "result_haa5_g_l_b" : "46",
+  "oel_haa5_g_l_b" : "46"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-11T00:00:00",
+  "site" : "44350",
+  "lraa_tthm_g_l_a" : "48",
+  "lraa_haa5_g_l_b" : "46",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - IFO 21-55 N/S 34th Ave, 1st SS W/O 24th St, 12\"",
+  "result_tthm_g_l_a" : "68",
+  "analysis_date_haa5_g_l_b" : "2016-08-13T00:00:00",
+  "oel_tthm_g_l_a" : "57",
+  "result_haa5_g_l_b" : "49",
+  "oel_haa5_g_l_b" : "49"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-11T00:00:00",
+  "site" : "45250",
+  "lraa_tthm_g_l_a" : "39",
+  "lraa_haa5_g_l_b" : "38",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - E/S Beach 58th St, 2nd SS N/O Beach Channel Drive, 12\"",
+  "result_tthm_g_l_a" : "54",
+  "analysis_date_haa5_g_l_b" : "2016-08-13T00:00:00",
+  "oel_tthm_g_l_a" : "44",
+  "result_haa5_g_l_b" : "46",
+  "oel_haa5_g_l_b" : "41"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-11T00:00:00",
+  "site" : "50250",
+  "lraa_tthm_g_l_a" : "38",
+  "lraa_haa5_g_l_b" : "43",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - IFO 937 N/S Victory Blvd, 2nd SS E/O Highland Ave, 20\"",
+  "result_tthm_g_l_a" : "50",
+  "analysis_date_haa5_g_l_b" : "2016-08-13T00:00:00",
+  "oel_tthm_g_l_a" : "41",
+  "result_haa5_g_l_b" : "52",
+  "oel_haa5_g_l_b" : "47"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-11T00:00:00",
+  "site" : "50750",
+  "lraa_tthm_g_l_a" : "45",
+  "lraa_haa5_g_l_b" : "38",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - E/S Woodhull Ave, 1st SS S/O Albourne Ave, 8\"",
+  "result_tthm_g_l_a" : "59",
+  "analysis_date_haa5_g_l_b" : "2016-08-13T00:00:00",
+  "oel_tthm_g_l_a" : "48",
+  "result_haa5_g_l_b" : "40",
+  "oel_haa5_g_l_b" : "42"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-12T00:00:00",
+  "site" : "50850",
+  "lraa_tthm_g_l_a" : "43",
+  "lraa_haa5_g_l_b" : "42",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - IFO 512 W/S Arlene St, 1st SS N/O Dawson Ct, 12\"",
+  "result_tthm_g_l_a" : "59",
+  "analysis_date_haa5_g_l_b" : "2016-08-13T00:00:00",
+  "oel_tthm_g_l_a" : "47",
+  "result_haa5_g_l_b" : "46",
+  "oel_haa5_g_l_b" : "45"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-12T00:00:00",
+  "site" : "58650",
+  "lraa_tthm_g_l_a" : "50",
+  "lraa_haa5_g_l_b" : "38",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - IFO 510 W/S Main St, 2nd SS S/O Hylan Blvd, 12\"",
+  "result_tthm_g_l_a" : "76",
+  "analysis_date_haa5_g_l_b" : "2016-08-15T00:00:00",
+  "oel_tthm_g_l_a" : "58",
+  "result_haa5_g_l_b" : "33",
+  "oel_haa5_g_l_b" : "38"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-08-12T00:00:00",
+  "site" : "77650",
+  "lraa_tthm_g_l_a" : "37",
+  "lraa_haa5_g_l_b" : "36",
+  "sample_date" : "2016-08-09T00:00:00",
+  "location" : "SS - OPP 110-52 E/S 207th St",
+  "result_tthm_g_l_a" : "49",
+  "analysis_date_haa5_g_l_b" : "2016-08-15T00:00:00",
+  "oel_tthm_g_l_a" : "40",
+  "result_haa5_g_l_b" : "36",
+  "oel_haa5_g_l_b" : "37"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-18T00:00:00",
+  "site" : "45250",
+  "lraa_tthm_g_l_a" : "39",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2016-05-18T00:00:00",
+  "location" : "SS - E/S Beach 58th St, 2nd SS N/O Beach Channel Drive, 12\"",
+  "result_tthm_g_l_a" : "41",
+  "analysis_date_haa5_g_l_b" : "2016-05-25T00:00:00",
+  "oel_tthm_g_l_a" : "36",
+  "result_haa5_g_l_b" : "41",
+  "oel_haa5_g_l_b" : "37"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-03T00:00:00",
+  "site" : "15150",
+  "lraa_tthm_g_l_a" : "46",
+  "lraa_haa5_g_l_b" : "40",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - IFO 1420 E/S Grand Concourse, 1st SS S/O E 171st St, 20\"",
+  "result_tthm_g_l_a" : "47",
+  "analysis_date_haa5_g_l_b" : "2016-05-05T00:00:00",
+  "oel_tthm_g_l_a" : "43",
+  "result_haa5_g_l_b" : "51",
+  "oel_haa5_g_l_b" : "46"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-04T00:00:00",
+  "site" : "18650",
+  "lraa_tthm_g_l_a" : "33",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - N/S Dewey Ave, btw Quincy & Swinton Aves, 12\"",
+  "result_tthm_g_l_a" : "32",
+  "analysis_date_haa5_g_l_b" : "2016-05-05T00:00:00",
+  "oel_tthm_g_l_a" : "31",
+  "result_haa5_g_l_b" : "36",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-04T00:00:00",
+  "site" : "23450",
+  "lraa_tthm_g_l_a" : "40",
+  "lraa_haa5_g_l_b" : "36",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - N/S Jefferson Avenue, 2nd SS W/O Lewis Avenue, 20\"",
+  "result_tthm_g_l_a" : "42",
+  "analysis_date_haa5_g_l_b" : "2016-05-05T00:00:00",
+  "oel_tthm_g_l_a" : "37",
+  "result_haa5_g_l_b" : "47",
+  "oel_haa5_g_l_b" : "40"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-03T00:00:00",
+  "site" : "24350",
+  "lraa_tthm_g_l_a" : "46",
+  "lraa_haa5_g_l_b" : "39",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - W/S Brighton 11th Street, 2nd SS S/O Cass Place, 12\"",
+  "result_tthm_g_l_a" : "45",
+  "analysis_date_haa5_g_l_b" : "2016-05-05T00:00:00",
+  "oel_tthm_g_l_a" : "42",
+  "result_haa5_g_l_b" : "52",
+  "oel_haa5_g_l_b" : "44"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-03T00:00:00",
+  "site" : "31750",
+  "lraa_tthm_g_l_a" : "44",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - IFO 427 N/S W 26th St, 2nd SS W/O 9th Ave, 12\"",
+  "result_tthm_g_l_a" : "44",
+  "analysis_date_haa5_g_l_b" : "2016-05-06T00:00:00",
+  "oel_tthm_g_l_a" : "43",
+  "result_haa5_g_l_b" : "44",
+  "oel_haa5_g_l_b" : "35"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-03T00:00:00",
+  "site" : "31850",
+  "lraa_tthm_g_l_a" : "50",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - IFO 82 S/S Warren St, 2nd SS E/O Greenwich St, 12\"",
+  "result_tthm_g_l_a" : "51",
+  "analysis_date_haa5_g_l_b" : "2016-05-06T00:00:00",
+  "oel_tthm_g_l_a" : "48",
+  "result_haa5_g_l_b" : "40",
+  "oel_haa5_g_l_b" : "36"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-03T00:00:00",
+  "site" : "32350",
+  "lraa_tthm_g_l_a" : "47",
+  "lraa_haa5_g_l_b" : "35",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - IFO 116 E/S Ave C, 2nd SS N/O E 7th St, 12\"",
+  "result_tthm_g_l_a" : "46",
+  "analysis_date_haa5_g_l_b" : "2016-05-06T00:00:00",
+  "oel_tthm_g_l_a" : "44",
+  "result_haa5_g_l_b" : "47",
+  "oel_haa5_g_l_b" : "40"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-03T00:00:00",
+  "site" : "33450",
+  "lraa_tthm_g_l_a" : "31",
+  "lraa_haa5_g_l_b" : "26",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - IFO 135 N/S W 112th St, 2nd SS W/O St Nicholas Ave, 12\"",
+  "result_tthm_g_l_a" : "25",
+  "analysis_date_haa5_g_l_b" : "2016-05-06T00:00:00",
+  "oel_tthm_g_l_a" : "28",
+  "result_haa5_g_l_b" : "31",
+  "oel_haa5_g_l_b" : "28"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-03T00:00:00",
+  "site" : "33950",
+  "lraa_tthm_g_l_a" : "31",
+  "lraa_haa5_g_l_b" : "27",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - N/S E 104th Street, 2nd SS E/O 3rd Avenue, 12\"",
+  "result_tthm_g_l_a" : "25",
+  "analysis_date_haa5_g_l_b" : "2016-05-06T00:00:00",
+  "oel_tthm_g_l_a" : "28",
+  "result_haa5_g_l_b" : "31",
+  "oel_haa5_g_l_b" : "28"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-03T00:00:00",
+  "site" : "37950",
+  "lraa_tthm_g_l_a" : "47",
+  "lraa_haa5_g_l_b" : "36",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - IFO 325 N/S E 12th Street, 2nd SS E/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "49",
+  "analysis_date_haa5_g_l_b" : "2016-05-06T00:00:00",
+  "oel_tthm_g_l_a" : "47",
+  "result_haa5_g_l_b" : "50",
+  "oel_haa5_g_l_b" : "41"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-04T00:00:00",
+  "site" : "38250",
+  "lraa_tthm_g_l_a" : "49",
+  "lraa_haa5_g_l_b" : "45",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - IFO 309 N/S E 87th St, 2nd SS W/O 1st Ave, 12\"",
+  "result_tthm_g_l_a" : "50",
+  "analysis_date_haa5_g_l_b" : "2016-05-06T00:00:00",
+  "oel_tthm_g_l_a" : "48",
+  "result_haa5_g_l_b" : "55",
+  "oel_haa5_g_l_b" : "50"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-03T00:00:00",
+  "site" : "39650",
+  "lraa_tthm_g_l_a" : "45",
+  "lraa_haa5_g_l_b" : "42",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - IFO 229 N/S E 49th St, 2nd SS W/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "45",
+  "analysis_date_haa5_g_l_b" : "2016-05-06T00:00:00",
+  "oel_tthm_g_l_a" : "44",
+  "result_haa5_g_l_b" : "55",
+  "oel_haa5_g_l_b" : "47"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-03T00:00:00",
+  "site" : "44350",
+  "lraa_tthm_g_l_a" : "39",
+  "lraa_haa5_g_l_b" : "42",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - IFO 21-55 N/S 34th Ave, 1st SS W/O 24th St, 12\"",
+  "result_tthm_g_l_a" : "48",
+  "analysis_date_haa5_g_l_b" : "2016-05-06T00:00:00",
+  "oel_tthm_g_l_a" : "43",
+  "result_haa5_g_l_b" : "57",
+  "oel_haa5_g_l_b" : "48"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-03T00:00:00",
+  "site" : "50250",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "41",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - IFO 937 N/S Victory Blvd, 2nd SS E/O Highland Ave, 20\"",
+  "result_tthm_g_l_a" : "37",
+  "analysis_date_haa5_g_l_b" : "2016-05-07T00:00:00",
+  "oel_tthm_g_l_a" : "35",
+  "result_haa5_g_l_b" : "52",
+  "oel_haa5_g_l_b" : "43"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-03T00:00:00",
+  "site" : "50750",
+  "lraa_tthm_g_l_a" : "45",
+  "lraa_haa5_g_l_b" : "35",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - E/S Woodhull Ave, 1st SS S/O Albourne Ave, 8\"",
+  "result_tthm_g_l_a" : "43",
+  "analysis_date_haa5_g_l_b" : "2016-05-07T00:00:00",
+  "oel_tthm_g_l_a" : "41",
+  "result_haa5_g_l_b" : "53",
+  "oel_haa5_g_l_b" : "41"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-03T00:00:00",
+  "site" : "50850",
+  "lraa_tthm_g_l_a" : "41",
+  "lraa_haa5_g_l_b" : "39",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - IFO 512 W/S Arlene St, 1st SS N/O Dawson Ct, 12\"",
+  "result_tthm_g_l_a" : "42",
+  "analysis_date_haa5_g_l_b" : "2016-05-07T00:00:00",
+  "oel_tthm_g_l_a" : "39",
+  "result_haa5_g_l_b" : "54",
+  "oel_haa5_g_l_b" : "44"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-03T00:00:00",
+  "site" : "52050",
+  "lraa_tthm_g_l_a" : "42",
+  "lraa_haa5_g_l_b" : "35",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - IFO 218 W/S Nicholas Ave, 1st SS S/O Charles Ave, 12\"",
+  "result_tthm_g_l_a" : "38",
+  "analysis_date_haa5_g_l_b" : "2016-05-07T00:00:00",
+  "oel_tthm_g_l_a" : "38",
+  "result_haa5_g_l_b" : "51",
+  "oel_haa5_g_l_b" : "40"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-03T00:00:00",
+  "site" : "58650",
+  "lraa_tthm_g_l_a" : "44",
+  "lraa_haa5_g_l_b" : "39",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - IFO 510 W/S Main St, 2nd SS S/O Hylan Blvd, 12\"",
+  "result_tthm_g_l_a" : "44",
+  "analysis_date_haa5_g_l_b" : "2016-05-07T00:00:00",
+  "oel_tthm_g_l_a" : "42",
+  "result_haa5_g_l_b" : "52",
+  "oel_haa5_g_l_b" : "43"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-05-04T00:00:00",
+  "site" : "77650",
+  "lraa_tthm_g_l_a" : "35",
+  "lraa_haa5_g_l_b" : "35",
+  "sample_date" : "2016-05-03T00:00:00",
+  "location" : "SS - OPP 110-52 E/S 207th St",
+  "result_tthm_g_l_a" : "36",
+  "analysis_date_haa5_g_l_b" : "2016-05-07T00:00:00",
+  "oel_tthm_g_l_a" : "33",
+  "result_haa5_g_l_b" : "46",
+  "oel_haa5_g_l_b" : "39"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-03T00:00:00",
+  "site" : "15150",
+  "lraa_tthm_g_l_a" : "42",
+  "lraa_haa5_g_l_b" : "36",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - IFO 1420 E/S Grand Concourse, 1st SS S/O E 171st St, 20\"",
+  "result_tthm_g_l_a" : "34",
+  "analysis_date_haa5_g_l_b" : "2016-02-04T00:00:00",
+  "oel_tthm_g_l_a" : "43",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "36"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-02T00:00:00",
+  "site" : "18650",
+  "lraa_tthm_g_l_a" : "31",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - N/S Dewey Ave, btw Quincy & Swinton Aves, 12\"",
+  "result_tthm_g_l_a" : "23",
+  "analysis_date_haa5_g_l_b" : "2016-02-05T00:00:00",
+  "oel_tthm_g_l_a" : "30",
+  "result_haa5_g_l_b" : "25",
+  "oel_haa5_g_l_b" : "29"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-02T00:00:00",
+  "site" : "23450",
+  "lraa_tthm_g_l_a" : "40",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - N/S Jefferson Avenue, 2nd SS W/O Lewis Avenue, 20\"",
+  "result_tthm_g_l_a" : "27",
+  "analysis_date_haa5_g_l_b" : "2016-02-05T00:00:00",
+  "oel_tthm_g_l_a" : "37",
+  "result_haa5_g_l_b" : "29",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-02T00:00:00",
+  "site" : "24350",
+  "lraa_tthm_g_l_a" : "44",
+  "lraa_haa5_g_l_b" : "36",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - W/S Brighton 11th Street, 2nd SS S/O Cass Place, 12\"",
+  "result_tthm_g_l_a" : "38",
+  "analysis_date_haa5_g_l_b" : "2016-02-05T00:00:00",
+  "oel_tthm_g_l_a" : "44",
+  "result_haa5_g_l_b" : "36",
+  "oel_haa5_g_l_b" : "35"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-02T00:00:00",
+  "site" : "31750",
+  "lraa_tthm_g_l_a" : "43",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - IFO 427 N/S W 26th St, 2nd SS W/O 9th Ave, 12\"",
+  "result_tthm_g_l_a" : "38",
+  "analysis_date_haa5_g_l_b" : "2016-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "42",
+  "result_haa5_g_l_b" : "27",
+  "oel_haa5_g_l_b" : "28"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-02T00:00:00",
+  "site" : "31850",
+  "lraa_tthm_g_l_a" : "47",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - IFO 82 S/S Warren St, 2nd SS E/O Greenwich St, 12\"",
+  "result_tthm_g_l_a" : "38",
+  "analysis_date_haa5_g_l_b" : "2016-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "47",
+  "result_haa5_g_l_b" : "29",
+  "oel_haa5_g_l_b" : "30"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-03T00:00:00",
+  "site" : "32350",
+  "lraa_tthm_g_l_a" : "45",
+  "lraa_haa5_g_l_b" : "34",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - IFO 116 E/S Ave C, 2nd SS N/O E 7th St, 12\"",
+  "result_tthm_g_l_a" : "37",
+  "analysis_date_haa5_g_l_b" : "2016-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "44",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "32"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-03T00:00:00",
+  "site" : "33450",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "29",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - IFO 135 N/S W 112th St, 2nd SS W/O St Nicholas Ave, 12\"",
+  "result_tthm_g_l_a" : "25",
+  "analysis_date_haa5_g_l_b" : "2016-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "31",
+  "result_haa5_g_l_b" : "22",
+  "oel_haa5_g_l_b" : "24"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-03T00:00:00",
+  "site" : "33950",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "29",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - N/S E 104th Street, 2nd SS E/O 3rd Avenue, 12\"",
+  "result_tthm_g_l_a" : "25",
+  "analysis_date_haa5_g_l_b" : "2016-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "31",
+  "result_haa5_g_l_b" : "22",
+  "oel_haa5_g_l_b" : "24"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-03T00:00:00",
+  "site" : "37950",
+  "lraa_tthm_g_l_a" : "42",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - IFO 325 N/S E 12th Street, 2nd SS E/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "41",
+  "analysis_date_haa5_g_l_b" : "2016-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "45",
+  "result_haa5_g_l_b" : "36",
+  "oel_haa5_g_l_b" : "33"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-03T00:00:00",
+  "site" : "38250",
+  "lraa_tthm_g_l_a" : "45",
+  "lraa_haa5_g_l_b" : "41",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - IFO 309 N/S E 87th St, 2nd SS W/O 1st Ave, 12\"",
+  "result_tthm_g_l_a" : "39",
+  "analysis_date_haa5_g_l_b" : "2016-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "47",
+  "result_haa5_g_l_b" : "40",
+  "oel_haa5_g_l_b" : "42"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-03T00:00:00",
+  "site" : "39650",
+  "lraa_tthm_g_l_a" : "41",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - IFO 229 N/S E 49th St, 2nd SS W/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "37",
+  "analysis_date_haa5_g_l_b" : "2016-02-08T00:00:00",
+  "oel_tthm_g_l_a" : "43",
+  "result_haa5_g_l_b" : "36",
+  "oel_haa5_g_l_b" : "37"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-03T00:00:00",
+  "site" : "44350",
+  "lraa_tthm_g_l_a" : "34",
+  "lraa_haa5_g_l_b" : "36",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - IFO 21-55 N/S 34th Ave, 1st SS W/O 24th St, 12\"",
+  "result_tthm_g_l_a" : "42",
+  "analysis_date_haa5_g_l_b" : "2016-02-08T00:00:00",
+  "oel_tthm_g_l_a" : "38",
+  "result_haa5_g_l_b" : "42",
+  "oel_haa5_g_l_b" : "38"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-03T00:00:00",
+  "site" : "45250",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - E/S Beach 58th St, 2nd SS N/O Beach Channel Drive, 12\"",
+  "result_tthm_g_l_a" : "26",
+  "analysis_date_haa5_g_l_b" : "2016-02-09T00:00:00",
+  "oel_tthm_g_l_a" : "35",
+  "result_haa5_g_l_b" : "31",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-03T00:00:00",
+  "site" : "50250",
+  "lraa_tthm_g_l_a" : "34",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - IFO 937 N/S Victory Blvd, 2nd SS E/O Highland Ave, 20\"",
+  "result_tthm_g_l_a" : "26",
+  "analysis_date_haa5_g_l_b" : "2016-02-09T00:00:00",
+  "oel_tthm_g_l_a" : "33",
+  "result_haa5_g_l_b" : "32",
+  "oel_haa5_g_l_b" : "36"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-03T00:00:00",
+  "site" : "50750",
+  "lraa_tthm_g_l_a" : "44",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - E/S Woodhull Ave, 1st SS S/O Albourne Ave, 8\"",
+  "result_tthm_g_l_a" : "29",
+  "analysis_date_haa5_g_l_b" : "2016-02-09T00:00:00",
+  "oel_tthm_g_l_a" : "42",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-03T00:00:00",
+  "site" : "50850",
+  "lraa_tthm_g_l_a" : "39",
+  "lraa_haa5_g_l_b" : "35",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - IFO 512 W/S Arlene St, 1st SS N/O Dawson Ct, 12\"",
+  "result_tthm_g_l_a" : "28",
+  "analysis_date_haa5_g_l_b" : "2016-02-09T00:00:00",
+  "oel_tthm_g_l_a" : "38",
+  "result_haa5_g_l_b" : "33",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-03T00:00:00",
+  "site" : "52050",
+  "lraa_tthm_g_l_a" : "41",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - IFO 218 W/S Nicholas Ave, 1st SS S/O Charles Ave, 12\"",
+  "result_tthm_g_l_a" : "30",
+  "analysis_date_haa5_g_l_b" : "2016-02-09T00:00:00",
+  "oel_tthm_g_l_a" : "40",
+  "result_haa5_g_l_b" : "34",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-03T00:00:00",
+  "site" : "58650",
+  "lraa_tthm_g_l_a" : "42",
+  "lraa_haa5_g_l_b" : "35",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - IFO 510 W/S Main St, 2nd SS S/O Hylan Blvd, 12\"",
+  "result_tthm_g_l_a" : "34",
+  "analysis_date_haa5_g_l_b" : "2016-02-09T00:00:00",
+  "oel_tthm_g_l_a" : "41",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "35"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2016-02-03T00:00:00",
+  "site" : "77650",
+  "lraa_tthm_g_l_a" : "33",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2016-02-02T00:00:00",
+  "location" : "SS - OPP 110-52 E/S 207th St",
+  "result_tthm_g_l_a" : "24",
+  "analysis_date_haa5_g_l_b" : "2016-02-09T00:00:00",
+  "oel_tthm_g_l_a" : "32",
+  "result_haa5_g_l_b" : "29",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-06T00:00:00",
+  "site" : "15150",
+  "lraa_tthm_g_l_a" : "37",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - IFO 1420 E/S Grand Concourse, 1st SS S/O E 171st St, 20\"",
+  "result_tthm_g_l_a" : "44",
+  "analysis_date_haa5_g_l_b" : "2015-11-05T00:00:00",
+  "oel_tthm_g_l_a" : "44",
+  "result_haa5_g_l_b" : "45",
+  "oel_haa5_g_l_b" : "39"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-06T00:00:00",
+  "site" : "18650",
+  "lraa_tthm_g_l_a" : "28",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - N/S Dewey Ave, btw Quincy & Swinton Aves, 12\"",
+  "result_tthm_g_l_a" : "35",
+  "analysis_date_haa5_g_l_b" : "2015-11-20T00:00:00",
+  "oel_tthm_g_l_a" : "34",
+  "result_haa5_g_l_b" : "37",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-06T00:00:00",
+  "site" : "23450",
+  "lraa_tthm_g_l_a" : "37",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - N/S Jefferson Avenue, 2nd SS W/O Lewis Avenue, 20\"",
+  "result_tthm_g_l_a" : "38",
+  "analysis_date_haa5_g_l_b" : "2015-11-05T00:00:00",
+  "oel_tthm_g_l_a" : "42",
+  "result_haa5_g_l_b" : "37",
+  "oel_haa5_g_l_b" : "35"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-05T00:00:00",
+  "site" : "24350",
+  "lraa_tthm_g_l_a" : "38",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - W/S Brighton 11th Street, 2nd SS S/O Cass Place, 12\"",
+  "result_tthm_g_l_a" : "39",
+  "analysis_date_haa5_g_l_b" : "2015-11-07T00:00:00",
+  "oel_tthm_g_l_a" : "44",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "36"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-05T00:00:00",
+  "site" : "31750",
+  "lraa_tthm_g_l_a" : "39",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - IFO 427 N/S W 26th St, 2nd SS W/O 9th Ave, 12\"",
+  "result_tthm_g_l_a" : "47",
+  "analysis_date_haa5_g_l_b" : "2015-11-07T00:00:00",
+  "oel_tthm_g_l_a" : "46",
+  "result_haa5_g_l_b" : "25",
+  "oel_haa5_g_l_b" : "30"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-06T00:00:00",
+  "site" : "31850",
+  "lraa_tthm_g_l_a" : "42",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - IFO 82 S/S Warren St, 2nd SS E/O Greenwich St, 12\"",
+  "result_tthm_g_l_a" : "50",
+  "analysis_date_haa5_g_l_b" : "2015-11-09T00:00:00",
+  "oel_tthm_g_l_a" : "50",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-05T00:00:00",
+  "site" : "32350",
+  "lraa_tthm_g_l_a" : "40",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - IFO 116 E/S Ave C, 2nd SS N/O E 7th St, 12\"",
+  "result_tthm_g_l_a" : "47",
+  "analysis_date_haa5_g_l_b" : "2015-11-07T00:00:00",
+  "oel_tthm_g_l_a" : "47",
+  "result_haa5_g_l_b" : "31",
+  "oel_haa5_g_l_b" : "33"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-06T00:00:00",
+  "site" : "33450",
+  "lraa_tthm_g_l_a" : "34",
+  "lraa_haa5_g_l_b" : "29",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - IFO 135 N/S W 112th St, 2nd SS W/O St Nicholas Ave, 12\"",
+  "result_tthm_g_l_a" : "37",
+  "analysis_date_haa5_g_l_b" : "2015-11-11T00:00:00",
+  "oel_tthm_g_l_a" : "39",
+  "result_haa5_g_l_b" : "27",
+  "oel_haa5_g_l_b" : "30"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-06T00:00:00",
+  "site" : "33950",
+  "lraa_tthm_g_l_a" : "33",
+  "lraa_haa5_g_l_b" : "29",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - N/S E 104th Street, 2nd SS E/O 3rd Avenue, 12\"",
+  "result_tthm_g_l_a" : "37",
+  "analysis_date_haa5_g_l_b" : "2015-11-11T00:00:00",
+  "oel_tthm_g_l_a" : "39",
+  "result_haa5_g_l_b" : "28",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-06T00:00:00",
+  "site" : "37950",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - IFO 325 N/S E 12th Street, 2nd SS E/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "48",
+  "analysis_date_haa5_g_l_b" : "2015-11-07T00:00:00",
+  "oel_tthm_g_l_a" : "44",
+  "result_haa5_g_l_b" : "28",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-06T00:00:00",
+  "site" : "38250",
+  "lraa_tthm_g_l_a" : "39",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - IFO 309 N/S E 87th St, 2nd SS W/O 1st Ave, 12\"",
+  "result_tthm_g_l_a" : "51",
+  "analysis_date_haa5_g_l_b" : "2015-11-11T00:00:00",
+  "oel_tthm_g_l_a" : "48",
+  "result_haa5_g_l_b" : "51",
+  "oel_haa5_g_l_b" : "44"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-06T00:00:00",
+  "site" : "39650",
+  "lraa_tthm_g_l_a" : "35",
+  "lraa_haa5_g_l_b" : "34",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - IFO 229 N/S E 49th St, 2nd SS W/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "49",
+  "analysis_date_haa5_g_l_b" : "2015-11-11T00:00:00",
+  "oel_tthm_g_l_a" : "44",
+  "result_haa5_g_l_b" : "42",
+  "oel_haa5_g_l_b" : "39"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-05T00:00:00",
+  "site" : "44350",
+  "lraa_tthm_g_l_a" : "28",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - IFO 21-55 N/S 34th Ave, 1st SS W/O 24th St, 12\"",
+  "result_tthm_g_l_a" : "35",
+  "analysis_date_haa5_g_l_b" : "2015-11-05T00:00:00",
+  "oel_tthm_g_l_a" : "33",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-05T00:00:00",
+  "site" : "45250",
+  "lraa_tthm_g_l_a" : "34",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - E/S Beach 58th St, 2nd SS N/O Beach Channel Drive, 12\"",
+  "result_tthm_g_l_a" : "34",
+  "analysis_date_haa5_g_l_b" : "2015-11-07T00:00:00",
+  "oel_tthm_g_l_a" : "38",
+  "result_haa5_g_l_b" : "33",
+  "oel_haa5_g_l_b" : "32"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-05T00:00:00",
+  "site" : "50250",
+  "lraa_tthm_g_l_a" : "31",
+  "lraa_haa5_g_l_b" : "36",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - IFO 937 N/S Victory Blvd, 2nd SS E/O Highland Ave, 20\"",
+  "result_tthm_g_l_a" : "38",
+  "analysis_date_haa5_g_l_b" : "2015-11-07T00:00:00",
+  "oel_tthm_g_l_a" : "37",
+  "result_haa5_g_l_b" : "36",
+  "oel_haa5_g_l_b" : "38"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-06T00:00:00",
+  "site" : "50750",
+  "lraa_tthm_g_l_a" : "42",
+  "lraa_haa5_g_l_b" : "29",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - E/S Woodhull Ave, 1st SS S/O Albourne Ave, 8\"",
+  "result_tthm_g_l_a" : "47",
+  "analysis_date_haa5_g_l_b" : "2015-11-07T00:00:00",
+  "oel_tthm_g_l_a" : "49",
+  "result_haa5_g_l_b" : "22",
+  "oel_haa5_g_l_b" : "27"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-05T00:00:00",
+  "site" : "50850",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "34",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - IFO 512 W/S Arlene St, 1st SS N/O Dawson Ct, 12\"",
+  "result_tthm_g_l_a" : "42",
+  "analysis_date_haa5_g_l_b" : "2015-11-09T00:00:00",
+  "oel_tthm_g_l_a" : "42",
+  "result_haa5_g_l_b" : "33",
+  "oel_haa5_g_l_b" : "35"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-05T00:00:00",
+  "site" : "52050",
+  "lraa_tthm_g_l_a" : "38",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - IFO 218 W/S Nicholas Ave, 1st SS S/O Charles Ave, 12\"",
+  "result_tthm_g_l_a" : "45",
+  "analysis_date_haa5_g_l_b" : "2015-11-07T00:00:00",
+  "oel_tthm_g_l_a" : "45",
+  "result_haa5_g_l_b" : "25",
+  "oel_haa5_g_l_b" : "30"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-05T00:00:00",
+  "site" : "58650",
+  "lraa_tthm_g_l_a" : "39",
+  "lraa_haa5_g_l_b" : "34",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - IFO 510 W/S Main St, 2nd SS S/O Hylan Blvd, 12\"",
+  "result_tthm_g_l_a" : "46",
+  "analysis_date_haa5_g_l_b" : "2015-11-09T00:00:00",
+  "oel_tthm_g_l_a" : "45",
+  "result_haa5_g_l_b" : "31",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-11-05T00:00:00",
+  "site" : "77650",
+  "lraa_tthm_g_l_a" : "31",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2015-11-04T00:00:00",
+  "location" : "SS - OPP 110-52 E/S 207th St",
+  "result_tthm_g_l_a" : "37",
+  "analysis_date_haa5_g_l_b" : "2015-11-07T00:00:00",
+  "oel_tthm_g_l_a" : "36",
+  "result_haa5_g_l_b" : "33",
+  "oel_haa5_g_l_b" : "33"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-21T00:00:00",
+  "site" : "38250",
+  "lraa_tthm_g_l_a" : "35",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2015-08-19T00:00:00",
+  "location" : "SS - IFO 309 N/S E 87th St, 2nd SS W/O 1st Ave, 12\"",
+  "result_tthm_g_l_a" : "57",
+  "analysis_date_haa5_g_l_b" : "2015-08-10T00:00:00",
+  "oel_tthm_g_l_a" : "41",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "33"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-21T00:00:00",
+  "site" : "50250",
+  "lraa_tthm_g_l_a" : "30",
+  "lraa_haa5_g_l_b" : "36",
+  "sample_date" : "2015-08-19T00:00:00",
+  "location" : "SS - IFO 937 N/S Victory Blvd, 2nd SS E/O Highland Ave, 20\"",
+  "result_tthm_g_l_a" : "43",
+  "analysis_date_haa5_g_l_b" : "2015-08-11T00:00:00",
+  "oel_tthm_g_l_a" : "33",
+  "result_haa5_g_l_b" : "43",
+  "oel_haa5_g_l_b" : "37"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-06T00:00:00",
+  "site" : "15150",
+  "lraa_tthm_g_l_a" : "33",
+  "lraa_haa5_g_l_b" : "28",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - IFO 1420 E/S Grand Concourse, 1st SS S/O E 171st St, 20\"",
+  "result_tthm_g_l_a" : "58",
+  "analysis_date_haa5_g_l_b" : "2015-08-08T00:00:00",
+  "oel_tthm_g_l_a" : "40",
+  "result_haa5_g_l_b" : "30",
+  "oel_haa5_g_l_b" : "29"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-06T00:00:00",
+  "site" : "18650",
+  "lraa_tthm_g_l_a" : "26",
+  "lraa_haa5_g_l_b" : "27",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - N/S Dewey Ave, btw Quincy & Swinton Aves, 12\"",
+  "result_tthm_g_l_a" : "40",
+  "analysis_date_haa5_g_l_b" : "2015-08-08T00:00:00",
+  "oel_tthm_g_l_a" : "30",
+  "result_haa5_g_l_b" : "27",
+  "oel_haa5_g_l_b" : "27"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-06T00:00:00",
+  "site" : "23450",
+  "lraa_tthm_g_l_a" : "35",
+  "lraa_haa5_g_l_b" : "29",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - N/S Jefferson Avenue, 2nd SS W/O Lewis Avenue, 20\"",
+  "result_tthm_g_l_a" : "54",
+  "analysis_date_haa5_g_l_b" : "2015-08-08T00:00:00",
+  "oel_tthm_g_l_a" : "41",
+  "result_haa5_g_l_b" : "30",
+  "oel_haa5_g_l_b" : "30"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-07T00:00:00",
+  "site" : "24350",
+  "lraa_tthm_g_l_a" : "38",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - W/S Brighton 11th Street, 2nd SS S/O Cass Place, 12\"",
+  "result_tthm_g_l_a" : "61",
+  "analysis_date_haa5_g_l_b" : "2015-08-08T00:00:00",
+  "oel_tthm_g_l_a" : "44",
+  "result_haa5_g_l_b" : "32",
+  "oel_haa5_g_l_b" : "32"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-07T00:00:00",
+  "site" : "31750",
+  "lraa_tthm_g_l_a" : "37",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - IFO 427 N/S W 26th St, 2nd SS W/O 9th Ave, 12\"",
+  "result_tthm_g_l_a" : "46",
+  "analysis_date_haa5_g_l_b" : "2015-08-08T00:00:00",
+  "oel_tthm_g_l_a" : "39",
+  "result_haa5_g_l_b" : "32",
+  "oel_haa5_g_l_b" : "33"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-07T00:00:00",
+  "site" : "31850",
+  "lraa_tthm_g_l_a" : "39",
+  "lraa_haa5_g_l_b" : "29",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - IFO 82 S/S Warren St, 2nd SS E/O Greenwich St, 12\"",
+  "result_tthm_g_l_a" : "60",
+  "analysis_date_haa5_g_l_b" : "2015-08-08T00:00:00",
+  "oel_tthm_g_l_a" : "44",
+  "result_haa5_g_l_b" : "28",
+  "oel_haa5_g_l_b" : "30"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-07T00:00:00",
+  "site" : "32350",
+  "lraa_tthm_g_l_a" : "37",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - IFO 116 E/S Ave C, 2nd SS N/O E 7th St, 12\"",
+  "result_tthm_g_l_a" : "56",
+  "analysis_date_haa5_g_l_b" : "2015-08-08T00:00:00",
+  "oel_tthm_g_l_a" : "42",
+  "result_haa5_g_l_b" : "28",
+  "oel_haa5_g_l_b" : "30"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-07T00:00:00",
+  "site" : "33450",
+  "lraa_tthm_g_l_a" : "34",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - IFO 135 N/S W 112th St, 2nd SS W/O St Nicholas Ave, 12\"",
+  "result_tthm_g_l_a" : "36",
+  "analysis_date_haa5_g_l_b" : "2015-08-08T00:00:00",
+  "oel_tthm_g_l_a" : "33",
+  "result_haa5_g_l_b" : "25",
+  "oel_haa5_g_l_b" : "29"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-07T00:00:00",
+  "site" : "33950",
+  "lraa_tthm_g_l_a" : "33",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - N/S E 104th Street, 2nd SS E/O 3rd Avenue, 12\"",
+  "result_tthm_g_l_a" : "37",
+  "analysis_date_haa5_g_l_b" : "2015-08-08T00:00:00",
+  "oel_tthm_g_l_a" : "33",
+  "result_haa5_g_l_b" : "25",
+  "oel_haa5_g_l_b" : "29"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-07T00:00:00",
+  "site" : "37950",
+  "lraa_tthm_g_l_a" : "32",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - IFO 325 N/S E 12th Street, 2nd SS E/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "48",
+  "analysis_date_haa5_g_l_b" : "2015-08-10T00:00:00",
+  "oel_tthm_g_l_a" : "36",
+  "result_haa5_g_l_b" : "31",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-07T00:00:00",
+  "site" : "39650",
+  "lraa_tthm_g_l_a" : "32",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - IFO 229 N/S E 49th St, 2nd SS W/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "49",
+  "analysis_date_haa5_g_l_b" : "2015-08-11T00:00:00",
+  "oel_tthm_g_l_a" : "35",
+  "result_haa5_g_l_b" : "34",
+  "oel_haa5_g_l_b" : "32"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-07T00:00:00",
+  "site" : "44350",
+  "lraa_tthm_g_l_a" : "28",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - IFO 21-55 N/S 34th Ave, 1st SS W/O 24th St, 12\"",
+  "result_tthm_g_l_a" : "31",
+  "analysis_date_haa5_g_l_b" : "2015-08-11T00:00:00",
+  "oel_tthm_g_l_a" : "27",
+  "result_haa5_g_l_b" : "32",
+  "oel_haa5_g_l_b" : "30"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-07T00:00:00",
+  "site" : "45250",
+  "lraa_tthm_g_l_a" : "32",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - E/S Beach 58th St, 2nd SS N/O Beach Channel Drive, 12\"",
+  "result_tthm_g_l_a" : "53",
+  "analysis_date_haa5_g_l_b" : "2015-08-11T00:00:00",
+  "oel_tthm_g_l_a" : "38",
+  "result_haa5_g_l_b" : "28",
+  "oel_haa5_g_l_b" : "30"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-07T00:00:00",
+  "site" : "50750",
+  "lraa_tthm_g_l_a" : "40",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - E/S Woodhull Ave, 1st SS S/O Albourne Ave, 8\"",
+  "result_tthm_g_l_a" : "62",
+  "analysis_date_haa5_g_l_b" : "2015-08-11T00:00:00",
+  "oel_tthm_g_l_a" : "46",
+  "result_haa5_g_l_b" : "30",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-07T00:00:00",
+  "site" : "50850",
+  "lraa_tthm_g_l_a" : "35",
+  "lraa_haa5_g_l_b" : "36",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - IFO 512 W/S Arlene St, 1st SS N/O Dawson Ct, 12\"",
+  "result_tthm_g_l_a" : "53",
+  "analysis_date_haa5_g_l_b" : "2015-08-11T00:00:00",
+  "oel_tthm_g_l_a" : "39",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "35"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-07T00:00:00",
+  "site" : "52050",
+  "lraa_tthm_g_l_a" : "38",
+  "lraa_haa5_g_l_b" : "34",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - IFO 218 W/S Nicholas Ave, 1st SS S/O Charles Ave, 12\"",
+  "result_tthm_g_l_a" : "56",
+  "analysis_date_haa5_g_l_b" : "2015-08-11T00:00:00",
+  "oel_tthm_g_l_a" : "41",
+  "result_haa5_g_l_b" : "31",
+  "oel_haa5_g_l_b" : "33"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-07T00:00:00",
+  "site" : "58650",
+  "lraa_tthm_g_l_a" : "37",
+  "lraa_haa5_g_l_b" : "36",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - IFO 510 W/S Main St, 2nd SS S/O Hylan Blvd, 12\"",
+  "result_tthm_g_l_a" : "50",
+  "analysis_date_haa5_g_l_b" : "2015-08-10T00:00:00",
+  "oel_tthm_g_l_a" : "40",
+  "result_haa5_g_l_b" : "38",
+  "oel_haa5_g_l_b" : "36"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-08-07T00:00:00",
+  "site" : "77650",
+  "lraa_tthm_g_l_a" : "30",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2015-08-04T00:00:00",
+  "location" : "SS - OPP 110-52 E/S 207th St",
+  "result_tthm_g_l_a" : "42",
+  "analysis_date_haa5_g_l_b" : "2015-08-10T00:00:00",
+  "oel_tthm_g_l_a" : "32",
+  "result_haa5_g_l_b" : "31",
+  "oel_haa5_g_l_b" : "30"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-06T00:00:00",
+  "site" : "15150",
+  "lraa_tthm_g_l_a" : "30",
+  "lraa_haa5_g_l_b" : "28",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 1420 E/S Grand Concourse, 1st SS S/O E 171st St, 20\"",
+  "result_tthm_g_l_a" : "30",
+  "analysis_date_haa5_g_l_b" : "2015-05-07T00:00:00",
+  "oel_tthm_g_l_a" : "26",
+  "result_haa5_g_l_b" : "34",
+  "oel_haa5_g_l_b" : "29"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-06T00:00:00",
+  "site" : "18650",
+  "lraa_tthm_g_l_a" : "24",
+  "lraa_haa5_g_l_b" : "29",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - N/S Dewey Ave, btw Quincy & Swinton Aves, 12\"",
+  "result_tthm_g_l_a" : "25",
+  "analysis_date_haa5_g_l_b" : "2015-05-07T00:00:00",
+  "oel_tthm_g_l_a" : "22",
+  "result_haa5_g_l_b" : "34",
+  "oel_haa5_g_l_b" : "29"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-06T00:00:00",
+  "site" : "23450",
+  "lraa_tthm_g_l_a" : "31",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - N/S Jefferson Avenue, 2nd SS W/O Lewis Avenue, 20\"",
+  "result_tthm_g_l_a" : "39",
+  "analysis_date_haa5_g_l_b" : "2015-05-08T00:00:00",
+  "oel_tthm_g_l_a" : "31",
+  "result_haa5_g_l_b" : "36",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "24350",
+  "lraa_tthm_g_l_a" : "34",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - W/S Brighton 11th Street, 2nd SS S/O Cass Place, 12\"",
+  "result_tthm_g_l_a" : "36",
+  "analysis_date_haa5_g_l_b" : "2015-05-08T00:00:00",
+  "oel_tthm_g_l_a" : "32",
+  "result_haa5_g_l_b" : "40",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "31750",
+  "lraa_tthm_g_l_a" : "37",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 427 N/S W 26th St, 2nd SS W/O 9th Ave, 12\"",
+  "result_tthm_g_l_a" : "42",
+  "analysis_date_haa5_g_l_b" : "2015-05-08T00:00:00",
+  "oel_tthm_g_l_a" : "36",
+  "result_haa5_g_l_b" : "39",
+  "oel_haa5_g_l_b" : "33"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "31850",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 82 S/S Warren St, 2nd SS E/O Greenwich St, 12\"",
+  "result_tthm_g_l_a" : "41",
+  "analysis_date_haa5_g_l_b" : "2015-05-08T00:00:00",
+  "oel_tthm_g_l_a" : "34",
+  "result_haa5_g_l_b" : "38",
+  "oel_haa5_g_l_b" : "32"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "32350",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 116 E/S Ave C, 2nd SS N/O E 7th St, 12\"",
+  "result_tthm_g_l_a" : "39",
+  "analysis_date_haa5_g_l_b" : "2015-05-08T00:00:00",
+  "oel_tthm_g_l_a" : "33",
+  "result_haa5_g_l_b" : "40",
+  "oel_haa5_g_l_b" : "33"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "33450",
+  "lraa_tthm_g_l_a" : "37",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 135 N/S W 112th St, 2nd SS W/O St Nicholas Ave, 12\"",
+  "result_tthm_g_l_a" : "44",
+  "analysis_date_haa5_g_l_b" : "2015-05-08T00:00:00",
+  "oel_tthm_g_l_a" : "36",
+  "result_haa5_g_l_b" : "40",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "33950",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - N/S E 104th Street, 2nd SS E/O 3rd Avenue, 12\"",
+  "result_tthm_g_l_a" : "43",
+  "analysis_date_haa5_g_l_b" : "2015-05-08T00:00:00",
+  "oel_tthm_g_l_a" : "34",
+  "result_haa5_g_l_b" : "41",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "37950",
+  "lraa_tthm_g_l_a" : "33",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 325 N/S E 12th Street, 2nd SS E/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "30",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "27",
+  "result_haa5_g_l_b" : "37",
+  "oel_haa5_g_l_b" : "32"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "38250",
+  "lraa_tthm_g_l_a" : "34",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 309 N/S E 87th St, 2nd SS W/O 1st Ave, 12\"",
+  "result_tthm_g_l_a" : "32",
+  "analysis_date_haa5_g_l_b" : "2015-05-13T00:00:00",
+  "oel_tthm_g_l_a" : "29",
+  "result_haa5_g_l_b" : "37",
+  "oel_haa5_g_l_b" : "33"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "39650",
+  "lraa_tthm_g_l_a" : "32",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 229 N/S E 49th St, 2nd SS W/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "27",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "27",
+  "result_haa5_g_l_b" : "36",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "44350",
+  "lraa_tthm_g_l_a" : "31",
+  "lraa_haa5_g_l_b" : "29",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 21-55 N/S 34th Ave, 1st SS W/O 24th St, 12\"",
+  "result_tthm_g_l_a" : "29",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "28",
+  "result_haa5_g_l_b" : "33",
+  "oel_haa5_g_l_b" : "30"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "45250",
+  "lraa_tthm_g_l_a" : "29",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - E/S Beach 58th St, 2nd SS N/O Beach Channel Drive, 12\"",
+  "result_tthm_g_l_a" : "30",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "27",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "32"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "50250",
+  "lraa_tthm_g_l_a" : "30",
+  "lraa_haa5_g_l_b" : "39",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 937 N/S Victory Blvd, 2nd SS E/O Highland Ave, 20\"",
+  "result_tthm_g_l_a" : "28",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "26",
+  "result_haa5_g_l_b" : "36",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-06T00:00:00",
+  "site" : "50750",
+  "lraa_tthm_g_l_a" : "38",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - E/S Woodhull Ave, 1st SS S/O Albourne Ave, 8\"",
+  "result_tthm_g_l_a" : "39",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "35",
+  "result_haa5_g_l_b" : "33",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-06T00:00:00",
+  "site" : "50850",
+  "lraa_tthm_g_l_a" : "33",
+  "lraa_haa5_g_l_b" : "40",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 512 W/S Arlene St, 1st SS N/O Dawson Ct, 12\"",
+  "result_tthm_g_l_a" : "32",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "30",
+  "result_haa5_g_l_b" : "38",
+  "oel_haa5_g_l_b" : "37"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "52050",
+  "lraa_tthm_g_l_a" : "35",
+  "lraa_haa5_g_l_b" : "38",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 218 W/S Nicholas Ave, 1st SS S/O Charles Ave, 12\"",
+  "result_tthm_g_l_a" : "33",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "32",
+  "result_haa5_g_l_b" : "38",
+  "oel_haa5_g_l_b" : "35"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-06T00:00:00",
+  "site" : "58650",
+  "lraa_tthm_g_l_a" : "37",
+  "lraa_haa5_g_l_b" : "39",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 510 W/S Main St, 2nd SS S/O Hylan Blvd, 12\"",
+  "result_tthm_g_l_a" : "36",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "34",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "36"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "77650",
+  "lraa_tthm_g_l_a" : "30",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - OPP 110-52 E/S 207th St",
+  "result_tthm_g_l_a" : "28",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "27",
+  "result_haa5_g_l_b" : "34",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-06T00:00:00",
+  "site" : "15150",
+  "lraa_tthm_g_l_a" : "30",
+  "lraa_haa5_g_l_b" : "28",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 1420 E/S Grand Concourse, 1st SS S/O E 171st St, 20\"",
+  "result_tthm_g_l_a" : "30",
+  "analysis_date_haa5_g_l_b" : "2015-05-07T00:00:00",
+  "oel_tthm_g_l_a" : "26",
+  "result_haa5_g_l_b" : "34",
+  "oel_haa5_g_l_b" : "29"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-06T00:00:00",
+  "site" : "18650",
+  "lraa_tthm_g_l_a" : "24",
+  "lraa_haa5_g_l_b" : "29",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - N/S Dewey Ave, btw Quincy & Swinton Aves, 12\"",
+  "result_tthm_g_l_a" : "25",
+  "analysis_date_haa5_g_l_b" : "2015-05-07T00:00:00",
+  "oel_tthm_g_l_a" : "22",
+  "result_haa5_g_l_b" : "34",
+  "oel_haa5_g_l_b" : "29"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-06T00:00:00",
+  "site" : "23450",
+  "lraa_tthm_g_l_a" : "31",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - N/S Jefferson Avenue, 2nd SS W/O Lewis Avenue, 20\"",
+  "result_tthm_g_l_a" : "39",
+  "analysis_date_haa5_g_l_b" : "2015-05-08T00:00:00",
+  "oel_tthm_g_l_a" : "31",
+  "result_haa5_g_l_b" : "36",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "24350",
+  "lraa_tthm_g_l_a" : "34",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - W/S Brighton 11th Street, 2nd SS S/O Cass Place, 12\"",
+  "result_tthm_g_l_a" : "36",
+  "analysis_date_haa5_g_l_b" : "2015-05-08T00:00:00",
+  "oel_tthm_g_l_a" : "32",
+  "result_haa5_g_l_b" : "40",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "31750",
+  "lraa_tthm_g_l_a" : "37",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 427 N/S W 26th St, 2nd SS W/O 9th Ave, 12\"",
+  "result_tthm_g_l_a" : "42",
+  "analysis_date_haa5_g_l_b" : "2015-05-08T00:00:00",
+  "oel_tthm_g_l_a" : "36",
+  "result_haa5_g_l_b" : "39",
+  "oel_haa5_g_l_b" : "33"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "31850",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 82 S/S Warren St, 2nd SS E/O Greenwich St, 12\"",
+  "result_tthm_g_l_a" : "41",
+  "analysis_date_haa5_g_l_b" : "2015-05-08T00:00:00",
+  "oel_tthm_g_l_a" : "34",
+  "result_haa5_g_l_b" : "38",
+  "oel_haa5_g_l_b" : "32"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "32350",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 116 E/S Ave C, 2nd SS N/O E 7th St, 12\"",
+  "result_tthm_g_l_a" : "39",
+  "analysis_date_haa5_g_l_b" : "2015-05-08T00:00:00",
+  "oel_tthm_g_l_a" : "33",
+  "result_haa5_g_l_b" : "40",
+  "oel_haa5_g_l_b" : "33"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "33450",
+  "lraa_tthm_g_l_a" : "37",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 135 N/S W 112th St, 2nd SS W/O St Nicholas Ave, 12\"",
+  "result_tthm_g_l_a" : "44",
+  "analysis_date_haa5_g_l_b" : "2015-05-08T00:00:00",
+  "oel_tthm_g_l_a" : "36",
+  "result_haa5_g_l_b" : "40",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "33950",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - N/S E 104th Street, 2nd SS E/O 3rd Avenue, 12\"",
+  "result_tthm_g_l_a" : "43",
+  "analysis_date_haa5_g_l_b" : "2015-05-08T00:00:00",
+  "oel_tthm_g_l_a" : "34",
+  "result_haa5_g_l_b" : "41",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "37950",
+  "lraa_tthm_g_l_a" : "33",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 325 N/S E 12th Street, 2nd SS E/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "30",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "27",
+  "result_haa5_g_l_b" : "37",
+  "oel_haa5_g_l_b" : "32"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "38250",
+  "lraa_tthm_g_l_a" : "34",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 309 N/S E 87th St, 2nd SS W/O 1st Ave, 12\"",
+  "result_tthm_g_l_a" : "32",
+  "analysis_date_haa5_g_l_b" : "2015-05-13T00:00:00",
+  "oel_tthm_g_l_a" : "29",
+  "result_haa5_g_l_b" : "37",
+  "oel_haa5_g_l_b" : "33"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "39650",
+  "lraa_tthm_g_l_a" : "32",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 229 N/S E 49th St, 2nd SS W/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "27",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "27",
+  "result_haa5_g_l_b" : "36",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "44350",
+  "lraa_tthm_g_l_a" : "31",
+  "lraa_haa5_g_l_b" : "29",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 21-55 N/S 34th Ave, 1st SS W/O 24th St, 12\"",
+  "result_tthm_g_l_a" : "29",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "28",
+  "result_haa5_g_l_b" : "33",
+  "oel_haa5_g_l_b" : "30"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "45250",
+  "lraa_tthm_g_l_a" : "29",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - E/S Beach 58th St, 2nd SS N/O Beach Channel Drive, 12\"",
+  "result_tthm_g_l_a" : "30",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "27",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "32"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "50250",
+  "lraa_tthm_g_l_a" : "30",
+  "lraa_haa5_g_l_b" : "39",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 937 N/S Victory Blvd, 2nd SS E/O Highland Ave, 20\"",
+  "result_tthm_g_l_a" : "28",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "26",
+  "result_haa5_g_l_b" : "36",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-06T00:00:00",
+  "site" : "50750",
+  "lraa_tthm_g_l_a" : "38",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - E/S Woodhull Ave, 1st SS S/O Albourne Ave, 8\"",
+  "result_tthm_g_l_a" : "39",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "35",
+  "result_haa5_g_l_b" : "33",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-06T00:00:00",
+  "site" : "50850",
+  "lraa_tthm_g_l_a" : "33",
+  "lraa_haa5_g_l_b" : "40",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 512 W/S Arlene St, 1st SS N/O Dawson Ct, 12\"",
+  "result_tthm_g_l_a" : "32",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "30",
+  "result_haa5_g_l_b" : "38",
+  "oel_haa5_g_l_b" : "37"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "52050",
+  "lraa_tthm_g_l_a" : "35",
+  "lraa_haa5_g_l_b" : "38",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 218 W/S Nicholas Ave, 1st SS S/O Charles Ave, 12\"",
+  "result_tthm_g_l_a" : "33",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "32",
+  "result_haa5_g_l_b" : "38",
+  "oel_haa5_g_l_b" : "35"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-06T00:00:00",
+  "site" : "58650",
+  "lraa_tthm_g_l_a" : "37",
+  "lraa_haa5_g_l_b" : "39",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - IFO 510 W/S Main St, 2nd SS S/O Hylan Blvd, 12\"",
+  "result_tthm_g_l_a" : "36",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "34",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "36"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-05-05T00:00:00",
+  "site" : "77650",
+  "lraa_tthm_g_l_a" : "30",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2015-05-05T00:00:00",
+  "location" : "SS - OPP 110-52 E/S 207th St",
+  "result_tthm_g_l_a" : "28",
+  "analysis_date_haa5_g_l_b" : "2015-05-09T00:00:00",
+  "oel_tthm_g_l_a" : "27",
+  "result_haa5_g_l_b" : "34",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "15150",
+  "lraa_tthm_g_l_a" : "32",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - IFO 1420 E/S Grand Concourse, 1st SS S/O E 171st St, 20\"",
+  "result_tthm_g_l_a" : "15",
+  "analysis_date_haa5_g_l_b" : "2015-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "26",
+  "result_haa5_g_l_b" : "22",
+  "oel_haa5_g_l_b" : "25"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-09T00:00:00",
+  "site" : "18650",
+  "lraa_tthm_g_l_a" : "25",
+  "lraa_haa5_g_l_b" : "29",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - N/S Dewey Ave, btw Quincy & Swinton Aves, 12\"",
+  "result_tthm_g_l_a" : "13",
+  "analysis_date_haa5_g_l_b" : "2015-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "21",
+  "result_haa5_g_l_b" : "20",
+  "oel_haa5_g_l_b" : "25"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "23450",
+  "lraa_tthm_g_l_a" : "30",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - N/S Jefferson Avenue, 2nd SS W/O Lewis Avenue, 20\"",
+  "result_tthm_g_l_a" : "15",
+  "analysis_date_haa5_g_l_b" : "2015-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "25",
+  "result_haa5_g_l_b" : "23",
+  "oel_haa5_g_l_b" : "27"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "24350",
+  "lraa_tthm_g_l_a" : "35",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - W/S Brighton 11th Street, 2nd SS S/O Cass Place, 12\"",
+  "result_tthm_g_l_a" : "17",
+  "analysis_date_haa5_g_l_b" : "2015-02-05T00:00:00",
+  "oel_tthm_g_l_a" : "29",
+  "result_haa5_g_l_b" : "25",
+  "oel_haa5_g_l_b" : "29"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "31750",
+  "lraa_tthm_g_l_a" : "39",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - IFO 427 N/S W 26th St, 2nd SS W/O 9th Ave, 12\"",
+  "result_tthm_g_l_a" : "20",
+  "analysis_date_haa5_g_l_b" : "2015-02-05T00:00:00",
+  "oel_tthm_g_l_a" : "32",
+  "result_haa5_g_l_b" : "27",
+  "oel_haa5_g_l_b" : "28"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "31850",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - IFO 82 S/S Warren St, 2nd SS E/O Greenwich St, 12\"",
+  "result_tthm_g_l_a" : "16",
+  "analysis_date_haa5_g_l_b" : "2015-02-05T00:00:00",
+  "oel_tthm_g_l_a" : "29",
+  "result_haa5_g_l_b" : "24",
+  "oel_haa5_g_l_b" : "27"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "32350",
+  "lraa_tthm_g_l_a" : "37",
+  "lraa_haa5_g_l_b" : "30",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - IFO 116 E/S Ave C, 2nd SS N/O E 7th St, 12\"",
+  "result_tthm_g_l_a" : "17",
+  "analysis_date_haa5_g_l_b" : "2015-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "31",
+  "result_haa5_g_l_b" : "25",
+  "oel_haa5_g_l_b" : "27"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "33450",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "35",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - IFO 135 N/S W 112th St, 2nd SS W/O St Nicholas Ave, 12\"",
+  "result_tthm_g_l_a" : "17",
+  "analysis_date_haa5_g_l_b" : "2015-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "30",
+  "result_haa5_g_l_b" : "24",
+  "oel_haa5_g_l_b" : "28"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "33950",
+  "lraa_tthm_g_l_a" : "35",
+  "lraa_haa5_g_l_b" : "34",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - N/S E 104th Street, 2nd SS E/O 3rd Avenue, 12\"",
+  "result_tthm_g_l_a" : "16",
+  "analysis_date_haa5_g_l_b" : "2015-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "29",
+  "result_haa5_g_l_b" : "23",
+  "oel_haa5_g_l_b" : "28"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "37950",
+  "lraa_tthm_g_l_a" : "34",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - IFO 325 N/S E 12th Street, 2nd SS E/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "17",
+  "analysis_date_haa5_g_l_b" : "2015-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "29",
+  "result_haa5_g_l_b" : "24",
+  "oel_haa5_g_l_b" : "27"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "38250",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "38",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - IFO 309 N/S E 87th St, 2nd SS W/O 1st Ave, 12\"",
+  "result_tthm_g_l_a" : "16",
+  "analysis_date_haa5_g_l_b" : "2015-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "30",
+  "result_haa5_g_l_b" : "23",
+  "oel_haa5_g_l_b" : "29"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "39650",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "35",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - IFO 229 N/S E 49th St, 2nd SS W/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "16",
+  "analysis_date_haa5_g_l_b" : "2015-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "30",
+  "result_haa5_g_l_b" : "24",
+  "oel_haa5_g_l_b" : "28"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-09T00:00:00",
+  "site" : "44350",
+  "lraa_tthm_g_l_a" : "34",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - IFO 21-55 N/S 34th Ave, 1st SS W/O 24th St, 12\"",
+  "result_tthm_g_l_a" : "15",
+  "analysis_date_haa5_g_l_b" : "2015-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "28",
+  "result_haa5_g_l_b" : "24",
+  "oel_haa5_g_l_b" : "27"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "45250",
+  "lraa_tthm_g_l_a" : "31",
+  "lraa_haa5_g_l_b" : "34",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - E/S Beach 58th St, 2nd SS N/O Beach Channel Drive, 12\"",
+  "result_tthm_g_l_a" : "17",
+  "analysis_date_haa5_g_l_b" : "2015-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "26",
+  "result_haa5_g_l_b" : "27",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "50250",
+  "lraa_tthm_g_l_a" : "33",
+  "lraa_haa5_g_l_b" : "42",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - IFO 937 N/S Victory Blvd, 2nd SS E/O Highland Ave, 20\"",
+  "result_tthm_g_l_a" : "16",
+  "analysis_date_haa5_g_l_b" : "2015-02-07T00:00:00",
+  "oel_tthm_g_l_a" : "27",
+  "result_haa5_g_l_b" : "27",
+  "oel_haa5_g_l_b" : "37"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "50750",
+  "lraa_tthm_g_l_a" : "39",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - E/S Woodhull Ave, 1st SS S/O Albourne Ave, 8\"",
+  "result_tthm_g_l_a" : "21",
+  "analysis_date_haa5_g_l_b" : "2015-02-06T00:00:00",
+  "oel_tthm_g_l_a" : "33",
+  "result_haa5_g_l_b" : "30",
+  "oel_haa5_g_l_b" : "36"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "50850",
+  "lraa_tthm_g_l_a" : "35",
+  "lraa_haa5_g_l_b" : "42",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - IFO 512 W/S Arlene St, 1st SS N/O Dawson Ct, 12\"",
+  "result_tthm_g_l_a" : "18",
+  "analysis_date_haa5_g_l_b" : "2015-02-07T00:00:00",
+  "oel_tthm_g_l_a" : "29",
+  "result_haa5_g_l_b" : "30",
+  "oel_haa5_g_l_b" : "38"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "52050",
+  "lraa_tthm_g_l_a" : "38",
+  "lraa_haa5_g_l_b" : "39",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - IFO 218 W/S Nicholas Ave, 1st SS S/O Charles Ave, 12\"",
+  "result_tthm_g_l_a" : "19",
+  "analysis_date_haa5_g_l_b" : "2015-02-07T00:00:00",
+  "oel_tthm_g_l_a" : "32",
+  "result_haa5_g_l_b" : "30",
+  "oel_haa5_g_l_b" : "36"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "58650",
+  "lraa_tthm_g_l_a" : "39",
+  "lraa_haa5_g_l_b" : "43",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - IFO 510 W/S Main St, 2nd SS S/O Hylan Blvd, 12\"",
+  "result_tthm_g_l_a" : "23",
+  "analysis_date_haa5_g_l_b" : "2015-02-07T00:00:00",
+  "oel_tthm_g_l_a" : "34",
+  "result_haa5_g_l_b" : "32",
+  "oel_haa5_g_l_b" : "39"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2015-02-05T00:00:00",
+  "site" : "77650",
+  "lraa_tthm_g_l_a" : "30",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2015-02-04T00:00:00",
+  "location" : "SS - OPP 110-52 E/S 207th St",
+  "result_tthm_g_l_a" : "15",
+  "analysis_date_haa5_g_l_b" : "2015-02-07T00:00:00",
+  "oel_tthm_g_l_a" : "26",
+  "result_haa5_g_l_b" : "24",
+  "oel_haa5_g_l_b" : "29"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-05T00:00:00",
+  "site" : "15150",
+  "lraa_tthm_g_l_a" : "33",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - IFO 1420 E/S Grand Concourse, 1st SS S/O E 171st St, 20\"",
+  "result_tthm_g_l_a" : "27",
+  "analysis_date_haa5_g_l_b" : "2014-11-11T00:00:00",
+  "oel_tthm_g_l_a" : "35",
+  "result_haa5_g_l_b" : "26",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-05T00:00:00",
+  "site" : "18650",
+  "lraa_tthm_g_l_a" : "26",
+  "lraa_haa5_g_l_b" : "31",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - N/S Dewey Ave, btw Quincy & Swinton Aves, 12\"",
+  "result_tthm_g_l_a" : "25",
+  "analysis_date_haa5_g_l_b" : "2014-11-11T00:00:00",
+  "oel_tthm_g_l_a" : "28",
+  "result_haa5_g_l_b" : "27",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-05T00:00:00",
+  "site" : "23450",
+  "lraa_tthm_g_l_a" : "31",
+  "lraa_haa5_g_l_b" : "33",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - N/S Jefferson Avenue, 2nd SS W/O Lewis Avenue, 20\"",
+  "result_tthm_g_l_a" : "30",
+  "analysis_date_haa5_g_l_b" : "2014-11-11T00:00:00",
+  "oel_tthm_g_l_a" : "33",
+  "result_haa5_g_l_b" : "28",
+  "oel_haa5_g_l_b" : "33"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-05T00:00:00",
+  "site" : "24350",
+  "lraa_tthm_g_l_a" : "37",
+  "lraa_haa5_g_l_b" : "34",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - W/S Brighton 11th Street, 2nd SS S/O Cass Place, 12\"",
+  "result_tthm_g_l_a" : "37",
+  "analysis_date_haa5_g_l_b" : "2014-11-11T00:00:00",
+  "oel_tthm_g_l_a" : "40",
+  "result_haa5_g_l_b" : "30",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-05T00:00:00",
+  "site" : "31750",
+  "lraa_tthm_g_l_a" : "41",
+  "lraa_haa5_g_l_b" : "34",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - IFO 427 N/S W 26th St, 2nd SS W/O 9th Ave, 12\"",
+  "result_tthm_g_l_a" : "39",
+  "analysis_date_haa5_g_l_b" : "2014-11-11T00:00:00",
+  "oel_tthm_g_l_a" : "44",
+  "result_haa5_g_l_b" : "27",
+  "oel_haa5_g_l_b" : "33"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-06T00:00:00",
+  "site" : "31850",
+  "lraa_tthm_g_l_a" : "38",
+  "lraa_haa5_g_l_b" : "34",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - IFO 82 S/S Warren St, 2nd SS E/O Greenwich St, 12\"",
+  "result_tthm_g_l_a" : "39",
+  "analysis_date_haa5_g_l_b" : "2014-11-11T00:00:00",
+  "oel_tthm_g_l_a" : "42",
+  "result_haa5_g_l_b" : "26",
+  "oel_haa5_g_l_b" : "32"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-06T00:00:00",
+  "site" : "32350",
+  "lraa_tthm_g_l_a" : "39",
+  "lraa_haa5_g_l_b" : "32",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - IFO 116 E/S Ave C, 2nd SS N/O E 7th St, 12\"",
+  "result_tthm_g_l_a" : "36",
+  "analysis_date_haa5_g_l_b" : "2014-11-11T00:00:00",
+  "oel_tthm_g_l_a" : "42",
+  "result_haa5_g_l_b" : "26",
+  "oel_haa5_g_l_b" : "31"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-06T00:00:00",
+  "site" : "33450",
+  "lraa_tthm_g_l_a" : "37",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - IFO 135 N/S W 112th St, 2nd SS W/O St Nicholas Ave, 12\"",
+  "result_tthm_g_l_a" : "38",
+  "analysis_date_haa5_g_l_b" : "2014-11-12T00:00:00",
+  "oel_tthm_g_l_a" : "42",
+  "result_haa5_g_l_b" : "30",
+  "oel_haa5_g_l_b" : "37"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-06T00:00:00",
+  "site" : "33950",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "36",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - N/S E 104th Street, 2nd SS E/O 3rd Avenue, 12\"",
+  "result_tthm_g_l_a" : "34",
+  "analysis_date_haa5_g_l_b" : "2014-11-13T00:00:00",
+  "oel_tthm_g_l_a" : "39",
+  "result_haa5_g_l_b" : "30",
+  "oel_haa5_g_l_b" : "36"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-06T00:00:00",
+  "site" : "37950",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "35",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - IFO 325 N/S E 12th Street, 2nd SS E/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "32",
+  "analysis_date_haa5_g_l_b" : "2014-11-13T00:00:00",
+  "oel_tthm_g_l_a" : "38",
+  "result_haa5_g_l_b" : "28",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-06T00:00:00",
+  "site" : "38250",
+  "lraa_tthm_g_l_a" : "38",
+  "lraa_haa5_g_l_b" : "41",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - IFO 309 N/S E 87th St, 2nd SS W/O 1st Ave, 12\"",
+  "result_tthm_g_l_a" : "34",
+  "analysis_date_haa5_g_l_b" : "2014-11-13T00:00:00",
+  "oel_tthm_g_l_a" : "40",
+  "result_haa5_g_l_b" : "33",
+  "oel_haa5_g_l_b" : "40"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-06T00:00:00",
+  "site" : "39650",
+  "lraa_tthm_g_l_a" : "38",
+  "lraa_haa5_g_l_b" : "37",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - IFO 229 N/S E 49th St, 2nd SS W/O 2nd Ave, 12\"",
+  "result_tthm_g_l_a" : "36",
+  "analysis_date_haa5_g_l_b" : "2014-11-13T00:00:00",
+  "oel_tthm_g_l_a" : "41",
+  "result_haa5_g_l_b" : "29",
+  "oel_haa5_g_l_b" : "37"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-06T00:00:00",
+  "site" : "44350",
+  "lraa_tthm_g_l_a" : "36",
+  "lraa_haa5_g_l_b" : "35",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - IFO 21-55 N/S 34th Ave, 1st SS W/O 24th St, 12\"",
+  "result_tthm_g_l_a" : "37",
+  "analysis_date_haa5_g_l_b" : "2014-11-13T00:00:00",
+  "oel_tthm_g_l_a" : "39",
+  "result_haa5_g_l_b" : "29",
+  "oel_haa5_g_l_b" : "34"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-06T00:00:00",
+  "site" : "45250",
+  "lraa_tthm_g_l_a" : "32",
+  "lraa_haa5_g_l_b" : "35",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - E/S Beach 58th St, 2nd SS N/O Beach Channel Drive, 12\"",
+  "result_tthm_g_l_a" : "29",
+  "analysis_date_haa5_g_l_b" : "2014-11-13T00:00:00",
+  "oel_tthm_g_l_a" : "34",
+  "result_haa5_g_l_b" : "31",
+  "oel_haa5_g_l_b" : "35"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-06T00:00:00",
+  "site" : "50250",
+  "lraa_tthm_g_l_a" : "35",
+  "lraa_haa5_g_l_b" : "45",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - IFO 937 N/S Victory Blvd, 2nd SS E/O Highland Ave, 20\"",
+  "result_tthm_g_l_a" : "33",
+  "analysis_date_haa5_g_l_b" : "2014-11-13T00:00:00",
+  "oel_tthm_g_l_a" : "37",
+  "result_haa5_g_l_b" : "37",
+  "oel_haa5_g_l_b" : "45"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-06T00:00:00",
+  "site" : "50750",
+  "lraa_tthm_g_l_a" : "42",
+  "lraa_haa5_g_l_b" : "40",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - E/S Woodhull Ave, 1st SS S/O Albourne Ave, 8\"",
+  "result_tthm_g_l_a" : "39",
+  "analysis_date_haa5_g_l_b" : "2014-11-13T00:00:00",
+  "oel_tthm_g_l_a" : "44",
+  "result_haa5_g_l_b" : "40",
+  "oel_haa5_g_l_b" : "40"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-06T00:00:00",
+  "site" : "50850",
+  "lraa_tthm_g_l_a" : "38",
+  "lraa_haa5_g_l_b" : "45",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - IFO 512 W/S Arlene St, 1st SS N/O Dawson Ct, 12\"",
+  "result_tthm_g_l_a" : "37",
+  "analysis_date_haa5_g_l_b" : "2014-11-13T00:00:00",
+  "oel_tthm_g_l_a" : "40",
+  "result_haa5_g_l_b" : "41",
+  "oel_haa5_g_l_b" : "45"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-06T00:00:00",
+  "site" : "52050",
+  "lraa_tthm_g_l_a" : "39",
+  "lraa_haa5_g_l_b" : "42",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - IFO 218 W/S Nicholas Ave, 1st SS S/O Charles Ave, 12\"",
+  "result_tthm_g_l_a" : "43",
+  "analysis_date_haa5_g_l_b" : "2014-11-13T00:00:00",
+  "oel_tthm_g_l_a" : "44",
+  "result_haa5_g_l_b" : "35",
+  "oel_haa5_g_l_b" : "40"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-06T00:00:00",
+  "site" : "58650",
+  "lraa_tthm_g_l_a" : "41",
+  "lraa_haa5_g_l_b" : "45",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - IFO 510 W/S Main St, 2nd SS S/O Hylan Blvd, 12\"",
+  "result_tthm_g_l_a" : "40",
+  "analysis_date_haa5_g_l_b" : "2014-11-14T00:00:00",
+  "oel_tthm_g_l_a" : "43",
+  "result_haa5_g_l_b" : "40",
+  "oel_haa5_g_l_b" : "45"
+}
+, {
+  "analysis_date_tthm_g_l_a" : "2014-11-06T00:00:00",
+  "site" : "77650",
+  "lraa_tthm_g_l_a" : "32",
+  "lraa_haa5_g_l_b" : "35",
+  "sample_date" : "2014-11-05T00:00:00",
+  "location" : "SS - OPP 110-52 E/S 207th St",
+  "result_tthm_g_l_a" : "35",
+  "analysis_date_haa5_g_l_b" : "2014-11-14T00:00:00",
+  "oel_tthm_g_l_a" : "35",
+  "result_haa5_g_l_b" : "32",
+  "oel_haa5_g_l_b" : "35"
+}
+ ]

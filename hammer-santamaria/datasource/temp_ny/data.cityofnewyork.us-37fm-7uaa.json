@@ -1,0 +1,23 @@
+[ {
+  "hours" : "8am - 5pm",
+  "city" : "Bronx",
+  "address_1" : "478 East Fordham Road (1 Fordham Plaza)",
+  "address_2" : "2nd Floor",
+  "name" : "Bronx/Manhattan Customer Contact Center",
+  "days" : "Mon.- Fri.",
+  "state" : "NY",
+  "zip_code" : "10458",
+  "phone__" : "(718) 707-7771"
+}
+, {
+  "hours" : "8am - 5pm",
+  "city" : "Brooklyn ",
+  "address_1" : "787 Atlantic Avenue",
+  "address_2" : "2nd Floor",
+  "name" : "Brooklyn/Staten Island Customer Contact Center",
+  "days" : "Mon.- Fri.",
+  "state" : "NY",
+  "zip_code" : "11238",
+  "phone__" : "(718) 707-7771"
+}
+ ]

@@ -1,0 +1,401 @@
+[ {
+  "prevalence" : "67.5",
+  "question" : "Colon cancer screening, adults age 50+ (colonoscopy)",
+  "year" : "2010",
+  "lower95_ci" : "65.4",
+  "upper95_ci" : "69.4",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "14.0",
+  "question" : "Smoking Status (current smokers)",
+  "year" : "2010",
+  "lower95_ci" : "12.9",
+  "upper95_ci" : "15.3",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "n/a",
+  "question" : "Binge Drinking",
+  "year" : "2010",
+  "lower95_ci" : "n/a",
+  "upper95_ci" : "n/a",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "79.1",
+  "question" : "Self-reported Health Status (excellent/very good/good)",
+  "year" : "2010",
+  "lower95_ci" : "77.8",
+  "upper95_ci" : "80.3",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "62.3",
+  "question" : "Flu shot in last 12 months, adults ages 65+ (not age-adjusted)",
+  "year" : "2010",
+  "lower95_ci" : "59.4",
+  "upper95_ci" : "65.1",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "n/a",
+  "question" : "No Personal Doctor",
+  "year" : "2010",
+  "lower95_ci" : "n/a",
+  "upper95_ci" : "n/a",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "23.4",
+  "question" : "Obesity",
+  "year" : "2010",
+  "lower95_ci" : "22.1",
+  "upper95_ci" : "24.8",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "10.3",
+  "question" : "Did not get needed medical care",
+  "year" : "2010",
+  "lower95_ci" : "9.4",
+  "upper95_ci" : "11.4",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "30.3",
+  "question" : "Drinks 1 or more sugar-sweetened beverages per day",
+  "year" : "2010",
+  "lower95_ci" : "28.8",
+  "upper95_ci" : "31.8",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "83.3",
+  "question" : "Health Insurance Coverage",
+  "year" : "2010",
+  "lower95_ci" : "82.0",
+  "upper95_ci" : "84.6",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "29.9",
+  "question" : "Drinks 1 or more sugar-sweetened beverages per day",
+  "year" : "2011",
+  "lower95_ci" : "28.2",
+  "upper95_ci" : "31.7",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "68.6",
+  "question" : "Colon cancer screening, adults age 50+ (colonoscopy)",
+  "year" : "2011",
+  "lower95_ci" : "66.2",
+  "upper95_ci" : "70.8",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "10.7",
+  "question" : "Did not get needed medical care",
+  "year" : "2011",
+  "lower95_ci" : "9.6",
+  "upper95_ci" : "12.0",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "78.2",
+  "question" : "Self-reported Health Status (excellent/very good/good)",
+  "year" : "2011",
+  "lower95_ci" : "76.7",
+  "upper95_ci" : "79.6",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "17.9",
+  "question" : "Binge Drinking",
+  "year" : "2011",
+  "lower95_ci" : "16.4",
+  "upper95_ci" : "19.6",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "81.4",
+  "question" : "Health Insurance Coverage",
+  "year" : "2011",
+  "lower95_ci" : "79.7",
+  "upper95_ci" : "83.0",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "16.9",
+  "question" : "No Personal Doctor",
+  "year" : "2011",
+  "lower95_ci" : "15.5",
+  "upper95_ci" : "18.5",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "14.8",
+  "question" : "Smoking Status (current smokers)",
+  "year" : "2011",
+  "lower95_ci" : "13.5",
+  "upper95_ci" : "16.3",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "23.7",
+  "question" : "Obesity",
+  "year" : "2011",
+  "lower95_ci" : "22.2",
+  "upper95_ci" : "25.3",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "67.4",
+  "question" : "Flu shot in last 12 months, adults ages 65+ (not age-adjusted)",
+  "year" : "2011",
+  "lower95_ci" : "63.9",
+  "upper95_ci" : "70.7",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "18.3",
+  "question" : "No Personal Doctor",
+  "year" : "2012",
+  "lower95_ci" : "17.0",
+  "upper95_ci" : "19.7",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "28.2",
+  "question" : "Drinks 1 or more sugar-sweetened beverages per day",
+  "year" : "2012",
+  "lower95_ci" : "26.7",
+  "upper95_ci" : "29.6",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "19.6",
+  "question" : "Binge Drinking",
+  "year" : "2012",
+  "lower95_ci" : "18.2",
+  "upper95_ci" : "20.9",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "68.5",
+  "question" : "Colon cancer screening, adults age 50+ (colonoscopy)",
+  "year" : "2012",
+  "lower95_ci" : "66.3",
+  "upper95_ci" : "70.5",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "61.8",
+  "question" : "Flu shot in last 12 months, adults ages 65+ (not age-adjusted)",
+  "year" : "2012",
+  "lower95_ci" : "58.5",
+  "upper95_ci" : "64.9",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "24.2",
+  "question" : "Obesity",
+  "year" : "2012",
+  "lower95_ci" : "22.8",
+  "upper95_ci" : "25.5",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "11.1",
+  "question" : "Did not get needed medical care",
+  "year" : "2012",
+  "lower95_ci" : "10.1",
+  "upper95_ci" : "12.2",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "78.7",
+  "question" : "Self-reported Health Status (excellent/very good/good)",
+  "year" : "2012",
+  "lower95_ci" : "77.5",
+  "upper95_ci" : "79.9",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "15.5",
+  "question" : "Smoking Status (current smokers)",
+  "year" : "2012",
+  "lower95_ci" : "14.4",
+  "upper95_ci" : "16.8",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "80.2",
+  "question" : "Health Insurance Coverage",
+  "year" : "2012",
+  "lower95_ci" : "78.7",
+  "upper95_ci" : "81.5",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "69.0",
+  "question" : "Colon cancer screening, adults age 50+ (colonoscopy)",
+  "year" : "2013",
+  "lower95_ci" : "67.0",
+  "upper95_ci" : "71.0",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "76.9",
+  "question" : "Self-reported Health Status (excellent/very good/good)",
+  "year" : "2013",
+  "lower95_ci" : "75.7",
+  "upper95_ci" : "78.0",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "11.2",
+  "question" : "Did not get needed medical care",
+  "year" : "2013",
+  "lower95_ci" : "10.3",
+  "upper95_ci" : "12.2",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "66.8",
+  "question" : "Flu shot in last 12 months, adults ages 65+ (not age-adjusted)",
+  "year" : "2013",
+  "lower95_ci" : "63.7",
+  "upper95_ci" : "69.8",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "23.3",
+  "question" : "Drinks 1 or more sugar-sweetened beverages per day",
+  "year" : "2013",
+  "lower95_ci" : "22.1",
+  "upper95_ci" : "24.6",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "23.4",
+  "question" : "Obesity",
+  "year" : "2013",
+  "lower95_ci" : "22.2",
+  "upper95_ci" : "24.7",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "79.1",
+  "question" : "Health Insurance Coverage",
+  "year" : "2013",
+  "lower95_ci" : "77.8",
+  "upper95_ci" : "80.3",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "16.1",
+  "question" : "Smoking Status (current smokers)",
+  "year" : "2013",
+  "lower95_ci" : "15.0",
+  "upper95_ci" : "17.2",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "19.1",
+  "question" : "No Personal Doctor",
+  "year" : "2013",
+  "lower95_ci" : "18.0",
+  "upper95_ci" : "20.3",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "18.2",
+  "question" : "Binge Drinking",
+  "year" : "2013",
+  "lower95_ci" : "17.0",
+  "upper95_ci" : "19.4",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "15.6",
+  "question" : "No Personal Doctor",
+  "year" : "2014",
+  "lower95_ci" : "14.5",
+  "upper95_ci" : "16.7",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "13.9",
+  "question" : "Smoking Status (current smokers)",
+  "year" : "2014",
+  "lower95_ci" : "12.8",
+  "upper95_ci" : "14.9",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "9.6",
+  "question" : "Did not get needed medical care",
+  "year" : "2014",
+  "lower95_ci" : "8.7",
+  "upper95_ci" : "10.5",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "24.7",
+  "question" : "Obesity",
+  "year" : "2014",
+  "lower95_ci" : "23.4",
+  "upper95_ci" : "26.0",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "69.9",
+  "question" : "Colon cancer screening, adults age 50+ (colonoscopy)",
+  "year" : "2014",
+  "lower95_ci" : "67.8",
+  "upper95_ci" : "72.0",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "22.5",
+  "question" : "Drinks 1 or more sugar-sweetened beverages per day",
+  "year" : "2014",
+  "lower95_ci" : "21.2",
+  "upper95_ci" : "23.8",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "16.5",
+  "question" : "Binge Drinking",
+  "year" : "2014",
+  "lower95_ci" : "15.4",
+  "upper95_ci" : "17.7",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "77.8",
+  "question" : "Self-reported Health Status (excellent/very good/good)",
+  "year" : "2014",
+  "lower95_ci" : "76.6",
+  "upper95_ci" : "78.9",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "86.2",
+  "question" : "Health Insurance Coverage",
+  "year" : "2014",
+  "lower95_ci" : "85.2",
+  "upper95_ci" : "87.2",
+  "survey" : "CHS"
+}
+, {
+  "prevalence" : "64.2",
+  "question" : "Flu shot in last 12 months, adults ages 65+ (not age-adjusted)",
+  "year" : "2014",
+  "lower95_ci" : "60.7",
+  "upper95_ci" : "67.6",
+  "survey" : "CHS"
+}
+ ]

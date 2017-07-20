@@ -1,0 +1,301 @@
+[ {
+  "site_name" : "Henry Street Settlement Workforce Development Center",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.71844741559961",
+    "human_address" : "{\"address\":\"99 Essex Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98830122278652"
+  },
+  "agency" : "Henry Street Settlement",
+  "borough_community" : "New York",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "212.478.5400 ext. 210"
+}
+, {
+  "site_name" : "The Fortune Society, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"29 76 Northern Boulevard\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225"
+  },
+  "agency" : "The Fortune Society, Inc.",
+  "borough_community" : "Queens",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "212.691.7554 ext. 704"
+}
+, {
+  "site_name" : "Chinatown Manpower Project, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.716141909295175",
+    "human_address" : "{\"address\":\"70 Mulberry Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10013\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99917280924103"
+  },
+  "agency" : "Chinatown Manpower Project, Inc.",
+  "borough_community" : "New York",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "212.571.1690"
+}
+, {
+  "site_name" : "The Door - A Center of Alternatives",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.721242188776046",
+    "human_address" : "{\"address\":\"121 Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10013\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00888900022716"
+  },
+  "agency" : "The Door - A Center of Alternatives",
+  "borough_community" : "New York",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "212.941.9090"
+}
+, {
+  "site_name" : "International Sheet Metal Workers Local Union 28 (intake site)",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.74541398971918",
+    "human_address" : "{\"address\":\"470 Park Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10016\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98270866745645"
+  },
+  "agency" : "International Sheet Metal Workers Local Union 28",
+  "borough_community" : "New York",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "212.732.7897"
+}
+, {
+  "site_name" : "New York Center for Interpersonal Development ",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.64309548865274",
+    "human_address" : "{\"address\":\"120 Stuyvesant Place\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10301\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.07704808233049"
+  },
+  "agency" : "New York Center for Interpersonal Development ",
+  "borough_community" : "Staten Island",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "718.947.4051"
+}
+, {
+  "site_name" : "Bronx Community College",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.852786838341956",
+    "human_address" : "{\"address\":\"4117 181st Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91342678431863"
+  },
+  "agency" : "Henkels & McCoy, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "917.856.2368"
+}
+, {
+  "site_name" : "South Bronx Job Corps",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.85076866536985",
+    "human_address" : "{\"address\":\"1771 Andrews Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91669538355141"
+  },
+  "agency" : "Arbor Employment and Training",
+  "borough_community" : "Bronx",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "718.731.7686"
+}
+, {
+  "site_name" : "Career Development Institute",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.813535754971156",
+    "human_address" : "{\"address\":\"412 434 East 147th Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9053552520432"
+  },
+  "agency" : "Federation Employment & Guidance Services (FEGS)",
+  "borough_community" : "Bronx",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "718.742.3499"
+}
+, {
+  "site_name" : "Mosholu Montefiore Community Center, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.8811069447426",
+    "human_address" : "{\"address\":\"3450 Dekalb Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10467\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88170846616941"
+  },
+  "agency" : "Mosholu Montefiore Community Center, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "718.652.0470"
+}
+, {
+  "site_name" : "Henkels & McCoy, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"29 10 Thomson Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225"
+  },
+  "agency" : "CUNY Catch at LaGuardia Community College",
+  "borough_community" : "Queens",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "917.856.2368"
+}
+, {
+  "site_name" : "Catholic Charities Neighborhood Services",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.77152402451418",
+    "human_address" : "{\"address\":\"23 40 Astoria Boulevard\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11102\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92643545073543"
+  },
+  "agency" : "Catholic Charities Neighborhood Services",
+  "borough_community" : "Queens",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "718.726.9790 ext.127"
+}
+, {
+  "site_name" : "Sunnyside Community Services, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.74489336663561",
+    "human_address" : "{\"address\":\"43 31 39th Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11104\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92054134530679"
+  },
+  "agency" : "Sunnyside Community Service, Inc.",
+  "borough_community" : "Queens",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "718.784.6173 ext. 429"
+}
+, {
+  "site_name" : "NYSARC, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.692238836414404",
+    "human_address" : "{\"address\":\"57 Willoughby\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98662013867026"
+  },
+  "agency" : "NYSARC, Inc, NYC Chapter Assn for Help of Retarded Children",
+  "borough_community" : "Brooklyn",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "212.634.8657"
+}
+, {
+  "site_name" : "Brooklyn Job Corps Academy",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.69124066064337",
+    "human_address" : "{\"address\":\"585 DeKalb Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11205\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95277618834143"
+  },
+  "agency" : "Arbor Employment and Training",
+  "borough_community" : "Brooklyn",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "718.623.4031"
+}
+, {
+  "site_name" : "Opportunities for a Better Tomorrow-North",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.70091258928835",
+    "human_address" : "{\"address\":\"25 Thornton Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11206\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94390057487814"
+  },
+  "agency" : "Opportunities for a Better Tomorrow",
+  "borough_community" : "Brooklyn",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "718.369.0303"
+}
+, {
+  "site_name" : "Medgar Evers College",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.66723830925684",
+    "human_address" : "{\"address\":\"1150 Carroll Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11225\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95227144143587"
+  },
+  "agency" : "Research Foundation of CUNY on behalf of Medgar Evers College",
+  "borough_community" : "Brooklyn",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "718.270.6474"
+}
+, {
+  "site_name" : "Church Avenue Merchants Block Association, Inc.",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.65044686678422",
+    "human_address" : "{\"address\":\"2211 Church Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11226\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95854532388019"
+  },
+  "agency" : "Church Avenue Merchant Block Association",
+  "borough_community" : "Brooklyn",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "718.462.4244"
+}
+, {
+  "site_name" : "Opportunities for a Better Tomorrow",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.6592891541206",
+    "human_address" : "{\"address\":\"783 4th Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11232\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99910746861542"
+  },
+  "agency" : "Opportunities for a Better Tomorrow",
+  "borough_community" : "Brooklyn",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "718.369.0303"
+}
+, {
+  "site_name" : "YWCA of Queens",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.7512997969481",
+    "human_address" : "{\"address\":\"42 07 Parsons Boulevard\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11355\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82147854789662"
+  },
+  "agency" : "YWCA of Queens",
+  "borough_community" : "Queens",
+  "program" : "Out-of-School Youth Employment (OSY)",
+  "grade_level_age_group" : "16 to 21",
+  "contact_number" : "718.353.4553"
+}
+ ]

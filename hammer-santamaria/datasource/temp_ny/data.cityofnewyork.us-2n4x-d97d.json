@@ -1,0 +1,27 @@
+[ {
+  "street_address" : "SANDFORD AVE",
+  "secondary_address" : "APT 2FL",
+  "last_updated_time" : "13:20:16",
+  "city" : "FLUSHING",
+  "telephone_number" : "3472215062",
+  "state" : "NY",
+  "licensee_name" : "KS DACHE INC.",
+  "last_updated_date" : "2016-12-12T00:00:00",
+  "building" : "155-12",
+  "zip_code" : "11355",
+  "license_number" : "ED0003"
+}
+, {
+  "street_address" : "31 AVENUE",
+  "secondary_address" : "SUITE 801",
+  "last_updated_time" : "13:20:16",
+  "city" : "FLUSHING",
+  "telephone_number" : "7183958288",
+  "state" : "NY",
+  "licensee_name" : "OPERR TECHNOLOGIES, INC",
+  "last_updated_date" : "2016-12-12T00:00:00",
+  "building" : "130-30",
+  "zip_code" : "11354",
+  "license_number" : "ED0002"
+}
+ ]

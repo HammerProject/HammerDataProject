@@ -1,0 +1,56 @@
+[ {
+  "phone_number" : "718-918-5000",
+  "borough" : "Bronx",
+  "hospital" : "Jacobi Medical Center"
+}
+, {
+  "phone_number" : "718-579-5000",
+  "borough" : "Bronx",
+  "hospital" : "Lincoln Hospital & Mental Health Center"
+}
+, {
+  "phone_number" : "718-519-5000",
+  "borough" : "Bronx",
+  "hospital" : "North Central Bronx Hospital"
+}
+, {
+  "phone_number" : "718-616-3000",
+  "borough" : "Brooklyn",
+  "hospital" : "Coney Island Hospital"
+}
+, {
+  "phone_number" : "718-245-3131",
+  "borough" : "Brooklyn",
+  "hospital" : "Kings County Hospital Center"
+}
+, {
+  "phone_number" : "718-963-8000",
+  "borough" : "Brooklyn",
+  "hospital" : "Woodhull Medical and Mental Health Center"
+}
+, {
+  "phone_number" : "212-562-4141",
+  "borough" : "Manhattan",
+  "hospital" : "Bellevue Hospital Center"
+}
+, {
+  "phone_number" : "212-939-1000",
+  "borough" : "Manhattan",
+  "hospital" : "Harlem Hospital"
+}
+, {
+  "phone_number" : "212-423-6262",
+  "borough" : "Manhattan",
+  "hospital" : "Metropolitan Hospital"
+}
+, {
+  "phone_number" : "718-334-4000",
+  "borough" : "Queens",
+  "hospital" : "Elmhurst Hospital Center"
+}
+, {
+  "phone_number" : "718-883-3000",
+  "borough" : "Queens",
+  "hospital" : "Queens Hospital Center"
+}
+ ]
