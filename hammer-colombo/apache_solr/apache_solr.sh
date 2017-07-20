@@ -26,3 +26,8 @@ bin/post -c openafricaj ../../africa_org/*.json
 
 curl "http://localhost:8983/solr/openafrica/update/extract?literal.id=festival_mantova.json&commit=true" -F "myfile=@../../africa_org/festival_mantova.json"
 
+
+## create cityofnewyork
+bin/solr create -c cityofnewyork
+bin/post -c cityofnewyork ../../cityofnewyork/*.json
+
