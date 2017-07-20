@@ -38,9 +38,8 @@ public class App {
     		int count_record = 0;
     		for (BasicDBObject doc : docs) {
     			if(doc.containsField("api-link")) {
-    				count_record += docs.size() ;
     				System.out.print(c + "/" + docs.size() + " - " + doc.get("api-link").toString());
-    				GetFromUrl("datasource/temp_ny/" + doc.get("_id").toString() + ".json", doc.get("api-link").toString());
+    				count_record += GetFromUrl("datasource/temp_ny/" + doc.get("_id").toString() + ".json", doc.get("api-link").toString());
     				System.out.println(" ---> ok");
     				
     			}
@@ -57,9 +56,13 @@ public class App {
 	 * @param filePath
 	 * @param url
 	 */
-	public static void GetFromUrl(String filePath, String url) {
+	public static int GetFromUrl(String filePath, String url) {
 		File file = new File(filePath);
-		if (file.exists()) return;
+		if (file.exists())  {
+			
+			ArrayList<BasicDBObject> docs = GetFromFile(filePath);
+			return docs.size();
+		}
 		
 		
 		//ArrayList<BasicDBObject> docs = null;
@@ -78,17 +81,17 @@ public class App {
 				throw new Exception("Method failed: " + method.getStatusLine());
 			}
 			byte[] responseBody = method.getResponseBody();
-			//docs = (ArrayList<BasicDBObject>) JSON.parse(new String(responseBody));
+			ArrayList<BasicDBObject> docs = (ArrayList<BasicDBObject>) JSON.parse(new String(responseBody));
 			SaveFile(filePath,responseBody);
 			
-
+			return docs.size();
 		} catch (Exception e) {
 			e.printStackTrace();
 		} finally {
 			method.releaseConnection();
 		}
 		//return docs;
-		
+		return 0;
 	}
 	
 	
@@ -158,17 +161,14 @@ public class App {
 			if (!file.exists()) {
 				file.createNewFile();
 				
-				fop.write(byteArray);
-				fop.flush();
-				fop.close();
+				
 
-			} else {
-				//file.delete();
-				//file.createNewFile();
 			}
 
 			
-		
+			fop.write(byteArray);
+			fop.flush();
+			fop.close();
 
 		} catch (IOException e) {
 			e.printStackTrace();
