@@ -5,32 +5,30 @@
 // mauro.pelucchi@gmail.com
 //
 // 
-// This data contains cleaning records for City property under the jurisdiction of, or maintained by, NYC Parks. It includes records of tasks such as opening parks, cleaning and restocking comfort stations, and removing graffiti, litter and natural debris. For FY2016, this information was tracked in two systems - the Asset Management Parks System (AMPS) through 9/7/2015, and a purpose-built Daily Tasks application from 9/8/2015. The system used to capture each record is noted in the data, and records captured using the AMPS system contain less information than records captured in the newer Daily Tasks system. Data accuracy is limited by the accuracy of the original source database. This data represents a portion of the underlying information used to produce the FY2016 report on Park Maintenance, as required by Administrative Code 18-144.
+// NYC City Hall Library Publications
 // 
 //
 
 {
   "select": [
-      { "column": { "instance": "services", "label":"program"}},
-      { "column": { "instance": "services", "label":"category"}},
-      { "column": { "instance": "services", "label":"agency"}},
-      { "column": { "instance": "services", "label":"populationserver"}},
-      { "column": { "instance": "services", "label":"url"}}
+      { "column": { "instance": "publications", "label":"publication"}},
+      { "column": { "instance": "publications", "label":"category"}},
+      { "column": { "instance": "publications", "label":"url"}}
   ],
   "from": [
-    "services"
+    "publications"
   ],
   "where": [{"condition": {
-      "instance1": "services",
+      "instance1": "publications",
       "label1": "category",
       "operator": "eq",
-      "value": "Food",
-      "logicalOperator": "and"
+      "value": "Health",
+      "logicalOperator": "or"
     }}, {"condition": {
-      "instance1": "services",
-      "label1": "populationserver",
+      "instance1": "publications",
+      "label1": "category",
       "operator": "eq",
-      "value": "Everyone",
+      "value": "Budget",
       "logicalOperator": "and"
     }}
   ]

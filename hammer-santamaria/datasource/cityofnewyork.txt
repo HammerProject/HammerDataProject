@@ -29,7 +29,7 @@ bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/te
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_wn.json local search keywords 0.2 0.2 0.90 3 dataset_ny index_ny 10
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_wn.json local search keywords 0.2 0.2 0.80 3 dataset_ny index_ny 10
 
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/2_wn.json local search keywords 0.3 0.3 0.90 3 dataset_ny index_ny 0.9963
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/2_wn.json local search keywords 0.3 0.3 0.90 3 dataset_ny index_ny 10
 
 
 
@@ -37,6 +37,7 @@ bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/te
 
 ##export table
 mongoexport --host localhost --db hammer --collection dataset_ny --csv --out cityofnewyork.csv --fields title
+mongoexport --host localhost --db hammer --collection dataset_ny --json --out cityofnewyork.json
 
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/fuzzy_4.json local search keywords 0.3 0.3 0.90 3 dataset_ny index_ny 0.9995
 

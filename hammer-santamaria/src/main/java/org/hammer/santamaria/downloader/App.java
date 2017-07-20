@@ -32,18 +32,21 @@ public class App {
     {
         System.out.println( "Hamme Project - Main" );
         try {
-        	ArrayList<BasicDBObject> docs = App.GetFromFile("datasource/opendataafrica.json");
+        	ArrayList<BasicDBObject> docs = App.GetFromFile("datasource/cityofnewyork.json");
     		System.out.println("Total resources " + docs.size());
     		int c = 1;
+    		int count_record = 0;
     		for (BasicDBObject doc : docs) {
-    			if(doc.containsField("url")) {
-    				System.out.print(c + "/" + docs.size() + " - " + doc.get("url").toString());
-    				GetFromUrl("datasource/temp/" + doc.get("_id").toString() + ".json", doc.get("url").toString());
+    			if(doc.containsField("api-link")) {
+    				count_record += docs.size() ;
+    				System.out.print(c + "/" + docs.size() + " - " + doc.get("api-link").toString());
+    				GetFromUrl("datasource/temp_ny/" + doc.get("_id").toString() + ".json", doc.get("api-link").toString());
     				System.out.println(" ---> ok");
     				
     			}
     			c++;
     		}
+    		System.out.println("--> total record " + count_record);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

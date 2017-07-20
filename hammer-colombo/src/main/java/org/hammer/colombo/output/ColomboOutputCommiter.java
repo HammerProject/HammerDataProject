@@ -128,12 +128,12 @@ public class ColomboOutputCommiter extends OutputCommitter {
 
 			} catch (Exception e) {
 				LOG.debug(e);
-				LOG.error("PINTA COMMITTER: Error reading from temporary file", e);
+				LOG.error("COLOMBO COMMITTER: Error reading from temporary file", e);
 				throw new IOException(e);
 			}
 		}
 
-		LOG.info("PINTA INSERT - DATA SET : " + inserted);
+		LOG.info("COLOMBO INSERT - DATA SET : " + inserted);
 
 		cleanupAfterCommit(inputStream, taskContext);
 	}
