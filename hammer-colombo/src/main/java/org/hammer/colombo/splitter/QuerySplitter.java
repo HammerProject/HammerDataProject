@@ -234,9 +234,12 @@ public class QuerySplitter extends MongoSplitter {
 		// cases.add(testq);
 		// }
 		// }
+		
 		beforePrunning.sort(cmp_query);
 		if (beforePrunning.size() > thQuery) {
-			beforePrunning = beforePrunning.subList(0, thQuery);
+			cases = beforePrunning.subList(0, thQuery);
+		} else {
+			cases = beforePrunning;
 		}
 
 		//
@@ -245,7 +248,7 @@ public class QuerySplitter extends MongoSplitter {
 		LOG.info("--- FUZZY SEARCH QUERY AFTER PRUNNING --> " + cases.size());
 
 		// print selected query
-		for (List<Term[]> testq : beforePrunning) {
+		for (List<Term[]> testq : cases) {
 			System.out.println("-------------------------------------------");
 			for (Term[] l : testq) {
 				String temp = "";
