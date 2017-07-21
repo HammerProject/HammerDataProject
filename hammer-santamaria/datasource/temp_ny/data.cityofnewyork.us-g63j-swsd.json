@@ -1,0 +1,5672 @@
+[ { }
+, { }
+, { }
+, {
+  "copper_mg_l" : "0.004",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2016-06-27T00:00:00",
+  "ph_unit" : "7.64",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.15",
+  "sample_site" : "38250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "48.3",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "21.0",
+  "specific_conductance_s_cm" : "363",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.40",
+  "lead_g_l" : "0",
+  "temperature_f" : "61",
+  "ortho_phosphate_mg_l" : "2.35",
+  "sample_site" : "11750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.4",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.75",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.44",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.22",
+  "sample_site" : "16150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.6",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.95",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.37",
+  "lead_g_l" : "0",
+  "temperature_f" : "61",
+  "ortho_phosphate_mg_l" : "2.06",
+  "sample_site" : "20150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.7",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.96",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.35",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "2.06",
+  "sample_site" : "20650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.4",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.82",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.35",
+  "lead_g_l" : "0",
+  "temperature_f" : "60",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "27350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.9",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.59",
+  "lead_g_l" : "0",
+  "temperature_f" : "60",
+  "ortho_phosphate_mg_l" : "1.93",
+  "sample_site" : "30550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "5.88",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.57",
+  "lead_g_l" : "0",
+  "temperature_f" : "57",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "31450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "49.0",
+  "copper_mg_l" : "0.010",
+  "calcium_mg_l" : "21.0",
+  "specific_conductance_s_cm" : "367",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "61",
+  "ortho_phosphate_mg_l" : "2.37",
+  "sample_site" : "31550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.3",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.81",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.56",
+  "lead_g_l" : "0",
+  "temperature_f" : "59",
+  "ortho_phosphate_mg_l" : "2.15",
+  "sample_site" : "33050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.2",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.82",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.61",
+  "lead_g_l" : "0",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "33850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.3",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.88",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.49",
+  "lead_g_l" : "0",
+  "temperature_f" : "57",
+  "ortho_phosphate_mg_l" : "2.05",
+  "sample_site" : "36950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.1",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.79",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.44",
+  "lead_g_l" : "0",
+  "temperature_f" : "59",
+  "ortho_phosphate_mg_l" : "2.09",
+  "sample_site" : "39950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.5",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "5.89",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.32",
+  "lead_g_l" : "0",
+  "temperature_f" : "61",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "40350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.9",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.18",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.11",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.16",
+  "sample_site" : "46250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.8",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.62",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.52",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.06",
+  "sample_site" : "47650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.47",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.43",
+  "lead_g_l" : "0",
+  "temperature_f" : "66",
+  "ortho_phosphate_mg_l" : "2.16",
+  "sample_site" : "53550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.0",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.79",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.41",
+  "lead_g_l" : "0",
+  "temperature_f" : "59",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "59050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.8",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.18",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.32",
+  "lead_g_l" : "1",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "2.15",
+  "sample_site" : "77750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.6",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.98",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2016-06-07T00:00:00",
+  "ph_unit" : "7.37",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "2.09",
+  "sample_site" : "79550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.3",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.85",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2016-05-18T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "55",
+  "ortho_phosphate_mg_l" : "2.15",
+  "sample_site" : "45250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "18.4",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.84",
+  "specific_conductance_s_cm" : "141",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.45",
+  "lead_g_l" : "0",
+  "temperature_f" : "51",
+  "ortho_phosphate_mg_l" : "2.27",
+  "sample_site" : "15150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "43.3",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "17.7",
+  "specific_conductance_s_cm" : "329",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.18",
+  "lead_g_l" : "0",
+  "temperature_f" : "54",
+  "ortho_phosphate_mg_l" : "2.08",
+  "sample_site" : "18650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "13.7",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.71",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "54",
+  "ortho_phosphate_mg_l" : "2.25",
+  "sample_site" : "23450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "13.7",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.74",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.46",
+  "lead_g_l" : "0",
+  "temperature_f" : "53",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "24350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "35.6",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "14.7",
+  "specific_conductance_s_cm" : "263",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.40",
+  "lead_g_l" : "0",
+  "temperature_f" : "53",
+  "ortho_phosphate_mg_l" : "2.38",
+  "sample_site" : "31750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "18.1",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "7.27",
+  "specific_conductance_s_cm" : "118",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.51",
+  "lead_g_l" : "0",
+  "temperature_f" : "73",
+  "ortho_phosphate_mg_l" : "2.26",
+  "sample_site" : "31850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "25.2",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "8.54",
+  "specific_conductance_s_cm" : "169",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.53",
+  "lead_g_l" : "0",
+  "temperature_f" : "52",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "32350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "63.1",
+  "copper_mg_l" : "0.013",
+  "calcium_mg_l" : "27.1",
+  "specific_conductance_s_cm" : "495",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "49",
+  "ortho_phosphate_mg_l" : "2.28",
+  "sample_site" : "33450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "63.3",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "27.5",
+  "specific_conductance_s_cm" : "493",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.35",
+  "lead_g_l" : "0",
+  "temperature_f" : "50",
+  "ortho_phosphate_mg_l" : "2.20",
+  "sample_site" : "33950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "22.3",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "8.58",
+  "specific_conductance_s_cm" : "143",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.46",
+  "lead_g_l" : "0",
+  "temperature_f" : "53",
+  "ortho_phosphate_mg_l" : "2.01",
+  "sample_site" : "37950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "18.9",
+  "copper_mg_l" : "0.060",
+  "calcium_mg_l" : "7.62",
+  "specific_conductance_s_cm" : "131",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.44",
+  "lead_g_l" : "14.6",
+  "temperature_f" : "52",
+  "ortho_phosphate_mg_l" : "2.20",
+  "sample_site" : "38250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "23.0",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "8.44",
+  "specific_conductance_s_cm" : "128",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.35",
+  "lead_g_l" : "0",
+  "temperature_f" : "52",
+  "ortho_phosphate_mg_l" : "2.21",
+  "sample_site" : "39650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "22.7",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "8.63",
+  "specific_conductance_s_cm" : "147",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.36",
+  "lead_g_l" : "0",
+  "temperature_f" : "53",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "44350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "13.7",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.68",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "52",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "50250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.2",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.92",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.42",
+  "lead_g_l" : "0",
+  "temperature_f" : "57",
+  "ortho_phosphate_mg_l" : "2.19",
+  "sample_site" : "50750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.6",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.96",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.51",
+  "lead_g_l" : "0",
+  "temperature_f" : "56",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "50850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "13.8",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.70",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.37",
+  "lead_g_l" : "0",
+  "temperature_f" : "54",
+  "ortho_phosphate_mg_l" : "2.20",
+  "sample_site" : "52050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.3",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.04",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.45",
+  "lead_g_l" : "0",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.17",
+  "sample_site" : "58650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.0",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.98",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2016-05-03T00:00:00",
+  "ph_unit" : "7.32",
+  "lead_g_l" : "0",
+  "temperature_f" : "55",
+  "ortho_phosphate_mg_l" : "2.28",
+  "sample_site" : "77650"
+}
+, {
+  "copper_mg_l" : "0.006",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2016-05-02T00:00:00",
+  "ph_unit" : "7.40",
+  "lead_g_l" : "0",
+  "temperature_f" : "56",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "44450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "13.7",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "5.93",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.44",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.25",
+  "sample_site" : "10750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.2",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.03",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.34",
+  "sample_site" : "21550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.5",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.85",
+  "specific_conductance_s_cm" : "95",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.34",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.15",
+  "sample_site" : "22250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.3",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.79",
+  "specific_conductance_s_cm" : "95",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.29",
+  "lead_g_l" : "0",
+  "temperature_f" : "46",
+  "ortho_phosphate_mg_l" : "2.29",
+  "sample_site" : "22950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.5",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.90",
+  "specific_conductance_s_cm" : "96",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.39",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.09",
+  "sample_site" : "26850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "37.7",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "15.9",
+  "specific_conductance_s_cm" : "290",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.23",
+  "lead_g_l" : "0",
+  "temperature_f" : "45",
+  "ortho_phosphate_mg_l" : "2.16",
+  "sample_site" : "30150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.02",
+  "specific_conductance_s_cm" : "98",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.65",
+  "lead_g_l" : "0",
+  "temperature_f" : "44",
+  "ortho_phosphate_mg_l" : "1.93",
+  "sample_site" : "31050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.93",
+  "specific_conductance_s_cm" : "98",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.40",
+  "lead_g_l" : "0",
+  "temperature_f" : "46",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "31650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.2",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.74",
+  "specific_conductance_s_cm" : "97",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.60",
+  "lead_g_l" : "0",
+  "temperature_f" : "44",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "31950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.0",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.07",
+  "specific_conductance_s_cm" : "101",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.36",
+  "lead_g_l" : "0",
+  "temperature_f" : "48",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "33550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.7",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.91",
+  "specific_conductance_s_cm" : "101",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.63",
+  "lead_g_l" : "0",
+  "temperature_f" : "46",
+  "ortho_phosphate_mg_l" : "1.97",
+  "sample_site" : "35750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.2",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.91",
+  "specific_conductance_s_cm" : "98",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.41",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "37450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.2",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "6.05",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.32",
+  "lead_g_l" : "1",
+  "temperature_f" : "49",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "44450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.1",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.95",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.49",
+  "lead_g_l" : "0",
+  "temperature_f" : "46",
+  "ortho_phosphate_mg_l" : "2.39",
+  "sample_site" : "46150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.4",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.09",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.48",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.37",
+  "sample_site" : "47550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.4",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.85",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.35",
+  "lead_g_l" : "0",
+  "temperature_f" : "46",
+  "ortho_phosphate_mg_l" : "2.26",
+  "sample_site" : "51450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.6",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.29",
+  "specific_conductance_s_cm" : "95",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.43",
+  "lead_g_l" : "0",
+  "temperature_f" : "51",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "57750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.1",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.84",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.31",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "76150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.1",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.86",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2016-04-05T00:00:00",
+  "ph_unit" : "7.46",
+  "lead_g_l" : "0",
+  "temperature_f" : "45",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "78150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "57.0",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "25.3",
+  "specific_conductance_s_cm" : "460",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "44",
+  "ortho_phosphate_mg_l" : "2.30",
+  "sample_site" : "11750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "13.9",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.77",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.42",
+  "lead_g_l" : "0",
+  "temperature_f" : "39",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "16150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.1",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.80",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.26",
+  "lead_g_l" : "0",
+  "temperature_f" : "41",
+  "ortho_phosphate_mg_l" : "2.06",
+  "sample_site" : "20150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "13.4",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.81",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.27",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.00",
+  "sample_site" : "20650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "13.7",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.62",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.31",
+  "lead_g_l" : "0",
+  "temperature_f" : "41",
+  "ortho_phosphate_mg_l" : "2.20",
+  "sample_site" : "27350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.0",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.78",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.50",
+  "lead_g_l" : "0",
+  "temperature_f" : "44",
+  "ortho_phosphate_mg_l" : "2.19",
+  "sample_site" : "30550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.6",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "5.79",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.42",
+  "lead_g_l" : "0",
+  "temperature_f" : "40",
+  "ortho_phosphate_mg_l" : "2.20",
+  "sample_site" : "31450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "58.5",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "25.6",
+  "specific_conductance_s_cm" : "464",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.29",
+  "lead_g_l" : "0",
+  "temperature_f" : "44",
+  "ortho_phosphate_mg_l" : "2.29",
+  "sample_site" : "31550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.3",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.70",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.47",
+  "lead_g_l" : "0",
+  "temperature_f" : "39",
+  "ortho_phosphate_mg_l" : "1.92",
+  "sample_site" : "33050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "13.5",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.72",
+  "specific_conductance_s_cm" : "95",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.45",
+  "lead_g_l" : "0",
+  "temperature_f" : "40",
+  "ortho_phosphate_mg_l" : "1.94",
+  "sample_site" : "33850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.4",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "5.75",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.56",
+  "lead_g_l" : "0",
+  "temperature_f" : "41",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "36950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.2",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.66",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.48",
+  "lead_g_l" : "0",
+  "temperature_f" : "40",
+  "ortho_phosphate_mg_l" : "1.97",
+  "sample_site" : "39950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "13.4",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.61",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.34",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.20",
+  "sample_site" : "40350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "13.6",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.88",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.30",
+  "lead_g_l" : "0",
+  "temperature_f" : "44",
+  "ortho_phosphate_mg_l" : "2.26",
+  "sample_site" : "46250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.9",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.32",
+  "specific_conductance_s_cm" : "95",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.70",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "47650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "13.7",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.63",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.39",
+  "lead_g_l" : "0",
+  "temperature_f" : "43",
+  "ortho_phosphate_mg_l" : "2.22",
+  "sample_site" : "53550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "13.2",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.67",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.34",
+  "lead_g_l" : "0",
+  "temperature_f" : "40",
+  "ortho_phosphate_mg_l" : "2.27",
+  "sample_site" : "59050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "13.6",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.86",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.41",
+  "lead_g_l" : "0",
+  "temperature_f" : "45",
+  "ortho_phosphate_mg_l" : "2.08",
+  "sample_site" : "77750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "13.0",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.60",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2016-03-01T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "79550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.8",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "6.00",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.47",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "15150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "44.7",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "18.6",
+  "specific_conductance_s_cm" : "319",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.20",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.17",
+  "sample_site" : "18650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.0",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.00",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.31",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.15",
+  "sample_site" : "23450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.2",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.05",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.23",
+  "lead_g_l" : "0",
+  "temperature_f" : "41",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "24350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "51.5",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "20.6",
+  "specific_conductance_s_cm" : "364",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.51",
+  "lead_g_l" : "0",
+  "temperature_f" : "43",
+  "ortho_phosphate_mg_l" : "2.20",
+  "sample_site" : "31750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.19",
+  "specific_conductance_s_cm" : "95",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.51",
+  "lead_g_l" : "0",
+  "temperature_f" : "52",
+  "ortho_phosphate_mg_l" : "2.16",
+  "sample_site" : "31850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "20.0",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "11.2",
+  "specific_conductance_s_cm" : "148",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.55",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.32",
+  "sample_site" : "32350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "70.2",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "29.2",
+  "specific_conductance_s_cm" : "508",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.39",
+  "lead_g_l" : "0",
+  "temperature_f" : "39",
+  "ortho_phosphate_mg_l" : "2.26",
+  "sample_site" : "33450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "70.8",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "29.4",
+  "specific_conductance_s_cm" : "515",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.34",
+  "lead_g_l" : "0",
+  "temperature_f" : "39",
+  "ortho_phosphate_mg_l" : "2.24",
+  "sample_site" : "33950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.1",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.02",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.53",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "37950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.97",
+  "specific_conductance_s_cm" : "95",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.51",
+  "lead_g_l" : "0",
+  "temperature_f" : "38",
+  "ortho_phosphate_mg_l" : "2.26",
+  "sample_site" : "38250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.0",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.95",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "39",
+  "ortho_phosphate_mg_l" : "2.19",
+  "sample_site" : "39650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.8",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.04",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.40",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.17",
+  "sample_site" : "44350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.8",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.05",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.32",
+  "lead_g_l" : "0",
+  "temperature_f" : "50",
+  "ortho_phosphate_mg_l" : "2.23",
+  "sample_site" : "45250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.7",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.05",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.21",
+  "lead_g_l" : "0",
+  "temperature_f" : "41",
+  "ortho_phosphate_mg_l" : "2.24",
+  "sample_site" : "50250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.1",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.27",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.31",
+  "lead_g_l" : "0",
+  "temperature_f" : "44",
+  "ortho_phosphate_mg_l" : "2.22",
+  "sample_site" : "50750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.0",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.16",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.27",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "50850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.0",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.07",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.19",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.29",
+  "sample_site" : "52050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.35",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.29",
+  "lead_g_l" : "0",
+  "temperature_f" : "44",
+  "ortho_phosphate_mg_l" : "2.19",
+  "sample_site" : "58650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.9",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.15",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2016-02-02T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "44",
+  "ortho_phosphate_mg_l" : "2.17",
+  "sample_site" : "77650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.8",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.14",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.26",
+  "lead_g_l" : "0",
+  "temperature_f" : "46",
+  "ortho_phosphate_mg_l" : "2.31",
+  "sample_site" : "10750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.19",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.34",
+  "lead_g_l" : "0",
+  "temperature_f" : "46",
+  "ortho_phosphate_mg_l" : "2.34",
+  "sample_site" : "21550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.7",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.20",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.03",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "22250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.4",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.07",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "45",
+  "ortho_phosphate_mg_l" : "2.27",
+  "sample_site" : "22950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.20",
+  "specific_conductance_s_cm" : "95",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.19",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "26850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "23.7",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "8.65",
+  "specific_conductance_s_cm" : "135",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.36",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "30150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "18.3",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "7.00",
+  "specific_conductance_s_cm" : "108",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "48",
+  "ortho_phosphate_mg_l" : "2.06",
+  "sample_site" : "31050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "22.8",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "7.97",
+  "specific_conductance_s_cm" : "132",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.41",
+  "lead_g_l" : "0",
+  "temperature_f" : "46",
+  "ortho_phosphate_mg_l" : "2.08",
+  "sample_site" : "31650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.7",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.08",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.20",
+  "lead_g_l" : "0",
+  "temperature_f" : "45",
+  "ortho_phosphate_mg_l" : "2.24",
+  "sample_site" : "31950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "23.2",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "8.33",
+  "specific_conductance_s_cm" : "137",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.45",
+  "lead_g_l" : "0",
+  "temperature_f" : "46",
+  "ortho_phosphate_mg_l" : "2.15",
+  "sample_site" : "33550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "19.4",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "7.46",
+  "specific_conductance_s_cm" : "118",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.32",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "35750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "19.4",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "7.35",
+  "specific_conductance_s_cm" : "118",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.49",
+  "lead_g_l" : "0",
+  "temperature_f" : "46",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "37450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.09",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.22",
+  "lead_g_l" : "0",
+  "temperature_f" : "49",
+  "ortho_phosphate_mg_l" : "2.37",
+  "sample_site" : "44450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.8",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.24",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.20",
+  "lead_g_l" : "0",
+  "temperature_f" : "49",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "46150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.21",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.42",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.37",
+  "sample_site" : "47550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.3",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.18",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.42",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.15",
+  "sample_site" : "51450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.3",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.54",
+  "specific_conductance_s_cm" : "95",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.42",
+  "lead_g_l" : "0",
+  "temperature_f" : "49",
+  "ortho_phosphate_mg_l" : "2.19",
+  "sample_site" : "57750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.4",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.14",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.16",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.23",
+  "sample_site" : "76150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.09",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2016-01-05T00:00:00",
+  "ph_unit" : "7.36",
+  "lead_g_l" : "0",
+  "temperature_f" : "45",
+  "ortho_phosphate_mg_l" : "2.27",
+  "sample_site" : "78150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "63.6",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "24.5",
+  "specific_conductance_s_cm" : "427",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.39",
+  "lead_g_l" : "0",
+  "temperature_f" : "54",
+  "ortho_phosphate_mg_l" : "2.19",
+  "sample_site" : "11750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.15",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.47",
+  "lead_g_l" : "0",
+  "temperature_f" : "55",
+  "ortho_phosphate_mg_l" : "1.69",
+  "sample_site" : "16150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.0",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.30",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.45",
+  "lead_g_l" : "0",
+  "temperature_f" : "53",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "20150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.1",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "6.32",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.36",
+  "lead_g_l" : "0",
+  "temperature_f" : "54",
+  "ortho_phosphate_mg_l" : "2.19",
+  "sample_site" : "20650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.18",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.13",
+  "lead_g_l" : "0",
+  "temperature_f" : "53",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "27350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.0",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.41",
+  "specific_conductance_s_cm" : "95",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.51",
+  "lead_g_l" : "0",
+  "temperature_f" : "55",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "30550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.7",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.31",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.43",
+  "lead_g_l" : "0",
+  "temperature_f" : "52",
+  "ortho_phosphate_mg_l" : "2.03",
+  "sample_site" : "31450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "66.8",
+  "copper_mg_l" : "0.012",
+  "calcium_mg_l" : "26.8",
+  "specific_conductance_s_cm" : "446",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.35",
+  "lead_g_l" : "0",
+  "temperature_f" : "56",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "31550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.6",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.38",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.45",
+  "lead_g_l" : "0",
+  "temperature_f" : "53",
+  "ortho_phosphate_mg_l" : "2.03",
+  "sample_site" : "33050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.6",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.30",
+  "specific_conductance_s_cm" : "95",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.50",
+  "lead_g_l" : "0",
+  "temperature_f" : "57",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "33850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.7",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.37",
+  "specific_conductance_s_cm" : "96",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.39",
+  "lead_g_l" : "0",
+  "temperature_f" : "53",
+  "ortho_phosphate_mg_l" : "1.99",
+  "sample_site" : "36950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.25",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.24",
+  "lead_g_l" : "0",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "39950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.9",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.49",
+  "specific_conductance_s_cm" : "96",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.35",
+  "lead_g_l" : "0",
+  "temperature_f" : "54",
+  "ortho_phosphate_mg_l" : "1.98",
+  "sample_site" : "40350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.2",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.58",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.54",
+  "lead_g_l" : "0",
+  "temperature_f" : "55",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "46250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.7",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "7.09",
+  "specific_conductance_s_cm" : "99",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.72",
+  "lead_g_l" : "0",
+  "temperature_f" : "57",
+  "ortho_phosphate_mg_l" : "2.03",
+  "sample_site" : "47650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.53",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.45",
+  "lead_g_l" : "0",
+  "temperature_f" : "57",
+  "ortho_phosphate_mg_l" : "2.00",
+  "sample_site" : "53550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.15",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "52",
+  "ortho_phosphate_mg_l" : "2.28",
+  "sample_site" : "59050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.2",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.46",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.53",
+  "lead_g_l" : "0",
+  "temperature_f" : "56",
+  "ortho_phosphate_mg_l" : "2.02",
+  "sample_site" : "77750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.7",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "6.26",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-12-01T00:00:00",
+  "ph_unit" : "7.34",
+  "lead_g_l" : "0",
+  "temperature_f" : "54",
+  "ortho_phosphate_mg_l" : "2.03",
+  "sample_site" : "79550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "20.1",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "7.89",
+  "specific_conductance_s_cm" : "128",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.13",
+  "lead_g_l" : "0",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "15150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "46.5",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "15.0",
+  "specific_conductance_s_cm" : "314",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.34",
+  "lead_g_l" : "0",
+  "temperature_f" : "60",
+  "ortho_phosphate_mg_l" : "2.15",
+  "sample_site" : "18650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.17",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.30",
+  "lead_g_l" : "0",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "23450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.14",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.40",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "24350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "46.5",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "16.9",
+  "specific_conductance_s_cm" : "306",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "60",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "31750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.0",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.38",
+  "specific_conductance_s_cm" : "98",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.42",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "2.34",
+  "sample_site" : "31850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "40.6",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "15.1",
+  "specific_conductance_s_cm" : "288",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.30",
+  "lead_g_l" : "0",
+  "temperature_f" : "59",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "32350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "73.2",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "26.9",
+  "specific_conductance_s_cm" : "499",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.35",
+  "lead_g_l" : "0",
+  "temperature_f" : "56",
+  "ortho_phosphate_mg_l" : "2.21",
+  "sample_site" : "33450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "72.1",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "26.6",
+  "specific_conductance_s_cm" : "492",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.26",
+  "lead_g_l" : "0",
+  "temperature_f" : "57",
+  "ortho_phosphate_mg_l" : "2.26",
+  "sample_site" : "33950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.1",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.17",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "60",
+  "ortho_phosphate_mg_l" : "2.20",
+  "sample_site" : "37950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.9",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.39",
+  "specific_conductance_s_cm" : "100",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.29",
+  "lead_g_l" : "0",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "38250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.20",
+  "specific_conductance_s_cm" : "95",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.37",
+  "lead_g_l" : "0",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.16",
+  "sample_site" : "39650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.0",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.26",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.29",
+  "lead_g_l" : "0",
+  "temperature_f" : "60",
+  "ortho_phosphate_mg_l" : "2.00",
+  "sample_site" : "44350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "6.23",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.12",
+  "lead_g_l" : "0",
+  "temperature_f" : "60",
+  "ortho_phosphate_mg_l" : "2.05",
+  "sample_site" : "45250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.4",
+  "copper_mg_l" : "0.035",
+  "calcium_mg_l" : "6.17",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.45",
+  "lead_g_l" : "0",
+  "temperature_f" : "60",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "50250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.0",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "6.86",
+  "specific_conductance_s_cm" : "95",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.59",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "2.17",
+  "sample_site" : "50750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.3",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.45",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.45",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "50850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.57",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.49",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "2.02",
+  "sample_site" : "52050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.2",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.51",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.44",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "2.06",
+  "sample_site" : "58650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.0",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.33",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-11-04T00:00:00",
+  "ph_unit" : "7.39",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "77650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.9",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.04",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "1.98",
+  "sample_site" : "10750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.011",
+  "calcium_mg_l" : "6.06",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.25",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "2.19",
+  "sample_site" : "21550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.0",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "6.04",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.24",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "22250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.3",
+  "copper_mg_l" : "0.013",
+  "calcium_mg_l" : "6.00",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.22",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.19",
+  "sample_site" : "22950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.3",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.09",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.29",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "26850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "64.2",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "23.3",
+  "specific_conductance_s_cm" : "440",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.43",
+  "lead_g_l" : "0",
+  "temperature_f" : "55",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "30150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.7",
+  "copper_mg_l" : "0.012",
+  "calcium_mg_l" : "6.32",
+  "specific_conductance_s_cm" : "101",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.41",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.09",
+  "sample_site" : "31050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.8",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.35",
+  "specific_conductance_s_cm" : "97",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.49",
+  "lead_g_l" : "0",
+  "temperature_f" : "60",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "31650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "6.01",
+  "specific_conductance_s_cm" : "95",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.25",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.01",
+  "sample_site" : "31950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.2",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.21",
+  "specific_conductance_s_cm" : "98",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.41",
+  "lead_g_l" : "0",
+  "temperature_f" : "60",
+  "ortho_phosphate_mg_l" : "2.16",
+  "sample_site" : "33550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.1",
+  "copper_mg_l" : "0.011",
+  "calcium_mg_l" : "6.00",
+  "specific_conductance_s_cm" : "95",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.45",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.02",
+  "sample_site" : "35750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.0",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.08",
+  "specific_conductance_s_cm" : "96",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.47",
+  "lead_g_l" : "0",
+  "temperature_f" : "60",
+  "ortho_phosphate_mg_l" : "2.26",
+  "sample_site" : "37450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.7",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.25",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.24",
+  "lead_g_l" : "0",
+  "temperature_f" : "66",
+  "ortho_phosphate_mg_l" : "2.16",
+  "sample_site" : "44450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.25",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.31",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "46150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.2",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.12",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.25",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "47550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.0",
+  "copper_mg_l" : "0.044",
+  "calcium_mg_l" : "5.87",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "51450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.2",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.09",
+  "specific_conductance_s_cm" : "95",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.37",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "2.08",
+  "sample_site" : "57750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.06",
+  "specific_conductance_s_cm" : "96",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.27",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "76150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.4",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.98",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2015-10-07T00:00:00",
+  "ph_unit" : "7.25",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "2.20",
+  "sample_site" : "78150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "61.0",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "22.3",
+  "specific_conductance_s_cm" : "432",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "61",
+  "ortho_phosphate_mg_l" : "2.31",
+  "sample_site" : "11750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.7",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.23",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.37",
+  "lead_g_l" : "0",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "2.19",
+  "sample_site" : "16150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.43",
+  "specific_conductance_s_cm" : "97",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.37",
+  "lead_g_l" : "0",
+  "temperature_f" : "69",
+  "ortho_phosphate_mg_l" : "2.08",
+  "sample_site" : "20150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.9",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.48",
+  "specific_conductance_s_cm" : "97",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.36",
+  "lead_g_l" : "0",
+  "temperature_f" : "72",
+  "ortho_phosphate_mg_l" : "2.01",
+  "sample_site" : "20650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.2",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.23",
+  "specific_conductance_s_cm" : "95",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.18",
+  "lead_g_l" : "0",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "27350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.4",
+  "copper_mg_l" : "0.010",
+  "calcium_mg_l" : "6.51",
+  "specific_conductance_s_cm" : "97",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "69",
+  "ortho_phosphate_mg_l" : "1.94",
+  "sample_site" : "30550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.1",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.45",
+  "specific_conductance_s_cm" : "97",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.46",
+  "lead_g_l" : "0",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "31450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "53.6",
+  "copper_mg_l" : "0.021",
+  "calcium_mg_l" : "21.9",
+  "specific_conductance_s_cm" : "384",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.34",
+  "lead_g_l" : "0",
+  "temperature_f" : "66",
+  "ortho_phosphate_mg_l" : "2.08",
+  "sample_site" : "31550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.8",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.44",
+  "specific_conductance_s_cm" : "97",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.26",
+  "lead_g_l" : "0",
+  "temperature_f" : "67",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "33050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.7",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.41",
+  "specific_conductance_s_cm" : "97",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.24",
+  "lead_g_l" : "0",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "2.09",
+  "sample_site" : "33850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.2",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.48",
+  "specific_conductance_s_cm" : "98",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.29",
+  "lead_g_l" : "0",
+  "temperature_f" : "66",
+  "ortho_phosphate_mg_l" : "1.96",
+  "sample_site" : "36950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.7",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.40",
+  "specific_conductance_s_cm" : "97",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.24",
+  "lead_g_l" : "0",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "39950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.3",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.62",
+  "specific_conductance_s_cm" : "98",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.32",
+  "lead_g_l" : "0",
+  "temperature_f" : "69",
+  "ortho_phosphate_mg_l" : "1.99",
+  "sample_site" : "40350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.3",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.73",
+  "specific_conductance_s_cm" : "96",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "71",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "46250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "18.4",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "7.01",
+  "specific_conductance_s_cm" : "101",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.49",
+  "lead_g_l" : "0",
+  "temperature_f" : "74",
+  "ortho_phosphate_mg_l" : "2.20",
+  "sample_site" : "47650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.2",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.48",
+  "specific_conductance_s_cm" : "96",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.24",
+  "lead_g_l" : "0",
+  "temperature_f" : "70",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "53550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.17",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.31",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "59050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.5",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.67",
+  "specific_conductance_s_cm" : "97",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.36",
+  "lead_g_l" : "0",
+  "temperature_f" : "77",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "77750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.7",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.20",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2015-09-02T00:00:00",
+  "ph_unit" : "7.21",
+  "lead_g_l" : "0",
+  "temperature_f" : "73",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "79550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.02",
+  "specific_conductance_s_cm" : "102",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.52",
+  "lead_g_l" : "0",
+  "temperature_f" : "67",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "15150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "40.9",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "16.6",
+  "specific_conductance_s_cm" : "313",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.35",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "18650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.1",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.08",
+  "specific_conductance_s_cm" : "102",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "69",
+  "ortho_phosphate_mg_l" : "2.47",
+  "sample_site" : "23450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.2",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.03",
+  "specific_conductance_s_cm" : "100",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.49",
+  "lead_g_l" : "0",
+  "temperature_f" : "66",
+  "ortho_phosphate_mg_l" : "1.97",
+  "sample_site" : "24350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "38.5",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "15.4",
+  "specific_conductance_s_cm" : "299",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.60",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.22",
+  "sample_site" : "31750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.10",
+  "specific_conductance_s_cm" : "105",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.86",
+  "lead_g_l" : "0",
+  "temperature_f" : "72",
+  "ortho_phosphate_mg_l" : "2.01",
+  "sample_site" : "31850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "23.0",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "13.9",
+  "specific_conductance_s_cm" : "197",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.59",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.02",
+  "sample_site" : "32350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "55.1",
+  "copper_mg_l" : "0.016",
+  "calcium_mg_l" : "23.7",
+  "specific_conductance_s_cm" : "427",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.46",
+  "lead_g_l" : "0",
+  "temperature_f" : "55",
+  "ortho_phosphate_mg_l" : "1.95",
+  "sample_site" : "33450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "52.0",
+  "copper_mg_l" : "0.011",
+  "calcium_mg_l" : "22.4",
+  "specific_conductance_s_cm" : "401",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.44",
+  "lead_g_l" : "0",
+  "temperature_f" : "55",
+  "ortho_phosphate_mg_l" : "2.15",
+  "sample_site" : "33950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.00",
+  "specific_conductance_s_cm" : "102",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.75",
+  "lead_g_l" : "0",
+  "temperature_f" : "66",
+  "ortho_phosphate_mg_l" : "2.06",
+  "sample_site" : "37950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.6",
+  "copper_mg_l" : "0.010",
+  "calcium_mg_l" : "5.94",
+  "specific_conductance_s_cm" : "103",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.65",
+  "lead_g_l" : "0",
+  "temperature_f" : "66",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "38250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.1",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.02",
+  "specific_conductance_s_cm" : "102",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.64",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "39650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.7",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.75",
+  "specific_conductance_s_cm" : "100",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.40",
+  "lead_g_l" : "0",
+  "temperature_f" : "66",
+  "ortho_phosphate_mg_l" : "2.34",
+  "sample_site" : "44350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.32",
+  "specific_conductance_s_cm" : "103",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.32",
+  "lead_g_l" : "0",
+  "temperature_f" : "71",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "45250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.6",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.90",
+  "specific_conductance_s_cm" : "102",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.35",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.31",
+  "sample_site" : "50250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.8",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "6.91",
+  "specific_conductance_s_cm" : "104",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.70",
+  "lead_g_l" : "0",
+  "temperature_f" : "75",
+  "ortho_phosphate_mg_l" : "2.16",
+  "sample_site" : "50750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.4",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.44",
+  "specific_conductance_s_cm" : "107",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.50",
+  "lead_g_l" : "0",
+  "temperature_f" : "72",
+  "ortho_phosphate_mg_l" : "2.19",
+  "sample_site" : "50850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.8",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.51",
+  "specific_conductance_s_cm" : "106",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.49",
+  "lead_g_l" : "0",
+  "temperature_f" : "75",
+  "ortho_phosphate_mg_l" : "2.30",
+  "sample_site" : "52050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.6",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.35",
+  "specific_conductance_s_cm" : "104",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.44",
+  "lead_g_l" : "0",
+  "temperature_f" : "73",
+  "ortho_phosphate_mg_l" : "2.15",
+  "sample_site" : "58650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.7",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.27",
+  "specific_conductance_s_cm" : "101",
+  "sample_date" : "2015-08-04T00:00:00",
+  "ph_unit" : "7.31",
+  "lead_g_l" : "0",
+  "temperature_f" : "70",
+  "ortho_phosphate_mg_l" : "2.15",
+  "sample_site" : "77650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.0",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "6.15",
+  "specific_conductance_s_cm" : "96",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.35",
+  "lead_g_l" : "0",
+  "temperature_f" : "61",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "10750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.4",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.17",
+  "specific_conductance_s_cm" : "97",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.42",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "1.94",
+  "sample_site" : "21550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.8",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.22",
+  "specific_conductance_s_cm" : "100",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.32",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "22250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.3",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "6.12",
+  "specific_conductance_s_cm" : "99",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.08",
+  "sample_site" : "22950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.8",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.25",
+  "specific_conductance_s_cm" : "99",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.32",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "26850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "41.1",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "15.6",
+  "specific_conductance_s_cm" : "291",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.44",
+  "lead_g_l" : "0",
+  "temperature_f" : "56",
+  "ortho_phosphate_mg_l" : "2.06",
+  "sample_site" : "30150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.7",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.27",
+  "specific_conductance_s_cm" : "100",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.81",
+  "lead_g_l" : "0",
+  "temperature_f" : "61",
+  "ortho_phosphate_mg_l" : "1.71",
+  "sample_site" : "31050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.9",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.19",
+  "specific_conductance_s_cm" : "102",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.63",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "1.94",
+  "sample_site" : "31650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.7",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.12",
+  "specific_conductance_s_cm" : "100",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.47",
+  "lead_g_l" : "0",
+  "temperature_f" : "61",
+  "ortho_phosphate_mg_l" : "2.17",
+  "sample_site" : "31950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.8",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.22",
+  "specific_conductance_s_cm" : "103",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.62",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "33550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.8",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.19",
+  "specific_conductance_s_cm" : "103",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.69",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "1.99",
+  "sample_site" : "35750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.8",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.16",
+  "specific_conductance_s_cm" : "100",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.63",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "1.91",
+  "sample_site" : "37450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.30",
+  "specific_conductance_s_cm" : "97",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.32",
+  "lead_g_l" : "0",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "2.08",
+  "sample_site" : "44450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.7",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.38",
+  "specific_conductance_s_cm" : "98",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.20",
+  "lead_g_l" : "0",
+  "temperature_f" : "67",
+  "ortho_phosphate_mg_l" : "2.06",
+  "sample_site" : "46150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.015",
+  "calcium_mg_l" : "6.34",
+  "specific_conductance_s_cm" : "98",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.22",
+  "lead_g_l" : "0",
+  "temperature_f" : "66",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "47550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.2",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.19",
+  "specific_conductance_s_cm" : "94",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.37",
+  "lead_g_l" : "0",
+  "temperature_f" : "61",
+  "ortho_phosphate_mg_l" : "2.34",
+  "sample_site" : "51450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.1",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.23",
+  "specific_conductance_s_cm" : "98",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.37",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "2.26",
+  "sample_site" : "57750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.1",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.18",
+  "specific_conductance_s_cm" : "97",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.26",
+  "lead_g_l" : "0",
+  "temperature_f" : "66",
+  "ortho_phosphate_mg_l" : "2.23",
+  "sample_site" : "76150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.1",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.10",
+  "specific_conductance_s_cm" : "96",
+  "sample_date" : "2015-07-07T00:00:00",
+  "ph_unit" : "7.19",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "2.03",
+  "sample_site" : "78150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "55.7",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "22.2",
+  "specific_conductance_s_cm" : "415",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.54",
+  "lead_g_l" : "0",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.36",
+  "sample_site" : "11750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.2",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.42",
+  "specific_conductance_s_cm" : "102",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.25",
+  "lead_g_l" : "0",
+  "temperature_f" : "57",
+  "ortho_phosphate_mg_l" : "2.16",
+  "sample_site" : "16150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.59",
+  "specific_conductance_s_cm" : "98",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.28",
+  "lead_g_l" : "0",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.03",
+  "sample_site" : "20150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.0",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.68",
+  "specific_conductance_s_cm" : "101",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.34",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "20650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.53",
+  "specific_conductance_s_cm" : "102",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.31",
+  "lead_g_l" : "0",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.31",
+  "sample_site" : "27350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.7",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.66",
+  "specific_conductance_s_cm" : "103",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.61",
+  "lead_g_l" : "0",
+  "temperature_f" : "59",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "30550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.54",
+  "specific_conductance_s_cm" : "101",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.68",
+  "lead_g_l" : "0",
+  "temperature_f" : "56",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "31450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "48.8",
+  "copper_mg_l" : "0.011",
+  "calcium_mg_l" : "19.5",
+  "specific_conductance_s_cm" : "350",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.46",
+  "lead_g_l" : "0",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.23",
+  "sample_site" : "31550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.6",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.55",
+  "specific_conductance_s_cm" : "105",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.49",
+  "lead_g_l" : "0",
+  "temperature_f" : "57",
+  "ortho_phosphate_mg_l" : "1.92",
+  "sample_site" : "33050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.58",
+  "specific_conductance_s_cm" : "104",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.56",
+  "lead_g_l" : "0",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.00",
+  "sample_site" : "33850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.6",
+  "copper_mg_l" : "0.016",
+  "calcium_mg_l" : "6.54",
+  "specific_conductance_s_cm" : "104",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.57",
+  "lead_g_l" : "0",
+  "temperature_f" : "55",
+  "ortho_phosphate_mg_l" : "1.98",
+  "sample_site" : "36950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.49",
+  "specific_conductance_s_cm" : "101",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.51",
+  "lead_g_l" : "0",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.01",
+  "sample_site" : "39950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.8",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.61",
+  "specific_conductance_s_cm" : "104",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.56",
+  "lead_g_l" : "0",
+  "temperature_f" : "57",
+  "ortho_phosphate_mg_l" : "2.03",
+  "sample_site" : "40350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.71",
+  "specific_conductance_s_cm" : "100",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.17",
+  "lead_g_l" : "0",
+  "temperature_f" : "59",
+  "ortho_phosphate_mg_l" : "2.23",
+  "sample_site" : "46250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.8",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "7.31",
+  "specific_conductance_s_cm" : "107",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.41",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "47650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.7",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.76",
+  "specific_conductance_s_cm" : "103",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "60",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "53550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.7",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.46",
+  "specific_conductance_s_cm" : "97",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.19",
+  "lead_g_l" : "0",
+  "temperature_f" : "54",
+  "ortho_phosphate_mg_l" : "2.20",
+  "sample_site" : "59050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.74",
+  "specific_conductance_s_cm" : "102",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.18",
+  "lead_g_l" : "0",
+  "temperature_f" : "66",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "77750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.64",
+  "specific_conductance_s_cm" : "102",
+  "sample_date" : "2015-06-02T00:00:00",
+  "ph_unit" : "7.11",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "79550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.3",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "7.09",
+  "specific_conductance_s_cm" : "115",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.41",
+  "lead_g_l" : "0",
+  "temperature_f" : "51",
+  "ortho_phosphate_mg_l" : "1.89",
+  "sample_site" : "15150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.1",
+  "copper_mg_l" : "0.010",
+  "calcium_mg_l" : "7.15",
+  "specific_conductance_s_cm" : "112",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.25",
+  "lead_g_l" : "0",
+  "temperature_f" : "53",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "18650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.8",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "7.37",
+  "specific_conductance_s_cm" : "114",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.29",
+  "lead_g_l" : "0",
+  "temperature_f" : "56",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "23450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "7.19",
+  "specific_conductance_s_cm" : "113",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.25",
+  "lead_g_l" : "0",
+  "temperature_f" : "53",
+  "ortho_phosphate_mg_l" : "1.99",
+  "sample_site" : "24350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.7",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "7.18",
+  "specific_conductance_s_cm" : "115",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.44",
+  "lead_g_l" : "0",
+  "temperature_f" : "53",
+  "ortho_phosphate_mg_l" : "2.02",
+  "sample_site" : "31750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "18.0",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "7.42",
+  "specific_conductance_s_cm" : "117",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.50",
+  "lead_g_l" : "0",
+  "temperature_f" : "59",
+  "ortho_phosphate_mg_l" : "2.05",
+  "sample_site" : "31850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.8",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "7.40",
+  "specific_conductance_s_cm" : "115",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.42",
+  "lead_g_l" : "0",
+  "temperature_f" : "51",
+  "ortho_phosphate_mg_l" : "2.05",
+  "sample_site" : "32350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.0",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "7.22",
+  "specific_conductance_s_cm" : "115",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.43",
+  "lead_g_l" : "0",
+  "temperature_f" : "53",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "33450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.9",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "7.38",
+  "specific_conductance_s_cm" : "116",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.55",
+  "lead_g_l" : "0",
+  "temperature_f" : "52",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "33950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.3",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "7.31",
+  "specific_conductance_s_cm" : "114",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.46",
+  "lead_g_l" : "0",
+  "temperature_f" : "51",
+  "ortho_phosphate_mg_l" : "1.96",
+  "sample_site" : "37950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.2",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "7.20",
+  "specific_conductance_s_cm" : "114",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.45",
+  "lead_g_l" : "0",
+  "temperature_f" : "51",
+  "ortho_phosphate_mg_l" : "1.96",
+  "sample_site" : "38250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.2",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "7.20",
+  "specific_conductance_s_cm" : "113",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.55",
+  "lead_g_l" : "0",
+  "temperature_f" : "51",
+  "ortho_phosphate_mg_l" : "2.03",
+  "sample_site" : "39650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.3",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "7.23",
+  "specific_conductance_s_cm" : "112",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.22",
+  "lead_g_l" : "0",
+  "temperature_f" : "53",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "44350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.2",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "7.24",
+  "specific_conductance_s_cm" : "113",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.28",
+  "lead_g_l" : "0",
+  "temperature_f" : "54",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "45250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.0",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "7.03",
+  "specific_conductance_s_cm" : "111",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.15",
+  "lead_g_l" : "0",
+  "temperature_f" : "51",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "50250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.5",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "7.82",
+  "specific_conductance_s_cm" : "116",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.17",
+  "sample_site" : "50750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "7.34",
+  "specific_conductance_s_cm" : "113",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.20",
+  "lead_g_l" : "0",
+  "temperature_f" : "55",
+  "ortho_phosphate_mg_l" : "2.22",
+  "sample_site" : "50850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "7.13",
+  "specific_conductance_s_cm" : "115",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.24",
+  "lead_g_l" : "0",
+  "temperature_f" : "54",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "52050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.8",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "7.28",
+  "specific_conductance_s_cm" : "115",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.20",
+  "lead_g_l" : "0",
+  "temperature_f" : "57",
+  "ortho_phosphate_mg_l" : "2.26",
+  "sample_site" : "58650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.7",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "7.34",
+  "specific_conductance_s_cm" : "114",
+  "sample_date" : "2015-05-05T00:00:00",
+  "ph_unit" : "7.25",
+  "lead_g_l" : "0",
+  "temperature_f" : "54",
+  "ortho_phosphate_mg_l" : "2.22",
+  "sample_site" : "77650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.8",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.84",
+  "specific_conductance_s_cm" : "98",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.14",
+  "lead_g_l" : "0",
+  "temperature_f" : "40",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "10750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.2",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.92",
+  "specific_conductance_s_cm" : "99",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.28",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.00",
+  "sample_site" : "21550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.6",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.97",
+  "specific_conductance_s_cm" : "101",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.34",
+  "lead_g_l" : "0",
+  "temperature_f" : "43",
+  "ortho_phosphate_mg_l" : "1.98",
+  "sample_site" : "22250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.2",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.98",
+  "specific_conductance_s_cm" : "98",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.28",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "22950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.6",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "7.04",
+  "specific_conductance_s_cm" : "100",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.44",
+  "lead_g_l" : "0",
+  "temperature_f" : "43",
+  "ortho_phosphate_mg_l" : "1.72",
+  "sample_site" : "26850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.5",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "7.08",
+  "specific_conductance_s_cm" : "100",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.27",
+  "lead_g_l" : "0",
+  "temperature_f" : "41",
+  "ortho_phosphate_mg_l" : "2.05",
+  "sample_site" : "30150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.1",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "7.16",
+  "specific_conductance_s_cm" : "100",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.29",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.03",
+  "sample_site" : "31050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.5",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "7.16",
+  "specific_conductance_s_cm" : "102",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.48",
+  "lead_g_l" : "0",
+  "temperature_f" : "43",
+  "ortho_phosphate_mg_l" : "2.03",
+  "sample_site" : "31650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.7",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "7.09",
+  "specific_conductance_s_cm" : "100",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.25",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.17",
+  "sample_site" : "31950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.7",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "7.36",
+  "specific_conductance_s_cm" : "103",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.44",
+  "lead_g_l" : "0",
+  "temperature_f" : "44",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "33550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.9",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "7.16",
+  "specific_conductance_s_cm" : "100",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.42",
+  "lead_g_l" : "0",
+  "temperature_f" : "44",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "35750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.3",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "7.22",
+  "specific_conductance_s_cm" : "102",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.46",
+  "lead_g_l" : "0",
+  "temperature_f" : "43",
+  "ortho_phosphate_mg_l" : "2.02",
+  "sample_site" : "37450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.6",
+  "copper_mg_l" : "0.010",
+  "calcium_mg_l" : "7.28",
+  "specific_conductance_s_cm" : "99",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.17",
+  "lead_g_l" : "0",
+  "temperature_f" : "46",
+  "ortho_phosphate_mg_l" : "2.08",
+  "sample_site" : "44450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.0",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "7.32",
+  "specific_conductance_s_cm" : "97",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.30",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "46150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.3",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.92",
+  "specific_conductance_s_cm" : "99",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.27",
+  "lead_g_l" : "0",
+  "temperature_f" : "43",
+  "ortho_phosphate_mg_l" : "2.26",
+  "sample_site" : "47550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.93",
+  "specific_conductance_s_cm" : "100",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.07",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.27",
+  "sample_site" : "51450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.9",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "7.34",
+  "specific_conductance_s_cm" : "100",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.19",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "57750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.7",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.91",
+  "specific_conductance_s_cm" : "97",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.10",
+  "lead_g_l" : "0",
+  "temperature_f" : "44",
+  "ortho_phosphate_mg_l" : "2.16",
+  "sample_site" : "76150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.90",
+  "specific_conductance_s_cm" : "98",
+  "sample_date" : "2015-04-07T00:00:00",
+  "ph_unit" : "7.25",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "78150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.0",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.67",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.30",
+  "lead_g_l" : "0",
+  "temperature_f" : "37",
+  "ortho_phosphate_mg_l" : "2.17",
+  "sample_site" : "11750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "6.45",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.23",
+  "lead_g_l" : "0",
+  "temperature_f" : "37",
+  "ortho_phosphate_mg_l" : "2.16",
+  "sample_site" : "16150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.7",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.70",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.25",
+  "lead_g_l" : "0",
+  "temperature_f" : "37",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "20150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.63",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.20",
+  "lead_g_l" : "0",
+  "temperature_f" : "37",
+  "ortho_phosphate_mg_l" : "2.08",
+  "sample_site" : "20650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.58",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.19",
+  "lead_g_l" : "0",
+  "temperature_f" : "37",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "27350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.8",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "6.68",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.40",
+  "lead_g_l" : "0",
+  "temperature_f" : "38",
+  "ortho_phosphate_mg_l" : "1.89",
+  "sample_site" : "30550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "6.69",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.46",
+  "lead_g_l" : "0",
+  "temperature_f" : "37",
+  "ortho_phosphate_mg_l" : "1.90",
+  "sample_site" : "31450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.45",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.45",
+  "lead_g_l" : "0",
+  "temperature_f" : "41",
+  "ortho_phosphate_mg_l" : "2.00",
+  "sample_site" : "31550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.49",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.41",
+  "lead_g_l" : "0",
+  "temperature_f" : "37",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "33050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.54",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.49",
+  "lead_g_l" : "0",
+  "temperature_f" : "37",
+  "ortho_phosphate_mg_l" : "2.08",
+  "sample_site" : "33850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.39",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.41",
+  "lead_g_l" : "0",
+  "temperature_f" : "39",
+  "ortho_phosphate_mg_l" : "2.41",
+  "sample_site" : "36950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.92",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.47",
+  "lead_g_l" : "0",
+  "temperature_f" : "37",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "39950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.63",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.44",
+  "lead_g_l" : "0",
+  "temperature_f" : "40",
+  "ortho_phosphate_mg_l" : "2.34",
+  "sample_site" : "40350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.61",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.40",
+  "lead_g_l" : "0",
+  "temperature_f" : "37",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "46250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.7",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "6.84",
+  "specific_conductance_s_cm" : "96",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.56",
+  "lead_g_l" : "0",
+  "temperature_f" : "38",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "47650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.62",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.36",
+  "lead_g_l" : "0",
+  "temperature_f" : "38",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "53550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.020",
+  "calcium_mg_l" : "6.42",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.23",
+  "lead_g_l" : "1",
+  "temperature_f" : "37",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "59050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.1",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.72",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.37",
+  "lead_g_l" : "0",
+  "temperature_f" : "37",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "77750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.7",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "6.57",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-03-03T00:00:00",
+  "ph_unit" : "7.45",
+  "lead_g_l" : "0",
+  "temperature_f" : "37",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "79550"
+}
+, {
+  "copper_mg_l" : "0.004",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-02-23T00:00:00",
+  "ph_unit" : "7.37",
+  "lead_g_l" : "0",
+  "temperature_f" : "36",
+  "ortho_phosphate_mg_l" : "2.20",
+  "sample_site" : "50250"
+}
+, {
+  "copper_mg_l" : "0.005",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-02-23T00:00:00",
+  "ph_unit" : "7.46",
+  "lead_g_l" : "0",
+  "temperature_f" : "38",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "52050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.42",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.44",
+  "lead_g_l" : "0",
+  "temperature_f" : "36",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "15150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.4",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.37",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.41",
+  "lead_g_l" : "0",
+  "temperature_f" : "38",
+  "ortho_phosphate_mg_l" : "2.17",
+  "sample_site" : "18650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.43",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.26",
+  "lead_g_l" : "0",
+  "temperature_f" : "37",
+  "ortho_phosphate_mg_l" : "2.09",
+  "sample_site" : "23450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.46",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.32",
+  "lead_g_l" : "0",
+  "temperature_f" : "36",
+  "ortho_phosphate_mg_l" : "2.06",
+  "sample_site" : "24350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.8",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.41",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.40",
+  "lead_g_l" : "0",
+  "temperature_f" : "39",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "31750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.55",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.58",
+  "lead_g_l" : "0",
+  "temperature_f" : "40",
+  "ortho_phosphate_mg_l" : "2.00",
+  "sample_site" : "31850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.002",
+  "calcium_mg_l" : "6.46",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.54",
+  "lead_g_l" : "0",
+  "temperature_f" : "37",
+  "ortho_phosphate_mg_l" : "1.99",
+  "sample_site" : "32350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.45",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.23",
+  "lead_g_l" : "0",
+  "temperature_f" : "39",
+  "ortho_phosphate_mg_l" : "2.06",
+  "sample_site" : "33450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.3",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.15",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.22",
+  "lead_g_l" : "0",
+  "temperature_f" : "39",
+  "ortho_phosphate_mg_l" : "2.00",
+  "sample_site" : "33950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "6.29",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.65",
+  "lead_g_l" : "0",
+  "temperature_f" : "38",
+  "ortho_phosphate_mg_l" : "1.91",
+  "sample_site" : "37950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.11",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.26",
+  "lead_g_l" : "0",
+  "temperature_f" : "38",
+  "ortho_phosphate_mg_l" : "2.03",
+  "sample_site" : "38250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.6",
+  "copper_mg_l" : "0.002",
+  "calcium_mg_l" : "6.25",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.27",
+  "lead_g_l" : "0",
+  "temperature_f" : "39",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "39650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.8",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.10",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.31",
+  "lead_g_l" : "0",
+  "temperature_f" : "38",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "44350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.010",
+  "calcium_mg_l" : "6.12",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.37",
+  "lead_g_l" : "0",
+  "temperature_f" : "39",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "45250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.030",
+  "calcium_mg_l" : "6.06",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.43",
+  "lead_g_l" : "3",
+  "temperature_f" : "37",
+  "ortho_phosphate_mg_l" : "2.27",
+  "sample_site" : "50250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "6.54",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.48",
+  "lead_g_l" : "0",
+  "temperature_f" : "40",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "50750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.1",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "6.24",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.50",
+  "lead_g_l" : "0",
+  "temperature_f" : "39",
+  "ortho_phosphate_mg_l" : "2.24",
+  "sample_site" : "50850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.0",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "6.25",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.56",
+  "lead_g_l" : "1",
+  "temperature_f" : "40",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "52050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.3",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.43",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.49",
+  "lead_g_l" : "0",
+  "temperature_f" : "41",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "58650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.25",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-02-04T00:00:00",
+  "ph_unit" : "7.42",
+  "lead_g_l" : "0",
+  "temperature_f" : "38",
+  "ortho_phosphate_mg_l" : "2.09",
+  "sample_site" : "77650"
+}
+, {
+  "copper_mg_l" : "0.014",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2015-01-30T00:00:00",
+  "ph_unit" : "7.27",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.08",
+  "sample_site" : "47550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.3",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.42",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.16",
+  "sample_site" : "10750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.1",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.39",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.43",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.08",
+  "sample_site" : "21550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.53",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.27",
+  "lead_g_l" : "0",
+  "temperature_f" : "44",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "22250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.4",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.40",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.26",
+  "lead_g_l" : "0",
+  "temperature_f" : "43",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "22950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.52",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.26",
+  "sample_site" : "26850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.3",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "6.48",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.60",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "30150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.7",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.45",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.56",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.15",
+  "sample_site" : "31050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "6.48",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.56",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "1.95",
+  "sample_site" : "31650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.0",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.33",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.24",
+  "lead_g_l" : "0",
+  "temperature_f" : "41",
+  "ortho_phosphate_mg_l" : "1.94",
+  "sample_site" : "31950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.8",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.53",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.44",
+  "lead_g_l" : "0",
+  "temperature_f" : "43",
+  "ortho_phosphate_mg_l" : "2.08",
+  "sample_site" : "33550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.3",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.40",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.49",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.03",
+  "sample_site" : "35750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.2",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.31",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.49",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "37450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "6.46",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "44",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "44450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.0",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "6.48",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "42",
+  "ortho_phosphate_mg_l" : "2.06",
+  "sample_site" : "46150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.2",
+  "copper_mg_l" : "0.012",
+  "calcium_mg_l" : "6.43",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.35",
+  "lead_g_l" : "8",
+  "temperature_f" : "43",
+  "ortho_phosphate_mg_l" : "2.17",
+  "sample_site" : "47550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.7",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.65",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.45",
+  "lead_g_l" : "0",
+  "temperature_f" : "44",
+  "ortho_phosphate_mg_l" : "2.23",
+  "sample_site" : "51450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.72",
+  "specific_conductance_s_cm" : "92",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.31",
+  "lead_g_l" : "0",
+  "temperature_f" : "43",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "57750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.2",
+  "copper_mg_l" : "0.010",
+  "calcium_mg_l" : "6.32",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.41",
+  "lead_g_l" : "0",
+  "temperature_f" : "43",
+  "ortho_phosphate_mg_l" : "2.02",
+  "sample_site" : "76150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "13.5",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.45",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2015-01-06T00:00:00",
+  "ph_unit" : "7.31",
+  "lead_g_l" : "0",
+  "temperature_f" : "41",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "78150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.30",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.48",
+  "lead_g_l" : "0",
+  "temperature_f" : "50",
+  "ortho_phosphate_mg_l" : "2.02",
+  "sample_site" : "11750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.17",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.32",
+  "lead_g_l" : "0",
+  "temperature_f" : "48",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "16150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.3",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.25",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.04",
+  "lead_g_l" : "0",
+  "temperature_f" : "48",
+  "ortho_phosphate_mg_l" : "2.09",
+  "sample_site" : "20150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.38",
+  "specific_conductance_s_cm" : "91",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "49",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "20650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.3",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.15",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.23",
+  "lead_g_l" : "0",
+  "temperature_f" : "48",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "27350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.34",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.11",
+  "lead_g_l" : "0",
+  "temperature_f" : "50",
+  "ortho_phosphate_mg_l" : "2.08",
+  "sample_site" : "30550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.8",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "6.25",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.46",
+  "lead_g_l" : "0",
+  "temperature_f" : "48",
+  "ortho_phosphate_mg_l" : "2.03",
+  "sample_site" : "31450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.7",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.27",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.46",
+  "lead_g_l" : "0",
+  "temperature_f" : "53",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "31550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.3",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.16",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.43",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.28",
+  "sample_site" : "33050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.19",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.36",
+  "lead_g_l" : "0",
+  "temperature_f" : "48",
+  "ortho_phosphate_mg_l" : "2.21",
+  "sample_site" : "33850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.3",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.17",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.50",
+  "lead_g_l" : "0",
+  "temperature_f" : "47",
+  "ortho_phosphate_mg_l" : "2.06",
+  "sample_site" : "36950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.13",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.37",
+  "lead_g_l" : "0",
+  "temperature_f" : "48",
+  "ortho_phosphate_mg_l" : "2.19",
+  "sample_site" : "39950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.1",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.25",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.50",
+  "lead_g_l" : "0",
+  "temperature_f" : "48",
+  "ortho_phosphate_mg_l" : "2.01",
+  "sample_site" : "40350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.3",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.45",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "51",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "46250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.2",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "6.92",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.69",
+  "lead_g_l" : "0",
+  "temperature_f" : "53",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "47650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.36",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.12",
+  "lead_g_l" : "0",
+  "temperature_f" : "51",
+  "ortho_phosphate_mg_l" : "2.05",
+  "sample_site" : "53550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.1",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.23",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.05",
+  "lead_g_l" : "0",
+  "temperature_f" : "48",
+  "ortho_phosphate_mg_l" : "2.35",
+  "sample_site" : "59050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.60",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.40",
+  "lead_g_l" : "0",
+  "temperature_f" : "52",
+  "ortho_phosphate_mg_l" : "2.08",
+  "sample_site" : "77750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.29",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2014-12-02T00:00:00",
+  "ph_unit" : "7.30",
+  "lead_g_l" : "0",
+  "temperature_f" : "51",
+  "ortho_phosphate_mg_l" : "2.15",
+  "sample_site" : "79550"
+}
+, {
+  "copper_mg_l" : "0.005",
+  "specific_conductance_s_cm" : "84",
+  "sample_date" : "2014-11-25T00:00:00",
+  "ph_unit" : "7.47",
+  "lead_g_l" : "0",
+  "temperature_f" : "51",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "23450"
+}
+, {
+  "copper_mg_l" : "0.005",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-11-25T00:00:00",
+  "ph_unit" : "7.30",
+  "lead_g_l" : "0",
+  "temperature_f" : "53",
+  "ortho_phosphate_mg_l" : "2.21",
+  "sample_site" : "38250"
+}
+, {
+  "copper_mg_l" : "0.005",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2014-11-06T00:00:00",
+  "ph_unit" : "7.37",
+  "lead_g_l" : "0",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.02",
+  "sample_site" : "31050"
+}
+, {
+  "copper_mg_l" : "0.007",
+  "specific_conductance_s_cm" : "83",
+  "sample_date" : "2014-11-06T00:00:00",
+  "ph_unit" : "7.27",
+  "lead_g_l" : "0",
+  "temperature_f" : "59",
+  "ortho_phosphate_mg_l" : "2.19",
+  "sample_site" : "76150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.6",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.81",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.48",
+  "lead_g_l" : "0",
+  "temperature_f" : "57",
+  "ortho_phosphate_mg_l" : "2.19",
+  "sample_site" : "15150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.89",
+  "specific_conductance_s_cm" : "83",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.03",
+  "lead_g_l" : "0",
+  "temperature_f" : "59",
+  "ortho_phosphate_mg_l" : "2.08",
+  "sample_site" : "18650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.019",
+  "calcium_mg_l" : "5.91",
+  "specific_conductance_s_cm" : "83",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.37",
+  "lead_g_l" : "2",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "23450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.86",
+  "specific_conductance_s_cm" : "84",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.40",
+  "lead_g_l" : "0",
+  "temperature_f" : "57",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "24350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.2",
+  "copper_mg_l" : "0.011",
+  "calcium_mg_l" : "5.82",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.67",
+  "lead_g_l" : "0",
+  "temperature_f" : "59",
+  "ortho_phosphate_mg_l" : "2.01",
+  "sample_site" : "31750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.0",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.01",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.62",
+  "lead_g_l" : "0",
+  "temperature_f" : "69",
+  "ortho_phosphate_mg_l" : "1.96",
+  "sample_site" : "31850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.6",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.92",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.51",
+  "lead_g_l" : "0",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.05",
+  "sample_site" : "32350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.76",
+  "specific_conductance_s_cm" : "76",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.31",
+  "lead_g_l" : "0",
+  "temperature_f" : "56",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "33450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.3",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "5.77",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.18",
+  "lead_g_l" : "0",
+  "temperature_f" : "57",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "33950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.8",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.98",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.49",
+  "lead_g_l" : "0",
+  "temperature_f" : "59",
+  "ortho_phosphate_mg_l" : "1.98",
+  "sample_site" : "37950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "5.79",
+  "specific_conductance_s_cm" : "84",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.22",
+  "lead_g_l" : "2",
+  "temperature_f" : "57",
+  "ortho_phosphate_mg_l" : "2.02",
+  "sample_site" : "38250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.003",
+  "calcium_mg_l" : "5.91",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.07",
+  "lead_g_l" : "0",
+  "temperature_f" : "57",
+  "ortho_phosphate_mg_l" : "2.06",
+  "sample_site" : "39650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.0",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.76",
+  "specific_conductance_s_cm" : "84",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.35",
+  "lead_g_l" : "0",
+  "temperature_f" : "59",
+  "ortho_phosphate_mg_l" : "2.03",
+  "sample_site" : "44350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "5.89",
+  "specific_conductance_s_cm" : "82",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "58",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "45250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.92",
+  "specific_conductance_s_cm" : "84",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.49",
+  "lead_g_l" : "0",
+  "temperature_f" : "57",
+  "ortho_phosphate_mg_l" : "2.21",
+  "sample_site" : "50250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.89",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.37",
+  "lead_g_l" : "0",
+  "temperature_f" : "60",
+  "ortho_phosphate_mg_l" : "2.22",
+  "sample_site" : "50750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.98",
+  "specific_conductance_s_cm" : "84",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.41",
+  "lead_g_l" : "0",
+  "temperature_f" : "61",
+  "ortho_phosphate_mg_l" : "2.16",
+  "sample_site" : "50850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.6",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.44",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.48",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.00",
+  "sample_site" : "52050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.0",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.12",
+  "specific_conductance_s_cm" : "84",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "58650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.9",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "6.77",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2014-11-05T00:00:00",
+  "ph_unit" : "7.64",
+  "lead_g_l" : "0",
+  "temperature_f" : "59",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "77650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.2",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.76",
+  "specific_conductance_s_cm" : "83",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.30",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "2.21",
+  "sample_site" : "10750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.0",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.80",
+  "specific_conductance_s_cm" : "83",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "21550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.98",
+  "specific_conductance_s_cm" : "84",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.26",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.03",
+  "sample_site" : "22250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.2",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "5.88",
+  "specific_conductance_s_cm" : "83",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.31",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.03",
+  "sample_site" : "22950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.95",
+  "specific_conductance_s_cm" : "84",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.39",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.01",
+  "sample_site" : "26850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.6",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.94",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.61",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "2.02",
+  "sample_site" : "30150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.8",
+  "copper_mg_l" : "0.016",
+  "calcium_mg_l" : "5.90",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.56",
+  "lead_g_l" : "1",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.06",
+  "sample_site" : "31050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.5",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.89",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.41",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "31650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.2",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "5.71",
+  "specific_conductance_s_cm" : "84",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.26",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "2.20",
+  "sample_site" : "31950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.4",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.83",
+  "specific_conductance_s_cm" : "84",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.06",
+  "sample_site" : "33550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.5",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.82",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "35750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.5",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.86",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.36",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "37450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.011",
+  "calcium_mg_l" : "5.99",
+  "specific_conductance_s_cm" : "83",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.36",
+  "lead_g_l" : "0",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "44450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.3",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.01",
+  "specific_conductance_s_cm" : "83",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.37",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.20",
+  "sample_site" : "46150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.02",
+  "specific_conductance_s_cm" : "83",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.32",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "47550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.1",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.95",
+  "specific_conductance_s_cm" : "83",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.20",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "51450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.1",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "6.27",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.23",
+  "lead_g_l" : "0",
+  "temperature_f" : "66",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "57750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.024",
+  "calcium_mg_l" : "5.75",
+  "specific_conductance_s_cm" : "82",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.43",
+  "lead_g_l" : "2",
+  "temperature_f" : "67",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "76150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.0",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.77",
+  "specific_conductance_s_cm" : "82",
+  "sample_date" : "2014-10-07T00:00:00",
+  "ph_unit" : "7.31",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "2.22",
+  "sample_site" : "78150"
+}
+, {
+  "copper_mg_l" : "0.007",
+  "specific_conductance_s_cm" : "84",
+  "sample_date" : "2014-09-27T00:00:00",
+  "ph_unit" : "7.41",
+  "lead_g_l" : "0",
+  "temperature_f" : "67",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "11750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.3",
+  "copper_mg_l" : "0.015",
+  "calcium_mg_l" : "5.79",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.34",
+  "lead_g_l" : "2",
+  "temperature_f" : "70",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "11750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.1",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.53",
+  "specific_conductance_s_cm" : "82",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.30",
+  "lead_g_l" : "0",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "16150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.8",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.77",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.38",
+  "lead_g_l" : "0",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "1.98",
+  "sample_site" : "20150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.8",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.83",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.34",
+  "lead_g_l" : "0",
+  "temperature_f" : "71",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "20650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.4",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.53",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.46",
+  "lead_g_l" : "0",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "1.99",
+  "sample_site" : "27350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "18.1",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.74",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.78",
+  "lead_g_l" : "0",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "2.02",
+  "sample_site" : "30550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.9",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.72",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.71",
+  "lead_g_l" : "0",
+  "temperature_f" : "67",
+  "ortho_phosphate_mg_l" : "2.23",
+  "sample_site" : "31450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.9",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.74",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.68",
+  "lead_g_l" : "0",
+  "temperature_f" : "69",
+  "ortho_phosphate_mg_l" : "2.16",
+  "sample_site" : "31550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.8",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.60",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.76",
+  "lead_g_l" : "0",
+  "temperature_f" : "67",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "33050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.7",
+  "copper_mg_l" : "0.010",
+  "calcium_mg_l" : "5.64",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.62",
+  "lead_g_l" : "0",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "33850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.5",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.67",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.59",
+  "lead_g_l" : "0",
+  "temperature_f" : "66",
+  "ortho_phosphate_mg_l" : "2.09",
+  "sample_site" : "36950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.8",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.61",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.70",
+  "lead_g_l" : "0",
+  "temperature_f" : "67",
+  "ortho_phosphate_mg_l" : "2.09",
+  "sample_site" : "39950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.7",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.76",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.48",
+  "lead_g_l" : "0",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "2.02",
+  "sample_site" : "40350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.9",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.99",
+  "specific_conductance_s_cm" : "84",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.26",
+  "lead_g_l" : "0",
+  "temperature_f" : "70",
+  "ortho_phosphate_mg_l" : "2.22",
+  "sample_site" : "46250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.7",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.38",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.33",
+  "lead_g_l" : "0",
+  "temperature_f" : "73",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "47650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.8",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "5.87",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.44",
+  "lead_g_l" : "0",
+  "temperature_f" : "71",
+  "ortho_phosphate_mg_l" : "2.02",
+  "sample_site" : "53550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.1",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "5.64",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.36",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "59050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.1",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.22",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.32",
+  "lead_g_l" : "0",
+  "temperature_f" : "77",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "77750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.83",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-09-09T00:00:00",
+  "ph_unit" : "7.23",
+  "lead_g_l" : "0",
+  "temperature_f" : "73",
+  "ortho_phosphate_mg_l" : "2.09",
+  "sample_site" : "79550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.6",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.62",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.54",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "2.09",
+  "sample_site" : "15150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.63",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.34",
+  "lead_g_l" : "0",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "18650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.60",
+  "specific_conductance_s_cm" : "84",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.10",
+  "lead_g_l" : "0",
+  "temperature_f" : "66",
+  "ortho_phosphate_mg_l" : "2.09",
+  "sample_site" : "23450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.7",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.64",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.11",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "24350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "5.66",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.32",
+  "lead_g_l" : "0",
+  "temperature_f" : "71",
+  "ortho_phosphate_mg_l" : "2.20",
+  "sample_site" : "31750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.2",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.74",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.59",
+  "lead_g_l" : "0",
+  "temperature_f" : "69",
+  "ortho_phosphate_mg_l" : "2.19",
+  "sample_site" : "31850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.2",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "5.86",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.51",
+  "lead_g_l" : "0",
+  "temperature_f" : "67",
+  "ortho_phosphate_mg_l" : "2.19",
+  "sample_site" : "32350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.6",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.58",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.50",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "33450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.6",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.57",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.52",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "33950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.2",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.81",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.54",
+  "lead_g_l" : "0",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "37950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.9",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.62",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.57",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "1.92",
+  "sample_site" : "38250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "17.1",
+  "copper_mg_l" : "0.004",
+  "calcium_mg_l" : "5.77",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.56",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "1.94",
+  "sample_site" : "39650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.2",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "5.61",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.43",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.00",
+  "sample_site" : "44350"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.1",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "5.98",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.18",
+  "lead_g_l" : "0",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "1.99",
+  "sample_site" : "45250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.5",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.64",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.06",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "50250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.3",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "6.00",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.11",
+  "lead_g_l" : "0",
+  "temperature_f" : "71",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "50750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.7",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.78",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.11",
+  "lead_g_l" : "0",
+  "temperature_f" : "67",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "50850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.8",
+  "copper_mg_l" : "0.009",
+  "calcium_mg_l" : "5.78",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.14",
+  "lead_g_l" : "0",
+  "temperature_f" : "70",
+  "ortho_phosphate_mg_l" : "2.13",
+  "sample_site" : "52050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.1",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "5.80",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.14",
+  "lead_g_l" : "0",
+  "temperature_f" : "70",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "58650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.9",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "6.10",
+  "specific_conductance_s_cm" : "86",
+  "sample_date" : "2014-08-05T00:00:00",
+  "ph_unit" : "7.24",
+  "lead_g_l" : "0",
+  "temperature_f" : "68",
+  "ortho_phosphate_mg_l" : "2.06",
+  "sample_site" : "77650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.0",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.58",
+  "specific_conductance_s_cm" : "84",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.18",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "10750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.3",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "5.56",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.25",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.18",
+  "sample_site" : "21550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.0",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "5.69",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.24",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "22250"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.3",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "5.57",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.21",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "2.16",
+  "sample_site" : "22950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.8",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.81",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.25",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "2.11",
+  "sample_site" : "26850"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.1",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.82",
+  "specific_conductance_s_cm" : "90",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.45",
+  "lead_g_l" : "0",
+  "temperature_f" : "66",
+  "ortho_phosphate_mg_l" : "2.04",
+  "sample_site" : "30150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "18.0",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "6.47",
+  "specific_conductance_s_cm" : "93",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.82",
+  "lead_g_l" : "0",
+  "temperature_f" : "69",
+  "ortho_phosphate_mg_l" : "2.10",
+  "sample_site" : "31050"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.1",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.61",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.60",
+  "lead_g_l" : "0",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "1.95",
+  "sample_site" : "31650"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.5",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.61",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.46",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "2.07",
+  "sample_site" : "31950"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.8",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.69",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.46",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "1.98",
+  "sample_site" : "33550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "16.5",
+  "copper_mg_l" : "0.011",
+  "calcium_mg_l" : "5.70",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.50",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "1.94",
+  "sample_site" : "35750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.9",
+  "copper_mg_l" : "0.005",
+  "calcium_mg_l" : "5.60",
+  "specific_conductance_s_cm" : "89",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.57",
+  "lead_g_l" : "0",
+  "temperature_f" : "63",
+  "ortho_phosphate_mg_l" : "2.01",
+  "sample_site" : "37450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.0",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.95",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.07",
+  "lead_g_l" : "0",
+  "temperature_f" : "69",
+  "ortho_phosphate_mg_l" : "2.16",
+  "sample_site" : "44450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "15.6",
+  "copper_mg_l" : "0.013",
+  "calcium_mg_l" : "6.14",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.45",
+  "lead_g_l" : "0",
+  "temperature_f" : "65",
+  "ortho_phosphate_mg_l" : "2.00",
+  "sample_site" : "46150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.7",
+  "copper_mg_l" : "0.038",
+  "calcium_mg_l" : "5.78",
+  "specific_conductance_s_cm" : "85",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.30",
+  "lead_g_l" : "2",
+  "temperature_f" : "62",
+  "ortho_phosphate_mg_l" : "2.02",
+  "sample_site" : "47550"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.5",
+  "copper_mg_l" : "0.006",
+  "calcium_mg_l" : "5.68",
+  "specific_conductance_s_cm" : "87",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.26",
+  "lead_g_l" : "0",
+  "temperature_f" : "61",
+  "ortho_phosphate_mg_l" : "2.12",
+  "sample_site" : "51450"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.7",
+  "copper_mg_l" : "0.007",
+  "calcium_mg_l" : "5.78",
+  "specific_conductance_s_cm" : "88",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.27",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "2.14",
+  "sample_site" : "57750"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.5",
+  "copper_mg_l" : "0.008",
+  "calcium_mg_l" : "5.64",
+  "specific_conductance_s_cm" : "84",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.13",
+  "lead_g_l" : "0",
+  "temperature_f" : "67",
+  "ortho_phosphate_mg_l" : "1.89",
+  "sample_site" : "76150"
+}
+, {
+  "alkalinity_mg_l_caco3" : "14.4",
+  "copper_mg_l" : "0.010",
+  "calcium_mg_l" : "5.64",
+  "specific_conductance_s_cm" : "84",
+  "sample_date" : "2014-07-08T00:00:00",
+  "ph_unit" : "7.30",
+  "lead_g_l" : "0",
+  "temperature_f" : "64",
+  "ortho_phosphate_mg_l" : "2.03",
+  "sample_site" : "78150"
+}
+ ]

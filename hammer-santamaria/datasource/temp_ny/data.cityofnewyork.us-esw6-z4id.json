@@ -1,0 +1,286 @@
+[ {
+  "site_name" : "Fortune Society",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"29 76 Northern Blvd\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225"
+  },
+  "agency" : "The Fortune Society, Inc.",
+  "borough_community" : "Queens",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "347.510.3619"
+}
+, {
+  "site_name" : "The Fathers Center ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.71696029234187",
+    "human_address" : "{\"address\":\"350 Broadway\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10013\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00392122955571"
+  },
+  "agency" : "Legal Information for Families Today (LIFT)",
+  "borough_community" : "New York ",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "646.613.9633 ext. 202"
+}
+, {
+  "site_name" : "Friends of the Island Academy ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.755442281975604",
+    "human_address" : "{\"address\":\"330 38th Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10018\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99338117537229"
+  },
+  "agency" : "Friends of Island Academy",
+  "borough_community" : "New York ",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "212.760.0755"
+}
+, {
+  "site_name" : "Midtown Community Court",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.76519093277318",
+    "human_address" : "{\"address\":\"314 54 Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10019\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98524231100714"
+  },
+  "agency" : "Fund for the City of New York/Center for Court Innovation",
+  "borough_community" : "New York ",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "646.264.1329"
+}
+, {
+  "site_name" : "Neighborhood Defender Service of Harlem",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.8084771781372",
+    "human_address" : "{\"address\":\"317 Lenox Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10027\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94510035450739"
+  },
+  "agency" : "Neighborhood Defender Service of Harlem",
+  "borough_community" : "New York ",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "212.876.5500"
+}
+, {
+  "site_name" : "Oberia Dempsey Center ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.80943881923591",
+    "human_address" : "{\"address\":\"127 127th\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10027\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94534192638868"
+  },
+  "agency" : "The Northern Manhattan Perinatal Partnership Inc.",
+  "borough_community" : "New York ",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "212.665.2600"
+}
+, {
+  "site_name" : "Washington Houses Community Center ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.78992458809426",
+    "human_address" : "{\"address\":\"237 104th Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10029\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94476913120286"
+  },
+  "agency" : "Union Settlement Association",
+  "borough_community" : "New York ",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "212.828.6113"
+}
+, {
+  "site_name" : "Strive/East Harlem Employment Service, Inc. ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.801631007365245",
+    "human_address" : "{\"address\":\"240 123rd Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9350355660456"
+  },
+  "agency" : "East Harlem Employment Services, Inc.",
+  "borough_community" : "New York ",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "212.360.1100"
+}
+, {
+  "site_name" : "The New York Society for the Prevention of Cruelty to Children",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.70999953983505",
+    "human_address" : "{\"address\":\"161 William Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10038\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00601664988397"
+  },
+  "agency" : "The New York Society for the Prevention of Cruelty to Children",
+  "borough_community" : "New York ",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "212.233.5500"
+}
+, {
+  "site_name" : "Parkside Houses",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.86817216465264",
+    "human_address" : "{\"address\":\"2910 Bronx Park\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10467\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87044025446647"
+  },
+  "agency" : "Friends of Island Academy",
+  "borough_community" : "Bronx",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.653.5301"
+}
+, {
+  "site_name" : "FRIENDS Program",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.813535754971156",
+    "human_address" : "{\"address\":\"389 391 East 153rd Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9053552520432"
+  },
+  "agency" : "Visiting Nurse Service of New York",
+  "borough_community" : "Bronx",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "212.794.9200"
+}
+, {
+  "site_name" : "Claremont Neighborhood Centers, Inc. ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.83300943887456",
+    "human_address" : "{\"address\":\"489 169th Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10456\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90573521731622"
+  },
+  "agency" : "Claremont Neighborhood Centers, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.588.1000"
+}
+, {
+  "site_name" : "Nursing Family Partnership ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.805846930091775",
+    "human_address" : "{\"address\":\"489 491 East 153 Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10454\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91628504651766"
+  },
+  "agency" : "Visiting Nurse Service of New York",
+  "borough_community" : "Bronx",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.402.3900 "
+}
+, {
+  "site_name" : "Family and Community Support Services",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.67752593238575",
+    "human_address" : "{\"address\":\"124 Utica\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11233\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93033516817815"
+  },
+  "agency" : "Family and Community Support Services",
+  "borough_community" : "Brooklyn",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "347.879.3367"
+}
+, {
+  "site_name" : "Ralph Lincoln Service Center ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.67003864096985",
+    "human_address" : "{\"address\":\"261 Buffalo Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11213\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92540014432034"
+  },
+  "agency" : "Ralph Lincoln Service Center, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.604.1358"
+}
+, {
+  "site_name" : "Project Bridge ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.70259055255882",
+    "human_address" : "{\"address\":\"52 Wilson Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11237\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9290890577379"
+  },
+  "agency" : "Catholic Charities Neighborhood Services, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.628.1905"
+}
+, {
+  "site_name" : "Coalition for Hispanic Family Services ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.700089964438455",
+    "human_address" : "{\"address\":\"315 Wyckoff Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11237\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91203291222284"
+  },
+  "agency" : "Coalition for Hispanic Family Services",
+  "borough_community" : "Brooklyn",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.497.6090"
+}
+, {
+  "site_name" : "Forestdale at Forest Hills Campus",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.720707263029794",
+    "human_address" : "{\"address\":\"67 35 112 Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11375\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.84628429608335"
+  },
+  "agency" : "Forestdale, Inc",
+  "borough_community" : "Queens",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.263.0740"
+}
+, {
+  "site_name" : "Allen AME Multi-Center (Annex)",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.6769452621142",
+    "human_address" : "{\"address\":\"1114 02\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11434\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.77530690169215"
+  },
+  "agency" : "Forestdale, Inc",
+  "borough_community" : "Queens",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.263.0740"
+}
+ ]

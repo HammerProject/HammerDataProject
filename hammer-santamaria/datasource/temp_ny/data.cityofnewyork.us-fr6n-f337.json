@@ -1,0 +1,125 @@
+[ {
+  "police_department_disposition" : "Number of Officers"
+}
+, {
+  "police_department_disposition" : "Guilty after trial",
+  "_1" : "27",
+  "_2" : "9",
+  "_3" : "5",
+  "_4" : "4",
+  "_5" : "6"
+}
+, {
+  "police_department_disposition" : "Pleaded guilty"
+}
+, {
+  "police_department_disposition" : "      To charges and specifications",
+  "_1" : "15",
+  "_2" : "10",
+  "_3" : "6",
+  "_4" : "9",
+  "_5" : "13"
+}
+, {
+  "police_department_disposition" : "      To charges and specifications"
+}
+, {
+  "police_department_disposition" : "           negotiated as command discipline",
+  "_1" : "12",
+  "_2" : "4",
+  "_3" : "0",
+  "_4" : "3",
+  "_5" : "4"
+}
+, {
+  "police_department_disposition" : "      To command discipline",
+  "_1" : "97",
+  "_2" : "50",
+  "_3" : "70",
+  "_4" : "66",
+  "_5" : "68"
+}
+, {
+  "police_department_disposition" : "Instructions",
+  "_1" : "191",
+  "_2" : "195",
+  "_3" : "95",
+  "_4" : "71",
+  "_5" : "70"
+}
+, {
+  "police_department_disposition" : "Subtotal: Disciplinary Action",
+  "_1" : "342",
+  "_2" : "268",
+  "_3" : "176",
+  "_4" : "153",
+  "_5" : "161"
+}
+, {
+  "police_department_disposition" : "Not guilty after trial",
+  "_1" : "56",
+  "_2" : "37",
+  "_3" : "6",
+  "_4" : "15",
+  "_5" : "14"
+}
+, {
+  "police_department_disposition" : "Dismissed",
+  "_1" : "44",
+  "_2" : "25",
+  "_3" : "4",
+  "_4" : "6",
+  "_5" : "3"
+}
+, {
+  "police_department_disposition" : "Statute of limitations expired",
+  "_1" : "11",
+  "_2" : "6",
+  "_3" : "11",
+  "_4" : "13",
+  "_5" : "13"
+}
+, {
+  "police_department_disposition" : "Department unable to prosecute",
+  "_1" : "11",
+  "_2" : "12",
+  "_3" : "104",
+  "_4" : "88",
+  "_5" : "71"
+}
+, {
+  "police_department_disposition" : "Subtotal: No Disciplinary Action",
+  "_1" : "122",
+  "_2" : "80",
+  "_3" : "125",
+  "_4" : "122",
+  "_5" : "101"
+}
+, {
+  "police_department_disposition" : "Total Number of Closed Cases",
+  "_1" : "464",
+  "_2" : "348",
+  "_3" : "301",
+  "_4" : "275",
+  "_5" : "262"
+}
+, {
+  "police_department_disposition" : "Filed*",
+  "_1" : "17",
+  "_2" : "18",
+  "_3" : "13",
+  "_4" : "7",
+  "_5" : "4"
+}
+, {
+  "police_department_disposition" : "Total Number of Processed Cases",
+  "_1" : "481",
+  "_2" : "366",
+  "_3" : "314",
+  "_4" : "282",
+  "_5" : "266"
+}
+, {
+  "police_department_disposition" : "* \"Filed\" is a term used when the police department is not required to take action against the subject officer because the officer has resigned or retired from the department, or has been terminated."
+}
+ ]

@@ -1,0 +1,661 @@
+[ {
+  "charge_type" : "Felonies",
+  "investigation_count" : "3469",
+  "borough" : "Bronx",
+  "calendar_year" : "2006"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "3619",
+  "borough" : "Bronx",
+  "calendar_year" : "2007"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "3524",
+  "borough" : "Bronx",
+  "calendar_year" : "2008"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "3696",
+  "borough" : "Bronx",
+  "calendar_year" : "2009"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "3500",
+  "borough" : "Bronx",
+  "calendar_year" : "2010"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "3165",
+  "borough" : "Bronx",
+  "calendar_year" : "2011"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "2638",
+  "borough" : "Bronx",
+  "calendar_year" : "2012"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "2908",
+  "borough" : "Bronx",
+  "calendar_year" : "2013"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "2304",
+  "borough" : "Bronx",
+  "calendar_year" : "2014"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "1803",
+  "borough" : "Bronx",
+  "calendar_year" : "2015"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "1910",
+  "borough" : "Bronx",
+  "calendar_year" : "2016"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1606",
+  "borough" : "Bronx",
+  "calendar_year" : "2006"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1854",
+  "borough" : "Bronx",
+  "calendar_year" : "2007"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1395",
+  "borough" : "Bronx",
+  "calendar_year" : "2008"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1346",
+  "borough" : "Bronx",
+  "calendar_year" : "2009"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1076",
+  "borough" : "Bronx",
+  "calendar_year" : "2010"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1161",
+  "borough" : "Bronx",
+  "calendar_year" : "2011"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1127",
+  "borough" : "Bronx",
+  "calendar_year" : "2012"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1199",
+  "borough" : "Bronx",
+  "calendar_year" : "2013"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1061",
+  "borough" : "Bronx",
+  "calendar_year" : "2014"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "977",
+  "borough" : "Bronx",
+  "calendar_year" : "2015"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1099",
+  "borough" : "Bronx",
+  "calendar_year" : "2016"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "4511",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2006"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "4370",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2007"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "4129",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2008"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "4951",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2009"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "4227",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2010"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "3701",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2011"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "3495",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2012"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "3385",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2013"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "2458",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2014"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "2127",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2015"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "2164",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2016"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1389",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2006"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1050",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2007"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "978",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2008"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "830",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2009"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "793",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2010"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "971",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2011"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "950",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2012"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1064",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2013"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "862",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2014"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "722",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2015"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "851",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2016"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "7471",
+  "borough" : "Manhattan",
+  "calendar_year" : "2006"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "7402",
+  "borough" : "Manhattan",
+  "calendar_year" : "2007"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "6720",
+  "borough" : "Manhattan",
+  "calendar_year" : "2008"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "6698",
+  "borough" : "Manhattan",
+  "calendar_year" : "2009"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "6817",
+  "borough" : "Manhattan",
+  "calendar_year" : "2010"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "6440",
+  "borough" : "Manhattan",
+  "calendar_year" : "2011"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "5878",
+  "borough" : "Manhattan",
+  "calendar_year" : "2012"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "5335",
+  "borough" : "Manhattan",
+  "calendar_year" : "2013"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "4936",
+  "borough" : "Manhattan",
+  "calendar_year" : "2014"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "4836",
+  "borough" : "Manhattan",
+  "calendar_year" : "2015"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "4986",
+  "borough" : "Manhattan",
+  "calendar_year" : "2016"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1407",
+  "borough" : "Manhattan",
+  "calendar_year" : "2006"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1018",
+  "borough" : "Manhattan",
+  "calendar_year" : "2007"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "911",
+  "borough" : "Manhattan",
+  "calendar_year" : "2008"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1010",
+  "borough" : "Manhattan",
+  "calendar_year" : "2009"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1050",
+  "borough" : "Manhattan",
+  "calendar_year" : "2010"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1235",
+  "borough" : "Manhattan",
+  "calendar_year" : "2011"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1447",
+  "borough" : "Manhattan",
+  "calendar_year" : "2012"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1700",
+  "borough" : "Manhattan",
+  "calendar_year" : "2013"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1317",
+  "borough" : "Manhattan",
+  "calendar_year" : "2014"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1008",
+  "borough" : "Manhattan",
+  "calendar_year" : "2015"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "740",
+  "borough" : "Manhattan",
+  "calendar_year" : "2016"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "3193",
+  "borough" : "Queens",
+  "calendar_year" : "2006"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "3165",
+  "borough" : "Queens",
+  "calendar_year" : "2007"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "3091",
+  "borough" : "Queens",
+  "calendar_year" : "2008"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "2883",
+  "borough" : "Queens",
+  "calendar_year" : "2009"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "2921",
+  "borough" : "Queens",
+  "calendar_year" : "2010"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "2842",
+  "borough" : "Queens",
+  "calendar_year" : "2011"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "2871",
+  "borough" : "Queens",
+  "calendar_year" : "2012"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "2750",
+  "borough" : "Queens",
+  "calendar_year" : "2013"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "2436",
+  "borough" : "Queens",
+  "calendar_year" : "2014"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "2266",
+  "borough" : "Queens",
+  "calendar_year" : "2015"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "2271",
+  "borough" : "Queens",
+  "calendar_year" : "2016"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1836",
+  "borough" : "Queens",
+  "calendar_year" : "2006"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1876",
+  "borough" : "Queens",
+  "calendar_year" : "2007"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1484",
+  "borough" : "Queens",
+  "calendar_year" : "2008"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1465",
+  "borough" : "Queens",
+  "calendar_year" : "2009"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1338",
+  "borough" : "Queens",
+  "calendar_year" : "2010"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "1349",
+  "borough" : "Queens",
+  "calendar_year" : "2011"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "746",
+  "borough" : "Queens",
+  "calendar_year" : "2012"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "772",
+  "borough" : "Queens",
+  "calendar_year" : "2013"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "604",
+  "borough" : "Queens",
+  "calendar_year" : "2014"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "519",
+  "borough" : "Queens",
+  "calendar_year" : "2015"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "469",
+  "borough" : "Queens",
+  "calendar_year" : "2016"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "621",
+  "borough" : "Staten Island",
+  "calendar_year" : "2006"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "631",
+  "borough" : "Staten Island",
+  "calendar_year" : "2007"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "638",
+  "borough" : "Staten Island",
+  "calendar_year" : "2008"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "671",
+  "borough" : "Staten Island",
+  "calendar_year" : "2009"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "795",
+  "borough" : "Staten Island",
+  "calendar_year" : "2010"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "638",
+  "borough" : "Staten Island",
+  "calendar_year" : "2011"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "608",
+  "borough" : "Staten Island",
+  "calendar_year" : "2012"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "639",
+  "borough" : "Staten Island",
+  "calendar_year" : "2013"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "537",
+  "borough" : "Staten Island",
+  "calendar_year" : "2014"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "515",
+  "borough" : "Staten Island",
+  "calendar_year" : "2015"
+}
+, {
+  "charge_type" : "Felonies",
+  "investigation_count" : "456",
+  "borough" : "Staten Island",
+  "calendar_year" : "2016"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "541",
+  "borough" : "Staten Island",
+  "calendar_year" : "2006"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "649",
+  "borough" : "Staten Island",
+  "calendar_year" : "2007"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "615",
+  "borough" : "Staten Island",
+  "calendar_year" : "2008"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "676",
+  "borough" : "Staten Island",
+  "calendar_year" : "2009"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "528",
+  "borough" : "Staten Island",
+  "calendar_year" : "2010"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "323",
+  "borough" : "Staten Island",
+  "calendar_year" : "2011"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "355",
+  "borough" : "Staten Island",
+  "calendar_year" : "2012"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "358",
+  "borough" : "Staten Island",
+  "calendar_year" : "2013"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "329",
+  "borough" : "Staten Island",
+  "calendar_year" : "2014"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "253",
+  "borough" : "Staten Island",
+  "calendar_year" : "2015"
+}
+, {
+  "charge_type" : "Misdemeanors",
+  "investigation_count" : "292",
+  "borough" : "Staten Island",
+  "calendar_year" : "2016"
+}
+ ]

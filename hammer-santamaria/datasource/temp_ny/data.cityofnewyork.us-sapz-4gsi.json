@@ -1,0 +1,2553 @@
+[ {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.64706462390346",
+    "human_address" : "{\"address\":\"5600 FIRST AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.02266384442855"
+  },
+  "comptel" : "(718) 491-9324",
+  "compname" : "5600 MARKET CORP."
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.64706462390346",
+    "human_address" : "{\"address\":\"5600 FIRST AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.02266384442855"
+  },
+  "comptel" : "(718) 492-0760",
+  "compname" : "A. STEIN MEAT PRODUCTS, INC."
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.64706462390346",
+    "human_address" : "{\"address\":\"5600 1ST AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11210\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.02266384442855"
+  },
+  "comptel" : "(718) 748-1721",
+  "compname" : "AGRI STAR DISTRIBUTION LLC"
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.67002182502577",
+    "human_address" : "{\"address\":\"126 12TH STREET\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11215\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99334918421418"
+  },
+  "comptel" : "(718) 499-7821",
+  "compname" : "ALEX MEAT & PROVISION, INC."
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.64706462390346",
+    "human_address" : "{\"address\":\"5600 FIRST AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.02266384442855"
+  },
+  "comptel" : "(718) 238-7033",
+  "compname" : "ALEX'S MEAT DISTRIBUTORS CORP"
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.64706462390346",
+    "human_address" : "{\"address\":\"5600 FIRST AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.02266384442855"
+  },
+  "comptel" : "(718) 238-8766",
+  "compname" : "CHOW TRADING CO., INC."
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.64706462390346",
+    "human_address" : "{\"address\":\"5600 FIRST AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.02266384442855"
+  },
+  "comptel" : "(718) 836-8159",
+  "compname" : "CHOWS BROTHERS WHOLESALE MEAT CO., INC."
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.60325854136792",
+    "human_address" : "{\"address\":\"152 HIGHLAWN AVE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11223\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98049187405731"
+  },
+  "comptel" : "(718) 372-0505",
+  "compname" : "CREPINI LLC"
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.64706462390346",
+    "human_address" : "{\"address\":\"5600 FIRST AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.02266384442855"
+  },
+  "comptel" : "(718) 680-1300",
+  "compname" : "E & G FOODS, INC."
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.64706462390346",
+    "human_address" : "{\"address\":\"5600 FIRST AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.02266384442855"
+  },
+  "comptel" : "(718) 439-8375",
+  "compname" : "FORT MEAT INC."
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.64706462390346",
+    "human_address" : "{\"address\":\"5600 FIRST AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.02266384442855"
+  },
+  "comptel" : "(718) 630-5555",
+  "compname" : "INTERNATIONAL KOSHER MEAT PROCESSING CORP."
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.64706462390346",
+    "human_address" : "{\"address\":\"5600 FIRST AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.02266384442855"
+  },
+  "comptel" : "(718) 439-5410",
+  "compname" : "KING SOLOMON FOODS, INC."
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.64706462390346",
+    "human_address" : "{\"address\":\"5600 FIRST AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.02266384442855"
+  },
+  "comptel" : "(718) 439-9096",
+  "compname" : "L DONTIS PRODUCE CO. INC."
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.64706462390346",
+    "human_address" : "{\"address\":\"5600 FIRST AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.02266384442855"
+  },
+  "comptel" : "(718) 439-8822",
+  "compname" : "LANCASTER QUALITY PORK, INC."
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.74149379730113",
+    "human_address" : "{\"address\":\"426 14TH STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10014\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00662818886389"
+  },
+  "comptel" : "(212) 255-2745",
+  "compname" : "M & W PACKING INC"
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.64706462390346",
+    "human_address" : "{\"address\":\"5600 FIRST AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.02266384442855"
+  },
+  "comptel" : "(718) 439-4574",
+  "compname" : "ORAZIO & SONS MEATS, INC."
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.79347461059467",
+    "human_address" : "{\"address\":\"56 MERCURY AVENUE\",\"city\":\"EAST PATCHOGUE\",\"state\":\"NY\",\"zip\":\"11772\"}",
+    "needs_recoding" : false,
+    "longitude" : "-72.96078861455032"
+  },
+  "comptel" : "(631) 665-5522",
+  "compname" : "R&C BEEF & POULTRY INC."
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.64706462390346",
+    "human_address" : "{\"address\":\"5600 FIRST AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.02266384442855"
+  },
+  "comptel" : "(718) 492-9676",
+  "compname" : "RUBY FREEMAN INC."
+}
+, {
+  "mtype" : "BMM",
+  "location_1" : {
+    "latitude" : "40.64706462390346",
+    "human_address" : "{\"address\":\"5600 FIRST AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.02266384442855"
+  },
+  "comptel" : "(718) 921-9858",
+  "compname" : "WEST WASHINGTON MEATS"
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "(718) 842-2288",
+  "compname" : "ALASKAN FEAST INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.978516800864035",
+    "human_address" : "{\"address\":\"48 GAINSBOROUGH RD\",\"city\":\"SCARSDALE\",\"state\":\"NY\",\"zip\":\"10583\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.81674486588143"
+  },
+  "comptel" : "(914) 552-1052",
+  "compname" : "ANDREW ADAMS INC"
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DR\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "9149374770",
+  "compname" : "ARS FISH CO."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "(718) 860-6323",
+  "compname" : "BEYER LIGHTNING FISH CO. INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7186208580",
+  "compname" : "BLUE RIBBON FISH CO."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.75689918366305",
+    "human_address" : "{\"address\":\"17 HOWELLS POINT ROAD\",\"city\":\"BELLPORT\",\"state\":\"NY\",\"zip\":\"11713\"}",
+    "needs_recoding" : false,
+    "longitude" : "-72.94476269598823"
+  },
+  "comptel" : "(631) 838-0779",
+  "compname" : "BOULIKE LLC  D/B/A THE MENU SOURCE"
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7186177474",
+  "compname" : "CALEB HALEY & CO., LLC."
+}
+, {
+  "mtype" : "FFM",
+  "comptel" : "(703) 868-4622",
+  "compname" : "CAPTAIN BLUE, LLC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7186208260",
+  "compname" : "CARLS SEAFOOD INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7189437051",
+  "compname" : "CLEARWATER FISH CO. INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7189437056",
+  "compname" : "CROWN FISH COMPANY"
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.73629263407913",
+    "human_address" : "{\"address\":\"6520 171 STREET\",\"city\":\"FRESH MEADOWS\",\"state\":\"NY\",\"zip\":\"11365\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79837796213447"
+  },
+  "comptel" : "(718) 419-6111",
+  "compname" : "DISTINGUISHED SEAFOOD LLC"
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7186208414",
+  "compname" : "EMERALD SEAFOOD CO. INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.66423936695183",
+    "human_address" : "{\"address\":\"650 FOUNTAIN AVE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11208\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87008402053894"
+  },
+  "comptel" : "(718) 346-6500",
+  "compname" : "F & S SEAFOOD, INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7183784590",
+  "compname" : "FAIR FISH CO. INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "41.09299117818034",
+    "human_address" : "{\"address\":\"9 WOODS END CT\",\"city\":\"SPARTA\",\"state\":\"NJ\",\"zip\":\"07871\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.61003367761823"
+  },
+  "comptel" : "(973) 209-7500",
+  "compname" : "FIVE STAR SEAFOOD, INC."
+}
+, {
+  "mtype" : "FFM",
+  "comptel" : "7185895280",
+  "compname" : "FRANK W. WILKISSON INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "(718) 589-2233",
+  "compname" : "FULTON CAFÉ INC"
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7188422200",
+  "compname" : "G & G SEAFOOD DBA UNIVERSAL"
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "(516) 876-0441",
+  "compname" : "GNY FILET FISH CO. INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.55868424238451",
+    "human_address" : "{\"address\":\"17 STIEG AVENUE\",\"city\":\"STATEN ISLAND\",\"state\":\"NY\",\"zip\":\"10308\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.15469579467904"
+  },
+  "comptel" : "(917) 359-5990",
+  "compname" : "J & K SEAFOOD INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7189910000",
+  "compname" : "JMS SEASONAL SEAFOOD CORP."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7186177900",
+  "compname" : "JOE MONANI FISH CO."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7183784848",
+  "compname" : "KOREAN SEAFOOD ASSOCIATION OF NEW YORK"
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "5164583171",
+  "compname" : "LINDA POLICASTRI"
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "(718) 620-8400",
+  "compname" : "LOCKWOOD & WINANT SEAFOOD, LLC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7183284313",
+  "compname" : "LOU'S FISH MARKET INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7187324800",
+  "compname" : "M. SLAVIN & SONS LTD."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10465\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "(718) 893-0066",
+  "compname" : "MEAT WITHOUT FEET, LLC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "(718) 854-7384",
+  "compname" : "MERMAID SEA PRODUCTS INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "6316613060",
+  "compname" : "MOE BEHRENS SEAFOOD INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7185080407",
+  "compname" : "MONTAUK SEAFOOD CO. INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "(718) 860-1472",
+  "compname" : "MONTES SEAFOOD EMPORIUM INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7186204400",
+  "compname" : "MT. SINAI FISH"
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "(718) 378-2356",
+  "compname" : "NEW FULTON FISH MARKET COOPERATIVE AT HUNTS POINT"
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7183782356",
+  "compname" : "NEW FULTON FISH MARKET COOPERATIVE AT HUNTS POINT"
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7185892526",
+  "compname" : "NEW SEAFOOD CO. INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DR\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10454\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "(646) 334-4777",
+  "compname" : "PACIFIC GOLD SEAFOOD INC"
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.772320885027234",
+    "human_address" : "{\"address\":\"260 SECAUCUS ROAD\",\"city\":\"SECAUCUS\",\"state\":\"NJ\",\"zip\":\"07094\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.05829879598693"
+  },
+  "comptel" : "(201) 422-0777",
+  "compname" : "SCANDIA SEAFOOD ( NEW YORK) INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "(718) 842-3474",
+  "compname" : "SEABRITE FOODS INC./ EAGEL SEAFOOD"
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.56730964570607",
+    "human_address" : "{\"address\":\"301 AMBER STREET\",\"city\":\"STATEN ISLAND\",\"state\":\"NY\",\"zip\":\"10306\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.13723833357642"
+  },
+  "comptel" : "(718) 351-7380",
+  "compname" : "SERRANTONIO BROS."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "(718) 948-4914",
+  "compname" : "SLIP KIDS LOADING INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7183285240",
+  "compname" : "SMITTY'S FILLET HOUSE"
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "(718) 989-3918",
+  "compname" : "SOHO SEAFOOD, INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "(718) 328-2728",
+  "compname" : "SOUTH STREET SEAFOOD CORP."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE UNIT#30\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7189916660",
+  "compname" : "THIRD GENERATION SEAFOOD INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE UNIT#93\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "7188604320",
+  "compname" : "TONY CRAB KING INC."
+}
+, {
+  "mtype" : "FFM",
+  "location_1" : {
+    "latitude" : "40.80546784368654",
+    "human_address" : "{\"address\":\"800 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8767948357941"
+  },
+  "comptel" : "(914) 403-4907",
+  "compname" : "WORLD WIDE DIRECT SEAFOOD, LLC."
+}
+, {
+  "mtype" : "GMM",
+  "location_1" : {
+    "latitude" : "40.73941679514289",
+    "human_address" : "{\"address\":\"93 GANSEVOORT STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10014\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00780895610596"
+  },
+  "comptel" : "(212) 229-2733",
+  "compname" : "7M FOOD CORP."
+}
+, {
+  "mtype" : "GMM",
+  "location_1" : {
+    "latitude" : "40.73984571794641",
+    "human_address" : "{\"address\":\"826D WASHINGTON STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10014\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.008045936879"
+  },
+  "comptel" : "(212) 924-1311",
+  "compname" : "DEBRAGGA & SPITLER INC."
+}
+, {
+  "mtype" : "GMM",
+  "location_1" : {
+    "latitude" : "40.73358645135369",
+    "human_address" : "{\"address\":\"44 LITTLE W 12TH STREET\",\"city\":\"NY\",\"state\":\"NY\",\"zip\":\"10014\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.01019960472792"
+  },
+  "comptel" : "(212) 206-7592",
+  "compname" : "GANSEVOORT MARKET COFFEE SHOP INC."
+}
+, {
+  "mtype" : "GMM",
+  "location_1" : {
+    "latitude" : "40.740167276601774",
+    "human_address" : "{\"address\":\"832 WASHINGTON STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10014\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00801515975427"
+  },
+  "comptel" : "(212) 633-0130",
+  "compname" : "J. T. JOBBAGY INC."
+}
+, {
+  "mtype" : "GMM",
+  "location_1" : {
+    "latitude" : "40.74034754343406",
+    "human_address" : "{\"address\":\"48 LITTLE WEST 12TH STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10014\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00814615389663"
+  },
+  "comptel" : "(212) 242-1293",
+  "compname" : "JOHN W. WILLIAMS INC."
+}
+, {
+  "mtype" : "GMM",
+  "location_1" : {
+    "latitude" : "40.74040164664734",
+    "human_address" : "{\"address\":\"56 LITTLE WEST 12TH STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10014\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00827329644785"
+  },
+  "comptel" : "(212) 255-2135",
+  "compname" : "LONDON MANHATTAN CORP."
+}
+, {
+  "mtype" : "GMM",
+  "location_1" : {
+    "latitude" : "40.740059353236454",
+    "human_address" : "{\"address\":\"830 WASHINGTON AVENUE\",\"city\":\"NY\",\"state\":\"NY\",\"zip\":\"10014\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00802747456997"
+  },
+  "comptel" : "(212) 242-4474",
+  "compname" : "LOUIS ZUCKER CO. INC."
+}
+, {
+  "mtype" : "GMM",
+  "location_1" : {
+    "latitude" : "40.73984571794641",
+    "human_address" : "{\"address\":\"826 WASHINGTON STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10014\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.008045936879"
+  },
+  "comptel" : "(212) 242-3408",
+  "compname" : "RELIABLE WHOLESALE MEAT INC"
+}
+, {
+  "mtype" : "GMM",
+  "location_1" : {
+    "latitude" : "40.73872167021019",
+    "human_address" : "{\"address\":\"525 WEST STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10014\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00988255607643"
+  },
+  "comptel" : "(212) 675-8270",
+  "compname" : "WEICHSEL BEEF CO., INC."
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81386440216046",
+    "human_address" : "{\"address\":\"1195 SPOFFORD AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89117578406122"
+  },
+  "comptel" : "(718) 617-4867",
+  "compname" : "A 1 FOOD DISTRIBUTOR, LLC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81127586695408",
+    "human_address" : "{\"address\":\"1170 RANDALL AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89189015494007"
+  },
+  "comptel" : "(718) 861-3089",
+  "compname" : "ABARROTES MEXICANO WHOLESALE INC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.8087559940689",
+    "human_address" : "{\"address\":\"426 BARRETO STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88781788419013"
+  },
+  "comptel" : "(718) 328-3888",
+  "compname" : "AGRITILITY U.S. LTD."
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.814988668647544",
+    "human_address" : "{\"address\":\"700 WHITTIER STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88370068954777"
+  },
+  "comptel" : "(718) 991-8895",
+  "compname" : "AGROSUN"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.812752196092106",
+    "human_address" : "{\"address\":\"1380 RANDALL AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10007\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88217085335795"
+  },
+  "comptel" : "(718) 618-7300",
+  "compname" : "ARAMEX GLOBAL TRADING INC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.80724434772675",
+    "human_address" : "{\"address\":\"350 CASANOVA STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88838163336061"
+  },
+  "comptel" : "(347) 862-5374",
+  "compname" : "ASSOCIATED PRODUCE ROUTE LLC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81033365482919",
+    "human_address" : "{\"address\":\"240 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87311222234113"
+  },
+  "comptel" : "(718) 497-3888",
+  "compname" : "BEL CANTO FOODS, LLC."
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81567580791993",
+    "human_address" : "{\"address\":\"727 DRAKE STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8830094990727"
+  },
+  "comptel" : "(347) 590-0699",
+  "compname" : "BEST POINT TROPICALS CORP"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.80997186508315",
+    "human_address" : "{\"address\":\"530 CRAVEN STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89205356958475"
+  },
+  "comptel" : "(718) 861-2900",
+  "compname" : "BLUE STAR MEAT CORP / LUCKY MEAT"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81020462962799",
+    "human_address" : "{\"address\":\"1290 OAKPOINT AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88579033605778"
+  },
+  "comptel" : "(718) 378-2222",
+  "compname" : "C H K CORP"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.805785834685246",
+    "human_address" : "{\"address\":\"250 COSTER STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88511959298927"
+  },
+  "comptel" : "(718) 378-8400",
+  "compname" : "C. KENNETH IMPORTS, INC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.811979223463545",
+    "human_address" : "{\"address\":\"1257 RANDELL AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88762632404348"
+  },
+  "comptel" : "(718) 617-2213",
+  "compname" : "CARAVEO PAPAYAS INC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81718571331423",
+    "human_address" : "{\"address\":\"1360 LAFAYETTE AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88429060442392"
+  },
+  "comptel" : "(718) 292-8497",
+  "compname" : "CARIBBEAN PRODUCE INC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81193769416817",
+    "human_address" : "{\"address\":\"1251 RANDALL AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88790163282697"
+  },
+  "comptel" : "(718) 328-9600",
+  "compname" : "CARIVE IMPORTS, INC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.806815665200595",
+    "human_address" : "{\"address\":\"1300 VIELE AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88444763958597"
+  },
+  "comptel" : "(718) 842-8700",
+  "compname" : "DAIRYLAND USA CORPORATION"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.817076917969175",
+    "human_address" : "{\"address\":\"1350 LAFAYETTE AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88468860180875"
+  },
+  "comptel" : "(718) 378-0874",
+  "compname" : "FAJARO PRODUCE CORP"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81095293650833",
+    "human_address" : "{\"address\":\"547 MANIDA STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88750812299529"
+  },
+  "comptel" : "(718) 542-0900",
+  "compname" : "FIVE STAR ICE CREAM CORP / OMANJA"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81018303323503",
+    "human_address" : "{\"address\":\"542 CRAVEN STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89210843189872"
+  },
+  "comptel" : "(718) 589-5145",
+  "compname" : "FLAMINGO SMOKED MEATS, INC."
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81039483343921",
+    "human_address" : "{\"address\":\"1301 OAK POINT AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88538796086063"
+  },
+  "comptel" : "(718) 620-2177",
+  "compname" : "FLM RADICCHOP KING INC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.80985572014232",
+    "human_address" : "{\"address\":\"1240 OAKPOINT AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88811663588432"
+  },
+  "comptel" : "(718) 589-4989",
+  "compname" : "G. FRESH CORP"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81407797242782",
+    "human_address" : "{\"address\":\"1123 WORTHEN STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89403056736067"
+  },
+  "comptel" : "(718) 842-2828",
+  "compname" : "GOURMET GURU, INC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.817273251766565",
+    "human_address" : "{\"address\":\"1365 LAFAYETTE AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88408524107285"
+  },
+  "comptel" : "(718) 861-5500",
+  "compname" : "GURUM CORP"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.809702383096855",
+    "human_address" : "{\"address\":\"1201 OAK POINT AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89002746253014"
+  },
+  "comptel" : "(347) 577-1200",
+  "compname" : "HJL INDEPENDENCE ICE CREAM INC."
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.811174125098724",
+    "human_address" : "{\"address\":\"1152 RANDALL AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89252893193107"
+  },
+  "comptel" : "(718) 328-3263",
+  "compname" : "HUNTS POINT FLOWER MARKET"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.72646491702238",
+    "human_address" : "{\"address\":\"95 20\",\"city\":\"REGO PARK\",\"state\":\"NY\",\"zip\":\"11374\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.86148084756303"
+  },
+  "comptel" : "(718) 592-1076",
+  "compname" : "INVERSIONISTAS UNIDOS CORP."
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81717185468214",
+    "human_address" : "{\"address\":\"1343 LAFAYETTE AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88513007043379"
+  },
+  "comptel" : "(718) 589-0517",
+  "compname" : "J & J NY DISTRIBUTORS CORP."
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.816218609908816",
+    "human_address" : "{\"address\":\"750 DRAKE STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88307694532183"
+  },
+  "comptel" : "(718) 893-4111",
+  "compname" : "JOHN  GEORGALLAS BANANA DISTRIBUTORS OF NY, INC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.810318749311826",
+    "human_address" : "{\"address\":\"527 CASANOVA STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88927101426934"
+  },
+  "comptel" : "(718) 328-9700",
+  "compname" : "JUST BAGELS MFG., INC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81027768150337",
+    "human_address" : "{\"address\":\"509 MANIDA STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88733767027557"
+  },
+  "comptel" : "(718) 823-3360",
+  "compname" : "K & T WHOLESALE FLORIST INC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81563101329714",
+    "human_address" : "{\"address\":\"819 GARRISON AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89349788832865"
+  },
+  "comptel" : "(914) 667-8795",
+  "compname" : "LA SQUISITA FOOD CORP"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.80747768864446",
+    "human_address" : "{\"address\":\"341 COSTER STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88562753206325"
+  },
+  "comptel" : "(718) 617-6611",
+  "compname" : "LOBOY FOODS"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.71909163596377",
+    "human_address" : "{\"address\":\"129 8TH STREET\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11211\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95820294402176"
+  },
+  "comptel" : "(718) 534-4340",
+  "compname" : "MIRON PRODUCE INC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81200035753164",
+    "human_address" : "{\"address\":\"1261 A RANDELL AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88748120344259"
+  },
+  "comptel" : "(718) 328-3288",
+  "compname" : "NEW ERA PRODUCE, INC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.769166828358415",
+    "human_address" : "{\"address\":\"125 SEAVIEW DRIVE\",\"city\":\"SECAUCUS\",\"state\":\"NJ\",\"zip\":\"07094\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.07638617983997"
+  },
+  "comptel" : "(201) 223-0909",
+  "compname" : "NEW YORK PRODUCE, INC"
+}
+, {
+  "mtype" : "HPA",
+  "comptel" : "(856) 467-3494",
+  "compname" : "NICHLOSI BROTHERS LLC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.811746994665604",
+    "human_address" : "{\"address\":\"1234 RANDELL AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88878352021474"
+  },
+  "comptel" : "(718) 842-8600",
+  "compname" : "OMEGA INTERNATIONAL FOODS"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"327 FONGFELLOW AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 991-6070",
+  "compname" : "P. EAST TRADING CORP"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.80688032419698",
+    "human_address" : "{\"address\":\"330 CASANOVA AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88828502048068"
+  },
+  "comptel" : "(347) 702-9764",
+  "compname" : "PRIMIZIE FINE FOODS, LLC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81205043166983",
+    "human_address" : "{\"address\":\"1280 RANDALL AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88675861164154"
+  },
+  "comptel" : "(718) 328-3500",
+  "compname" : "REYES PRODUCE CORP."
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81025185731271",
+    "human_address" : "{\"address\":\"531 TIFFANY STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8902389044123"
+  },
+  "comptel" : "(718) 861-7555",
+  "compname" : "RIDGE PRODUCE INC"
+}
+, {
+  "mtype" : "HPA",
+  "location_1" : {
+    "latitude" : "40.81060359719829",
+    "human_address" : "{\"address\":\"510 FAILE STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88543419175345"
+  },
+  "comptel" : "(718) 328-2640",
+  "compname" : "SUPER PRODUCE INC"
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"1 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7183281040",
+  "compname" : "BERLIN & DENMAR DISTRIBUTORS, INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CTR DR\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7183289550",
+  "compname" : "C & C MEATS CORPORATION"
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"18 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7185429500",
+  "compname" : "DESOLA PROVISIONS CORP."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DR B-23 HTS PT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7188937318",
+  "compname" : "ENDICOTT MEATS, INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"12 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7186173000",
+  "compname" : "FANCY FOODS, INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CTR DR\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7189914300",
+  "compname" : "FOOD BANK FOR NEW YORK CITY INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7185892300",
+  "compname" : "FOODIRECT, INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DR\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7188935350",
+  "compname" : "GARDEN MANOR FARMS, INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7188424471",
+  "compname" : "GIRANDOLA & SHUTKIND CONST., CORP."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"24 HUNTS PT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7186177460",
+  "compname" : "HIGHLAND PORK, INC"
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7188427466",
+  "compname" : "HUNTS POINT COOPERATIVE MARKET INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7185422900",
+  "compname" : "KALIVIA FOOD CORP."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DR\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7183785900",
+  "compname" : "KIM'S PROVISION INC./DBA US MEATS INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7189913099",
+  "compname" : "LOUIS SPAGNOLI, INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7188428500",
+  "compname" : "MAPLECREST PRIME FOODS, INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"6 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7189915800",
+  "compname" : "MARKET MEATS, INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7185421000",
+  "compname" : "MASTER PURVEYORS INC"
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "(718) 764-6647",
+  "compname" : "MEAT INOVATIONS, INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7183283255",
+  "compname" : "MOORE'S WHOLESALE MEATS, INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.81029704244459",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DR C-16 HUNTS PT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87458054428663"
+  },
+  "comptel" : "7188424447",
+  "compname" : "MOUNTAIN STATES/ROSEN LLC"
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7188426767",
+  "compname" : "MTV FOODS, INC./ DBA AUSTIN MEAT CO"
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "(718) 842-6767",
+  "compname" : "MTV REALTY INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"10 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7183282000",
+  "compname" : "MURRAY BERKOWITZ & SONS, INC."
+}
+, {
+  "mtype" : "HPM",
+  "comptel" : "2018427400",
+  "compname" : "NATION'S BEST MEAT WHOLESALERS, INC."
+}
+, {
+  "mtype" : "HPM",
+  "comptel" : "7188420700",
+  "compname" : "NEBRASKALAND, INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"19 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7185424600",
+  "compname" : "NEW YORK MEAT, INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DRIVE HTS PT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7185898600",
+  "compname" : "PLYMOUTH BEEF CO.,INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"22 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7185422810",
+  "compname" : "PORK KING SAUSAGE, INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "(212) 924-0988",
+  "compname" : "R & W PROVISIONS CO. INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"22 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7185891818",
+  "compname" : "SCHUSTER MEAT CORP."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7185424401",
+  "compname" : "STV REALTY INC."
+}
+, {
+  "mtype" : "HPM",
+  "comptel" : "7188605300",
+  "compname" : "SUPREME KOSHER MEAT"
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"1 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7183285200",
+  "compname" : "TONY'S FISH & SEAFOOD, CORP."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"101 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7185424401",
+  "compname" : "VISTA FOOD EXCHANGE INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CENTER DRIVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7185424401",
+  "compname" : "VP PROPERTIES, LLC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"101 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7186177600",
+  "compname" : "WALLACE & COOK FOOD SALES, INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"16 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7186176600",
+  "compname" : "WEST- CONN. MEAT CO., INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"1 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(201) 218-1322",
+  "compname" : "WESTERN REALTY HOLDINGS, LLC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "41.10580634927775",
+    "human_address" : "{\"address\":\"50 DAVIS ROAD\",\"city\":\"SPARTA\",\"state\":\"NJ\",\"zip\":\"07871\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.62383814377732"
+  },
+  "comptel" : "9732098839",
+  "compname" : "WESTERN WHOLESALE MEATS INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.808437540927834",
+    "human_address" : "{\"address\":\"355 FOOD CTR DR\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8720330124457"
+  },
+  "comptel" : "7188428500",
+  "compname" : "WESTSIDE FOODS, INC."
+}
+, {
+  "mtype" : "HPM",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"5 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7183287222",
+  "compname" : "WORLDWIDE FISH PRODUCTS, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"138 44 ROW A HUNTS PT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7185897877",
+  "compname" : "A & J PRODUCE"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"343 344 HUNTS PT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7188933060",
+  "compname" : "A J TRUCCO INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"110 A HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7185423777",
+  "compname" : "AFL HOT HOUSE PRODUCE CORP."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"118 120 ROW A HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7185426054",
+  "compname" : "ALBEE TOMATO COMPANY INC"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"237 ROW\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 542-4115",
+  "compname" : "BEST TROPICAL ISLAND, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"429 433\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(646) 225-1969",
+  "compname" : "BIENVENIDO CALCANO D/B/A BIENVENIDO PRODUCE"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.66423936695183",
+    "human_address" : "{\"address\":\"650 FOUNTAIN AVE\",\"city\":\"BKLYN\",\"state\":\"NY\",\"zip\":\"11208\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87008402053894"
+  },
+  "comptel" : "(718) 346-6500",
+  "compname" : "BOGOPA ENTERPISES INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"238 241 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7189915050",
+  "compname" : "C AND J BROTHERS"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"346 B\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 589-0790",
+  "compname" : "CANYON SALES COMPANY"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.814256000414275",
+    "human_address" : "{\"address\":\"125 BRONX\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"10474-7303\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88557600003224"
+  },
+  "comptel" : "7183301188",
+  "compname" : "CM PRODUCE LLC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"249-B NEW\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 328-3060",
+  "compname" : "COOSEMANS NEW YORK INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"266 NEW\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(201) 599-0057",
+  "compname" : "COUNTRY WIDE PRODUCE, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"106 09 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7189914920",
+  "compname" : "D.M. ROTHMAN CO., INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"315 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7189915900",
+  "compname" : "D'ARRIGO BROS. CO. OF NY, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"A111 117 HUNTS PT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7189915600",
+  "compname" : "E. ARMATA, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.84809165013139",
+    "human_address" : "{\"address\":\"1600 SEDGWICK AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92413645304677"
+  },
+  "comptel" : "(718) 583-6477",
+  "compname" : "EA COMPANY"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"219A ROW B HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 450-8935",
+  "compname" : "EDWARD PRODUCE CORP."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"342 ROW C\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 991-6109",
+  "compname" : "ERIC'S PRODUCE, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.66423936695183",
+    "human_address" : "{\"address\":\"650 FOUNTAIN AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11208\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87008402053894"
+  },
+  "comptel" : "(718) 346-6500",
+  "compname" : "F & S PRODUCE, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"247 257\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 843-1640",
+  "compname" : "FIERMAN PRODUCE EXCHANGE, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"414 416 ROW D HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7186173800",
+  "compname" : "FITZ & PAL FOOD CENTER LLC/D/B/A FOOD BARN"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.780092072491186",
+    "human_address" : "{\"address\":\"42 04 BERRIAN BLVD\",\"city\":\"ASTORIA\",\"state\":\"NY\",\"zip\":\"11105\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90960650023976"
+  },
+  "comptel" : "(718) 728-0870",
+  "compname" : "FRES CO, LLC"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"201 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7188934500",
+  "compname" : "FRUITCO CORP."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"163 168\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 893-5554",
+  "compname" : "GOLD MEDAL PRODUCE, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"421B NYC\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 861-1500",
+  "compname" : "GRAMERCY PRODUCE INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "41.07403610407539",
+    "human_address" : "{\"address\":\"1120 POST ROAD\",\"city\":\"DARIEN\",\"state\":\"CT\",\"zip\":\"06820\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.47342915091224"
+  },
+  "comptel" : "2036558290",
+  "compname" : "HEATING OIL PARTNERS"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810220163358174",
+    "human_address" : "{\"address\":\"464 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88133728704419"
+  },
+  "comptel" : "7183786700",
+  "compname" : "HENRY HAAS, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"2A HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7185422944",
+  "compname" : "HPTM PRODUCE COOP ASSO., INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"300C BRONX\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "compname" : "HUNTS POINT MARKET FOOD INC"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"134 136 NYC TERMINAL MARKET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7188930895",
+  "compname" : "HUNTS POINT TROPICALS INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810220163358174",
+    "human_address" : "{\"address\":\"464 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88133728704419"
+  },
+  "comptel" : "7183782550",
+  "compname" : "INTERCONTINENTAL TRUCK BROKERAGE CORP."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"331C NYC\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7185422217",
+  "compname" : "ISSAM KANAWI CORP."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"103 ROW A\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 378-5800",
+  "compname" : "J & J BROS. TRUCKING,LLC"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"101 105 ROW\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7183785800",
+  "compname" : "J. MARGIOTTA COMPANY, LLC"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"351 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7189914210",
+  "compname" : "J. RENELLA PRODUCE, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.79131465942596",
+    "human_address" : "{\"address\":\"170 WARNER AVENUE\",\"city\":\"ROSLYN HEIGHTS\",\"state\":\"NY\",\"zip\":\"11577\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.64919821080058"
+  },
+  "compname" : "JETS PRODUCE CORP"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"39 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7189917300",
+  "compname" : "JUNIORS PRODUCE, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"309 NYC\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 328-6633",
+  "compname" : "KATO FOOD CORPORATION"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"153 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 589-1400",
+  "compname" : "KATZMAN  BERRY CORP."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"352 353 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 842-3300",
+  "compname" : "KOREAN FARMS CORP."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"347 ROW C HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7189914800",
+  "compname" : "KRISP PAK SALES CORP."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.812684129140564",
+    "human_address" : "{\"address\":\"19 GLENMERE LANE\",\"city\":\"COMMACK\",\"state\":\"NY\",\"zip\":\"11725\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.2784111688585"
+  },
+  "comptel" : "(631) 543-7829",
+  "compname" : "LANCE KRAVIS"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"B232 BRONX\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "9145223049",
+  "compname" : "LBD PRODUCE, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.74902112268637",
+    "human_address" : "{\"address\":\"224 30TH STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10001\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99374090418405"
+  },
+  "comptel" : "(212) 268-4310",
+  "compname" : "LD LOGISTICS LLC"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"234 ROW B HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7185424115",
+  "compname" : "LEE LOI, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"9C BRONX\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 378-1185",
+  "compname" : "LEE'S HUNTS POINT ORIENTAL MARKET"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"302 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7185422200",
+  "compname" : "LGS SPECIALTY SALES, LTD."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"151 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7185898500",
+  "compname" : "M & R TOMATO DISTRIBUTORS, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"309 ROW C HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7185898500",
+  "compname" : "M & R TRADING CO., INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"250 ROW\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 893-1640",
+  "compname" : "MABIJO PACKING CORP."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"161 ROW A HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7188930100",
+  "compname" : "MENDEZ INTERNATIONAL TROPICAL FOODS"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"205 220 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7185897700",
+  "compname" : "MORRIS OKUN, INC."
+}
+, {
+  "mtype" : "HPP",
+  "comptel" : "7189916050",
+  "compname" : "NATHEL & NATHEL, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.80994980318131",
+    "human_address" : "{\"address\":\"434 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88106617404716"
+  },
+  "comptel" : "(718) 617-6229",
+  "compname" : "NATIONAL FARM WHOLESALE FRUIT & VEGETABLES CORP."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"37A HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7183289100",
+  "compname" : "NY PRODUCE TRADE ASSOCIATION, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"440 444 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 328-8701",
+  "compname" : "PAN-HELLENIC FOOD OF NY CORP."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"206A NYC\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7185425000",
+  "compname" : "PAUL STEINBERG ASSOCIATES, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.72946667778439",
+    "human_address" : "{\"address\":\"8 HACKENSACK AVENUE\",\"city\":\"KEARNY\",\"state\":\"NJ\",\"zip\":\"07032\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.10368879691093"
+  },
+  "comptel" : "9733441188",
+  "compname" : "PIG-TAINER SERVICES, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"342 ROW C HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 893-6000",
+  "compname" : "PORRICELLI INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"205 A NYC\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 542-2424",
+  "compname" : "R & I PRODUCE CORPORATION"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"C366 NYC\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 328-0011",
+  "compname" : "RIGHT CHOICE PAPER INC"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"374 76 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7186176564",
+  "compname" : "ROBANGELA, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"408 412 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7189912340",
+  "compname" : "ROBERT T. COCHRAN & CO."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"147 148\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7185893200",
+  "compname" : "RUBIN BROS. PRODUCE CORP."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"154 57 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7189914700",
+  "compname" : "S.KATZMAN PRODUCE, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"421B NYC\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 861-1500",
+  "compname" : "SALANAR TRUCKING CORP."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"153 157\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 598-1400",
+  "compname" : "SHARKEY'S TRUCKING CORP"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"258 59 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7188930200",
+  "compname" : "SQUARE PRODUCE CO., INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.63542775716553",
+    "human_address" : "{\"address\":\"39 EAST AVENUE\",\"city\":\"LAWRENCE\",\"state\":\"NY\",\"zip\":\"11559\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.74320777326164"
+  },
+  "comptel" : "(516) 239-2905",
+  "compname" : "STM TRUCKING INC"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"447 ROW D HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7188426317",
+  "compname" : "TED GEORGALLAS TOMATO & PRODUCE, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"223 225 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "6178845921",
+  "compname" : "THE ALPHAS COMPANY OF NEW YORK"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"413 16 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7183286700",
+  "compname" : "TOP BANANA, LLC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"424 ROW\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 861-1933",
+  "compname" : "TOP KATZ BROKERS, LLC"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"168-A NYC\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 542-6370",
+  "compname" : "UNITED STATES PRODUCE BROKERS INC"
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"147 NYC\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 589-3200",
+  "compname" : "VEG-PAK DISTRIBUTION CO, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"429 33 ROW D HUNTS PT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "7188933311",
+  "compname" : "VEN-CO PRODUCE, INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.80943041810474",
+    "human_address" : "{\"address\":\"371 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.880519123888"
+  },
+  "comptel" : "(516) 292-8821",
+  "compname" : "YOLA FRUIT & PRODUCE DIST. INC."
+}
+, {
+  "mtype" : "HPP",
+  "location_1" : {
+    "latitude" : "40.810882923108466",
+    "human_address" : "{\"address\":\"230 2ND\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88235636235618"
+  },
+  "comptel" : "(718) 893-9720",
+  "compname" : "YOO DELIVERY SERVICE INC"
+}
+ ]

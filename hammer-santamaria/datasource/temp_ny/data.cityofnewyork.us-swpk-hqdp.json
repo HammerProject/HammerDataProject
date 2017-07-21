@@ -1,0 +1,3121 @@
+[ {
+  "nta_code" : "BX01",
+  "year" : "2000",
+  "nta_name" : "Claremont-Bathgate",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "28149"
+}
+, {
+  "nta_code" : "BX03",
+  "year" : "2000",
+  "nta_name" : "Eastchester-Edenwald-Baychester",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "35422"
+}
+, {
+  "nta_code" : "BX05",
+  "year" : "2000",
+  "nta_name" : "Bedford Park-Fordham North",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "55329"
+}
+, {
+  "nta_code" : "BX06",
+  "year" : "2000",
+  "nta_name" : "Belmont",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "25967"
+}
+, {
+  "nta_code" : "BX07",
+  "year" : "2000",
+  "nta_name" : "Bronxdale",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "34309"
+}
+, {
+  "nta_code" : "BX08",
+  "year" : "2000",
+  "nta_name" : "West Farms-Bronx River",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "34542"
+}
+, {
+  "nta_code" : "BX09",
+  "year" : "2000",
+  "nta_name" : "Soundview-Castle Hill-Clason Point-Harding Park",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "50753"
+}
+, {
+  "nta_code" : "BX10",
+  "year" : "2000",
+  "nta_name" : "Pelham Bay-Country Club-City Island",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "27140"
+}
+, {
+  "nta_code" : "BX13",
+  "year" : "2000",
+  "nta_name" : "Co-Op City",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "40676"
+}
+, {
+  "nta_code" : "BX14",
+  "year" : "2000",
+  "nta_name" : "East Concourse-Concourse Village",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "58961"
+}
+, {
+  "nta_code" : "BX17",
+  "year" : "2000",
+  "nta_name" : "East Tremont",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "39280"
+}
+, {
+  "nta_code" : "BX22",
+  "year" : "2000",
+  "nta_name" : "North Riverdale-Fieldston-Riverdale",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "28013"
+}
+, {
+  "nta_code" : "BX26",
+  "year" : "2000",
+  "nta_name" : "Highbridge",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "33844"
+}
+, {
+  "nta_code" : "BX27",
+  "year" : "2000",
+  "nta_name" : "Hunts Point",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "25142"
+}
+, {
+  "nta_code" : "BX28",
+  "year" : "2000",
+  "nta_name" : "Van Cortlandt Village",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "50607"
+}
+, {
+  "nta_code" : "BX29",
+  "year" : "2000",
+  "nta_name" : "Spuyten Duyvil-Kingsbridge",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "29872"
+}
+, {
+  "nta_code" : "BX30",
+  "year" : "2000",
+  "nta_name" : "Kingsbridge Heights",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "33286"
+}
+, {
+  "nta_code" : "BX31",
+  "year" : "2000",
+  "nta_name" : "Allerton-Pelham Gardens",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "28510"
+}
+, {
+  "nta_code" : "BX33",
+  "year" : "2000",
+  "nta_name" : "Longwood",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "23082"
+}
+, {
+  "nta_code" : "BX34",
+  "year" : "2000",
+  "nta_name" : "Melrose South-Mott Haven North",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "33195"
+}
+, {
+  "nta_code" : "BX35",
+  "year" : "2000",
+  "nta_name" : "Morrisania-Melrose",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "29797"
+}
+, {
+  "nta_code" : "BX36",
+  "year" : "2000",
+  "nta_name" : "University Heights-Morris Heights",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "54335"
+}
+, {
+  "nta_code" : "BX37",
+  "year" : "2000",
+  "nta_name" : "Van Nest-Morris Park-Westchester Square",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "27135"
+}
+, {
+  "nta_code" : "BX39",
+  "year" : "2000",
+  "nta_name" : "Mott Haven-Port Morris",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "49030"
+}
+, {
+  "nta_code" : "BX40",
+  "year" : "2000",
+  "nta_name" : "Fordham South",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "26880"
+}
+, {
+  "nta_code" : "BX41",
+  "year" : "2000",
+  "nta_name" : "Mount Hope",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "52649"
+}
+, {
+  "nta_code" : "BX43",
+  "year" : "2000",
+  "nta_name" : "Norwood",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "40817"
+}
+, {
+  "nta_code" : "BX44",
+  "year" : "2000",
+  "nta_name" : "Williamsbridge-Olinville",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "57420"
+}
+, {
+  "nta_code" : "BX46",
+  "year" : "2000",
+  "nta_name" : "Parkchester",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "29353"
+}
+, {
+  "nta_code" : "BX49",
+  "year" : "2000",
+  "nta_name" : "Pelham Parkway",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "30006"
+}
+, {
+  "nta_code" : "BX52",
+  "year" : "2000",
+  "nta_name" : "Schuylerville-Throgs Neck-Edgewater Park",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "43712"
+}
+, {
+  "nta_code" : "BX55",
+  "year" : "2000",
+  "nta_name" : "Soundview-Bruckner",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "35137"
+}
+, {
+  "nta_code" : "BX59",
+  "year" : "2000",
+  "nta_name" : "Westchester-Unionport",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "25768"
+}
+, {
+  "nta_code" : "BX62",
+  "year" : "2000",
+  "nta_name" : "Woodlawn-Wakefield",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "43583"
+}
+, {
+  "nta_code" : "BX63",
+  "year" : "2000",
+  "nta_name" : "West Concourse",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "39557"
+}
+, {
+  "nta_code" : "BX75",
+  "year" : "2000",
+  "nta_name" : "Crotona Park East",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "18072"
+}
+, {
+  "nta_code" : "BX98",
+  "year" : "2000",
+  "nta_name" : "Rikers Island",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "12780"
+}
+, {
+  "nta_code" : "BX99",
+  "year" : "2000",
+  "nta_name" : "park-cemetery-etc-Bronx",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "540"
+}
+, {
+  "nta_code" : "BK09",
+  "year" : "2000",
+  "nta_name" : "Brooklyn Heights-Cobble Hill",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "22548"
+}
+, {
+  "nta_code" : "BK17",
+  "year" : "2000",
+  "nta_name" : "Sheepshead Bay-Gerritsen Beach-Manhattn Bch",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "64596"
+}
+, {
+  "nta_code" : "BK19",
+  "year" : "2000",
+  "nta_name" : "Brighton Beach",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "35244"
+}
+, {
+  "nta_code" : "BK21",
+  "year" : "2000",
+  "nta_name" : "Seagate-Coney Island",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "34267"
+}
+, {
+  "nta_code" : "BK23",
+  "year" : "2000",
+  "nta_name" : "West Brighton",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "17370"
+}
+, {
+  "nta_code" : "BK25",
+  "year" : "2000",
+  "nta_name" : "Homecrest",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "45679"
+}
+, {
+  "nta_code" : "BK26",
+  "year" : "2000",
+  "nta_name" : "Gravesend",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "29257"
+}
+, {
+  "nta_code" : "BK27",
+  "year" : "2000",
+  "nta_name" : "Bath Beach",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "28572"
+}
+, {
+  "nta_code" : "BK28",
+  "year" : "2000",
+  "nta_name" : "Bensonhurst West",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "84640"
+}
+, {
+  "nta_code" : "BK29",
+  "year" : "2000",
+  "nta_name" : "Bensonhurst East",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "58566"
+}
+, {
+  "nta_code" : "BK30",
+  "year" : "2000",
+  "nta_name" : "Dyker Heights",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "39332"
+}
+, {
+  "nta_code" : "BK31",
+  "year" : "2000",
+  "nta_name" : "Bay Ridge",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "80539"
+}
+, {
+  "nta_code" : "BK32",
+  "year" : "2000",
+  "nta_name" : "Sunset Park West",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "52312"
+}
+, {
+  "nta_code" : "BK33",
+  "year" : "2000",
+  "nta_name" : "Carroll Gardens-Columbia Street-Red Hook",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "38327"
+}
+, {
+  "nta_code" : "BK34",
+  "year" : "2000",
+  "nta_name" : "Sunset Park East",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "66150"
+}
+, {
+  "nta_code" : "BK35",
+  "year" : "2000",
+  "nta_name" : "Stuyvesant Heights",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "61827"
+}
+, {
+  "nta_code" : "BK37",
+  "year" : "2000",
+  "nta_name" : "Park Slope-Gowanus",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "67263"
+}
+, {
+  "nta_code" : "BK38",
+  "year" : "2000",
+  "nta_name" : "DUMBO-Vinegar Hill-Downtown Brklyn-Boerum Hill",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "30847"
+}
+, {
+  "nta_code" : "BK40",
+  "year" : "2000",
+  "nta_name" : "Windsor Terrace",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "20779"
+}
+, {
+  "nta_code" : "BK41",
+  "year" : "2000",
+  "nta_name" : "Kensington-Ocean Parkway",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "36937"
+}
+, {
+  "nta_code" : "BK42",
+  "year" : "2000",
+  "nta_name" : "Flatbush",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "110875"
+}
+, {
+  "nta_code" : "BK43",
+  "year" : "2000",
+  "nta_name" : "Midwood",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "55440"
+}
+, {
+  "nta_code" : "BK44",
+  "year" : "2000",
+  "nta_name" : "Madison",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "39076"
+}
+, {
+  "nta_code" : "BK45",
+  "year" : "2000",
+  "nta_name" : "Georgetown-Marine Park-Bergen Beach-Mill Basin",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "42940"
+}
+, {
+  "nta_code" : "BK46",
+  "year" : "2000",
+  "nta_name" : "Ocean Parkway South",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "20556"
+}
+, {
+  "nta_code" : "BK50",
+  "year" : "2000",
+  "nta_name" : "Canarsie",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "85058"
+}
+, {
+  "nta_code" : "BK58",
+  "year" : "2000",
+  "nta_name" : "Flatlands",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "66726"
+}
+, {
+  "nta_code" : "BK60",
+  "year" : "2000",
+  "nta_name" : "Prospect Lefferts Gardens-Wingate",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "70300"
+}
+, {
+  "nta_code" : "BK61",
+  "year" : "2000",
+  "nta_name" : "Crown Heights North",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "103462"
+}
+, {
+  "nta_code" : "BK63",
+  "year" : "2000",
+  "nta_name" : "Crown Heights South",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "42370"
+}
+, {
+  "nta_code" : "BK64",
+  "year" : "2000",
+  "nta_name" : "Prospect Heights",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "19655"
+}
+, {
+  "nta_code" : "BK68",
+  "year" : "2000",
+  "nta_name" : "Fort Greene",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "28335"
+}
+, {
+  "nta_code" : "BK69",
+  "year" : "2000",
+  "nta_name" : "Clinton Hill",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "33292"
+}
+, {
+  "nta_code" : "BK72",
+  "year" : "2000",
+  "nta_name" : "Williamsburg",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "32269"
+}
+, {
+  "nta_code" : "BK73",
+  "year" : "2000",
+  "nta_name" : "North Side-South Side",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "40130"
+}
+, {
+  "nta_code" : "BK75",
+  "year" : "2000",
+  "nta_name" : "Bedford",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "59227"
+}
+, {
+  "nta_code" : "BK76",
+  "year" : "2000",
+  "nta_name" : "Greenpoint",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "37821"
+}
+, {
+  "nta_code" : "BK77",
+  "year" : "2000",
+  "nta_name" : "Bushwick North",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "56093"
+}
+, {
+  "nta_code" : "BK78",
+  "year" : "2000",
+  "nta_name" : "Bushwick South",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "64617"
+}
+, {
+  "nta_code" : "BK79",
+  "year" : "2000",
+  "nta_name" : "Ocean Hill",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "30067"
+}
+, {
+  "nta_code" : "BK81",
+  "year" : "2000",
+  "nta_name" : "Brownsville",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "59099"
+}
+, {
+  "nta_code" : "BK82",
+  "year" : "2000",
+  "nta_name" : "East New York",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "83275"
+}
+, {
+  "nta_code" : "BK83",
+  "year" : "2000",
+  "nta_name" : "Cypress Hills-City Line",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "48961"
+}
+, {
+  "nta_code" : "BK85",
+  "year" : "2000",
+  "nta_name" : "East New York (Pennsylvania Ave)",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "27624"
+}
+, {
+  "nta_code" : "BK88",
+  "year" : "2000",
+  "nta_name" : "Borough Park",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "101055"
+}
+, {
+  "nta_code" : "BK90",
+  "year" : "2000",
+  "nta_name" : "East Williamsburg",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "31878"
+}
+, {
+  "nta_code" : "BK91",
+  "year" : "2000",
+  "nta_name" : "East Flatbush-Farragut",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "56033"
+}
+, {
+  "nta_code" : "BK93",
+  "year" : "2000",
+  "nta_name" : "Starrett City",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "14621"
+}
+, {
+  "nta_code" : "BK95",
+  "year" : "2000",
+  "nta_name" : "Erasmus",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "31392"
+}
+, {
+  "nta_code" : "BK96",
+  "year" : "2000",
+  "nta_name" : "Rugby-Remsen Village",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "57934"
+}
+, {
+  "nta_code" : "BK99",
+  "year" : "2000",
+  "nta_name" : "park-cemetery-etc-Brooklyn",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "93"
+}
+, {
+  "nta_code" : "MN01",
+  "year" : "2000",
+  "nta_name" : "Marble Hill-Inwood",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "49087"
+}
+, {
+  "nta_code" : "MN03",
+  "year" : "2000",
+  "nta_name" : "Central Harlem North-Polo Grounds",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "70016"
+}
+, {
+  "nta_code" : "MN04",
+  "year" : "2000",
+  "nta_name" : "Hamilton Heights",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "50555"
+}
+, {
+  "nta_code" : "MN06",
+  "year" : "2000",
+  "nta_name" : "Manhattanville",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "24772"
+}
+, {
+  "nta_code" : "MN09",
+  "year" : "2000",
+  "nta_name" : "Morningside Heights",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "54208"
+}
+, {
+  "nta_code" : "MN11",
+  "year" : "2000",
+  "nta_name" : "Central Harlem South",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "39075"
+}
+, {
+  "nta_code" : "MN12",
+  "year" : "2000",
+  "nta_name" : "Upper West Side",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "136954"
+}
+, {
+  "nta_code" : "MN13",
+  "year" : "2000",
+  "nta_name" : "Hudson Yards-Chelsea-Flat Iron-Union Square",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "55839"
+}
+, {
+  "nta_code" : "MN14",
+  "year" : "2000",
+  "nta_name" : "Lincoln Square",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "55239"
+}
+, {
+  "nta_code" : "MN15",
+  "year" : "2000",
+  "nta_name" : "Clinton",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "40595"
+}
+, {
+  "nta_code" : "MN17",
+  "year" : "2000",
+  "nta_name" : "Midtown-Midtown South",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "25807"
+}
+, {
+  "nta_code" : "MN19",
+  "year" : "2000",
+  "nta_name" : "Turtle Bay-East Midtown",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "49737"
+}
+, {
+  "nta_code" : "MN20",
+  "year" : "2000",
+  "nta_name" : "Murray Hill-Kips Bay",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "48419"
+}
+, {
+  "nta_code" : "MN21",
+  "year" : "2000",
+  "nta_name" : "Gramercy",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "26184"
+}
+, {
+  "nta_code" : "MN22",
+  "year" : "2000",
+  "nta_name" : "East Village",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "41746"
+}
+, {
+  "nta_code" : "MN23",
+  "year" : "2000",
+  "nta_name" : "West Village",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "68483"
+}
+, {
+  "nta_code" : "MN24",
+  "year" : "2000",
+  "nta_name" : "SoHo-TriBeCa-Civic Center-Little Italy",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "36757"
+}
+, {
+  "nta_code" : "MN25",
+  "year" : "2000",
+  "nta_name" : "Battery Park City-Lower Manhattan",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "20088"
+}
+, {
+  "nta_code" : "MN27",
+  "year" : "2000",
+  "nta_name" : "Chinatown",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "52375"
+}
+, {
+  "nta_code" : "MN28",
+  "year" : "2000",
+  "nta_name" : "Lower East Side",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "72258"
+}
+, {
+  "nta_code" : "MN31",
+  "year" : "2000",
+  "nta_name" : "Lenox Hill-Roosevelt Island",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "76631"
+}
+, {
+  "nta_code" : "MN32",
+  "year" : "2000",
+  "nta_name" : "Yorkville",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "76768"
+}
+, {
+  "nta_code" : "MN33",
+  "year" : "2000",
+  "nta_name" : "East Harlem South",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "56899"
+}
+, {
+  "nta_code" : "MN34",
+  "year" : "2000",
+  "nta_name" : "East Harlem North",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "57148"
+}
+, {
+  "nta_code" : "MN35",
+  "year" : "2000",
+  "nta_name" : "Washington Heights North",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "73457"
+}
+, {
+  "nta_code" : "MN36",
+  "year" : "2000",
+  "nta_name" : "Washington Heights South",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "93671"
+}
+, {
+  "nta_code" : "MN40",
+  "year" : "2000",
+  "nta_name" : "Upper East Side-Carnegie Hill",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "63664"
+}
+, {
+  "nta_code" : "MN50",
+  "year" : "2000",
+  "nta_name" : "Stuyvesant Town-Cooper Village",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "19101"
+}
+, {
+  "nta_code" : "MN99",
+  "year" : "2000",
+  "nta_name" : "park-cemetery-etc-Manhattan",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "1662"
+}
+, {
+  "nta_code" : "QN01",
+  "year" : "2000",
+  "nta_name" : "South Jamaica",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "35181"
+}
+, {
+  "nta_code" : "QN02",
+  "year" : "2000",
+  "nta_name" : "Springfield Gardens North",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "25441"
+}
+, {
+  "nta_code" : "QN03",
+  "year" : "2000",
+  "nta_name" : "Springfield Gardens South-Brookville",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "18950"
+}
+, {
+  "nta_code" : "QN05",
+  "year" : "2000",
+  "nta_name" : "Rosedale",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "25502"
+}
+, {
+  "nta_code" : "QN06",
+  "year" : "2000",
+  "nta_name" : "Jamaica Estates-Holliswood",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "26061"
+}
+, {
+  "nta_code" : "QN07",
+  "year" : "2000",
+  "nta_name" : "Hollis",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "20747"
+}
+, {
+  "nta_code" : "QN08",
+  "year" : "2000",
+  "nta_name" : "St. Albans",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "50046"
+}
+, {
+  "nta_code" : "QN10",
+  "year" : "2000",
+  "nta_name" : "Breezy Point-Belle Harbor-Rockwy Prk-Broad Chnl",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "26711"
+}
+, {
+  "nta_code" : "QN12",
+  "year" : "2000",
+  "nta_name" : "Hammels-Arverne-Edgemere",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "31645"
+}
+, {
+  "nta_code" : "QN15",
+  "year" : "2000",
+  "nta_name" : "Far Rockaway-Bayswater",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "48344"
+}
+, {
+  "nta_code" : "QN17",
+  "year" : "2000",
+  "nta_name" : "Forest Hills",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "85046"
+}
+, {
+  "nta_code" : "QN18",
+  "year" : "2000",
+  "nta_name" : "Rego Park",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "29404"
+}
+, {
+  "nta_code" : "QN19",
+  "year" : "2000",
+  "nta_name" : "Glendale",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "31071"
+}
+, {
+  "nta_code" : "QN20",
+  "year" : "2000",
+  "nta_name" : "Ridgewood",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "69455"
+}
+, {
+  "nta_code" : "QN21",
+  "year" : "2000",
+  "nta_name" : "Middle Village",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "37629"
+}
+, {
+  "nta_code" : "QN22",
+  "year" : "2000",
+  "nta_name" : "Flushing",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "69362"
+}
+, {
+  "nta_code" : "QN23",
+  "year" : "2000",
+  "nta_name" : "College Point",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "21407"
+}
+, {
+  "nta_code" : "QN25",
+  "year" : "2000",
+  "nta_name" : "Corona",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "52082"
+}
+, {
+  "nta_code" : "QN26",
+  "year" : "2000",
+  "nta_name" : "North Corona",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "47156"
+}
+, {
+  "nta_code" : "QN27",
+  "year" : "2000",
+  "nta_name" : "East Elmhurst",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "21183"
+}
+, {
+  "nta_code" : "QN28",
+  "year" : "2000",
+  "nta_name" : "Jackson Heights",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "113327"
+}
+, {
+  "nta_code" : "QN29",
+  "year" : "2000",
+  "nta_name" : "Elmhurst",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "87972"
+}
+, {
+  "nta_code" : "QN30",
+  "year" : "2000",
+  "nta_name" : "Maspeth",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "28916"
+}
+, {
+  "nta_code" : "QN31",
+  "year" : "2000",
+  "nta_name" : "Hunters Point-Sunnyside-West Maspeth",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "61947"
+}
+, {
+  "nta_code" : "QN33",
+  "year" : "2000",
+  "nta_name" : "Cambria Heights",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "20944"
+}
+, {
+  "nta_code" : "QN34",
+  "year" : "2000",
+  "nta_name" : "Queens Village",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "57704"
+}
+, {
+  "nta_code" : "QN35",
+  "year" : "2000",
+  "nta_name" : "Briarwood-Jamaica Hills",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "38675"
+}
+, {
+  "nta_code" : "QN37",
+  "year" : "2000",
+  "nta_name" : "Kew Gardens Hills",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "36052"
+}
+, {
+  "nta_code" : "QN38",
+  "year" : "2000",
+  "nta_name" : "Pomonok-Flushing Heights-Hillcrest",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "31734"
+}
+, {
+  "nta_code" : "QN41",
+  "year" : "2000",
+  "nta_name" : "Fresh Meadows-Utopia",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "17373"
+}
+, {
+  "nta_code" : "QN42",
+  "year" : "2000",
+  "nta_name" : "Oakland Gardens",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "27873"
+}
+, {
+  "nta_code" : "QN43",
+  "year" : "2000",
+  "nta_name" : "Bellerose",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "24464"
+}
+, {
+  "nta_code" : "QN44",
+  "year" : "2000",
+  "nta_name" : "Glen Oaks-Floral Park-New Hyde Park",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "22426"
+}
+, {
+  "nta_code" : "QN45",
+  "year" : "2000",
+  "nta_name" : "Douglas Manor-Douglaston-Little Neck",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "24356"
+}
+, {
+  "nta_code" : "QN46",
+  "year" : "2000",
+  "nta_name" : "Bayside-Bayside Hills",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "44371"
+}
+, {
+  "nta_code" : "QN47",
+  "year" : "2000",
+  "nta_name" : "Ft. Totten-Bay Terrace-Clearview",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "22731"
+}
+, {
+  "nta_code" : "QN48",
+  "year" : "2000",
+  "nta_name" : "Auburndale",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "20201"
+}
+, {
+  "nta_code" : "QN49",
+  "year" : "2000",
+  "nta_name" : "Whitestone",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "31356"
+}
+, {
+  "nta_code" : "QN50",
+  "year" : "2000",
+  "nta_name" : "Elmhurst-Maspeth",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "24338"
+}
+, {
+  "nta_code" : "QN51",
+  "year" : "2000",
+  "nta_name" : "Murray Hill",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "53009"
+}
+, {
+  "nta_code" : "QN52",
+  "year" : "2000",
+  "nta_name" : "East Flushing",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "26516"
+}
+, {
+  "nta_code" : "QN53",
+  "year" : "2000",
+  "nta_name" : "Woodhaven",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "54149"
+}
+, {
+  "nta_code" : "QN54",
+  "year" : "2000",
+  "nta_name" : "Richmond Hill",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "62985"
+}
+, {
+  "nta_code" : "QN55",
+  "year" : "2000",
+  "nta_name" : "South Ozone Park",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "78906"
+}
+, {
+  "nta_code" : "QN56",
+  "year" : "2000",
+  "nta_name" : "Ozone Park",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "21052"
+}
+, {
+  "nta_code" : "QN57",
+  "year" : "2000",
+  "nta_name" : "Lindenwood-Howard Beach",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "28121"
+}
+, {
+  "nta_code" : "QN60",
+  "year" : "2000",
+  "nta_name" : "Kew Gardens",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "23888"
+}
+, {
+  "nta_code" : "QN61",
+  "year" : "2000",
+  "nta_name" : "Jamaica",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "51849"
+}
+, {
+  "nta_code" : "QN62",
+  "year" : "2000",
+  "nta_name" : "Queensboro Hill",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "19309"
+}
+, {
+  "nta_code" : "QN63",
+  "year" : "2000",
+  "nta_name" : "Woodside",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "43846"
+}
+, {
+  "nta_code" : "QN66",
+  "year" : "2000",
+  "nta_name" : "Laurelton",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "26375"
+}
+, {
+  "nta_code" : "QN68",
+  "year" : "2000",
+  "nta_name" : "Queensbridge-Ravenswood-Long Island City",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "21104"
+}
+, {
+  "nta_code" : "QN70",
+  "year" : "2000",
+  "nta_name" : "Astoria",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "89122"
+}
+, {
+  "nta_code" : "QN71",
+  "year" : "2000",
+  "nta_name" : "Old Astoria",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "28847"
+}
+, {
+  "nta_code" : "QN72",
+  "year" : "2000",
+  "nta_name" : "Steinway",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "53604"
+}
+, {
+  "nta_code" : "QN76",
+  "year" : "2000",
+  "nta_name" : "Baisley Park",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "35729"
+}
+, {
+  "nta_code" : "QN98",
+  "year" : "2000",
+  "nta_name" : "Airport",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "0"
+}
+, {
+  "nta_code" : "QN99",
+  "year" : "2000",
+  "nta_name" : "park-cemetery-etc-Queens",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "1785"
+}
+, {
+  "nta_code" : "SI01",
+  "year" : "2000",
+  "nta_name" : "Annadale-Huguenot-Prince's Bay-Eltingville",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "26376"
+}
+, {
+  "nta_code" : "SI05",
+  "year" : "2000",
+  "nta_name" : "New Springville-Bloomfield-Travis",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "39309"
+}
+, {
+  "nta_code" : "SI07",
+  "year" : "2000",
+  "nta_name" : "Westerleigh",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "23790"
+}
+, {
+  "nta_code" : "SI08",
+  "year" : "2000",
+  "nta_name" : "Grymes Hill-Clifton-Fox Hills",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "19834"
+}
+, {
+  "nta_code" : "SI11",
+  "year" : "2000",
+  "nta_name" : "Charleston-Richmond Valley-Tottenville",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "18332"
+}
+, {
+  "nta_code" : "SI12",
+  "year" : "2000",
+  "nta_name" : "Mariner's Harbor-Arlington-Port Ivory-Graniteville",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "27957"
+}
+, {
+  "nta_code" : "SI14",
+  "year" : "2000",
+  "nta_name" : "Grasmere-Arrochar-Ft. Wadsworth",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "15238"
+}
+, {
+  "nta_code" : "SI22",
+  "year" : "2000",
+  "nta_name" : "West New Brighton-New Brighton-St. George",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "32154"
+}
+, {
+  "nta_code" : "SI24",
+  "year" : "2000",
+  "nta_name" : "Todt Hill-Emersn Hill-Heartland Villg-Lighthse Hill",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "30762"
+}
+, {
+  "nta_code" : "SI25",
+  "year" : "2000",
+  "nta_name" : "Oakwood-Oakwood Beach",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "22266"
+}
+, {
+  "nta_code" : "SI28",
+  "year" : "2000",
+  "nta_name" : "Port Richmond",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "18042"
+}
+, {
+  "nta_code" : "SI32",
+  "year" : "2000",
+  "nta_name" : "Rossville-Woodrow",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "18894"
+}
+, {
+  "nta_code" : "SI35",
+  "year" : "2000",
+  "nta_name" : "New Brighton-Silver Lake",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "16784"
+}
+, {
+  "nta_code" : "SI36",
+  "year" : "2000",
+  "nta_name" : "Old Town-Dongan Hills-South Beach",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "23017"
+}
+, {
+  "nta_code" : "SI37",
+  "year" : "2000",
+  "nta_name" : "Stapleton-Rosebank",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "24048"
+}
+, {
+  "nta_code" : "SI45",
+  "year" : "2000",
+  "nta_name" : "New Dorp-Midland Beach",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "20242"
+}
+, {
+  "nta_code" : "SI48",
+  "year" : "2000",
+  "nta_name" : "Arden Heights",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "24996"
+}
+, {
+  "nta_code" : "SI54",
+  "year" : "2000",
+  "nta_name" : "Great Kills",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "41680"
+}
+, {
+  "nta_code" : "SI99",
+  "year" : "2000",
+  "nta_name" : "park-cemetery-etc-Staten Island",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "7"
+}
+, {
+  "nta_code" : "BX01",
+  "year" : "2010",
+  "nta_name" : "Claremont-Bathgate",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "31078"
+}
+, {
+  "nta_code" : "BX03",
+  "year" : "2010",
+  "nta_name" : "Eastchester-Edenwald-Baychester",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "34517"
+}
+, {
+  "nta_code" : "BX05",
+  "year" : "2010",
+  "nta_name" : "Bedford Park-Fordham North",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "54415"
+}
+, {
+  "nta_code" : "BX06",
+  "year" : "2010",
+  "nta_name" : "Belmont",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "27378"
+}
+, {
+  "nta_code" : "BX07",
+  "year" : "2010",
+  "nta_name" : "Bronxdale",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "35538"
+}
+, {
+  "nta_code" : "BX08",
+  "year" : "2010",
+  "nta_name" : "West Farms-Bronx River",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "35011"
+}
+, {
+  "nta_code" : "BX09",
+  "year" : "2010",
+  "nta_name" : "Soundview-Castle Hill-Clason Point-Harding Park",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "53686"
+}
+, {
+  "nta_code" : "BX10",
+  "year" : "2010",
+  "nta_name" : "Pelham Bay-Country Club-City Island",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "26583"
+}
+, {
+  "nta_code" : "BX13",
+  "year" : "2010",
+  "nta_name" : "Co-Op City",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "43752"
+}
+, {
+  "nta_code" : "BX14",
+  "year" : "2010",
+  "nta_name" : "East Concourse-Concourse Village",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "62284"
+}
+, {
+  "nta_code" : "BX17",
+  "year" : "2010",
+  "nta_name" : "East Tremont",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "43423"
+}
+, {
+  "nta_code" : "BX22",
+  "year" : "2010",
+  "nta_name" : "North Riverdale-Fieldston-Riverdale",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "27860"
+}
+, {
+  "nta_code" : "BX26",
+  "year" : "2010",
+  "nta_name" : "Highbridge",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "37727"
+}
+, {
+  "nta_code" : "BX27",
+  "year" : "2010",
+  "nta_name" : "Hunts Point",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "27204"
+}
+, {
+  "nta_code" : "BX28",
+  "year" : "2010",
+  "nta_name" : "Van Cortlandt Village",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "50100"
+}
+, {
+  "nta_code" : "BX29",
+  "year" : "2010",
+  "nta_name" : "Spuyten Duyvil-Kingsbridge",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "30161"
+}
+, {
+  "nta_code" : "BX30",
+  "year" : "2010",
+  "nta_name" : "Kingsbridge Heights",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "32496"
+}
+, {
+  "nta_code" : "BX31",
+  "year" : "2010",
+  "nta_name" : "Allerton-Pelham Gardens",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "28903"
+}
+, {
+  "nta_code" : "BX33",
+  "year" : "2010",
+  "nta_name" : "Longwood",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "26196"
+}
+, {
+  "nta_code" : "BX34",
+  "year" : "2010",
+  "nta_name" : "Melrose South-Mott Haven North",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "39214"
+}
+, {
+  "nta_code" : "BX35",
+  "year" : "2010",
+  "nta_name" : "Morrisania-Melrose",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "37865"
+}
+, {
+  "nta_code" : "BX36",
+  "year" : "2010",
+  "nta_name" : "University Heights-Morris Heights",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "54188"
+}
+, {
+  "nta_code" : "BX37",
+  "year" : "2010",
+  "nta_name" : "Van Nest-Morris Park-Westchester Square",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "29250"
+}
+, {
+  "nta_code" : "BX39",
+  "year" : "2010",
+  "nta_name" : "Mott Haven-Port Morris",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "52413"
+}
+, {
+  "nta_code" : "BX40",
+  "year" : "2010",
+  "nta_name" : "Fordham South",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "28262"
+}
+, {
+  "nta_code" : "BX41",
+  "year" : "2010",
+  "nta_name" : "Mount Hope",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "51807"
+}
+, {
+  "nta_code" : "BX43",
+  "year" : "2010",
+  "nta_name" : "Norwood",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "40494"
+}
+, {
+  "nta_code" : "BX44",
+  "year" : "2010",
+  "nta_name" : "Williamsbridge-Olinville",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "61321"
+}
+, {
+  "nta_code" : "BX46",
+  "year" : "2010",
+  "nta_name" : "Parkchester",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "29821"
+}
+, {
+  "nta_code" : "BX49",
+  "year" : "2010",
+  "nta_name" : "Pelham Parkway",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "30073"
+}
+, {
+  "nta_code" : "BX52",
+  "year" : "2010",
+  "nta_name" : "Schuylerville-Throgs Neck-Edgewater Park",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "44167"
+}
+, {
+  "nta_code" : "BX55",
+  "year" : "2010",
+  "nta_name" : "Soundview-Bruckner",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "35634"
+}
+, {
+  "nta_code" : "BX59",
+  "year" : "2010",
+  "nta_name" : "Westchester-Unionport",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "27248"
+}
+, {
+  "nta_code" : "BX62",
+  "year" : "2010",
+  "nta_name" : "Woodlawn-Wakefield",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "42483"
+}
+, {
+  "nta_code" : "BX63",
+  "year" : "2010",
+  "nta_name" : "West Concourse",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "39282"
+}
+, {
+  "nta_code" : "BX75",
+  "year" : "2010",
+  "nta_name" : "Crotona Park East",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "20277"
+}
+, {
+  "nta_code" : "BX98",
+  "year" : "2010",
+  "nta_name" : "Rikers Island",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "11091"
+}
+, {
+  "nta_code" : "BX99",
+  "year" : "2010",
+  "nta_name" : "park-cemetery-etc-Bronx",
+  "borough" : "Bronx",
+  "fips_county_code" : "005",
+  "population" : "1906"
+}
+, {
+  "nta_code" : "BK09",
+  "year" : "2010",
+  "nta_name" : "Brooklyn Heights-Cobble Hill",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "22887"
+}
+, {
+  "nta_code" : "BK17",
+  "year" : "2010",
+  "nta_name" : "Sheepshead Bay-Gerritsen Beach-Manhattn Bch",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "64518"
+}
+, {
+  "nta_code" : "BK19",
+  "year" : "2010",
+  "nta_name" : "Brighton Beach",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "35547"
+}
+, {
+  "nta_code" : "BK21",
+  "year" : "2010",
+  "nta_name" : "Seagate-Coney Island",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "31965"
+}
+, {
+  "nta_code" : "BK23",
+  "year" : "2010",
+  "nta_name" : "West Brighton",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "17750"
+}
+, {
+  "nta_code" : "BK25",
+  "year" : "2010",
+  "nta_name" : "Homecrest",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "44316"
+}
+, {
+  "nta_code" : "BK26",
+  "year" : "2010",
+  "nta_name" : "Gravesend",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "29436"
+}
+, {
+  "nta_code" : "BK27",
+  "year" : "2010",
+  "nta_name" : "Bath Beach",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "29931"
+}
+, {
+  "nta_code" : "BK28",
+  "year" : "2010",
+  "nta_name" : "Bensonhurst West",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "88727"
+}
+, {
+  "nta_code" : "BK29",
+  "year" : "2010",
+  "nta_name" : "Bensonhurst East",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "62978"
+}
+, {
+  "nta_code" : "BK30",
+  "year" : "2010",
+  "nta_name" : "Dyker Heights",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "42419"
+}
+, {
+  "nta_code" : "BK31",
+  "year" : "2010",
+  "nta_name" : "Bay Ridge",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "79371"
+}
+, {
+  "nta_code" : "BK32",
+  "year" : "2010",
+  "nta_name" : "Sunset Park West",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "54041"
+}
+, {
+  "nta_code" : "BK33",
+  "year" : "2010",
+  "nta_name" : "Carroll Gardens-Columbia Street-Red Hook",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "38353"
+}
+, {
+  "nta_code" : "BK34",
+  "year" : "2010",
+  "nta_name" : "Sunset Park East",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "72340"
+}
+, {
+  "nta_code" : "BK35",
+  "year" : "2010",
+  "nta_name" : "Stuyvesant Heights",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "63504"
+}
+, {
+  "nta_code" : "BK37",
+  "year" : "2010",
+  "nta_name" : "Park Slope-Gowanus",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "67649"
+}
+, {
+  "nta_code" : "BK38",
+  "year" : "2010",
+  "nta_name" : "DUMBO-Vinegar Hill-Downtown Brklyn-Boerum Hill",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "34495"
+}
+, {
+  "nta_code" : "BK40",
+  "year" : "2010",
+  "nta_name" : "Windsor Terrace",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "20988"
+}
+, {
+  "nta_code" : "BK41",
+  "year" : "2010",
+  "nta_name" : "Kensington-Ocean Parkway",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "36891"
+}
+, {
+  "nta_code" : "BK42",
+  "year" : "2010",
+  "nta_name" : "Flatbush",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "105804"
+}
+, {
+  "nta_code" : "BK43",
+  "year" : "2010",
+  "nta_name" : "Midwood",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "52835"
+}
+, {
+  "nta_code" : "BK44",
+  "year" : "2010",
+  "nta_name" : "Madison",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "38917"
+}
+, {
+  "nta_code" : "BK45",
+  "year" : "2010",
+  "nta_name" : "Georgetown-Marine Park-Bergen Beach-Mill Basin",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "45231"
+}
+, {
+  "nta_code" : "BK46",
+  "year" : "2010",
+  "nta_name" : "Ocean Parkway South",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "20299"
+}
+, {
+  "nta_code" : "BK50",
+  "year" : "2010",
+  "nta_name" : "Canarsie",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "83693"
+}
+, {
+  "nta_code" : "BK58",
+  "year" : "2010",
+  "nta_name" : "Flatlands",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "64762"
+}
+, {
+  "nta_code" : "BK60",
+  "year" : "2010",
+  "nta_name" : "Prospect Lefferts Gardens-Wingate",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "67459"
+}
+, {
+  "nta_code" : "BK61",
+  "year" : "2010",
+  "nta_name" : "Crown Heights North",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "103169"
+}
+, {
+  "nta_code" : "BK63",
+  "year" : "2010",
+  "nta_name" : "Crown Heights South",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "39670"
+}
+, {
+  "nta_code" : "BK64",
+  "year" : "2010",
+  "nta_name" : "Prospect Heights",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "19849"
+}
+, {
+  "nta_code" : "BK68",
+  "year" : "2010",
+  "nta_name" : "Fort Greene",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "26079"
+}
+, {
+  "nta_code" : "BK69",
+  "year" : "2010",
+  "nta_name" : "Clinton Hill",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "34791"
+}
+, {
+  "nta_code" : "BK72",
+  "year" : "2010",
+  "nta_name" : "Williamsburg",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "32926"
+}
+, {
+  "nta_code" : "BK73",
+  "year" : "2010",
+  "nta_name" : "North Side-South Side",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "45774"
+}
+, {
+  "nta_code" : "BK75",
+  "year" : "2010",
+  "nta_name" : "Bedford",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "70713"
+}
+, {
+  "nta_code" : "BK76",
+  "year" : "2010",
+  "nta_name" : "Greenpoint",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "34719"
+}
+, {
+  "nta_code" : "BK77",
+  "year" : "2010",
+  "nta_name" : "Bushwick North",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "57138"
+}
+, {
+  "nta_code" : "BK78",
+  "year" : "2010",
+  "nta_name" : "Bushwick South",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "72101"
+}
+, {
+  "nta_code" : "BK79",
+  "year" : "2010",
+  "nta_name" : "Ocean Hill",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "31935"
+}
+, {
+  "nta_code" : "BK81",
+  "year" : "2010",
+  "nta_name" : "Brownsville",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "58300"
+}
+, {
+  "nta_code" : "BK82",
+  "year" : "2010",
+  "nta_name" : "East New York",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "91958"
+}
+, {
+  "nta_code" : "BK83",
+  "year" : "2010",
+  "nta_name" : "Cypress Hills-City Line",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "49223"
+}
+, {
+  "nta_code" : "BK85",
+  "year" : "2010",
+  "nta_name" : "East New York (Pennsylvania Ave)",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "29343"
+}
+, {
+  "nta_code" : "BK88",
+  "year" : "2010",
+  "nta_name" : "Borough Park",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "106357"
+}
+, {
+  "nta_code" : "BK90",
+  "year" : "2010",
+  "nta_name" : "East Williamsburg",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "34158"
+}
+, {
+  "nta_code" : "BK91",
+  "year" : "2010",
+  "nta_name" : "East Flatbush-Farragut",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "50355"
+}
+, {
+  "nta_code" : "BK93",
+  "year" : "2010",
+  "nta_name" : "Starrett City",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "13354"
+}
+, {
+  "nta_code" : "BK95",
+  "year" : "2010",
+  "nta_name" : "Erasmus",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "29938"
+}
+, {
+  "nta_code" : "BK96",
+  "year" : "2010",
+  "nta_name" : "Rugby-Remsen Village",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "55326"
+}
+, {
+  "nta_code" : "BK99",
+  "year" : "2010",
+  "nta_name" : "park-cemetery-etc-Brooklyn",
+  "borough" : "Brooklyn",
+  "fips_county_code" : "047",
+  "population" : "418"
+}
+, {
+  "nta_code" : "MN01",
+  "year" : "2010",
+  "nta_name" : "Marble Hill-Inwood",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "46746"
+}
+, {
+  "nta_code" : "MN03",
+  "year" : "2010",
+  "nta_name" : "Central Harlem North-Polo Grounds",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "75282"
+}
+, {
+  "nta_code" : "MN04",
+  "year" : "2010",
+  "nta_name" : "Hamilton Heights",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "48520"
+}
+, {
+  "nta_code" : "MN06",
+  "year" : "2010",
+  "nta_name" : "Manhattanville",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "22950"
+}
+, {
+  "nta_code" : "MN09",
+  "year" : "2010",
+  "nta_name" : "Morningside Heights",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "55929"
+}
+, {
+  "nta_code" : "MN11",
+  "year" : "2010",
+  "nta_name" : "Central Harlem South",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "43383"
+}
+, {
+  "nta_code" : "MN12",
+  "year" : "2010",
+  "nta_name" : "Upper West Side",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "132378"
+}
+, {
+  "nta_code" : "MN13",
+  "year" : "2010",
+  "nta_name" : "Hudson Yards-Chelsea-Flat Iron-Union Square",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "70150"
+}
+, {
+  "nta_code" : "MN14",
+  "year" : "2010",
+  "nta_name" : "Lincoln Square",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "61489"
+}
+, {
+  "nta_code" : "MN15",
+  "year" : "2010",
+  "nta_name" : "Clinton",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "45884"
+}
+, {
+  "nta_code" : "MN17",
+  "year" : "2010",
+  "nta_name" : "Midtown-Midtown South",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "28630"
+}
+, {
+  "nta_code" : "MN19",
+  "year" : "2010",
+  "nta_name" : "Turtle Bay-East Midtown",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "51231"
+}
+, {
+  "nta_code" : "MN20",
+  "year" : "2010",
+  "nta_name" : "Murray Hill-Kips Bay",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "50742"
+}
+, {
+  "nta_code" : "MN21",
+  "year" : "2010",
+  "nta_name" : "Gramercy",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "27988"
+}
+, {
+  "nta_code" : "MN22",
+  "year" : "2010",
+  "nta_name" : "East Village",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "44136"
+}
+, {
+  "nta_code" : "MN23",
+  "year" : "2010",
+  "nta_name" : "West Village",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "66880"
+}
+, {
+  "nta_code" : "MN24",
+  "year" : "2010",
+  "nta_name" : "SoHo-TriBeCa-Civic Center-Little Italy",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "42742"
+}
+, {
+  "nta_code" : "MN25",
+  "year" : "2010",
+  "nta_name" : "Battery Park City-Lower Manhattan",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "39699"
+}
+, {
+  "nta_code" : "MN27",
+  "year" : "2010",
+  "nta_name" : "Chinatown",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "47844"
+}
+, {
+  "nta_code" : "MN28",
+  "year" : "2010",
+  "nta_name" : "Lower East Side",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "72957"
+}
+, {
+  "nta_code" : "MN31",
+  "year" : "2010",
+  "nta_name" : "Lenox Hill-Roosevelt Island",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "80771"
+}
+, {
+  "nta_code" : "MN32",
+  "year" : "2010",
+  "nta_name" : "Yorkville",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "77942"
+}
+, {
+  "nta_code" : "MN33",
+  "year" : "2010",
+  "nta_name" : "East Harlem South",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "57902"
+}
+, {
+  "nta_code" : "MN34",
+  "year" : "2010",
+  "nta_name" : "East Harlem North",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "58019"
+}
+, {
+  "nta_code" : "MN35",
+  "year" : "2010",
+  "nta_name" : "Washington Heights North",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "67136"
+}
+, {
+  "nta_code" : "MN36",
+  "year" : "2010",
+  "nta_name" : "Washington Heights South",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "84438"
+}
+, {
+  "nta_code" : "MN40",
+  "year" : "2010",
+  "nta_name" : "Upper East Side-Carnegie Hill",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "61207"
+}
+, {
+  "nta_code" : "MN50",
+  "year" : "2010",
+  "nta_name" : "Stuyvesant Town-Cooper Village",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "21049"
+}
+, {
+  "nta_code" : "MN99",
+  "year" : "2010",
+  "nta_name" : "park-cemetery-etc-Manhattan",
+  "borough" : "Manhattan",
+  "fips_county_code" : "061",
+  "population" : "1849"
+}
+, {
+  "nta_code" : "QN01",
+  "year" : "2010",
+  "nta_name" : "South Jamaica",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "38894"
+}
+, {
+  "nta_code" : "QN02",
+  "year" : "2010",
+  "nta_name" : "Springfield Gardens North",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "25409"
+}
+, {
+  "nta_code" : "QN03",
+  "year" : "2010",
+  "nta_name" : "Springfield Gardens South-Brookville",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "20132"
+}
+, {
+  "nta_code" : "QN05",
+  "year" : "2010",
+  "nta_name" : "Rosedale",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "25063"
+}
+, {
+  "nta_code" : "QN06",
+  "year" : "2010",
+  "nta_name" : "Jamaica Estates-Holliswood",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "25480"
+}
+, {
+  "nta_code" : "QN07",
+  "year" : "2010",
+  "nta_name" : "Hollis",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "20269"
+}
+, {
+  "nta_code" : "QN08",
+  "year" : "2010",
+  "nta_name" : "St. Albans",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "48593"
+}
+, {
+  "nta_code" : "QN10",
+  "year" : "2010",
+  "nta_name" : "Breezy Point-Belle Harbor-Rockwy Prk-Broad Chnl",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "28018"
+}
+, {
+  "nta_code" : "QN12",
+  "year" : "2010",
+  "nta_name" : "Hammels-Arverne-Edgemere",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "36885"
+}
+, {
+  "nta_code" : "QN15",
+  "year" : "2010",
+  "nta_name" : "Far Rockaway-Bayswater",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "50058"
+}
+, {
+  "nta_code" : "QN17",
+  "year" : "2010",
+  "nta_name" : "Forest Hills",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "83728"
+}
+, {
+  "nta_code" : "QN18",
+  "year" : "2010",
+  "nta_name" : "Rego Park",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "28260"
+}
+, {
+  "nta_code" : "QN19",
+  "year" : "2010",
+  "nta_name" : "Glendale",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "32496"
+}
+, {
+  "nta_code" : "QN20",
+  "year" : "2010",
+  "nta_name" : "Ridgewood",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "69317"
+}
+, {
+  "nta_code" : "QN21",
+  "year" : "2010",
+  "nta_name" : "Middle Village",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "37929"
+}
+, {
+  "nta_code" : "QN22",
+  "year" : "2010",
+  "nta_name" : "Flushing",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "72008"
+}
+, {
+  "nta_code" : "QN23",
+  "year" : "2010",
+  "nta_name" : "College Point",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "24275"
+}
+, {
+  "nta_code" : "QN25",
+  "year" : "2010",
+  "nta_name" : "Corona",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "57658"
+}
+, {
+  "nta_code" : "QN26",
+  "year" : "2010",
+  "nta_name" : "North Corona",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "52037"
+}
+, {
+  "nta_code" : "QN27",
+  "year" : "2010",
+  "nta_name" : "East Elmhurst",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "23150"
+}
+, {
+  "nta_code" : "QN28",
+  "year" : "2010",
+  "nta_name" : "Jackson Heights",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "108152"
+}
+, {
+  "nta_code" : "QN29",
+  "year" : "2010",
+  "nta_name" : "Elmhurst",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "88427"
+}
+, {
+  "nta_code" : "QN30",
+  "year" : "2010",
+  "nta_name" : "Maspeth",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "30516"
+}
+, {
+  "nta_code" : "QN31",
+  "year" : "2010",
+  "nta_name" : "Hunters Point-Sunnyside-West Maspeth",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "63271"
+}
+, {
+  "nta_code" : "QN33",
+  "year" : "2010",
+  "nta_name" : "Cambria Heights",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "18677"
+}
+, {
+  "nta_code" : "QN34",
+  "year" : "2010",
+  "nta_name" : "Queens Village",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "52504"
+}
+, {
+  "nta_code" : "QN35",
+  "year" : "2010",
+  "nta_name" : "Briarwood-Jamaica Hills",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "39138"
+}
+, {
+  "nta_code" : "QN37",
+  "year" : "2010",
+  "nta_name" : "Kew Gardens Hills",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "37479"
+}
+, {
+  "nta_code" : "QN38",
+  "year" : "2010",
+  "nta_name" : "Pomonok-Flushing Heights-Hillcrest",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "34034"
+}
+, {
+  "nta_code" : "QN41",
+  "year" : "2010",
+  "nta_name" : "Fresh Meadows-Utopia",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "17812"
+}
+, {
+  "nta_code" : "QN42",
+  "year" : "2010",
+  "nta_name" : "Oakland Gardens",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "28237"
+}
+, {
+  "nta_code" : "QN43",
+  "year" : "2010",
+  "nta_name" : "Bellerose",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "25287"
+}
+, {
+  "nta_code" : "QN44",
+  "year" : "2010",
+  "nta_name" : "Glen Oaks-Floral Park-New Hyde Park",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "22571"
+}
+, {
+  "nta_code" : "QN45",
+  "year" : "2010",
+  "nta_name" : "Douglas Manor-Douglaston-Little Neck",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "24739"
+}
+, {
+  "nta_code" : "QN46",
+  "year" : "2010",
+  "nta_name" : "Bayside-Bayside Hills",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "43808"
+}
+, {
+  "nta_code" : "QN47",
+  "year" : "2010",
+  "nta_name" : "Ft. Totten-Bay Terrace-Clearview",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "21751"
+}
+, {
+  "nta_code" : "QN48",
+  "year" : "2010",
+  "nta_name" : "Auburndale",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "19996"
+}
+, {
+  "nta_code" : "QN49",
+  "year" : "2010",
+  "nta_name" : "Whitestone",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "30773"
+}
+, {
+  "nta_code" : "QN50",
+  "year" : "2010",
+  "nta_name" : "Elmhurst-Maspeth",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "25521"
+}
+, {
+  "nta_code" : "QN51",
+  "year" : "2010",
+  "nta_name" : "Murray Hill",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "51739"
+}
+, {
+  "nta_code" : "QN52",
+  "year" : "2010",
+  "nta_name" : "East Flushing",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "26982"
+}
+, {
+  "nta_code" : "QN53",
+  "year" : "2010",
+  "nta_name" : "Woodhaven",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "56674"
+}
+, {
+  "nta_code" : "QN54",
+  "year" : "2010",
+  "nta_name" : "Richmond Hill",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "62982"
+}
+, {
+  "nta_code" : "QN55",
+  "year" : "2010",
+  "nta_name" : "South Ozone Park",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "75878"
+}
+, {
+  "nta_code" : "QN56",
+  "year" : "2010",
+  "nta_name" : "Ozone Park",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "21376"
+}
+, {
+  "nta_code" : "QN57",
+  "year" : "2010",
+  "nta_name" : "Lindenwood-Howard Beach",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "26148"
+}
+, {
+  "nta_code" : "QN60",
+  "year" : "2010",
+  "nta_name" : "Kew Gardens",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "23278"
+}
+, {
+  "nta_code" : "QN61",
+  "year" : "2010",
+  "nta_name" : "Jamaica",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "53751"
+}
+, {
+  "nta_code" : "QN62",
+  "year" : "2010",
+  "nta_name" : "Queensboro Hill",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "20800"
+}
+, {
+  "nta_code" : "QN63",
+  "year" : "2010",
+  "nta_name" : "Woodside",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "45099"
+}
+, {
+  "nta_code" : "QN66",
+  "year" : "2010",
+  "nta_name" : "Laurelton",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "24453"
+}
+, {
+  "nta_code" : "QN68",
+  "year" : "2010",
+  "nta_name" : "Queensbridge-Ravenswood-Long Island City",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "20030"
+}
+, {
+  "nta_code" : "QN70",
+  "year" : "2010",
+  "nta_name" : "Astoria",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "78793"
+}
+, {
+  "nta_code" : "QN71",
+  "year" : "2010",
+  "nta_name" : "Old Astoria",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "27814"
+}
+, {
+  "nta_code" : "QN72",
+  "year" : "2010",
+  "nta_name" : "Steinway",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "47534"
+}
+, {
+  "nta_code" : "QN76",
+  "year" : "2010",
+  "nta_name" : "Baisley Park",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "34603"
+}
+, {
+  "nta_code" : "QN98",
+  "year" : "2010",
+  "nta_name" : "Airport",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "0"
+}
+, {
+  "nta_code" : "QN99",
+  "year" : "2010",
+  "nta_name" : "park-cemetery-etc-Queens",
+  "borough" : "Queens",
+  "fips_county_code" : "081",
+  "population" : "436"
+}
+, {
+  "nta_code" : "SI01",
+  "year" : "2010",
+  "nta_name" : "Annadale-Huguenot-Prince's Bay-Eltingville",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "27770"
+}
+, {
+  "nta_code" : "SI05",
+  "year" : "2010",
+  "nta_name" : "New Springville-Bloomfield-Travis",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "39597"
+}
+, {
+  "nta_code" : "SI07",
+  "year" : "2010",
+  "nta_name" : "Westerleigh",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "24102"
+}
+, {
+  "nta_code" : "SI08",
+  "year" : "2010",
+  "nta_name" : "Grymes Hill-Clifton-Fox Hills",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "22460"
+}
+, {
+  "nta_code" : "SI11",
+  "year" : "2010",
+  "nta_name" : "Charleston-Richmond Valley-Tottenville",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "23313"
+}
+, {
+  "nta_code" : "SI12",
+  "year" : "2010",
+  "nta_name" : "Mariner's Harbor-Arlington-Port Ivory-Graniteville",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "31474"
+}
+, {
+  "nta_code" : "SI14",
+  "year" : "2010",
+  "nta_name" : "Grasmere-Arrochar-Ft. Wadsworth",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "16079"
+}
+, {
+  "nta_code" : "SI22",
+  "year" : "2010",
+  "nta_name" : "West New Brighton-New Brighton-St. George",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "33551"
+}
+, {
+  "nta_code" : "SI24",
+  "year" : "2010",
+  "nta_name" : "Todt Hill-Emersn Hill-Heartland Villg-Lighthse Hill",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "30714"
+}
+, {
+  "nta_code" : "SI25",
+  "year" : "2010",
+  "nta_name" : "Oakwood-Oakwood Beach",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "22049"
+}
+, {
+  "nta_code" : "SI28",
+  "year" : "2010",
+  "nta_name" : "Port Richmond",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "20191"
+}
+, {
+  "nta_code" : "SI32",
+  "year" : "2010",
+  "nta_name" : "Rossville-Woodrow",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "20763"
+}
+, {
+  "nta_code" : "SI35",
+  "year" : "2010",
+  "nta_name" : "New Brighton-Silver Lake",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "17525"
+}
+, {
+  "nta_code" : "SI36",
+  "year" : "2010",
+  "nta_name" : "Old Town-Dongan Hills-South Beach",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "24835"
+}
+, {
+  "nta_code" : "SI37",
+  "year" : "2010",
+  "nta_name" : "Stapleton-Rosebank",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "26453"
+}
+, {
+  "nta_code" : "SI45",
+  "year" : "2010",
+  "nta_name" : "New Dorp-Midland Beach",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "21896"
+}
+, {
+  "nta_code" : "SI48",
+  "year" : "2010",
+  "nta_name" : "Arden Heights",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "25238"
+}
+, {
+  "nta_code" : "SI54",
+  "year" : "2010",
+  "nta_name" : "Great Kills",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "40720"
+}
+, {
+  "nta_code" : "SI99",
+  "year" : "2010",
+  "nta_name" : "park-cemetery-etc-Staten Island",
+  "borough" : "Staten Island",
+  "fips_county_code" : "085",
+  "population" : "0"
+}
+ ]

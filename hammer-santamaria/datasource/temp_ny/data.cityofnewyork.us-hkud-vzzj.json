@@ -1,0 +1,91 @@
+[ {
+  "area" : "Bronx",
+  "address" : "215 East 161st Street",
+  "disposition_type" : "Adult Operations"
+}
+, {
+  "area" : "Bronx",
+  "address" : "198 East 161st Street",
+  "disposition_type" : "Adult Operations"
+}
+, {
+  "area" : "Bronx",
+  "address" : "265 East 161st Street",
+  "disposition_type" : "Adult Operations"
+}
+, {
+  "area" : "Bronx",
+  "address" : "900 Sheridan Avenue",
+  "disposition_type" : "Juvenile Operations"
+}
+, {
+  "area" : "Brooklyn",
+  "address" : "345 Adams Street",
+  "disposition_type" : "Adult Operations"
+}
+, {
+  "area" : "Brooklyn",
+  "address" : "210 Joralemon Street",
+  "disposition_type" : "Adult Operations"
+}
+, {
+  "area" : "Brooklyn",
+  "address" : "444 Thomas Boyland Street",
+  "disposition_type" : "Brownsville NeON"
+}
+, {
+  "area" : "Brooklyn",
+  "address" : "330 Jay Street",
+  "disposition_type" : "Juvenile Operations"
+}
+, {
+  "area" : "Manhattan",
+  "address" : "100 Centre Street",
+  "disposition_type" : "Adult Operations"
+}
+, {
+  "area" : "Manhattan",
+  "address" : "66 John Street",
+  "disposition_type" : "Adult Operations"
+}
+, {
+  "area" : "Manhattan",
+  "address" : "60 Lafayette Stree",
+  "disposition_type" : "Juvenile Operations"
+}
+, {
+  "area" : "Manhattan",
+  "address" : "33 Beaver Street",
+  "disposition_type" : "Central Offices"
+}
+, {
+  "area" : "Manhattan",
+  "address" : "127 West 127th Street ",
+  "disposition_type" : "Harlem NeON"
+}
+, {
+  "area" : "Queens",
+  "address" : "125-01 Queens Blvd ",
+  "disposition_type" : "Adult Operations"
+}
+, {
+  "area" : "Queens",
+  "address" : "151-20 Jamaica Avenue",
+  "disposition_type" : "Juvenile Operations"
+}
+, {
+  "area" : "Queens",
+  "address" : "162-24 Jamaica Avenue",
+  "disposition_type" : "Jamaica NeON"
+}
+, {
+  "area" : "Staten Island",
+  "address" : "340 Bay Street",
+  "disposition_type" : "Adult Operations"
+}
+, {
+  "area" : "Staten Island",
+  "address" : "130 Stuyvesant Place",
+  "disposition_type" : "Juvenile Operations"
+}
+ ]

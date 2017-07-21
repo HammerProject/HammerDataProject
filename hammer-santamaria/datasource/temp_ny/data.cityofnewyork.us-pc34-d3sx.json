@@ -1,0 +1,946 @@
+[ {
+  "address" : "757 Caudwell Avenue",
+  "community_board" : "1",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "P.S. 157 GROVE HILL"
+}
+, {
+  "address" : "888 Rev James A. Polite Avenue",
+  "community_board" : "2",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "P.S. 60 (New School #2)"
+}
+, {
+  "address" : "3565 3rd Avenue",
+  "community_board" : "3",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "HARRIET TUBMAN CHARTER SCHOOL"
+}
+, {
+  "address" : "1245 Washington Avenue",
+  "community_board" : "3",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "P.S. 132 GARRETT A. MORGAN SCHOOL"
+}
+, {
+  "address" : "916 Eagle Avenue",
+  "community_board" : "3",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "P.S. 140 EAGLE SCHOOL"
+}
+, {
+  "address" : "14 West 170th Street",
+  "community_board" : "4",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "FAMILY LIFE ACADEMY CHARTER SCHOOL"
+}
+, {
+  "address" : "116 East 169th Street",
+  "community_board" : "4",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "GRAND CONCOURSE ADADEMY CHARTER SCHOOL"
+}
+, {
+  "address" : "250 East 164 Street",
+  "community_board" : "4",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "JHS 166 ROBERTO CLEMENTE SCHOOL"
+}
+, {
+  "address" : "1425 Walton Avenue",
+  "community_board" : "4",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "P.S. 64 PURA BELPRE SCHOOL"
+}
+, {
+  "address" : "1340 Sheridan Avenue",
+  "community_board" : "4",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "P.S.  88 S. SILVERSTEIN LITTLE SPARROW SCHOOL"
+}
+, {
+  "address" : "1598 Townsend Avenue",
+  "community_board" : "4",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "P.S. 170"
+}
+, {
+  "address" : "1220 Gerard Avenue",
+  "community_board" : "4",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "P.S./I.S. 218 R. HERNANDEZ DUAL LANGUAGE MAGNET"
+}
+, {
+  "address" : "2400 Marion Avenue",
+  "community_board" : "5",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "GREAT EXPECTATIONS SCHOOL"
+}
+, {
+  "address" : "2075 Webster Avenue",
+  "community_board" : "5",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "P.S. 163 ARTHUR ALONSO SCHOMBERG"
+}
+, {
+  "address" : "1861 Anthony Avenue",
+  "community_board" : "5",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "P.S. 28 MOUNT HOPE SCHOOL"
+}
+, {
+  "address" : "2246 Jerome Avenue",
+  "community_board" : "5",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "P.S. 315 LAB SCHOOL"
+}
+, {
+  "address" : "2502 Lorillard Place",
+  "community_board" : "6",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "J.H.S. 45 THOMAS C. GIORDANO SCHOOL"
+}
+, {
+  "address" : "2315 Washington Avenue",
+  "community_board" : "6",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "P.S. 159 LUIS MUMOZ MARIN BILING SCHOOL"
+}
+, {
+  "address" : "2151 Washington Avenue",
+  "community_board" : "6",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "P.S. 23 THE NEW CHILDREN'S SCHOOL"
+}
+, {
+  "address" : "695 East 182 Street",
+  "community_board" : "6",
+  "school_type" : "Private",
+  "borough" : "Bronx",
+  "school_name_id" : "SAINT MARTIN OF TOURS SCHOOL"
+}
+, {
+  "address" : "2708 Briggs Avenue",
+  "community_board" : "7",
+  "school_type" : "Private",
+  "borough" : "Bronx",
+  "school_name_id" : "OUR LADY OF REFUGE SCHOOL"
+}
+, {
+  "address" : "2641 Grand Concourse",
+  "community_board" : "7",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "P.S. 246 POE CENTER"
+}
+, {
+  "address" : "25 West 195 Street",
+  "community_board" : "7",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "P.S. 340"
+}
+, {
+  "address" : "2336 Andrews Avenue",
+  "community_board" : "7",
+  "school_type" : "Private",
+  "borough" : "Bronx",
+  "school_name_id" : "SAINT NICHOLAS OF TOLENTINE ELEMENTARY SCHOOL"
+}
+, {
+  "address" : "124 Eames Place",
+  "community_board" : "8",
+  "school_type" : "Public",
+  "borough" : "Bronx",
+  "school_name_id" : "SCIENCE SCHOOL FOR EXPLORATION & DISCOVERY"
+}
+, {
+  "address" : "712 Bedford Avenue",
+  "community_board" : "1",
+  "school_type" : "Private",
+  "borough" : "Brooklyn",
+  "school_name_id" : "BETH CHANA SCHOOL & ANNEX"
+}
+, {
+  "address" : "370 Marcy Avenue",
+  "community_board" : "1",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 380 JOHN WAYNE ELEMENTARY SCHOOL"
+}
+, {
+  "address" : "375 Pearl Street",
+  "community_board" : "2",
+  "school_type" : "Private",
+  "borough" : "Brooklyn",
+  "school_name_id" : "BROOKLYN FRIENDS SCHOOL"
+}
+, {
+  "address" : "450 Pacific Street",
+  "community_board" : "2",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 38 THE PACIFIC SCHOOL"
+}
+, {
+  "address" : "510 Clermont Avenue",
+  "community_board" : "2",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 753"
+}
+, {
+  "address" : "141 Macon Street",
+  "community_board" : "3",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "J.H.S. 258 DAVID RUGGLES JUNIOR HIGH SCHOOL"
+}
+, {
+  "address" : "432 Monroe Street",
+  "community_board" : "3",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 44 MARCUS GARVEY"
+}
+, {
+  "address" : "616 Quincy Street",
+  "community_board" : "3",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 308 CLARA CARDWELL SCHOOL"
+}
+, {
+  "address" : "800 Bushwick Avenue",
+  "community_board" : "4",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 274 KOSCIUSKO SCHOOL"
+}
+, {
+  "address" : "557 Pennsylvania Avenue",
+  "community_board" : "5",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 13 ROBERTO CLEMENTE SCHOOL"
+}
+, {
+  "address" : "4004 4th Avenue",
+  "community_board" : "7",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "CHARLES O. DEWEY (I.S.136)"
+}
+, {
+  "address" : "646 5th Avenue",
+  "community_board" : "7",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "HELLENIC CHARTER SCHOOL"
+}
+, {
+  "address" : "3002 Fort Hamilton Parkway",
+  "community_board" : "7",
+  "school_type" : "Private",
+  "borough" : "Brooklyn",
+  "school_name_id" : "IMMACULATE HEART OF MARY SCHOOL"
+}
+, {
+  "address" : "309 47th Street",
+  "community_board" : "7",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 1 BERGEN SCHOOL"
+}
+, {
+  "address" : "1237 Eastern Parkway",
+  "community_board" : "8",
+  "school_type" : "Private",
+  "borough" : "Brooklyn",
+  "school_name_id" : "DAVID GRAYSON CHRISTIAN ACADEMY"
+}
+, {
+  "address" : "721 Lincoln Place",
+  "community_board" : "8",
+  "school_type" : "Private",
+  "borough" : "Brooklyn",
+  "school_name_id" : "EPIPHANY LUTHERAN ELEMENTARY SCHOOL"
+}
+, {
+  "address" : "400 Empire Boulevard",
+  "community_board" : "9",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "M.S. 61 GLADSTONE H. ATWELL SCHOOL"
+}
+, {
+  "address" : "791 Empire Boulevard",
+  "community_board" : "9",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 221 TOSSAINT L'OUVERTURE"
+}
+, {
+  "address" : "337-347 74th Street",
+  "community_board" : "10",
+  "school_type" : "Private",
+  "borough" : "Brooklyn",
+  "school_name_id" : "OUR LADY OF ANGELS SCHOOL"
+}
+, {
+  "address" : "2075 84th Street",
+  "community_board" : "11",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 128 BENSONHURST SCHOOL/ BROOKLYN STUDIO SCHOOL"
+}
+, {
+  "address" : "600 Mcdonald Avenue",
+  "community_board" : "12",
+  "school_type" : "Private",
+  "borough" : "Brooklyn",
+  "school_name_id" : "BNOS YERUSHALAYIM"
+}
+, {
+  "address" : "700 Cortelyou Road",
+  "community_board" : "12",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "J.H.S. 62 DITMAS JUNIOR HIGH SCHOOL"
+}
+, {
+  "address" : "6006 23rd Avenue",
+  "community_board" : "12",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 226 ALFRED DE BARON MASON SCHOOL"
+}
+, {
+  "address" : "1 Albemarle Road",
+  "community_board" : "12",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 230 DORIS L. COHEN SCHOOL"
+}
+, {
+  "address" : "129 Elmwood Avenue",
+  "community_board" : "12",
+  "school_type" : "Private",
+  "borough" : "Brooklyn",
+  "school_name_id" : "THE CHEDER SCHOOL"
+}
+, {
+  "address" : "425 East 9th Street",
+  "community_board" : "12",
+  "school_type" : "Private",
+  "borough" : "Brooklyn",
+  "school_name_id" : "YESHIVA TORAH VODAATH"
+}
+, {
+  "address" : "2609 East 7th Street",
+  "community_board" : "13",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 209 MARGARET MEAD SCHOOL"
+}
+, {
+  "address" : "911 Flatbush Avenue",
+  "community_board" : "14",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "ACADEMY OF HOSPITALITY AND TOURISM"
+}
+, {
+  "address" : "4001 18 Avenue",
+  "community_board" : "14",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 134"
+}
+, {
+  "address" : "1629 East 15th Street",
+  "community_board" : "15",
+  "school_type" : "Private",
+  "borough" : "Brooklyn",
+  "school_name_id" : "BNOS ISRAEL OF EAST FLATBUSH"
+}
+, {
+  "address" : "1902 Avenue T",
+  "community_board" : "15",
+  "school_type" : "Private",
+  "borough" : "Brooklyn",
+  "school_name_id" : "SAINT EDMUND ELEMENTARY SCHOOL"
+}
+, {
+  "address" : "411 Thatford Avenue",
+  "community_board" : "16",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 41 WALTER F. WHITE SCHOOL"
+}
+, {
+  "address" : "76 Lott Avenue",
+  "community_board" : "16",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 165 IDA R. POSNER SCHOOL"
+}
+, {
+  "address" : "226 Bristol Street",
+  "community_board" : "16",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "TEACHERS' PREP SECONDARY SCHOOL"
+}
+, {
+  "address" : "5464 Kings Highway",
+  "community_board" : "17",
+  "school_type" : "Private",
+  "borough" : "Brooklyn",
+  "school_name_id" : "EBENEZER PREPARATORY SCHOOL"
+}
+, {
+  "address" : "905 Winthrop Street",
+  "community_board" : "17",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "I.S. 232 WINTHROP INTERMEDIATE SCHOOL"
+}
+, {
+  "address" : "684 Linden Boulevard",
+  "community_board" : "17",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 135 SHELDON BROOKNER SCHOOL"
+}
+, {
+  "address" : "1100 East New York Avenue",
+  "community_board" : "17",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 189 LINCOLN TERRACE SCHOOL"
+}
+, {
+  "address" : "4801 Avenue D",
+  "community_board" : "17",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 208 ELSA EBELING SCHOOL"
+}
+, {
+  "address" : "5400 Tilden Avenue",
+  "community_board" : "17",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 244 RICHARD R. GREEN SCHOOL"
+}
+, {
+  "address" : "133 East 53rd Street",
+  "community_board" : "17",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 268 EMMA LAZARUS SCHOOL"
+}
+, {
+  "address" : "3109 Newkirk Avenue",
+  "community_board" : "17",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 361"
+}
+, {
+  "address" : "60 East 94th Street",
+  "community_board" : "17",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 398 WALTER WEAVER SCHOOL"
+}
+, {
+  "address" : "870 Albany Avenue",
+  "community_board" : "17",
+  "school_type" : "Private",
+  "borough" : "Brooklyn",
+  "school_name_id" : "SAINT CATHERINE OF GENOA SCHOOL"
+}
+, {
+  "address" : "2806 Newkirk Avenue",
+  "community_board" : "17",
+  "school_type" : "Private",
+  "borough" : "Brooklyn",
+  "school_name_id" : "SAINT STEPHEN'S LUTHERAN PAROCHIAL SCHOOL"
+}
+, {
+  "address" : "3920 Flatlands Avenue",
+  "community_board" : "18",
+  "school_type" : "Public",
+  "borough" : "Brooklyn",
+  "school_name_id" : "P.S. 207 ECC (ANNEX)"
+}
+, {
+  "address" : "55-11 Queens Boulevard",
+  "community_board" : "2",
+  "school_type" : "Private",
+  "borough" : "Queens",
+  "school_name_id" : "RAZI SCHOOL"
+}
+, {
+  "address" : "73-10 34th Avenue",
+  "community_board" : "3",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "I.S. 230"
+}
+, {
+  "address" : "77-02 37th Avenue",
+  "community_board" : "3",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "P.S. 69 JACKSON HEIGHTS SCHOOL"
+}
+, {
+  "address" : "99-01 34th Avenue",
+  "community_board" : "3",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "P.S. 92 HARRY T. STEWART SCHOOL"
+}
+, {
+  "address" : "89-02 32nd Avenue",
+  "community_board" : "3",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "P.S. 148 RUBY ALLEN SCHOOL"
+}
+, {
+  "address" : "86-37 53rd Avenue",
+  "community_board" : "4",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "P.S. 13"
+}
+, {
+  "address" : "41-15 104th Street",
+  "community_board" : "4",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "P.S. 16"
+}
+, {
+  "address" : "44-15 Judge Street",
+  "community_board" : "4",
+  "school_type" : "Private",
+  "borough" : "Queens",
+  "school_name_id" : "SAINT BARTHOLOMEW SCHOOL"
+}
+, {
+  "address" : "104-19 49th Avenue",
+  "community_board" : "4",
+  "school_type" : "Private",
+  "borough" : "Queens",
+  "school_name_id" : "SAINT LEO SCHOOL"
+}
+, {
+  "address" : "60-85 Catalpa Avenue",
+  "community_board" : "5",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "P.S. 88 SENECA SCHOOL"
+}
+, {
+  "address" : "1715 Weirfield Street",
+  "community_board" : "5",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "P.S. 239"
+}
+, {
+  "address" : "142-30 Barclay Avenue",
+  "community_board" : "7",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "P.S. 20 JOHN BOWNE SCHOOL"
+}
+, {
+  "address" : "18-25 212nd Street",
+  "community_board" : "7",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "P.S. 169 BAY TERRACE SCHOOL"
+}
+, {
+  "address" : "111-02 86th Avenue",
+  "community_board" : "9",
+  "school_type" : "Private",
+  "borough" : "Queens",
+  "school_name_id" : "HOLY CHILD JESUS SCHOOL"
+}
+, {
+  "address" : "85-52 85th Street",
+  "community_board" : "9",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "P.S. 97 FOREST PARK SCHOOL"
+}
+, {
+  "address" : "101-33 124th Street",
+  "community_board" : "9",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "P.S. 161 ARTHUR R. ASHE SCHOOL"
+}
+, {
+  "address" : "97-25 108th Street",
+  "community_board" : "9",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "P.S. 62 CHESTER PARK SCHOOL"
+}
+, {
+  "address" : "109-15 98th Street",
+  "community_board" : "10",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "M.S. 137 AMERICA'S SCHOOL OF HEROES"
+}
+, {
+  "address" : "111-11 118 St",
+  "community_board" : "10",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "P.S. 100"
+}
+, {
+  "address" : "125-18 Rockaway Boulevard",
+  "community_board" : "10",
+  "school_type" : "Private",
+  "borough" : "Queens",
+  "school_name_id" : "SAINT ANTHONY OF PADUA SCHOOL"
+}
+, {
+  "address" : "43-15 196th Street",
+  "community_board" : "11",
+  "school_type" : "Private",
+  "borough" : "Queens",
+  "school_name_id" : "WILLIAM SPYROPOULOS SCHOOL"
+}
+, {
+  "address" : "171-10 Linden Boulevard",
+  "community_board" : "12",
+  "school_type" : "Private",
+  "borough" : "Queens",
+  "school_name_id" : "ALLEN CHRISTIAN SCHOOL"
+}
+, {
+  "address" : "132-55 Rigedale Street",
+  "community_board" : "12",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "I.S. 59 SPRINGFIELD GARDENS SCHOOL"
+}
+, {
+  "address" : "191-02 90th Avenue",
+  "community_board" : "12",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "P.S. 35 NATHANIEL WOODHULL SCHOOL"
+}
+, {
+  "address" : "126-28 150th Street",
+  "community_board" : "12",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "P.S. 45 C. E. WITHERSPOON SCHOOL"
+}
+, {
+  "address" : "190-20 109th Rd",
+  "community_board" : "12",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "P.S. 118 LORRAINE HANSBERRY SCHOOL"
+}
+, {
+  "address" : "179-01 90th Avenue",
+  "community_board" : "12",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "P.S. 95 EASTWOOD SCHOOL"
+}
+, {
+  "address" : "188-16 91st Avenue",
+  "community_board" : "12",
+  "school_type" : "Private",
+  "borough" : "Queens",
+  "school_name_id" : "SAINT GERARD MAJELLA SCHOOL"
+}
+, {
+  "address" : "233-10 Linden Boulevard",
+  "community_board" : "13",
+  "school_type" : "Private",
+  "borough" : "Queens",
+  "school_name_id" : "CAMBRIA CENTER FOR GIFTED CHILDREN"
+}
+, {
+  "address" : "100-05 Springfield Boulevard",
+  "community_board" : "13",
+  "school_type" : "Private",
+  "borough" : "Queens",
+  "school_name_id" : "GRACE LUTHERAN DAY SCHOOL"
+}
+, {
+  "address" : "207-01 Jamaica Avenue",
+  "community_board" : "13",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "MERRICK ACADEMY-QUEENS PUBLIC CHARTER SCHOOL"
+}
+, {
+  "address" : "207-11 89th Avenue",
+  "community_board" : "13",
+  "school_type" : "Public",
+  "borough" : "Queens",
+  "school_name_id" : "THE BELLAIRE SCHOOL"
+}
+, {
+  "address" : "154 Beach 84th Street",
+  "community_board" : "14",
+  "school_type" : "Private",
+  "borough" : "Queens",
+  "school_name_id" : "SAINT ROSE OF LIMA SCHOOL"
+}
+, {
+  "address" : "161 Park Avenue",
+  "community_board" : "1",
+  "school_type" : "Public",
+  "borough" : "Staten Island",
+  "school_name_id" : "P.S. 20 PORT RICHMOND SCHOOL"
+}
+, {
+  "address" : "55 Layton Avenue",
+  "community_board" : "1",
+  "school_type" : "Public",
+  "borough" : "Staten Island",
+  "school_name_id" : "P.S. 31 WILLIAM T. DAVIS SCHOOL"
+}
+, {
+  "address" : "355 Morningstar Road",
+  "community_board" : "1",
+  "school_type" : "Private",
+  "borough" : "Staten Island",
+  "school_name_id" : "SAINT ADALBERT SCHOOL"
+}
+, {
+  "address" : "139 Saint Marys Avenue",
+  "community_board" : "1",
+  "school_type" : "Private",
+  "borough" : "Staten Island",
+  "school_name_id" : "SAINT JOSEPH PAROCHIAL SCHOOL"
+}
+, {
+  "address" : "465 Villa Avenue",
+  "community_board" : "1",
+  "school_type" : "Private",
+  "borough" : "Staten Island",
+  "school_name_id" : "SAINT ROCH SCHOOL"
+}
+, {
+  "address" : "22 Steele Avenue",
+  "community_board" : "2",
+  "school_type" : "Private",
+  "borough" : "Staten Island",
+  "school_name_id" : "OUR LADY QUEEN OF PEACE SCHOOL"
+}
+, {
+  "address" : "216 Clawson Street",
+  "community_board" : "2",
+  "school_type" : "Public",
+  "borough" : "Staten Island",
+  "school_name_id" : "P.S. 41 THE NEW DORP SCHOOL"
+}
+, {
+  "address" : "884 Targee Street",
+  "community_board" : "2",
+  "school_type" : "Private",
+  "borough" : "Staten Island",
+  "school_name_id" : "SAINT SYLVESTER SCHOOL"
+}
+, {
+  "address" : "196 Bleecker Street",
+  "community_board" : "2",
+  "school_type" : "Public",
+  "borough" : "Manhattan",
+  "school_name_id" : "THE LITTLE RED SCHOOL HOUSE"
+}
+, {
+  "address" : "420 East 12th Street",
+  "community_board" : "3",
+  "school_type" : "Public",
+  "borough" : "Manhattan",
+  "school_name_id" : "EAST SIDE COMMUNITY HIGH SCHOOL"
+}
+, {
+  "address" : "166 Essex Street",
+  "community_board" : "3",
+  "school_type" : "Public",
+  "borough" : "Manhattan",
+  "school_name_id" : "P.S.  20 ANNA SILVER SCHOOL"
+}
+, {
+  "address" : "126 West 17th Street",
+  "community_board" : "4",
+  "school_type" : "Private",
+  "borough" : "Manhattan",
+  "school_name_id" : "WINSTON PREPARATORY"
+}
+, {
+  "address" : "222 East 16th Street",
+  "community_board" : "6",
+  "school_type" : "Private",
+  "borough" : "Manhattan",
+  "school_name_id" : "FRIENDS SEMINARY"
+}
+, {
+  "address" : "210 East 33rd Street",
+  "community_board" : "6",
+  "school_type" : "Public",
+  "borough" : "Manhattan",
+  "school_name_id" : "P.S. 116 MARY L. MURRAY SCHOOL"
+}
+, {
+  "address" : "225 East 23rd Street",
+  "community_board" : "6",
+  "school_type" : "Public",
+  "borough" : "Manhattan",
+  "school_name_id" : "P.S. 47 AMERICAN SIGN LANGUAGE SCHOOL"
+}
+, {
+  "address" : "147 West 70th Street",
+  "community_board" : "7",
+  "school_type" : "Private",
+  "borough" : "Manhattan",
+  "school_name_id" : "BLESSED SACRAMENT SCHOOL"
+}
+, {
+  "address" : "202 West 97th Street",
+  "community_board" : "7",
+  "school_type" : "Private",
+  "borough" : "Manhattan",
+  "school_name_id" : "HOLY NAME OF JESUS SCHOOL"
+}
+, {
+  "address" : "735 West End Avenue",
+  "community_board" : "7",
+  "school_type" : "Public",
+  "borough" : "Manhattan",
+  "school_name_id" : "P.S. 75 EMILY DICKINSON SCHOOL"
+}
+, {
+  "address" : "433 West End Avenue",
+  "community_board" : "7",
+  "school_type" : "Public",
+  "borough" : "Manhattan",
+  "school_name_id" : "THE CALHOUN SCHOOL"
+}
+, {
+  "address" : "1010 Park Avenue",
+  "community_board" : "8",
+  "school_type" : "Private",
+  "borough" : "Manhattan",
+  "school_name_id" : "PARK AVENUE CHRISTIAN CHURCH DAY"
+}
+, {
+  "address" : "125 East 85th Street",
+  "community_board" : "8",
+  "school_type" : "Private",
+  "borough" : "Manhattan",
+  "school_name_id" : "RAMAZ LOWER SCHOOL"
+}
+, {
+  "address" : "420 East 87th Street",
+  "community_board" : "8",
+  "school_type" : "Private",
+  "borough" : "Manhattan",
+  "school_name_id" : "ST JOSEPH'S SCHOOL(YORKVILLE)"
+}
+, {
+  "address" : "433 West 123rd Street",
+  "community_board" : "9",
+  "school_type" : "Public",
+  "borough" : "Manhattan",
+  "school_name_id" : "KIPP STAR COLLEGE PREP CHARTER"
+}
+, {
+  "address" : "468 West 143rd Street",
+  "community_board" : "9",
+  "school_type" : "Private",
+  "borough" : "Manhattan",
+  "school_name_id" : "OUR LADY OF LOURDES SCHOOL"
+}
+, {
+  "address" : "250 West 127th Street",
+  "community_board" : "10",
+  "school_type" : "Public",
+  "borough" : "Manhattan",
+  "school_name_id" : "P.S. 154"
+}
+, {
+  "address" : "219 East 109th Street",
+  "community_board" : "11",
+  "school_type" : "Public",
+  "borough" : "Manhattan",
+  "school_name_id" : "P.S. 83 LUIS MUNOZ RIVERA SCHOOL"
+}
+, {
+  "address" : "314 East 110th Street",
+  "community_board" : "11",
+  "school_type" : "Private",
+  "borough" : "Manhattan",
+  "school_name_id" : "SAINT ANN SCHOOL"
+}
+, {
+  "address" : "511 West 182nd Street",
+  "community_board" : "12",
+  "school_type" : "Private",
+  "borough" : "Manhattan",
+  "school_name_id" : "COMMUNITY HEALTH ACAD OF THE HEIGHTS"
+}
+, {
+  "address" : "560 West 169th Street",
+  "community_board" : "12",
+  "school_type" : "Public",
+  "borough" : "Manhattan",
+  "school_name_id" : "P.S. 128 AUDUBON SCHOOL"
+}
+, {
+  "address" : "500 West 160th Street",
+  "community_board" : "12",
+  "school_type" : "Public",
+  "borough" : "Manhattan",
+  "school_name_id" : "P.S. 4  DUKE ELLINGTON SCHOOL"
+}
+, {
+  "address" : "612 West 187th Street",
+  "community_board" : "12",
+  "school_type" : "Private",
+  "borough" : "Manhattan",
+  "school_name_id" : "SAINT ELIZABETH SCHOOL"
+}
+ ]

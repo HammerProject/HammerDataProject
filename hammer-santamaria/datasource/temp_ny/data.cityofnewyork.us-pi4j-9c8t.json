@@ -1,0 +1,43 @@
+[ {
+  "detective_specialist" : "1",
+  "other_ranks" : "0",
+  "year" : "2009",
+  "detective_1" : "11",
+  "sergeant" : "50",
+  "lieutenant" : "11",
+  "police_officer" : "200",
+  "detective_2" : "3",
+  "detective_3" : "0",
+  "lieutenant_commander_detective" : "0",
+  "captain" : "0",
+  "deputy_inspector_inspector" : "0"
+}
+, {
+  "detective_specialist" : "2",
+  "other_ranks" : "0",
+  "year" : "2010",
+  "detective_1" : "30",
+  "sergeant" : "59",
+  "lieutenant" : "11",
+  "police_officer" : "263",
+  "detective_2" : "3",
+  "detective_3" : "0",
+  "lieutenant_commander_detective" : "2",
+  "captain" : "4",
+  "deputy_inspector_inspector" : "1"
+}
+, {
+  "detective_specialist" : "0",
+  "other_ranks" : "0",
+  "year" : "2011",
+  "detective_1" : "20",
+  "sergeant" : "42",
+  "lieutenant" : "9",
+  "police_officer" : "138",
+  "detective_2" : "2",
+  "detective_3" : "0",
+  "lieutenant_commander_detective" : "1",
+  "captain" : "1",
+  "deputy_inspector_inspector" : "0"
+}
+ ]

@@ -1,0 +1,256 @@
+[ {
+  "site_name" : "Public School 105 - Blythebourne School",
+  "program_type" : "Reading & Writing,NDA Programs,Family Literacy",
+  "location_1" : {
+    "latitude" : "40.63300376501953",
+    "human_address" : "{\"address\":\"1031 59th Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11219\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00381336276764"
+  },
+  "agency" : "Brooklyn Chinese American Association",
+  "borough_community" : "Brooklyn",
+  "program" : "Family Literacy",
+  "grade_level_age_group" : "A parent 16 Years Old or Older ",
+  "contact_number" : "718-438-0008"
+}
+, {
+  "site_name" : "Brooklyn Chinese American Association",
+  "program_type" : "Reading & Writing,NDA Programs,Family Literacy",
+  "location_1" : {
+    "latitude" : "40.64105371224104",
+    "human_address" : "{\"address\":\"5010 8th Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00381858175466"
+  },
+  "agency" : "Brooklyn Chinese American Association",
+  "borough_community" : "Brooklyn",
+  "program" : "Family Literacy",
+  "grade_level_age_group" : "A parent 16 Years Old or Older ",
+  "contact_number" : "718-438-0008"
+}
+, {
+  "site_name" : "Public School 249 - The Caton School",
+  "program_type" : "Reading & Writing,NDA Programs,Family Literacy",
+  "location_1" : {
+    "latitude" : "40.649842155595174",
+    "human_address" : "{\"address\":\"18 Marlborough Road\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11226\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96609617601914"
+  },
+  "agency" : "CAMBA, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Family Literacy",
+  "grade_level_age_group" : "A parent 16 Years Old or Older ",
+  "contact_number" : "718-282-5575"
+}
+, {
+  "site_name" : "Public School 8 - Luis Belliard School",
+  "program_type" : "Reading & Writing,NDA Programs,Family Literacy",
+  "location_1" : {
+    "latitude" : "40.8389205164512",
+    "human_address" : "{\"address\":\"465 167 Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10032\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93676691090876"
+  },
+  "agency" : "The Children's Aid Society",
+  "borough_community" : "New York",
+  "program" : "Family Literacy",
+  "grade_level_age_group" : "A parent 16 Years Old or Older ",
+  "contact_number" : "212-949-4917"
+}
+, {
+  "site_name" : "Public School 92 - Harry T Stewart Senior",
+  "program_type" : "Reading & Writing,NDA Programs,Family Literacy",
+  "location_1" : {
+    "latitude" : "40.749678220373596",
+    "human_address" : "{\"address\":\"99 01 34 Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11368\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85304068857687"
+  },
+  "agency" : "Coalition for Hispanic Family Services",
+  "borough_community" : "Queens",
+  "program" : "Family Literacy",
+  "grade_level_age_group" : "A parent 16 Years Old or Older ",
+  "contact_number" : "718-497-6090"
+}
+, {
+  "site_name" : "Public School 149 - Christa Mcauliffe",
+  "program_type" : "Reading & Writing,NDA Programs,Family Literacy",
+  "location_1" : {
+    "latitude" : "40.75163073936716",
+    "human_address" : "{\"address\":\"93 11 34th Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11372\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88361254528269"
+  },
+  "agency" : "Goodwill Industries of Greater New York",
+  "borough_community" : "Queens",
+  "program" : "Family Literacy",
+  "grade_level_age_group" : "A parent 16 Years Old or Older ",
+  "contact_number" : "718-426-0888"
+}
+, {
+  "site_name" : "Public School 73 - The Bronx School",
+  "program_type" : "Reading & Writing,NDA Programs,Family Literacy",
+  "location_1" : {
+    "latitude" : "40.832779162508096",
+    "human_address" : "{\"address\":\"1020 Anderson Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10452\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92673351173502"
+  },
+  "agency" : "Highbridge Community Life Center (HCLC)",
+  "borough_community" : "Bronx",
+  "program" : "Family Literacy",
+  "grade_level_age_group" : "A parent 16 Years Old or Older ",
+  "contact_number" : "718-681-2222"
+}
+, {
+  "site_name" : "Public School 19 - Curtis School",
+  "program_type" : "Reading & Writing,NDA Programs,Family Literacy",
+  "location_1" : {
+    "latitude" : "40.631189624083056",
+    "human_address" : "{\"address\":\"780 Post Avenue\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10310\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.127115288525"
+  },
+  "agency" : "Jewish Community Center of Staten Island, Inc.",
+  "borough_community" : "Staten Island",
+  "program" : "Family Literacy",
+  "grade_level_age_group" : "A parent 16 Years Old or Older ",
+  "contact_number" : "718-508-3883"
+}
+, {
+  "site_name" : "Edith and Carl Marks Jewish Community House of Bensonhurst",
+  "program_type" : "Reading & Writing,NDA Programs,Family Literacy",
+  "location_1" : {
+    "latitude" : "40.606424326705934",
+    "human_address" : "{\"address\":\"7802 Bay Parkway\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11214\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98919274272059"
+  },
+  "agency" : "Edith and Carl Marks Jewish Community House of Bensonhurst",
+  "borough_community" : "Brooklyn",
+  "program" : "Family Literacy",
+  "grade_level_age_group" : "A parent 16 Years Old or Older ",
+  "contact_number" : "718-943-6325"
+}
+, {
+  "site_name" : "Public School 115 - Alexander Humboldt School",
+  "program_type" : "Reading & Writing,NDA Programs,Family Literacy",
+  "location_1" : {
+    "latitude" : "40.84641769845956",
+    "human_address" : "{\"address\":\"586 177th Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10033\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93487128414608"
+  },
+  "agency" : "Northern Manhattan Improvement Corporation",
+  "borough_community" : "New York",
+  "program" : "Family Literacy",
+  "grade_level_age_group" : "A parent 16 Years Old or Older ",
+  "contact_number" : "212-453-5397"
+}
+, {
+  "site_name" : "Phipps Community Education Center",
+  "program_type" : "Reading & Writing,NDA Programs,Family Literacy",
+  "location_1" : {
+    "latitude" : "40.84134504810141",
+    "human_address" : "{\"address\":\"1030 178th Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10460\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88030387915799"
+  },
+  "agency" : "Phipps Community Development",
+  "borough_community" : "Bronx",
+  "program" : "Family Literacy",
+  "grade_level_age_group" : "A parent 16 Years Old or Older ",
+  "contact_number" : "718-364-2496"
+}
+, {
+  "site_name" : "Public School 89 - Elmhurst School",
+  "program_type" : "Reading & Writing,NDA Programs,Family Literacy",
+  "location_1" : {
+    "latitude" : "40.73871040256307",
+    "human_address" : "{\"address\":\"85 28 Britton Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11373\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87835115518163"
+  },
+  "agency" : "The Child Center of NY",
+  "borough_community" : "Queens",
+  "program" : "Family Literacy",
+  "grade_level_age_group" : "A parent 16 Years Old or Older ",
+  "contact_number" : "718-659-4000"
+}
+, {
+  "site_name" : "Public School 225 - Eileen E Zaglin School",
+  "program_type" : "Reading & Writing,NDA Programs,Family Literacy",
+  "location_1" : {
+    "latitude" : "40.5797910944251",
+    "human_address" : "{\"address\":\"1075 Oceanview Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11235\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95643350547934"
+  },
+  "agency" : "Shorefront YM-YWHA",
+  "borough_community" : "Brooklyn",
+  "program" : "Family Literacy",
+  "grade_level_age_group" : "A parent 16 Years Old or Older ",
+  "contact_number" : "718-646-1444"
+}
+, {
+  "site_name" : "Southeast Bronx Neighborhood Centers, Inc.",
+  "program_type" : "Reading & Writing,NDA Programs,Family Literacy",
+  "location_1" : {
+    "latitude" : "40.82309725417601",
+    "human_address" : "{\"address\":\"955 Tinton Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10456\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90303414045628"
+  },
+  "agency" : "Southeast Bronx Neighborhood Center, Inc. (SEBNC)",
+  "borough_community" : "Bronx",
+  "program" : "Family Literacy",
+  "grade_level_age_group" : "A parent 16 Years Old or Older ",
+  "contact_number" : "718-542-2727"
+}
+, {
+  "site_name" : "Public School 112 - Jose Celso Barbosa School",
+  "program_type" : "Reading & Writing,NDA Programs,Family Literacy",
+  "location_1" : {
+    "latitude" : "40.796415393630525",
+    "human_address" : "{\"address\":\"535 119 Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93038366721987"
+  },
+  "agency" : "Stanley M. Isaacs Neighborhood Center, Inc.",
+  "borough_community" : "New York",
+  "program" : "Family Literacy",
+  "grade_level_age_group" : "A parent 16 Years Old or Older ",
+  "contact_number" : "212-360-7625"
+}
+, {
+  "site_name" : "Public School 198/77 - Isador & Ida Straus School",
+  "program_type" : "Reading & Writing,NDA Programs,Family Literacy",
+  "location_1" : {
+    "latitude" : "40.7852258951129",
+    "human_address" : "{\"address\":\"1700 Third Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10128\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94934848503704"
+  },
+  "agency" : "Stanley M. Isaacs Neighborhood Center, Inc.",
+  "borough_community" : "New York",
+  "program" : "Family Literacy",
+  "grade_level_age_group" : "A parent 16 Years Old or Older ",
+  "contact_number" : "212-360-7625"
+}
+, {
+  "site_name" : "Public School 199Q - Maurice Fitzgerald",
+  "program_type" : "Reading & Writing,NDA Programs,Family Literacy",
+  "location_1" : {
+    "latitude" : "40.74489336663561",
+    "human_address" : "{\"address\":\"39 20 48th Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11104\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92054134530679"
+  },
+  "agency" : "Sunnyside Community Service, Inc.",
+  "borough_community" : "Queens",
+  "program" : "Family Literacy",
+  "grade_level_age_group" : "A parent 16 Years Old or Older ",
+  "contact_number" : "718-784-6173"
+}
+ ]

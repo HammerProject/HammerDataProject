@@ -1,0 +1,276 @@
+[ {
+  "client_total" : "2515",
+  "borough" : "Bronx",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "2922",
+  "borough" : "Bronx",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "3491",
+  "borough" : "Bronx",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "3782",
+  "borough" : "Bronx",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "4016",
+  "borough" : "Bronx",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "3827",
+  "borough" : "Bronx",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "2643",
+  "borough" : "Bronx",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "1984",
+  "borough" : "Bronx",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "1648",
+  "borough" : "Bronx",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "1479",
+  "borough" : "Bronx",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "1216",
+  "borough" : "Bronx",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "3268",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "3471",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "3578",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "3565",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "3288",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "3340",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "2896",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "2240",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "1853",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "1698",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "1344",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "1756",
+  "borough" : "Manhattan",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "1847",
+  "borough" : "Manhattan",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "1983",
+  "borough" : "Manhattan",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "1911",
+  "borough" : "Manhattan",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "1754",
+  "borough" : "Manhattan",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "1682",
+  "borough" : "Manhattan",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "1627",
+  "borough" : "Manhattan",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "1144",
+  "borough" : "Manhattan",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "791",
+  "borough" : "Manhattan",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "890",
+  "borough" : "Manhattan",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "712",
+  "borough" : "Manhattan",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "2585",
+  "borough" : "Queens",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "2506",
+  "borough" : "Queens",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "2266",
+  "borough" : "Queens",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "2109",
+  "borough" : "Queens",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "2362",
+  "borough" : "Queens",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "2418",
+  "borough" : "Queens",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "1932",
+  "borough" : "Queens",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "1397",
+  "borough" : "Queens",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "981",
+  "borough" : "Queens",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "756",
+  "borough" : "Queens",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "664",
+  "borough" : "Queens",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "606",
+  "borough" : "Staten Island",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "597",
+  "borough" : "Staten Island",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "695",
+  "borough" : "Staten Island",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "715",
+  "borough" : "Staten Island",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "795",
+  "borough" : "Staten Island",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "646",
+  "borough" : "Staten Island",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "472",
+  "borough" : "Staten Island",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "422",
+  "borough" : "Staten Island",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "323",
+  "borough" : "Staten Island",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "278",
+  "borough" : "Staten Island",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "264",
+  "borough" : "Staten Island",
+  "calendar_year" : "2016"
+}
+ ]

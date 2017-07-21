@@ -1,0 +1,1033 @@
+[ {
+  "building_id" : "K128",
+  "project_description" : "Building System Improvement - Installation of a Low-Voltage Electrical System",
+  "project_number" : "LB4",
+  "school_address" : "2075 84 STREET",
+  "school_name" : "P.S. 128 - BROOKLYN",
+  "sed_approved_final_cost" : "1265146"
+}
+, {
+  "building_id" : "M163",
+  "project_description" : "Asbestos  abatement",
+  "project_number" : "LB5",
+  "school_address" : "163 WEST 97 STREET",
+  "school_name" : "P.S. 163 - MANHATTAN",
+  "sed_approved_final_cost" : "29441"
+}
+, {
+  "building_id" : "K132",
+  "project_description" : "Indoor Building Improvement - Reconstruction and replacement of interior flooring",
+  "project_number" : "LB6",
+  "school_address" : "320 MANHATTAN AVENUE",
+  "school_name" : "P.S. 132 - BROOKLYN",
+  "sed_approved_final_cost" : "342760"
+}
+, {
+  "building_id" : "M072",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "LB7",
+  "school_address" : "131 EAST 104 STREET",
+  "school_name" : "P.S. 72 - MANHATTAN",
+  "sed_approved_final_cost" : "881458"
+}
+, {
+  "building_id" : "Q206",
+  "project_description" : "Auditorium Upgrade - replace and upgrade auditorium sound system and lighting.",
+  "project_number" : "LB8",
+  "school_address" : "61-21 97TH PLACE",
+  "school_name" : "P.S. 206 - QUEENS",
+  "sed_approved_final_cost" : "965000"
+}
+, {
+  "building_id" : "K307",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "LB9",
+  "school_address" : "209 YORK STREET",
+  "school_name" : "P.S. 307 - BROOKLYN",
+  "sed_approved_final_cost" : "2909658"
+}
+, {
+  "building_id" : "K307",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "LBA",
+  "school_address" : "209 YORK STREET",
+  "school_name" : "P.S. 307 - BROOKLYN",
+  "sed_approved_final_cost" : "3728001"
+}
+, {
+  "building_id" : "K293",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "LBB",
+  "school_address" : "284 BALTIC STREET",
+  "school_name" : "SCHOOL FOR INT'L STUD - K",
+  "sed_approved_final_cost" : "3783032"
+}
+, {
+  "building_id" : "M097",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "LBC",
+  "school_address" : "525 E. HOUSTON STREET",
+  "school_name" : "BARD COLLEGE HS - MANHATTAN",
+  "sed_approved_final_cost" : "979054"
+}
+, {
+  "building_id" : "M097",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "LBD",
+  "school_address" : "525 E. HOUSTON STREET",
+  "school_name" : "BARD COLLEGE HS - MANHATTAN",
+  "sed_approved_final_cost" : "1508155"
+}
+, {
+  "building_id" : "Q145",
+  "project_description" : "Building System Improvement - Emergency Lighting and Fire Safety Retrofits",
+  "project_number" : "KWC",
+  "school_address" : "33-34 80 STREET",
+  "school_name" : "I.S. 145 - QUEENS",
+  "sed_approved_final_cost" : "78883"
+}
+, {
+  "building_id" : "K371",
+  "project_description" : "Building System Improvement - Emergency Lighting and Fire Safety Retrofits",
+  "project_number" : "KWD",
+  "school_address" : "355 37 STREET",
+  "school_name" : "K371 SPED - BROOKLYN",
+  "sed_approved_final_cost" : "41522"
+}
+, {
+  "building_id" : "K210",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LA5",
+  "school_address" : "188 ROCHESTER AVENUE",
+  "school_name" : "I.S. 394 - BROOKLYN",
+  "sed_approved_final_cost" : "336665"
+}
+, {
+  "building_id" : "K241",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LA6",
+  "school_address" : "976 PRESIDENT STREET",
+  "school_name" : "P.S. 241 - BROOKLYN",
+  "sed_approved_final_cost" : "134594"
+}
+, {
+  "building_id" : "K398",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LA7",
+  "school_address" : "60 EAST 94 STREET",
+  "school_name" : "P.S. 398 - BROOKLYN",
+  "sed_approved_final_cost" : "196911"
+}
+, {
+  "building_id" : "K410",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LA8",
+  "school_address" : "2800 OCEAN PARKWAY",
+  "school_name" : "ABRAHAM LINCOLN HS - BROOKLYN",
+  "sed_approved_final_cost" : "490882"
+}
+, {
+  "building_id" : "R044",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "LCF",
+  "school_address" : "80 MAPLE PARKWAY",
+  "school_name" : "P.S. 44 - STATEN ISLAND",
+  "sed_approved_final_cost" : "1985151"
+}
+, {
+  "building_id" : "R044",
+  "project_description" : "Building Envelope Improvement - Window and Door Replacement",
+  "project_number" : "LCG",
+  "school_address" : "80 MAPLE PARKWAY",
+  "school_name" : "P.S. 44 - STATEN ISLAND",
+  "sed_approved_final_cost" : "1379455"
+}
+, {
+  "building_id" : "K400",
+  "project_description" : "Indoor Building Improvement - Reconstruction of piping and plumbing system.",
+  "project_number" : "LCH",
+  "school_address" : "2630 BENSON AVENUE",
+  "school_name" : "KINGSBOROUGH EARLY COLLEGE SCH",
+  "sed_approved_final_cost" : "1270395"
+}
+, {
+  "building_id" : "K400",
+  "project_description" : "Indoor Building Improvement",
+  "project_number" : "LCI",
+  "school_address" : "2630 BENSON AVENUE",
+  "school_name" : "KINGSBOROUGH EARLY COLLEGE SCH",
+  "sed_approved_final_cost" : "1664297"
+}
+, {
+  "building_id" : "R044",
+  "project_description" : "Building Envelope Improvement - Reconstruction of Exterior Masonry",
+  "project_number" : "KVQ",
+  "school_address" : "80 MAPLE PARKWAY",
+  "school_name" : "P.S. 44 - STATEN ISLAND",
+  "sed_approved_final_cost" : "9923042"
+}
+, {
+  "building_id" : "Q332",
+  "project_description" : "A NEW PS HAVING AN ESTIMATED UNADJUSTED CAPACITY OF 580 AND AN ESTIMATED AREA OF 45,391 SF",
+  "project_number" : "KVR",
+  "school_address" : "210-07 48TH AVENUE",
+  "school_name" : "PS Q332 - QUEENS",
+  "sed_approved_final_cost" : "28660668"
+}
+, {
+  "building_id" : "Q079",
+  "project_description" : "Indoor Building Improvement - Reconstruction of piping and plumbing system.",
+  "project_number" : "KVT",
+  "school_address" : "147-27 15 DRIVE",
+  "school_name" : "P.S. 79 - QUEENS",
+  "sed_approved_final_cost" : "18471"
+}
+, {
+  "building_id" : "M010",
+  "project_description" : "Science Lab Upgrade",
+  "project_number" : "KVU",
+  "school_address" : "2581 7TH AVENUE",
+  "school_name" : "FREDERICK DOUGLAS ACADEMY - M",
+  "sed_approved_final_cost" : "6143083"
+}
+, {
+  "building_id" : "M167",
+  "project_description" : "Building Envelope Improvement - Reconstruction of Exterior Masonry",
+  "project_number" : "KVV",
+  "school_address" : "220 EAST 76 STREET",
+  "school_name" : "I.S. 167 - MANHATTAN",
+  "sed_approved_final_cost" : "4727001"
+}
+, {
+  "building_id" : "K244",
+  "project_description" : "Building Envelope Improvement - Reconstruction of Exterior Masonry",
+  "project_number" : "KWE",
+  "school_address" : "5404 TILDEN AVENUE",
+  "school_name" : "P.S. 244 - BROOKLYN",
+  "sed_approved_final_cost" : "5815876"
+}
+, {
+  "building_id" : "K293",
+  "project_description" : "Building Envelope Improvement - Reconstruction of Exterior Masonry",
+  "project_number" : "KWF",
+  "school_address" : "284 BALTIC STREET",
+  "school_name" : "SCHOOL FOR INT'L STUD - K",
+  "sed_approved_final_cost" : "6935990"
+}
+, {
+  "building_id" : "K307",
+  "project_description" : "Building Envelope Improvement - Reconstruction of Exterior Masonry",
+  "project_number" : "KWG",
+  "school_address" : "209 YORK STREET",
+  "school_name" : "P.S. 307 - BROOKLYN",
+  "sed_approved_final_cost" : "2748476"
+}
+, {
+  "building_id" : "K208",
+  "project_description" : "Building Envelope Improvement - Reconstruction of Exterior Masonry",
+  "project_number" : "KWH",
+  "school_address" : "4801 AVENUE D",
+  "school_name" : "P.S. 208 - BROOKLYN",
+  "sed_approved_final_cost" : "1192544"
+}
+, {
+  "building_id" : "M097",
+  "project_description" : "Building Envelope Improvement - Reconstruction of Exterior Masonry",
+  "project_number" : "KWI",
+  "school_address" : "525 E. HOUSTON STREET",
+  "school_name" : "BARD COLLEGE HS - MANHATTAN",
+  "sed_approved_final_cost" : "1524727"
+}
+, {
+  "building_id" : "R453",
+  "project_description" : "Building Additions",
+  "project_number" : "KWJ",
+  "school_address" : "105 HAMILTON AVENUE",
+  "school_name" : "CURTIS HS - STATEN ISLAND",
+  "sed_approved_final_cost" : "20461203"
+}
+, {
+  "building_id" : "X166",
+  "project_description" : "Science Lab Upgrade",
+  "project_number" : "KVW",
+  "school_address" : "250 EAST 164 STREET",
+  "school_name" : "BRONX EARLY COLLEGE ACADEMY",
+  "sed_approved_final_cost" : "3926233"
+}
+, {
+  "building_id" : "M143",
+  "project_description" : "Science Lab Upgrade",
+  "project_number" : "KVX",
+  "school_address" : "511 WEST 182 STREET",
+  "school_name" : "I.S. 348 - MANHATTAN",
+  "sed_approved_final_cost" : "3119894"
+}
+, {
+  "building_id" : "R045",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "KVY",
+  "school_address" : "58 LAWRENCE AVENUE",
+  "school_name" : "P.S. 45 - STATEN ISLAND",
+  "sed_approved_final_cost" : "2481955"
+}
+, {
+  "building_id" : "M072",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "KVZ",
+  "school_address" : "131 EAST 104 STREET",
+  "school_name" : "P.S. 72 - MANHATTAN",
+  "sed_approved_final_cost" : "3259724"
+}
+, {
+  "building_id" : "R045",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "KW0",
+  "school_address" : "58 LAWRENCE AVENUE",
+  "school_name" : "P.S. 45 - STATEN ISLAND",
+  "sed_approved_final_cost" : "5090592"
+}
+, {
+  "building_id" : "X028",
+  "project_description" : "Building System Improvement - Installation of a Low-Voltage Electrical System",
+  "project_number" : "KW1",
+  "school_address" : "1861 ANTHONY AVENUE",
+  "school_name" : "P.S. 28 - BRONX",
+  "sed_approved_final_cost" : "1488182"
+}
+, {
+  "building_id" : "K655",
+  "project_description" : "Building System Improvement - Installation of a Low-Voltage Electrical System",
+  "project_number" : "KW2",
+  "school_address" : "345 DEAN STREET",
+  "school_name" : "BROOKLYN HS OF THE ARTS - BROO",
+  "sed_approved_final_cost" : "1679966"
+}
+, {
+  "building_id" : "M072",
+  "project_description" : "Building Envelope Improvement - Reconstruction of Exterior Masonry",
+  "project_number" : "KW3",
+  "school_address" : "131 EAST 104 STREET",
+  "school_name" : "P.S. 72 - MANHATTAN",
+  "sed_approved_final_cost" : "13858786"
+}
+, {
+  "building_id" : "M072",
+  "project_description" : "CAFETARIA/MULTI PURPOSE",
+  "project_number" : "KW4",
+  "school_address" : "131 EAST 104 STREET",
+  "school_name" : "P.S. 72 - MANHATTAN",
+  "sed_approved_final_cost" : "468014"
+}
+, {
+  "building_id" : "M072",
+  "project_description" : "Indoor Building Improvement",
+  "project_number" : "KW5",
+  "school_address" : "131 EAST 104 STREET",
+  "school_name" : "P.S. 72 - MANHATTAN",
+  "sed_approved_final_cost" : "247840"
+}
+, {
+  "building_id" : "M128",
+  "project_description" : "Building System Improvement - Boiler Conversion",
+  "project_number" : "KW6",
+  "school_address" : "560 WEST 169 STREET",
+  "school_name" : "P.S. 128 - MANHATTAN",
+  "sed_approved_final_cost" : "881082"
+}
+, {
+  "building_id" : "X136",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "KW7",
+  "school_address" : "750 JENNINGS STREET",
+  "school_name" : "X186 SPED - BRONX",
+  "sed_approved_final_cost" : "6812823"
+}
+, {
+  "building_id" : "X440",
+  "project_description" : "Building System Improvement - Reconstruction of Electrical Systems",
+  "project_number" : "KW8",
+  "school_address" : "100 W. MOSHOLU PKWY S",
+  "school_name" : "DEWITT CLINTON HS - X",
+  "sed_approved_final_cost" : "4755807"
+}
+, {
+  "building_id" : "X440",
+  "project_description" : "Building System Improvement - Installation of a Low-Voltage Electrical System",
+  "project_number" : "KW9",
+  "school_address" : "100 W. MOSHOLU PKWY S",
+  "school_name" : "DEWITT CLINTON HS - X",
+  "sed_approved_final_cost" : "2810294"
+}
+, {
+  "building_id" : "K500",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LA9",
+  "school_address" : "1600 ROCKAWAY PKWY",
+  "school_name" : "CANARSIE HS - BROOKLYN",
+  "sed_approved_final_cost" : "265383"
+}
+, {
+  "building_id" : "K540",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LAA",
+  "school_address" : "50 AVENUE X",
+  "school_name" : "JOHN DEWEY HS - BROOKLYN",
+  "sed_approved_final_cost" : "488685"
+}
+, {
+  "building_id" : "X440",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "KWA",
+  "school_address" : "100 W. MOSHOLU PKWY S",
+  "school_name" : "DEWITT CLINTON HS - X",
+  "sed_approved_final_cost" : "1100673"
+}
+, {
+  "building_id" : "Q116",
+  "project_description" : "Building Envelope Improvement - Reconstruction of Exterior Masonry",
+  "project_number" : "KWB",
+  "school_address" : "107-25 WREN PLACE",
+  "school_name" : "P.S. 116 - QUEENS",
+  "sed_approved_final_cost" : "5757499"
+}
+, {
+  "building_id" : "X306",
+  "project_description" : "Emergency Stabilization",
+  "project_number" : "LCJ",
+  "school_address" : "40 WEST TREMONT AVENUE",
+  "school_name" : "P.S. 306 - BRONX",
+  "sed_approved_final_cost" : "46556"
+}
+, {
+  "building_id" : "K014",
+  "project_description" : "Indoor Building Improvement - Conversion of Administrative Space into Classrooms",
+  "project_number" : "LCK",
+  "school_address" : "2424 BATCHELDER STREET",
+  "school_name" : "I.S. 14 - BROOKLYN",
+  "sed_approved_final_cost" : "1390727"
+}
+, {
+  "building_id" : "K656",
+  "project_description" : "Building System Improvement - Installation of a Low-Voltage Electrical System",
+  "project_number" : "L9T",
+  "school_address" : "500 PACIFIC STREET",
+  "school_name" : "BROOKLYN HS OF THE ARTS - BROO",
+  "sed_approved_final_cost" : "1361559"
+}
+, {
+  "building_id" : "K656",
+  "project_description" : "Fire Sprinker System",
+  "project_number" : "L9U",
+  "school_address" : "500 PACIFIC STREET",
+  "school_name" : "BROOKLYN HS OF THE ARTS - BROO",
+  "sed_approved_final_cost" : "3937719"
+}
+, {
+  "building_id" : "K655",
+  "project_description" : "Building System Improvement - Heating Plant Upgrade",
+  "project_number" : "L9V",
+  "school_address" : "345 DEAN STREET",
+  "school_name" : "BROOKLYN HS OF THE ARTS - BROO",
+  "sed_approved_final_cost" : "82949"
+}
+, {
+  "building_id" : "K655",
+  "project_description" : "Ansul System Improvement - Upgrade and reconstruction of kitchen range hood fire extinguis",
+  "project_number" : "L9W",
+  "school_address" : "345 DEAN STREET",
+  "school_name" : "BROOKLYN HS OF THE ARTS - BROO",
+  "sed_approved_final_cost" : "165845"
+}
+, {
+  "building_id" : "K100",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LAF",
+  "school_address" : "2951 WEST 3 STREET",
+  "school_name" : "P.S. 100 - BROOKLYN",
+  "sed_approved_final_cost" : "44701"
+}
+, {
+  "building_id" : "K244",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LAG",
+  "school_address" : "5404 TILDEN AVENUE",
+  "school_name" : "P.S. 244 - BROOKLYN",
+  "sed_approved_final_cost" : "154599"
+}
+, {
+  "building_id" : "K272",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LAH",
+  "school_address" : "101-24 SEAVIEW AVENUE",
+  "school_name" : "P.S. 272 - BROOKLYN",
+  "sed_approved_final_cost" : "201981"
+}
+, {
+  "building_id" : "K281",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LAI",
+  "school_address" : "8787 24 AVENUE",
+  "school_name" : "I.S. 281 - BROOKLYN",
+  "sed_approved_final_cost" : "144310"
+}
+, {
+  "building_id" : "M876",
+  "project_description" : "Emergency Stabilization",
+  "project_number" : "LCL",
+  "school_address" : "501 WEST 165TH STREET",
+  "school_name" : "GREGORIO LUPERON PREP. SCHOOL",
+  "sed_approved_final_cost" : "370322"
+}
+, {
+  "building_id" : "X475",
+  "project_description" : "Emergency Stabilization",
+  "project_number" : "LCM",
+  "school_address" : "99 TERRACE VIEW AVENUE",
+  "school_name" : "MARBLE HILL INTERNATIONAL HS -",
+  "sed_approved_final_cost" : "4058630"
+}
+, {
+  "building_id" : "X027",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LBM",
+  "school_address" : "519 ST ANNS AVENUE",
+  "school_name" : "P.S. 277 - BRONX",
+  "sed_approved_final_cost" : "1143077"
+}
+, {
+  "building_id" : "X077",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LBN",
+  "school_address" : "1250 WARD AVENUE",
+  "school_name" : "P.S. 196 - BRONX",
+  "sed_approved_final_cost" : "1383873"
+}
+, {
+  "building_id" : "Q134",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LBO",
+  "school_address" : "203-02 109TH AVENUE",
+  "school_name" : "P.S. 134 - QUEENS",
+  "sed_approved_final_cost" : "1224876"
+}
+, {
+  "building_id" : "K201",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LBP",
+  "school_address" : "8010 12 AVENUE",
+  "school_name" : "I.S. 201 - BROOKLYN",
+  "sed_approved_final_cost" : "1512176"
+}
+, {
+  "building_id" : "K917",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LBQ",
+  "school_address" : "350 CONEY ISLAND AVENUE",
+  "school_name" : "BROOKLYN COLLEGE ACADEMY - K",
+  "sed_approved_final_cost" : "826107"
+}
+, {
+  "building_id" : "K227",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LBR",
+  "school_address" : "6500 16 AVENUE",
+  "school_name" : "I.S. 227 - BROOKLYN",
+  "sed_approved_final_cost" : "1549753"
+}
+, {
+  "building_id" : "X004",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LBT",
+  "school_address" : "1701 FULTON AVENUE",
+  "school_name" : "P.S. 4 - BRONX",
+  "sed_approved_final_cost" : "1501919"
+}
+, {
+  "building_id" : "X087",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LBU",
+  "school_address" : "1935 BUSSING AVENUE",
+  "school_name" : "P.S. 87 - BRONX",
+  "sed_approved_final_cost" : "562772"
+}
+, {
+  "building_id" : "Q079",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LBV",
+  "school_address" : "147-27 15 DRIVE",
+  "school_name" : "P.S. 79 - QUEENS",
+  "sed_approved_final_cost" : "1388465"
+}
+, {
+  "building_id" : "X045",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LBW",
+  "school_address" : "2502 LORILLARD PLACE",
+  "school_name" : "I.S. 45 - BRONX",
+  "sed_approved_final_cost" : "1464229"
+}
+, {
+  "building_id" : "K610",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LBX",
+  "school_address" : "50 BEDFORD AVENUE",
+  "school_name" : "AUTOMOTIVE TRADES VOC HS - K",
+  "sed_approved_final_cost" : "1665755"
+}
+, {
+  "building_id" : "K486",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LBY",
+  "school_address" : "1171 65 STREET",
+  "school_name" : "I.S. 187 - BROOKLYN",
+  "sed_approved_final_cost" : "1087621"
+}
+, {
+  "building_id" : "Q610",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "L9X",
+  "school_address" : "45-30 36 STREET",
+  "school_name" : "AVIATION HS - QUEENS",
+  "sed_approved_final_cost" : "1282297"
+}
+, {
+  "building_id" : "M052",
+  "project_description" : "Building System Improvement - Reconstruction of Electrical Systems",
+  "project_number" : "L9Y",
+  "school_address" : "650 ACADEMY STREET",
+  "school_name" : "J.H.S. 52 - MANHATTAN",
+  "sed_approved_final_cost" : "2241812"
+}
+, {
+  "building_id" : "Q166",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LCB",
+  "school_address" : "33-09 35 AVENUE",
+  "school_name" : "P.S. 166 - QUEENS",
+  "sed_approved_final_cost" : "956346"
+}
+, {
+  "building_id" : "K874",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LCC",
+  "school_address" : "227 STERLING PLACE",
+  "school_name" : "I.S. 340 - BROOKLYN",
+  "sed_approved_final_cost" : "444965"
+}
+, {
+  "building_id" : "K848",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LCD",
+  "school_address" : "373 PENNSYLVANIA AVENUE",
+  "school_name" : "P.S. 149 - BROOKLYN",
+  "sed_approved_final_cost" : "239339"
+}
+, {
+  "building_id" : "R044",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "LCE",
+  "school_address" : "80 MAPLE PARKWAY",
+  "school_name" : "P.S. 44 - STATEN ISLAND",
+  "sed_approved_final_cost" : "460146"
+}
+, {
+  "building_id" : "Q184",
+  "project_description" : "Auditorium Upgrade - replace and upgrade auditorium sound system and lighting.",
+  "project_number" : "L9Z",
+  "school_address" : "163-15 21 ROAD",
+  "school_name" : "P.S. 184 - QUEENS",
+  "sed_approved_final_cost" : "1463458"
+}
+, {
+  "building_id" : "R045",
+  "project_description" : "Building Envelope Improvement - Reconstruction of Exterior Masonry",
+  "project_number" : "LA0",
+  "school_address" : "58 LAWRENCE AVENUE",
+  "school_name" : "P.S. 45 - STATEN ISLAND",
+  "sed_approved_final_cost" : "6141999"
+}
+, {
+  "building_id" : "R045",
+  "project_description" : "Indoor Building Improvement",
+  "project_number" : "LA1",
+  "school_address" : "58 LAWRENCE AVENUE",
+  "school_name" : "P.S. 45 - STATEN ISLAND",
+  "sed_approved_final_cost" : "1689051"
+}
+, {
+  "building_id" : "K035",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LA2",
+  "school_address" : "272 MCDONOUGH STREET",
+  "school_name" : "I.S. 35 - BROOKLYN",
+  "sed_approved_final_cost" : "356698"
+}
+, {
+  "building_id" : "K057",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LA3",
+  "school_address" : "125 STUYVESANT AVENUE",
+  "school_name" : "J.H.S. 57 - BROOKLYN",
+  "sed_approved_final_cost" : "247194"
+}
+, {
+  "building_id" : "K101",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LA4",
+  "school_address" : "2360 BENSON AVENUE",
+  "school_name" : "P.S. 101 - BROOKLYN",
+  "sed_approved_final_cost" : "81142"
+}
+, {
+  "building_id" : "K625",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LAB",
+  "school_address" : "150 ALBANY AVENUE",
+  "school_name" : "ROBESON HS BUS & TECH - K",
+  "sed_approved_final_cost" : "220352"
+}
+, {
+  "building_id" : "Q410",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LAC",
+  "school_address" : "100-00 BEACH CHANNEL DRIVE",
+  "school_name" : "BEACH CHANNEL HS - QUEENS",
+  "sed_approved_final_cost" : "924074"
+}
+, {
+  "building_id" : "K010",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LAD",
+  "school_address" : "511 7TH AVENUE",
+  "school_name" : "P.S. 10 - BROOKLYN",
+  "sed_approved_final_cost" : "311908"
+}
+, {
+  "building_id" : "K067",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LAE",
+  "school_address" : "51 SAINT EDWARDS STREET",
+  "school_name" : "P.S. 67 - BROOKLYN",
+  "sed_approved_final_cost" : "290527"
+}
+, {
+  "building_id" : "K370",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LAJ",
+  "school_address" : "3000 WEST 1 STREET",
+  "school_name" : "K370 SPED - BROOKLYN",
+  "sed_approved_final_cost" : "134028"
+}
+, {
+  "building_id" : "Q032",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LAK",
+  "school_address" : "171-11 35 AVENUE",
+  "school_name" : "P.S. 32 - QUEENS",
+  "sed_approved_final_cost" : "102712"
+}
+, {
+  "building_id" : "K460",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LAL",
+  "school_address" : "237 7TH AVENUE",
+  "school_name" : "SECONDARY SCHOOL FOR LAW - K",
+  "sed_approved_final_cost" : "267695"
+}
+, {
+  "building_id" : "Q415",
+  "project_description" : "Indoor Building Improvement",
+  "project_number" : "LAM",
+  "school_address" : "57-00 223 STREET",
+  "school_name" : "BENJAMIN N. CARDOZO HS - QUEEN",
+  "sed_approved_final_cost" : "41759"
+}
+, {
+  "building_id" : "X136",
+  "project_description" : "Indoor Building Improvement",
+  "project_number" : "LAN",
+  "school_address" : "750 JENNINGS STREET",
+  "school_name" : "X186 SPED - BRONX",
+  "sed_approved_final_cost" : "729784"
+}
+, {
+  "building_id" : "X136",
+  "project_description" : "Building Envelope Improvement - Reconstruction of Exterior Masonry",
+  "project_number" : "LAO",
+  "school_address" : "750 JENNINGS STREET",
+  "school_name" : "X186 SPED - BRONX",
+  "sed_approved_final_cost" : "3938447"
+}
+, {
+  "building_id" : "X136",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "LAP",
+  "school_address" : "750 JENNINGS STREET",
+  "school_name" : "X186 SPED - BRONX",
+  "sed_approved_final_cost" : "4410981"
+}
+, {
+  "building_id" : "K244",
+  "project_description" : "Indoor Building Improvement",
+  "project_number" : "LAQ",
+  "school_address" : "5404 TILDEN AVENUE",
+  "school_name" : "P.S. 244 - BROOKLYN",
+  "sed_approved_final_cost" : "317986"
+}
+, {
+  "building_id" : "K244",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "LAR",
+  "school_address" : "5404 TILDEN AVENUE",
+  "school_name" : "P.S. 244 - BROOKLYN",
+  "sed_approved_final_cost" : "1430938"
+}
+, {
+  "building_id" : "K244",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "LAT",
+  "school_address" : "5404 TILDEN AVENUE",
+  "school_name" : "P.S. 244 - BROOKLYN",
+  "sed_approved_final_cost" : "1784673"
+}
+, {
+  "building_id" : "K244",
+  "project_description" : "Building Envelope Improvement - Window and Door Replacement",
+  "project_number" : "LAU",
+  "school_address" : "5404 TILDEN AVENUE",
+  "school_name" : "P.S. 244 - BROOKLYN",
+  "sed_approved_final_cost" : "5353952"
+}
+, {
+  "building_id" : "M167",
+  "project_description" : "Indoor Building Improvement",
+  "project_number" : "LAV",
+  "school_address" : "220 EAST 76 STREET",
+  "school_name" : "I.S. 167 - MANHATTAN",
+  "sed_approved_final_cost" : "1157814"
+}
+, {
+  "building_id" : "M167",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "LAW",
+  "school_address" : "220 EAST 76 STREET",
+  "school_name" : "I.S. 167 - MANHATTAN",
+  "sed_approved_final_cost" : "1833154"
+}
+, {
+  "building_id" : "M167",
+  "project_description" : "Building Envelope Improvement - Window and Door Replacement",
+  "project_number" : "LAX",
+  "school_address" : "220 EAST 76 STREET",
+  "school_name" : "I.S. 167 - MANHATTAN",
+  "sed_approved_final_cost" : "579187"
+}
+, {
+  "building_id" : "K208",
+  "project_description" : "Indoor Building Improvement",
+  "project_number" : "LAY",
+  "school_address" : "4801 AVENUE D",
+  "school_name" : "P.S. 208 - BROOKLYN",
+  "sed_approved_final_cost" : "564011"
+}
+, {
+  "building_id" : "K208",
+  "project_description" : "Building Envelope Improvement - Window and Door Replacement",
+  "project_number" : "LAZ",
+  "school_address" : "4801 AVENUE D",
+  "school_name" : "P.S. 208 - BROOKLYN",
+  "sed_approved_final_cost" : "1374918"
+}
+, {
+  "building_id" : "M144",
+  "project_description" : "Architectural and Barrier Removal",
+  "project_number" : "LB0",
+  "school_address" : "134 WEST 122 STREET",
+  "school_name" : "P.S. 242 - MANHATTAN",
+  "sed_approved_final_cost" : "365380"
+}
+, {
+  "building_id" : "Q116",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "LB1",
+  "school_address" : "107-25 WREN PLACE",
+  "school_name" : "P.S. 116 - QUEENS",
+  "sed_approved_final_cost" : "1547801"
+}
+, {
+  "building_id" : "Q116",
+  "project_description" : "Indoor Building Improvement -",
+  "project_number" : "LB2",
+  "school_address" : "107-25 WREN PLACE",
+  "school_name" : "P.S. 116 - QUEENS",
+  "sed_approved_final_cost" : "1103086"
+}
+, {
+  "building_id" : "Q116",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "LB3",
+  "school_address" : "107-25 WREN PLACE",
+  "school_name" : "P.S. 116 - QUEENS",
+  "sed_approved_final_cost" : "3690893"
+}
+, {
+  "building_id" : "X435",
+  "project_description" : "Indoor Building Improvement - Conversion of Administrative Space into Classrooms",
+  "project_number" : "LBE",
+  "school_address" : "500 EAST FORDHAM ROAD",
+  "school_name" : "KAPPA - BRONX",
+  "sed_approved_final_cost" : "196734"
+}
+, {
+  "building_id" : "Q072",
+  "project_description" : "Indoor Building Improvement - Conversion of Administrative Space into Classrooms",
+  "project_number" : "LBF",
+  "school_address" : "133-25  GUY R. BREWER",
+  "school_name" : "REDWOOD MIDDLE SCHOOL",
+  "sed_approved_final_cost" : "31499"
+}
+, {
+  "building_id" : "K293",
+  "project_description" : "Building Envelope Improvement - Parapet Reconstruction",
+  "project_number" : "LBG",
+  "school_address" : "284 BALTIC STREET",
+  "school_name" : "SCHOOL FOR INT'L STUD - K",
+  "sed_approved_final_cost" : "6534354"
+}
+, {
+  "building_id" : "X373",
+  "project_description" : "Leased Facility Improvements",
+  "project_number" : "LBH",
+  "school_address" : "3560  WEBSTER AVENUE",
+  "school_name" : "PS X000 - BRONX",
+  "sed_approved_final_cost" : "3414405"
+}
+, {
+  "building_id" : "K031",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LBI",
+  "school_address" : "75 MESEROLE AVENUE",
+  "school_name" : "P.S. 31 - BROOKLYN",
+  "sed_approved_final_cost" : "970738"
+}
+, {
+  "building_id" : "Q029",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LBJ",
+  "school_address" : "125-10 23 AVENUE",
+  "school_name" : "P.S. 29 - QUEENS",
+  "sed_approved_final_cost" : "227526"
+}
+, {
+  "building_id" : "K112",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LBK",
+  "school_address" : "7115 15 AVENUE",
+  "school_name" : "P.S. 112 - BROOKLYN",
+  "sed_approved_final_cost" : "686649"
+}
+, {
+  "building_id" : "K195",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LBL",
+  "school_address" : "131 IRWIN STREET",
+  "school_name" : "P.S. 195 - BROOKLYN",
+  "sed_approved_final_cost" : "874459"
+}
+, {
+  "building_id" : "K824",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LBZ",
+  "school_address" : "402 EASTERN PARKWAY",
+  "school_name" : "W.E.B.  DUBOIS HS - BROOKLYN",
+  "sed_approved_final_cost" : "821621"
+}
+, {
+  "building_id" : "X055",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LC0",
+  "school_address" : "450 SAINT PAUL'S PLACE",
+  "school_name" : "P.S. 55 - BRONX",
+  "sed_approved_final_cost" : "1651295"
+}
+, {
+  "building_id" : "K094",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LC1",
+  "school_address" : "5010 6TH AVENUE",
+  "school_name" : "P.S. 94 - BROOKLYN",
+  "sed_approved_final_cost" : "1365198"
+}
+, {
+  "building_id" : "K246",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LC2",
+  "school_address" : "72 VERONICA PLACE",
+  "school_name" : "I.S. 246 - BROOKLYN",
+  "sed_approved_final_cost" : "1832383"
+}
+, {
+  "building_id" : "K247",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LC3",
+  "school_address" : "7000 21 AVENUE",
+  "school_name" : "P.S. 247 - BROOKLYN",
+  "sed_approved_final_cost" : "1175289"
+}
+, {
+  "building_id" : "Q023",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LC4",
+  "school_address" : "138-11 35 AVENUE",
+  "school_name" : "QUEENS ACADEMY HIGH SCHOOL - Q",
+  "sed_approved_final_cost" : "569073"
+}
+, {
+  "building_id" : "Q140",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LC5",
+  "school_address" : "166-01 116 AVENUE",
+  "school_name" : "P.S. 140 - QUEENS",
+  "sed_approved_final_cost" : "1547561"
+}
+, {
+  "building_id" : "M001",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LC6",
+  "school_address" : "8 HENRY STREET",
+  "school_name" : "P.S. 1 - MANHATTAN",
+  "sed_approved_final_cost" : "1125298"
+}
+, {
+  "building_id" : "K104",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LC7",
+  "school_address" : "9115 5TH AVENUE",
+  "school_name" : "P.S. 104 - BROOKLYN",
+  "sed_approved_final_cost" : "1087722"
+}
+, {
+  "building_id" : "K415",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LC8",
+  "school_address" : "5800 TILDEN AVENUE",
+  "school_name" : "IT TAKES A VILLAGE ACADEMY - K",
+  "sed_approved_final_cost" : "761656"
+}
+, {
+  "building_id" : "X655",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LC9",
+  "school_address" : "455 SOUTHERN BLVD",
+  "school_name" : "SAMUEL GOMPERS VOC HS - X",
+  "sed_approved_final_cost" : "1501386"
+}
+, {
+  "building_id" : "Q117",
+  "project_description" : "Building System Improvement - Electrical Lighting Fixtures",
+  "project_number" : "LCA",
+  "school_address" : "85-15 143RD STREET",
+  "school_name" : "P.S. 117 - QUEENS",
+  "sed_approved_final_cost" : "1033094"
+}
+ ]

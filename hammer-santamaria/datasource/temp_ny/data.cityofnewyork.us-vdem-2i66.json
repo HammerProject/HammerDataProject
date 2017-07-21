@@ -1,0 +1,1755 @@
+[ {
+  "data_set_title" : "Adopted Highway Service Ratings",
+  "dataset_description" : "NYC highways that receive a cleanliness rating of good (%).",
+  "date_status" : "Updated",
+  "agency" : "Department of Transportation (DOT)",
+  "release_date" : "2016-07-15T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "To Be Determined"
+}
+, {
+  "data_set_title" : "Bicycle network connectivity index",
+  "dataset_description" : "Bicycle network connectivity index.",
+  "date_status" : "Updated",
+  "agency" : "Department of Transportation (DOT)",
+  "release_date" : "2016-07-15T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "To Be Determined"
+}
+, {
+  "data_set_title" : "Bridge ratings",
+  "dataset_description" : "Bridges rated good or very good (%) (calendar year).",
+  "date_status" : "Updated",
+  "agency" : "Department of Transportation (DOT)",
+  "release_date" : "2016-07-15T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "To Be Determined"
+}
+, {
+  "data_set_title" : "Pothole work orders",
+  "dataset_description" : "Average time to close a pothole work order where repair was done (days).",
+  "date_status" : "Updated",
+  "agency" : "Department of Transportation (DOT)",
+  "release_date" : "2016-07-15T00:00:00",
+  "agency_comment" : "Under review – privacy or sensitivity considerations",
+  "update_frequency" : "To Be Determined"
+}
+, {
+  "data_set_title" : "Future Protected Streets - Intersections",
+  "dataset_description" : "List of Future Protected Streets for intersections. ",
+  "date_status" : "New",
+  "agency" : "Department of Transportation (DOT)",
+  "release_date" : "2016-07-15T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "Future Protected Streets - Segments",
+  "dataset_description" : "List of Future Protected Streets for segments. ",
+  "date_status" : "New",
+  "agency" : "Department of Transportation (DOT)",
+  "release_date" : "2016-07-15T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "Protected Streets - Intersections",
+  "dataset_description" : "Current list of Protected Streets for intersections. ",
+  "date_status" : "New",
+  "agency" : "Department of Transportation (DOT)",
+  "release_date" : "2016-07-15T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "Protected Streets - Segments",
+  "dataset_description" : "Current list of Protected Streets for segments.",
+  "date_status" : "New",
+  "agency" : "Department of Transportation (DOT)",
+  "release_date" : "2016-07-15T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "Electric Consumption and Cost",
+  "dataset_description" : "Monthly consumption and cost data by borough and development. Data set includes utility vendor and meter information.   ",
+  "date_status" : "New",
+  "agency" : "New York City Housing Authority (NYCHA)",
+  "release_date" : "2016-07-15T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Water Consumption and Cost",
+  "dataset_description" : "Monthly consumption and cost data by borough and development. Data set includes utility vendor and meter information.   ",
+  "date_status" : "New",
+  "agency" : "New York City Housing Authority (NYCHA)",
+  "release_date" : "2016-07-15T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Heating Gas Consumption and Cost",
+  "dataset_description" : "Monthly consumption and cost data by borough and development. Data set includes utility vendor and meter information.   ",
+  "date_status" : "New",
+  "agency" : "New York City Housing Authority (NYCHA)",
+  "release_date" : "2016-07-15T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Cooking Gas Consumption and Cost",
+  "dataset_description" : "Monthly consumption and cost data by borough and development. Data set includes utility vendor and meter information.   ",
+  "date_status" : "New",
+  "agency" : "New York City Housing Authority (NYCHA)",
+  "release_date" : "2016-07-15T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Oil Consumption and Cost",
+  "dataset_description" : "Monthly consumption and cost data by borough and development. Data set includes utility vendor and meter information.   ",
+  "date_status" : "New",
+  "agency" : "New York City Housing Authority (NYCHA)",
+  "release_date" : "2016-07-15T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Steam Consumption and Cost",
+  "dataset_description" : "Monthly consumption and cost data by borough and development. Data set includes utility vendor and meter information.   ",
+  "date_status" : "New",
+  "agency" : "New York City Housing Authority (NYCHA)",
+  "release_date" : "2016-07-15T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Requests for Evaluation",
+  "dataset_description" : "Tabular dataset containing property information, request dates, determinations and determination dates, beginning in 2001.",
+  "date_status" : "Updated",
+  "agency" : "Landmarks Preservation Commission (LPC)",
+  "release_date" : "2016-07-29T00:00:00",
+  "agency_comment" : "Under review – privacy or sensitivity considerations",
+  "update_frequency" : "To Be Determined"
+}
+, {
+  "data_set_title" : "Waterfront Revitalization Program (WRP) ",
+  "dataset_description" : "Geodatabase of various geographies related to the Waterfront Revitalization Program (WRP), the city's principal coastal zone management tool. ",
+  "date_status" : "New",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2016-07-31T00:00:00",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "WRP Arthur Kill Ecologically Sensitive Maritime and Industrial Area (ESMIA)",
+  "dataset_description" : "Shapefile of ESMIA, an area on the West Shore of Staten Island that is both uniquely well-suited to maritime and industrial development and possesses significant natural resources and ecological systems. Part of  New York City's Waterfront Revitalization Program (WRP).",
+  "date_status" : "New",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2016-07-31T00:00:00",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "WRP Priority Marine Activity Zones (PMAZ) ",
+  "dataset_description" : "Shapefile of PMAZ, areas with concentrations of waterborne transportation uses and important nodes that support the city's waterborne transportation and maritime activities. Part of  New York City's Waterfront Revitalization Program (WRP).",
+  "date_status" : "New",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2016-07-31T00:00:00",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "WRP Recognized Ecological Complexes (REC)",
+  "dataset_description" : "Shapefile of REC,  clusters of valuable natural features which are more fragmented than those in the SNWAs and are often interspersed with developed sites.",
+  "date_status" : "New",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2016-07-31T00:00:00",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Bike Counts (shapefile)",
+  "dataset_description" : "Shapefile of bicycle traffic counts collected at 16 locations (11 on-street, 5 greenway).",
+  "date_status" : "New",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2016-07-31T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Zoning Section Map Index",
+  "dataset_description" : "Shapefile of zoning section map index, grid to determine which zoning section map relates to specific areas of NYC.",
+  "date_status" : "New",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2016-07-31T00:00:00",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Zoning Quartersection Map Index",
+  "dataset_description" : "Shapefile of zoning quartersection map index. Grid to determine which zoning quartersection map relates to specific areas of NYC.",
+  "date_status" : "New",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2016-07-31T00:00:00",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Georeferenced NYC Zoning Maps",
+  "dataset_description" : "Raster dataset of the entire zoning map catalog for the City of New York as one seamless citywide zoning map.",
+  "date_status" : "New",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2016-07-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Non- Structural Fire incident information by incident type",
+  "dataset_description" : "This database contains detailed information on individual non-Structural Fire Incidents as completed by the Fire Officer.",
+  "date_status" : "Updated",
+  "agency" : "Fire Department of New York (FDNY)",
+  "release_date" : "2016-08-01T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Structural Fire incident information by incident type",
+  "dataset_description" : "This database contains detailed information on individual Structural Fire Incidents as completed by the Fire Officer.",
+  "date_status" : "Updated",
+  "agency" : "Fire Department of New York (FDNY)",
+  "release_date" : "2016-08-01T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Emergency  incident information by incident type",
+  "dataset_description" : "This database contains detailed information on individual Emergency Incidents as completed by the Fire Officer.",
+  "date_status" : "Updated",
+  "agency" : "Fire Department of New York (FDNY)",
+  "release_date" : "2016-08-01T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Fire Medical incident information by incident type",
+  "dataset_description" : "This database contains detailed information on individual Medical Incidents as completed by the Fire Officer.",
+  "date_status" : "Updated",
+  "agency" : "Fire Department of New York (FDNY)",
+  "release_date" : "2016-08-01T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Weights, Measures, and Other Tests",
+  "dataset_description" : "Detailed information about DCA inspections of scales, measuring devices, pricing, and other equipment.",
+  "date_status" : "New",
+  "agency" : "Department of Consumer Affairs (DCA)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Weekly"
+}
+, {
+  "data_set_title" : "Scene investigations",
+  "dataset_description" : "Cases where a Scene Investigation was conducted by the OCME.",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Evidence submissions received for DNA analysis",
+  "dataset_description" : "Number of cases received by the OCME for DNA analysis.",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Cases Where Medical Examiner Takes Jurisdiction",
+  "dataset_description" : "Number of cases where OCME took jurisdiction.",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "MLI Scene Arrivals in Median time (hours)",
+  "dataset_description" : "Time to arrive at the Scene.",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Cremation Requests",
+  "dataset_description" : "Number of Cremation Requests received by the OCME.",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Cremation Requests Processed in Median time (minutes)",
+  "dataset_description" : "Cremation request processing time.",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Autopsies Performed",
+  "dataset_description" : "Number of Autopsies performed by the OCME.",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "External Examinations",
+  "dataset_description" : "Number of External Exams (No-Autopsy) performed by the OCME.",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Autopsy Reports Completed in Median time (median time in calendar days)",
+  "dataset_description" : "Time to finalize autopsy report.",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Toxicology Cases Received",
+  "dataset_description" : "Number of Toxicology cases received by the OCME (Medical Examiner Cases).",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Toxicology Cases Completed (median time in calendar days)",
+  "dataset_description" : "Toxicology report completed (Medical Examiner Cases).",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Toxicology DUI Cases Received",
+  "dataset_description" : "Number of Toxicology cases received by the OCME from NYPD (Driving Under the Influence Cases).",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Toxicology DUI Cases Completed (median time in calendar days)",
+  "dataset_description" : "Toxicology report completed (Driving Under the Influence Cases).",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Toxicology Sexual Assault Cases Received",
+  "dataset_description" : "Number of Toxicology cases received by the OCME from NYPD (Sexual Assault Cases).",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Toxicology Sexual Assault Cases Completed (median time in calendar days)",
+  "dataset_description" : "Toxicology report completed (Sexual Assault Cases).",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Deaths Reported to Medical Examiner's Office",
+  "dataset_description" : "Number of Deaths reported to the OCME.",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "DNA matches with profiles in CODIS",
+  "dataset_description" : "DNA matches with profiles in CODIS (FBI DNA Database).",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Average days to complete analysis of DNA cases",
+  "dataset_description" : "Average days to complete analysis of DNA cases.",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "DNA Homicide Cases Completed, from Evidence Submission to Report in median time",
+  "dataset_description" : "DNA Homicide Cases Completed, from Evidence Submission to Report in median time.",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "DNA Sexual Assault Cases Completed, from Evidence Submission to Report in median time",
+  "dataset_description" : "DNA Sexual Assault Cases Completed, from Evidence Submission to Report in median time.",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "DNA Property Crime Cases Completed, from Evidence Submission to Report in median time",
+  "dataset_description" : "DNA Property Crime Cases Completed, from Evidence Submission to Report in median time.",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Number of decedent's remains transported and stored by OCME",
+  "dataset_description" : "Number of decedent's remains transported and stored by OCME.",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Decedents removed from scene (non-hospital) after investigation in median time (minutes)",
+  "dataset_description" : "Decedents removed from scene (non-hospital) after investigation in median time (minutes).",
+  "date_status" : "No Change",
+  "agency" : "Office of Chief Medical Examiner (OCME)",
+  "release_date" : "2016-08-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Monuments",
+  "dataset_description" : "Monuments located in NYC Parks.",
+  "date_status" : "New",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "release_date" : "2016-09-15T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Drinking Fountains",
+  "dataset_description" : "Drinking Fountain counts reported by the Parks Inspection Program.",
+  "date_status" : "New",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "release_date" : "2016-09-15T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Certifications List",
+  "dataset_description" : "A Certification may contain part of a list, the whole list or multiple lists, for a particular title that has been established. It also contains the names of individuals that appear on the eligible list in list sequence order, who may be considered for probable appointment for an agency to fill vacancies and/or replace provisionals.",
+  "date_status" : "New",
+  "agency" : "Department of Citywide Administrative Services (DCAS)",
+  "release_date" : "2016-09-30T00:00:00",
+  "agency_comment" : "Reprioritization to reflect agency needs",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "\"Youth Behavioral Risk Survey\" (Epiquery)",
+  "dataset_description" : "Dataset contains health risk behaviors that contribute to the leading cause of mortality, morbidity and social problems among youth. ",
+  "date_status" : "No Change",
+  "agency" : "Department of Health and Mental Hygiene (DOHMH)",
+  "release_date" : "2016-09-30T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "2015 Community Health Profiles",
+  "dataset_description" : "Dataset for the 2016 Community Health Profiles.",
+  "date_status" : "No Change",
+  "agency" : "Department of Health and Mental Hygiene (DOHMH)",
+  "release_date" : "2016-09-30T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Birth Data",
+  "dataset_description" : "Live births in New York City by jurisdiction.",
+  "date_status" : "Updated",
+  "agency" : "Department of Health and Mental Hygiene (DOHMH)",
+  "release_date" : "2016-09-30T00:00:00",
+  "agency_comment" : "Error in original publishing date",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Community Health Survey (EpiQuery)",
+  "dataset_description" : "Results from DOHMH's annual telephone survey on the health of New Yorkers.",
+  "date_status" : "No Change",
+  "agency" : "Department of Health and Mental Hygiene (DOHMH)",
+  "release_date" : "2016-09-30T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Reportable Disease Surveillance Data",
+  "dataset_description" : "Dataset contains information on cases of reportable diseases (not including STDs, Tuberculosis or HIV) in New York City.",
+  "date_status" : "Updated",
+  "agency" : "Department of Health and Mental Hygiene (DOHMH)",
+  "release_date" : "2016-09-30T00:00:00",
+  "agency_comment" : "Delays in system implementation",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Reportable Disease Surveillance Data/ HIV (EpiQuery) ",
+  "dataset_description" : "Dataset contains information related to reportable cases of HIV.",
+  "date_status" : "No Change",
+  "agency" : "Department of Health and Mental Hygiene (DOHMH)",
+  "release_date" : "2016-09-30T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Tuberculosis Surveillance Data",
+  "dataset_description" : "Dataset contains information on Tuberculosis cases reported in New York City.",
+  "date_status" : "Updated",
+  "agency" : "Department of Health and Mental Hygiene (DOHMH)",
+  "release_date" : "2016-09-30T00:00:00",
+  "agency_comment" : "Delays in system implementation",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Fire incident dispatch information",
+  "dataset_description" : "TBD",
+  "date_status" : "Updated",
+  "agency" : "Fire Department of New York (FDNY)",
+  "release_date" : "2016-10-01T00:00:00",
+  "agency_comment" : "Under review – privacy or sensitivity considerations",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Medical incident dispatch information",
+  "dataset_description" : "TBD",
+  "date_status" : "Updated",
+  "agency" : "Fire Department of New York (FDNY)",
+  "release_date" : "2016-10-01T00:00:00",
+  "agency_comment" : "Under review – privacy or sensitivity considerations",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Adult Operations Active Supervision Case Count by Type",
+  "dataset_description" : "Number of active adult supervision cases at the end of each month, by supervision category.",
+  "date_status" : "New",
+  "agency" : "Department of Probation (DOP)",
+  "release_date" : "2016-10-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Juvenile Operations Active Supervision Case Count by Type",
+  "dataset_description" : "Number of active juvenile supervision cases at the end of each month, by supervision category.",
+  "date_status" : "New",
+  "agency" : "Department of Probation (DOP)",
+  "release_date" : "2016-10-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Adult Operations Investigations Ordered ",
+  "dataset_description" : "Number of pre-sentence investigation reports ordered for adults each month, by custody status.",
+  "date_status" : "New",
+  "agency" : "Department of Probation (DOP)",
+  "release_date" : "2016-10-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Juvenile Operations Investigations Assigned",
+  "dataset_description" : "Number of investigation reports ordered by courts for Juvenile Operations each month.",
+  "date_status" : "New",
+  "agency" : "Department of Probation (DOP)",
+  "release_date" : "2016-10-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Adult Operations Supervision Case Closings by Type",
+  "dataset_description" : "Number of active supervision cases closed each  month, by supervision category.",
+  "date_status" : "New",
+  "agency" : "Department of Probation (DOP)",
+  "release_date" : "2016-10-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Adult Operations Supervision Case Closings by Reason",
+  "dataset_description" : "Number of active supervision cases closed each  month, by closing type category.",
+  "date_status" : "New",
+  "agency" : "Department of Probation (DOP)",
+  "release_date" : "2016-10-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Juvenile Operations Supervision Case Closings by Type",
+  "dataset_description" : "Number of active supervision cases closed each  month, by supervision category.",
+  "date_status" : "New",
+  "agency" : "Department of Probation (DOP)",
+  "release_date" : "2016-10-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Juvenile Operations Supervision Case Closings by Reason",
+  "dataset_description" : "Number of active supervision cases closed each  month, by closing type category.",
+  "date_status" : "New",
+  "agency" : "Department of Probation (DOP)",
+  "release_date" : "2016-10-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Performance Management",
+  "dataset_description" : "This dataset contains select monthly performance statistics that are regularly reported electronically to the Mayor's Office of Operations.",
+  "date_status" : "No Change",
+  "agency" : "Department of Investigation (DOI)",
+  "release_date" : "2016-10-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Corruption and Whistleblower Lectures ",
+  "dataset_description" : "This dataset contains  the number of lectures presented each month by specific Inspector General units, and the number of attendees at each lecture.",
+  "date_status" : "No Change",
+  "agency" : "Department of Investigation (DOI)",
+  "release_date" : "2016-10-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Customer Service ",
+  "dataset_description" : "This dataset contains statistics on indicators such as the number of emails sent to the agency, and the number of walk-in visits to the agency's headquarters (80 Maiden Lane).",
+  "date_status" : "No Change",
+  "agency" : "Department of Investigation (DOI)",
+  "release_date" : "2016-10-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "City Marshals Revenue ",
+  "dataset_description" : "This dataset contains annual revenue statistics compiled by the agency's Marshal's Unit.",
+  "date_status" : "No Change",
+  "agency" : "Department of Investigation (DOI)",
+  "release_date" : "2016-10-01T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Inspections",
+  "dataset_description" : "Tracks location, date and outcome of inspections of permitted, privately operated Municipal Solid Waste disposal locations.",
+  "date_status" : "No Change",
+  "agency" : "Department of Sanitation (DSNY)",
+  "release_date" : "2016-10-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Building inspections completed by inspection type/Number of risk buildings inspected",
+  "dataset_description" : "TBD",
+  "date_status" : "Updated",
+  "agency" : "Fire Department of New York (FDNY)",
+  "release_date" : "2016-11-01T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Case information",
+  "dataset_description" : "Case-related information, such as parties to litigation.",
+  "date_status" : "Updated",
+  "agency" : "Law Department (LAW)",
+  "release_date" : "2016-11-15T00:00:00",
+  "agency_comment" : "Under review – privacy or sensitivity considerations",
+  "update_frequency" : "Semi-Annually"
+}
+, {
+  "data_set_title" : "Financial Plan Expense--Nov",
+  "dataset_description" : "This file contains agency summary level data for PS, OTPS and Total by type of funds.  The dollar amount fields are rounded to the thousands.  The November report,  which may be published in October, November or December each year,  contains the current fiscal year plus three out years of data which  coincide with the release of the published financial plan  ",
+  "date_status" : "New",
+  "agency" : "Mayor's Office of Management and Budget (OMB)",
+  "release_date" : "2016-11-30T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Licensing Report",
+  "dataset_description" : "Will contain licensing data such as licensee name, license type, etc.",
+  "date_status" : "No Change",
+  "agency" : "Department of Buildings (DOB)",
+  "release_date" : "2016-12-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Five Year Plan Summary by Citywide Category ",
+  "dataset_description" : "Five year plan summary cost by citywide category .",
+  "date_status" : "No Change",
+  "agency" : "NYC School Construction Authority (SCA)",
+  "release_date" : "2016-12-01T00:00:00",
+  "update_frequency" : "Bi-Annually"
+}
+, {
+  "data_set_title" : "Local Law 1 Plan",
+  "dataset_description" : "The commissioner, in consultation with the city chief procurement officer, shall, no later than July 31 of each year, publish on the division's website a plan and schedule for each agency detailing the anticipated contracting actions for the upcoming fiscal year that form the basis for the agency utilization plan of each such agency.",
+  "date_status" : "Updated",
+  "agency" : "Office of the Mayor (OTM)",
+  "release_date" : "2016-12-01T00:00:00",
+  "agency_comment" : "additional data quality review required",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Human Services Plan",
+  "dataset_description" : "A Plan \"detailing the procurement actions anticipated with respect to each contract set to expire and/or planned for continuation during the upcoming fiscal year. The plan should include, but is not be limited to: \"the type of services to be provided, the authorized maximum amount of funding associated with the program, the authorized number of contracts to be let for a particular program, and the month and year of the next planned competitive solicitation\"",
+  "date_status" : "Updated",
+  "agency" : "Office of the Mayor (OTM)",
+  "release_date" : "2016-12-01T00:00:00",
+  "agency_comment" : "additional data quality review required",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "LL63 of 2011 Plan",
+  "dataset_description" : "Pursuant to  312(a) of the City Charter, as amended by Local Law 63 of 2011, the Mayor's Office is required to publish a plan and schedule for each City agency detailing the anticipated contracting actions of each agency for the upcoming fiscal year for certain categories of procurement.",
+  "date_status" : "Updated",
+  "agency" : "Office of the Mayor (OTM)",
+  "release_date" : "2016-12-01T00:00:00",
+  "agency_comment" : "Delays in system implementation",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Daily Tasks",
+  "dataset_description" : "Record of park cleaning activities.",
+  "date_status" : "New",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "release_date" : "2016-12-01T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Mandatory Inclusionary Housing",
+  "dataset_description" : "A shapefile of the mapped areas in which the Mandatory Inclusionary Housing Program is applicable.",
+  "date_status" : "New",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2016-12-31T00:00:00",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Recent Bid Tabulations",
+  "dataset_description" : "The Office of Citywide Purchasing (OCP) solicits and awards contracts for a wide variety of goods and services on behalf of all City agencies.",
+  "date_status" : "Updated",
+  "agency" : "Department of Citywide Administrative Services (DCAS)",
+  "release_date" : "2016-12-31T00:00:00",
+  "agency_comment" : "Enhancements to legacy systems ",
+  "update_frequency" : "Weekly"
+}
+, {
+  "data_set_title" : "Waiting List for General Vendor Licenses",
+  "dataset_description" : "Applicants placed on waiting list for General Vendor licenses after annual lottery. (Lottery not always held each year.)",
+  "date_status" : "Updated",
+  "agency" : "Department of Consumer Affairs (DCA)",
+  "release_date" : "2016-12-31T00:00:00",
+  "agency_comment" : "Reprioritization to reflect agency needs",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Death/Mortality Data",
+  "dataset_description" : "The cause of mortality by jurisdiction in New York City since 2001.",
+  "date_status" : "Updated",
+  "agency" : "Department of Health and Mental Hygiene (DOHMH)",
+  "release_date" : "2016-12-31T00:00:00",
+  "agency_comment" : "Error in original publishing date",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Mobile Vending Permitting",
+  "dataset_description" : "Dataset contains information on mobile food vending permits and inspections",
+  "date_status" : "Updated",
+  "agency" : "Department of Health and Mental Hygiene (DOHMH)",
+  "release_date" : "2016-12-31T00:00:00",
+  "agency_comment" : "Delays in system implementation",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Sexually Transmitted Diseases Surveillance Data",
+  "dataset_description" : "Dataset contains information on cases of reportable Sexually Transmitted Diseases in New York City.",
+  "date_status" : "Updated",
+  "agency" : "Department of Health and Mental Hygiene (DOHMH)",
+  "release_date" : "2016-12-31T00:00:00",
+  "agency_comment" : "Delays in system implementation",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Capital project schedules and budgets",
+  "dataset_description" : "List of capital projects with managing organization, phase status and project costs.",
+  "date_status" : "No Change",
+  "agency" : "NYC School Construction Authority (SCA)",
+  "release_date" : "2016-12-31T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Annual tax effort in NYC since 1960",
+  "dataset_description" : "Annual tax effort (revenue per $100 of taxable resources) with back-up tables for major tax sources, taxable resources.",
+  "date_status" : "Updated",
+  "agency" : "NYC Independent Budget Office (IBO)",
+  "release_date" : "2017-01-15T00:00:00",
+  "agency_comment" : "Reprioritization to reflect agency needs",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "2015 Street Tree Census",
+  "dataset_description" : "Final, complete citywide street tree data from the 2015 Street Tree Census, conducted by volunteers organized by NYC Parks & Recreation.  ",
+  "date_status" : "New",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "release_date" : "2017-01-15T00:00:00",
+  "update_frequency" : "Historical"
+}
+, {
+  "data_set_title" : "Health, Restaurant and Consumer Hearings Case Status",
+  "dataset_description" : "This dataset contains case tracking information on the status of each notice of violation received and processed by the OATH Hearings Division-Health, Restaurant and Consumer Hearings.",
+  "date_status" : "No Change",
+  "agency" : "Office of Administrative Trials and Hearings (OATH)",
+  "release_date" : "2017-01-31T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "School Age Ridership",
+  "dataset_description" : "Summary of documented students by OPT school code.",
+  "date_status" : "Updated",
+  "agency" : "Department of Education (DOE)",
+  "release_date" : "2017-02-01T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Midday Trips",
+  "dataset_description" : "List of daily field trip destinations for a month along with number of trips and number of vehicles.",
+  "date_status" : "Updated",
+  "agency" : "Department of Education (DOE)",
+  "release_date" : "2017-02-01T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Tree Inventory ",
+  "dataset_description" : "Routinely updated data on street and park trees under the jurisdiction of NYC Parks.  Park tree inventory data is known to be incomplete, and only captured through routine forestry operations.",
+  "date_status" : "New",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "release_date" : "2017-03-01T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Tree Related Inspection, Work Order and Stewardship Activity Data",
+  "dataset_description" : "Inspection Info - ratings for inspections, by both park inspectors and park supervisors, of all city parks; Found Conditions - issues discovered during inspections which require attention by staff.",
+  "date_status" : "New",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "release_date" : "2017-03-01T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Pool Inspections",
+  "dataset_description" : "Dataset contains information on inspections of pools.",
+  "date_status" : "No Change",
+  "agency" : "Department of Health and Mental Hygiene (DOHMH)",
+  "release_date" : "2017-06-01T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Cable Complaints",
+  "dataset_description" : "Details on complaints made to DoITT’s cable franchising center.",
+  "date_status" : "No Change",
+  "agency" : "Department of Information Technology and Telecommunications (DoITT)",
+  "release_date" : "2017-06-01T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise",
+  "dataset_description" : "Geodatabase of projected sea level rise based on models released by  New York City Panel on Climate Change (NPCC). Data includes the 10th, 25th, 50th, 75th and 90th percentile projections for the years 2020, 2050, 2080 and 2100.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2020 (2 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 10th percentile in the year 2020.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2020 (4 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 25th percentile in the year 2020.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2020 (6 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 50th percentile in the year 2020.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2020 (8 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 75th percentile in the year 2020.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2020 (10 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 90th percentile in the year 2020.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2050 (8 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 10th percentile in the year 2050.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2050 (11 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 25th percentile in the year 2050.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2050 (16 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 50th percentile in the year 2050.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2050 (21 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 75th percentile in the year 2050.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2050 (30 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 90th percentile in the year 2050.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2080 (13 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 10th percentile in the year 2080.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2080 (18 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 25th percentile in the year 2080.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2080 (29 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 50th percentile in the year 2080.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2080 (39 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 75th percentile in the year 2080.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2080 (58 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 90th percentile in the year 2080.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2100 (15 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 10th percentile in the year 2100.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2100 (22 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 25th percentile in the year 2100.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2100 (36 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 50th percentile in the year 2100.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2100 (50 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 75th percentile in the year 2100.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Projected Sea Level Rise 2100 (75 inches)",
+  "dataset_description" : "Shapefile of projected sea level rise model for the 90th percentile in the year 2100.",
+  "date_status" : "Updated",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "As Needed"
+}
+, {
+  "data_set_title" : "Revocations and Suspensions",
+  "dataset_description" : "All revocations and suspensions ordered by tribunal.",
+  "date_status" : "Updated",
+  "agency" : "Department of Consumer Affairs (DCA)",
+  "release_date" : "2017-06-30T00:00:00",
+  "agency_comment" : "Reprioritization to reflect agency needs",
+  "update_frequency" : "Weekly"
+}
+, {
+  "data_set_title" : "Demographic Profiles of ACS 5 Year Estimates at the Neighborhood Tabulation Area (NTA) level ",
+  "dataset_description" : "Four tables of ACS demographic profiles for 2011 to 2015 at the NTA level. Four profiles include demographics, economic, housing and sociological.",
+  "date_status" : "New",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Demographic Profiles of ACS 5 Year Estimates at the Public Use Microdata Areas (PUMA) level",
+  "dataset_description" : "Four tables of ACS demographic profiles for 2011 to 2015 at the PUMA level. Four profiles include demographics, economic, housing and sociological.",
+  "date_status" : "New",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Demographic Profiles of ACS 5 Year Estimates at the New York City and Borough level",
+  "dataset_description" : "Four tables of ACS demographic profiles for 2011 to 2015 at the New York City and Borough level. Four profiles include demographics, economic, housing and sociological.",
+  "date_status" : "New",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Demographic Profile of ACS 1 Year Estimates at the New York City and Borough level",
+  "dataset_description" : "Four tables of ACS demographic profiles for 2015 at the New York City and Borough level.",
+  "date_status" : "New",
+  "agency" : "Department of City Planning (DCP)",
+  "release_date" : "2017-06-30T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Regulatory sign repair",
+  "dataset_description" : "Average time to repair priority regulatory signs after notification (days).",
+  "date_status" : "Updated",
+  "agency" : "Department of Transportation (DOT)",
+  "release_date" : "2017-07-15T00:00:00",
+  "agency_comment" : "Enhancements to legacy systems",
+  "update_frequency" : "To Be Determined"
+}
+, {
+  "data_set_title" : "Data Dashboard",
+  "dataset_description" : "The DHS Data Dashboard provides aggregate information on individuals and families by case type; the ethnicity of shelter clients; the number of shelter entrants by borough; the number of shelter exits; how many school aged children are in shelter; the placements of chronically street homeless individuals; and prevention enrollments.",
+  "date_status" : "Updated",
+  "agency" : "Department of Homeless Services (DHS)",
+  "release_date" : "2017-07-30T00:00:00",
+  "agency_comment" : "Reprioritization to reflect agency needs",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Population Capacity",
+  "dataset_description" : "Population as a percentage of capacity.",
+  "date_status" : "Updated",
+  "agency" : "Department of Correction (DOC)",
+  "release_date" : "2017-07-31T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Inmate Injuries",
+  "dataset_description" : "Serious injury to inmate(s) as a result of violent inmate-on-inmate incidents (monthly rate per 1,000 ADP).",
+  "date_status" : "Updated",
+  "agency" : "Department of Correction (DOC)",
+  "release_date" : "2017-07-31T00:00:00",
+  "agency_comment" : "Enhancements to legacy systems",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Jail Population Profiles",
+  "dataset_description" : "Average inmate population, inmate profiles, staff profiles, incidents by facility.",
+  "date_status" : "Updated",
+  "agency" : "Department of Correction (DOC)",
+  "release_date" : "2017-07-31T00:00:00",
+  "agency_comment" : "Under review – privacy or sensitivity considerations",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Project Information",
+  "dataset_description" : "Consolidated information on project status.",
+  "date_status" : "No Change",
+  "agency" : "Department of Design and Construction (DDC)",
+  "release_date" : "2017-09-30T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "JobStat",
+  "dataset_description" : "Monthly report of performance indicators for HRA Job Center operations.",
+  "date_status" : "No Change",
+  "agency" : "Human Resource Administration (HRA)",
+  "release_date" : "2017-12-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Local Law 49 Reporting",
+  "dataset_description" : "Detailed summary statistics regarding HASA program.",
+  "date_status" : "No Change",
+  "agency" : "Human Resource Administration (HRA)",
+  "release_date" : "2017-12-01T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Local Law 37 Reporting",
+  "dataset_description" : "Emergency placements.",
+  "date_status" : "No Change",
+  "agency" : "Human Resource Administration (HRA)",
+  "release_date" : "2017-12-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "District Resource Statement",
+  "dataset_description" : "Program receipt by borough and community district.",
+  "date_status" : "No Change",
+  "agency" : "Human Resource Administration (HRA)",
+  "release_date" : "2017-12-01T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Borough/Community District Report",
+  "dataset_description" : "Program receipt by borough and community district.",
+  "date_status" : "No Change",
+  "agency" : "Human Resource Administration (HRA)",
+  "release_date" : "2017-12-01T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Office of Child Support Enforcement Fact Sheet",
+  "dataset_description" : "Summary statistics regarding OCSE.",
+  "date_status" : "No Change",
+  "agency" : "Human Resource Administration (HRA)",
+  "release_date" : "2017-12-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "HASA Fact Sheet",
+  "dataset_description" : "Summary statistics regarding HASA Program.",
+  "date_status" : "No Change",
+  "agency" : "Human Resource Administration (HRA)",
+  "release_date" : "2017-12-01T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "CA Application Report",
+  "dataset_description" : "Local Law 51 mandated report on youth cash assistance applications.",
+  "date_status" : "No Change",
+  "agency" : "Human Resource Administration (HRA)",
+  "release_date" : "2017-12-01T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Work Orders",
+  "dataset_description" : "Corrective and preventative maintenance Parks work orders.",
+  "date_status" : "New",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "release_date" : "2017-12-01T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Inspection Information; Found Conditions",
+  "dataset_description" : "Inspection Info - ratings for inspections of all city parks; Found Conditions - issues discovered during inspections which require attention by staff.",
+  "date_status" : "No Change",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "release_date" : "2017-12-29T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Materials Inventory",
+  "dataset_description" : "Inventory maintained on-hand at Parks storehouses.",
+  "date_status" : "New",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "release_date" : "2017-12-29T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "OASys: NYC Online Application System ",
+  "dataset_description" : "Civil Service Exam Information.",
+  "date_status" : "No Change",
+  "agency" : "Department of Citywide Administrative Services (DCAS)",
+  "release_date" : "2017-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "ARTSACP7",
+  "dataset_description" : "Contains information on asbestos abatement  projects taking place in New York City.",
+  "date_status" : "No Change",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "release_date" : "2017-12-31T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "Additional Housing Development Information",
+  "dataset_description" : "Additional descriptive data for housing development projects not prescribed by Local Law 44 of 2013.",
+  "date_status" : "No Change",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "release_date" : "2018-01-01T00:00:00",
+  "update_frequency" : "Semi-Annually"
+}
+, {
+  "data_set_title" : "Trials Division Case Status",
+  "dataset_description" : "The dataset contains tracking information on the status of each case filed at the OATH Trials Division.",
+  "date_status" : "No Change",
+  "agency" : "Office of Administrative Trials and Hearings (OATH)",
+  "release_date" : "2018-04-30T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "MTF/Pole top Reservations",
+  "dataset_description" : "Pole tops reserved as part of DoITT's Mobile Telecommunications Franchises (MTF) agreements.",
+  "date_status" : "No Change",
+  "agency" : "Department of Information Technology and Telecommunications (DoITT)",
+  "release_date" : "2018-05-01T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "PIMS",
+  "dataset_description" : "Comprehensive Project Information.",
+  "date_status" : "No Change",
+  "agency" : "Department of Design and Construction (DDC)",
+  "release_date" : "2018-06-01T00:00:00",
+  "update_frequency" : "As needed"
+}
+, {
+  "data_set_title" : "Staten Island Ferry Trips",
+  "dataset_description" : "Staten Island Ferry trips that are on time (%).",
+  "date_status" : "Updated",
+  "agency" : "Department of Transportation (DOT)",
+  "release_date" : "2018-07-01T00:00:00",
+  "agency_comment" : "Additional data quality review required",
+  "update_frequency" : "To Be Determined"
+}
+, {
+  "data_set_title" : "Street Furniture and Pavement Markings",
+  "dataset_description" : "NA",
+  "date_status" : "No Change",
+  "agency" : "Department of Transportation (DOT)",
+  "release_date" : "2018-07-01T00:00:00",
+  "update_frequency" : "To Be Determined"
+}
+, {
+  "data_set_title" : "Street Lights",
+  "dataset_description" : "NA",
+  "date_status" : "No Change",
+  "agency" : "Department of Transportation (DOT)",
+  "release_date" : "2018-07-01T00:00:00",
+  "update_frequency" : "To Be Determined"
+}
+, {
+  "data_set_title" : "Traffic Signal Timing ",
+  "dataset_description" : "NA",
+  "date_status" : "No Change",
+  "agency" : "Department of Transportation (DOT)",
+  "release_date" : "2018-07-01T00:00:00",
+  "update_frequency" : "To Be Determined"
+}
+, {
+  "data_set_title" : "Muni Meter Parking Data",
+  "dataset_description" : "Parking information that may be collected from MUNI METERS in NYC. This includes # of tickets printed, duration of parking purchased, location of muni meter, and amount of money collected.",
+  "date_status" : "Updated",
+  "agency" : "Department of Transportation (DOT)",
+  "release_date" : "2018-07-15T00:00:00",
+  "agency_comment" : "additional data quality review required",
+  "update_frequency" : "To Be Determined"
+}
+, {
+  "data_set_title" : "Traffic Signal Defects (Response Times)",
+  "dataset_description" : "Average time to respond to traffic signal defect and make safe (hours).",
+  "date_status" : "Updated",
+  "agency" : "Department of Transportation (DOT)",
+  "release_date" : "2018-07-15T00:00:00",
+  "agency_comment" : "Under review – privacy or sensitivity considerations",
+  "update_frequency" : "To Be Determined"
+}
+, {
+  "data_set_title" : "Category Master File",
+  "dataset_description" : "This reference table contains category id and descriptions.",
+  "date_status" : "No Change",
+  "agency" : "Staten Island Borough President (BPSI)",
+  "release_date" : "2018-08-30T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Helpline Cases by Category",
+  "dataset_description" : "This file contains aggregate information of Helpline Cases by Category.",
+  "date_status" : "No Change",
+  "agency" : "Staten Island Borough President (BPSI)",
+  "release_date" : "2018-08-30T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Total House Number File",
+  "dataset_description" : "This file contains aggregate information of total new house numbers assigned in Staten Island.",
+  "date_status" : "No Change",
+  "agency" : "Staten Island Borough President (BPSI)",
+  "release_date" : "2018-08-30T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Community Snapshots",
+  "dataset_description" : "Select child welfare, child care and youth justice statistics for each CD.",
+  "date_status" : "No Change",
+  "agency" : "Administration for Children's Services (ACS)",
+  "release_date" : "2018-10-29T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Monthly Flash Report indicators",
+  "dataset_description" : "Monthly trends in select child welfare, child care and youth justice statistics.",
+  "date_status" : "No Change",
+  "agency" : "Administration for Children's Services (ACS)",
+  "release_date" : "2018-10-29T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "For Hire Vehicle Hearings Case Status",
+  "dataset_description" : "This dataset contains case tracking information on the status of each notice of violation received and processed by the OATH Hearings Division -For Hire Vehicles.",
+  "date_status" : "No Change",
+  "agency" : "Office of Administrative Trials and Hearings (OATH)",
+  "release_date" : "2018-10-31T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "Constituent Requests ",
+  "dataset_description" : "The number of constituent requests for assistance separated by issues/sub-issues.",
+  "date_status" : "No Change",
+  "agency" : "Brooklyn Borough President (BBP)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Vehicles",
+  "dataset_description" : "Information on all vehicles used by a trade waste licensee/registrant for the removal of trade waste.  Includes vehicle make, model, year, VIN # and DMV plate information.",
+  "date_status" : "No Change",
+  "agency" : "Business Integrity Commission (BIC)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Principals",
+  "dataset_description" : "Information on all principals and key employees of a trade waste licensee/registrant applicant.  Includes employment history, work/home address and contact information.",
+  "date_status" : "No Change",
+  "agency" : "Business Integrity Commission (BIC)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Certificates of Inspection",
+  "dataset_description" : "Information on inspections of regulated companies vehicles/establishments performed by BIC enforcement staff.  Includes inspection location, company, vehicle and driver  information, as well as specifics of inspection and any resulting violations.",
+  "date_status" : "No Change",
+  "agency" : "Business Integrity Commission (BIC)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Weekly"
+}
+, {
+  "data_set_title" : "Complaints",
+  "dataset_description" : "Information on complaints submitted to BIC for investigation.  Includes nature of complaint, complaint location, complainant details, agency response data and resolution",
+  "date_status" : "No Change",
+  "agency" : "Business Integrity Commission (BIC)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "Violation Issuance",
+  "dataset_description" : "Information on violations issued by BIC including Rule/Regulation, Respondent, Location, and Fine.",
+  "date_status" : "No Change",
+  "agency" : "Business Integrity Commission (BIC)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "Approved Operating Companies",
+  "dataset_description" : "This list contains a list of all approved and operating companies within BIC's regulated industries.",
+  "date_status" : "No Change",
+  "agency" : "Business Integrity Commission (BIC)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Trust Fund Invasions and  Repayments",
+  "dataset_description" : "Consumer restitution and DCA fines paid out of DCA-administered Home Improvement Contractor and Tow Truck Trust funds for trust fund participants that are delinquent on their debts.",
+  "date_status" : "No Change",
+  "agency" : "Department of Consumer Affairs (DCA)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Weekly"
+}
+, {
+  "data_set_title" : "Receivables and Receipts",
+  "dataset_description" : "Fees and fines owed to DCA and payments thereon.",
+  "date_status" : "No Change",
+  "agency" : "Department of Consumer Affairs (DCA)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Weekly"
+}
+, {
+  "data_set_title" : "Financial Empowerment Center Client Outcomes",
+  "dataset_description" : "Aggregate data on outcomes achieved by clients using DCA's financial counseling services.",
+  "date_status" : "No Change",
+  "agency" : "Department of Consumer Affairs (DCA)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Bus Route Status",
+  "dataset_description" : "Bus Route Status for the day. Information coming from the Bus Route Status System 2.0. The Office of Pupil Transportation (OPT) provides service to over 600,000 NYC students attending both public and non-public schools located within the five boroughs and neighboring counties in New York, New Jersey and Connecticut.",
+  "date_status" : "No Change",
+  "agency" : "Department of Education (DOE)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "Sewer Connection Permit",
+  "dataset_description" : "Sewer Connection Permit.",
+  "date_status" : "No Change",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "Sewer Plug Permit ",
+  "dataset_description" : "Sewer Plug Permit.",
+  "date_status" : "No Change",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "Water Service Plug Permit",
+  "dataset_description" : "Water Service Plug Permit.",
+  "date_status" : "No Change",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "Private Water Main Construction Permit",
+  "dataset_description" : "Private Water Main Construction Permit.",
+  "date_status" : "No Change",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "Private Sewer Construction Permit",
+  "dataset_description" : "Private Sewer Construction Permit.",
+  "date_status" : "No Change",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "Manhole Permit",
+  "dataset_description" : " Manhole Permit.",
+  "date_status" : "No Change",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "Seepage Basins Permit",
+  "dataset_description" : "Seepage Basins Permit.",
+  "date_status" : "No Change",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "Catch Basin Permit ",
+  "dataset_description" : "The DEP Application and Permit data will contain information about the different types of applications approved and permits issued on a regular basis. The Data will include application information such as development details, location, results, and status information.",
+  "date_status" : "No Change",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Daily"
+}
+, {
+  "data_set_title" : "Refund List - Real Property Tax",
+  "dataset_description" : "Details about refund checks for overpaid Property Tax accounts, with amounts broken down by specific charge. Available for calendars years 2011-Current.",
+  "date_status" : "No Change",
+  "agency" : "Department of Finance (DOF)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Scofftow",
+  "dataset_description" : "Information on vehicles towed or booted, and potentially auctioned as a result of parking ticket non-payment enforcement.",
+  "date_status" : "No Change",
+  "agency" : "Department of Finance (DOF)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Personal Property - Remarks Record",
+  "dataset_description" : "This dataset contains remarks information (if any) for recorded documents.",
+  "date_status" : "No Change",
+  "agency" : "Department of Finance (DOF)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Banking Corporation Tax Issuer Allocation Percentage Reports",
+  "dataset_description" : "IAP for all corporations subject to the tax for 1997 - Current.",
+  "date_status" : "No Change",
+  "agency" : "Department of Finance (DOF)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "General Corporation Tax Issuer Allocation Percentage Reports",
+  "dataset_description" : "IAP for all corporations subject to the tax for 1998 - Current.",
+  "date_status" : "No Change",
+  "agency" : "Department of Finance (DOF)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Cigarette Tax Enforcement Data ",
+  "dataset_description" : "Amount billed and collected from vendors or untaxed cigarettes, including number of NYC customers for each vendor.",
+  "date_status" : "No Change",
+  "agency" : "Department of Finance (DOF)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Public Improvement Lien (Mechanics Liens) Docket",
+  "dataset_description" : "Details about claims of non-payment for labor or materials provided to a government contractor or subcontractor.",
+  "date_status" : "No Change",
+  "agency" : "Department of Finance (DOF)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Real Property Income and Expense Form Non-Compliance Lists",
+  "dataset_description" : "Properties required to file RPIE-2010 which did not do so.",
+  "date_status" : "No Change",
+  "agency" : "Department of Finance (DOF)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "CPRR",
+  "dataset_description" : "CPPR interfaces for payments via web pages or in person with various agencies such as DOF Parking & Camera Violations, Property Taxes, DCAS, DOHMH, DOB, DOR, HPD, FDNY, ECB, SAPO, DPR, DOT, DEP, BIC, DCA, OATH, DFTA, TLC.",
+  "date_status" : "No Change",
+  "agency" : "Department of Finance (DOF)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "To Be Determined"
+}
+, {
+  "data_set_title" : "Property Abatements",
+  "dataset_description" : "Benefits which reduce property tax liability and related details.  Abatement detail files (mainframe files).",
+  "date_status" : "No Change",
+  "agency" : "Department of Finance (DOF)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Licensed Cigarette Wholesale Dealers                           ",
+  "dataset_description" : "Mainframe file.",
+  "date_status" : "No Change",
+  "agency" : "Department of Finance (DOF)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Open Balance Detail",
+  "dataset_description" : "Property Related Charge information by period.",
+  "date_status" : "No Change",
+  "agency" : "Department of Finance (DOF)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Annualized Calendar Sales Update",
+  "dataset_description" : "Sales data for the calendar year.",
+  "date_status" : "No Change",
+  "agency" : "Department of Finance (DOF)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "CMVT - Annual",
+  "dataset_description" : "Commercial Moto Vehicle Tax  non-medallion mass billing.",
+  "date_status" : "No Change",
+  "agency" : "Department of Finance (DOF)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Property Assessments ",
+  "dataset_description" : "Property descriptive and Assessment Data.",
+  "date_status" : "No Change",
+  "agency" : "Department of Finance (DOF)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "CMVT - Semi-Annual",
+  "dataset_description" : "Commercial Moto Vehicle Tax  medallion mass billing.",
+  "date_status" : "No Change",
+  "agency" : "Department of Finance (DOF)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Semi-Annually"
+}
+, {
+  "data_set_title" : "Healthcare Facilities Directory",
+  "dataset_description" : "A list of hospitals, nursing homes and adult care facilities.",
+  "date_status" : "No Change",
+  "agency" : "Department of Health and Mental Hygiene (DOHMH)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "HIV Condom Distribution Sites",
+  "dataset_description" : "Location and facility information for businesses and providers who distribute the New York City condom.",
+  "date_status" : "New",
+  "agency" : "Department of Health and Mental Hygiene (DOHMH)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Quarterly"
+}
+, {
+  "data_set_title" : "Radiation Producing Equipment",
+  "dataset_description" : "Dataset contains information on Department inspections of radiation-producing equipment.",
+  "date_status" : "No Change",
+  "agency" : "Department of Health and Mental Hygiene (DOHMH)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Annually"
+}
+, {
+  "data_set_title" : "Manhattan River Crossings ",
+  "dataset_description" : "Presents vehicular volumes, classification and trends for all bridge and tunnel facilities serving Manhattan River Crossings.",
+  "date_status" : "No Change",
+  "agency" : "Department of Transportation (DOT)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "To Be Determined"
+}
+, {
+  "data_set_title" : "Land use items",
+  "dataset_description" : "This list contains information related to land use items before the Council.",
+  "date_status" : "No Change",
+  "agency" : "New York City Council (NYCC)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Historical Complaints",
+  "dataset_description" : "Law Enforcement Bureau Case - Complaints record.",
+  "date_status" : "No Change",
+  "agency" : "NYC Commission on Human Rights (CCHR)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Historical Necessary Parties ",
+  "dataset_description" : "Law Enforcement Bureau Case Tracking System - Additional respondents for the complaints.",
+  "date_status" : "No Change",
+  "agency" : "NYC Commission on Human Rights (CCHR)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Benefit Log ",
+  "dataset_description" : "Tracking of Educational Activities by the Community Relations Bureau, and income of the recipients.",
+  "date_status" : "No Change",
+  "agency" : "NYC Commission on Human Rights (CCHR)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Inquiries",
+  "dataset_description" : "Tracking of Inquiries made to Agency Human Rights Specialist, and other staff.",
+  "date_status" : "No Change",
+  "agency" : "NYC Commission on Human Rights (CCHR)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Historical Events",
+  "dataset_description" : "Law Enforcement Bureau Case -  Events for complaint.",
+  "date_status" : "No Change",
+  "agency" : "NYC Commission on Human Rights (CCHR)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Office of Meditation and Conflict Resolution Listings",
+  "dataset_description" : "Office of Mediation and Conflict Resolution - Listing of cases processed by OMCR.",
+  "date_status" : "No Change",
+  "agency" : "NYC Commission on Human Rights (CCHR)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Historical Allegations",
+  "dataset_description" : "Law Enforcement Bureau Case - Allegations for the complaints.",
+  "date_status" : "No Change",
+  "agency" : "NYC Commission on Human Rights (CCHR)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Appeals",
+  "dataset_description" : "Law Enforcement Bureau - Listing of cases appealed.",
+  "date_status" : "No Change",
+  "agency" : "NYC Commission on Human Rights (CCHR)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Historical Attorney",
+  "dataset_description" : "Law Enforcement Bureau - Attorney info for the complaints.",
+  "date_status" : "No Change",
+  "agency" : "NYC Commission on Human Rights (CCHR)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+, {
+  "data_set_title" : "Historical Amendments",
+  "dataset_description" : "Law Enforcement Bureau - Amendments for the complaints.",
+  "date_status" : "No Change",
+  "agency" : "NYC Commission on Human Rights (CCHR)",
+  "release_date" : "2018-12-31T00:00:00",
+  "update_frequency" : "Monthly"
+}
+ ]

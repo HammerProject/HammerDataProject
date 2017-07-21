@@ -1,0 +1,7929 @@
+[ {
+  "zoning_district_1" : "R3-2",
+  "tax_block" : "1",
+  "special_district_1" : "GI",
+  "zoning_map_number" : "16A",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "R3-2",
+  "tax_block" : "1",
+  "zoning_map_number" : "16A",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "101"
+}
+, {
+  "zoning_district_1" : "R3-2",
+  "tax_block" : "1",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "201"
+}
+, {
+  "zoning_district_1" : "ZNA",
+  "tax_block" : "1",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "301"
+}
+, {
+  "zoning_district_1" : "ZNA",
+  "tax_block" : "1",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "401"
+}
+, {
+  "zoning_district_1" : "M1-4",
+  "tax_block" : "2",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C4-6",
+  "tax_block" : "2",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C4-6",
+  "tax_block" : "2",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "C4-6",
+  "tax_block" : "2",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "23"
+}
+, {
+  "zoning_district_1" : "PARK",
+  "tax_block" : "3",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "PARK",
+  "tax_block" : "3",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "PARK",
+  "tax_block" : "3",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "PARK",
+  "tax_block" : "3",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "M1-4",
+  "tax_block" : "3",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "4",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "5",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "5",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "PARK",
+  "tax_block" : "6",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "7",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "27"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "7",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "28"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "7",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "29"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "7",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "30"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "7",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "31"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "7",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "33"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "7",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "35"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "7",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "37"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "7",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "38"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "7",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "7",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "8",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "39"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "8",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "44"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "8",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "51"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "8",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "9",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "9",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "9",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "9",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "29"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "10",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "10",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "10",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "10",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "16"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "10",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "19"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "10",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "23"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "10",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "32"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "10",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "33"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "11",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "11",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "11",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "11",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "11",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "11"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "11",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "11",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "11",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "11",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "11",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "21"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "11",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "26"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "11",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "29"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "11",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "12",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "PARK",
+  "tax_block" : "12",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "28"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "13",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "13",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "5"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "13",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "27"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "15",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "22"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "15",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "15",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "16",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "M2-3",
+  "tax_block" : "16",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "40"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "100"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "120"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "125"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "140"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "150"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "160"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "180"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "185"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "195"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "200"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "205"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "210"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "215"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "220"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "221"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "225"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "260"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7505"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7506"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7507"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7508"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7509"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7510"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7511"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7512"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7513"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7514"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7515"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "7516"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7517"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7518"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7519"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "7520"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "zoning_map_code" : " ",
+  "tax_lot" : "7521"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "borough_code" : "1",
+  "tax_lot" : "9117"
+}
+, {
+  "zoning_district_1" : "BPC",
+  "tax_block" : "16",
+  "special_district_1" : "BPC",
+  "borough_code" : "1",
+  "tax_lot" : "9220"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "17",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "17",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "29"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "17",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "45"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "17",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "118"
+}
+, {
+  "special_district_3" : " ",
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "17",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : " ",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "17",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "17",
+  "special_district_1" : "LM",
+  "borough_code" : "1",
+  "tax_lot" : "9045"
+}
+, {
+  "zoning_district_2" : "C5-5",
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "18",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "100"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "18",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "19",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "19",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "11"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "19",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "19",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "19",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "19"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "19",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "21"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "19",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "20",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "20",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "20",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "20",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "20",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "20",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "16"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "21",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "21",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "21",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "6"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "22",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "22",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "22",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "22",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "22",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "28"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "23",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "23",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "19"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "23",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "50"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "24",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "24",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "19"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "24",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "29"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "24",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "36"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "24",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "25",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "25",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "25",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "25",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "19"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "25",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "27"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "25",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "26",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "26",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "21"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "26",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "27",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "27",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "27",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "27",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "28",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "28",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "5"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "28",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "28",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "PARK",
+  "tax_block" : "28",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "28"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "28",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "19"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "22"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "23"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "25"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "26"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "29"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "36"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "43"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "45"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "46"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "47"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "48"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "70"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "73"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "86"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "29",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "30",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "30",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "30",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "30",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "5"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "30",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "19"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "30",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "32"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "30",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "33"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "30",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "34"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "31",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "31",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "31",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "34"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "31",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "32",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "33",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "33",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "11"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "33",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "34",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "37"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "35",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "35",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C4-6",
+  "tax_block" : "36",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C4-6",
+  "tax_block" : "36",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C4-6",
+  "tax_block" : "36",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "25"
+}
+, {
+  "zoning_district_1" : "C4-6",
+  "tax_block" : "36",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "30"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "37",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "37",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "37",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "37",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "23"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "38",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "38",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "39",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "39",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "39",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "6"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "39",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "39",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "38"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "39",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "40"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "39",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "41"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "39",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "40",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "40",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "40",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "16"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "40",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "41",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "41",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "22"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "41",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "41",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "41",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "41",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "41",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "42",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "42",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "22"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "42",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "31"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "42",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "36"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "43",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "43",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "43",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "5"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "43",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "6"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "44",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "44",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "46",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "46",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "46",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "47",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "48",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "49",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "49",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "50",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "51",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "51",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "51",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "51",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "51",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "52",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "52",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "52",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "52",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "52",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "21"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "52",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "22"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "52",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "30"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "52",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "52",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "53",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "53",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "53",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "53",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "6"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "53",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "53",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "33"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "53",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "35"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "53",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "36"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "53",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "37"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "53",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "38"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "53",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "39"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "53",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "40"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "53",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "41"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "53",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "53",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "54",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "55",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "55",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "16"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "55",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "56",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "56",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "56",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "56",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C6-9",
+  "tax_block" : "56",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "21"
+}
+, {
+  "zoning_district_2" : "C5-3",
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "58",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "62",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "63",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "63",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "63",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "6"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "63",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "63",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : " ",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "63",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "63",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "16"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "63",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "63",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "63",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "19"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "63",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "63",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "21"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "64",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "64",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "64",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "64",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "5"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "64",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "64",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "64",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "64",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "64",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "64",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "64",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "21"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "64",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "23"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "64",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "64",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "25"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "64",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "106"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "64",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "64",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : " ",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "65",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "65",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "65",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "6"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "65",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "65",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "65",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "16"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "65",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "65",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "65",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "22"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "65",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "65",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "65",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "66",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "67",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "67",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "23"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "67",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "30"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "67",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "31"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "68",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "68",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "11"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "68",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "16"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "68",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "28"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "68",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "29"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "68",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "36"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "68",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "68",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "69",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "69",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "6"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "69",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "69",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "30"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "69",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "32"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "69",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "50"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "69",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "51"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "69",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "53"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "69",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "54"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "69",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "70",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "70",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "32"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "70",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "43"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "70",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "71",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "71",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "72",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "72",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "72",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "72",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "72",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "72",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "19"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "72",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "72",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "25"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "72",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "27"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "72",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "31"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "72",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "115"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "72",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C4-6",
+  "tax_block" : "73",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C4-6",
+  "tax_block" : "73",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C4-6",
+  "tax_block" : "73",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C4-6",
+  "tax_block" : "73",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "11"
+}
+, {
+  "zoning_district_1" : "C4-6",
+  "tax_block" : "73",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C4-6",
+  "tax_block" : "73",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C4-6",
+  "tax_block" : "73",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "28"
+}
+, {
+  "zoning_district_2" : "C2-8",
+  "zoning_district_1" : "C4-6",
+  "tax_block" : "73",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "29"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "74",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "74",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "74",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "75",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "75",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "75",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "75",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "21"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "75",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "28"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "75",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "30"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "75",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "35"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "75",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "43"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "75",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "46"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "75",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "48"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "75",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "75",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "75",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "76",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "76",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "6"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "76",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "76",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "76",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "23"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "76",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "76",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "28"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "76",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "76",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "77",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "77",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "77",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "77",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "77",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "77",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "21"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "77",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "22"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "77",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "23"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "77",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "11"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "40"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "41"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "42"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "43"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "44"
+}
+, {
+  "zoning_district_2" : "C6-4",
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "45"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "47"
+}
+, {
+  "zoning_district_2" : "C6-4",
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_2" : "C6-4",
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7505"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7506"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "78",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7507"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7508"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7509"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "78",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7510"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "79",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "79",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "79",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "79",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "6"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "79",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "79",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "79",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "79",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "16"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "79",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "79",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "19"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "79",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "25"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "79",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "26"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "79",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "27"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "79",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "79",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "79",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "80",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "80",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "84",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "36"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "84",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "86",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "87",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "88",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "88",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "88",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "88",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "5"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "88",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "88",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "88",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "11"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "88",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "88",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "89",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "89",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "89",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "89",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "90",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "90",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "90",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "90",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "90",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "90",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "16"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "90",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "90",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "22"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "90",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "23"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "90",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "90",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "90",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "90",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : " ",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "90",
+  "special_district_1" : "LM",
+  "borough_code" : "1",
+  "tax_lot" : "9014"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "91",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "91",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "11"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "91",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "91",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "91",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "91",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "92",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "92",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "5"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "92",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "92",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "92",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "92",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "92",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "23"
+}
+, {
+  "zoning_district_2" : "C6-4",
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "92",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "92",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "26"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "92",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "27"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "92",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "28"
+}
+, {
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "92",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "29"
+}
+, {
+  "zoning_district_2" : "C6-4",
+  "zoning_district_1" : "C5-5",
+  "tax_block" : "92",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "30"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "92",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "32"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "92",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "34"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "92",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "93",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "93",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "93",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "25"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "93",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "26"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "93",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "28"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "93",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "29"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "93",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "30"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "93",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "34"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "93",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_2" : "C6-4",
+  "zoning_district_1" : "R8",
+  "tax_block" : "94",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "R8",
+  "tax_block" : "94",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "94",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "25"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "95",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "27"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "95",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "43"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "95",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "101"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "95",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "96",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "96",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "5"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "96",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "96",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "96",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "5"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "6"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "26"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "30"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "31"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "32"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "33"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "35"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "36"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "43"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "44"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "45"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "49"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "51"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "55"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "57"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "144"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "97",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "98",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "100",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "100",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "26"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "100",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "100",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "101",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "101",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "102",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "106",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "106",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "106",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "5"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "106",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "6"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "106",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "106",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "106",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "106",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "22"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "106",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "106",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "106",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "106",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "26"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "28"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "31"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "33"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "34"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "35"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "38"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "40"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "42"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "44"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "46"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "49"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "50"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "51"
+}
+, {
+  "zoning_district_1" : "PARK",
+  "tax_block" : "107",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "60"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "107",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "108",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "4"
+}
+, {
+  "commercial_overlay_1" : "C1-5",
+  "zoning_district_1" : "R7-2",
+  "tax_block" : "111",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "100"
+}
+, {
+  "zoning_district_1" : "R7-2",
+  "tax_block" : "111",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "150"
+}
+, {
+  "zoning_district_1" : "R7-2",
+  "tax_block" : "111",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "160"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "113",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "113",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "100"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "113",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "PARK",
+  "tax_block" : "115",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "R7-2",
+  "tax_block" : "116",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "42"
+}
+, {
+  "zoning_district_1" : "R7-2",
+  "tax_block" : "116",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "43"
+}
+, {
+  "zoning_district_1" : "R7-2",
+  "tax_block" : "116",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "46"
+}
+, {
+  "zoning_district_1" : "R7-2",
+  "tax_block" : "116",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "47"
+}
+, {
+  "zoning_district_1" : "R7-2",
+  "tax_block" : "116",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "48"
+}
+, {
+  "zoning_district_1" : "R7-2",
+  "tax_block" : "116",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "49"
+}
+, {
+  "zoning_district_1" : "R7-2",
+  "tax_block" : "117",
+  "special_district_1" : "TA",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "PARK",
+  "tax_block" : "117",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "100"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "119",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "120",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "121",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "121",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "27"
+}
+, {
+  "zoning_district_1" : "PARK",
+  "tax_block" : "122",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "123",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "123",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "123",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "123",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : " ",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "124",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "124",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "124",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "124",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "124",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "124",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "11"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "124",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "124",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "21"
+}
+, {
+  "zoning_district_2" : "C6-4",
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "124",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "124",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "125",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "126",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "126",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "126",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "126",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "27"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "127",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "127",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "128",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "128",
+  "special_district_1" : "LM",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "26"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "132",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "132",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "132",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "132",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "6"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "132",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "132",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "22"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "132",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "23"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "132",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "26"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "132",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "27"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "132",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "30"
+}
+, {
+  "zoning_district_2" : "C6-2A",
+  "zoning_district_1" : "C6-3",
+  "tax_block" : "132",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "132",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "132",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_2" : "C6-3",
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "132",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "132",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7505"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "132",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7506"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "133",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "133",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "133",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "133",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "19"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "133",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "133",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "133",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "133",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "133",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7505"
+}
+, {
+  "zoning_district_2" : "C6-3A",
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "133",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7506"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "133",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7507"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "133",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7508"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "133",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7509"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "133",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7510"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "133",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7511"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "134",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "134",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "11"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "134",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "134",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "21"
+}
+, {
+  "zoning_district_2" : "C5-3",
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "134",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "25"
+}
+, {
+  "zoning_district_2" : "C6-3A",
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "134",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "134",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "134",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "134",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "134",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7505"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "134",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7506"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "135",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "5"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "135",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "135",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "11"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "135",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "135",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "135",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "16"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "135",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "135",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "135",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "19"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "135",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "21"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "135",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "31"
+}
+, {
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "135",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "135",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_2" : "C5-3",
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "135",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_2" : "C6-3A",
+  "zoning_district_1" : "C5-3",
+  "tax_block" : "135",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "135",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7505"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "135",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7506"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "135",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7507"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "135",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7508"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "136",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "136",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "136",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "136",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "136",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "19"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "136",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "136",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "23"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "136",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "136",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "25"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "136",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "27"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "136",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "28"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "136",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "136",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "136",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "136",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "136",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7505"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "137",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "137",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "5"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "137",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "137",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "25"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "137",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "26"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "137",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "27"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "137",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "28"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "137",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "29"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "137",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "34"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "137",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "35"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "137",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_2" : "C6-3A",
+  "zoning_district_1" : "C6-3",
+  "tax_block" : "137",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_2" : "C6-3",
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "137",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "137",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "137",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "7505"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "137",
+  "special_district_1" : "TMU",
+  "borough_code" : "1",
+  "tax_lot" : "9030"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "140",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "140",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "140",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "140",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "5"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "140",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "140",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "140",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "29"
+}
+, {
+  "zoning_district_2" : "C6-3A",
+  "zoning_district_1" : "C6-3",
+  "tax_block" : "140",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_2" : "C6-3A",
+  "zoning_district_1" : "C6-3",
+  "tax_block" : "140",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "140",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "140",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "140",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7505"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "11"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "16"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "19"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "21"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "23"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "25"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "27"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "28"
+}
+, {
+  "zoning_district_1" : "PARK",
+  "tax_block" : "141",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "39"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "114"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7505"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7506"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "141",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7507"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "142",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "PARK",
+  "tax_block" : "142",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "142",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "142",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "11"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "142",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "142",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "142",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "142",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "16"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "142",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "142",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "142",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "19"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "142",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "25"
+}
+, {
+  "zoning_district_1" : "PARK",
+  "tax_block" : "142",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "30"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "142",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "50"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "142",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "100"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "142",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "142",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "143",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "143",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "143",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "143",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "143",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "143",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "143",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "143",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "16"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "143",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "143",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "19"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "143",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "143",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "21"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "143",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "25"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "143",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "143",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "143",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "144",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "144",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "144",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "144",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "144",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "144",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "23"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "144",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "26"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "144",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "28"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "144",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "29"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "144",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "30"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "144",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "31"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "144",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "32"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "144",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "40"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "144",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "144",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "144",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "144",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "145",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "5"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "145",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "145",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "145",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "145",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "145",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "16"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "145",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "145",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "145",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "145",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "145",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "145",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7505"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "145",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7506"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "145",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7507"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "145",
+  "special_district_1" : "TMU",
+  "borough_code" : "1",
+  "tax_lot" : "9001"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "146",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "146",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "146",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "146",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "11"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "146",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "146",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "146",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "146",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "21"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "146",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "23"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "146",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "27"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "146",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "146",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "146",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "146",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "146",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7505"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "147",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "147",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "147",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "147",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "11"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "147",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "147",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "147",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "147",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "147",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "147",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "147",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "147",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "147",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7505"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "147",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7506"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "147",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7507"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "147",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7508"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "147",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7509"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "148",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_2" : "C6-2A",
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "148",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C6-4A",
+  "tax_block" : "149",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4A",
+  "tax_block" : "149",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_2" : "C6-3A",
+  "zoning_district_1" : "C6-4A",
+  "tax_block" : "149",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "149",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "5"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "149",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "6"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "149",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "149",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C6-4A",
+  "tax_block" : "149",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "29"
+}
+, {
+  "zoning_district_1" : "C6-4A",
+  "tax_block" : "149",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "33"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "149",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-4A",
+  "tax_block" : "149",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-3A",
+  "tax_block" : "149",
+  "special_district_1" : "TMU",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : " ",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "150",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "150",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "5"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "150",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "6"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "150",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "150",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "150",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "150",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "150",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "19"
+}
+, {
+  "zoning_district_2" : "C6-4A",
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "150",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "25"
+}
+, {
+  "zoning_district_1" : "C6-4A",
+  "tax_block" : "150",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "31"
+}
+, {
+  "zoning_district_1" : "C6-4A",
+  "tax_block" : "150",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "38"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "150",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_2" : "C6-2A",
+  "zoning_district_1" : "C6-4A",
+  "tax_block" : "150",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7502"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "150",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "7503"
+}
+, {
+  "zoning_district_1" : "C6-2A",
+  "tax_block" : "150",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "7504"
+}
+, {
+  "zoning_district_2" : "C6-4A",
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "151",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "151",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "151",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "20"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "151",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "22"
+}
+, {
+  "zoning_district_1" : "C6-4A",
+  "tax_block" : "151",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "28"
+}
+, {
+  "zoning_district_1" : "C6-4A",
+  "tax_block" : "151",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "29"
+}
+, {
+  "zoning_district_1" : "C6-4A",
+  "tax_block" : "151",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "31"
+}
+, {
+  "zoning_district_1" : "C6-4A",
+  "tax_block" : "151",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "32"
+}
+, {
+  "zoning_district_1" : "C6-4A",
+  "tax_block" : "151",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_2" : "C6-4A",
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "152",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C6-4A",
+  "tax_block" : "152",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "25"
+}
+, {
+  "zoning_district_1" : "C6-4A",
+  "tax_block" : "152",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "31"
+}
+, {
+  "zoning_district_1" : "C6-4A",
+  "tax_block" : "152",
+  "zoning_map_number" : "12A",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "153",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "153",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "153",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "22"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "153",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "154",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "154",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "23"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "155",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "155",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "PARK",
+  "tax_block" : "155",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "31"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "156",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "156",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "50"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "158",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "158",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "PARK",
+  "tax_block" : "158",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "158",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "61"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "159",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "40"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "159",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "51"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "159",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "tax_lot" : "60"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "160",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_2" : "C6-1",
+  "zoning_district_1" : "C6-4",
+  "tax_block" : "160",
+  "zoning_map_number" : "12B",
+  "borough_code" : "1",
+  "zoning_map_code" : "Y",
+  "tax_lot" : "21"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "161",
+  "special_district_1" : "TA",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "161",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "3"
+}
+, {
+  "zoning_district_1" : "C6-1G",
+  "tax_block" : "162",
+  "special_district_1" : "TA",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "6"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "7"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "10"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "11"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "12"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "13"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "14"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "15"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "16"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "17"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "18"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "21"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "22"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "23"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "24"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "25"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "26"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "28"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "30"
+}
+, {
+  "zoning_district_2" : "C6-1",
+  "zoning_district_1" : "C6-1G",
+  "tax_block" : "162",
+  "special_district_1" : "TA",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "33"
+}
+, {
+  "zoning_district_1" : "C6-1G",
+  "tax_block" : "162",
+  "special_district_1" : "TA",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "34"
+}
+, {
+  "zoning_district_1" : "C6-1G",
+  "tax_block" : "162",
+  "special_district_1" : "TA",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "35"
+}
+, {
+  "zoning_district_1" : "C6-1G",
+  "tax_block" : "162",
+  "special_district_1" : "TA",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "37"
+}
+, {
+  "zoning_district_2" : "C6-1",
+  "zoning_district_1" : "C6-1G",
+  "tax_block" : "162",
+  "special_district_1" : "TA",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "38"
+}
+, {
+  "zoning_district_2" : "C6-1",
+  "zoning_district_1" : "C6-1G",
+  "tax_block" : "162",
+  "special_district_1" : "TA",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "41"
+}
+, {
+  "zoning_district_2" : "C6-1",
+  "zoning_district_1" : "C6-1G",
+  "tax_block" : "162",
+  "special_district_1" : "TA",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "42"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "43"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "44"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "47"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "48"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "49"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "50"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "51"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "52"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "53"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "54"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "55"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "56"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "57"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "58"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "60"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "162",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "61"
+}
+, {
+  "zoning_district_1" : "C6-1G",
+  "tax_block" : "162",
+  "special_district_1" : "TA",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "133"
+}
+, {
+  "zoning_district_2" : "C6-1",
+  "zoning_district_1" : "C6-1G",
+  "tax_block" : "162",
+  "special_district_1" : "TA",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "7501"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "163",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "1"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "163",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "2"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "163",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "4"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "163",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "5"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "163",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "6"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "163",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "8"
+}
+, {
+  "zoning_district_1" : "C6-1",
+  "tax_block" : "163",
+  "zoning_map_number" : "12D",
+  "borough_code" : "1",
+  "tax_lot" : "9"
+}
+ ]

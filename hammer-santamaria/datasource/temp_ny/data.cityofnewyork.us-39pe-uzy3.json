@@ -1,0 +1,35 @@
+[ {
+  "year" : "2011",
+  "type_of_service" : "Case Management",
+  "units_of_service" : "10,197"
+}
+, {
+  "year" : "2011",
+  "type_of_service" : "Case Management Assistance",
+  "units_of_service" : "10,212",
+  "residents" : "1245"
+}
+, {
+  "year" : "2011",
+  "type_of_service" : "Health Care Management",
+  "units_of_service" : "2,259",
+  "residents" : "304"
+}
+, {
+  "year" : "2011",
+  "type_of_service" : "Health Care Assistance",
+  "units_of_service" : "2,040"
+}
+, {
+  "year" : "2011",
+  "type_of_service" : "Residents receiving Core Services",
+  "units_of_service" : "8,334",
+  "residents" : "1373"
+}
+, {
+  "year" : "2011",
+  "type_of_service" : "New This Fiscal Year for 2011",
+  "units_of_service" : "555",
+  "residents" : "33"
+}
+ ]

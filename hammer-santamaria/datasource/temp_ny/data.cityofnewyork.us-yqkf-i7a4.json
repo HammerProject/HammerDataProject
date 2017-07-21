@@ -1,0 +1,2372 @@
+[ {
+  "site_name" : "Kings Bay YM-YWHA, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.59874864679032",
+    "human_address" : "{\"address\":\"3495 Nostrand Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11229\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94153906955313"
+  },
+  "agency" : "Kings Bay YM-YWHA, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Adult Health Awareness & Prevention",
+  "contact_number" : "718.648.7703"
+}
+, {
+  "site_name" : "Shorefront YM-YWHA",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.575793969703795",
+    "human_address" : "{\"address\":\"3300 Coney Island Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11235\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95950745079742"
+  },
+  "agency" : "Shorefront YM-YWHA",
+  "borough_community" : "Brooklyn",
+  "program" : "Adult Health Awareness & Prevention",
+  "contact_number" : "718.646.1444"
+}
+, {
+  "site_name" : "Fannie Lou Hammer High School",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.83092140206968",
+    "human_address" : "{\"address\":\"1021 Jennings Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10464\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88633338378911"
+  },
+  "agency" : "The Children’s Aid Society",
+  "borough_community" : "Bronx",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "MS/HS",
+  "contact_number" : "212.503.6837"
+}
+, {
+  "site_name" : "Aging in America, Inc. ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.85710649548991",
+    "human_address" : "{\"address\":\"1500 Pelham Parkway\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10461\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.84367515955307"
+  },
+  "agency" : "Aging In America Community Services, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Domestic Violence Program",
+  "contact_number" : "718.409.7961"
+}
+, {
+  "site_name" : "Edith and Carl Marks Jewish Community House of Bensonhurst",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.606424326705934",
+    "human_address" : "{\"address\":\"7802 Bay Parkway\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11214\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98919274272059"
+  },
+  "agency" : "Edith and Carl Marks Jewish Community House of Bensonhurst",
+  "borough_community" : "Brooklyn",
+  "program" : "Domestic Violence Program",
+  "contact_number" : "718.331.6800"
+}
+, {
+  "site_name" : "I.S. 281",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.604011809897145",
+    "human_address" : "{\"address\":\"87 87 24th Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11214\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.0009690001192"
+  },
+  "agency" : "St. Rosalia-Regina Pacis Neighborhood Improvement",
+  "borough_community" : "Brooklyn",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "MS/HS",
+  "contact_number" : "718.236.5266"
+}
+, {
+  "site_name" : "Hispanic Employment Day-Women Working For A Better Community",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.695365122529765",
+    "human_address" : "{\"address\":\"195 Linden Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11221\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91752465717728"
+  },
+  "agency" : "Hispanic Employment Day-Women Working For A Better Community",
+  "borough_community" : "Brooklyn",
+  "program" : "Domestic Violence Program",
+  "contact_number" : "718.455.3988"
+}
+, {
+  "site_name" : "Northfield Community LDC",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.63612065850752",
+    "human_address" : "{\"address\":\"160 Heberton Avenue\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10302\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.13187837894384"
+  },
+  "agency" : "Northfield Community LDC",
+  "borough_community" : "Staten Island",
+  "program" : "Economic Development",
+  "contact_number" : "718.442.7351"
+}
+, {
+  "site_name" : "South Bronx Overall Economic Development Corp.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.81594441525443",
+    "human_address" : "{\"address\":\"555 Bergen Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91641591148277"
+  },
+  "agency" : "South Bronx Overall Economic Development Corp.",
+  "borough_community" : "Bronx",
+  "program" : "Economic Development",
+  "contact_number" : "718.585.2600"
+}
+, {
+  "site_name" : "NDA Center",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.84884460637466",
+    "human_address" : "{\"address\":\"647 180 Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10457\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89021748084417"
+  },
+  "agency" : "South Bronx Overall Economic Dev Corp.",
+  "borough_community" : "Bronx",
+  "program" : "Economic Development",
+  "contact_number" : "718.585.2600"
+}
+, {
+  "site_name" : "Local Development Corporation of East New York",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.678429517632956",
+    "human_address" : "{\"address\":\"80 Jamaica Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89681149606571"
+  },
+  "agency" : "Local Development Corporation of East New York",
+  "borough_community" : "Brooklyn",
+  "program" : "Economic Development",
+  "contact_number" : "718.385.6700"
+}
+, {
+  "site_name" : "Cypress Hills Local Development Corporation",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.68241352010474",
+    "human_address" : "{\"address\":\"3214 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11208\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87644758308613"
+  },
+  "agency" : "Cypress Hills Local Development Corporation",
+  "borough_community" : "Brooklyn",
+  "program" : "Economic Development",
+  "contact_number" : "718.647.2800"
+}
+, {
+  "site_name" : "Fortune Society",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"29 76 Northern Blvd\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225"
+  },
+  "agency" : "The Fortune Society, Inc.",
+  "borough_community" : "Queens",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "347.510.3619"
+}
+, {
+  "site_name" : "The Fathers Center ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.71696029234187",
+    "human_address" : "{\"address\":\"350 Broadway\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10013\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00392122955571"
+  },
+  "agency" : "Legal Information for Families Today (LIFT)",
+  "borough_community" : "New York ",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "646.613.9633 ext. 202"
+}
+, {
+  "site_name" : "Friends of the Island Academy ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.755442281975604",
+    "human_address" : "{\"address\":\"330 38th Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10018\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99338117537229"
+  },
+  "agency" : "Friends of Island Academy",
+  "borough_community" : "New York ",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "212.760.0755"
+}
+, {
+  "site_name" : "Midtown Community Court",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.76519093277318",
+    "human_address" : "{\"address\":\"314 54 Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10019\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98524231100714"
+  },
+  "agency" : "Fund for the City of New York/Center for Court Innovation",
+  "borough_community" : "New York ",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "646.264.1329"
+}
+, {
+  "site_name" : "Neighborhood Defender Service of Harlem",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.8084771781372",
+    "human_address" : "{\"address\":\"317 Lenox Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10027\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94510035450739"
+  },
+  "agency" : "Neighborhood Defender Service of Harlem",
+  "borough_community" : "New York ",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "212.876.5500"
+}
+, {
+  "site_name" : "Oberia Dempsey Center ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.80943881923591",
+    "human_address" : "{\"address\":\"127 127th\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10027\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94534192638868"
+  },
+  "agency" : "The Northern Manhattan Perinatal Partnership Inc.",
+  "borough_community" : "New York ",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "212.665.2600"
+}
+, {
+  "site_name" : "Washington Houses Community Center ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.78992458809426",
+    "human_address" : "{\"address\":\"237 104th Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10029\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94476913120286"
+  },
+  "agency" : "Union Settlement Association",
+  "borough_community" : "New York ",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "212.828.6113"
+}
+, {
+  "site_name" : "Strive/East Harlem Employment Service, Inc. ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.801631007365245",
+    "human_address" : "{\"address\":\"240 123rd Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9350355660456"
+  },
+  "agency" : "East Harlem Employment Services, Inc.",
+  "borough_community" : "New York ",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "212.360.1100"
+}
+, {
+  "site_name" : "The New York Society for the Prevention of Cruelty to Children",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.70999953983505",
+    "human_address" : "{\"address\":\"161 William Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10038\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00601664988397"
+  },
+  "agency" : "The New York Society for the Prevention of Cruelty to Children",
+  "borough_community" : "New York ",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "212.233.5500"
+}
+, {
+  "site_name" : "Parkside Houses",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.86817216465264",
+    "human_address" : "{\"address\":\"2910 Bronx Park\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10467\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87044025446647"
+  },
+  "agency" : "Friends of Island Academy",
+  "borough_community" : "Bronx",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.653.5301"
+}
+, {
+  "site_name" : "FRIENDS Program",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.813535754971156",
+    "human_address" : "{\"address\":\"389 391 East 153rd Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9053552520432"
+  },
+  "agency" : "Visiting Nurse Service of New York",
+  "borough_community" : "Bronx",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "212.794.9200"
+}
+, {
+  "site_name" : "Claremont Neighborhood Centers, Inc. ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.83300943887456",
+    "human_address" : "{\"address\":\"489 169th Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10456\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90573521731622"
+  },
+  "agency" : "Claremont Neighborhood Centers, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.588.1000"
+}
+, {
+  "site_name" : "Nursing Family Partnership ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.805846930091775",
+    "human_address" : "{\"address\":\"489 491 East 153 Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10454\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91628504651766"
+  },
+  "agency" : "Visiting Nurse Service of New York",
+  "borough_community" : "Bronx",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.402.3900 "
+}
+, {
+  "site_name" : "Family and Community Support Services",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.67752593238575",
+    "human_address" : "{\"address\":\"124 Utica\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11233\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93033516817815"
+  },
+  "agency" : "Family and Community Support Services",
+  "borough_community" : "Brooklyn",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "347.879.3367"
+}
+, {
+  "site_name" : "Ralph Lincoln Service Center ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.67003864096985",
+    "human_address" : "{\"address\":\"261 Buffalo Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11213\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92540014432034"
+  },
+  "agency" : "Ralph Lincoln Service Center, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.604.1358"
+}
+, {
+  "site_name" : "Project Bridge ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.70259055255882",
+    "human_address" : "{\"address\":\"52 Wilson Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11237\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9290890577379"
+  },
+  "agency" : "Catholic Charities Neighborhood Services, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.628.1905"
+}
+, {
+  "site_name" : "Coalition for Hispanic Family Services ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.700089964438455",
+    "human_address" : "{\"address\":\"315 Wyckoff Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11237\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91203291222284"
+  },
+  "agency" : "Coalition for Hispanic Family Services",
+  "borough_community" : "Brooklyn",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.497.6090"
+}
+, {
+  "site_name" : "Forestdale at Forest Hills Campus",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.720707263029794",
+    "human_address" : "{\"address\":\"67 35 112 Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11375\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.84628429608335"
+  },
+  "agency" : "Forestdale, Inc",
+  "borough_community" : "Queens",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.263.0740"
+}
+, {
+  "site_name" : "Allen AME Multi-Center (Annex)",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.6769452621142",
+    "human_address" : "{\"address\":\"1114 02\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11434\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.77530690169215"
+  },
+  "agency" : "Forestdale, Inc",
+  "borough_community" : "Queens",
+  "program" : "Fatherhood Initiative",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.263.0740"
+}
+, {
+  "site_name" : "The Children's Aid Society",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.84309034804119",
+    "human_address" : "{\"address\":\"1338 Southern Blvd&nbsp; Bx\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10460\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87860282506028"
+  },
+  "agency" : "The Children's Aid Society",
+  "borough_community" : "Bronx",
+  "program" : "Health Stat Initiative",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718.617.8595"
+}
+, {
+  "site_name" : "The East New York Learning Center, Inc",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.67813043816926",
+    "human_address" : "{\"address\":\"1958 Fulton&nbsp; St\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11233\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91977647550391"
+  },
+  "agency" : "The East New York Learning Center, Inc",
+  "borough_community" : "Brooklyn",
+  "program" : "Health Stat Initiative",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718.756.7200"
+}
+, {
+  "site_name" : "The East New York Learning Center, Inc",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.67813043816926",
+    "human_address" : "{\"address\":\"1959 Fulton&nbsp; St\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11233\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91977647550391"
+  },
+  "agency" : "The East New York Learning Center, Inc",
+  "borough_community" : "Brooklyn",
+  "program" : "Health Stat Initiative",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718.756.7201"
+}
+, {
+  "site_name" : "The East New York Learning Center, Inc",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.67813043816926",
+    "human_address" : "{\"address\":\"1960 Fulton&nbsp; St\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11233\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91977647550391"
+  },
+  "agency" : "The East New York Learning Center, Inc",
+  "borough_community" : "Brooklyn",
+  "program" : "Health Stat Initiative",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718.756.7202"
+}
+, {
+  "site_name" : "The Children's Aid Society",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.75294216673416",
+    "human_address" : "{\"address\":\"150 45th St\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10017\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9736410568292"
+  },
+  "agency" : "The Children's Aid Society",
+  "borough_community" : "New York",
+  "program" : "Health Stat Initiative",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212.503.6820"
+}
+, {
+  "site_name" : "Northern Manhattan Improvement Corporation",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.84705167605878",
+    "human_address" : "{\"address\":\"76 Wadsworth Ave\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10033\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93704472494271"
+  },
+  "agency" : "Northern Manhattan Improvement Corporation",
+  "borough_community" : "New York",
+  "program" : "Health Stat Initiative",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212.822.8344"
+}
+, {
+  "site_name" : "Asian Americans for Equality",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.76862022064671",
+    "human_address" : "{\"address\":\"133 04 39th Ave\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11354\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82719028070687"
+  },
+  "agency" : "Asian Americans for Equality",
+  "borough_community" : "Queens",
+  "program" : "Health Stat Initiative",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718.961.0888"
+}
+, {
+  "site_name" : "Asian Americans for Equality",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.75163073936716",
+    "human_address" : "{\"address\":\"93 03 Roosevelt Ave\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11372\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88361254528269"
+  },
+  "agency" : "Asian Americans for Equality",
+  "borough_community" : "Queens",
+  "program" : "Health Stat Initiative",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718.961.0888"
+}
+, {
+  "site_name" : "Jewish Community Center of Staten Island, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.61290258996254",
+    "human_address" : "{\"address\":\"1859 Victory Blvd\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10314\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.12559801832025"
+  },
+  "agency" : "Jewish Community Center of Staten Island, Inc.",
+  "borough_community" : "Staten Island",
+  "program" : "Health Stat Initiative",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718. 981.1400"
+}
+, {
+  "site_name" : "East Harlem Neighborhood Based Alliance Corporation",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.801631007365245",
+    "human_address" : "{\"address\":\"240 123 Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9350355660456"
+  },
+  "agency" : "East Harlem Neighborhood Based Alliance Corporation",
+  "borough_community" : "New York",
+  "program" : "HIV/AIDS Support Services",
+  "contact_number" : "212.360.1100"
+}
+, {
+  "site_name" : "Davidson Community Center, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.85374837851653",
+    "human_address" : "{\"address\":\"2038 Davidson Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90853996733885"
+  },
+  "agency" : "Davidson Community Center, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "HIV/AIDS Support Services",
+  "contact_number" : "718.731.6360"
+}
+, {
+  "site_name" : "Jacob A. Riis Neighborhood Settlement, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"10 25 41st Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225"
+  },
+  "agency" : "Jacob A. Riis Neighborhood Settlement, Inc.",
+  "borough_community" : "Queens",
+  "program" : "HIV/AIDS Support Services",
+  "contact_number" : "718.784.7447"
+}
+, {
+  "site_name" : "The Fathers Center ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.678763354677244",
+    "human_address" : "{\"address\":\"584 Nostrand Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11215\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94970120133162"
+  },
+  "agency" : "The Family Center",
+  "borough_community" : "Brooklyn",
+  "program" : "HIV/AIDS Support Services",
+  "grade_level_age_group" : "MS/HS",
+  "contact_number" : "212 766-4522"
+}
+, {
+  "site_name" : "SEP at Worldwide Evangelical Church",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.70466900007432",
+    "human_address" : "{\"address\":\"113 02\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11405\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79425899955316"
+  },
+  "agency" : "AIDS Center of Queens County, Inc.",
+  "borough_community" : "Queens",
+  "program" : "HIV/AIDS Support Services",
+  "contact_number" : "718.896.2500"
+}
+, {
+  "site_name" : "ACQC Jamaica Service Center",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.71311535449007",
+    "human_address" : "{\"address\":\"88 10 178th Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11432\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79282099978928"
+  },
+  "agency" : "AIDS Center of Queens County, Inc.",
+  "borough_community" : "Queens",
+  "program" : "HIV/AIDS Support Services",
+  "contact_number" : "718.896.2500"
+}
+, {
+  "site_name" : "AIDS Center of Queens County, Inc.",
+  "program_type" : "Family Support",
+  "agency" : "AIDS Center of Queens County, Inc.",
+  "borough_community" : "Queens",
+  "program" : "HIV/AIDS Support Services",
+  "contact_number" : "718 896-2500"
+}
+, {
+  "site_name" : "SEP at Bethseda Baptist Church ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.71311535449007",
+    "human_address" : "{\"address\":\"179 09 Jamaica Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11432\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79282099978928"
+  },
+  "agency" : "AIDS Center of Queens County, Inc.",
+  "borough_community" : "Queens",
+  "program" : "HIV/AIDS Support Services",
+  "contact_number" : "718.896.2500"
+}
+, {
+  "site_name" : "National Council for Negro Women of Greater New York",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.6769452621142",
+    "human_address" : "{\"address\":\"114 02 Guy R Brewer Boulevard\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11434\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.77530690169215"
+  },
+  "agency" : "National Council for Negro Women of Greater New York",
+  "borough_community" : "Queens",
+  "program" : "HIV/AIDS Support Services",
+  "grade_level_age_group" : "MS/HS",
+  "contact_number" : "718.657.8585"
+}
+, {
+  "site_name" : "AAFE Chinatown / Lower East Side",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.71897477368748",
+    "human_address" : "{\"address\":\"108 Norfolk Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98705894150635"
+  },
+  "agency" : "Asian Americans for Equality",
+  "borough_community" : "New York",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "212.680.1374"
+}
+, {
+  "site_name" : "Cooper Square Community Development & Business Association",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.726940950792155",
+    "human_address" : "{\"address\":\"61 4th Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99113355652129"
+  },
+  "agency" : "Cooper Square Community Development & Business Association",
+  "borough_community" : "New York",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "212.228.8210"
+}
+, {
+  "site_name" : "Catholic Charities Community Service, Archdiocese of N Y",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.7572783324888",
+    "human_address" : "{\"address\":\"1011 First Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10022\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96371387829234"
+  },
+  "agency" : "Catholic Charities Community Service, Archdiocese of N Y",
+  "borough_community" : "New York",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "212.371.1000"
+}
+, {
+  "site_name" : "Stryckers Bay Neighborhood Council, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.787026471644594",
+    "human_address" : "{\"address\":\"63 87th Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97133879243415"
+  },
+  "agency" : "Stryckers Bay Neighborhood Council, Inc.",
+  "borough_community" : "New York",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "212.874.7272"
+}
+, {
+  "site_name" : "Catholic Charities Community Services-Washington Heights ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.845160338750205",
+    "human_address" : "{\"address\":\"4111 Broadway\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10033\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93878884162382"
+  },
+  "agency" : "Catholic Charities Community Service, Archdiocese of N Y",
+  "borough_community" : "New York",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "212.371.1000"
+}
+, {
+  "site_name" : "Northern Manhattan Improvement Corporation",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.84705167605878",
+    "human_address" : "{\"address\":\"76 Wadsworth Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10033\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93704472494271"
+  },
+  "agency" : "Northern Manhattan Improvement Corporation",
+  "borough_community" : "New York",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "212.822.8300"
+}
+, {
+  "site_name" : "Washington Heights- Inwood Coalition, Inc",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.85360240438229",
+    "human_address" : "{\"address\":\"652 187th Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10033\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.932345278359"
+  },
+  "agency" : "Washington Heights- Inwood Coalition, Inc",
+  "borough_community" : "New York",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "212.781.6722"
+}
+, {
+  "site_name" : "Audubon Partnership for Economic Development LDC",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.86497071192406",
+    "human_address" : "{\"address\":\"513 207th Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10034\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91947489100443"
+  },
+  "agency" : "Audubon Partnership for Economic Development LDC",
+  "borough_community" : "New York",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "212.544.2400"
+}
+, {
+  "site_name" : "Townsend Office ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.841513488175195",
+    "human_address" : "{\"address\":\"1477 Townsend Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10452\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9156620372896"
+  },
+  "agency" : "Citizens Advice Bureau, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.293.0727"
+}
+, {
+  "site_name" : "Neighborhood Association for Inter-Cultural Affairs",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.83772426336412",
+    "human_address" : "{\"address\":\"1075 Grand\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10452\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9233322114124"
+  },
+  "agency" : "Neighborhood Association for Inter-Cultural Affairs",
+  "borough_community" : "Bronx",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.538.3344"
+}
+, {
+  "site_name" : "Pueblo En Marcha, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.81355541300932",
+    "human_address" : "{\"address\":\"401 145th Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10454\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91962186908926"
+  },
+  "agency" : "Pueblo En Marcha, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.665.7375"
+}
+, {
+  "site_name" : "South Bronx Action Group",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.81619506491741",
+    "human_address" : "{\"address\":\"384 149th Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91850118148372"
+  },
+  "agency" : "South Bronx Action Group",
+  "borough_community" : "Bronx",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.993.5869"
+}
+, {
+  "site_name" : "Citizens Advice Bureau, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.812893537386145",
+    "human_address" : "{\"address\":\"632 Southern Boulevard\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90133270321454"
+  },
+  "agency" : "Citizens Advice Bureau, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.293.0727"
+}
+, {
+  "site_name" : "163rd Street Improvement Council, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.83287024298541",
+    "human_address" : "{\"address\":\"1345 Franklin Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10456\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9011071762243"
+  },
+  "agency" : "163rd Street Improvement Council, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.589.5080"
+}
+, {
+  "site_name" : "West Bronx Housing & Neighborhood Resource Center",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.87538599143666",
+    "human_address" : "{\"address\":\"3176 Bainbridge\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10467\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87947666045017"
+  },
+  "agency" : "West Bronx Housing & Neighborhood Resource Center",
+  "borough_community" : "Bronx",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.798.0929"
+}
+, {
+  "site_name" : "Bedford Park ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.86785065240455",
+    "human_address" : "{\"address\":\"2925 Grand\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10468\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89951166617763"
+  },
+  "agency" : "Citizens Advice Bureau, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.293.0727"
+}
+, {
+  "site_name" : "Agudath Israel of America /SBCO",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.63020611696117",
+    "human_address" : "{\"address\":\"4520 18th Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11204\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97835931750974"
+  },
+  "agency" : "Agudath Israel of America /SBCO",
+  "borough_community" : "Brooklyn",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.435.1300"
+}
+, {
+  "site_name" : "Brooklyn Neighborhood Improvement Association",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.67047059360309",
+    "human_address" : "{\"address\":\"1482 St Johns Place\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11213\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92935613018749"
+  },
+  "agency" : "Brooklyn Neighborhood Improvement Association",
+  "borough_community" : "Brooklyn",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.773.4116"
+}
+, {
+  "site_name" : "CAMBA's Park Slope Women's Shelter",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.66272539519599",
+    "human_address" : "{\"address\":\"1402 Eighth Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11215\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98177254331561"
+  },
+  "agency" : "Church Avenue Merchants Block Association, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.287.2600"
+}
+, {
+  "site_name" : "Brooklyn Housing and Family Services, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.64548060202624",
+    "human_address" : "{\"address\":\"415 Albemarle Road\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11218\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97668803303637"
+  },
+  "agency" : "Brooklyn Housing and Family Services, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.435.7585"
+}
+, {
+  "site_name" : "Boro Park Jewish Community Council",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.63667021309369",
+    "human_address" : "{\"address\":\"4608 13th Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11219\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9904592808461"
+  },
+  "agency" : "Boro Park Jewish Community Council",
+  "borough_community" : "Brooklyn",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.972.6600"
+}
+, {
+  "site_name" : "Brooklyn Chinese American Association",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.64109442766902",
+    "human_address" : "{\"address\":\"5002 8th Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00377165549868"
+  },
+  "agency" : "Brooklyn Chinese American Association",
+  "borough_community" : "Brooklyn",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.438.9312"
+}
+, {
+  "site_name" : "Brooklyn Chinese American Association",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.641104606526014",
+    "human_address" : "{\"address\":\"5000 8th Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.0037599239347"
+  },
+  "agency" : "Brooklyn Chinese American Association",
+  "borough_community" : "Brooklyn",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.438.9312"
+}
+, {
+  "site_name" : "Flatbush Development Corporation",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.6359962740795",
+    "human_address" : "{\"address\":\"1616 Newkirk Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11226\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96230212887792"
+  },
+  "agency" : "Flatbush Development Corporation",
+  "borough_community" : "Brooklyn",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.859.3800"
+}
+, {
+  "site_name" : "Polonians Organized to Minister to Our Community",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.6637887581987",
+    "human_address" : "{\"address\":\"635 4th Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11232\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99440962736499"
+  },
+  "agency" : "Polonians Organized to Minister to Our Community",
+  "borough_community" : "Brooklyn",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.326.9098"
+}
+, {
+  "site_name" : "AAFE Queens ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.76862022064671",
+    "human_address" : "{\"address\":\"133 04 39th Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11354\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82719028070687"
+  },
+  "agency" : "Asian Americans for Equality",
+  "borough_community" : "Queens",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "212.680.1374"
+}
+, {
+  "site_name" : "Asian Americns for Equality",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.71612146793143",
+    "human_address" : "{\"address\":\"108 111 Norfolk Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98583147024613"
+  },
+  "agency" : "Asian Americans for Equality                                ",
+  "borough_community" : "Manhattan",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "212.979.8381"
+}
+, {
+  "site_name" : "Asian Americns for Equality",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.76862022064671",
+    "human_address" : "{\"address\":\"133 04-39th Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11354\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82719028070687"
+  },
+  "agency" : "Asian Americans for Equality                                ",
+  "borough_community" : "Queens",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.961.0888"
+}
+, {
+  "site_name" : "Brooklyn Housing and Family Services, Inc.",
+  "program_type" : "Family Support",
+  "agency" : "Brooklyn Housing and Family Services, Inc.                  ",
+  "borough_community" : "Brooklyn",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.435.7585"
+}
+, {
+  "site_name" : "Brooklyn Housing and Family",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.64322700851966",
+    "human_address" : "{\"address\":\"415 Albermarle Road\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11218\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9764486221062"
+  },
+  "agency" : "Brooklyn Housing and Family Services, Inc.                  ",
+  "borough_community" : "Brooklyn",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.435.7585"
+}
+, {
+  "site_name" : "Brooklyn Housing and Family",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.64322700851966",
+    "human_address" : "{\"address\":\"415 Albermarle Road\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11218\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9764486221062"
+  },
+  "agency" : "Brooklyn Housing and Family Services, Inc.                  ",
+  "borough_community" : "Brooklyn",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.435.7585"
+}
+, {
+  "site_name" : "Flatbush Development Corporation",
+  "program_type" : "Family Support",
+  "agency" : "Flatbush Development Corporation                            ",
+  "borough_community" : "Brooklyn",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "Adults",
+  "contact_number" : "718.859.4763"
+}
+, {
+  "site_name" : "Northern Manhattan Improvement Corporation",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.84705167605878",
+    "human_address" : "{\"address\":\"76 Wadswortth Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10033\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93704472494271"
+  },
+  "agency" : "Northern Manhattan Improvement Corporation                  ",
+  "borough_community" : "New York",
+  "program" : "Housing Assistance & Advocacy",
+  "grade_level_age_group" : "18 and up",
+  "contact_number" : "212.822.8336"
+}
+, {
+  "site_name" : "Asian Americans for Equality",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.76862022064671",
+    "human_address" : "{\"address\":\"133 04 39th Avenue\",\"city\":\"Flushing\",\"state\":\"NEW YORK\",\"zip\":\"11354\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82719028070687"
+  },
+  "agency" : "Asian Americans for Equality                                ",
+  "borough_community" : "Flushing",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.961.0888"
+}
+, {
+  "site_name" : "COJO of Flatbush",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.616970915722995",
+    "human_address" : "{\"address\":\"1658 Coney Island Ave\",\"city\":\"Flatbush\",\"state\":\"NEW YORK\",\"zip\":\"11230\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96378533350548"
+  },
+  "agency" : "Council of Jewish Organizations of Flatbush                 ",
+  "borough_community" : "Flatbush",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.627.5602"
+}
+, {
+  "site_name" : "COJO of Flatbush",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.616970915722995",
+    "human_address" : "{\"address\":\"1658 Coney Island Ave\",\"city\":\"Flatbush\",\"state\":\"NEW YORK\",\"zip\":\"11230\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96378533350548"
+  },
+  "agency" : "Council of Jewish Organizations of Flatbush                 ",
+  "borough_community" : "Flatbush",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.627.5602"
+}
+, {
+  "site_name" : "COJO of Flatbush",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.616970915722995",
+    "human_address" : "{\"address\":\"1658 Coney Island Ave\",\"city\":\"Flatbush\",\"state\":\"NEW YORK\",\"zip\":\"11230\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96378533350548"
+  },
+  "agency" : "Council of Jewish Organizations of Flatbush                 ",
+  "borough_community" : "Flatbush",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.627.5602"
+}
+, {
+  "site_name" : "Greater Chinatown Comm. Assoc",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.714478163541",
+    "human_address" : "{\"address\":\"105 Mosco Street\",\"city\":\"Chinatown\",\"state\":\"NEW YORK\",\"zip\":\"10013\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99923576178304"
+  },
+  "agency" : "Greater Chinatown Community Association                     ",
+  "borough_community" : "Chinatown",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "212.374.1311"
+}
+, {
+  "site_name" : "U.J. C. of the East Side",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.714321356871665",
+    "human_address" : "{\"address\":\"235 Broadway\",\"city\":\"Lower East Side\",\"state\":\"NEW YORK\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98661094444209"
+  },
+  "agency" : "United Jewish Council of the East Side, Inc.                ",
+  "borough_community" : "Lower East Side",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "212.233.6037"
+}
+, {
+  "site_name" : "The Baruch Elder Services Team (BEST) Program ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.717388686577515",
+    "human_address" : "{\"address\":\"72 Columbia Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98001783276366"
+  },
+  "agency" : "Grand Street Settlement, Inc.",
+  "borough_community" : "New York",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "212.982.4171"
+}
+, {
+  "site_name" : "Henry Street Settlement Senior Services Center ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.71329016943547",
+    "human_address" : "{\"address\":\"334 Madison Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9830168780469"
+  },
+  "agency" : "Henry Street Settlement",
+  "borough_community" : "New York",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "212.766.9200"
+}
+, {
+  "site_name" : "Vladeck Cares N.O.R.C. ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.713407305684896",
+    "human_address" : "{\"address\":\"351 Madison Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9824873659316"
+  },
+  "agency" : "Henry Street Settlement",
+  "borough_community" : "New York",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "212.766.9200"
+}
+, {
+  "site_name" : "United Jewish Council of the East Side, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.71436125167719",
+    "human_address" : "{\"address\":\"235 Broadway\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98646538896702"
+  },
+  "agency" : "United Jewish Council of the East Side, Inc.",
+  "borough_community" : "New York",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "212.233.6037"
+}
+, {
+  "site_name" : "Greater Chinatown Community Association",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.714478163541",
+    "human_address" : "{\"address\":\"105 Mosco Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10013\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99923576178304"
+  },
+  "agency" : "Greater Chinatown Community Association",
+  "borough_community" : "New York",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "212.374.1311"
+}
+, {
+  "site_name" : "St Matthews & St. Timonthys Neighborhood Center, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.7887128410752",
+    "human_address" : "{\"address\":\"263 86th Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97736302500698"
+  },
+  "agency" : "St. Matthews & St. Timothys Neighborhood Center, Inc.",
+  "borough_community" : "New York",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "212.362.6750"
+}
+, {
+  "site_name" : "Fort Washington Houses Services for the Elderly, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.8390432578193",
+    "human_address" : "{\"address\":\"99 Fort Washington Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10032\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94352276206791"
+  },
+  "agency" : "Fort Washington Houses Services for the Elderly, Inc.",
+  "borough_community" : "New York",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "212.927.5600"
+}
+, {
+  "site_name" : "Seniors Helping Seniors",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.8411278753413",
+    "human_address" : "{\"address\":\"600 168 Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10032\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9399616966274"
+  },
+  "agency" : "Seniors Helping Seniors",
+  "borough_community" : "New York",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "212.543.9383"
+}
+, {
+  "site_name" : "ARC XVI FT. WASHINGTON INC.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.845160338750205",
+    "human_address" : "{\"address\":\"4111 Broadway\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10033\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93878884162382"
+  },
+  "agency" : "ARC XVI FT. WASHINGTON INC.",
+  "borough_community" : "New York",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "212.781.5700"
+}
+, {
+  "site_name" : "RAIN Inwood Senior Center ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.86598620242693",
+    "human_address" : "{\"address\":\"84 Vermilyea Ave\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10034\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92278693146737"
+  },
+  "agency" : "Regional Aid For Interim Needs, Inc. (R.A.I.N.)",
+  "borough_community" : "New York",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.892.5520"
+}
+, {
+  "site_name" : "YM-YWHA of Washington Heights Inwood",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.86003561997804",
+    "human_address" : "{\"address\":\"54 Nagle Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10040\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92907209539446"
+  },
+  "agency" : "Institute For Puerto Rican Hispanic Elderly, Inc.",
+  "borough_community" : "New York",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "212.677.4181"
+}
+, {
+  "site_name" : "Aging In America Community Services, Inc",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.85710649548991",
+    "human_address" : "{\"address\":\"1500 Pelham Parkway\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10461\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.84367515955307"
+  },
+  "agency" : "Aging In America Community Services, Inc",
+  "borough_community" : "Bronx",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.409.7979"
+}
+, {
+  "site_name" : "Parkchester Enhancement Program for Seniors",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.83691390411333",
+    "human_address" : "{\"address\":\"1525 Unionport Road\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10462\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85758628828341"
+  },
+  "agency" : "Beth Abraham Health Services",
+  "borough_community" : "Bronx",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.409.1619"
+}
+, {
+  "site_name" : "RAIN Multi Services for Seniors",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.836448853178055",
+    "human_address" : "{\"address\":\"2368 Westchester\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10462\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.84704226766401"
+  },
+  "agency" : "Regional Aid For Interim Needs, Inc.(R.A.I.N.)",
+  "borough_community" : "Bronx",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.892.5520"
+}
+, {
+  "site_name" : "Baychester Community Center ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.88459636702252",
+    "human_address" : "{\"address\":\"1220 229th Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10466\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.84273298546154"
+  },
+  "agency" : "Aging In America Community Services, Inc",
+  "borough_community" : "Bronx",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718 409-7979"
+}
+, {
+  "site_name" : "Filomena Gardens",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.888362327283964",
+    "human_address" : "{\"address\":\"641 225 Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10466\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.86213681347961"
+  },
+  "agency" : "Neighborhood Self-Help by Older Persons Projects, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.542.0006"
+}
+, {
+  "site_name" : "Mercy Houses",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.89323716441264",
+    "human_address" : "{\"address\":\"644 232 Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10466\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8593315590994"
+  },
+  "agency" : "Neighborhood Self-Help by Older Persons Projects, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.542.0006"
+}
+, {
+  "site_name" : "Mercy Manor ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.89360386428615",
+    "human_address" : "{\"address\":\"4170 Carpenter Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10466\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.86061453248679"
+  },
+  "agency" : "Neighborhood Self-Help by Older Persons Projects, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.542.0006"
+}
+, {
+  "site_name" : "St. Lukes",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.885144265015896",
+    "human_address" : "{\"address\":\"3911 Barnes Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10466\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85860615419493"
+  },
+  "agency" : "Neighborhood Self-Help by Older Persons Projects, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.542.0006"
+}
+, {
+  "site_name" : "Pelham Parkway Senior Center",
+  "program_type" : "Family Support",
+  "agency" : "Conscientious Musical Revues",
+  "borough_community" : "Bronx",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "800.624.8474"
+}
+, {
+  "site_name" : "Riverdale YM-YWHA",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.90505439236596",
+    "human_address" : "{\"address\":\"5625 Arlington Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10471\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90714580467755"
+  },
+  "agency" : "Riverdale YM-YWHA",
+  "borough_community" : "Bronx",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.548.8200"
+}
+, {
+  "site_name" : "Soundview Houses Senior Center ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.81833626051053",
+    "human_address" : "{\"address\":\"1674 Seward Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10473\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8690767014725"
+  },
+  "agency" : "Conscientious Musical Revues",
+  "borough_community" : "Bronx",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "800.624.8474"
+}
+, {
+  "site_name" : "Carol Gardens",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.82327888267286",
+    "human_address" : "{\"address\":\"880 Thieriot Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10473\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.86241277558031"
+  },
+  "agency" : "Neighborhood Self-Help by Older Persons Projects, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.542.0006"
+}
+, {
+  "site_name" : "San Andres Church",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.8130069544523",
+    "human_address" : "{\"address\":\"351 Soundview Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10473\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85738998185833"
+  },
+  "agency" : "Neighborhood Self-Help by Older Persons Projects, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.542.0006"
+}
+, {
+  "site_name" : "Jaime Towers",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.82049015838661",
+    "human_address" : "{\"address\":\"2050 Seward Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10473\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85308993692624"
+  },
+  "agency" : "Neighborhood Self-Help by Older Persons Projects, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.542.0006"
+}
+, {
+  "site_name" : "St. Andrews House ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.8223487885949",
+    "human_address" : "{\"address\":\"2155 Virgil Place\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10473\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85023957560342"
+  },
+  "agency" : "Neighborhood Self-Help by Older Persons Projects, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.542.0006"
+}
+, {
+  "site_name" : "RAIN Boston Secor S.C.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.8834397447261",
+    "human_address" : "{\"address\":\"3540 Bivona Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10475\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8333333132606"
+  },
+  "agency" : "Regional Aid For Interim Needs, Inc. (R.A.I.N.)",
+  "borough_community" : "Bronx",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.892.5520"
+}
+, {
+  "site_name" : "Agudath Israel of America / SBCO",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.63020611696117",
+    "human_address" : "{\"address\":\"4520 18th Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11204\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97835931750974"
+  },
+  "agency" : "Agudath Israel of America / SBCO",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.435.1300"
+}
+, {
+  "site_name" : "Yolanda Senior Center",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.69880327788773",
+    "human_address" : "{\"address\":\"78 Troutman\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11206\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93095466026926"
+  },
+  "agency" : "Ridgewood Bushwick Senior Citizens Council",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.821.0254"
+}
+, {
+  "site_name" : "Wayside Out Reach Development, Inc",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.670802431187326",
+    "human_address" : "{\"address\":\"1746 60\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89384115004901"
+  },
+  "agency" : "Wayside Out Reach Development, Inc",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.453.2700"
+}
+, {
+  "site_name" : "American Italian Coalition of Organizations, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.603729360660516",
+    "human_address" : "{\"address\":\"138 Bay 20th Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11214\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00400341659432"
+  },
+  "agency" : "American Italian Coalition of Organizations, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.256.3445"
+}
+, {
+  "site_name" : "Restoration Plaza ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.68016709769277",
+    "human_address" : "{\"address\":\"1368 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11216\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94592248315027"
+  },
+  "agency" : "Institute For Puerto Rican Hispanic Elderly, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "212.677.4181"
+}
+, {
+  "site_name" : "Council of Neighborhood Organizations, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.64308126028002",
+    "human_address" : "{\"address\":\"3911 Fort Hamilton Parkway\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11218\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99056118499203"
+  },
+  "agency" : "Council of Neighborhood Organizations, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.853.0100"
+}
+, {
+  "site_name" : "Guardians of the Sick, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.635910755077674",
+    "human_address" : "{\"address\":\"5216 11th Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11219\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9983983514248"
+  },
+  "agency" : "Guardians of the Sick, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.438.2020"
+}
+, {
+  "site_name" : "BCA Senior Center ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.614704025531445",
+    "human_address" : "{\"address\":\"6809 20th Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11204\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98771039717887"
+  },
+  "agency" : "Brooklyn Chinese American Association",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.438.9312"
+}
+, {
+  "site_name" : "Brooklyn Chinese American Association",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.64105371224104",
+    "human_address" : "{\"address\":\"5010 8th Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00381858175466"
+  },
+  "agency" : "Brooklyn Chinese American Association",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.438.9312"
+}
+, {
+  "site_name" : "Community Service Center Area IV",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.69179092994217",
+    "human_address" : "{\"address\":\"518 Van Buren Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11221\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92796711904296"
+  },
+  "agency" : "Community Service Center Area IV",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.574.0873"
+}
+, {
+  "site_name" : "Gates Senior Center ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.695282660522736",
+    "human_address" : "{\"address\":\"1349 Gates Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11221\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91642982596275"
+  },
+  "agency" : "Ridgewood Bushwick Senior Citizens Council",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.821.0254"
+}
+, {
+  "site_name" : "Goodwin Senior Center",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.691613703908644",
+    "human_address" : "{\"address\":\"55 Goodwin Place\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11221\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92379865309422"
+  },
+  "agency" : "Ridgewood Bushwick Senior Citizens Council",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.821.0254"
+}
+, {
+  "site_name" : "Ridgewood Bushwick Senior Citizen Housing",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.69729988650432",
+    "human_address" : "{\"address\":\"143 Himrod St\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11221\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92266264657464"
+  },
+  "agency" : "Ridgewood Bushwick Senior Citizens Council",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.821.0254"
+}
+, {
+  "site_name" : "Jewish Community Council of Greater Coney Island, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.573273749723825",
+    "human_address" : "{\"address\":\"3001 37th Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11224\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00249064003097"
+  },
+  "agency" : "Jewish Community Council of Greater Coney Island, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.449.5000"
+}
+, {
+  "site_name" : "Caledonian Health Campus Center Brooklyn Hospital",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.65318029394583",
+    "human_address" : "{\"address\":\"100 Parkside Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11226\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9661250479036"
+  },
+  "agency" : "Diaspora Community Services, Inc",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.399.0200"
+}
+, {
+  "site_name" : "Homecrest Community Services, Inc",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.60123350732056",
+    "human_address" : "{\"address\":\"1413 Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11229\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94436854117521"
+  },
+  "agency" : "Homecrest Community Services, Inc",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.376.4036"
+}
+, {
+  "site_name" : "Project Care Volunteer Services for the Elderly & Homebound ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.62192951023877",
+    "human_address" : "{\"address\":\"1658 Coney Island\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11230\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96551106018723"
+  },
+  "agency" : "Council of Jewish Organizations of Flatbush",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.377.2900"
+}
+, {
+  "site_name" : "Webster Terrace",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.63173065136666",
+    "human_address" : "{\"address\":\"680 Ocean Parkway\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11230\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97221160532617"
+  },
+  "agency" : "Agudath Israel of America / SBCO",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.435.1300"
+}
+, {
+  "site_name" : "Shorefront YM-YWHA",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.575793969703795",
+    "human_address" : "{\"address\":\"3300 Coney Island Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11235\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95950745079742"
+  },
+  "agency" : "Shorefront YM-YWHA",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.646.1444"
+}
+, {
+  "site_name" : "Plaza Senior Center",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.697076322390316",
+    "human_address" : "{\"address\":\"297 Wilson Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11237\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91928647007668"
+  },
+  "agency" : "Ridgewood Bushwick Senior Citizens Council",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.821.0254"
+}
+, {
+  "site_name" : "Berkshire Farm Center and Services for Youth",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.67975348048512",
+    "human_address" : "{\"address\":\"732 Dean Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11238\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9659835792308"
+  },
+  "agency" : "Berkshire Farm Center and Services for Youth",
+  "borough_community" : "Brooklyn",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "518.781.4567"
+}
+, {
+  "site_name" : "AAFE Queens",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.76862022064671",
+    "human_address" : "{\"address\":\"133 04 39th Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11354\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82719028070687"
+  },
+  "agency" : "Asian Americans for Equality",
+  "borough_community" : "Queens",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "212.680.1374"
+}
+, {
+  "site_name" : "Jackson Heights Senior Center",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.73871040256307",
+    "human_address" : "{\"address\":\"75 01\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11373\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87835115518163"
+  },
+  "agency" : "Institute For Puerto Rican Hispanic Elderly, Inc.",
+  "borough_community" : "Queens",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "212.677.4181"
+}
+, {
+  "site_name" : "International Tower for Seniors",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.71311535449007",
+    "human_address" : "{\"address\":\"90 20 170th Street\",\"city\":\"Jamaica\",\"state\":\"NEW YORK\",\"zip\":\"11432\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79282099978928"
+  },
+  "agency" : "Conscientious Musical Revues",
+  "borough_community" : "Jamaica",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "800.624.8474"
+}
+, {
+  "site_name" : "Natl Sorority Phi Delta Kappa, Beta Omicron Big Sr EASC Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.6769452621142",
+    "human_address" : "{\"address\":\"117 08 Merrick Boulevard\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11434\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.77530690169215"
+  },
+  "agency" : "Natl Sorority Phi Delta Kappa, Beta Omicron Big Sr EASC Inc.",
+  "borough_community" : "Queens",
+  "program" : "Older Adult Program",
+  "grade_level_age_group" : "Seniors",
+  "contact_number" : "718.723.1119"
+}
+, {
+  "site_name" : "Columbus -Amsterdam Business Improvement District",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.78362556816552",
+    "human_address" : "{\"address\":\"263 96th Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96653900057436"
+  },
+  "agency" : "West Side Campaign Against Hunger Church of St. Paul",
+  "borough_community" : "New York",
+  "program" : "Parent Education and Family Support",
+  "contact_number" : "212.362.3662"
+}
+, {
+  "site_name" : "Latin American Intergration Center",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.63083331110846",
+    "human_address" : "{\"address\":\"463 Richmond Avenue\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10302\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.13773429869889"
+  },
+  "agency" : "Latin American Intergration Center",
+  "borough_community" : "Staten Island",
+  "program" : "Parent Education and Family Support",
+  "contact_number" : "718.565.8500"
+}
+, {
+  "site_name" : "Citizens Advice Bureau Information & Referral ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.84579837129786",
+    "human_address" : "{\"address\":\"2070 Grand\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10457\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89832418681175"
+  },
+  "agency" : "Citizens Advice Bureau, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Parent Education and Family Support",
+  "contact_number" : "718.293.0727"
+}
+, {
+  "site_name" : "Dr. White Community Center ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.69828882200633",
+    "human_address" : "{\"address\":\"200 Gold Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98309740031785"
+  },
+  "agency" : "Catholic Charities Neighborhood Services, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Parent Education and Family Support",
+  "contact_number" : "718.722.6023"
+}
+, {
+  "site_name" : "Public School 261 - Philip Livingston Elementary School",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.687425557961234",
+    "human_address" : "{\"address\":\"314 Pacific Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98822545546808"
+  },
+  "agency" : "Fifth Avenue Committee, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Parent Education and Family Support",
+  "contact_number" : "718 624 3475"
+}
+, {
+  "site_name" : "Ralph Lincoln Service Center, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.67003864096985",
+    "human_address" : "{\"address\":\"261 Buffalo Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11213\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92540014432034"
+  },
+  "agency" : "Ralph Lincoln Service Center, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Parent Education and Family Support",
+  "contact_number" : "718.604.1358"
+}
+, {
+  "site_name" : "P.S. 38 Pacific Elementary School ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.685320709029845",
+    "human_address" : "{\"address\":\"450 Pacific Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98284364738618"
+  },
+  "agency" : "Fifth Avenue Committee, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Parent Education and Family Support",
+  "contact_number" : "718 624 3475"
+}
+, {
+  "site_name" : "Hispanic Employment Day-Women Working For A Better Community",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.695365122529765",
+    "human_address" : "{\"address\":\"195 Linden Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11221\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91752465717728"
+  },
+  "agency" : "Hispanic Employment Day-Women Working For A Better Community",
+  "borough_community" : "Brooklyn",
+  "program" : "Parent Education and Family Support",
+  "contact_number" : "718.455.3988"
+}
+, {
+  "site_name" : "Crown Heights Jewish Community Council",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.665762628592155",
+    "human_address" : "{\"address\":\"387 Kingston Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11225\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94250335499902"
+  },
+  "agency" : "Crown Heights Jewish Community Council",
+  "borough_community" : "Brooklyn",
+  "program" : "Parent Education and Family Support",
+  "contact_number" : "718.778.8808"
+}
+, {
+  "site_name" : "Village Care of New York",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.67626727466212",
+    "human_address" : "{\"address\":\"6033 Clinton Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11231\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.0009950783946"
+  },
+  "agency" : "Village Care of New York",
+  "borough_community" : "Brooklyn",
+  "program" : "Parent Education and Family Support",
+  "grade_level_age_group" : "HS",
+  "contact_number" : "718.852.5748"
+}
+, {
+  "site_name" : "Make the Road New York -Staten Island",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.63093452909704",
+    "human_address" : "{\"address\":\"479 Port Richmond Avenue\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10302\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.13901464968129"
+  },
+  "agency" : "Make the Road New York",
+  "borough_community" : "Staten Island",
+  "program" : "Parent Education and Family Support",
+  "grade_level_age_group" : "17 and up",
+  "contact_number" : "718.727.1222"
+}
+, {
+  "site_name" : "Make the Road New York -Queens",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.63083331110846",
+    "human_address" : "{\"address\":\"49 06 Skillman Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"10302\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.13773429869889"
+  },
+  "agency" : "Make the Road New York",
+  "borough_community" : "Queens",
+  "program" : "Parent Education and Family Support",
+  "grade_level_age_group" : "17 and up",
+  "contact_number" : "718-565-8500"
+}
+, {
+  "site_name" : "Chambers Memorial Social Change",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.80324124783289",
+    "human_address" : "{\"address\":\"129 123rd Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93876534853291"
+  },
+  "agency" : "Chambers Memorial Social Change",
+  "borough_community" : "New York",
+  "program" : "Substance Abuse Education and Prevention",
+  "contact_number" : "212 410.5361"
+}
+, {
+  "site_name" : "Triboro ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.80199119021216",
+    "human_address" : "{\"address\":\"2415 Second Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93413384008204"
+  },
+  "agency" : "El Barrio's Operation Fightback, Inc.",
+  "borough_community" : "New York",
+  "program" : "Substance Abuse Education and Prevention",
+  "contact_number" : "212.410.7900"
+}
+, {
+  "site_name" : "Teen Center",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.79974135853877",
+    "human_address" : "{\"address\":\"182 2nd Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9354970615892"
+  },
+  "agency" : "El Barrio's Operation Fightback, Inc.",
+  "borough_community" : "New York",
+  "program" : "Substance Abuse Education and Prevention",
+  "contact_number" : "212.410.7900"
+}
+, {
+  "site_name" : "Community Health Action of Staten Island",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.639659723835074",
+    "human_address" : "{\"address\":\"56 Bay Street\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10301\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.0733092529628"
+  },
+  "agency" : "Community Health Action of Staten Island",
+  "borough_community" : "Staten Island",
+  "program" : "Substance Abuse Education and Prevention",
+  "contact_number" : "718.981.3366"
+}
+, {
+  "site_name" : "Church Avenue Merchants Block Association, Inc.",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.68248454294359",
+    "human_address" : "{\"address\":\"1195 Bedford Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11216\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9536988554417"
+  },
+  "agency" : "Church Avenue Merchants Block Association, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Substance Abuse Education and Prevention",
+  "contact_number" : "718.287.2600"
+}
+, {
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.656529948508265",
+    "human_address" : "{\"address\":\"19 Winthrop Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11225\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95987653287332"
+  },
+  "agency" : "Church Avenue Merchants Block Association, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Substance Abuse Education and Prevention",
+  "contact_number" : "718 287.2600"
+}
+, {
+  "site_name" : "Public School 19 - Marino P. Jeantet Elementary School ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.749678220373596",
+    "human_address" : "{\"address\":\"98 02 Roosevelt Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11368\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85304068857687"
+  },
+  "agency" : "Hellenic American Neighborhood Action Committee (HANAC)",
+  "borough_community" : "Queens",
+  "program" : "Substance Abuse Education and Prevention",
+  "contact_number" : "212.840.8005"
+}
+, {
+  "site_name" : "P.S. 19 ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.749678220373596",
+    "human_address" : "{\"address\":\"98 02 Roosevelet Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11368\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85304068857687"
+  },
+  "agency" : "Hellenic American Neighborhood Action Committee (HANAC)     ",
+  "borough_community" : "Queens",
+  "program" : "Substance Abuse Education and Prevention",
+  "grade_level_age_group" : "3rd through 5th",
+  "contact_number" : "718-204-1200"
+}
+, {
+  "site_name" : "Dr. White Community Center ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.69828882200633",
+    "human_address" : "{\"address\":\"200 Gold Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98309740031785"
+  },
+  "agency" : "Catholic Charities Neighborhood Services, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Young Parent Education & Family Support",
+  "grade_level_age_group" : "MS/HS",
+  "contact_number" : "718.722.6023"
+}
+, {
+  "site_name" : "Brooklyn Child and Family Services ",
+  "program_type" : "Family Support",
+  "location_1" : {
+    "latitude" : "40.68231210132245",
+    "human_address" : "{\"address\":\"44 60 Rockwell Place\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97956718857483"
+  },
+  "agency" : "Brooklyn Child and Family Services",
+  "borough_community" : "Brooklyn",
+  "program" : "Young Parent Education & Family Support",
+  "contact_number" : "718 330-0845"
+}
+ ]

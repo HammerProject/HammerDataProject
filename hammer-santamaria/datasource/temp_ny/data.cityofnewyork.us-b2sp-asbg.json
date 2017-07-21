@@ -1,0 +1,288 @@
+[ {
+  "zip" : "10456",
+  "__name_of_borough" : "Bronx",
+  "telephone_number" : "(718) 466-6072",
+  "center_address" : "1276 Fulton Avenue, Suite 401-402",
+  "name_of_center" : "Bronx-Lebanon Hospital Center"
+}
+, {
+  "zip" : "10456",
+  "__name_of_borough" : "Bronx",
+  "telephone_number" : "(718) 579-2500 ",
+  "center_address" : "1265 Franklin Avenue",
+  "name_of_center" : "Comprehensive Family Care Center"
+}
+, {
+  "zip" : "10461",
+  "__name_of_borough" : "Bronx",
+  "telephone_number" : "(718) 503-7714 ",
+  "center_address" : "(Montefiore) 1621 Eastchester Road",
+  "name_of_center" : "Dr. Martin Luther King Jr. Health Center"
+}
+, {
+  "zip" : "10458",
+  "__name_of_borough" : "Bronx",
+  "telephone_number" : " (718) 933-2400",
+  "center_address" : "360 East 193rd Street",
+  "name_of_center" : "Montefiore Family Health Center"
+}
+, {
+  "zip" : "10451",
+  "__name_of_borough" : "Bronx",
+  "telephone_number" : "(718) 579-2597 ",
+  "center_address" : "305 East 161st Street",
+  "name_of_center" : "Montefiore Medical Group Comprehensive HCC"
+}
+, {
+  "zip" : "10453",
+  "__name_of_borough" : "Bronx",
+  "telephone_number" : "(718) 716-4400 ",
+  "center_address" : "Morris Heights Health Center",
+  "name_of_center" : "Morris Heights Health Center"
+}
+, {
+  "zip" : "10473",
+  "__name_of_borough" : "Bronx",
+  "telephone_number" : "(718) 589-2232 ",
+  "center_address" : "731 White Plains Road",
+  "name_of_center" : "Soundview Health Center"
+}
+, {
+  "zip" : "10459",
+  "__name_of_borough" : "Bronx",
+  "telephone_number" : " (718) 991-4833",
+  "center_address" : "1065 Southern Boulevard",
+  "name_of_center" : "Urban Health Plan"
+}
+, {
+  "zip" : "11216",
+  "__name_of_borough" : "Brooklyn",
+  "telephone_number" : "(718) 636-4500",
+  "center_address" : "1413 Fulton Street",
+  "name_of_center" : "Bedford/Stuyvesant Family Health Center"
+}
+, {
+  "zip" : "11217",
+  "__name_of_borough" : "Brooklyn",
+  "telephone_number" : "(718) 596-9896",
+  "center_address" : "650 Fulton Street",
+  "name_of_center" : "Brooklyn Plaza Medical Center"
+}
+, {
+  "zip" : "11212",
+  "__name_of_borough" : "Brooklyn",
+  "telephone_number" : "(718) 345-5000 ",
+  "center_address" : "592 Rockaway Avenue",
+  "name_of_center" : "Brownsville Multi-Service Family Health Center"
+}
+, {
+  "zip" : "11206",
+  "__name_of_borough" : "Brooklyn",
+  "telephone_number" : "(718) 388-0390",
+  "center_address" : "94-98 Manhattan Ave.",
+  "name_of_center" : "Community Health Care Network - CABS Health Center"
+}
+, {
+  "zip" : "11225",
+  "__name_of_borough" : "Brooklyn",
+  "telephone_number" : "(718) 778-0198 ",
+  "center_address" : "Caribbean House Health Center",
+  "name_of_center" : "Community Health Care Network "
+}
+, {
+  "zip" : "11208",
+  "__name_of_borough" : "Brooklyn",
+  "telephone_number" : "(718) 277-8303 ",
+  "center_address" : "Dr. Betty Shabazz Health Center",
+  "name_of_center" : "Community Health Care Network "
+}
+, {
+  "zip" : "11213",
+  "__name_of_borough" : "Brooklyn",
+  "telephone_number" : "(718) 686-7600 ",
+  "center_address" : "571 McDonald Avenue",
+  "name_of_center" : "Ezra Medical Center"
+}
+, {
+  "zip" : "11211",
+  "__name_of_borough" : "Brooklyn",
+  "telephone_number" : "(718) 260-4600 ",
+  "center_address" : "14-16 Heyward Street",
+  "name_of_center" : "ODA Primary Care Health Center"
+}
+, {
+  "zip" : "11220",
+  "__name_of_borough" : "Brooklyn",
+  "telephone_number" : "(718) 630-7095 ",
+  "center_address" : "150 55th Street",
+  "name_of_center" : "Sunset Park Family Health Center"
+}
+, {
+  "zip" : "11209",
+  "__name_of_borough" : "Brooklyn",
+  "telephone_number" : "(718) 759-9126 ",
+  "center_address" : "9711 Third Avenue",
+  "name_of_center" : "Sunset Park Family Health Center"
+}
+, {
+  "zip" : "11220",
+  "__name_of_borough" : "Brooklyn",
+  "telephone_number" : "(718) 686-2680 ",
+  "center_address" : "812 54th Street",
+  "name_of_center" : "Sunset Park Family Health Center Brooklyn-Chinese Family Health Center"
+}
+, {
+  "zip" : "12203",
+  "__name_of_borough" : "Brooklyn",
+  "telephone_number" : "(718) 940-9425 ",
+  "center_address" : "3414 Church Avenue",
+  "name_of_center" : "Sunset Park Family Health Center Caribbean-American Family Health Center"
+}
+, {
+  "zip" : "11220",
+  "__name_of_borough" : "Brooklyn",
+  "telephone_number" : "(718) 439-5440 ",
+  "center_address" : "5616 6th Avenue",
+  "name_of_center" : "Sunset Park Family Health Center Family Physician Family Health Center"
+}
+, {
+  "zip" : "11220",
+  "__name_of_borough" : "Brooklyn",
+  "telephone_number" : "(718) 907-8100 ",
+  "center_address" : "6317 4th Avenue",
+  "name_of_center" : "Sunset Park Family Health Center Park Ridge Family Health Center"
+}
+, {
+  "zip" : "11215",
+  "__name_of_borough" : "Brooklyn",
+  "telephone_number" : "(718) 832-5980 ",
+  "center_address" : "220 13th Street",
+  "name_of_center" : "Sunset Park Family Health Center"
+}
+, {
+  "zip" : "11209",
+  "__name_of_borough" : "Brooklyn",
+  "telephone_number" : "(718) 630-8878 ",
+  "center_address" : "9000 Shore Road",
+  "name_of_center" : "Sunset Park Family Health Center"
+}
+, {
+  "zip" : "11220",
+  "__name_of_borough" : "Brooklyn",
+  "telephone_number" : "(718) 854-1851 ",
+  "center_address" : "514 49th Street",
+  "name_of_center" : "Sunset Park Family Health Center"
+}
+, {
+  "zip" : "10002",
+  "__name_of_borough" : "Manhattan",
+  "telephone_number" : "(212) 227-8408 ",
+  "center_address" : "280 Henry Street",
+  "name_of_center" : "Betances Health Center"
+}
+, {
+  "zip" : "10035",
+  "__name_of_borough" : "Manhattan",
+  "telephone_number" : "(212) 289-6650 ",
+  "center_address" : "2253 Third Avenue",
+  "name_of_center" : "Boriken Neighborhood Health Center"
+}
+, {
+  "zip" : "10011",
+  "__name_of_borough" : "Manhattan",
+  "telephone_number" : "(212) 271-7200 ",
+  "center_address" : "356 West 18th Street",
+  "name_of_center" : "Callen-Lorde Community Health Center"
+}
+, {
+  "zip" : "10013",
+  "__name_of_borough" : "Manhattan",
+  "telephone_number" : "(212) 379-6988 ",
+  "center_address" : "268 Canal Street",
+  "name_of_center" : "Charles B. Wang Community Health Center"
+}
+, {
+  "zip" : "10016",
+  "__name_of_borough" : "Manhattan",
+  "telephone_number" : "(212) 366-4500 ",
+  "center_address" : "79 Madison Avenue",
+  "name_of_center" : "Community Health Care Network"
+}
+, {
+  "zip" : "10031",
+  "__name_of_borough" : "Manhattan",
+  "telephone_number" : "(212) 862-0054 ",
+  "center_address" : "1727 Amsterdam Avenue",
+  "name_of_center" : "Heritage Health Care"
+}
+, {
+  "zip" : "10003",
+  "__name_of_borough" : "Manhattan",
+  "telephone_number" : "(212) 633-0800 ",
+  "center_address" : "16 East 16th Street",
+  "name_of_center" : "Institute for Urban Family Health"
+}
+, {
+  "zip" : "10036",
+  "__name_of_borough" : "Manhattan",
+  "telephone_number" : "(212) 265-4500 ",
+  "center_address" : "645 Tenth Avenue",
+  "name_of_center" : "Ryan/Chelsea-Clinton Community Health Center"
+}
+, {
+  "zip" : "10029",
+  "__name_of_borough" : "Manhattan",
+  "telephone_number" : "(212) 360-2661",
+  "center_address" : "212 East 106th Street",
+  "name_of_center" : "Settlement Health & Medical Services"
+}
+, {
+  "zip" : "10025",
+  "__name_of_borough" : "Manhattan",
+  "telephone_number" : "(212) 316-7906 ",
+  "center_address" : "110 West 97th Street",
+  "name_of_center" : "William F. Ryan Community Health Center"
+}
+, {
+  "zip" : "11345",
+  "__name_of_borough" : "Queens",
+  "telephone_number" : "(718) 886-1200 ",
+  "center_address" : "136-26 37th Ave - 2nd Fl",
+  "name_of_center" : "Charles B. Wang Community Health Center"
+}
+, {
+  "zip" : "11435",
+  "__name_of_borough" : "Queens",
+  "telephone_number" : "(718) 657-7088",
+  "center_address" : "97-04 Sutphin Blvd",
+  "name_of_center" : "Community Health Care Network"
+}
+, {
+  "zip" : "11101",
+  "__name_of_borough" : "Queens",
+  "telephone_number" : "(718) 784-2240",
+  "center_address" : "41-40 27th Street",
+  "name_of_center" : "The Floating Hospital"
+}
+, {
+  "zip" : "11692",
+  "__name_of_borough" : "Queens",
+  "telephone_number" : "(718) 634-2155 ",
+  "center_address" : "6200 Beach Channel Drive",
+  "name_of_center" : "Joseph P. Addabbo Family Health Center"
+}
+, {
+  "zip" : "11435",
+  "__name_of_borough" : "Queens",
+  "telephone_number" : "(718) 298-5100 ",
+  "center_address" : "137-50 Jamaica Avenue",
+  "name_of_center" : "Project Samaritan Health Services /"
+}
+, {
+  "zip" : "10302",
+  "__name_of_borough" : "Staten Island",
+  "telephone_number" : "(718) 876-1732",
+  "center_address" : "235 Port Richmond Avenue",
+  "name_of_center" : "Staten Island "
+}
+ ]

@@ -1,0 +1,2639 @@
+[ {
+  "total_sq_ft" : "1380",
+  "zip" : "10003",
+  "address_1" : "77 E 4th St",
+  "location" : {
+    "latitude" : "40.726556058394465",
+    "human_address" : "{\"address\":\"77 E 4th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99021556182919"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "1694",
+  "zip" : "10003",
+  "address_1" : "73 E 4th St",
+  "location" : {
+    "latitude" : "40.72661901093653",
+    "human_address" : "{\"address\":\"73 E 4th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99037743979443"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "1725",
+  "zip" : "10003",
+  "address_1" : "71 E 4th St",
+  "location" : {
+    "latitude" : "40.726654983817696",
+    "human_address" : "{\"address\":\"71 E 4th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99045837877708"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "1896",
+  "zip" : "10003",
+  "address_1" : "67 E 4th St",
+  "location" : {
+    "latitude" : "40.726726929580025",
+    "human_address" : "{\"address\":\"67 E 4th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99062025674237"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "2208",
+  "zip" : "10003",
+  "address_1" : "65 E 4th St",
+  "location" : {
+    "latitude" : "40.72675390924093",
+    "human_address" : "{\"address\":\"65 E 4th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99070119572502"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "1694",
+  "zip" : "10003",
+  "address_1" : "63 E 4th St",
+  "location" : {
+    "latitude" : "40.72678988212209",
+    "human_address" : "{\"address\":\"63 E 4th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99078213470762"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "1408",
+  "zip" : "10003",
+  "address_1" : "27 E 3rd St",
+  "location" : {
+    "latitude" : "40.72580962111016",
+    "human_address" : "{\"address\":\"27 E 3rd St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99034146691326"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "1656",
+  "zip" : "10003",
+  "address_1" : "25 E 3rd St",
+  "location" : {
+    "latitude" : "40.72584559399132",
+    "human_address" : "{\"address\":\"25 E 3rd St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99042240589591"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "1650",
+  "zip" : "10003",
+  "address_1" : "23 E 3rd St",
+  "location" : {
+    "latitude" : "40.725872573652225",
+    "human_address" : "{\"address\":\"23 E 3rd St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99050334487856"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "1804",
+  "zip" : "10003",
+  "address_1" : "60 E 4th St",
+  "location" : {
+    "latitude" : "40.7266819634786",
+    "human_address" : "{\"address\":\"60 E 4th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9906652228438"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "1422",
+  "zip" : "10003",
+  "address_1" : "83 2nd Ave",
+  "location" : {
+    "latitude" : "40.726628004156794",
+    "human_address" : "{\"address\":\"83 2nd Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98913637539403"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "1311",
+  "zip" : "10003",
+  "address_1" : "9 E 3rd St",
+  "location" : {
+    "latitude" : "40.72610639737985",
+    "human_address" : "{\"address\":\"9 E 3rd St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9910519313164"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "1564",
+  "zip" : "10003",
+  "address_1" : "89 E 3rd St",
+  "location" : {
+    "latitude" : "40.724802380437325",
+    "human_address" : "{\"address\":\"89 E 3rd St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98796725675595"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "1042",
+  "zip" : "10003",
+  "address_1" : "21 E 3rd St",
+  "location" : {
+    "latitude" : "40.72590854653339",
+    "human_address" : "{\"address\":\"21 E 3rd St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99057529064089"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "1508",
+  "zip" : "10003",
+  "address_1" : "56 E 4th St",
+  "location" : {
+    "latitude" : "40.72674491602061",
+    "human_address" : "{\"address\":\"56 E 4th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99081810758884"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "2706",
+  "zip" : "10003",
+  "address_1" : "75 E 4th St",
+  "location" : {
+    "latitude" : "40.72658303805537",
+    "human_address" : "{\"address\":\"75 E 4th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99029650081184"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "1702",
+  "zip" : "10003",
+  "address_1" : "69 E 4th St",
+  "location" : {
+    "latitude" : "40.7266819634786",
+    "human_address" : "{\"address\":\"69 E 4th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99053931775973"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "1694",
+  "zip" : "10003",
+  "address_1" : "58 E 4th St",
+  "location" : {
+    "latitude" : "40.72671793635976",
+    "human_address" : "{\"address\":\"58 E 4th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99073716860619"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "6400",
+  "zip" : "10035",
+  "address_1" : "2383 2nd Ave",
+  "address_2" : "Tower 4",
+  "location" : {
+    "latitude" : "40.800867433301875",
+    "human_address" : "{\"address\":\"2383 2nd Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93502886056586"
+  },
+  "neighborhood" : "East Harlem"
+}
+, {
+  "total_sq_ft" : "6400",
+  "zip" : "10035",
+  "address_1" : "2253 3rd Ave",
+  "address_2" : "Tower 2",
+  "location" : {
+    "latitude" : "40.80208752196519",
+    "human_address" : "{\"address\":\"2253 3rd Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93691081027866"
+  },
+  "neighborhood" : "East Harlem"
+}
+, {
+  "total_sq_ft" : "5250",
+  "zip" : "10035",
+  "address_1" : "221 122nd St",
+  "address_2" : "Tower 1",
+  "location" : {
+    "latitude" : "40.80160482026103",
+    "human_address" : "{\"address\":\"221 122nd St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.936693614276"
+  },
+  "neighborhood" : "East Harlem"
+}
+, {
+  "total_sq_ft" : "2555",
+  "zip" : "10035",
+  "address_1" : "230 123rd St",
+  "address_2" : "Tower 3",
+  "location" : {
+    "latitude" : "40.80204789450516",
+    "human_address" : "{\"address\":\"230 123rd St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93608958072889"
+  },
+  "neighborhood" : "East Harlem"
+}
+, {
+  "total_sq_ft" : "8000",
+  "zip" : "11216",
+  "address_1" : "247 Herkimer Street",
+  "location" : {
+    "latitude" : "40.67944467293286",
+    "human_address" : "{\"address\":\"247 Herkimer Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11216\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94506161524178"
+  },
+  "neighborhood" : "Bedford Stuyvesant"
+}
+, {
+  "total_sq_ft" : "11863",
+  "zip" : "10035",
+  "address_1" : "2 E 120th St",
+  "location" : {
+    "latitude" : "40.80318382775885",
+    "human_address" : "{\"address\":\"2 E 120th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94462715167538"
+  },
+  "neighborhood" : "East Harlem"
+}
+, {
+  "total_sq_ft" : "13020",
+  "zip" : "10035",
+  "address_1" : "26 E 120th St",
+  "location" : {
+    "latitude" : "40.80281234746791",
+    "human_address" : "{\"address\":\"26 E 120th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94377367915955"
+  },
+  "neighborhood" : "East Harlem"
+}
+, {
+  "total_sq_ft" : "10697",
+  "zip" : "10002",
+  "address_1" : "227 Bowery",
+  "address_2" : "Bowery Mission",
+  "location" : {
+    "latitude" : "40.72210441434942",
+    "human_address" : "{\"address\":\"227 Bowery\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99330922960996"
+  },
+  "neighborhood" : "Bowery"
+}
+, {
+  "total_sq_ft" : "10406",
+  "zip" : "11101",
+  "address_1" : "10-27 46th Ave",
+  "address_2" : "Bridgeview School of Fine Arts",
+  "location" : {
+    "latitude" : "40.74668288541022",
+    "human_address" : "{\"address\":\"10-27 46th Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95158068745047"
+  },
+  "neighborhood" : "Long Island City"
+}
+, {
+  "total_sq_ft" : "15392",
+  "zip" : "11222",
+  "address_1" : "211 Meserole Avenue/ 120 Jewel Street",
+  "location" : {
+    "latitude" : "40.72732478700261",
+    "human_address" : "{\"address\":\"211 Meserole Avenue/ 120 Jewel Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11222\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95181845691981"
+  },
+  "neighborhood" : "Greenpoint"
+}
+, {
+  "total_sq_ft" : "18900",
+  "zip" : "10462",
+  "address_1" : "990 Pelham Parkway South",
+  "location" : {
+    "latitude" : "40.85674053001608",
+    "human_address" : "{\"address\":\"990 Pelham Parkway South\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10462\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.86100920270339"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "1541",
+  "zip" : "10456",
+  "address_1" : "380 E 166th St",
+  "location" : {
+    "latitude" : "40.829312593462305",
+    "human_address" : "{\"address\":\"380 E 166th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10456\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91203749782215"
+  },
+  "neighborhood" : "Fleetwood Concourse Village"
+}
+, {
+  "total_sq_ft" : "3219",
+  "zip" : "10456",
+  "address_1" : "320 E 166th st",
+  "location" : {
+    "latitude" : "40.82986117990015",
+    "human_address" : "{\"address\":\"320 E 166th st\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10456\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91371023679665"
+  },
+  "neighborhood" : "Fleetwood-Concourse Village"
+}
+, {
+  "total_sq_ft" : "9882",
+  "zip" : "10456",
+  "address_1" : "1109 Clay Ave",
+  "location" : {
+    "latitude" : "40.82978024091756",
+    "human_address" : "{\"address\":\"1109 Clay Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10456\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91210045036416"
+  },
+  "neighborhood" : "Fleetwood-Concourse Village"
+}
+, {
+  "total_sq_ft" : "2697",
+  "zip" : "10456",
+  "address_1" : "275 E 168th st",
+  "location" : {
+    "latitude" : "40.833593366321736",
+    "human_address" : "{\"address\":\"275 E 168th st\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10456\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91348540628928"
+  },
+  "neighborhood" : "Fleetwood-Concourse Village"
+}
+, {
+  "total_sq_ft" : "1794",
+  "zip" : "10456",
+  "address_1" : "391 E 168th St",
+  "location" : {
+    "latitude" : "40.83249619344599",
+    "human_address" : "{\"address\":\"391 E 168th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10456\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91020288088237"
+  },
+  "neighborhood" : "Fleetwood-Concourse Village"
+}
+, {
+  "total_sq_ft" : "2392",
+  "zip" : "10456",
+  "address_1" : "393 E 168th St",
+  "location" : {
+    "latitude" : "40.832400095110536",
+    "human_address" : "{\"address\":\"393 E 168th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10456\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90983140777514"
+  },
+  "neighborhood" : "Fleetwood-Concourse Village"
+}
+, {
+  "total_sq_ft" : "4368",
+  "zip" : "10453",
+  "address_1" : "1605 University Ave",
+  "location" : {
+    "latitude" : "40.84715908220047",
+    "human_address" : "{\"address\":\"1605 University Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92040762084653"
+  },
+  "neighborhood" : "University Heights"
+}
+, {
+  "total_sq_ft" : "8772",
+  "zip" : "10453",
+  "address_1" : "1472 Montgomery Ave",
+  "location" : {
+    "latitude" : "40.8474519187933",
+    "human_address" : "{\"address\":\"1472 Montgomery Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92110266387749"
+  },
+  "neighborhood" : "University Heights"
+}
+, {
+  "total_sq_ft" : "9756",
+  "zip" : "10453",
+  "address_1" : "1601 University Ave",
+  "location" : {
+    "latitude" : "40.846995645416584",
+    "human_address" : "{\"address\":\"1601 University Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92066310823283"
+  },
+  "neighborhood" : "University Heights"
+}
+, {
+  "total_sq_ft" : "6900",
+  "zip" : "10453",
+  "address_1" : "1615 University Ave",
+  "location" : {
+    "latitude" : "40.847567674188234",
+    "human_address" : "{\"address\":\"1615 University Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9197689023369"
+  },
+  "neighborhood" : "University Heights"
+}
+, {
+  "total_sq_ft" : "5676",
+  "zip" : "10453",
+  "address_1" : "1611 University Ave",
+  "location" : {
+    "latitude" : "40.84740423740435",
+    "human_address" : "{\"address\":\"1611 University Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92002438972321"
+  },
+  "neighborhood" : "University Heights"
+}
+, {
+  "total_sq_ft" : "10821",
+  "zip" : "10453",
+  "address_1" : "1491 Montgomery Ave",
+  "location" : {
+    "latitude" : "40.847714316170524",
+    "human_address" : "{\"address\":\"1491 Montgomery Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92101712085892"
+  },
+  "neighborhood" : "University Heights"
+}
+, {
+  "total_sq_ft" : "20694",
+  "zip" : "10453",
+  "address_1" : "1669-75 University Ave",
+  "location" : {
+    "latitude" : "40.85228999978381",
+    "human_address" : "{\"address\":\"1669-75 University Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91097999972703"
+  },
+  "neighborhood" : "University Heights"
+}
+, {
+  "total_sq_ft" : "9790",
+  "zip" : "10453",
+  "address_1" : "1665 Andrews Ave",
+  "location" : {
+    "latitude" : "40.848590994824136",
+    "human_address" : "{\"address\":\"1665 Andrews Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91919593852913"
+  },
+  "neighborhood" : "University Heights"
+}
+, {
+  "total_sq_ft" : "6986",
+  "zip" : "10453",
+  "address_1" : "120 West 176th St",
+  "location" : {
+    "latitude" : "40.8493916234227",
+    "human_address" : "{\"address\":\"120 West 176th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91845982991576"
+  },
+  "neighborhood" : "University Heights"
+}
+, {
+  "total_sq_ft" : "5447",
+  "zip" : "10453",
+  "address_1" : "1655 Macombs Road",
+  "location" : {
+    "latitude" : "40.84779589045582",
+    "human_address" : "{\"address\":\"1655 Macombs Road\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91627770891206"
+  },
+  "neighborhood" : "High Bridge"
+}
+, {
+  "total_sq_ft" : "5933",
+  "zip" : "10453",
+  "address_1" : "1647 Macombs Road",
+  "location" : {
+    "latitude" : "40.8475704214973",
+    "human_address" : "{\"address\":\"1647 Macombs Road\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91629283617011"
+  },
+  "neighborhood" : "High Bridge"
+}
+, {
+  "total_sq_ft" : "4658",
+  "zip" : "10453",
+  "address_1" : "1665 Macombs Road",
+  "location" : {
+    "latitude" : "40.84788359336733",
+    "human_address" : "{\"address\":\"1665 Macombs Road\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91623733169894"
+  },
+  "neighborhood" : "High Bridge"
+}
+, {
+  "total_sq_ft" : "3842",
+  "zip" : "10453",
+  "address_1" : "1669 Macombs Road",
+  "location" : {
+    "latitude" : "40.84808144421379",
+    "human_address" : "{\"address\":\"1669 Macombs Road\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91621934525836"
+  },
+  "neighborhood" : "High Bridge"
+}
+, {
+  "total_sq_ft" : "13861",
+  "zip" : "10453",
+  "address_1" : "2001 University Ave",
+  "location" : {
+    "latitude" : "40.855801720659706",
+    "human_address" : "{\"address\":\"2001 University Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91040642419154"
+  },
+  "neighborhood" : "Morris Heights"
+}
+, {
+  "total_sq_ft" : "7080",
+  "zip" : "11224",
+  "address_1" : "1901 Mermaid Ave",
+  "address_2" : "Coney Island Library",
+  "location" : {
+    "latitude" : "40.57650417780576",
+    "human_address" : "{\"address\":\"1901 Mermaid Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11224\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98602472117267"
+  },
+  "neighborhood" : "Coney Island"
+}
+, {
+  "total_sq_ft" : "32160",
+  "zip" : "11238",
+  "address_1" : "415 Flatbush Ave",
+  "location" : {
+    "latitude" : "40.67180533325069",
+    "human_address" : "{\"address\":\"415 Flatbush Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11238\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96850592804185"
+  },
+  "neighborhood" : "Prospect Heights"
+}
+, {
+  "total_sq_ft" : "8000",
+  "zip" : "11101",
+  "address_1" : "43-10 11th Street",
+  "address_2" : "CEC Headquarters",
+  "location" : {
+    "latitude" : "40.751413319284325",
+    "human_address" : "{\"address\":\"43-10 11th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94846903322906"
+  },
+  "neighborhood" : "Long Island City"
+}
+, {
+  "total_sq_ft" : "5530",
+  "zip" : "10032",
+  "address_1" : "500 West 159th Street",
+  "location" : {
+    "latitude" : "40.83409285621048",
+    "human_address" : "{\"address\":\"500 West 159th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10032\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94123958043424"
+  },
+  "neighborhood" : "Washington Heights"
+}
+, {
+  "total_sq_ft" : "2290",
+  "zip" : "10032",
+  "address_1" : "540 West 159th Street",
+  "location" : {
+    "latitude" : "40.834843423942516",
+    "human_address" : "{\"address\":\"540 West 159th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10032\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94292920952859"
+  },
+  "neighborhood" : "Washington Heights"
+}
+, {
+  "total_sq_ft" : "2290",
+  "zip" : "10032",
+  "address_1" : "542 West 159th Street",
+  "location" : {
+    "latitude" : "40.83489738326426",
+    "human_address" : "{\"address\":\"542 West 159th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10032\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94305511461266"
+  },
+  "neighborhood" : "Washington Heights"
+}
+, {
+  "total_sq_ft" : "7221",
+  "zip" : "10009",
+  "address_1" : "220 East 4th Street",
+  "address_2" : "Middle School of the Holy Child",
+  "location" : {
+    "latitude" : "40.723678227900734",
+    "human_address" : "{\"address\":\"220 East 4th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10009\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98353359915149"
+  },
+  "neighborhood" : "East Village"
+}
+, {
+  "total_sq_ft" : "4405",
+  "zip" : "11231",
+  "address_1" : "509-515 Court Street",
+  "location" : {
+    "latitude" : "40.680220000352904",
+    "human_address" : "{\"address\":\"509-515 Court Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11231\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.0006699998205"
+  },
+  "neighborhood" : "Carroll Gardens"
+}
+, {
+  "total_sq_ft" : "6270",
+  "zip" : "10030",
+  "address_1" : "207 W 133rd St",
+  "address_2" : "Democracy Preparatory school",
+  "location" : {
+    "latitude" : "40.81427592913241",
+    "human_address" : "{\"address\":\"207 W 133rd St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10030\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9451955010424"
+  },
+  "neighborhood" : "Upper West Side"
+}
+, {
+  "total_sq_ft" : "3000",
+  "zip" : "11101",
+  "address_1" : "46-01 5th Street",
+  "address_2" : "LIC Community Boathouse/ Recycle-A-Bicycle",
+  "location" : {
+    "latitude" : "40.747114559984254",
+    "human_address" : "{\"address\":\"46-01 5th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9550880433647"
+  },
+  "neighborhood" : "Long Island City"
+}
+, {
+  "total_sq_ft" : "15320",
+  "zip" : "11233",
+  "address_1" : "1381 East New York Avenue",
+  "address_2" : "DHS Building",
+  "location" : {
+    "latitude" : "40.67833999999118",
+    "human_address" : "{\"address\":\"1381 East New York Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11233\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91981999999285"
+  },
+  "neighborhood" : "Brownsville"
+}
+, {
+  "total_sq_ft" : "16112",
+  "zip" : "10039",
+  "address_1" : "2960 Fredrick Douglass Blvd",
+  "location" : {
+    "latitude" : "40.83008363896424",
+    "human_address" : "{\"address\":\"2960 Fredrick Douglass Blvd\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10039\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93649088260807"
+  },
+  "neighborhood" : "Harlem"
+}
+, {
+  "total_sq_ft" : "10046",
+  "zip" : "10456",
+  "address_1" : "1122 Franklin Ave",
+  "address_2" : "Franklin Women's Center",
+  "location" : {
+    "latitude" : "40.82833750612728",
+    "human_address" : "{\"address\":\"1122 Franklin Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10456\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90563137887985"
+  },
+  "neighborhood" : "South Bronx"
+}
+, {
+  "total_sq_ft" : "5027",
+  "zip" : "10003",
+  "address_1" : "333 Bowery",
+  "address_2" : "Kenton Hall",
+  "location" : {
+    "latitude" : "40.725958325156626",
+    "human_address" : "{\"address\":\"333 Bowery\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99186335899856"
+  },
+  "neighborhood" : "Bowery"
+}
+, {
+  "total_sq_ft" : "39000",
+  "zip" : "11207",
+  "address_1" : "515 Blake Ave",
+  "address_2" : "Gensis",
+  "location" : {
+    "latitude" : "40.66706590615627",
+    "human_address" : "{\"address\":\"515 Blake Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90011248771361"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "59000",
+  "zip" : "11101",
+  "address_1" : "21-10 Borden Avenue",
+  "address_2" : "Borden Ave Veteran’s Residence",
+  "location" : {
+    "latitude" : "40.740405617645706",
+    "human_address" : "{\"address\":\"21-10 Borden Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94990794847592"
+  },
+  "neighborhood" : "Long Island City"
+}
+, {
+  "total_sq_ft" : "1526",
+  "zip" : "10028",
+  "address_1" : "331 E. 86th St",
+  "location" : {
+    "latitude" : "40.77739473271083",
+    "human_address" : "{\"address\":\"331 E. 86th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10028\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95052848067616"
+  },
+  "neighborhood" : "Upper East Side"
+}
+, {
+  "total_sq_ft" : "15120",
+  "zip" : "11237",
+  "address_1" : "89-111 Porter Ave",
+  "location" : {
+    "latitude" : "40.700589999928695",
+    "human_address" : "{\"address\":\"89-111 Porter Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11237\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9175000000248"
+  },
+  "neighborhood" : "Bushwick"
+}
+, {
+  "total_sq_ft" : "14260",
+  "zip" : "10011",
+  "address_1" : "540 21st Street",
+  "address_2" : "Eyebeam Art and Tech Center",
+  "location" : {
+    "latitude" : "40.746901948437404",
+    "human_address" : "{\"address\":\"540 21st Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10011\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00644941184844"
+  },
+  "neighborhood" : "Chelsea"
+}
+, {
+  "total_sq_ft" : "5015",
+  "zip" : "10001",
+  "address_1" : "227 West 27th St",
+  "address_2" : "Building D",
+  "location" : {
+    "latitude" : "40.746937371028984",
+    "human_address" : "{\"address\":\"227 West 27th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10001\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99440680412845"
+  },
+  "neighborhood" : "Chelsea"
+}
+, {
+  "total_sq_ft" : "21250",
+  "zip" : "10460",
+  "address_1" : "999 E 178th Street",
+  "location" : {
+    "latitude" : "40.84159956575862",
+    "human_address" : "{\"address\":\"999 E 178th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10460\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88071901205879"
+  },
+  "neighborhood" : "West Farms"
+}
+, {
+  "total_sq_ft" : "10412",
+  "zip" : "10468",
+  "address_1" : "2751 Grand Concourse",
+  "location" : {
+    "latitude" : "40.86828921021214",
+    "human_address" : "{\"address\":\"2751 Grand Concourse\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10468\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89291791147923"
+  },
+  "neighborhood" : "Norwood"
+}
+, {
+  "total_sq_ft" : "3000",
+  "zip" : "10458",
+  "address_1" : "2698 Briggs Avenue",
+  "location" : {
+    "latitude" : "40.86627957392477",
+    "human_address" : "{\"address\":\"2698 Briggs Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10458\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89165483846726"
+  },
+  "neighborhood" : "Fordham Heights"
+}
+, {
+  "total_sq_ft" : "3000",
+  "zip" : "10458",
+  "address_1" : "2690 Briggs Avenue",
+  "location" : {
+    "latitude" : "40.86634667462886",
+    "human_address" : "{\"address\":\"2690 Briggs Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10458\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89163188097729"
+  },
+  "neighborhood" : "Fordham Heights"
+}
+, {
+  "total_sq_ft" : "3000",
+  "zip" : "10458",
+  "address_1" : "2694 Briggs Avenue",
+  "location" : {
+    "latitude" : "40.8661957891195",
+    "human_address" : "{\"address\":\"2694 Briggs Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10458\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89172434604114"
+  },
+  "neighborhood" : "Fordham Heights"
+}
+, {
+  "total_sq_ft" : "6026",
+  "zip" : "10468",
+  "address_1" : "2285 Davidson Avenue",
+  "address_2" : "Fordham Bedford Housing Corporation",
+  "location" : {
+    "latitude" : "40.85911612551331",
+    "human_address" : "{\"address\":\"2285 Davidson Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10468\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90464507074131"
+  },
+  "neighborhood" : "University Heights"
+}
+, {
+  "total_sq_ft" : "5292",
+  "zip" : "10453",
+  "address_1" : "2240 Walton Avenue",
+  "location" : {
+    "latitude" : "40.85730848823442",
+    "human_address" : "{\"address\":\"2240 Walton Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90339501312053"
+  },
+  "neighborhood" : "Fordham Heights"
+}
+, {
+  "total_sq_ft" : "8880",
+  "zip" : "10453",
+  "address_1" : "2270 Walton Avenue",
+  "location" : {
+    "latitude" : "40.85800096619698",
+    "human_address" : "{\"address\":\"2270 Walton Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10453\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90297233176676"
+  },
+  "neighborhood" : "Fordham Heights"
+}
+, {
+  "total_sq_ft" : "1380",
+  "zip" : "10463",
+  "address_1" : "3058 Bailey Ave",
+  "location" : {
+    "latitude" : "40.87756122033426",
+    "human_address" : "{\"address\":\"3058 Bailey Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10463\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90276548770004"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "1428",
+  "zip" : "10463",
+  "address_1" : "3060 Bailey Ave",
+  "location" : {
+    "latitude" : "40.87764215931685",
+    "human_address" : "{\"address\":\"3060 Bailey Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10463\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90269354193771"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "1925",
+  "zip" : "10458",
+  "address_1" : "2690 Valentine Avenue",
+  "location" : {
+    "latitude" : "40.86639164073034",
+    "human_address" : "{\"address\":\"2690 Valentine Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10458\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89269308097187"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "1925",
+  "zip" : "10458",
+  "address_1" : "2674 Valentine Avenue",
+  "location" : {
+    "latitude" : "40.865959966156254",
+    "human_address" : "{\"address\":\"2674 Valentine Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10458\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89290891825891"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "1925",
+  "zip" : "10458",
+  "address_1" : "2666 Valentine Avenue",
+  "location" : {
+    "latitude" : "40.86574412886921",
+    "human_address" : "{\"address\":\"2666 Valentine Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10458\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89299885046182"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "1925",
+  "zip" : "10458",
+  "address_1" : "2670 Valentine Avenue",
+  "location" : {
+    "latitude" : "40.86584305429244",
+    "human_address" : "{\"address\":\"2670 Valentine Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10458\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89296287758066"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "2488",
+  "zip" : "10036",
+  "address_1" : "441 West 47th Street'",
+  "location" : {
+    "latitude" : "40.762277129398285",
+    "human_address" : "{\"address\":\"441 West 47th Street'\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99182534826161"
+  },
+  "neighborhood" : "Midtown"
+}
+, {
+  "total_sq_ft" : "2314",
+  "zip" : "10036",
+  "address_1" : "424 West 47th",
+  "location" : {
+    "latitude" : "40.76187493954394",
+    "human_address" : "{\"address\":\"424 West 47th\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99108910721719"
+  },
+  "neighborhood" : "West side"
+}
+, {
+  "total_sq_ft" : "14136",
+  "zip" : "10035",
+  "address_1" : "2080 Lexington Ave",
+  "location" : {
+    "latitude" : "40.80474226452544",
+    "human_address" : "{\"address\":\"2080 Lexington Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93723272371706"
+  },
+  "neighborhood" : "Harlem"
+}
+, {
+  "total_sq_ft" : "4100",
+  "zip" : "11208",
+  "address_1" : "544 Hemlock",
+  "location" : {
+    "latitude" : "40.67574958092258",
+    "human_address" : "{\"address\":\"544 Hemlock\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11208\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.86920974320446"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "7800",
+  "zip" : "11225",
+  "address_1" : "934 Carroll Street",
+  "location" : {
+    "latitude" : "40.668279990895826",
+    "human_address" : "{\"address\":\"934 Carroll Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11225\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96031310435495"
+  },
+  "neighborhood" : "Prospect Heights"
+}
+, {
+  "total_sq_ft" : "10344",
+  "zip" : "11238",
+  "address_1" : "561 Grand Ave",
+  "address_2" : "ACORN Community High School",
+  "location" : {
+    "latitude" : "40.678505282368974",
+    "human_address" : "{\"address\":\"561 Grand Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11238\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96206678231209"
+  },
+  "neighborhood" : "Crown Heights/Bedsty"
+}
+, {
+  "total_sq_ft" : "7400",
+  "zip" : "11213",
+  "address_1" : "1544 Park Place",
+  "location" : {
+    "latitude" : "40.67209311630006",
+    "human_address" : "{\"address\":\"1544 Park Place\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11213\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92612987402129"
+  },
+  "neighborhood" : "Crown Heights"
+}
+, {
+  "total_sq_ft" : "8700",
+  "zip" : "11214",
+  "address_1" : "8224 Bay Parkway",
+  "location" : {
+    "latitude" : "40.60383457427622",
+    "human_address" : "{\"address\":\"8224 Bay Parkway\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11214\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99190628724426"
+  },
+  "neighborhood" : "Bay Ridge"
+}
+, {
+  "total_sq_ft" : "22482",
+  "zip" : "11222",
+  "address_1" : "1205 Manhattan Ave",
+  "location" : {
+    "latitude" : "40.738323246084356",
+    "human_address" : "{\"address\":\"1205 Manhattan Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11222\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95549859849825"
+  },
+  "neighborhood" : "Greenpoint"
+}
+, {
+  "total_sq_ft" : "2164",
+  "zip" : "10014",
+  "address_1" : "46 Barrow Street",
+  "location" : {
+    "latitude" : "40.732068902434094",
+    "human_address" : "{\"address\":\"46 Barrow Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10014\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00446981599356"
+  },
+  "neighborhood" : "Greenwich Village"
+}
+, {
+  "total_sq_ft" : "2744",
+  "zip" : "10014",
+  "address_1" : "16 Jones Street",
+  "location" : {
+    "latitude" : "40.73202393633261",
+    "human_address" : "{\"address\":\"16 Jones Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10014\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00241036854646"
+  },
+  "neighborhood" : "Greenwich Village"
+}
+, {
+  "total_sq_ft" : "25095",
+  "zip" : "10460",
+  "address_1" : "785 Crotona Park North",
+  "location" : {
+    "latitude" : "40.84071880681541",
+    "human_address" : "{\"address\":\"785 Crotona Park North\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10460\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89149252136858"
+  },
+  "neighborhood" : "East Tremont"
+}
+, {
+  "total_sq_ft" : "16100",
+  "zip" : "11207",
+  "address_1" : "330 Hinsdale Street",
+  "address_2" : "Genesis",
+  "location" : {
+    "latitude" : "40.66699107606569",
+    "human_address" : "{\"address\":\"330 Hinsdale Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89951544807649"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "27785",
+  "zip" : "10457",
+  "address_1" : "285 East 171st Street",
+  "address_2" : "Morris Avenue",
+  "location" : {
+    "latitude" : "40.83884564709217",
+    "human_address" : "{\"address\":\"285 East 171st Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10457\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91011029213364"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "5362",
+  "zip" : "10002",
+  "address_1" : "301 Henry St",
+  "location" : {
+    "latitude" : "40.71409101382021",
+    "human_address" : "{\"address\":\"301 Henry St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98288330000933"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "10222",
+  "zip" : "10002",
+  "address_1" : "466 Grand St",
+  "location" : {
+    "latitude" : "40.71519665282712",
+    "human_address" : "{\"address\":\"466 Grand St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98403688955878"
+  },
+  "neighborhood" : "Lower East Side"
+}
+, {
+  "total_sq_ft" : "6356",
+  "zip" : "11208",
+  "address_1" : "2640 Pitkin Ave",
+  "location" : {
+    "latitude" : "40.674947870603305",
+    "human_address" : "{\"address\":\"2640 Pitkin Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11208\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87466318005116"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "1830",
+  "zip" : "10009",
+  "address_1" : "743 East 9th Street and Avenue D",
+  "address_2" : "The Cylar House Health Center",
+  "location" : {
+    "latitude" : "40.72638999989874",
+    "human_address" : "{\"address\":\"743 East 9th Street and Avenue D\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10009\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9809699996656"
+  },
+  "neighborhood" : "East Village"
+}
+, {
+  "total_sq_ft" : "2990",
+  "zip" : "10009",
+  "address_1" : "310 E 3rd St",
+  "location" : {
+    "latitude" : "40.72099824825341",
+    "human_address" : "{\"address\":\"310 E 3rd St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10009\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97906396866586"
+  },
+  "neighborhood" : "Manhattan"
+}
+, {
+  "total_sq_ft" : "8735",
+  "zip" : "11691",
+  "address_1" : "1915 seagirt",
+  "location" : {
+    "latitude" : "40.59499485846713",
+    "human_address" : "{\"address\":\"1915 seagirt\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11691\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.75331674796747"
+  },
+  "neighborhood" : "Far Rockaway"
+}
+, {
+  "total_sq_ft" : "8099",
+  "zip" : "11691",
+  "address_1" : "155 beach 19th st",
+  "location" : {
+    "latitude" : "40.59333049297396",
+    "human_address" : "{\"address\":\"155 beach 19th st\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11691\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.75322622066807"
+  },
+  "neighborhood" : "Far Rockaway"
+}
+, {
+  "total_sq_ft" : "8294",
+  "zip" : "11691",
+  "address_1" : "1925 seagirt",
+  "location" : {
+    "latitude" : "40.59499572108213",
+    "human_address" : "{\"address\":\"1925 seagirt\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11691\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.75339524593242"
+  },
+  "neighborhood" : "Far Rockaway"
+}
+, {
+  "total_sq_ft" : "20000",
+  "zip" : "11235",
+  "address_1" : "161 Corbin Place",
+  "location" : {
+    "latitude" : "40.57876489795757",
+    "human_address" : "{\"address\":\"161 Corbin Place\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11235\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95417398727048"
+  },
+  "neighborhood" : "Brighton Beach"
+}
+, {
+  "total_sq_ft" : "11041",
+  "zip" : "11235",
+  "address_1" : "3161 Brighton 6th St",
+  "location" : {
+    "latitude" : "40.575577876115574",
+    "human_address" : "{\"address\":\"3161 Brighton 6th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11235\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96106853485958"
+  },
+  "neighborhood" : "Brighton Beach"
+}
+, {
+  "total_sq_ft" : "10041",
+  "zip" : "11224",
+  "address_1" : "3601 Surf Avenue",
+  "location" : {
+    "latitude" : "40.57318567951768",
+    "human_address" : "{\"address\":\"3601 Surf Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11224\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00166393126216"
+  },
+  "neighborhood" : "Coney Island"
+}
+, {
+  "total_sq_ft" : "2747",
+  "zip" : "10040",
+  "address_1" : "16 Arden St",
+  "location" : {
+    "latitude" : "40.86153530177211",
+    "human_address" : "{\"address\":\"16 Arden St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10040\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92692127740702"
+  },
+  "neighborhood" : "Morning Side Heights"
+}
+, {
+  "total_sq_ft" : "2747",
+  "zip" : "10040",
+  "address_1" : "12 Arden St",
+  "location" : {
+    "latitude" : "40.86143637634888",
+    "human_address" : "{\"address\":\"12 Arden St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10040\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92684933164469"
+  },
+  "neighborhood" : "Morning Side Heights"
+}
+, {
+  "total_sq_ft" : "5328",
+  "zip" : "10040",
+  "address_1" : "75 Wadsworth Terrace",
+  "location" : {
+    "latitude" : "40.85685882721975",
+    "human_address" : "{\"address\":\"75 Wadsworth Terrace\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10040\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93078836213306"
+  },
+  "neighborhood" : "Morning Site Heights"
+}
+, {
+  "total_sq_ft" : "5552",
+  "zip" : "10040",
+  "address_1" : "510 West 188th Street",
+  "location" : {
+    "latitude" : "40.852766911986464",
+    "human_address" : "{\"address\":\"510 West 188th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10040\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92843213841627"
+  },
+  "neighborhood" : "Morning Side Heights"
+}
+, {
+  "total_sq_ft" : "4045",
+  "zip" : "10459",
+  "address_1" : "1061 Intervale  Ave",
+  "location" : {
+    "latitude" : "40.825013834162235",
+    "human_address" : "{\"address\":\"1061 Intervale Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10459\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89687492840812"
+  },
+  "neighborhood" : "Morrisania"
+}
+, {
+  "total_sq_ft" : "24777",
+  "zip" : "11101",
+  "address_1" : "46-02 21st St",
+  "location" : {
+    "latitude" : "40.74561269219532",
+    "human_address" : "{\"address\":\"46-02 21st St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94823520950143"
+  },
+  "neighborhood" : "Long Island City"
+}
+, {
+  "total_sq_ft" : "9261",
+  "zip" : "11206",
+  "address_1" : "106 Gerry Street",
+  "location" : {
+    "latitude" : "40.70248120767013",
+    "human_address" : "{\"address\":\"106 Gerry Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11206\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94577106714115"
+  },
+  "neighborhood" : "South Williamsburg"
+}
+, {
+  "total_sq_ft" : "9800",
+  "zip" : "11206",
+  "address_1" : "41 Whipple Street",
+  "location" : {
+    "latitude" : "40.701143046266615",
+    "human_address" : "{\"address\":\"41 Whipple Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11206\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94501816267156"
+  },
+  "neighborhood" : "South Williamsburg"
+}
+, {
+  "total_sq_ft" : "15246",
+  "zip" : "11231",
+  "address_1" : "155 3rd Street",
+  "location" : {
+    "latitude" : "40.67641885526098",
+    "human_address" : "{\"address\":\"155 3rd Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11231\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99073716860619"
+  },
+  "neighborhood" : "Carol Gardens"
+}
+, {
+  "total_sq_ft" : "60000",
+  "zip" : "11101",
+  "address_1" : "45-20 33rd Street",
+  "location" : {
+    "latitude" : "40.74354041780961",
+    "human_address" : "{\"address\":\"45-20 33rd Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93198417600975"
+  },
+  "neighborhood" : "Long Island City"
+}
+, {
+  "total_sq_ft" : "2210",
+  "zip" : "11213",
+  "address_1" : "1344-1346 Bergen Street",
+  "location" : {
+    "latitude" : "40.67080999988178",
+    "human_address" : "{\"address\":\"1344-1346 Bergen Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11213\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93597000011528"
+  },
+  "neighborhood" : "Crown Heights/Bedsty"
+}
+, {
+  "total_sq_ft" : "3012",
+  "zip" : "11213",
+  "address_1" : "869 Eastern Pkwy",
+  "location" : {
+    "latitude" : "40.6694760891948",
+    "human_address" : "{\"address\":\"869 Eastern Pkwy\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11213\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93959272479987"
+  },
+  "neighborhood" : "Crown Heights/Bedsty"
+}
+, {
+  "total_sq_ft" : "2016",
+  "zip" : "11238",
+  "address_1" : "732 Franklin Ave",
+  "location" : {
+    "latitude" : "40.67353203154693",
+    "human_address" : "{\"address\":\"732 Franklin Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11238\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95694963996539"
+  },
+  "neighborhood" : "Crown Heights/Bedsty"
+}
+, {
+  "total_sq_ft" : "2016",
+  "zip" : "11238",
+  "address_1" : "734 Franklin Ave",
+  "location" : {
+    "latitude" : "40.6734600857846",
+    "human_address" : "{\"address\":\"734 Franklin Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11238\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95698561284655"
+  },
+  "neighborhood" : "Crown Heights/Bedsty"
+}
+, {
+  "total_sq_ft" : "2048",
+  "zip" : "11238",
+  "address_1" : "451 Prospect Pl",
+  "location" : {
+    "latitude" : "40.67610409255076",
+    "human_address" : "{\"address\":\"451 Prospect Pl\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11238\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96137430434953"
+  },
+  "neighborhood" : "Prospect Heights"
+}
+, {
+  "total_sq_ft" : "2438",
+  "zip" : "11208",
+  "address_1" : "171 Milford Street",
+  "location" : {
+    "latitude" : "40.675366648486715",
+    "human_address" : "{\"address\":\"171 Milford Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11208\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87725172172878"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "1175",
+  "zip" : "11213",
+  "address_1" : "1600 Pacific Ave",
+  "location" : {
+    "latitude" : "40.67683205268053",
+    "human_address" : "{\"address\":\"1600 Pacific Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11213\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93608653409203"
+  },
+  "neighborhood" : "Crown Heights/Bedsty"
+}
+, {
+  "total_sq_ft" : "2145",
+  "zip" : "11213",
+  "address_1" : "319 Albany Avenue",
+  "location" : {
+    "latitude" : "40.66970991292243",
+    "human_address" : "{\"address\":\"319 Albany Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11213\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93934990785198"
+  },
+  "neighborhood" : "Crown Heights/Bedsty"
+}
+, {
+  "total_sq_ft" : "2875",
+  "zip" : "11216",
+  "address_1" : "1445 Pacific Street",
+  "location" : {
+    "latitude" : "40.6773361637309",
+    "human_address" : "{\"address\":\"1445 Pacific Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11216\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94372061291438"
+  },
+  "neighborhood" : "Crown Heights/Bedsty"
+}
+, {
+  "total_sq_ft" : "1374",
+  "zip" : "11207",
+  "address_1" : "581 Ashford St",
+  "location" : {
+    "latitude" : "40.66775567556737",
+    "human_address" : "{\"address\":\"581 Ashford St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8834850422672"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "1200",
+  "zip" : "11207",
+  "address_1" : "950 Dumont Ave",
+  "location" : {
+    "latitude" : "40.66789328242322",
+    "human_address" : "{\"address\":\"950 Dumont Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88337610474832"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "1200",
+  "zip" : "11207",
+  "address_1" : "954 Dumont Ave",
+  "location" : {
+    "latitude" : "40.667911268863804",
+    "human_address" : "{\"address\":\"954 Dumont Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88328617254541"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "1300",
+  "zip" : "11207",
+  "address_1" : "956 Dumont Ave",
+  "location" : {
+    "latitude" : "40.667920262084124",
+    "human_address" : "{\"address\":\"956 Dumont Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8831962403425"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "1300",
+  "zip" : "11207",
+  "address_1" : "960 Dumont Ave",
+  "location" : {
+    "latitude" : "40.667938248524706",
+    "human_address" : "{\"address\":\"960 Dumont Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88310630813953"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "2126",
+  "zip" : "11208",
+  "address_1" : "676 Cleveland Street",
+  "location" : {
+    "latitude" : "40.66781472130171",
+    "human_address" : "{\"address\":\"676 Cleveland Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11208\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88277865213513"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "1500",
+  "zip" : "11207",
+  "address_1" : "811 Knickerbocker Ave",
+  "location" : {
+    "latitude" : "40.69243578060281",
+    "human_address" : "{\"address\":\"811 Knickerbocker Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90712719954217"
+  },
+  "neighborhood" : "Bushwick"
+}
+, {
+  "total_sq_ft" : "2000",
+  "zip" : "11237",
+  "address_1" : "309 Eldert",
+  "location" : {
+    "latitude" : "40.692995456743006",
+    "human_address" : "{\"address\":\"309 Eldert\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11237\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.907000501427"
+  },
+  "neighborhood" : "Bushwick"
+}
+, {
+  "total_sq_ft" : "2333",
+  "zip" : "11208",
+  "address_1" : "436 Logan",
+  "location" : {
+    "latitude" : "40.67552484160415",
+    "human_address" : "{\"address\":\"436 Logan\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11208\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87644572158008"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "2340",
+  "zip" : "11208",
+  "address_1" : "781 Belmont",
+  "location" : {
+    "latitude" : "40.67284665179027",
+    "human_address" : "{\"address\":\"781 Belmont\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11208\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88082779307607"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "17096",
+  "zip" : "10039",
+  "address_1" : "102 Bradhurst Ave",
+  "address_2" : "The Sutton",
+  "location" : {
+    "latitude" : "40.82460285240711",
+    "human_address" : "{\"address\":\"102 Bradhurst Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10039\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94183304764995"
+  },
+  "neighborhood" : "Manhattan"
+}
+, {
+  "total_sq_ft" : "3100",
+  "zip" : "11106",
+  "address_1" : "33-38 10th Street",
+  "address_2" : "Noguchi Workshop",
+  "location" : {
+    "latitude" : "40.766378037851894",
+    "human_address" : "{\"address\":\"33-38 10th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11106\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93774012141955"
+  },
+  "neighborhood" : "Long Island City"
+}
+, {
+  "total_sq_ft" : "1008",
+  "zip" : "10468",
+  "address_1" : "103 East 196th Street",
+  "location" : {
+    "latitude" : "40.86841254284488",
+    "human_address" : "{\"address\":\"103 East 196th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10468\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8940720389584"
+  },
+  "neighborhood" : "Kingsbridge Heights"
+}
+, {
+  "total_sq_ft" : "16600",
+  "zip" : "10035",
+  "address_1" : "4-20 E. 117th Street",
+  "address_2" : "Milbank Frawley",
+  "location" : {
+    "latitude" : "40.79625351566523",
+    "human_address" : "{\"address\":\"4-20 E. 117th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93398095533706"
+  },
+  "neighborhood" : "Harlem"
+}
+, {
+  "total_sq_ft" : "4100",
+  "zip" : "10455",
+  "address_1" : "413-415 East 146th Street",
+  "address_2" : "Betances",
+  "location" : {
+    "latitude" : "40.81513999981132",
+    "human_address" : "{\"address\":\"413-415 East 146th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90785000017723"
+  },
+  "neighborhood" : "Mott Haven"
+}
+, {
+  "total_sq_ft" : "4100",
+  "zip" : "10455",
+  "address_1" : "409-411 East 146th Street",
+  "address_2" : "Betances",
+  "location" : {
+    "latitude" : "40.81513999981132",
+    "human_address" : "{\"address\":\"409-411 East 146th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90785000017723"
+  },
+  "neighborhood" : "Mott Haven"
+}
+, {
+  "total_sq_ft" : "6000",
+  "zip" : "10455",
+  "address_1" : "455 East 146th Street",
+  "address_2" : "Betances",
+  "location" : {
+    "latitude" : "40.81331365456106",
+    "human_address" : "{\"address\":\"455 East 146th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91703772830505"
+  },
+  "neighborhood" : "Mott Haven"
+}
+, {
+  "total_sq_ft" : "12126",
+  "zip" : "10454",
+  "address_1" : "480-490 East 143th Street",
+  "address_2" : "Betances",
+  "location" : {
+    "latitude" : "40.80758000011707",
+    "human_address" : "{\"address\":\"480-490 East 143th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10454\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91848000025163"
+  },
+  "neighborhood" : "Mott Haven"
+}
+, {
+  "total_sq_ft" : "4500",
+  "zip" : "10454",
+  "address_1" : "521-525 East 145th Street",
+  "address_2" : "Betances",
+  "location" : {
+    "latitude" : "40.80758000011707",
+    "human_address" : "{\"address\":\"521-525 East 145th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10454\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91848000025163"
+  },
+  "neighborhood" : "Mott Haven"
+}
+, {
+  "total_sq_ft" : "11000",
+  "zip" : "11201",
+  "address_1" : "177 Myrtle Avenue",
+  "address_2" : "Ingersol Community Center",
+  "location" : {
+    "latitude" : "40.69365514626378",
+    "human_address" : "{\"address\":\"177 Myrtle Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98226779339535"
+  },
+  "neighborhood" : "Fort Greene"
+}
+, {
+  "total_sq_ft" : "7375",
+  "zip" : "11212",
+  "address_1" : "1142 Lenox Rd",
+  "address_2" : "Lenox Road-Rockaway Parkway",
+  "location" : {
+    "latitude" : "40.65940910323689",
+    "human_address" : "{\"address\":\"1142 Lenox Rd\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11212\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91826673062647"
+  },
+  "neighborhood" : "Brownsville"
+}
+, {
+  "total_sq_ft" : "5888",
+  "zip" : "11212",
+  "address_1" : "1145 Lenox Rd",
+  "address_2" : "Lenox Road-Rockaway Parkway",
+  "location" : {
+    "latitude" : "40.65965549263484",
+    "human_address" : "{\"address\":\"1145 Lenox Rd\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11212\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91806295541846"
+  },
+  "neighborhood" : "Brownsville"
+}
+, {
+  "total_sq_ft" : "3500",
+  "zip" : "10454",
+  "address_1" : "411 east 136th Street",
+  "address_2" : "Betances 1",
+  "location" : {
+    "latitude" : "40.80769095267218",
+    "human_address" : "{\"address\":\"411 east 136th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10454\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92338321472675"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "10700",
+  "zip" : "10454",
+  "address_1" : "416 east 137th street",
+  "address_2" : "Betances 2",
+  "location" : {
+    "latitude" : "40.80807960035054",
+    "human_address" : "{\"address\":\"416 east 137th street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10454\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92260453166642"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "3375",
+  "zip" : "10454",
+  "address_1" : "520 144th Street",
+  "address_2" : "Betances 3",
+  "location" : {
+    "latitude" : "40.81151883415267",
+    "human_address" : "{\"address\":\"520 144th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10454\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91659692426408"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "3375",
+  "zip" : "10454",
+  "address_1" : "530 144th Street",
+  "address_2" : "Betances 3",
+  "location" : {
+    "latitude" : "40.81144870745212",
+    "human_address" : "{\"address\":\"530 144th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10454\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91638462288296"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "3375",
+  "zip" : "10454",
+  "address_1" : "540 144th Street",
+  "address_2" : "Betances 3",
+  "location" : {
+    "latitude" : "40.81137858075157",
+    "human_address" : "{\"address\":\"540 144th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10454\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91617232150185"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "3000",
+  "zip" : "10454",
+  "address_1" : "550 144th Street",
+  "address_2" : "Betances 3",
+  "location" : {
+    "latitude" : "40.8113084540981",
+    "human_address" : "{\"address\":\"550 144th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10454\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91596002026327"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "3000",
+  "zip" : "10454",
+  "address_1" : "560 144th Street",
+  "address_2" : "Betances 3",
+  "location" : {
+    "latitude" : "40.811238327421094",
+    "human_address" : "{\"address\":\"560 144th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10454\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91574771895341"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "1700",
+  "zip" : "10455",
+  "address_1" : "445 146th Street",
+  "address_2" : "Betances 3",
+  "location" : {
+    "latitude" : "40.81366078515765",
+    "human_address" : "{\"address\":\"445 146th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91789977879006"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "8650",
+  "zip" : "10455",
+  "address_1" : "510/512 E 146th Street",
+  "address_2" : "Betances 3",
+  "location" : {
+    "latitude" : "40.81513999981132",
+    "human_address" : "{\"address\":\"510/512 E 146th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90785000017723"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "8300",
+  "zip" : "10455",
+  "address_1" : "511/513 E 146th Street",
+  "address_2" : "Betances 4",
+  "location" : {
+    "latitude" : "40.81513999981132",
+    "human_address" : "{\"address\":\"511/513 E 146th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90785000017723"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "3800",
+  "zip" : "10455",
+  "address_1" : "521 E 146th Street",
+  "address_2" : "Betances 3",
+  "location" : {
+    "latitude" : "40.81269697812961",
+    "human_address" : "{\"address\":\"521 E 146th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9151146750621"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "3800",
+  "zip" : "10455",
+  "address_1" : "525 E 146th Street",
+  "address_2" : "Betances 3",
+  "location" : {
+    "latitude" : "40.8126796866144",
+    "human_address" : "{\"address\":\"525 E 146th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91506241626058"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "8300",
+  "zip" : "10455",
+  "address_1" : "530/528 E 146th Street",
+  "address_2" : "Betances 3",
+  "location" : {
+    "latitude" : "40.81513999981132",
+    "human_address" : "{\"address\":\"530/528 E 146th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90785000017723"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "7400",
+  "zip" : "10455",
+  "address_1" : "537/545 E 146th Street",
+  "address_2" : "Betances 4",
+  "location" : {
+    "latitude" : "40.81513999981132",
+    "human_address" : "{\"address\":\"537/545 E 146th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90785000017723"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "10000",
+  "zip" : "10454",
+  "address_1" : "505/509/511/517 144th Street",
+  "address_2" : "Betances 2",
+  "location" : {
+    "latitude" : "40.81158869951133",
+    "human_address" : "{\"address\":\"505/509/511/517 144th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10454\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91644625864961"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "7000",
+  "zip" : "11103",
+  "address_1" : "34-16 Astoria Blvd S",
+  "address_2" : "114th Precinct",
+  "location" : {
+    "latitude" : "40.76955264461532",
+    "human_address" : "{\"address\":\"34-16 Astoria Blvd S\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11103\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91538297577114"
+  },
+  "neighborhood" : "Long Island City"
+}
+, {
+  "total_sq_ft" : "18032",
+  "zip" : "10037",
+  "address_1" : "50 West 139th st",
+  "location" : {
+    "latitude" : "40.81593662841418",
+    "human_address" : "{\"address\":\"50 West 139th st\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10037\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93736140065377"
+  },
+  "neighborhood" : "Harlem"
+}
+, {
+  "total_sq_ft" : "15352",
+  "zip" : "10037",
+  "address_1" : "560 Lenox Avenue",
+  "address_2" : "Harlen Housing",
+  "location" : {
+    "latitude" : "40.816173498614205",
+    "human_address" : "{\"address\":\"560 Lenox Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10037\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93920601632726"
+  },
+  "neighborhood" : "Harlem"
+}
+, {
+  "total_sq_ft" : "4896",
+  "zip" : "11216",
+  "address_1" : "218 Gates Avenue",
+  "location" : {
+    "latitude" : "40.685482351308295",
+    "human_address" : "{\"address\":\"218 Gates Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11216\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95647796804599"
+  },
+  "neighborhood" : "Bedford Stuyvesant"
+}
+, {
+  "total_sq_ft" : "6645",
+  "zip" : "11216",
+  "address_1" : "210 Kosciusko Avenue",
+  "location" : {
+    "latitude" : "40.691134691496735",
+    "human_address" : "{\"address\":\"210 Kosciusko Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11216\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94637886298253"
+  },
+  "neighborhood" : "Bedford Stuyvesant"
+}
+, {
+  "total_sq_ft" : "6645",
+  "zip" : "11216",
+  "address_1" : "686 Lafayette Avenue",
+  "location" : {
+    "latitude" : "40.690411239054455",
+    "human_address" : "{\"address\":\"686 Lafayette Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11216\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94625415043247"
+  },
+  "neighborhood" : "Bedford Stuyvesant"
+}
+, {
+  "total_sq_ft" : "3226",
+  "zip" : "11233",
+  "address_1" : "1900 Sterling Place",
+  "location" : {
+    "latitude" : "40.67059124851113",
+    "human_address" : "{\"address\":\"1900 Sterling Place\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11233\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91536498933056"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "7000",
+  "zip" : "11412",
+  "address_1" : "204-01 Hollis Avenue",
+  "address_2" : "South Hollis Library",
+  "location" : {
+    "latitude" : "40.70680694663105",
+    "human_address" : "{\"address\":\"204-01 Hollis Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11412\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.75373883422475"
+  },
+  "neighborhood" : "Hollis"
+}
+, {
+  "total_sq_ft" : "8600",
+  "zip" : "11369",
+  "address_1" : "100-01 Northern Blvd",
+  "address_2" : "Langston Hughes Library",
+  "location" : {
+    "latitude" : "40.761930000269444",
+    "human_address" : "{\"address\":\"100-01 Northern Blvd\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11369\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87413000009929"
+  },
+  "neighborhood" : "East Corona"
+}
+, {
+  "total_sq_ft" : "7400",
+  "zip" : "11358",
+  "address_1" : "196-36 Northern Blvd",
+  "address_2" : "East Flushing Library",
+  "location" : {
+    "latitude" : "40.75777425512925",
+    "human_address" : "{\"address\":\"196-36 Northern Blvd\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11358\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.7841995833971"
+  },
+  "neighborhood" : "East Flushing"
+}
+, {
+  "total_sq_ft" : "8000",
+  "zip" : "11361",
+  "address_1" : "214-20 Northern Blvd",
+  "address_2" : "Bayside Library",
+  "location" : {
+    "latitude" : "40.760352580255585",
+    "human_address" : "{\"address\":\"214-20 Northern Blvd\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11361\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.76846073584437"
+  },
+  "neighborhood" : "Bayside"
+}
+, {
+  "total_sq_ft" : "2600",
+  "zip" : "11103",
+  "address_1" : "40-20 Broadway",
+  "address_2" : "Broadway Library",
+  "location" : {
+    "latitude" : "40.758697827721676",
+    "human_address" : "{\"address\":\"40-20 Broadway\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11103\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91844067067075"
+  },
+  "neighborhood" : "Astoria"
+}
+, {
+  "total_sq_ft" : "6000",
+  "zip" : "11692",
+  "address_1" : "312 Beach 54th Street",
+  "address_2" : "Arverne Library",
+  "location" : {
+    "latitude" : "40.59283303014811",
+    "human_address" : "{\"address\":\"312 Beach 54th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11692\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.78425465477204"
+  },
+  "neighborhood" : "Arverne"
+}
+, {
+  "total_sq_ft" : "5000",
+  "zip" : "11634",
+  "address_1" : "79-50 Bell Blvd",
+  "address_2" : "Windsor Park Library",
+  "location" : {
+    "human_address" : "{\"address\":\"79-50 Bell Blvd\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11634\"}",
+    "needs_recoding" : false
+  },
+  "neighborhood" : "Oakland Gardens"
+}
+, {
+  "total_sq_ft" : "9500",
+  "zip" : "11365",
+  "address_1" : "193-20 Horace Harding Expressway",
+  "address_2" : "Fresh Meadows Library",
+  "location" : {
+    "latitude" : "40.74163103918843",
+    "human_address" : "{\"address\":\"193-20 Horace Harding Expressway\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11365\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.78277353951395"
+  },
+  "neighborhood" : "Fresh Meadows"
+}
+, {
+  "total_sq_ft" : "7900",
+  "zip" : "11414",
+  "address_1" : "92-06 156th Street",
+  "address_2" : "Howard Beach Library",
+  "location" : {
+    "latitude" : "40.66401120651412",
+    "human_address" : "{\"address\":\"92-06 156th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11414\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.84200446656206"
+  },
+  "neighborhood" : "Jamaica"
+}
+, {
+  "total_sq_ft" : "5200",
+  "zip" : "10471",
+  "address_1" : "5555 Mosholu Ave",
+  "address_2" : "Riverdale Neighborhood house",
+  "location" : {
+    "latitude" : "40.903014024345005",
+    "human_address" : "{\"address\":\"5555 Mosholu Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10471\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90383810304249"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "6000",
+  "zip" : "10474",
+  "address_1" : "812 Edgewater Rd",
+  "address_2" : "Rocking the Boat",
+  "location" : {
+    "latitude" : "40.81777429182637",
+    "human_address" : "{\"address\":\"812 Edgewater Rd\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88344805051071"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "15282",
+  "zip" : "11435",
+  "address_1" : "85-70 148th st",
+  "location" : {
+    "latitude" : "40.708713509333165",
+    "human_address" : "{\"address\":\"85-70 148th st\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11435\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.81009934580095"
+  },
+  "neighborhood" : "Briarwood"
+}
+, {
+  "total_sq_ft" : "3200",
+  "zip" : "10458",
+  "address_1" : "243 E204th St",
+  "location" : {
+    "latitude" : "40.863069999581",
+    "human_address" : "{\"address\":\"243 E204th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10458\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88915999983396"
+  },
+  "neighborhood" : "Bronx"
+}
+, {
+  "total_sq_ft" : "24000",
+  "zip" : "11104",
+  "address_1" : "39-01 Queens Blvd",
+  "location" : {
+    "latitude" : "40.744243120571895",
+    "human_address" : "{\"address\":\"39-01 Queens Blvd\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11104\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92608228303267"
+  },
+  "neighborhood" : "Sunnyside"
+}
+, {
+  "total_sq_ft" : "14000",
+  "zip" : "11104",
+  "address_1" : "43-31 39th Street",
+  "location" : {
+    "latitude" : "40.745251654905644",
+    "human_address" : "{\"address\":\"43-31 39th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11104\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92582774045697"
+  },
+  "neighborhood" : "Sunnyside"
+}
+, {
+  "total_sq_ft" : "9327",
+  "zip" : "11232",
+  "address_1" : "705 41st Street",
+  "location" : {
+    "latitude" : "40.647421503757826",
+    "human_address" : "{\"address\":\"705 41st Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11232\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00046155125703"
+  },
+  "neighborhood" : "Sunset Park"
+}
+, {
+  "total_sq_ft" : "3315",
+  "zip" : "10029",
+  "address_1" : "118-124 E111th Street",
+  "location" : {
+    "latitude" : "40.7920299997848",
+    "human_address" : "{\"address\":\"118-124 E111th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10029\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94449999957516"
+  },
+  "neighborhood" : "Harlem"
+}
+, {
+  "total_sq_ft" : "4000",
+  "zip" : "10456",
+  "address_1" : "1413 Sheridan Ave",
+  "location" : {
+    "latitude" : "40.838713492906045",
+    "human_address" : "{\"address\":\"1413 Sheridan Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10456\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91256315004534"
+  },
+  "neighborhood" : "Concourse"
+}
+, {
+  "total_sq_ft" : "7500",
+  "zip" : "10456",
+  "address_1" : "1347 Morris Avenue",
+  "location" : {
+    "latitude" : "40.83688488494897",
+    "human_address" : "{\"address\":\"1347 Morris Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10456\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91201051816125"
+  },
+  "neighborhood" : "Concourse"
+}
+, {
+  "total_sq_ft" : "9427",
+  "zip" : "10016",
+  "address_1" : "14 E. 28th St",
+  "location" : {
+    "latitude" : "40.74423402885173",
+    "human_address" : "{\"address\":\"14 E. 28th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10016\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98638569727625"
+  },
+  "neighborhood" : "Murray Hill"
+}
+, {
+  "total_sq_ft" : "2125",
+  "zip" : "10011",
+  "address_1" : "137 W14th St",
+  "location" : {
+    "latitude" : "40.74065000009762",
+    "human_address" : "{\"address\":\"137 W14th St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10011\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99851000003633"
+  },
+  "neighborhood" : "Flatiron"
+}
+, {
+  "total_sq_ft" : "1000",
+  "zip" : "10026",
+  "address_1" : "216 West 112th Street",
+  "location" : {
+    "latitude" : "40.80099294275965",
+    "human_address" : "{\"address\":\"216 West 112th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10026\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95525891455031"
+  },
+  "neighborhood" : "Harlem"
+}
+, {
+  "total_sq_ft" : "3946",
+  "zip" : "10002",
+  "address_1" : "184 Eldridge St",
+  "location" : {
+    "latitude" : "40.72065404023567",
+    "human_address" : "{\"address\":\"184 Eldridge St\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99061195437832"
+  },
+  "neighborhood" : "Bowery"
+}
+, {
+  "total_sq_ft" : "3540",
+  "zip" : "11207",
+  "address_1" : "508 Williams Avenue",
+  "location" : {
+    "latitude" : "40.663378685836165",
+    "human_address" : "{\"address\":\"508 Williams Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.897576399591"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "3540",
+  "zip" : "11207",
+  "address_1" : "502 Williams Avenue",
+  "location" : {
+    "latitude" : "40.66351358414056",
+    "human_address" : "{\"address\":\"502 Williams Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89760337925185"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "3540",
+  "zip" : "11207",
+  "address_1" : "496 Williams Avenue",
+  "location" : {
+    "latitude" : "40.66363049600437",
+    "human_address" : "{\"address\":\"496 Williams Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89763035891275"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "3540",
+  "zip" : "11207",
+  "address_1" : "490 Williams Avenue",
+  "location" : {
+    "latitude" : "40.663747407868186",
+    "human_address" : "{\"address\":\"490 Williams Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89766633179391"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "3540",
+  "zip" : "11207",
+  "address_1" : "486 Williams Ave",
+  "location" : {
+    "latitude" : "40.66387331295226",
+    "human_address" : "{\"address\":\"486 Williams Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89769331145482"
+  },
+  "neighborhood" : "East New York"
+}
+, {
+  "total_sq_ft" : "8000",
+  "zip" : "11102",
+  "address_1" : "2112 30th Rd",
+  "location" : {
+    "latitude" : "40.76882419377159",
+    "human_address" : "{\"address\":\"2112 30th Rd\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11102\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9280364367234"
+  },
+  "neighborhood" : "Astoria"
+}
+, {
+  "total_sq_ft" : "4622",
+  "zip" : "10025",
+  "address_1" : "149 Manhattan Ave",
+  "location" : {
+    "latitude" : "40.79918009133808",
+    "human_address" : "{\"address\":\"149 Manhattan Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10025\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96117490158849"
+  },
+  "neighborhood" : "Upper West Side"
+}
+, {
+  "total_sq_ft" : "3600",
+  "zip" : "10025",
+  "address_1" : "149 W108",
+  "address_2" : "Valley Lodge",
+  "location" : {
+    "latitude" : "40.798120000038125",
+    "human_address" : "{\"address\":\"149 W108\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10025\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96729000013323"
+  },
+  "neighborhood" : "Upper West Side"
+}
+, {
+  "total_sq_ft" : "5590",
+  "zip" : "10025",
+  "address_1" : "930 West end Ave",
+  "address_2" : "The Westbourne",
+  "location" : {
+    "latitude" : "40.801307451486394",
+    "human_address" : "{\"address\":\"930 West end Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10025\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96871427887473"
+  },
+  "neighborhood" : "Upper West Side"
+}
+, {
+  "total_sq_ft" : "3500",
+  "zip" : "10027",
+  "address_1" : "109 W129th st",
+  "address_2" : "129th street residences",
+  "location" : {
+    "latitude" : "40.810900000334925",
+    "human_address" : "{\"address\":\"109 W129th st\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10027\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95206999973055"
+  },
+  "neighborhood" : "Harlem"
+}
+, {
+  "total_sq_ft" : "3000",
+  "zip" : "11101",
+  "address_1" : "43-26 12th Street",
+  "address_2" : "Film Biz Recycling",
+  "location" : {
+    "latitude" : "40.750729834542085",
+    "human_address" : "{\"address\":\"43-26 12th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94789346713031"
+  },
+  "neighborhood" : "Long Island City"
+}
+, {
+  "total_sq_ft" : "8625",
+  "zip" : "11354",
+  "address_1" : "138-46 Northern Blvd",
+  "address_2" : "Flushing YMCA",
+  "location" : {
+    "latitude" : "40.76387046469852",
+    "human_address" : "{\"address\":\"138-46 Northern Blvd\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11354\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82788209552716"
+  },
+  "neighborhood" : "Flushing"
+}
+, {
+  "total_sq_ft" : "3500",
+  "zip" : "11215",
+  "address_1" : "357 9th Street",
+  "address_2" : "Prospect Park YMCA",
+  "location" : {
+    "latitude" : "40.66834294343789",
+    "human_address" : "{\"address\":\"357 9th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11215\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98449587372284"
+  },
+  "neighborhood" : "Park Slope"
+}
+, {
+  "total_sq_ft" : "10810",
+  "zip" : "11427",
+  "address_1" : "238-10 Hillsdale Ave",
+  "address_2" : "Cross Island YMCA",
+  "location" : {
+    "latitude" : "40.73332088487009",
+    "human_address" : "{\"address\":\"238-10 Hillsdale Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11427\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.72683805147472"
+  },
+  "neighborhood" : "Jamaica"
+}
+, {
+  "total_sq_ft" : "14300",
+  "zip" : "11216",
+  "address_1" : "1121 Bedford Ave",
+  "address_2" : "YMCA Bed-Stuy",
+  "location" : {
+    "latitude" : "40.68527796251576",
+    "human_address" : "{\"address\":\"1121 Bedford Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11216\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95421414326802"
+  },
+  "neighborhood" : "Bedford Stuyvesant"
+}
+, {
+  "total_sq_ft" : "22000",
+  "zip" : "11101",
+  "address_1" : "32-23 Queens Blvd",
+  "address_2" : "Long Island City YMCA",
+  "location" : {
+    "latitude" : "40.74499325994295",
+    "human_address" : "{\"address\":\"32-23 Queens Blvd\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93257715921851"
+  },
+  "neighborhood" : "Long Island City"
+}
+, {
+  "total_sq_ft" : "4815",
+  "zip" : "11219",
+  "address_1" : "4912 14th Avenue",
+  "location" : {
+    "latitude" : "40.633637619852465",
+    "human_address" : "{\"address\":\"4912 14th Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11219\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99005881599756"
+  },
+  "neighborhood" : "Boro Park"
+}
+, {
+  "total_sq_ft" : "5042",
+  "zip" : "10035",
+  "address_1" : "206 East 118th Street",
+  "location" : {
+    "latitude" : "40.799023427515465",
+    "human_address" : "{\"address\":\"206 East 118th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93859447734735"
+  },
+  "neighborhood" : "East Harlem"
+}
+, {
+  "total_sq_ft" : "3164",
+  "zip" : "10035",
+  "address_1" : "2295 2nd Avenue",
+  "address_2" : "Entrance on East 118th St.",
+  "location" : {
+    "latitude" : "40.798151085147026",
+    "human_address" : "{\"address\":\"2295 2nd Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93696670447434"
+  },
+  "neighborhood" : "East Harlem"
+}
+, {
+  "total_sq_ft" : "3120",
+  "zip" : "10035",
+  "address_1" : "251 E. 119th Street",
+  "location" : {
+    "latitude" : "40.799444610049534",
+    "human_address" : "{\"address\":\"251 E. 119th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9374136655865"
+  },
+  "neighborhood" : "East Harlem"
+}
+ ]

@@ -1,0 +1,98 @@
+[ {
+  "location_1" : {
+    "human_address" : "{\"address\":\"3450 East Tremont Avenue,\",\"city\":\"Bronx\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "notes" : "Room 323",
+  "name" : "Bronx Adult Learning Center(BxALC)",
+  "phone_number" : "718-863-4057",
+  "locations" : "Fordham, Hunts Point, Morrisania, Mott Haven, Norwood, Parkchester, Wakefield, West Bronx, West Farms, ",
+  "region" : "1"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"42-15 Crescent Street\",\"city\":\"Queens\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "notes" : "7th floor",
+  "name" : "Queens Adult Learning Center(QALC)",
+  "phone_number" : "718-361-9480",
+  "locations" : "Astoria, Elmhurst, Flushing, Jackson Heights, Long Island City, Sunnyside",
+  "region" : "2"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"90-01 Sutphin Boulevard\",\"city\":\"Queens\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "notes" : "The entrance is on 90th Avenue -Rufus King Avenue",
+  "name" : "Educational Services",
+  "phone_number" : "718-557-2567",
+  "locations" : "Bellerose, Briarwood, Far Rockaway,  Glendale, Hollis, Jamaica, Kew Gardens, Laurelton, Ozone Park, Queens Village, Richmond Hill,  Ridgewood, Rochdale Village, Rockaway, Rosedale, South Jamaica, South Ozone Park, St. Albans",
+  "region" : "3"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"500 8th Avenue\",\"city\":\"New York\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "notes" : "entrance at 269 West 35th Street, 10th floor",
+  "name" : "Alternative Education Complex",
+  "phone_number" : "212-868-1650",
+  "locations" : "Manhattan, below 119th Street",
+  "region" : "4"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"212 West 120th Street\",\"city\":\"New York\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "name" : "Mid-Manhattan Adult Learning Center (MMALC)",
+  "phone_number" : "212-666-1919",
+  "locations" : "Manhattan, 119th Street and above",
+  "region" : "5"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"557&nbsp;Pennsylvania Avenue\",\"city\":\"Brooklyn\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "notes" : "718-240-2770",
+  "name" : "P.S. 13",
+  "phone_number" : "718-240-2770",
+  "locations" : "Bay Ridge, Bensonhurst, Borough Park, Canarsie, Coney Island, Crown Heights, East Flatbush, East New York, Flatbush, Midwood, Ocean Hill- Brownsville, Sheepshead Bay, Sunset Park",
+  "region" : "6"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"850 Kent Avenue\",\"city\":\"Brooklyn\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "notes" : "718-789-2223",
+  "name" : "Brooklyn Adult Learning Center(BALC)",
+  "phone_number" : "718-789-2223",
+  "locations" : "Bedford-Stuyvesant, Bushwick, Clinton Hill, Crown Heights, East New York,  Flatbush, Fort Greene,  Greenpoint, Prospect Heights,  Ridgewood, Williamsburg",
+  "region" : "7"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"475 Nostrand Avenue\",\"city\":\"Brooklyn\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "notes" : "718-638-2635",
+  "name" : "Brooklyn Adult Learning Center",
+  "phone_number" : "718-638-2635",
+  "locations" : "Bedford-Stuyvesant and Staten Island",
+  "region" : "8"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"475 Nostrand Avenue\",\"city\":\"Brooklyn\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "notes" : "718-638-2635",
+  "name" : "Brooklyn Adult Learning Center",
+  "phone_number" : "718-638-2635",
+  "region" : "OACE Central Office"
+}
+ ]

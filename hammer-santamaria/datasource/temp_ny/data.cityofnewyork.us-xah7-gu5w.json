@@ -1,0 +1,121 @@
+[ {
+  "unfounded_number" : "95",
+  "miscellaneous" : "6",
+  "unfounded_rate" : "51.90",
+  "officer_unidentified_number" : "16",
+  "unsubstantiated_number" : "63",
+  "officer_unidentified_rate" : "8.70",
+  "miscellaneous_rate" : "3.30",
+  "exonerated_rate" : "0.00",
+  "type_of_abuse_of_authority_allegation" : "Race",
+  "substantiated_number" : "3",
+  "exonerated_number" : "0",
+  "unsubstantiated_rate" : "34.40",
+  "sunstantiated_rate" : "1.60"
+}
+, {
+  "unfounded_number" : "29",
+  "miscellaneous" : "0",
+  "unfounded_rate" : "50.90",
+  "officer_unidentified_number" : "5",
+  "unsubstantiated_number" : "22",
+  "officer_unidentified_rate" : "8.80",
+  "miscellaneous_rate" : "0.00",
+  "exonerated_rate" : "0.00",
+  "type_of_abuse_of_authority_allegation" : "Ethnicity",
+  "substantiated_number" : "1",
+  "exonerated_number" : "0",
+  "unsubstantiated_rate" : "38.60",
+  "sunstantiated_rate" : "1.80"
+}
+, {
+  "unfounded_number" : "6",
+  "miscellaneous" : "0",
+  "unfounded_rate" : "46.20",
+  "officer_unidentified_number" : "0",
+  "unsubstantiated_number" : "7",
+  "officer_unidentified_rate" : "0.00",
+  "miscellaneous_rate" : "0.00",
+  "exonerated_rate" : "0.00",
+  "type_of_abuse_of_authority_allegation" : "Religion",
+  "substantiated_number" : "0",
+  "exonerated_number" : "0",
+  "unsubstantiated_rate" : "53.80",
+  "sunstantiated_rate" : "0.00"
+}
+, {
+  "unfounded_number" : "10",
+  "miscellaneous" : "0",
+  "unfounded_rate" : "58.80",
+  "officer_unidentified_number" : "4",
+  "unsubstantiated_number" : "3",
+  "officer_unidentified_rate" : "23.50",
+  "miscellaneous_rate" : "0.00",
+  "exonerated_rate" : "0.00",
+  "type_of_abuse_of_authority_allegation" : "Sex",
+  "substantiated_number" : "0",
+  "exonerated_number" : "0",
+  "unsubstantiated_rate" : "17.60",
+  "sunstantiated_rate" : "0.00"
+}
+, {
+  "unfounded_number" : "0",
+  "miscellaneous" : "0",
+  "unfounded_rate" : "0.00",
+  "officer_unidentified_number" : "0",
+  "unsubstantiated_number" : "2",
+  "officer_unidentified_rate" : "0.00",
+  "miscellaneous_rate" : "0.00",
+  "exonerated_rate" : "0.00",
+  "type_of_abuse_of_authority_allegation" : "Physical disability",
+  "substantiated_number" : "0",
+  "exonerated_number" : "0",
+  "unsubstantiated_rate" : "100.00",
+  "sunstantiated_rate" : "0.00"
+}
+, {
+  "unfounded_number" : "7",
+  "miscellaneous" : "0",
+  "unfounded_rate" : "35.00",
+  "officer_unidentified_number" : "2",
+  "unsubstantiated_number" : "10",
+  "officer_unidentified_rate" : "10.00",
+  "miscellaneous_rate" : "0.00",
+  "exonerated_rate" : "0.00",
+  "type_of_abuse_of_authority_allegation" : "Sexual orientation",
+  "substantiated_number" : "1",
+  "exonerated_number" : "0",
+  "unsubstantiated_rate" : "50.00",
+  "sunstantiated_rate" : "5.00"
+}
+, {
+  "unfounded_number" : "0",
+  "miscellaneous" : "0",
+  "unfounded_rate" : "0.00",
+  "officer_unidentified_number" : "2",
+  "unsubstantiated_number" : "2",
+  "officer_unidentified_rate" : "50.00",
+  "miscellaneous_rate" : "0.00",
+  "exonerated_rate" : "0.00",
+  "type_of_abuse_of_authority_allegation" : "Other",
+  "substantiated_number" : "0",
+  "exonerated_number" : "0",
+  "unsubstantiated_rate" : "50.00",
+  "sunstantiated_rate" : "0.00"
+}
+, {
+  "unfounded_number" : "147",
+  "miscellaneous" : "6",
+  "unfounded_rate" : "49.70",
+  "officer_unidentified_number" : "29",
+  "unsubstantiated_number" : "109",
+  "officer_unidentified_rate" : "9.80",
+  "miscellaneous_rate" : "2.00",
+  "exonerated_rate" : "0.00",
+  "type_of_abuse_of_authority_allegation" : "Total",
+  "substantiated_number" : "5",
+  "exonerated_number" : "0",
+  "unsubstantiated_rate" : "36.80",
+  "sunstantiated_rate" : "1.70"
+}
+ ]

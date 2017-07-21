@@ -1,0 +1,835 @@
+[ {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Homes for the Homeless",
+  "facility_name" : "Clinton Family Inn"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Children's Rescue Fund",
+  "facility_name" : "CRF House East"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Housing Bridge, Inc.",
+  "facility_name" : "HB - LaGuardia Family Center"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Housing Bridge, Inc.",
+  "facility_name" : "HB - New Broadway"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "HELP U.S.A",
+  "facility_name" : "HELP- Bronx Morris"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Brooklyn Neighborhood Improvement Associates",
+  "facility_name" : "Kianga House"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Women In Need, Inc.",
+  "facility_name" : "Lehman Brothers Residence"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Volunteers of America",
+  "facility_name" : "Lydia E. Hoffman Family Residence"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Women In Need, Inc.",
+  "facility_name" : "Monica House II"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Bushwick Economic Development Corp.",
+  "facility_name" : "Park Avenue Manor"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Providence House, Inc.",
+  "facility_name" : "Providence House 2"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Wayside Baptist Church",
+  "facility_name" : "Wayside MacDonough Family Residence"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Housing Bridge, Inc.",
+  "facility_name" : "93rd Avenue Family Residence"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Urban Strategies. Inc.",
+  "facility_name" : "Dean Street"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Henry Street Settlement",
+  "facility_name" : "Helen House"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "HELP U.S.A",
+  "facility_name" : "HELP 1"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "HELP U.S.A",
+  "facility_name" : "HELP-Cypress Family Center"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Metropolitan NY Council on Jewish Poverty",
+  "facility_name" : "Hillside House"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Women's Prison Association",
+  "facility_name" : "Huntington House"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Hope Community, Inc.",
+  "facility_name" : "Jennie A. Clarke Residence"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Bronx Works, Inc.",
+  "facility_name" : "Nelson Family Residence"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Samuel D. Proctor",
+  "facility_name" : "Samuel Proctor Residence"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Catholic Guardian Society & Home Bureau, Inc.",
+  "facility_name" : "Seton House"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Tolentine Zeiser Comm. Life Center",
+  "facility_name" : "Siena House"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Housing Bridge, Inc.",
+  "facility_name" : "Bridge Family Residence II"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Samaritan Village",
+  "facility_name" : "Gloria's House"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Bronx Works, Inc.",
+  "facility_name" : "Jackson Family Residence"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Phipps Housing",
+  "facility_name" : "Lee Goodwin Residence"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Women In Need, Inc.",
+  "facility_name" : "Liberty Family Residence"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "MSGR. Robert Fox Memorial Shelter",
+  "facility_name" : "Robert Fox"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Sinergia Inc.",
+  "facility_name" : "Sinergia"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Volunteers of America",
+  "facility_name" : "University Family Residence"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Henry Street Settlement",
+  "facility_name" : "Urban Family Center"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Catholic Guardian Society & Home Bureau, Inc.",
+  "facility_name" : "Valentine House"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Brooklyn Child and Family Services, Inc.",
+  "facility_name" : "Arbor Inn"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "HELP U.S.A",
+  "facility_name" : "Hamilton Family Residence"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Housing Bridge, Inc.",
+  "facility_name" : "HB - Lenox Family Center"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Housing Bridge, Inc.",
+  "facility_name" : "HB - Neighborhood Residence"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "HELP U.S.A",
+  "facility_name" : "HELP- Bronx Crotona"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Children's Aid Society",
+  "facility_name" : "Milbank House"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Nazareth Housing",
+  "facility_name" : "Nazareth House"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Tolentine Zeiser Comm. Life Center",
+  "facility_name" : "Sammon B.U.I.L.D. Center"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Phipps Housing",
+  "facility_name" : "Sojourner Truth"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Settlement Housing Fund",
+  "facility_name" : "St. John's Place Family Residence"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Basics Housing, Inc.",
+  "facility_name" : "St. Peters Avenue Basics Residence"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Highland Park Development Corp.",
+  "facility_name" : "Tilden Family Residence"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Urban Strategies. Inc.",
+  "facility_name" : "Urban Transitional"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Salvation Army",
+  "facility_name" : "Bushwick Family Residence"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "East N.Y. Urban Youth Corp.",
+  "facility_name" : "Rose McCarthy"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Homes for the Homeless",
+  "facility_name" : "Prospect Interfaith"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Providence House, Inc.",
+  "facility_name" : "Providence House 1"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Brooklyn Child and Family Services, Inc.",
+  "facility_name" : "Rose F. Kennedy"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Homes for the Homeless",
+  "facility_name" : "Saratoga Interfaith"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "SCO",
+  "facility_name" : "Stockholm Family Residence"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Dominican Sisters",
+  "facility_name" : "Thorpe Family Residence"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "West End Residences/HDFC Inc.",
+  "facility_name" : "West End Intergenerational"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Homes for the Homeless",
+  "facility_name" : "Williamsbridge Family Inn"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Bronx Works, Inc.",
+  "facility_name" : "Willow Avenue Family Residence"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "DHS",
+  "facility_name" : "Auburn Family Residence"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Salvation Army",
+  "facility_name" : "Briarwood Family Residence"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Fordham Bedford Housing Corp.",
+  "facility_name" : "Concourse House"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "SCO",
+  "facility_name" : "Flushing Family Residence"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Children's Rescue Fund",
+  "facility_name" : "Icahn House"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "DHS",
+  "facility_name" : "Jamaica"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Women In Need, Inc.",
+  "facility_name" : "Junius Street Family Residence"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Providence House, Inc.",
+  "facility_name" : "Providence House 3"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Providence House, Inc.",
+  "facility_name" : "Providence House 7"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Project Hospitality, Inc.",
+  "facility_name" : "Staten Island Family Residence Center"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2012 Q4",
+  "provider_agency" : "Family Support System",
+  "facility_name" : "Theresa Haven"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Housing Bridge, Inc.",
+  "facility_name" : "93rd Avenue Family Residence"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "CAMBA",
+  "facility_name" : "Flagstone Family Residence"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Housing Bridge, Inc.",
+  "facility_name" : "HB - New Broadway"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "HELP U.S.A",
+  "facility_name" : "HELP- Bronx Morris"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Phipps Housing",
+  "facility_name" : "Lee Goodwin Residence"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Women In Need, Inc.",
+  "facility_name" : "Lehman Brothers Residence"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Nazareth Housing",
+  "facility_name" : "Nazareth House"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Providence House, Inc.",
+  "facility_name" : "Providence House 2"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Brooklyn Child and Family Services, Inc.",
+  "facility_name" : "Rose F. Kennedy"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Samuel D. Proctor",
+  "facility_name" : "Samuel Proctor Residence"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Catholic Guardian Society & Home Bureau, Inc.",
+  "facility_name" : "Seton House"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Catholic Guardian Society & Home Bureau, Inc.",
+  "facility_name" : "Valentine House"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Brooklyn Child and Family Services, Inc.",
+  "facility_name" : "Arbor Inn"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Housing Bridge, Inc.",
+  "facility_name" : "Bridge Family Residence II"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Samaritan Village",
+  "facility_name" : "Gloria's House"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Housing Bridge, Inc.",
+  "facility_name" : "HB - LaGuardia Family Center"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "HELP U.S.A",
+  "facility_name" : "HELP 1"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "HELP U.S.A",
+  "facility_name" : "HELP- Bronx Crotona"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Hope Community, Inc.",
+  "facility_name" : "Jennie A. Clarke Residence"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Women In Need, Inc.",
+  "facility_name" : "Liberty Family Residence"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Volunteers of America",
+  "facility_name" : "Lydia E. Hoffman Family Residence"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Phipps Housing",
+  "facility_name" : "Sojourner Truth"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Basics Housing, Inc.",
+  "facility_name" : "St. Peters Avenue Basics Residence"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Henry Street Settlement",
+  "facility_name" : "Urban Family Center"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Homes for the Homeless",
+  "facility_name" : "Clinton Family Inn"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Housing Bridge, Inc.",
+  "facility_name" : "HB - Lenox Family Center"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Housing Bridge, Inc.",
+  "facility_name" : "HB - Neighborhood Residence"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Women's Prison Association",
+  "facility_name" : "Huntington House"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Bronx Works, Inc.",
+  "facility_name" : "Jackson Family Residence"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Bronx Works, Inc.",
+  "facility_name" : "Nelson Family Residence"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Providence House, Inc.",
+  "facility_name" : "Providence House 1"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Tolentine Zeiser Comm. Life Center",
+  "facility_name" : "Siena House"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Volunteers of America",
+  "facility_name" : "University Family Residence"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Urban Strategies. Inc.",
+  "facility_name" : "Urban Transitional"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "West End Residences/HDFC Inc.",
+  "facility_name" : "West End Intergenerational"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Bronx Works, Inc.",
+  "facility_name" : "Willow Avenue Family Residence"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Urban Strategies. Inc.",
+  "facility_name" : "Dean Street"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Women In Need, Inc.",
+  "facility_name" : "Junius Street Family Residence"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Brooklyn Neighborhood Improvement Associates",
+  "facility_name" : "Kianga House"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Children's Aid Society",
+  "facility_name" : "Milbank House"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Bushwick Economic Development Corp.",
+  "facility_name" : "Park Avenue Manor"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Homes for the Homeless",
+  "facility_name" : "Prospect Interfaith"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Providence House, Inc.",
+  "facility_name" : "Providence House 3"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "MSGR. Robert Fox Memorial Shelter",
+  "facility_name" : "Robert Fox"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Project Hospitality, Inc.",
+  "facility_name" : "S I Family Residence Center"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Highland Park Development Corp.",
+  "facility_name" : "Tilden Family Residence"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Wayside Baptist Church",
+  "facility_name" : "Wayside MacDonough Family Residence"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "DHS",
+  "facility_name" : "Auburn Family Residence"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Salvation Army",
+  "facility_name" : "Bushwick Family Residence"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Children's Rescue Fund",
+  "facility_name" : "CRF House East"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Aguila",
+  "facility_name" : "Fulton Family Residence"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "HELP U.S.A",
+  "facility_name" : "HELP-Cypress Family Center"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Metropolitan NY Council on Jewish Poverty",
+  "facility_name" : "Hillside House"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Children's Rescue Fund",
+  "facility_name" : "Icahn House"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Women In Need, Inc.",
+  "facility_name" : "Monica House II"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Tolentine Zeiser Comm. Life Center",
+  "facility_name" : "Sammon B.U.I.L.D. Center"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Homes for the Homeless",
+  "facility_name" : "Saratoga Interfaith"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Sinergia Inc.",
+  "facility_name" : "Sinergia"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Dominican Sisters",
+  "facility_name" : "Thorpe Family Residence"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Salvation Army",
+  "facility_name" : "Briarwood Family Residence"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Fordham Bedford Housing Corp.",
+  "facility_name" : "Concourse House"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "SCO",
+  "facility_name" : "Flushing Family Residence"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "HELP U.S.A",
+  "facility_name" : "Hamilton Family Residence"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Henry Street Settlement",
+  "facility_name" : "Helen House"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "DHS",
+  "facility_name" : "Jamaica"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Providence House, Inc.",
+  "facility_name" : "Providence House 7"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Settlement Housing Fund",
+  "facility_name" : "St. John's Place Family Residence"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "SCO",
+  "facility_name" : "Stockholm Family Residence"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Family Support System",
+  "facility_name" : "Theresa Haven"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2013 Q1",
+  "provider_agency" : "Homes for the Homeless",
+  "facility_name" : "Williamsbridge Family Inn"
+}
+ ]

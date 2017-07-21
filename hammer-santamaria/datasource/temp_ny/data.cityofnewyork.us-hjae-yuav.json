@@ -1,0 +1,3806 @@
+[ {
+  "open_year_round" : "Yes",
+  "name" : "100% Playground",
+  "location" : "Glenwood Road, East 100 & East 101 streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "174th Street Playground",
+  "location" : "East 174 Street, Stratford Avenue, Bronx River Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "227 Street Playground",
+  "location" : "Bronx Boulevard between East 226 and East 228 streets",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Abe Lincoln",
+  "location" : "East 135 Street, between Madison & 5 avenues",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Abigail Playground",
+  "location" : "East 156 Street, Tinton Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Agnes Haywood Playground",
+  "location" : "East 215 Street, Barnes Avenue, East 216 Street",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Albemarle Park",
+  "location" : "Albermarle Road & Dahill Road",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Albert J. Parham Playground",
+  "location" : "Adelphi Street, Clermont, DeKalb & Willoughby avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Alexander Hamilton Playground",
+  "location" : "Hamilton Place, West 140 to West 141 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Alfred E. Smith Park",
+  "location" : "Catherine Slip, Madison & South streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Alice Kornegay Triangle",
+  "location" : "Lexington Avenue, East 128 & East 129 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Allerton Playground",
+  "location" : "Anrow Avenue, Bouck Avenue, Throop Avenue, Streetedman Place, Allerton Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Alley Park (PS 213)",
+  "location" : "67 Avenue & 230 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Alley Pond Park",
+  "location" : "Entrance off Grand Central Parkway, includes athletic fields and picnic areas",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Alley Pond Park (Alley Athletic Field)",
+  "location" : "Grand Central Parkway, Winchester Boulevard, &Union Turnpike",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Alley Pond Park (Alley Pond Spring)",
+  "location" : "Springfield Boulevard, 73rd Avenue, 76th Avenue to tree line & natural area",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Alley Pond Park (Horatio Playground)",
+  "location" : "Horatio Parkway and 50 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Alstyne Playground",
+  "location" : "Alystine Avenue & 102 Street",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "American Playground",
+  "location" : "Noble, Franklin Milton Streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Ampere Playground (PS 64)",
+  "location" : "101 Avenue & 82 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Andrews Playground",
+  "location" : "49 Avenue, Vernon Boulevard, 5 Street",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Annandale Playground (PS 175)",
+  "location" : "Yellowstone Boulevard, 65 Road, 65 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "Annunciation Park",
+  "location" : "Convent and Amsterdam Av, W 135 St",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Arcilla Playground",
+  "location" : "Teller Avenue, Park Avenue, Clay Avenue, East 64 Street",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Arrochar Playground",
+  "location" : "Sand Lane, Major Avenue, McFarland Avenue",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Arrow Community Garden",
+  "location" : "35th Street, between 35th and 36th Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Asser Levy",
+  "location" : "Asser Levy Place & East 24-25 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Asser Levy Park",
+  "location" : "Boardwalk, Surf, Sea Breeze avenues, Ocean Parkway",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Asser Levy Park (Performance Space)",
+  "location" : "Boardwalk, Surf, Sea Breeze avenues, Ocean Parkway",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Astoria Heights Playground",
+  "location" : "30 Road, 45 to 46 streets",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Astoria Park (Charybdis Playground)",
+  "location" : "Shore Boulevard opposite 23 Road",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Athens Sq (PS 17)",
+  "location" : "29 Street, 30 Street, 30 Avenue, Newtown Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Aubondale Playground",
+  "location" : "170-171 streets, 33-35 avenues",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Audubon Playground",
+  "location" : "West 170 Street & Audubon Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Augustus St. Gaudens",
+  "location" : "East 19 to East 20 streets, 2 Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bailey Playground",
+  "location" : "Bailey Avenue, Weast 233-West 238 streets",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Baisley Pond Park",
+  "location" : "Rockaway Boulevard, 125th Avenue, & Baisley Boulevard South",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Baisley Pond Park",
+  "location" : "150th Street, Rockaway Boulevard, Baisley Boulevard South, & North Conduit Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Baisley Pond Park (157th Street Playground)",
+  "location" : "157 Street & 116 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bartlett Playground",
+  "location" : "Bartlett Street & Throop Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Battery Park (Battery Gardens)",
+  "location" : "Battery Place, State & Whitehall streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Battery Park Comfort Station",
+  "location" : "Battery Place, State & Whitehall streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bay Terrace Playground (PS 169)",
+  "location" : "23 Avenue & 212 Street",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Bayside Fields",
+  "location" : "204 Street & 29 Avenue, Clearview Expressway",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Bayside Playground (JHS 180)",
+  "location" : "Beach Channel Drive & Seaside Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bayview Playground",
+  "location" : "Seaview Avenue & East 99 Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bedford Playground",
+  "location" : "Bedford Avenue & South 9 Street, Division Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Behagen Playground",
+  "location" : "Tinton Avenue, East 165 Street, Union Avenue, East 166 Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bellaire Playground",
+  "location" : "89 Avenue, 207 & 208 streets",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Belmont Playground",
+  "location" : "Crotona Avenue, East 181 Street",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "Bendheim Playground",
+  "location" : "100th Street and Fifth Ave",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bennett Park",
+  "location" : "West 185 Street, Ft Washington Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Benson Playground",
+  "location" : "Bath Avenue between Bay 22 & Bay 23 streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bensonhurst Park",
+  "location" : "Gravesend Bay, 21 & Cropsey avenues, Bay Parkway",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Betsy Head Playground",
+  "location" : "Livonia, Dumont, Hopkinson, Blake avenues, Strauss Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Betsy Head Playground (Administration Building)",
+  "location" : "Livonia, Dumont, Hopkinson, Blake avenues, Strauss Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Big Bush Park",
+  "location" : "61 Street, north and south of Brooklyn-Queens Expressway",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bildersee Playground",
+  "location" : "Flatlands Avenue between East 81 & East 82 streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bill Brown Memorial Playground",
+  "location" : "Bedford Avenue, Avenue X to Avenue Y, E 24 Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bleecker Playground",
+  "location" : "Hudson & West 11 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Blood Root Valley (Greenbelt Nature Center)",
+  "location" : "Rockland, Manor and Brielle avenues, Forest Hill Road",
+  "borough" : "Staten Island"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Blood Root Valley (Park House)",
+  "location" : "Rockland, Manor and Brielle avenues, Forest Hill Road",
+  "borough" : "Staten Island"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "Bloomingdale Park",
+  "location" : "Richmond Pkwy, Bloomingdale Rd., Lenevar Ave",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bloomingdale Playground",
+  "location" : "Amsterdam Avenue, West 104 & West 105 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "comments" : "This facility is currently closed",
+  "open_year_round" : "Yes",
+  "name" : "Blue Heron Park Preserve (Nature Center)",
+  "location" : "Poillon Avenue",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bowne Park",
+  "location" : "159 Street, 29 Avenue, 155 Street, 32 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bowne Playground",
+  "location" : "Union Street and Sanford Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Breininger Park",
+  "location" : "Braddock Avenue & 240 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Breukelen Playground",
+  "location" : "Louisiana & Flatlands Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Brevoort Playground",
+  "location" : "Ralph Avenue & Chauncy Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bridge Park 2",
+  "location" : "Bridge & Prospect streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Broadway Malls",
+  "location" : "Broadway, Columbus Circle to West 110 Street",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bronx Park (Ben Abrams Playground)",
+  "location" : "Lydig Avenue & Bronx Park East",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bronx Park (Brady Playground)",
+  "location" : "Bronx Park East between Bronxdale Avenue and Unionport Road",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bronx Park (French Charley's Playground)",
+  "location" : "East 204 Street & W/S Bronx Park",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bronx Park (Olinville Playground)",
+  "location" : "East 219 Street & Bronx River Parkway",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bronx Park (Ranaqua)",
+  "location" : "Southern Boulevard, Webster, Burke avenues, Bronx Park East, 180 Street",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Bronx Park (River Park Playground)",
+  "location" : "East 180th Street, Boston Road",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bronx Park (Rosewood Playground)",
+  "location" : "Bronx River Parkway & Rosewood Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bronx Park (Waring Playground)",
+  "location" : "Bronx Park East between Waring Avenure and Thwaites Place",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Bronx River Parkway (Parque de los Ninos)",
+  "location" : "Bronx River Parkway, Bronx Park, Westchester/NYC City Line.",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Brookville Park",
+  "location" : "Conduit Avenue, Brookville Boulevard, 144th Avenue, 233rd Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Brower Park",
+  "location" : "Brooklyn, St. Mark's, Kingston avenues, Park Place",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Brower Park (Museum)",
+  "location" : "Brooklyn, St. Mark's, Kingston avenues, Park Place",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Brownsville Playground",
+  "location" : "Linden Boulevard & Hegeman Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bufano Playground",
+  "location" : "La Salle Avenue, Edison Avenue, Bradford Avenue, Waterbury Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Bushwick Playground & Pool",
+  "location" : "Flushing Avenue, Bushwick Avenue & Humboldt Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Bushwick Playground & Pool",
+  "location" : "Flushing & Bushwick Avenue between Garden & Beaver",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Cabbell Park/Cambria Playground",
+  "location" : "121 Avenue & 220 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Cadman Plaza & Brooklyn War Memorial",
+  "location" : "Tillary, Cadman Plaza West, Cadman Plaza East, Prospect streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Cadman Plaza & Brooklyn War Memorial",
+  "location" : "Tillary, Cadman Plaza West, Cadman Plaza East, Prospect streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Campiz Playground",
+  "location" : "Hope Street & Metropolitan Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Canarsie Park",
+  "location" : "Paerdegat Avenue, Seaview Avenue, East 93rd Street, Skidmore Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Capt. Rivera Playground",
+  "location" : "East 156 Street, Forest Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Capt. Tilly Park",
+  "location" : "Highland Avenue, Upland Parkway, Gothic Parkway, 85 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Captain Mario Fajardo Park",
+  "location" : "Kissena Boulevard & Booth Memorial Avenue",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Carl Schurz Park",
+  "location" : "East 84 Street & East End Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Carl Schurz Promenade",
+  "location" : "Stone Wall to East River, East 84 to East 90 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Carmansville Playground",
+  "location" : "Amsterdam Avenue, West 151 to West 152 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Carroll Park",
+  "location" : "Court & Smith Streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Carver Playground",
+  "location" : "Ralph Avenue & Sumpter Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Caserta Playground",
+  "location" : "St. Raymond Avenue, Puroy Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Castle Hill Playground",
+  "location" : "Parker Street, Castle Hill Avenue, Puroy Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Castlewood Playground (PS 186)",
+  "location" : "Little Neck Parkway & 72 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Cauldwell Playground",
+  "location" : "Caldwell Avenue, East 163 Street, East 161 Street",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Cavanaugh Triangle (Angelo Campanero Playground)",
+  "location" : "East Gun Hill Road, Eastchest Road, & O'Neil Place",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Cedar Playground",
+  "location" : "West 179 Street, West Burnside Avenue, Major Deegan Expressway, Sedgewick Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "Central Park (Ancient Playground)",
+  "location" : "85 ST & 5TH AVE",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Central Park (Arsenal)",
+  "location" : "5th Avenue from 60th Street to 65th Street",
+  "borough" : "Manhattan"
+}
+, {
+  "name" : "Central Park (Bethesda Terrace)",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Central Park (Conservatory Garden)",
+  "location" : "5th Avenue, 103rd Street to 106th Street",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Central Park (Dana Discovery Center)",
+  "location" : "110th Street between Fifth Avenue and Malcolm X Boulevard",
+  "borough" : "Manhattan"
+}
+, {
+  "name" : "Central Park (Heckscher Playground)",
+  "location" : "62 ST, BET WEST & CENTER DRS",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Central Park (Kerbs Boathouse)",
+  "location" : "74th Street near Fifth Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Central Park (Lasker)",
+  "location" : "Central Park at 107th Street",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Central Park (Loeb Boathouse)",
+  "location" : "East Side between 74th and 75th streets",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Central Park (North Meadow Recreation Center)",
+  "location" : "Mid-park at 97th Street",
+  "borough" : "Manhattan"
+}
+, {
+  "name" : "Central Park (Ramble)",
+  "location" : "Central Park",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "No",
+  "name" : "Central Park (Sheep Meadow, Mineral Springs)",
+  "location" : "Mid-park at 69th Street",
+  "borough" : "Manhattan"
+}
+, {
+  "name" : "Central Park (Tavern on The Green)",
+  "location" : "Central Park",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Central Park (Tennis Courts)",
+  "location" : "93d Street near the West Drive",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Central Park (The Great Hill)",
+  "location" : "West Side from 103rd to 107th streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Central Park (The Metropolitan Museum of Art)",
+  "location" : "Fifth Avenue at 82nd Street",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Central Park (West 61st)",
+  "location" : "West Drive, Central Park West, & 65th Street Transverse",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Central Park (Wollman Rink)",
+  "location" : "Center Drive to East Drive (including Gapstow Bridge)",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Central Park Delacorte Comfort Station",
+  "location" : "Mid-Park at 80th Street",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Century Playground",
+  "location" : "Brighton Beach Avenue & West 2 Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Challenge Playground (PS 187) 251 Street Playground",
+  "location" : "251 Street & 63 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Chelsea Park",
+  "location" : "West 27 Street & 9 Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Chelsea Recreation Center",
+  "location" : "South of West 25 Street, 9 to 10 avenues",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Cherry Tree (Washington) Playground",
+  "location" : "99 to 100 streets, 3 Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Chester Playground",
+  "location" : "Chester Street, Sutter Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Ciccarone Park Playground",
+  "location" : "Arthur Avenue, East 188 Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "City Line Park",
+  "location" : "Atlantic & Fountain avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Claremont Park",
+  "location" : "Mount Eden Parkway & Morris Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Claremont Park Playground",
+  "location" : "E 170 Street & Teller Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Clark Playground",
+  "location" : "3 Avenue, East 144 Street, East 146 Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Clement Clark Moore Park",
+  "location" : "Broadway & 83 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Clintonville Playground (JHS 194)",
+  "location" : "Clintonville Street, 17 Road & 17 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Col. Charles Young Playground",
+  "location" : "West 144 Street & Lenox Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Col. David Marcus Memorial Playground",
+  "location" : "Ocean Parkway, Avenue P, East 3 Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Coleman Square Playground",
+  "location" : "Between Cherry & Monroe streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "College Point Park",
+  "location" : "130th Street & 23rd Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Colucci Playground",
+  "location" : "Hutchinson River Parkway, Wilkinson Avenue, Mayflower Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Columbus Park",
+  "location" : "Adams, Johnson, Fulton, Joralemon streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Columbus Park",
+  "location" : "Baxter, Mulberry, Bayard & Worth streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Com. John Barry Park & Playground",
+  "location" : "South of Flushing Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Com. John Barry Park & Playground",
+  "location" : "South of Flushing Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Com. John Barry Park & Playground (Athletic Area)",
+  "location" : "South of Flushing Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Comm. Eugene S. Sarsfield Playground",
+  "location" : "East 38 Street & Ryder Street, Avenue M",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "Coney Island",
+  "location" : "Brighton 2nd",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "Coney Island",
+  "location" : "W 27 ST.",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "Coney Island",
+  "location" : "W 33 St.",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Coney Island Beach",
+  "location" : "Corbin Place to Coney Island Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Coney Island Beach",
+  "location" : "Stillwell Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "No",
+  "name" : "Coney Island Beach",
+  "location" : "West 16th Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "No",
+  "name" : "Coney Island Beach",
+  "location" : "W 22 ST.",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "comments" : "This facility is currently closed",
+  "name" : "Conference House Park",
+  "location" : "Pittsville St,Hylan Blvd.,Surf,Richard Aves",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Cooper Park",
+  "location" : "Sharon, Olive streets, Maspeth & Morgan avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Corona Golf Playground",
+  "location" : "109 Street between 46-47 avenues",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Corporal John A. Seravalli Playground",
+  "location" : "Hudson & Horatio streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Corporal Thompson Park",
+  "location" : "Broadway, Henderson Avenue",
+  "borough" : "Staten Island"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "No",
+  "name" : "Corporal Thompson Park/West Brighton Pool",
+  "location" : "Broadway, Henderson Avenue",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Crocheron Park Field House",
+  "location" : "34th Avenue, 214th Place, 34th Road, 214th Lane, 35th Avenue, & 216th Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Crotona Park (Martin Van Buren Playground)",
+  "location" : "Crotona East & Claremont Parkway",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Crotona Park (Playground of the Stars)",
+  "location" : "Fulton Avenue & Crotona Park South",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Crotona Park (Pool House)",
+  "location" : "173rd Street and Fulton Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Crotona Park Environmental Center",
+  "location" : "Crotona Park North, Crotona Park South, Crotona Park East, Fulton Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Crowley Playground",
+  "location" : "57 Avenue & 83 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Cunningham Park",
+  "location" : "Union Turnpike, Clearview Expressway, 73rd Avenue, Francis Lewis Boulevard",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Cunningham Park (210th Street Playground)",
+  "location" : "210 Street & 73 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Cunningham Park (HQ8)",
+  "location" : "South of Union Turnpike, between Francis Lewis Boulevard & 193rd Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Cypress Hills Park",
+  "location" : "Blake & Euclid avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Daniel M. O'Connell Playground",
+  "location" : "113 Avenue & 196 Street",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "De Witt Clinton Park",
+  "location" : "West 52 to West 54 streets, 11 to 12 avenues",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Dematti Playground",
+  "location" : "Tompkins Avenue, Chestnut Avenue",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Detective Keith L. Williams Park",
+  "location" : "106 Avenue, 173 Street, Liberty Avenue, 172 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Devoe Park",
+  "location" : "West Fordham Road, University Avenue, Sedgwick Avenue, Father Zeiser Place",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Digilio Playground",
+  "location" : "McDonald Avenue & Avenue F",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Dimattina Playground",
+  "location" : "Hicks & Rapelye streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Ditmars Park Playground",
+  "location" : "23 Avenue to Ditmars Boulevard",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Double Nickel Playground",
+  "location" : "Osborne Street and Preston Avenue",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Downing Street Playground",
+  "location" : "Downing to Carmine streets, Avenue of the Americas",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Dr. Charles R. Drew Memorial Park",
+  "location" : "Van Wyck Expressway, 116 Avenue, 140 Street, 115 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Dr. Martin Luther King Jr. Park",
+  "location" : "Dumont, Blake, Miller avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Dr. Richard Greene Playground",
+  "location" : "Mother Gaston Boulevard (Stone Avenue) & Sutter avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Drew Playground",
+  "location" : "Fulton Avenue, East 169 Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Dry Dock Playground",
+  "location" : "East 10 Street & Szold Place, Avenue D",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Dugan Playground",
+  "location" : "Mill Road & Tysens Lane",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Dutch Kills Playground (PS 112)",
+  "location" : "Crescent-28 streets, 36 Avenue, 37 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Dyckman House Museum",
+  "location" : "Broadway & West 204 Street",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Dyker Beach Park",
+  "location" : "Shore Parkway, 86 Street, 7 to 14 avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "East Elmhurst Playground (PS 127)",
+  "location" : "25 Avenue & 98 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "East River Park (10th Street)",
+  "location" : "Northern extreme of park",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "East River Park (Tennis Courts)",
+  "location" : "East River Park at Broome Street",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "East River Park (Track Building)",
+  "location" : "East 6 Street & FDR Drive",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "East River Playground",
+  "location" : "FDR Drive, East 106 to East 107 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "East Springfield Playground",
+  "location" : "115 Road between 218 & 219 streets",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Eastchester Playground",
+  "location" : "Adee Avenue, Tenbroeck Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Edenwald Playground",
+  "location" : "East 226 Drive, Schieffelin Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "Ederle Comfort Station",
+  "location" : "Flushing Meadows Corona Park",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Edmonds Playground",
+  "location" : "DeKalb Avenue, Adelphi Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Electric Playground",
+  "location" : "164 Street, south of 65 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Emerald Playground (PS 200)",
+  "location" : "164 Street between Jewel & 71 avenues",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Equity Park",
+  "location" : "90 Street, 88 & 89 avenues",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Ethan Allen Playground",
+  "location" : "New Jersey Avenue & Vermont Street/Worthman",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Farm Playground",
+  "location" : "73 Avenue, 195 Street & 196 Place",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Fermi Playground",
+  "location" : "Troutman Street & Central Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Fisher Pool",
+  "location" : "32 Avenue, 99 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Flushing Fields (Leonardo Ingravallo Playground)",
+  "location" : "Bayside Avenue, 25 Avenue, 149 to 150 streets",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Flushing Meadows Corona Park (Albert H. Mauro Playground)",
+  "location" : "Park Drive East & 73 Terrace",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Flushing Meadows Corona Park (Lawrence Playground)",
+  "location" : "College Point Boulevard and Lawrence Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Flushing Meadows Corona Park (Meadow Lake North)",
+  "location" : "Long Island Expressway to Meadow Lake to Van Wyck Expressway Extension to Grand Central Parkway",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Flushing Meadows Corona Park (Passerelle)",
+  "location" : "Unisphere Fountain to pool, at Meridian Road",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Flushing Meadows Corona Park (Playground for All Children)",
+  "location" : "111 Street and Corona Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Flushing Meadows Corona Park (Worlds Fair Playground)",
+  "location" : "Grand Central Parkway, Van Wyck Expressway",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Flushing Meadows Corona Park (Zoo, Ballfields)",
+  "location" : "Grand Central Parkway to 111th Street to Heckscher Children Farm to Playground for All Children",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Flynn Playground",
+  "location" : "3 Avenue, East 158 Street, Brook Avenue, East 157 Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Forest Park (Dry Harbour Playground)",
+  "location" : "80 Street & Myrtle Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Forest Park (Jackson Pond Playground)",
+  "location" : "108 Street and Park Lane South",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Forest Park (Seuffert Bandshell)",
+  "location" : "West Main Drive to eastern side of golf course",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Forest Park (Sobelsohn Playground, The Overlook)",
+  "location" : "Park Lane South and Abingdon Road",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Forest Park (Tennis Courts -Forest Parkway)",
+  "location" : "Park Lane South to north of tennis courts",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Forest Park (The Overlook)",
+  "location" : "Park Lane (to east and south) to Metropolitan Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Forest Park (Victory Field)",
+  "location" : "Long Island Railroad to Woodhaven Boulevard. to Myrtle Avenue to 96th Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Forest Park (Visitor Center, near the Carousel)",
+  "location" : "Woodhaven Boulevard and Forest Park Drive",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Fort Greene Park",
+  "location" : "South of Myrtle Avenue to Willoughby Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Fort Greene Playground",
+  "location" : "Myrtle Avenue & St. Edwards Plaza",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Fort Independence Playground",
+  "location" : "Stevenson Place, West 238 Street, Sedgwick Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Fort Tryon Park (Anne Loftus Playground)",
+  "location" : "Broadway & Dyckman Street",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Fort Tryon Park (Café)",
+  "location" : "One Margaret Corbin Drive",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Fort Tryon Park (The Cloisters)",
+  "location" : "Riverside Drive to Broadway, West 192 to Dyckman streets",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Fort Washington Park (Lily Brown Playground)",
+  "location" : "West 162 Street, east of Riverside Drive",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Fox Playground",
+  "location" : "Avenue H, East 54 to E 55 streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Francis Lewis Playground",
+  "location" : "3 Avenue and Bronx Whitestone Bridge",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Frank D. O'Connor Playground",
+  "location" : "Broadway & 78 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Frank Golden Park",
+  "location" : "132 to 138 streets, 14 Road",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Franz Sigel Park",
+  "location" : "East 153 Street, Gerard Avenue, East 151 Street, Walton Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Frederick B. Judge Memorial Playground",
+  "location" : "111 Avenue, 134 & 135 streets, Lincoln Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Frederick Douglass Playground",
+  "location" : "West 100-101 Street Amsterdam Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Frederick E. Samuel Playground",
+  "location" : "Lenox Avenue, West 139 to West 140 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Frederick Johnson Park",
+  "location" : "7 Avenue, West 150-151 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Fresh Meadows Playground (PS 173)",
+  "location" : "67 Avenue & 173 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Friends Field",
+  "location" : "Avenue L, East 4 Street, McDonald Avenue, Avenue M",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Fulton Park",
+  "location" : "Fulton, Chauncey streets, Stuyvesant, Lewis avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Galapo Playground",
+  "location" : "Bedford Avenue, Gravesend Neck Road",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Garibaldi Playground",
+  "location" : "82 to 83 Street at 18 Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "General Douglas MacArthur Park",
+  "location" : "East 49 Street & East River Drive",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Glenwood Playground",
+  "location" : "Ralph Avenue & Farragut Road",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Gorman Playground",
+  "location" : "30 Avenue between 84 & 85 streets",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Gouverneur Playground",
+  "location" : "3rd Avenue, St. Paul's Place, East 170 Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Gowanus Playground",
+  "location" : "Wyckoff Street between Bond & Hoyt streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Grandview Playground",
+  "location" : "Grandview Avenue, Continental Place",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Gravesend Park",
+  "location" : "18 Avenue & 56 Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Greencroft Playground (PS 53)",
+  "location" : "Redgrave, Ainsworth & Durant avenues",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Greene Playground",
+  "location" : "Greene & Washington avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Greenwood Playground",
+  "location" : "Fort Hamilton Parkway, Greenwood, East 5 Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Grove Hill Playground",
+  "location" : "East 158 Street, Caldwell Avenue, Eagle Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Grover Cleveland Park",
+  "location" : "Rene Court, Grandview Avenue, Stanjope Street & Fairview Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Gun Hill Playground",
+  "location" : "Holland Avenue, Magenta Street, Cueger Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Gunn Park (PS 18)",
+  "location" : "Hillside Avenue, east of 235 Court",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Haffen Park",
+  "location" : "Burke Avenue, Hammersley Avenue, Gunther Avenue, Ely Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Haffen Park",
+  "location" : "Burke Avenue, Hammersley Avenue, Gunther Avenue, Ely Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "No",
+  "name" : "Haggerty Park",
+  "location" : "202 Street & Jamaica Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Hallets Cove Playground",
+  "location" : "Hallets Cove, Vernon Boulevard",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Hamilton Fish Park (Recreation Center)",
+  "location" : "Between East Houston & Stanton streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Hamilton-Metz Field",
+  "location" : "Albany, East New York, Lefferts avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "Hammel Playground",
+  "location" : "Rockaway Beach Blvd. Bet. Beach 84 St. And Beach 81 St.",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Hansborough Recreation Center",
+  "location" : "35 West 134 Street",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Happy Warrior Playground",
+  "location" : "West 98 Street & Amsterdam Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Harold Schneiderman Playground (PS 232)",
+  "location" : "155 Avenue & 83 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Harris Park",
+  "location" : "West 205 Street, Paul Avenue, Bedford Pk B, Goulden Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Harry Maze Memorial Park",
+  "location" : "Avenue D between East 56 & East 57 Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Hart Playground",
+  "location" : "37 Avenue, west of 69 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Harvey Park",
+  "location" : "15 to 20 avenues, East of Whitestone Expressway",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Hattie Carthan Playground",
+  "location" : "East of Marcy Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Havemeyer Playground",
+  "location" : "Watson Avenue, Havenuemeyer Avenue, Cross Bronx Expressway",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Heckscher Playground",
+  "location" : "Grove Street to Linden Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Henry Hudson Park",
+  "location" : "Palisade Avenue, Kappock Street & Independence Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Herbert Von King Park",
+  "location" : "Greene, Marcy, Lafayette, Tompkins avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Herman Dolgon Playground",
+  "location" : "Avenue V & Nostrand Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Hermon MacNeil Park",
+  "location" : "East of paved path running north from 119th Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "High Rock Park",
+  "location" : "Richmond Parkway & Moravian Cemetery at Rockland Avenue",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "High Rock Park (Education Building)",
+  "location" : "Richmond Parkway & Moravian Cemetery at Rockland Avenue",
+  "borough" : "Staten Island"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "High Rock Park (McArthur Park)",
+  "location" : "Richmond Parkway & Moravian Cemetery at Rockland Avenue",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "High Rock Park (Visitor Center)",
+  "location" : "Richmond Parkway & Moravian Cemetery at Rockland Avenue",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Highbridge Park (Quisqueya Playground)",
+  "location" : "West 180 Street & Amsterdam Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Highbridge Park (Recreation Center)",
+  "location" : "West 155 & Dyckman streets, Edgecombe & Amsterdam avenues",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Highbridge Park (Wallenberg Playground)",
+  "location" : "West 188 Street & Amsterdam Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "Highbridge Park-Wallenberg Playground",
+  "location" : "W 189 St & Amsterdam Ave",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Highland Park",
+  "location" : "Jackie Robinson Parkway to Highland Boulevard",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Hoffman Park",
+  "location" : "Hoffman Drive west of Queens Boulevard",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Holcombe Rucker",
+  "location" : "West 155 Street, 8 Avenue to Harlem River Drive",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Hollis Playground (JHS 192)",
+  "location" : "205 Street & Hollis Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Holy Cow Playground (PS 179)",
+  "location" : "Peck Avenue & Harding Boulevard",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Hoover Playground",
+  "location" : "Manton Street & 83 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Horace Harding Playground (PS 206)",
+  "location" : "62 Drive between 97 Place & 98 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Horseshoe Playground",
+  "location" : "Hall Place, Rogers Place, East 165 Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Howard Bennett Playground",
+  "location" : "West 135 to West 136 streets, Lenox to 5 avenues",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Hunts Point Playground",
+  "location" : "Spofford Avenue, Hunts Point Avenue, Faile Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Inwood Hill Park (Nature Center)",
+  "location" : "Gaelic Field and Area around Salt Marsh West of Indian Road (at 218th Street)",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Inwood Hill Park (Payson Playground)",
+  "location" : "Payson & Dyckman streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Inwood Hill Park (Tennis Courts)",
+  "location" : "Tennis courts & ballfields along Seaman Avenue from 207th Street to 214th Street",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "J. Hood Wright Park",
+  "location" : "Ft. Washington & Haven avenues, West 173 Street",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "J.J. Byrne Memorial Park",
+  "location" : "3 to 4 streets, 4 to 5 avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Jackie Robinson Park",
+  "location" : "Malcolm X Boulevard between Chauncey and Marion streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Jackie Robinson Park",
+  "location" : "West 149 Street & Bradhurst Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Jackie Robinson Park (Playground One Fifty Two CLII)",
+  "location" : "West 152 Street & Bradhurst Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Jackie Robinson Park (Recreation Center)",
+  "location" : "Bradhurst & Edgecombe avenues,West 145 to West 155 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Jackie Robinson Playground",
+  "location" : "Sullivan Place & Franklin Avenue, Montgomery Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Jacob Schiff Playground (PS 192)",
+  "location" : "Amsterdam Avenue, West 136 Street",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "James J. Walker Park (Carmine Recreation Center)",
+  "location" : "Hudson, Leroy, Clarkson Streets, 7 Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Jesse Owens Playground",
+  "location" : "Stuyvesant & Lafayette avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "No",
+  "name" : "John Golden Park",
+  "location" : "215 Place, south of 32 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "John J. Carty Park",
+  "location" : "Fort Hamilton Parkway, 94-95 streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "John Jay Park & Pool",
+  "location" : "East 76-East 78 streets & Cherokee Place",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "John Paul Jones Park",
+  "location" : "Shore Parkway, Fort Hamilton Parkway, 101 Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Joline Pool Playground (Modular Equipment)",
+  "location" : "Joline Avenue, Hylan Boulevard",
+  "borough" : "Staten Island"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "No",
+  "name" : "Joline Pool Playground (Modular Equipment)",
+  "location" : "Joline Avenue, Hylan Boulevard",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Joseph Austin Playground",
+  "location" : "Grand Central Parkway & 164 Place",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Joseph F. Mafera Park",
+  "location" : "65 Place & Catalpa Avenue & 68 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Julio Carballo Field",
+  "location" : "Lafayette Avenue, Manda Street",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Juniper Valley Park",
+  "location" : "Lutheran Avenue; North and South Juniper boulevards; and the pathway from 76th Street on north end to 75th Street on south end",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Juniper Valley Park (North Playground Tennis)",
+  "location" : "62nd Avenue & 80th Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "K.L. Williams Playground (Tennis)",
+  "location" : "Liberty Avenue, 172-173 streets",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Kaiser Park",
+  "location" : "South of Gravesend Bay, southeast of Path, northeast of Neptune Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Katzman Playground",
+  "location" : "Yellowstone Boulevard between 68 Avenue & 68 Road",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Kennedy King Playground",
+  "location" : "East 93 Street & Lenox Road",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Kennedy Playground",
+  "location" : "Corp. Kennedy Street & 33 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Kissena Corridor East (Underhill Playground)",
+  "location" : "Peck Avenue & 188 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Kissena Park",
+  "location" : "Oak Avenue, 104th Street, & Kissena Lake Area",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Kissena Park (Tennis Courts)",
+  "location" : "Rose & Oak avenues",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "La Guardia Playground West",
+  "location" : "Havemeyer, Roebling streets & South 4",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Lawerence Virgilio Playground",
+  "location" : "39 Drive & 54 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Leif Ericson Park & Square",
+  "location" : "CLF behind CS adjacent to 5th Avenue to 7th Avenue(Highway) between 66th and 67th Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Levy Playground",
+  "location" : "Jewett & Castleton avenues",
+  "borough" : "Staten Island"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "Liberty Pool",
+  "location" : "173rd Street and 106th Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Lincoln Terrace Park",
+  "location" : "Buffalo Avenue/Protal Street/New York Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Lincoln Terrace Park (Arthur S. Somers Playground)",
+  "location" : "East New York, Rochester avenues, Eastern Parkway,Buffalo Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Linden Park",
+  "location" : "Stanley Avenue, Linden Boulevard",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Linden Park",
+  "location" : "104 Street & 41 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Lindower Park",
+  "location" : "Mill & Strickland avenues, 60 Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "No",
+  "name" : "Little Flower Playground",
+  "location" : "Madison Street opposite Jefferson Street",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "London Planetree Playground",
+  "location" : "88 Street, Atlantic-95 avenues",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Loreto Park Playground",
+  "location" : "Morris Park Avenue, Haight Avenue, Tomlinson Avenue, Van Nest Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Loring Field",
+  "location" : "North Conduit & 149 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Lost Battalion Hall",
+  "location" : "Queens Boulevard between 62 Avenue & 62 Road",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Lou Lodati Playground",
+  "location" : "Skillman Avenue & 43 Street",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "No",
+  "name" : "Louis Armstrong Playground (PS 143)",
+  "location" : "37 Avenue between 112 & 113 streets",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Louis Pasteur Park",
+  "location" : "248 Street & 51 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Lozada Playground",
+  "location" : "East 135 Street, Willis Avenue, Alexander Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Luna Park Playground",
+  "location" : "West 12 Street & Surf Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "No",
+  "name" : "Lyons Pool",
+  "location" : "Pier 6, Victory Boulevard",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Macombs Dam Park",
+  "location" : "East 161th Street & Ruppert Place",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Magenta Playground",
+  "location" : "Olinville Avenue, Rosewood Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Mahoney Playground",
+  "location" : "Beechwood & Cleveland avenues",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Mapes Pool",
+  "location" : "East 180 Street, Mapes & Prospect avenues",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "No",
+  "name" : "Maple Playground",
+  "location" : "Kissena Boulevard & Maple Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Marble Hill Playground",
+  "location" : "Marble Hill Avenue, West 230 Street, West 228 Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Marconi Park",
+  "location" : "109 Avenue & 155 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Marc's & Jason's Playground",
+  "location" : "Sterling Street & Empire Boulevard",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Marcus Garvey Park (Pelham Fritz Recreation Center)",
+  "location" : "18 Mount Morris Park West",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Marcus Garvey Park (Pool)",
+  "location" : "Madison Avenue, East 120 to East 124 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Maria Hernandez Park",
+  "location" : "Knickerbocker to Irving avenues, Starr to Suydam Streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Marie Curie Park (JHS 158)",
+  "location" : "211 & Oceana streets, 46 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Marine Park",
+  "location" : "Burnett Street between Avenue U and Avenue X/west of East 33rd Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "Marine Park Nature Center",
+  "location" : "East 33rd Street and Avenue U",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Marion-Hopkinson Playground",
+  "location" : "Hopkinson Avenue & Marion Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Markham Playground",
+  "location" : "Willowbrook Parkway, Forest Avenue & Houston Street",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Martin Luther King Houses",
+  "location" : "Lenox Avenue, West 113 to West 114 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Martinez Playground",
+  "location" : "Scholes Street, Graham Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Mathew Muliner Playground",
+  "location" : "Delancy Place, Muliner Avenue, Matthews Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Maurice A. Fitzgerald Playground",
+  "location" : "Atlantic Avenue & 106 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Maurice Park",
+  "location" : "Maurice, Borden, 54 avenues, 63 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "May Matthews Playground",
+  "location" : "West 45 Street between 9 & 10 avenues",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Mazzei Playground",
+  "location" : "Mace Avenue, Williamsbridge Road",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "McCaffrey Playground",
+  "location" : "West 43 Street, 8 & 9 avenues",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "McCarren Park",
+  "location" : "12th Street/Driggs Avenue/Lorimer Street/Bedford Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "McDonald Playground",
+  "location" : "Mcdonald Avenue, between avenues S & T",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "McDonald Playground",
+  "location" : "Forest Avenue, Myrtle Avenue between Broadway & Burgher",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "McKinley Park",
+  "location" : "Fort Hamilton Parkway, 73 to 78 streets, 7 Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "McKinley Playground",
+  "location" : "Avenue A, East 3-East 4 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "McLaughlin Park",
+  "location" : "Tillary Street, Jay Street, Cathedral Place, Bridge Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Mellett Playground",
+  "location" : "Avenue V between East 13 & East 14 streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Metropolitan Pool",
+  "location" : "Southeast corner of Bedford & Metropolitan avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Michaelis-Bayswater Park",
+  "location" : "Beach Channel Drive, B 32 Street, Dwight Avenue, Norton Avenue",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "comments" : "This facility is currently closed",
+  "open_year_round" : "Yes",
+  "name" : "Midland Beach & Boardwalk",
+  "location" : "Natural Area and Boardwalk from Sands Lane to Vulcan Street, East of Father Capodanno Boulevard",
+  "borough" : "Staten Island"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "comments" : "Closed from 7:30 - 3:30p during the schoolyear.",
+  "name" : "Midland Field",
+  "location" : "Midland Avenue & Mason Avenue",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Midland Playground",
+  "location" : "Lincoln & Mason avenues",
+  "borough" : "Staten Island"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Millbrook Playground",
+  "location" : "East 135 Street, Cypress Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Monsignor Mcgolrick Park",
+  "location" : "Driggs to Nassau avenues, Russell to Monitor streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Montbellier Park",
+  "location" : "Springfield Boulevard & 139 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Morningside Park",
+  "location" : "West 123 Street & Morningside Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Morningside Park",
+  "location" : "Athletic Fields and Lawns from 114th Street to 110th Street along Manhattan Avenue, East of Upper Path",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Morningside Playground",
+  "location" : "West 117 Street & Morningside Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Mosholu Playground (PS 8)",
+  "location" : "Mosholu Pkwy, Bainbridge Avenue, Briggs Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Mott Playground",
+  "location" : "Morris Avenue, College Avenue, Mc Clellan Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Msgnr. Kett",
+  "location" : "West 204 Street & Nagle Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Mt. Prospect Park",
+  "location" : "Eastern Parkway, Underhill Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Mullaly Park (Skate Building)",
+  "location" : "East 164 Street, Jerome Avenue, Macombs Dam Bridge, East 162 Street, River Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Murray Playground",
+  "location" : "21 Street, 45 Avenue, 11 Street, 45 Road",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Nautilus Playground",
+  "location" : "Merrick & Baisley boulevards",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Nelson Playground",
+  "location" : "West 166 Street, Nelson Avenue, Woodycrest Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Newport Playground",
+  "location" : "Newport Avenue & Osborn Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Noble Playground",
+  "location" : "Nobel Avenue, Bronx River Avenue, Bronx River Parkway, Cross Bronx Expressway",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Noonan Playground",
+  "location" : "Greenpoint & 47 avenues, 43 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "North Rochdale Playground (PS 30)",
+  "location" : "Baisley Boulevard & Bedell Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Nostrand Playground",
+  "location" : "Nostrand & Foster avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Ocean Hill Playground",
+  "location" : "Bergen Street, Rockaway Avenue, Dean Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Old Town Playground",
+  "location" : "Parkinson Avenue, Kramer Street",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Oracle Playground",
+  "location" : "Adelphi & Myrtle avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Orchard Beach Pavilion",
+  "location" : "Bruckner Boulevard, Eastchester Bay, Hutchinson",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Orchard Beach Pavilion",
+  "location" : "Bruckner Boulevard, Eastchester Bay, Hutchinson",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Orville & Wilbur Playground",
+  "location" : "West 156 Street & St. Nicholas Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Osborn Playground",
+  "location" : "Linden Boulevard & Osborn Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Owen Dolen Recreation Center",
+  "location" : "Westchester Avenue, Lane Avenue, East Tremont Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "P.O. Nicholas Demutis Playground",
+  "location" : "102 Street & Liberty Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "P.O. Serrano Playground",
+  "location" : "Turnbull Avenue, Olmstead Avenue, Lafayette Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Paerdegat Park",
+  "location" : "Foster Avenue, East 40-41 streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Painters Playground (PS 174)",
+  "location" : "Alderton Street from Dieterle to Elwell Crescents",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Park Slope Playground",
+  "location" : "Berkeley Street & Lincoln Place",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Parkside Playground",
+  "location" : "Arnow Avenue, Adee Avenue, Olinville Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Parkside Playground",
+  "location" : "Parkside, Bedford & Rogers avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "comments" : "This facility is currently closed. ",
+  "open_year_round" : "Yes",
+  "name" : "Pat Perlato Playground",
+  "location" : "Falmouth Street & Oriental Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Paul W. Kolbert Park/Rachel Haber Cohen Playground",
+  "location" : "Avenue L, East 17 to East 18 streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Pelham Bay Park (Bruckner Boulevard and Wilkinson Avenue)",
+  "location" : "Bruckner Boulevard, Eastchester Bay, Hutchinson",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Pelham Bay Park (Bruckner CS)",
+  "location" : "Bruckner Boulevard, Eastchester Bay, Hutchinson",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Pelham Bay Park (Hunter Island Picnic Area)",
+  "location" : "Bruckner Boulevard, Eastchester Bay, Hutchinson",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Pelham Bay Park (Playground for All Children)",
+  "location" : "Bruckner Expressway & Buhre Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Pelham South Park Headquarters",
+  "location" : "Bruckner Boulevard, Eastchester Bay, Hutchinson",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "People's Park Playground",
+  "location" : "Brook Avenue, East 141 Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Peter's Field",
+  "location" : "183 Place & Henderson Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "PFC Thomas Norton Memorial Playground",
+  "location" : "Nostrand Avenue & Marine Parkway",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Pierrepont Playground",
+  "location" : "Furman Street, Pierrepont Place",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Pink Playground",
+  "location" : "Stanley Avenue & Eldert Lane",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Playground 62 (PS 220)",
+  "location" : "Yellowstone Boulevard between 62 Avenue & 62 Road",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Playground 70",
+  "location" : "West End Avenue & West 70 Street",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Playground 90/PS 148 Playground",
+  "location" : "Northern Boulevard & 90 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Playground Fifty-Two",
+  "location" : "Kelly Street, St. John's Avenue, Beck Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Playground Ninety Six (XCVI)",
+  "location" : "2 Avenue, East 96 to East 97 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Playground Seventy-Five (PS 154)",
+  "location" : "160 Street & 75 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Police Officer Reinaldo Salgado Playground",
+  "location" : "Madison Street & Patchen Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Poor Richard's Playground",
+  "location" : "East 109 Street between 2 & 3 avenues",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Potomac Playground",
+  "location" : "Tompkins Avenue & Halsey Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Pratt Playground",
+  "location" : "Willoughby Avenue, Emerson Place",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Prescott Playground",
+  "location" : "Hylan Boulevard & Huguenot Avenue",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Prospect Park (East Parade Grounds)",
+  "location" : "Argyle Road/Parade Place./Parkside Avenue/Caton Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Prospect Park (Litchfield Villa)",
+  "location" : "Prospect Park West/3rd Street/7th Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Prospect Park (Middle Long Meadow)",
+  "location" : "Picnic House",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Prospect Park (The Bandshell)",
+  "location" : "Prospect Park West/7th Street/15th Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Prospect Park (West Parade Grounds)",
+  "location" : "Coney Island Avenue/Arglye Road/Parkside Avenue/Caton Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Prospect Park (Willink Hill)",
+  "location" : "Lincoln Road/Ocean Avenue/Willink Entrance/East Lake Drive",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Prospect Park (Willink Hill)",
+  "location" : "Lincoln Road/Ocean Avenue/Willink Entrance/East Lake Drive",
+  "borough" : "Brooklyn"
+}
+, {
+  "name" : "Prospect Park (Wollman Rink & Flower Garden)",
+  "location" : "Prospect Lake/East Lake Drive/south of Breeze Hill/Parking Lot",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "PS 1 Playground",
+  "location" : "46 & 47 streets, 3 Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "PS 155 Playground",
+  "location" : "East 117 to East 118 streets, 1 to 2 avenues",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "PS 286 Playground",
+  "location" : "Avenue Y, between Brown & Haring streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "PS 59 Sumner Playground",
+  "location" : "Throop, Park, Mytrle avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "No",
+  "name" : "Quarry Ballfields",
+  "location" : "Quarry Road, East 181 Street, Oak Place & Hughes Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Queens Farm Museum",
+  "location" : "Little Neck Parkway, Commonwealth Boulevard, south of Grand Central Parkway",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Queensbridge Park",
+  "location" : "21 Street, Bridge Plaza, Vernon Boulevard, East River",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Railroad Playground",
+  "location" : "Ditmas Avenue between East 91 & East 92 streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Rainey Park",
+  "location" : "Dawson Street, Beck Street, Kelly Street, Intervale Avenue, Longwood Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Rainey Park",
+  "location" : "Vernon Boulevard, 33 Road, 34 Street, East River",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Randall Playground",
+  "location" : "Randall Avenue, Castle Hill Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Rappaport Playground",
+  "location" : "52-53 streets, Fort Hamilton Parkway",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Real Good Park (Lie Playground)",
+  "location" : "LIE, 99 Street & 62 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Red Hook Park",
+  "location" : "Otsego, Bay, Hicks, Lorraine, Court, Halleck streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Red Hook Park",
+  "location" : "Columbia and Bay streets, southeast of \"Halleck Street\" Sidewalk and northeast of \"Henry Street\" Sidewalk",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Red Hook Park (Coffey Park Playground)",
+  "location" : "King, Richards, & Dwight Streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Red Hook Park (Recreation Center)",
+  "location" : "Otsego, Bay, Hicks, Lorraine, Court, Halleck streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Reiff Playground",
+  "location" : "Fresh Pond Road, 63 Street, 59 Drive",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Renaissance Playground",
+  "location" : "West 144 Street, between 7 & 8 avenues",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Rev. Polite Playground",
+  "location" : "Rev. James Polite Avenue, Intervale Avenue, East 167 Street",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Richman (Echo) Park Playground",
+  "location" : "East 178 Street & Ryer Avenue, Upper Level",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Rienzi Playground",
+  "location" : "East 226 Street, Barnes Avenue, East 225 Street",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Riverbend Playground",
+  "location" : "Bailey Avenue, West Kingsbridge Road",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Riverside Park (Boat Basin)",
+  "location" : "Riverside Drive to Hudson River, West 59th Street to Clair Place",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "No",
+  "name" : "Riverside Park (Café)",
+  "location" : "105th Street, next to Henry Hudson Parkway",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Riverside Park (Claremont)",
+  "location" : "West 124 Street & Riverside Drive",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Riverside Park (Classic Playground)",
+  "location" : "72nd to 79th streets between Hudson River and Henry Hudson Parkway",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Riverside Park (Dinosaur Playground)",
+  "location" : "West 97 Street & Riverside Drive",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Riverside Park (Hippo Playground)",
+  "location" : "West 91 Street & Riverside Drive",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Riverside Park (Neufeld Playground)",
+  "location" : "West 76 Street & Riverside Drive",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Riverside Park (River Run Playground)",
+  "location" : "West 83 Street & Riverside Drive",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Riverside Park (Riverbank Playground)",
+  "location" : "West 142 Street & Riverside Drive",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Riverside Park (Ten Mile River Playground)",
+  "location" : "West 148 Street & Hudson River",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Riverside Park (Tennis Courts)",
+  "location" : "Riverside Drive & West 96th Street",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Robert Moses Playground",
+  "location" : "1 Avenue, East 41 to East 42 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Rochdale Park",
+  "location" : "Guy Brewer Boulevard, 134 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Rockaway Beach",
+  "location" : "Between 87th Street and 100th Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Rockaway Beach",
+  "location" : "Between 100th Street and 110th Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Rockaway Beach & Boardwalk (Beach 59th Street Playground)",
+  "location" : "Boardwalk & Beach 59-60 streets",
+  "borough" : "Queens"
+}
+, {
+  "comments" : "This facility is currently closed",
+  "open_year_round" : "Yes",
+  "name" : "Rockaway Beach (Beach 116Th)",
+  "location" : "Between 110th and 121st streets",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "Rockaway Beach 106 Comfort Station",
+  "location" : "Beach 106 Street",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "Rockaway Beach 117th L/G",
+  "location" : "Beach 117 Street",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "Rockaway Beach 86 Comfort Station",
+  "location" : "Beach 86 Street",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "Rockaway Beach 97 Comfort Station",
+  "location" : "Beach 97 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Rodney Playground South",
+  "location" : "Rodney, South 3 & South 4 streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Roebling Playground",
+  "location" : "Wilson & Lee avenues, Taylor Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Roger Morris Park (Morris Jumel Mansion)",
+  "location" : "Jumel Terrace to Edgecombe Avenue, West 160 to West 162 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Rolf Henry Playground",
+  "location" : "New York & Clarkson avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Rose Hill Park",
+  "location" : "Webster Avenue, Harlem River, East Fordham Road",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Rosemary's Playground (JHS 93)",
+  "location" : "Woodward Avenue, Woodbine Street, Fairview Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Roy Wilkins Recreation Center",
+  "location" : "Northwest of fence running from 118th Road to hospital",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Roy Wilkins Recreation Center",
+  "location" : "Southeast of fence running from 118th Road to hospital",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Rudd Playground",
+  "location" : "Aberdeen Street & Bushwick Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Rufus King Park",
+  "location" : "Jamaica Avenue, 153 Street, 89 Avenue, 150 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Russell Pederson Playground",
+  "location" : "Colonial Road, 83 to 85 streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Russell Sage Playground (JHS 190)",
+  "location" : "68 Avenue, Booth to Austin streets",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Sara D. Roosevelt Park",
+  "location" : "East Houston Street to Canal Street",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Saratoga Square Park",
+  "location" : "Howard Avenue, Halsey, Macon streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Schmul Park",
+  "location" : "Wild Avenue, Pearson Street",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Seaside Playground (PS 225)",
+  "location" : "Rockaway Beach Boulevard, B109-B110 streets",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Seth Low Playground",
+  "location" : "Avenue P, Bay Parkway, West 12 Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Seton Park",
+  "location" : "West 135 Street, Independence Avenue, West 232 Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Seton Park Playground",
+  "location" : "West 235 Street & Douglas Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Sheltering Arms Park",
+  "location" : "West 129 Street, Amsterdam Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Sheltering Arms Park (Pool)",
+  "location" : "West 129 Street, Amsterdam Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Shore Road Park",
+  "location" : "Owl's Head Park to Fort Hamilton Parkway Narrows Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Shore Road Park",
+  "location" : "72nd Street to Harbor View",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Shore Road Park",
+  "location" : "92nd Street to 4 Avenue - lower half, by expressway",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Shore Road Park",
+  "location" : "92nd Street to 4 Avenue - upper half, by road",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Silver Lake Park",
+  "location" : "Victory Boulevard, Clove Road, Forest Avenue",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Slattery Playground",
+  "location" : "East 183 Street, Ryer Avenue, Valentine Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Slope Park",
+  "location" : "6 Avenue Bet 18 & 19 Sts",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Smokey Oval",
+  "location" : "125 Street & Atlantic Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Sol Bloom Playground",
+  "location" : "Columbus Avenue, West 91 to West 92 streets, Central Park West",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Sol Lain Playground",
+  "location" : "Broadway, Henry Street, Samuel Dickstein Place",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Soundview Park Playground",
+  "location" : "Metcalf Avenue between Seward and Randall avenues",
+  "borough" : "Bronx"
+}
+, {
+  "comments" : "This facility is currently closed",
+  "open_year_round" : "Yes",
+  "name" : "South Beach",
+  "location" : "Natural Area and Boardwalk from Sands Lane to Vulcan Street, East of Father Capodanno Boulevard",
+  "borough" : "Staten Island"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "comments" : "This facility is currently closed",
+  "open_year_round" : "Yes",
+  "name" : "South Beach (Saturn Playground)",
+  "location" : "Natural Area and Boardwalk from Sands Lane to Vulcan Street, East of Father Capodanno Boulevard",
+  "borough" : "Staten Island"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "South Beach Wetlands",
+  "location" : "Quintard St Bet. Quincy Ave & Father Capodanno Blvd",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Space Time Playground",
+  "location" : "Streetory Avenue, Bolton Avenue, Lafayette Avenue, Underhill Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Sperandeo Brothers Playground",
+  "location" : "Atlantic Avenue & Elton Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Springfield Park",
+  "location" : "149 Avenue, Springfield Boulevard, 145 Road, 148 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "St Nicholas Park South",
+  "location" : "West 129 & 7 Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "St. Albans Park (174 Street Playground)",
+  "location" : "174 Street & 113 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "St. Andrew's Playground",
+  "location" : "Atlantic Avenue & Herkimer Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "St. Catherine's Park",
+  "location" : "East 67-68 streets, 1 Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "St. Mary's Park (Recreation Center)",
+  "location" : "450 St. Ann's Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "St. Mary's Park West",
+  "location" : "St. Anns Avenue & East 147 Street",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "St. Mary's Playground East Playground",
+  "location" : "Jackson Avenue between East 144 and 145 streets",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "St. Nicholas Park",
+  "location" : "West 133 Street & St. Nicholas Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "St. Nicholas Park",
+  "location" : "West 129 Street & St. Nicholas Terrace",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "St. Nicholas Park (Arlington Edinboro Playground)",
+  "location" : "West 140 Street & St. Nicholas Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "St. Vartan Park",
+  "location" : "East 35-East 36 streets, between 1 & 2 avenues",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Stanley Isaacs",
+  "location" : "East 96-97 streets & FDR Drive",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Stapleton Playground",
+  "location" : "Tompkins Avenue & Broad Street",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Star Spangled Banner Playground",
+  "location" : "Franklin & Willoughby avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Stars & Stripes Playground",
+  "location" : "Baychester Avenue, Crawford Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Sternberg Park",
+  "location" : "Montrose Avenue, Boerum, Lorimer, Leonard streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Stockton Playground",
+  "location" : "Marcy & Park avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Stroud Playground",
+  "location" : "Classon Avenue & Sterling Place",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Sunset Park",
+  "location" : "41 to 44 streets, 5 to 7 avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Sunset Park (Recreation Center)",
+  "location" : "41 to 44 streets, 5 to 7 avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Surf Playground",
+  "location" : "West 27 Street & Surf Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Tall Oak Playground",
+  "location" : "64 Avenue, 218 & 219 streets",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Taylor Playground",
+  "location" : "Guerlain Street, Thieriot Avenue, Taylor Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Tecumseh Playground",
+  "location" : "West 77 Street & Amsterdam Avenue",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Terrace Playground",
+  "location" : "Howard Avenue & Martha Street",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "The Pearly Gates",
+  "location" : "Tratman Avenue, Street Peter's Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Thomas Jefferson Park",
+  "location" : "1 Avenue to FDR Drive, East 111 to East 114 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Tiffany Playground",
+  "location" : "Tiffany Street, Fox Street, East 167 Street",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Tiger Playground",
+  "location" : "Evergreen Avenue & Eldert Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Tilden Playground",
+  "location" : "Tilden Avenue, East 48 to East 49 streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Todt Hill Playground",
+  "location" : "Schmidts Lane & Manor Road",
+  "borough" : "Staten Island"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Tompkins Square Park",
+  "location" : "Avenues A to B, East 7 to East 10 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Tremont Park Playground",
+  "location" : "Corner of East 175 Street & Arthur Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Triborough Bridge Playground A",
+  "location" : "Hoyt Avenue, 19 to 21 streets",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Triborough Bridge Playground B",
+  "location" : "Hoyt Avenue, 21 to 23 streets",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Underhill Playground",
+  "location" : "Underhill Avenue & Prospect Place",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Underwood Park",
+  "location" : "Lafayette & Waverly avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Union Playground (PS 214)",
+  "location" : "Union Street & 31 Road",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Union Square Park",
+  "location" : "Broadway to 4 Avenue, East 14 Street to East 17 streets",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Van Cortlandt Park (Allen Shandler Recreation Area)",
+  "location" : "Broadway, Jerome Avenue, City Line, Van Cortlandt Park South",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Van Cortlandt Park (Classic Playground)",
+  "location" : "Van Cortlandt Park South and Gouverneur Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Van Cortlandt Park (Indian Field)",
+  "location" : "Broadway, Jerome Avenue, City Line, Van Cortlandt Park South",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Van Cortlandt Park (Nature Center)",
+  "location" : "West 239 Street & Van Cortlandt East",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Van Cortlandt Park (Pool Building)",
+  "location" : "West 242nd Street & Broadway",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Van Cortlandt Park (Stables Area)",
+  "location" : "Broadway and West 254th Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Van Cortlandt Park (Stadium)",
+  "location" : "Broadway, Jerome Avenue, City Line, Van Cortlandt Park South",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Van Cortlandt Park (UC Pool Headquarters)",
+  "location" : "Broadway, Jerome Avenue, City Line, Van Cortlandt Park South",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Van Cortlandt Park (UC Pool Men's Locker)",
+  "location" : "West 242nd Street & Broadway",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Van Cortlandt Park (Woodlawn Playground)",
+  "location" : "West 239 Street & Van Cortlandt East",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Van Voorhees Lower Park",
+  "location" : "Congress, Columbia, West/South BQE",
+  "borough" : "Brooklyn"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Vesuvio Playground",
+  "location" : "Spring & Thompson streets",
+  "borough" : "Manhattan"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "No",
+  "name" : "Vidalia Park",
+  "location" : "Vyse & Daly avenues between West 179-180 streets",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Vinmont Veteran Playground",
+  "location" : "Mosholu Avenue, West 254 Street, Riverdale Avenue, West 256 Street",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Virginia Playground",
+  "location" : "Virginia Avenue, McGraw Avenue, Cross Bronx Expressway, White Plains Road",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Vleigh Place Playground",
+  "location" : "Vleigh Place & 141 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Vleigh Playground (PS 165)",
+  "location" : "70 Road to 71 Avenue",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Wagner Pool",
+  "location" : "East 124 Street between 1 & 2 Avenues",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Wakefield Playground",
+  "location" : "Matilda Avenue, East 239 Street, Carpenter Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Washington Hall Playground",
+  "location" : "Park, Washington avenues to Hall Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Washington Square Park Western Half",
+  "location" : "5 Avenue, Waverly Place, West 4 & MacDougal streets.",
+  "borough" : "Manhattan"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Watson Gleason Playground",
+  "location" : "Gleason Avenue, Rosedale Avenue, Watson Avenue, Nobel Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Wayanda Park",
+  "location" : "Robard Lane & 217 Street",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "name" : "Webster Playground",
+  "location" : "E. 188 St. Bet. Webster Ave. And Park Ave.",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Weeping Beech Park",
+  "location" : "37 Avenue & Bowne Street",
+  "borough" : "Queens"
+}
+, {
+  "name" : "West 2nd Street Comfort Station",
+  "location" : "W. 2nd Street",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "West 59th Street Recreation Center & Pool",
+  "location" : "West 59 to West 60 streets, Amsterdam to West End avenues",
+  "borough" : "Manhattan"
+}
+, {
+  "name" : "West 8nd Street CS",
+  "location" : "W 8 St.",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Whitestone Playground (PS 193)",
+  "location" : "12 Avenue & 153 Street",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "William E. Kelly Memorial Park",
+  "location" : "Avenue S, East 14 & East 15 streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "William Sheridan Playground",
+  "location" : "Wythe Avenue, Berry & Grand streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Williamsbridge Oval",
+  "location" : "Reservoir Oval East, Reservoir Oval West, Reservoir Place, Putnam Place, Bainbridge Avenue, Wayne Avenue, Tryon Avenue, Holt Place, Van Cortlandt Avenue",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Willis Playground",
+  "location" : "East 139 Street, East 140 Street, Willis & Alexander avenues",
+  "borough" : "Bronx"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Willoughby Playground",
+  "location" : "Tompkins & Willoughby avenues",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Willow Lake Playground (PS 196)",
+  "location" : "Grand Central Parkway between 71 & 72 avenues",
+  "borough" : "Queens"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Willowbrook Park",
+  "location" : "Richmond Avenue To Victory Boulevard",
+  "borough" : "Staten Island"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Wingate Park",
+  "location" : "Brooklyn Avenue & Rutland Road",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Woods Playground",
+  "location" : "Bergen Street & Utica Avenue",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "Yes",
+  "name" : "Woodtree Playground",
+  "location" : "20 Avenue, 37 Street, 38 Street",
+  "borough" : "Queens"
+}
+, {
+  "handicap_accessible" : "Yes",
+  "open_year_round" : "Yes",
+  "name" : "Yak Playground",
+  "location" : "Avenue Y between Coyle & Batchelder streets",
+  "borough" : "Brooklyn"
+}
+, {
+  "open_year_round" : "No",
+  "name" : "Zimmerman Playground",
+  "location" : "Britton Street, Barker Avenue, Olinville Avenue",
+  "borough" : "Bronx"
+}
+ ]

@@ -1,0 +1,163 @@
+[ {
+  "_maximum_sale_price_" : "50000000",
+  "_minimum_sale_price_" : "300000",
+  "_average_sale_price_" : "7383111",
+  "building_class_category" : "01 ONE FAMILY HOMES",
+  "borough" : "1",
+  "_number_of_sales_" : "102",
+  "_median_sale_price_" : "4925000"
+}
+, {
+  "_maximum_sale_price_" : "19075000",
+  "_minimum_sale_price_" : "200000",
+  "_average_sale_price_" : "4126525",
+  "building_class_category" : "02 TWO FAMILY HOMES",
+  "borough" : "1",
+  "_number_of_sales_" : "104",
+  "_median_sale_price_" : "3185000"
+}
+, {
+  "_maximum_sale_price_" : "14400000",
+  "_minimum_sale_price_" : "250000",
+  "_average_sale_price_" : "2748050",
+  "building_class_category" : "03 THREE FAMILY HOMES",
+  "borough" : "1",
+  "_number_of_sales_" : "50",
+  "_median_sale_price_" : "1520208"
+}
+, {
+  "_maximum_sale_price_" : "4500000",
+  "_minimum_sale_price_" : "150000",
+  "_average_sale_price_" : "451970",
+  "building_class_category" : "01 ONE FAMILY HOMES",
+  "borough" : "2",
+  "_number_of_sales_" : "942",
+  "_median_sale_price_" : "420000"
+}
+, {
+  "_maximum_sale_price_" : "1400000",
+  "_minimum_sale_price_" : "150000",
+  "_average_sale_price_" : "517028",
+  "building_class_category" : "02 TWO FAMILY HOMES",
+  "borough" : "2",
+  "_number_of_sales_" : "1378",
+  "_median_sale_price_" : "520060"
+}
+, {
+  "_maximum_sale_price_" : "10691871",
+  "_minimum_sale_price_" : "150000",
+  "_average_sale_price_" : "603445",
+  "building_class_category" : "03 THREE FAMILY HOMES",
+  "borough" : "2",
+  "_number_of_sales_" : "627",
+  "_median_sale_price_" : "600000"
+}
+, {
+  "_maximum_sale_price_" : "10000000",
+  "_minimum_sale_price_" : "150000",
+  "_average_sale_price_" : "645548",
+  "building_class_category" : "01 ONE FAMILY HOMES",
+  "borough" : "3",
+  "_number_of_sales_" : "2280",
+  "_median_sale_price_" : "520000"
+}
+, {
+  "_maximum_sale_price_" : "8000000",
+  "_minimum_sale_price_" : "150000",
+  "_average_sale_price_" : "688668",
+  "building_class_category" : "02 TWO FAMILY HOMES",
+  "borough" : "3",
+  "_number_of_sales_" : "4063",
+  "_median_sale_price_" : "624500"
+}
+, {
+  "_maximum_sale_price_" : "3500000",
+  "_minimum_sale_price_" : "150000",
+  "_average_sale_price_" : "744142",
+  "building_class_category" : "03 THREE FAMILY HOMES",
+  "borough" : "3",
+  "_number_of_sales_" : "1518",
+  "_median_sale_price_" : "712888"
+}
+, {
+  "_maximum_sale_price_" : "5300000",
+  "_minimum_sale_price_" : "150000",
+  "_average_sale_price_" : "547530",
+  "building_class_category" : "01 ONE FAMILY HOMES",
+  "borough" : "4",
+  "_number_of_sales_" : "6794",
+  "_median_sale_price_" : "500000"
+}
+, {
+  "_maximum_sale_price_" : "3564000",
+  "_minimum_sale_price_" : "150000",
+  "_average_sale_price_" : "637563",
+  "building_class_category" : "02 TWO FAMILY HOMES",
+  "borough" : "4",
+  "_number_of_sales_" : "4379",
+  "_median_sale_price_" : "630000"
+}
+, {
+  "_maximum_sale_price_" : "2885000",
+  "_minimum_sale_price_" : "150000",
+  "_average_sale_price_" : "775309",
+  "building_class_category" : "03 THREE FAMILY HOMES",
+  "borough" : "4",
+  "_number_of_sales_" : "1007",
+  "_median_sale_price_" : "789143"
+}
+, {
+  "_maximum_sale_price_" : "35000000",
+  "_minimum_sale_price_" : "150000",
+  "_average_sale_price_" : "468604",
+  "building_class_category" : "01 ONE FAMILY HOMES",
+  "borough" : "5",
+  "_number_of_sales_" : "3176",
+  "_median_sale_price_" : "418741"
+}
+, {
+  "_maximum_sale_price_" : "49000000",
+  "_minimum_sale_price_" : "150000",
+  "_average_sale_price_" : "581875",
+  "building_class_category" : "02 TWO FAMILY HOMES",
+  "borough" : "5",
+  "_number_of_sales_" : "1191",
+  "_median_sale_price_" : "520000"
+}
+, {
+  "_maximum_sale_price_" : "930000",
+  "_minimum_sale_price_" : "275000",
+  "_average_sale_price_" : "498723",
+  "building_class_category" : "03 THREE FAMILY HOMES",
+  "borough" : "5",
+  "_number_of_sales_" : "42",
+  "_median_sale_price_" : "487490"
+}
+, {
+  "_maximum_sale_price_" : "50000000",
+  "_minimum_sale_price_" : "150000",
+  "_average_sale_price_" : "591160",
+  "building_class_category" : "01 ONE FAMILY HOMES",
+  "borough" : "CITYWIDE",
+  "_number_of_sales_" : "13294",
+  "_median_sale_price_" : "475713"
+}
+, {
+  "_maximum_sale_price_" : "49000000",
+  "_minimum_sale_price_" : "150000",
+  "_average_sale_price_" : "667978",
+  "building_class_category" : "02 TWO FAMILY HOMES",
+  "borough" : "CITYWIDE",
+  "_number_of_sales_" : "11115",
+  "_median_sale_price_" : "600000"
+}
+, {
+  "_maximum_sale_price_" : "14400000",
+  "_minimum_sale_price_" : "150000",
+  "_average_sale_price_" : "754332",
+  "building_class_category" : "03 THREE FAMILY HOMES",
+  "borough" : "CITYWIDE",
+  "_number_of_sales_" : "3244",
+  "_median_sale_price_" : "700000"
+}
+ ]

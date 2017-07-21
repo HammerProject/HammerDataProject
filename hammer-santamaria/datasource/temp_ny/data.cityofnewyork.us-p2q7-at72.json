@@ -1,0 +1,241 @@
+[ {
+  "epp_product_type_s" : "Roof Coating",
+  "registration_date" : "2015-02-09T00:00:00",
+  "agency" : "DCAS",
+  "contract_description" : "Roof replacement and repair for DCAS bldgns in Bklyn,Qns,SI.",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "1000000"
+}
+, {
+  "epp_product_type_s" : "Carpet, Carpet Adhesive, Architectural Coatings,  ",
+  "registration_date" : "2015-02-24T00:00:00",
+  "agency" : "DCAS",
+  "contract_description" : "GC WORK IN THE BOROUGHS OF BKLYN, QUEENS, AND STATEN ISLAND GC CONTRACT WITH CONTRACT & HOSPITALITY SERVICES",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "3000000"
+}
+, {
+  "epp_product_type_s" : "Carpet, Carpet Adhesive, Architectural Coatings,  ",
+  "registration_date" : "2015-03-19T00:00:00",
+  "agency" : "DCAS",
+  "contract_description" : "CONTRACT WITH CONTRACT & HOSPITALITY SERVICES GC WORK IN THE BOROUGHS OF MANHATTAN & BRONX",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "3000000"
+}
+, {
+  "epp_product_type_s" : "Energy Star Products, Faucets, Showerheads, Toilets/Urinals, Fluorescent Tube Lamps, Fluorescent Ballast, Downlight Luminaire, Architectural Coatings",
+  "registration_date" : "2014-08-19T00:00:00",
+  "agency" : "DDC",
+  "contract_description" : "Rehabilitation and upgrade of DEP shaft maintenance building EP6-KENT2",
+  "products_meets_epp_minimum_standards_y_n" : "No",
+  "contract_value" : "16976962"
+}
+, {
+  "epp_product_type_s" : "Energy Star Products, Faucets, Shower Heads, Toilets/Urinals, Fluorescent Tube Lamps, Fluorescent Ballast, Downlight Luminaire, Architectural Coatings",
+  "registration_date" : "2015-05-01T00:00:00",
+  "agency" : "DDC",
+  "contract_description" : "Refurbishment of the West 59th Street Marine Transfer Statin S216-415A2",
+  "products_meets_epp_minimum_standards_y_n" : "No",
+  "contract_value" : "46035715"
+}
+, {
+  "epp_product_type_s" : "Fluorescent Lamps, Fluorescent Ballast, Compact Fluorescent Lamps",
+  "registration_date" : "2014-09-22T00:00:00",
+  "agency" : "DHS",
+  "contract_description" : "LIFE SAFETY UPGRADE AT THE REGENT FAMILY RESIDENCE",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "1872936"
+}
+, {
+  "epp_product_type_s" : "Energy Star Products",
+  "registration_date" : "2014-09-02T00:00:00",
+  "agency" : "DHS",
+  "contract_description" : "UNIVERSITY AVENUE FAMILY RESIDENCE EXTERIOR ENVELOPE RESTORATION",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "918490"
+}
+, {
+  "epp_product_type_s" : "Architectural Coatings",
+  "registration_date" : "2014-09-19T00:00:00",
+  "agency" : "DHS",
+  "contract_description" : "SEWER LINE REPLACEMENT 22 EAST 119 ST NYC",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "864000"
+}
+, {
+  "epp_product_type_s" : "Faucets, Fluorescent Tube Lamps, Fluorescent Ballast, Industrial HD Luminaire, Downlight Luminaire, Architectural Coatings",
+  "registration_date" : "2015-05-22T00:00:00",
+  "agency" : "DEP",
+  "contract_description" : "Schoharie Reservoir Low Level Outlet, Upstate New York CAT-212C",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "142636000"
+}
+, {
+  "epp_product_type_s" : "Energy Star Products, Faucets, Toilets/Urinals",
+  "registration_date" : "2015-01-14T00:00:00",
+  "agency" : "DHS",
+  "contract_description" : "On-Call Plumbing, Citywide",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "8600000"
+}
+, {
+  "epp_product_type_s" : "Energy Star Products",
+  "registration_date" : "2015-04-16T00:00:00",
+  "agency" : "DHS",
+  "contract_description" : "Water Tank Replacement at Bellevue Men's Residence",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "175000"
+}
+, {
+  "epp_product_type_s" : "Energy Star Products, Faucets, Toilets/Urinals, Fluorescent Tube Lamps, Fluorescent Ballast, Fluorescent Luminaire, Architectural Coatings",
+  "registration_date" : "2014-07-11T00:00:00",
+  "agency" : "DPR",
+  "contract_description" : "B109-112M Recon Comfort Station in Bill Brown Park, Bklyn. Reconstr Comfort Station in Bill Brown Park, Bklyn",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "1930000"
+}
+, {
+  "epp_product_type_s" : "Energy Star Products",
+  "registration_date" : "2014-12-11T00:00:00",
+  "agency" : "DPR",
+  "contract_description" : "Reconst of Pelham Fritz Rec Ctr Boilers & Heating Syst M058-112MA Pelham Fritz Rec Ctr, Manhattan",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "667056"
+}
+, {
+  "epp_product_type_s" : "Energy Star Products",
+  "registration_date" : "2015-01-14T00:00:00",
+  "agency" : "DPR",
+  "contract_description" : "Reconst of Boiler & Pool Dehumid.Syst. @Asser Levy Bathhouse M164-213M Asser Levy, Borough of Manhattan",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "1381449"
+}
+, {
+  "epp_product_type_s" : "Energy Star Products, Faucets, Showerheads, Toilets/Urinals, Fluorescent Tube Lamps, Fluorescent Ballast, Industrial HD Luminaire, Dowlight Luminaire, Fluorescent Luminaire, Compact Fluorescent Lamps, Carpet, Carpet Cushions, Carpet Adhesive, Architectural Coatings, Roof Coating, Painting",
+  "registration_date" : "2015-02-18T00:00:00",
+  "agency" : "DPR",
+  "contract_description" : "RECONSTRUCTION OF THE OLMSTED CENTER Q099-808MA1",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "15190157"
+}
+, {
+  "epp_product_type_s" : "Energy Star Products",
+  "registration_date" : "2015-02-23T00:00:00",
+  "agency" : "DPR",
+  "contract_description" : "CNYG-1014M Rec of plumbing and HVAC in connection with comfo Rec of plumbing and HVAC in connection with Comfort station",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "670175"
+}
+, {
+  "epp_product_type_s" : "Energy Star Products",
+  "registration_date" : "2015-03-19T00:00:00",
+  "agency" : "DPR",
+  "contract_description" : "R017-309MA1-RECONSTRUCTION OF THE HEATING SYSTEM FOR PORTION RECONST HVAC PORTION OF GREENBELT NATIVE PLANT CENTER",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "337116"
+}
+, {
+  "epp_product_type_s" : "Energy Star Products, Faucets, Shower Heads, Toilets/Urinals, Architectural Coatings",
+  "registration_date" : "2015-03-13T00:00:00",
+  "agency" : "DPR",
+  "contract_description" : "RECONST OF PLUMBING SYSTEMS FOR VARIOUS POOLS, CITYWIDE CNYG-714M CITYWIDE RECONST PLUMBING SYSTEMS",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "564933"
+}
+, {
+  "epp_product_type_s" : "Energy Star Products, Faucets, Toilets/Urinals, Fluorescent Tube Lamps, Fluorescent Ballast, Architectural Coatings",
+  "registration_date" : "2015-05-20T00:00:00",
+  "agency" : "DPR",
+  "contract_description" : "RECON OF REC BUILDING IN DANIEL M. O'CONNELL PLYGRD. Q106-113M",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "1121767"
+}
+, {
+  "epp_product_type_s" : "Architectural Coatings",
+  "registration_date" : "2014-12-19T00:00:00",
+  "agency" : "DSNY",
+  "contract_description" : "ROOF RECONSTRUCTION AT QUEENS 8/10/12 GARAGE FACILITY GRAYSTONE CONSTRUCTION MGT LLC.",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "1785000"
+}
+, {
+  "epp_product_type_s" : "Painting",
+  "registration_date" : "2015-02-02T00:00:00",
+  "agency" : "DSNY",
+  "contract_description" : "REPLACEMENT OF ROLL-UP DOORS GRILLE AND MASONRY WORK AT CRS",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "273530"
+}
+, {
+  "epp_product_type_s" : "Energy Star Products, Architectural Coatings",
+  "registration_date" : "2015-03-12T00:00:00",
+  "agency" : "DSNY",
+  "contract_description" : "ROOF RECONSTRUCTION BRONX 9&10 GARAGE FACILITY",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "1385000"
+}
+, {
+  "epp_product_type_s" : "Energy Star Products",
+  "registration_date" : "2014-10-03T00:00:00",
+  "agency" : "FDNY",
+  "contract_description" : "GC SERVICES FOR THE BOROUGHS OF BRONX, MANHATTAN & QUEENS",
+  "products_meets_epp_minimum_standards_y_n" : "No",
+  "contract_value" : "24793710"
+}
+, {
+  "epp_product_type_s" : "Energy Star Products",
+  "registration_date" : "2014-10-03T00:00:00",
+  "agency" : "FDNY",
+  "contract_description" : "GC FOR FACILITIES LOCATED IN THE BOROUGHS OF BROOKLYN & SI",
+  "products_meets_epp_minimum_standards_y_n" : "No",
+  "contract_value" : "21415580"
+}
+, {
+  "epp_product_type_s" : "Energy Star Products",
+  "registration_date" : "2015-06-08T00:00:00",
+  "agency" : "FDNY",
+  "contract_description" : "ABOVEGROUND STORAGE TANKS, GASOLINE AND DIESEL PUMBP-INSP,MA",
+  "products_meets_epp_minimum_standards_y_n" : "No",
+  "contract_value" : "1079000"
+}
+, {
+  "epp_product_type_s" : "Architectural Coatings",
+  "registration_date" : "2014-09-29T00:00:00",
+  "agency" : "NYPD",
+  "contract_description" : "Lead Removal and Repainting at the Bronx Task Force 14897",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "119070"
+}
+, {
+  "epp_product_type_s" : "Architectural Coatings",
+  "registration_date" : "2015-04-24T00:00:00",
+  "agency" : "NYPD",
+  "contract_description" : "14950 Rehabi & Modernization of 1 Elevator 41 PSH 14950 Rehab & Modernization of 1 Elevator 41 PSH",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "719000"
+}
+, {
+  "epp_product_type_s" : "Architectural Coatings",
+  "registration_date" : "2015-03-27T00:00:00",
+  "agency" : "NYPD",
+  "contract_description" : "Window Repl. & Asbestos Abatement at the 49th PSH Window Repl. & Asbestos Abatement at the 49 PSH",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "388497"
+}
+, {
+  "epp_product_type_s" : "Architectural Coatings",
+  "registration_date" : "2015-03-10T00:00:00",
+  "agency" : "NYPD",
+  "contract_description" : "14922 Rehab & Modernization of Elevators at 20 & 25 PSH 14922 Reh & Modernization of Elevators at 20 & 25 PSH",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "1557124"
+}
+, {
+  "epp_product_type_s" : "Architectural Coatings",
+  "registration_date" : "2015-04-13T00:00:00",
+  "agency" : "NYPD",
+  "contract_description" : "14933 Repl of Roof Mem & Skylights at Queens Property Clerk Repl of Roof Memb & Skylights at Queens Property Clerk",
+  "products_meets_epp_minimum_standards_y_n" : "Yes",
+  "contract_value" : "979150"
+}
+ ]

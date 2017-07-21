@@ -1,0 +1,276 @@
+[ {
+  "filed_violation_count" : "210",
+  "borough" : "Bronx",
+  "calendar_year" : "2006"
+}
+, {
+  "filed_violation_count" : "211",
+  "borough" : "Bronx",
+  "calendar_year" : "2007"
+}
+, {
+  "filed_violation_count" : "209",
+  "borough" : "Bronx",
+  "calendar_year" : "2008"
+}
+, {
+  "filed_violation_count" : "216",
+  "borough" : "Bronx",
+  "calendar_year" : "2009"
+}
+, {
+  "filed_violation_count" : "193",
+  "borough" : "Bronx",
+  "calendar_year" : "2010"
+}
+, {
+  "filed_violation_count" : "145",
+  "borough" : "Bronx",
+  "calendar_year" : "2011"
+}
+, {
+  "filed_violation_count" : "152",
+  "borough" : "Bronx",
+  "calendar_year" : "2012"
+}
+, {
+  "filed_violation_count" : "161",
+  "borough" : "Bronx",
+  "calendar_year" : "2013"
+}
+, {
+  "filed_violation_count" : "125",
+  "borough" : "Bronx",
+  "calendar_year" : "2014"
+}
+, {
+  "filed_violation_count" : "114",
+  "borough" : "Bronx",
+  "calendar_year" : "2015"
+}
+, {
+  "filed_violation_count" : "134",
+  "borough" : "Bronx",
+  "calendar_year" : "2016"
+}
+, {
+  "filed_violation_count" : "371",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2006"
+}
+, {
+  "filed_violation_count" : "219",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2007"
+}
+, {
+  "filed_violation_count" : "321",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2008"
+}
+, {
+  "filed_violation_count" : "284",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2009"
+}
+, {
+  "filed_violation_count" : "212",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2010"
+}
+, {
+  "filed_violation_count" : "169",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2011"
+}
+, {
+  "filed_violation_count" : "165",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2012"
+}
+, {
+  "filed_violation_count" : "217",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2013"
+}
+, {
+  "filed_violation_count" : "159",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2014"
+}
+, {
+  "filed_violation_count" : "156",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2015"
+}
+, {
+  "filed_violation_count" : "140",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2016"
+}
+, {
+  "filed_violation_count" : "147",
+  "borough" : "Manhattan",
+  "calendar_year" : "2006"
+}
+, {
+  "filed_violation_count" : "81",
+  "borough" : "Manhattan",
+  "calendar_year" : "2007"
+}
+, {
+  "filed_violation_count" : "110",
+  "borough" : "Manhattan",
+  "calendar_year" : "2008"
+}
+, {
+  "filed_violation_count" : "161",
+  "borough" : "Manhattan",
+  "calendar_year" : "2009"
+}
+, {
+  "filed_violation_count" : "123",
+  "borough" : "Manhattan",
+  "calendar_year" : "2010"
+}
+, {
+  "filed_violation_count" : "109",
+  "borough" : "Manhattan",
+  "calendar_year" : "2011"
+}
+, {
+  "filed_violation_count" : "107",
+  "borough" : "Manhattan",
+  "calendar_year" : "2012"
+}
+, {
+  "filed_violation_count" : "94",
+  "borough" : "Manhattan",
+  "calendar_year" : "2013"
+}
+, {
+  "filed_violation_count" : "78",
+  "borough" : "Manhattan",
+  "calendar_year" : "2014"
+}
+, {
+  "filed_violation_count" : "84",
+  "borough" : "Manhattan",
+  "calendar_year" : "2015"
+}
+, {
+  "filed_violation_count" : "67",
+  "borough" : "Manhattan",
+  "calendar_year" : "2016"
+}
+, {
+  "filed_violation_count" : "183",
+  "borough" : "Queens",
+  "calendar_year" : "2006"
+}
+, {
+  "filed_violation_count" : "191",
+  "borough" : "Queens",
+  "calendar_year" : "2007"
+}
+, {
+  "filed_violation_count" : "258",
+  "borough" : "Queens",
+  "calendar_year" : "2008"
+}
+, {
+  "filed_violation_count" : "234",
+  "borough" : "Queens",
+  "calendar_year" : "2009"
+}
+, {
+  "filed_violation_count" : "166",
+  "borough" : "Queens",
+  "calendar_year" : "2010"
+}
+, {
+  "filed_violation_count" : "223",
+  "borough" : "Queens",
+  "calendar_year" : "2011"
+}
+, {
+  "filed_violation_count" : "206",
+  "borough" : "Queens",
+  "calendar_year" : "2012"
+}
+, {
+  "filed_violation_count" : "183",
+  "borough" : "Queens",
+  "calendar_year" : "2013"
+}
+, {
+  "filed_violation_count" : "162",
+  "borough" : "Queens",
+  "calendar_year" : "2014"
+}
+, {
+  "filed_violation_count" : "165",
+  "borough" : "Queens",
+  "calendar_year" : "2015"
+}
+, {
+  "filed_violation_count" : "99",
+  "borough" : "Queens",
+  "calendar_year" : "2016"
+}
+, {
+  "filed_violation_count" : "28",
+  "borough" : "Staten Island",
+  "calendar_year" : "2006"
+}
+, {
+  "filed_violation_count" : "35",
+  "borough" : "Staten Island",
+  "calendar_year" : "2007"
+}
+, {
+  "filed_violation_count" : "53",
+  "borough" : "Staten Island",
+  "calendar_year" : "2008"
+}
+, {
+  "filed_violation_count" : "81",
+  "borough" : "Staten Island",
+  "calendar_year" : "2009"
+}
+, {
+  "filed_violation_count" : "59",
+  "borough" : "Staten Island",
+  "calendar_year" : "2010"
+}
+, {
+  "filed_violation_count" : "57",
+  "borough" : "Staten Island",
+  "calendar_year" : "2011"
+}
+, {
+  "filed_violation_count" : "65",
+  "borough" : "Staten Island",
+  "calendar_year" : "2012"
+}
+, {
+  "filed_violation_count" : "58",
+  "borough" : "Staten Island",
+  "calendar_year" : "2013"
+}
+, {
+  "filed_violation_count" : "44",
+  "borough" : "Staten Island",
+  "calendar_year" : "2014"
+}
+, {
+  "filed_violation_count" : "22",
+  "borough" : "Staten Island",
+  "calendar_year" : "2015"
+}
+, {
+  "filed_violation_count" : "19",
+  "borough" : "Staten Island",
+  "calendar_year" : "2016"
+}
+ ]

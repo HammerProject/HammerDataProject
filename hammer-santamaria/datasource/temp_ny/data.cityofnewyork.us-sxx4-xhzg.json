@@ -1,0 +1,4354 @@
+[ {
+  "address" : "E 227 St/Bronx River Pkway",
+  "site_type" : "Subproperty",
+  "latitude" : "40.890848989",
+  "park_site_name" : "227th St. Plgd",
+  "borough" : "Bronx",
+  "longitude" : "-73.864223918"
+}
+, {
+  "address" : "Allerton Ave & Moshulu Pkway",
+  "site_type" : "Subproperty",
+  "latitude" : "40.8488907878",
+  "park_site_name" : "Allerton Ballfields",
+  "borough" : "Bronx",
+  "longitude" : "-73.8771283938"
+}
+, {
+  "address" : "Arthur Ave & 187 St",
+  "site_type" : "Outdoor",
+  "latitude" : "40.85557",
+  "park_site_name" : "Arthur Ave & E 187 St",
+  "borough" : "Bronx",
+  "longitude" : "-73.887564999999995"
+}
+, {
+  "address" : "895 Shore Road, Pelham Bay Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.871864",
+  "park_site_name" : "Barstow Mansion",
+  "borough" : "Bronx",
+  "longitude" : "-73.805549"
+}
+, {
+  "address" : "2001-2017 Bronx Park E",
+  "site_type" : "Subproperty",
+  "latitude" : "40.851889",
+  "park_site_name" : "Bradley Playground",
+  "borough" : "Bronx",
+  "longitude" : "-73.868549"
+}
+, {
+  "address" : "Visitors Service Center",
+  "site_type" : "Outdoor",
+  "latitude" : "40.861525999999998",
+  "park_site_name" : "Bronx Botanical Gardens",
+  "borough" : "Bronx",
+  "longitude" : "-73.880658999999994"
+}
+, {
+  "address" : "Visitors Service Center",
+  "site_type" : "Outdoor",
+  "latitude" : "40.860754999999997",
+  "park_site_name" : "Bronx Botanical Gardens",
+  "borough" : "Bronx",
+  "longitude" : "-73.880422999999993"
+}
+, {
+  "address" : "Visitors Service Center",
+  "site_type" : "Outdoor",
+  "latitude" : "40.859644000000003",
+  "park_site_name" : "Bronx Botanical Gardens",
+  "borough" : "Bronx",
+  "longitude" : "-73.880471999999997"
+}
+, {
+  "address" : "Visitors Service Center",
+  "site_type" : "Outdoor",
+  "latitude" : "40.862602000000003",
+  "park_site_name" : "Bronx Botanical Gardens",
+  "borough" : "Bronx",
+  "longitude" : "-73.880171000000004"
+}
+, {
+  "address" : "161 ST/Grand Concourse",
+  "site_type" : "Outdoor",
+  "latitude" : "40.826939",
+  "park_site_name" : "Bronx County Courthouse",
+  "borough" : "Bronx",
+  "longitude" : "-73.922314"
+}
+, {
+  "address" : "161 ST/Grand Concourse",
+  "site_type" : "Outdoor",
+  "latitude" : "40.826627",
+  "park_site_name" : "Bronx County Courthouse",
+  "borough" : "Bronx",
+  "longitude" : "-73.922447"
+}
+, {
+  "address" : "Lydig Ave & Bronx Park E",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.854322",
+  "park_site_name" : "Bronx Park",
+  "borough" : "Bronx",
+  "longitude" : "-73.869764"
+}
+, {
+  "address" : "Lydig Ave & Bronx Park E",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.854445",
+  "park_site_name" : "Bronx Park Playground at Lydig",
+  "borough" : "Bronx",
+  "longitude" : "-73.869863"
+}
+, {
+  "address" : "Entrance to Cafeteria",
+  "site_type" : "Outdoor",
+  "latitude" : "40.849760000000003",
+  "park_site_name" : "Bronx Zoo",
+  "borough" : "Bronx",
+  "longitude" : "-73.880054999999999"
+}
+, {
+  "address" : "Cafeteria",
+  "site_type" : "Outdoor",
+  "latitude" : "40.850017000000001",
+  "park_site_name" : "Bronx Zoo",
+  "borough" : "Bronx",
+  "longitude" : "-73.880035000000007"
+}
+, {
+  "address" : "Bryant Avenue Bet. Seneca and Garrison Aves.",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.819933",
+  "park_site_name" : "Bryant Hill Community Garden",
+  "borough" : "Bronx",
+  "longitude" : "-73.887069"
+}
+, {
+  "site_type" : "Outdoor ",
+  "latitude" : "40.871706",
+  "park_site_name" : "Burke Bridge",
+  "borough" : "Bronx",
+  "longitude" : "-73.872741"
+}
+, {
+  "address" : "In front of Alumnae Hall",
+  "site_type" : "Outdoor",
+  "latitude" : "40.911295000000003",
+  "park_site_name" : "College of Mt. St. Vincent",
+  "borough" : "Bronx",
+  "longitude" : "-73.907651999999999"
+}
+, {
+  "address" : "In front of Cardinal Spellman Hall",
+  "site_type" : "Outdoor",
+  "latitude" : "40.911236000000002",
+  "park_site_name" : "College of Mt. St. Vincent",
+  "borough" : "Bronx",
+  "longitude" : "-73.907910000000001"
+}
+, {
+  "address" : "Bronx River bet. Westchster Av and Bruckner Blvd",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.825217",
+  "park_site_name" : "Concrete Plant Park",
+  "borough" : "Bronx",
+  "longitude" : "-73.88546"
+}
+, {
+  "address" : "1700 Crotona Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.840115",
+  "park_site_name" : "Crotona Park ",
+  "borough" : "Bronx",
+  "longitude" : "-73.895513"
+}
+, {
+  "address" : "1700 Crotona Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.835226",
+  "park_site_name" : "Crotona Park ",
+  "borough" : "Bronx",
+  "longitude" : "-73.895652"
+}
+, {
+  "address" : "1700 Crotona Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.84133",
+  "park_site_name" : "Crotona Park ",
+  "borough" : "Bronx",
+  "longitude" : "-73.892702"
+}
+, {
+  "address" : "1700 Crotona Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.840876",
+  "park_site_name" : "Crotona Park ",
+  "borough" : "Bronx",
+  "longitude" : "-73.898206"
+}
+, {
+  "address" : "1700 Crotona Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.838351",
+  "park_site_name" : "Crotona Park ",
+  "borough" : "Bronx",
+  "longitude" : "-73.893566"
+}
+, {
+  "address" : "1700 Crotona Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.841123",
+  "park_site_name" : "Crotona Park ",
+  "borough" : "Bronx",
+  "longitude" : "-73.898056"
+}
+, {
+  "address" : "174 St & Manor Ave",
+  "site_type" : "Outdoor",
+  "latitude" : "40.833770000000001",
+  "park_site_name" : "E 174 St & Manor Ave",
+  "borough" : "Bronx",
+  "longitude" : "-73.877453000000003"
+}
+, {
+  "address" : "176 St & Marmion Ave",
+  "site_type" : "Outdoor",
+  "latitude" : "40.841444000000003",
+  "park_site_name" : "E 176 St & Marmion Ave",
+  "borough" : "Bronx",
+  "longitude" : "-73.888486999999998"
+}
+, {
+  "address" : "Gun Hill Rd & Bronxwood Ave",
+  "site_type" : "Outdoor",
+  "latitude" : "40.875552999999996",
+  "park_site_name" : "E Gun Hill Rd & Bronxwood Ave",
+  "borough" : "Bronx",
+  "longitude" : "-73.860525999999993"
+}
+, {
+  "address" : "Tremont Ave & Bruckner Blvd",
+  "site_type" : "Outdoor",
+  "latitude" : "40.833109",
+  "park_site_name" : "E Tremont Ave & Bruckner Blvd",
+  "borough" : "Bronx",
+  "longitude" : "-73.828284999999994"
+}
+, {
+  "address" : "Tremont Ave & University Ave",
+  "site_type" : "Outdoor",
+  "latitude" : "40.85042",
+  "park_site_name" : "E Tremont Ave & University Ave",
+  "borough" : "Bronx",
+  "longitude" : "-73.915529000000006"
+}
+, {
+  "address" : "315 Echo Pl",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.849292",
+  "park_site_name" : "Echo Park",
+  "borough" : "Bronx",
+  "longitude" : "-73.902175"
+}
+, {
+  "address" : "836 Elton Avenue ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.822893",
+  "park_site_name" : "Edith Community Garden (830 Elton Tenants Assoc.)",
+  "borough" : "Bronx",
+  "longitude" : "-73.91266"
+}
+, {
+  "address" : "Tinton Avenue @ E. 150th Street ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.813663",
+  "park_site_name" : "El Flamboyan",
+  "borough" : "Bronx",
+  "longitude" : "-73.905898"
+}
+, {
+  "address" : "419 East 158th Street ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.82201",
+  "park_site_name" : "Family Group Garden",
+  "borough" : "Bronx",
+  "longitude" : "-73.914009"
+}
+, {
+  "address" : "Grand Concourse West & Fordham Rd",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.862402",
+  "park_site_name" : "Fordham University",
+  "borough" : "Bronx",
+  "longitude" : "-73.897174"
+}
+, {
+  "address" : "Main Entrance (Kazimiroff Blvd)",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.861379",
+  "park_site_name" : "Fordham University",
+  "borough" : "Bronx",
+  "longitude" : "-73.881414"
+}
+, {
+  "address" : "Side Entrance (E Fordham Rd & 3 Ave)",
+  "site_type" : "Outdoor",
+  "latitude" : "40.861267",
+  "park_site_name" : "Fordham University",
+  "borough" : "Bronx",
+  "longitude" : "-73.89014"
+}
+, {
+  "address" : "Kingsbridge Rd & Fordham Rd",
+  "site_type" : "Outdoor",
+  "latitude" : "40.861947999999998",
+  "park_site_name" : "Fordham University",
+  "borough" : "Bronx",
+  "longitude" : "-73.893726000000001"
+}
+, {
+  "address" : "E 204 St, W/S Bronx Park",
+  "site_type" : "Subproperty",
+  "latitude" : "40.869996",
+  "park_site_name" : "French Charley Playground",
+  "borough" : "Bronx",
+  "longitude" : "-73.876238"
+}
+, {
+  "address" : "851 Hornaday Avenue",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.847026",
+  "park_site_name" : "Hornaday Community Garden (volky Flower Garden)",
+  "borough" : "Bronx",
+  "longitude" : "-73.882534"
+}
+, {
+  "address" : "3 Ave & 149 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.816171",
+  "park_site_name" : "HUB 3rd Ave",
+  "borough" : "Bronx",
+  "longitude" : "-73.917594"
+}
+, {
+  "address" : "Hunt's Point Ave Btwn. Spofford Ave & Bryant Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.814213",
+  "park_site_name" : "Hunts Point",
+  "borough" : "Bronx",
+  "longitude" : "-73.885886"
+}
+, {
+  "address" : "Hunt's Point Ave Btwn. Spofford Ave & Bryant Ave",
+  "site_type" : "Indoor",
+  "latitude" : "40.814213",
+  "park_site_name" : "Hunt's Point",
+  "borough" : "Bronx",
+  "longitude" : "-73.885886"
+}
+, {
+  "address" : "Lafayette Ave & Edgewater Rd",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.817471",
+  "park_site_name" : "Hunt's point Riverside Park- Plgd - Parks",
+  "borough" : "Bronx",
+  "longitude" : "-73.882622"
+}
+, {
+  "address" : "625 Wales Avenue ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.81484",
+  "park_site_name" : "Isla Verde Garden",
+  "borough" : "Bronx",
+  "longitude" : "-73.90691"
+}
+, {
+  "address" : "15 Buchanan Place",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.858005",
+  "park_site_name" : "Jardin de las Rosas",
+  "borough" : "Bronx",
+  "longitude" : "-73.90485"
+}
+, {
+  "address" : "E 164 St Btwn. Grand Concourse & Walton Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.829632",
+  "park_site_name" : "Joyce Kilmer",
+  "borough" : "Bronx",
+  "longitude" : "-73.921933"
+}
+, {
+  "address" : "E 164 St Btwn. Grand Concourse & Walton Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.827502",
+  "park_site_name" : "Joyce Kilmer",
+  "borough" : "Bronx",
+  "longitude" : "-73.923062"
+}
+, {
+  "address" : "3101 Kingsbridge Ave",
+  "site_type" : "Indoor",
+  "latitude" : "40.877667",
+  "park_site_name" : "Kingsbridge Heights Community Center",
+  "borough" : "Bronx",
+  "longitude" : "-73.90062"
+}
+, {
+  "address" : "1126-1140 Woodycrest Avenue ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.835694",
+  "park_site_name" : "Las Casitas Communitiy Garden",
+  "borough" : "Bronx",
+  "longitude" : "-73.925664"
+}
+, {
+  "address" : "E 160th St and Elton Ave",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.8229705286",
+  "park_site_name" : "Little Green Garden (3) Large lower expanse",
+  "borough" : "Bronx",
+  "longitude" : "-73.9128832182"
+}
+, {
+  "address" : "Mill Pond Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.822992396899998",
+  "park_site_name" : "Mill Pond",
+  "borough" : "Bronx",
+  "longitude" : "-73.931892542900002"
+}
+, {
+  "address" : "E 165 St Btwn. Jerome Ave & River Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.834258",
+  "park_site_name" : "Mullaly",
+  "borough" : "Bronx",
+  "longitude" : "-73.923392"
+}
+, {
+  "address" : "E 165 St Btwn. Jerome Ave & River Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.831466",
+  "park_site_name" : "Mullaly",
+  "borough" : "Bronx",
+  "longitude" : "-73.923947"
+}
+, {
+  "address" : "Bronx Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.8415557191",
+  "park_site_name" : "Muskrat Playground",
+  "borough" : "Bronx",
+  "longitude" : "-73.877522673900003"
+}
+, {
+  "address" : "E/S Hoe Ave., S/O/ Aldus Street ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.822711",
+  "park_site_name" : "New Hoe Avenue Garden",
+  "borough" : "Bronx",
+  "longitude" : "-73.890242"
+}
+, {
+  "address" : "Bronx Park",
+  "site_type" : "Subproperty",
+  "latitude" : "40.889428",
+  "park_site_name" : "Niles Triangle",
+  "borough" : "Bronx",
+  "longitude" : "-73.864356"
+}
+, {
+  "address" : "Noble Ave Btwn. Bronx River Ave & E 177 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.836706",
+  "park_site_name" : "Noble Playground",
+  "borough" : "Bronx",
+  "longitude" : "-73.872355"
+}
+, {
+  "address" : "Van Cortlandt Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.90208",
+  "park_site_name" : "Nursery",
+  "borough" : "Bronx",
+  "longitude" : "-73.868519"
+}
+, {
+  "address" : "Bronx Blvd & E 219 St",
+  "site_type" : "Subproperty",
+  "latitude" : "40.884079",
+  "park_site_name" : "Olinville",
+  "borough" : "Bronx",
+  "longitude" : "-73.866996"
+}
+, {
+  "address" : "Orchard Beach",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.866292",
+  "park_site_name" : "Orchard Beach picnic areas, basketball ct, Pelham playground, Nature Center, Boathouse",
+  "borough" : "Bronx",
+  "longitude" : "-73.794774"
+}
+, {
+  "address" : "Orchard Beach",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.867984",
+  "park_site_name" : "Orchard Beach picnic areas, basketball ct, Pelham playground, Nature Center, Boathouse",
+  "borough" : "Bronx",
+  "longitude" : "-73.793396"
+}
+, {
+  "address" : "Orchard Beach",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.868802",
+  "park_site_name" : "Orchard Beach picnic areas, basketball ct, Pelham playground, Nature Center, Boathouse",
+  "borough" : "Bronx",
+  "longitude" : "-73.792261"
+}
+, {
+  "address" : "Orchard Beach",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.869068",
+  "park_site_name" : "Orchard Beach picnic areas, basketball ct, Pelham playground, Nature Center, Boathouse",
+  "borough" : "Bronx",
+  "longitude" : "-73.792558"
+}
+, {
+  "address" : "Orchard Beach",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.872275",
+  "park_site_name" : "Orchard Beach picnic areas, basketball ct, Pelham playground, Nature Center, Boathouse",
+  "borough" : "Bronx",
+  "longitude" : "-73.797323"
+}
+, {
+  "address" : "2551 Westchester Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.840504",
+  "park_site_name" : "Owen Dolan",
+  "borough" : "Bronx",
+  "longitude" : "-73.842668"
+}
+, {
+  "address" : "2551 Westchester Ave",
+  "site_type" : "Outdoor",
+  "latitude" : "40.840626",
+  "park_site_name" : "Owen Dolan",
+  "borough" : "Bronx",
+  "longitude" : "-73.843231"
+}
+, {
+  "address" : "Olmstead Ave Btwn Turnbull Ave & Lafayette Ave ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.82366",
+  "park_site_name" : "P.O. Serrano",
+  "borough" : "Bronx",
+  "longitude" : "-73.850766"
+}
+, {
+  "address" : "St. Peter's Ave at Tratman Ave ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.838797",
+  "park_site_name" : "Pearly Gates",
+  "borough" : "Bronx",
+  "longitude" : "-73.845791"
+}
+, {
+  "address" : "Pelham Bay Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.851723",
+  "park_site_name" : "Pelham Bay  Ball field, north picnic area",
+  "borough" : "Bronx",
+  "longitude" : "-73.824697"
+}
+, {
+  "address" : "Pelham Bay Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.849069",
+  "park_site_name" : "Pelham Bay picnic, running track",
+  "borough" : "Bronx",
+  "longitude" : "-73.822954"
+}
+, {
+  "address" : "E 181 St, oak Tree Pl Btwn. Quarry Rd & Hughes Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.850274",
+  "park_site_name" : "Quarry Ballfield- Parks",
+  "borough" : "Bronx",
+  "longitude" : "-73.88992"
+}
+, {
+  "address" : "1086 East 180th Street",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.841884",
+  "park_site_name" : "River Garden",
+  "borough" : "Bronx",
+  "longitude" : "-73.876389"
+}
+, {
+  "address" : "E 180 St & Boston Rd",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.842795",
+  "park_site_name" : "River Park",
+  "borough" : "Bronx",
+  "longitude" : "-73.877694"
+}
+, {
+  "address" : "5521 Mosholu Ave",
+  "site_type" : "Outdoor",
+  "latitude" : "40.903281",
+  "park_site_name" : "Riverdale Neighborhood House",
+  "borough" : "Bronx",
+  "longitude" : "-73.903611999999995"
+}
+, {
+  "address" : "Webster Ave & E Fordham Rd",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.861953",
+  "park_site_name" : "Rosehill Park- Parks",
+  "borough" : "Bronx",
+  "longitude" : "-73.890736"
+}
+, {
+  "address" : "Bronx River Pkwy & Rosewood St",
+  "site_type" : "Subproperty",
+  "latitude" : "40.873199",
+  "park_site_name" : "Rosewood- Parks",
+  "borough" : "Bronx",
+  "longitude" : "-73.87052"
+}
+, {
+  "address" : "W Gunhill Rd & Knox Pl ",
+  "site_type" : "Subproperty",
+  "latitude" : "40.883881",
+  "park_site_name" : "Sachkera Plgd – Parks",
+  "borough" : "Bronx",
+  "longitude" : "-73.881691"
+}
+, {
+  "address" : "E 223 St & De Reimer Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.888353",
+  "park_site_name" : "Seton Falls Park",
+  "borough" : "Bronx",
+  "longitude" : "-73.840908"
+}
+, {
+  "address" : "3800 Baychester Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.885219",
+  "park_site_name" : "Seton Falls Park",
+  "borough" : "Bronx",
+  "longitude" : "-73.840474"
+}
+, {
+  "address" : "Bronx Park East Btwn Britton St & Allerton Ave ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.865657",
+  "park_site_name" : "Skate Park at Allerton",
+  "borough" : "Bronx",
+  "longitude" : "-73.850613"
+}
+, {
+  "address" : "Skyview Shopping Plaza (Riverdale Ave & 259 St)",
+  "site_type" : "Outdoor",
+  "latitude" : "40.906877999999999",
+  "park_site_name" : "Skyview Shopping Plaza",
+  "borough" : "Bronx",
+  "longitude" : "-73.904143000000005"
+}
+, {
+  "address" : "Lafayette Ave Btwn Colgate Ave & Boynton Ave ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.819113",
+  "park_site_name" : "Soundview – Parks",
+  "borough" : "Bronx",
+  "longitude" : "-73.878003"
+}
+, {
+  "address" : "Metcalf Ave Btwn Lafayette Ave & Seward Ave ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.819274",
+  "park_site_name" : "Soundview – Parks",
+  "borough" : "Bronx",
+  "longitude" : "-73.870418"
+}
+, {
+  "address" : "Metcalf Ave Btwn Seward Ave & Randall Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.817335",
+  "park_site_name" : "Soundview – Parks",
+  "borough" : "Bronx",
+  "longitude" : "-73.870322"
+}
+, {
+  "address" : "Soundview Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.816505",
+  "park_site_name" : "Soundview – Parks",
+  "borough" : "Bronx",
+  "longitude" : "-73.872564"
+}
+, {
+  "address" : "Southern Blvd & 173 St",
+  "site_type" : "Outdoor",
+  "latitude" : "40.835693999999997",
+  "park_site_name" : "Southern Blvd & E 173 St",
+  "borough" : "Bronx",
+  "longitude" : "-73.888775999999993"
+}
+, {
+  "address" : "Van Cortlandt Park",
+  "site_type" : "Subproperty",
+  "latitude" : "40.886538",
+  "park_site_name" : "Southwest Plgd – Parks",
+  "borough" : "Bronx",
+  "longitude" : "-73.898453"
+}
+, {
+  "address" : "Seton Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.887313",
+  "park_site_name" : "Spuyton Duyvil plgd",
+  "borough" : "Bronx",
+  "longitude" : "-73.916308"
+}
+, {
+  "address" : "Jerome Ave",
+  "site_type" : "Indoor",
+  "latitude" : "40.865469",
+  "park_site_name" : "St. James ",
+  "borough" : "Bronx",
+  "longitude" : "-73.898571"
+}
+, {
+  "address" : "Jerome Ave",
+  "site_type" : "Indoor",
+  "latitude" : "40.864779",
+  "park_site_name" : "St. James ",
+  "borough" : "Bronx",
+  "longitude" : "-73.899257"
+}
+, {
+  "address" : "E 193 St",
+  "site_type" : "Indoor",
+  "latitude" : "40.866089",
+  "park_site_name" : "St. James ",
+  "borough" : "Bronx",
+  "longitude" : "-73.896967"
+}
+, {
+  "address" : "St. Anns Ave & E 145 St",
+  "site_type" : "Indoor",
+  "latitude" : "40.811712",
+  "park_site_name" : "St. Mary's ",
+  "borough" : "Bronx",
+  "longitude" : "-73.914339"
+}
+, {
+  "address" : "St. Anns Ave & E 145 St",
+  "site_type" : "Indoor",
+  "latitude" : "40.811588",
+  "park_site_name" : "St. Mary's ",
+  "borough" : "Bronx",
+  "longitude" : "-73.914342"
+}
+, {
+  "address" : "639 E. 137th Street",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.8053160148",
+  "park_site_name" : "Sunflower Garden/Girasol",
+  "borough" : "Bronx",
+  "longitude" : "-73.9153321204"
+}
+, {
+  "address" : "Broadway & Putnam Trail",
+  "site_type" : "Subproperty",
+  "latitude" : "40.887317",
+  "park_site_name" : "Van Cortlandt  ballfield, tennis and picnic",
+  "borough" : "Bronx",
+  "longitude" : "-73.899006"
+}
+, {
+  "address" : "Broadway & Van Cortlandt Park 242 St",
+  "site_type" : "Subproperty",
+  "latitude" : "40.888933",
+  "park_site_name" : "Van Cortlandt  ballfield, tennis and picnic",
+  "borough" : "Bronx",
+  "longitude" : "-73.898324"
+}
+, {
+  "address" : "Van Cortlandt Park",
+  "site_type" : "Subproperty",
+  "latitude" : "40.888224",
+  "park_site_name" : "Van Cortlandt  ballfield, tennis and picnic",
+  "borough" : "Bronx",
+  "longitude" : "-73.896655"
+}
+, {
+  "address" : "Van Cortlandt Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.890172",
+  "park_site_name" : "Van Cortlandt Park ",
+  "borough" : "Bronx",
+  "longitude" : "-73.896375"
+}
+, {
+  "address" : "Van Cortlandt Park",
+  "site_type" : "Subproperty",
+  "latitude" : "40.888255",
+  "park_site_name" : "Van Cortlandt Stadium",
+  "borough" : "Bronx",
+  "longitude" : "-73.897777"
+}
+, {
+  "address" : "Van Cortlandt Park",
+  "site_type" : "Subproperty",
+  "latitude" : "40.889096",
+  "park_site_name" : "Van Cortlandt Stadium",
+  "borough" : "Bronx",
+  "longitude" : "-73.892278"
+}
+, {
+  "address" : "Cross Bronx Expwy Service Rd",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.833505",
+  "park_site_name" : "Virginia Park",
+  "borough" : "Bronx",
+  "longitude" : "-73.86232"
+}
+, {
+  "address" : "431 E. 156th Street",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.8205708783",
+  "park_site_name" : "Vogue Community Garden",
+  "borough" : "Bronx",
+  "longitude" : "-73.9140313844"
+}
+, {
+  "address" : "Waring Ave, Bronx Park E",
+  "site_type" : "Subproperty",
+  "latitude" : "40.860641",
+  "park_site_name" : "Waring Plgd",
+  "borough" : "Bronx",
+  "longitude" : "-73.871488"
+}
+, {
+  "address" : "Noble Ave Btwn Watson Ave & Gleason Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.828933",
+  "park_site_name" : "Watson & Gleason",
+  "borough" : "Bronx",
+  "longitude" : "-73.869326"
+}
+, {
+  "address" : "1527 Jesup Ave",
+  "site_type" : "Indoor",
+  "latitude" : "40.844147",
+  "park_site_name" : "West Bronx Rec. Ctr",
+  "borough" : "Bronx",
+  "longitude" : "-73.918886"
+}
+, {
+  "address" : "Van Cortlandt Park",
+  "site_type" : "Subproperty",
+  "latitude" : "40.895803",
+  "park_site_name" : "Woodlawn Tennis",
+  "borough" : "Bronx",
+  "longitude" : "-73.87943"
+}
+, {
+  "address" : "762-764 Herkimer Place/13-21 Hunterfly",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.677973",
+  "park_site_name" : "A Better Community Garden",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.928171"
+}
+, {
+  "address" : "Seaside Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.57519",
+  "park_site_name" : "Asser Levy",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.971342"
+}
+, {
+  "address" : "Seaside Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.575239",
+  "park_site_name" : "Asser Levy",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.971889"
+}
+, {
+  "address" : "5 Ave & Bay Ridge Pkwy",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.629573000000001",
+  "park_site_name" : "Bay Ridge",
+  "borough" : "Brooklyn",
+  "longitude" : "-74.022531999999998"
+}
+, {
+  "address" : "Bensohurst Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.596833",
+  "park_site_name" : "Bensonhurst",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.9994"
+}
+, {
+  "address" : "Boerum Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.68463",
+  "park_site_name" : "Boerum",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.990234"
+}
+, {
+  "address" : "Brooklyn War Memorial",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.696536",
+  "park_site_name" : "Brooklyn War Memorial",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.990675"
+}
+, {
+  "address" : "Park Pl Btwn Brooklyn Ave & Kingston Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.673811",
+  "park_site_name" : "Brower",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.943717"
+}
+, {
+  "address" : "1555 Linden Blvd",
+  "site_type" : "Indoor",
+  "latitude" : "40.656762",
+  "park_site_name" : "Brownsville Rec Ctr",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.90247"
+}
+, {
+  "address" : "Bushwick Inlet Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.722315",
+  "park_site_name" : "Bushwick Inlet Field",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.961527"
+}
+, {
+  "address" : "Korean War Veterans Plaze",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.695873",
+  "park_site_name" : "Cadman Plaza",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.990218"
+}
+, {
+  "address" : "Brooklyn War Memorial",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.697327",
+  "park_site_name" : "Cadman Plaza",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.990337"
+}
+, {
+  "address" : "President St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.681307",
+  "park_site_name" : "Carroll Park",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.995212"
+}
+, {
+  "address" : "Carroll St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.680946",
+  "park_site_name" : "Carroll Park",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.995481"
+}
+, {
+  "address" : "Fountain Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.679442",
+  "park_site_name" : "City Line Park",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.876233"
+}
+, {
+  "address" : "Clinton St Btwn Congress St & Verandah Pl",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.688290000000002",
+  "park_site_name" : "Cobble hill park",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.996136000000007"
+}
+, {
+  "address" : "Columbus Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.694143",
+  "park_site_name" : "Columbus Park",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.989791"
+}
+, {
+  "address" : "Commodore Berry",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.697793",
+  "park_site_name" : "Commodore Berry",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.978653"
+}
+, {
+  "address" : "Greene Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.685861",
+  "park_site_name" : "Cuyler Gore Park",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.972638"
+}
+, {
+  "address" : "Avenue P Btwn 4 St & 5 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.610033",
+  "park_site_name" : "David Marcus Plgd",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.96952"
+}
+, {
+  "address" : "Front St & Washington St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.702573",
+  "park_site_name" : "Dumbo Brooklyn Heights",
+  "borough" : "Brooklyn ",
+  "longitude" : "-73.989752"
+}
+, {
+  "address" : "Front St & Main St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.702631",
+  "park_site_name" : "Dumbo Brooklyn Heights",
+  "borough" : "Brooklyn ",
+  "longitude" : "-73.990641"
+}
+, {
+  "address" : "Front St & Jay St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.702379999999998",
+  "park_site_name" : "Dumbo Brooklyn Heights",
+  "borough" : "Brooklyn ",
+  "longitude" : "-73.986553000000001"
+}
+, {
+  "address" : "Church Ave & Flatbush Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.650210000000001",
+  "park_site_name" : "Dumbo Brooklyn Heights",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.958798000000002"
+}
+, {
+  "address" : "Fulton & Washington Ave ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.682929999999999",
+  "park_site_name" : "FAB",
+  "borough" : "Brooklyn ",
+  "longitude" : "-73.964596"
+}
+, {
+  "address" : "Fulton St & Lafayette/Greene/S Oxford",
+  "site_type" : "Outdoor",
+  "latitude" : "40.687092999999997",
+  "park_site_name" : "FAB",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.976237999999995"
+}
+, {
+  "address" : "Putnam Triangle",
+  "site_type" : "Outdoor",
+  "latitude" : "40.682555999999998",
+  "park_site_name" : "FAB",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.961974999999995"
+}
+, {
+  "address" : "Fulton & Lafayette ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.687072000000001",
+  "park_site_name" : "FAB ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.976557"
+}
+, {
+  "address" : "Fulton & Clinton Ave ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.683557",
+  "park_site_name" : "FAB ",
+  "borough" : "Brooklyn ",
+  "longitude" : "-73.966797"
+}
+, {
+  "address" : "Lafayette & South Portland Ave",
+  "site_type" : "Outdoor",
+  "latitude" : "40.687207999999998",
+  "park_site_name" : "FAB ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.974620999999999"
+}
+, {
+  "address" : "Washington Park & Dekalb Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.689818",
+  "park_site_name" : "Fort Greene ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.9732"
+}
+, {
+  "address" : "9941 Fort Hamilton Pkwy",
+  "site_type" : "Indoor",
+  "latitude" : "40.613322",
+  "park_site_name" : "Fort Hamilton Sr. Center",
+  "borough" : "Brooklyn",
+  "longitude" : "-74.030067"
+}
+, {
+  "address" : "555-557 Shepherd Ave.",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.6707327095",
+  "park_site_name" : "Good Shepheard's Community Group",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.8796755721"
+}
+, {
+  "address" : "444,448 Warwich Avenue",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.672659",
+  "park_site_name" : "Gregory's Garden (P.S. 158 Memorial Garden",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.885742"
+}
+, {
+  "address" : "New Lots Ave at Alabama Avenue",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.66101",
+  "park_site_name" : "Hands  & Hearts(New Lots Urban Farm)",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.895627"
+}
+, {
+  "address" : "Hillside Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.700784",
+  "park_site_name" : "Harry Chapin Plgd",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.995146"
+}
+, {
+  "address" : "582-590 Glenmore Ave.",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.674221",
+  "park_site_name" : "Herbal Garden",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.888573"
+}
+, {
+  "address" : "4 St Btwn 4 Ave & 5 Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.67269",
+  "park_site_name" : "JJ Byrne",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.984796"
+}
+, {
+  "address" : "4 St Btwn 4 Ave & 5 Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.673262",
+  "park_site_name" : "JJ Byrne",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.984332"
+}
+, {
+  "address" : "Neptune Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.578225",
+  "park_site_name" : "Kaiser ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.994834"
+}
+, {
+  "address" : "Kelly Memorial Playground",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.603519",
+  "park_site_name" : "Kelly",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.957375"
+}
+, {
+  "address" : "Cadman Plaza",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.695719",
+  "park_site_name" : "Korean War Vet ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.990256"
+}
+, {
+  "address" : "Oriental Blvd",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.577672",
+  "park_site_name" : "Manhattan Beach +BBQ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.944616"
+}
+, {
+  "address" : "Oriental Blvd",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.577211",
+  "park_site_name" : "Manhattan Beach +BBQ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.946587"
+}
+, {
+  "address" : "Marine Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.604084999999998",
+  "park_site_name" : "Marine Park ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.930702999999994"
+}
+, {
+  "address" : "Bedford Ave ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.721612",
+  "park_site_name" : "McCarren Park ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.953668"
+}
+, {
+  "address" : "Bedford Ave ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.721535",
+  "park_site_name" : "McCarren Park ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.954114"
+}
+, {
+  "address" : "Driggs Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.720622",
+  "park_site_name" : "McCarren Park ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.952488"
+}
+, {
+  "address" : "Driggs Ave & Lorimer St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.721653",
+  "park_site_name" : "McCarren Park ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.950305"
+}
+, {
+  "address" : "McCarren Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.719973",
+  "park_site_name" : "McCarren Park ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.952215"
+}
+, {
+  "address" : "Bedford Ave ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.72173",
+  "park_site_name" : "McCarren Park ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.953298"
+}
+, {
+  "address" : "N 12 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.721075",
+  "park_site_name" : "McCarren Park ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.955512"
+}
+, {
+  "address" : "Berry St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.721933",
+  "park_site_name" : "McCarren Park ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.955283"
+}
+, {
+  "address" : "McGorlick Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.724446",
+  "park_site_name" : "McGorlick Park",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.943326"
+}
+, {
+  "address" : "261 Bedford Ave",
+  "site_type" : "Indoor",
+  "latitude" : "40.715086",
+  "park_site_name" : "Metropolitan Rec Ctr ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.960546"
+}
+, {
+  "address" : "Willoughby St & Bridge St",
+  "site_type" : "Outdoor",
+  "latitude" : "40.692165000000003",
+  "park_site_name" : "Metrotech",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.985247000000001"
+}
+, {
+  "address" : "Mt. Prospect Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.67207",
+  "park_site_name" : "Mt. Prospect plgd",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.96598"
+}
+, {
+  "address" : "Myrtle Ave & Ashland Pl",
+  "site_type" : "Outdoor",
+  "latitude" : "40.693472999999997",
+  "park_site_name" : "Myrtle Ave BID",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.979168000000001"
+}
+, {
+  "address" : "Myrtle Ave & Adelphi St",
+  "site_type" : "Outdoor",
+  "latitude" : "40.693221999999999",
+  "park_site_name" : "Myrtle Ave BID",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.971886999999995"
+}
+, {
+  "address" : "Myrtle Ave & Clinton Ave",
+  "site_type" : "Outdoor",
+  "latitude" : "40.693126999999997",
+  "park_site_name" : "Myrtle Ave BID",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.968789999999998"
+}
+, {
+  "address" : "Myrtle Ave & Hall St",
+  "site_type" : "Outdoor",
+  "latitude" : "40.693455999999998",
+  "park_site_name" : "Myrtle Ave BID",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.965907999999999"
+}
+, {
+  "address" : "N. 5th St. pier",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.720628",
+  "park_site_name" : "N. 5th St. pier",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.965524"
+}
+, {
+  "address" : "590-594 Schenck Avenue",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.6659",
+  "park_site_name" : "New Vision Garden",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.887172"
+}
+, {
+  "address" : "Owl's Head",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.639285",
+  "park_site_name" : "Owl's Head",
+  "borough" : "Brooklyn",
+  "longitude" : "-74.031909"
+}
+, {
+  "address" : "Manhattan Beach Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.577492",
+  "park_site_name" : "Palato plgd",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.946325"
+}
+, {
+  "address" : "7 Ave & 6 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.668796999999998",
+  "park_site_name" : "Park Slope",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.980143999999996"
+}
+, {
+  "address" : "Berkeley Lincoln Playground ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.676639",
+  "park_site_name" : "Park Slope Playground ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.978903"
+}
+, {
+  "address" : "Pierrepon St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.696389",
+  "park_site_name" : "Pierrepont Park",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.99734"
+}
+, {
+  "address" : "Prospect Park West",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.664608",
+  "park_site_name" : "Prospect Park ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.976666"
+}
+, {
+  "address" : "Prospect Park West",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.66132",
+  "park_site_name" : "Prospect Park ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.979593"
+}
+, {
+  "address" : "Ocean Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.660478",
+  "park_site_name" : "Prospect Park ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.963187"
+}
+, {
+  "address" : "Ocean Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.655183",
+  "park_site_name" : "Prospect Park ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.962214"
+}
+, {
+  "address" : "604 Marcy Avenue",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.693761",
+  "park_site_name" : "Red Gate Garden",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.948972"
+}
+, {
+  "address" : "Red Hook Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.677265",
+  "park_site_name" : "Red Hook Park",
+  "borough" : "Brooklyn",
+  "longitude" : "-74.008353"
+}
+, {
+  "address" : "3301 Avenue U",
+  "site_type" : "Indoor",
+  "latitude" : "40.604374",
+  "park_site_name" : "Salt marsh",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.930741"
+}
+, {
+  "address" : "Shore Rd Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.617506",
+  "park_site_name" : "Shore Road Plgd",
+  "borough" : "Brooklyn",
+  "longitude" : "-74.040033"
+}
+, {
+  "address" : "Oxport Playground",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.697746",
+  "park_site_name" : "South Oxport ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.976199"
+}
+, {
+  "address" : "Btwn Furman St & Columbia Heights",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.701079",
+  "park_site_name" : "Squibb Park",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.995307"
+}
+, {
+  "address" : "476-484 New Jersey Avenue",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.667491",
+  "park_site_name" : "St. John Cantius",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.89384"
+}
+, {
+  "address" : "St. John's Park",
+  "site_type" : "Indoor",
+  "latitude" : "40.673754",
+  "park_site_name" : "St. John's ",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.934855"
+}
+, {
+  "address" : "21-25 Olive Street ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.713316",
+  "park_site_name" : "St. Nicholas-Olive Street Garden",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.938974"
+}
+, {
+  "address" : "1344 Pennsylvania Avenue",
+  "site_type" : "Outdoor",
+  "latitude" : "40.650143",
+  "park_site_name" : "Starret City",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.884371999999999"
+}
+, {
+  "address" : "Lorimer St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.706315",
+  "park_site_name" : "Sternberg Park",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.948025"
+}
+, {
+  "address" : "Boerum St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.705616",
+  "park_site_name" : "Sternberg Park",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.947172"
+}
+, {
+  "address" : "5 Ave & 44 St",
+  "site_type" : "Indoor",
+  "latitude" : "40.648468",
+  "park_site_name" : "Sunset Park",
+  "borough" : "Brooklyn",
+  "longitude" : "-74.006771"
+}
+, {
+  "address" : "5 Ave & 44 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.648479999999999",
+  "park_site_name" : "Sunset Park",
+  "borough" : "Brooklyn",
+  "longitude" : "-74.006674000000004"
+}
+, {
+  "address" : "15-17 Ten Eyck Street",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.709648",
+  "park_site_name" : "Ten Eyck Houses",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.950166"
+}
+, {
+  "address" : "613 Hendrix Street ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.666548",
+  "park_site_name" : "Triple R/Relaxation, Reflection, Revenue (Victoria Garden)",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.887691"
+}
+, {
+  "address" : "613 Schenck Avenue ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.665324",
+  "park_site_name" : "UCC (United Community Centers) Youth Farm/East New York Farms",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.886769"
+}
+, {
+  "address" : "Underhill Ave & Prospect Pl",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.676766",
+  "park_site_name" : "Underhill Playground",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.965902"
+}
+, {
+  "address" : "Underwood Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.688204",
+  "park_site_name" : "Underwood Playground",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.966559"
+}
+, {
+  "address" : "2556 Pitkin Avenue.",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.674329",
+  "park_site_name" : "Upon the Rock",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.877867"
+}
+, {
+  "address" : "253 Throop Avenue",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.695220999999997",
+  "park_site_name" : "Vernon (Throop Avenue Block Assoc.)",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.943263999999999"
+}
+, {
+  "address" : "681 Halsey Street",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.684658",
+  "park_site_name" : "Welcome Home",
+  "borough" : "Brooklyn",
+  "longitude" : "-73.925222"
+}
+, {
+  "address" : "624-628 E. 6th Street ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.723831",
+  "park_site_name" : "6BC Botanical Garden",
+  "borough" : "Manhattan",
+  "longitude" : "-73.980677"
+}
+, {
+  "address" : "1 Centre Street",
+  "site_type" : "Outdoor",
+  "latitude" : "40.712187",
+  "park_site_name" : "1 Centre Street",
+  "borough" : "Manhattan",
+  "longitude" : "-74.005701000000002"
+}
+, {
+  "address" : "100 Centre St",
+  "site_type" : "Indoor",
+  "latitude" : "40.715826999999997",
+  "park_site_name" : "100 Centre St",
+  "borough" : "Manhattan",
+  "longitude" : "-74.000488000000004"
+}
+, {
+  "address" : "100 Centre Street (South Entrance)",
+  "site_type" : "Outdoor",
+  "latitude" : "40.715922999999997",
+  "park_site_name" : "100 Centre Street ",
+  "borough" : "Manhattan",
+  "longitude" : "-74.001447999999996"
+}
+, {
+  "address" : "100 Gold Street",
+  "site_type" : "Outdoor",
+  "latitude" : "40.710450000000002",
+  "park_site_name" : "100 Gold Street",
+  "borough" : "Manhattan",
+  "longitude" : "-74.003754999999998"
+}
+, {
+  "address" : "111 Centre St",
+  "site_type" : "Indoor",
+  "latitude" : "40.716396000000003",
+  "park_site_name" : "111 Centre St",
+  "borough" : "Manhattan",
+  "longitude" : "-74.001358999999994"
+}
+, {
+  "address" : "115 Chrystie St (Outside Main Entrance)",
+  "site_type" : "Outdoor",
+  "latitude" : "40.718604999999997",
+  "park_site_name" : "115 Chrystie St",
+  "borough" : "Manhattan",
+  "longitude" : "-73.993763000000001"
+}
+, {
+  "address" : "125 St & Lenox Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.807944999999997",
+  "park_site_name" : "125 St. BID",
+  "borough" : "Manhattan",
+  "longitude" : "-73.945622999999998"
+}
+, {
+  "address" : "137 Centre St (Centre St & White St)",
+  "site_type" : "Outdoor",
+  "latitude" : "40.716940999999998",
+  "park_site_name" : "137 Centre Street ",
+  "borough" : "Manhattan",
+  "longitude" : "-74.000816"
+}
+, {
+  "address" : "2 Lafayette St (Lafayette St & Reade St)",
+  "site_type" : "Outdoor",
+  "latitude" : "40.713608000000001",
+  "park_site_name" : "2 Lafayette St ",
+  "borough" : "Manhattan",
+  "longitude" : "-74.003619"
+}
+, {
+  "address" : "22 Reade St (Reade St & Elk St)",
+  "site_type" : "Outdoor",
+  "latitude" : "40.714022999999997",
+  "park_site_name" : "22 Reade St",
+  "borough" : "Manhattan",
+  "longitude" : "-74.004472000000007"
+}
+, {
+  "address" : "Broadway Btwn Reade St & Chambers St",
+  "site_type" : "Outdoor",
+  "latitude" : "40.714399",
+  "park_site_name" : "280 Broadway",
+  "borough" : "Manhattan",
+  "longitude" : "-74.006130999999996"
+}
+, {
+  "address" : "346 Broadway",
+  "site_type" : "Indoor",
+  "latitude" : "40.716827000000002",
+  "park_site_name" : "346 Broadway",
+  "borough" : "Manhattan",
+  "longitude" : "-74.004185000000007"
+}
+, {
+  "address" : "34 St & 7 Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.750900999999999",
+  "park_site_name" : "34th St",
+  "borough" : "Manhattan",
+  "longitude" : "-73.990842999999998"
+}
+, {
+  "address" : "49-51 Chambers Street (Outside Main Entrance)",
+  "site_type" : "Outdoor",
+  "latitude" : "40.713679999999997",
+  "park_site_name" : "49-51 Chambers Street ",
+  "borough" : "Manhattan",
+  "longitude" : "-74.005512999999993"
+}
+, {
+  "address" : "60 Lafayette St (Lafayette & Leonard)",
+  "site_type" : "Outdoor",
+  "latitude" : "40.716158",
+  "park_site_name" : "60 Lafayette St",
+  "borough" : "Manhattan",
+  "longitude" : "-74.002555000000001"
+}
+, {
+  "address" : "60 Lafayette St",
+  "site_type" : "Indoor",
+  "latitude" : "40.716458000000003",
+  "park_site_name" : "60 Lafayette St",
+  "borough" : "Manhattan",
+  "longitude" : "-74.002466999999996"
+}
+, {
+  "address" : "80 Centre St",
+  "site_type" : "Indoor",
+  "latitude" : "40.715387",
+  "park_site_name" : "80 Centre St",
+  "borough" : "Manhattan",
+  "longitude" : "-74.001773"
+}
+, {
+  "address" : "96 St & Lexington Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.785787",
+  "park_site_name" : "96th St Train Station (under our supervision)",
+  "borough" : "Manhattan",
+  "longitude" : "-73.951092"
+}
+, {
+  "address" : "96 St & Lexington Ave",
+  "site_type" : "Outdoor",
+  "latitude" : "40.785717",
+  "park_site_name" : "96th St Train Station (under our supervision)",
+  "borough" : "Manhattan",
+  "longitude" : "-73.950922"
+}
+, {
+  "address" : "80 Catherine St",
+  "site_type" : "Indoor",
+  "latitude" : "40.710412",
+  "park_site_name" : "Al Smith Rec Ctr",
+  "borough" : "Manhattan",
+  "longitude" : "-73.996979"
+}
+, {
+  "address" : "384 Asser Levy Pl",
+  "site_type" : "Indoor",
+  "latitude" : "40.736271",
+  "park_site_name" : "Asser Levy Rec Ctr",
+  "borough" : "Manhattan",
+  "longitude" : "-73.975508"
+}
+, {
+  "address" : "Battery Park ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.704592",
+  "park_site_name" : "Battery Park - DSNY Partnership",
+  "borough" : "Manhattan",
+  "longitude" : "-74.016957"
+}
+, {
+  "address" : "Battery Park City",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.711576000000001",
+  "park_site_name" : "Battery Park City",
+  "borough" : "Manhattan",
+  "longitude" : "-74.016051000000004"
+}
+, {
+  "address" : "Battery Park City",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.705075000000001",
+  "park_site_name" : "Battery Park City",
+  "borough" : "Manhattan",
+  "longitude" : "-74.017115000000004"
+}
+, {
+  "site_type" : "Outdoor",
+  "latitude" : "40.711565",
+  "park_site_name" : "Battery Park City",
+  "borough" : "Manhattan",
+  "longitude" : "-74.015853000000007"
+}
+, {
+  "address" : "100 Centre Street",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.716092000000003",
+  "park_site_name" : "Bayard St & Baxter St",
+  "borough" : "Manhattan",
+  "longitude" : "-74.000134000000003"
+}
+, {
+  "address" : "Mt. Carmel Pl Btwn E 26 St & E 28 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.739982",
+  "park_site_name" : "Bellevue South",
+  "borough" : "Manhattan",
+  "longitude" : "-73.978053"
+}
+, {
+  "address" : "Bennett Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.852856",
+  "park_site_name" : "Bennett Park",
+  "borough" : "Manhattan",
+  "longitude" : "-73.938098"
+}
+, {
+  "address" : "W 11 St Btwn Hudson St & Bleecker St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.736401",
+  "park_site_name" : "Bleecker St. Playground",
+  "borough" : "Manhattan",
+  "longitude" : "-74.005572"
+}
+, {
+  "address" : "Outside Entrance",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.712938999999999",
+  "park_site_name" : "Broadway & Murray St",
+  "borough" : "Manhattan",
+  "longitude" : "-74.007261999999997"
+}
+, {
+  "address" : "Outside Plaza Entrance",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.712479999999999",
+  "park_site_name" : "Broadway & Park Place",
+  "borough" : "Manhattan",
+  "longitude" : "-74.007642000000004"
+}
+, {
+  "address" : "Bryant Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.754390999999998",
+  "park_site_name" : "Bryant Park",
+  "borough" : "Manhattan",
+  "longitude" : "-73.983401999999998"
+}
+, {
+  "address" : "Bryant Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.753954",
+  "park_site_name" : "Bryant Park - Bryant Park Corp.",
+  "borough" : "Manhattan",
+  "longitude" : "-73.984092"
+}
+, {
+  "address" : "Carl Shurz Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.77453",
+  "park_site_name" : "Carl Shurz",
+  "borough" : "Manhattan",
+  "longitude" : "-73.943837"
+}
+, {
+  "address" : "143-145 St. Nicholas Avenue ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.804559",
+  "park_site_name" : "Carrie McCracken Garden/TRUCE",
+  "borough" : "Manhattan",
+  "longitude" : "-73.952985"
+}
+, {
+  "address" : "31 Chambers Street",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.712795999999997",
+  "park_site_name" : "Centre St & Chambers St",
+  "borough" : "Manhattan",
+  "longitude" : "-74.004816000000005"
+}
+, {
+  "address" : "Chelsea Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.749849",
+  "park_site_name" : "Chelsea Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.000856"
+}
+, {
+  "address" : "430 W 25 St",
+  "site_type" : "Indoor",
+  "latitude" : "40.748355",
+  "park_site_name" : "Chelsea Rec Center",
+  "borough" : "Manhattan",
+  "longitude" : "-74.002007"
+}
+, {
+  "address" : "Hudson River Park ",
+  "site_type" : "Outdoor",
+  "latitude" : "40.749349000000002",
+  "park_site_name" : "Chelsea Waterside Park Field",
+  "borough" : "Manhattan",
+  "longitude" : "-74.007351"
+}
+, {
+  "address" : "Hudson River Park ",
+  "site_type" : "Outdoor",
+  "latitude" : "40.749318000000002",
+  "park_site_name" : "Chelsea Waterside Park Playground",
+  "borough" : "Manhattan",
+  "longitude" : "-74.006980999999996"
+}
+, {
+  "address" : "City Hall Park ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.711834",
+  "park_site_name" : "City Hall Park ",
+  "borough" : "Manhattan",
+  "longitude" : "-74.007124"
+}
+, {
+  "address" : "City Hall Park ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.712806",
+  "park_site_name" : "City Hall Park ",
+  "borough" : "Manhattan",
+  "longitude" : "-74.004808"
+}
+, {
+  "address" : "City Hall Park ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.712896999999998",
+  "park_site_name" : "City Hall Park ",
+  "borough" : "Manhattan",
+  "longitude" : "-74.007268999999994"
+}
+, {
+  "address" : "City Hall Park ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.712517",
+  "park_site_name" : "City Hall Park ",
+  "borough" : "Manhattan",
+  "longitude" : "-74.007573"
+}
+, {
+  "address" : "Coleman Square Playground",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.710746",
+  "park_site_name" : "Coleman Square Playground",
+  "borough" : "Manhattan",
+  "longitude" : "-73.993819"
+}
+, {
+  "address" : "Colonel Charles Young Playground",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.819645",
+  "park_site_name" : "Colonel Young",
+  "borough" : "Manhattan",
+  "longitude" : "-73.936417"
+}
+, {
+  "address" : "Columbus Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.71475",
+  "park_site_name" : "Columbus Park - DSNY Partnership",
+  "borough" : "Manhattan",
+  "longitude" : "-74.000096"
+}
+, {
+  "address" : "Hudson River Park ",
+  "site_type" : "Outdoor",
+  "latitude" : "40.732377",
+  "park_site_name" : "Courtyard West ",
+  "borough" : "Manhattan",
+  "longitude" : "-74.010734999999997"
+}
+, {
+  "address" : "Harlem River Dr & 2 Ave ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.804284",
+  "park_site_name" : "Crack is Wack",
+  "borough" : "Manhattan",
+  "longitude" : "-73.931744"
+}
+, {
+  "address" : "DeSalvio Playground",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.721757",
+  "park_site_name" : "Desalvio",
+  "borough" : "Manhattan",
+  "longitude" : "-73.996052"
+}
+, {
+  "address" : "Centre Street",
+  "site_type" : "Outdoor",
+  "latitude" : "40.715110000000003",
+  "park_site_name" : "DSNY Main Office -Worth St",
+  "borough" : "Manhattan",
+  "longitude" : "-74.002358999999998"
+}
+, {
+  "address" : "Lafayette Street",
+  "site_type" : "Outdoor",
+  "latitude" : "40.715356",
+  "park_site_name" : "DSNY Main Office -Worth St",
+  "borough" : "Manhattan",
+  "longitude" : "-74.002984999999995"
+}
+, {
+  "address" : "Lexington Ave & E 129 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.807191",
+  "park_site_name" : "Each One Teach One",
+  "borough" : "Manhattan",
+  "longitude" : "-73.934751"
+}
+, {
+  "address" : "East River Bikeway",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.716205",
+  "park_site_name" : "East River Park- DSNY partnership",
+  "borough" : "Manhattan",
+  "longitude" : "-73.975494"
+}
+, {
+  "address" : "Broadway Btwn 39 St & 40 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.753937999999998",
+  "park_site_name" : "Fashion BID",
+  "borough" : "Manhattan",
+  "longitude" : "-73.986947000000001"
+}
+, {
+  "address" : "57 St & Lexington Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.760841999999997",
+  "park_site_name" : "Fashion BID",
+  "borough" : "Manhattan",
+  "longitude" : "-73.969307000000001"
+}
+, {
+  "address" : "Father Demo Square",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.730225",
+  "park_site_name" : "Father Dumo Square",
+  "borough" : "Manhattan",
+  "longitude" : "-74.002246"
+}
+, {
+  "address" : "Foley Square, Duane St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.714357",
+  "park_site_name" : "Foley Square - DSNY Partnership",
+  "borough" : "Manhattan",
+  "longitude" : "-74.003085"
+}
+, {
+  "address" : "Foley Square, Worth St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.715167",
+  "park_site_name" : "Foley Square - DSNY Partnership",
+  "borough" : "Manhattan",
+  "longitude" : "-74.002599"
+}
+, {
+  "address" : "7 Ave Btwn 150 St & 151 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.824847",
+  "park_site_name" : "Fred Johnson",
+  "borough" : "Manhattan",
+  "longitude" : "-73.935623"
+}
+, {
+  "address" : " 42 St & Lexington Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.751691999999998",
+  "park_site_name" : "Grand Central",
+  "borough" : "Manhattan",
+  "longitude" : "-73.975975000000005"
+}
+, {
+  "address" : "270 Greenwich Street",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.715108999999998",
+  "park_site_name" : "Greenwich & Murray",
+  "borough" : "Manhattan",
+  "longitude" : "-74.011381999999998"
+}
+, {
+  "address" : "Hamilton Fish Park",
+  "site_type" : "Indoor",
+  "latitude" : "40.719937",
+  "park_site_name" : "Hamilton Fish",
+  "borough" : "Manhattan",
+  "longitude" : "-73.981432"
+}
+, {
+  "address" : "Pitt St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.720057",
+  "park_site_name" : "Hamilton Fish Recreation Center",
+  "borough" : "Manhattan",
+  "longitude" : "-73.981636"
+}
+, {
+  "address" : "East River Bikeway",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.716618",
+  "park_site_name" : "Hamilton Fish Recreation Center",
+  "borough" : "Manhattan",
+  "longitude" : "-73.975256"
+}
+, {
+  "address" : "East River Bikeway",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.717499",
+  "park_site_name" : "Hamilton Fish Recreation Center",
+  "borough" : "Manhattan",
+  "longitude" : "-73.974858"
+}
+, {
+  "address" : "East River Bikeway",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.718372000000002",
+  "park_site_name" : "Hamilton Fish Recreation Center",
+  "borough" : "Manhattan",
+  "longitude" : "-73.974673999999993"
+}
+, {
+  "address" : "East River Bikeway",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.718888",
+  "park_site_name" : "Hamilton Fish Recreation Center",
+  "borough" : "Manhattan",
+  "longitude" : "-73.974598"
+}
+, {
+  "address" : "East River Bikeway",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.719832",
+  "park_site_name" : "Hamilton Fish Recreation Center",
+  "borough" : "Manhattan",
+  "longitude" : "-73.974488"
+}
+, {
+  "address" : "East River Bikeway",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.721303",
+  "park_site_name" : "Hamilton Fish Recreation Center",
+  "borough" : "Manhattan",
+  "longitude" : "-73.974323"
+}
+, {
+  "address" : "East River Bikeway",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.722911",
+  "park_site_name" : "Hamilton Fish Recreation Center",
+  "borough" : "Manhattan",
+  "longitude" : "-73.973828"
+}
+, {
+  "address" : "East River Bikeway",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.723896",
+  "park_site_name" : "Hamilton Fish Recreation Center",
+  "borough" : "Manhattan",
+  "longitude" : "-73.973184"
+}
+, {
+  "address" : "East River Bikeway",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.724113",
+  "park_site_name" : "Hamilton Fish Recreation Center",
+  "borough" : "Manhattan",
+  "longitude" : "-73.973016"
+}
+, {
+  "address" : "East River Bikeway",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.725238",
+  "park_site_name" : "Hamilton Fish Recreation Center",
+  "borough" : "Manhattan",
+  "longitude" : "-73.972364"
+}
+, {
+  "address" : "35 W 134 St",
+  "site_type" : "Indoor",
+  "latitude" : "40.812748",
+  "park_site_name" : "Hansboro",
+  "borough" : "Manhattan",
+  "longitude" : "-73.939317"
+}
+, {
+  "address" : "333 E 100 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.78613",
+  "park_site_name" : "Harlem RBI – Community Group",
+  "borough" : "Manhattan",
+  "longitude" : "-73.943294"
+}
+, {
+  "address" : "Harlem River Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.806036",
+  "park_site_name" : "Harlem River Ballfield",
+  "borough" : "Manhattan",
+  "longitude" : "-73.934206"
+}
+, {
+  "address" : "Hudson River Park ",
+  "site_type" : "Outdoor",
+  "latitude" : "40.718741999999999",
+  "park_site_name" : "Harrison St Basketball Court",
+  "borough" : "Manhattan",
+  "longitude" : "-74.013092"
+}
+, {
+  "address" : "Washington St & Gansevoort St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.739465000000003",
+  "park_site_name" : "High Line Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.008161999999999"
+}
+, {
+  "address" : "High Line Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.740850000000002",
+  "park_site_name" : "High Line Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.008055999999996"
+}
+, {
+  "address" : "High Line Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.743298000000003",
+  "park_site_name" : "High Line Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.007034000000004"
+}
+, {
+  "address" : "Washington Bridge",
+  "site_type" : "Indoor",
+  "latitude" : "40.847983",
+  "park_site_name" : "Highbridge",
+  "borough" : "Manhattan",
+  "longitude" : "-73.929251"
+}
+, {
+  "address" : "W 20 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.746041",
+  "park_site_name" : "Highline Entrance+Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.006109"
+}
+, {
+  "address" : "Hudson River Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.731457",
+  "park_site_name" : "Hudson River Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.010973"
+}
+, {
+  "address" : "14 St Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.742795000000001",
+  "park_site_name" : "Hudson River Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.008032999999998"
+}
+, {
+  "address" : "Pier 62 Garden Area",
+  "site_type" : "Outdoor",
+  "latitude" : "40.748683999999997",
+  "park_site_name" : "Hudson River Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.008825000000002"
+}
+, {
+  "address" : "Pier 62 Skate Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.748506999999996",
+  "park_site_name" : "Hudson River Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.009282999999996"
+}
+, {
+  "address" : "Pier 51 Playground",
+  "site_type" : "Outdoor",
+  "latitude" : "40.738145000000003",
+  "park_site_name" : "Hudson River Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.010417000000004"
+}
+, {
+  "address" : "Pier 84 (43 St Bike Shop)",
+  "site_type" : "Outdoor",
+  "latitude" : "40.762839",
+  "park_site_name" : "Hudson River Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.001011000000005"
+}
+, {
+  "address" : "Pier 66 Seating Area",
+  "site_type" : "Outdoor",
+  "latitude" : "40.751987",
+  "park_site_name" : "Hudson River Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.008443"
+}
+, {
+  "address" : "Pier 95",
+  "site_type" : "Outdoor",
+  "latitude" : "40.770381",
+  "park_site_name" : "Hudson River Park",
+  "borough" : "Manhattan",
+  "longitude" : "-73.995823999999999"
+}
+, {
+  "address" : "Pier 40 Courtyard & Tunel",
+  "site_type" : "Outdoor",
+  "latitude" : "40.728833000000002",
+  "park_site_name" : "Hudson River Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.011899"
+}
+, {
+  "address" : "Tennis Courts",
+  "site_type" : "Outdoor",
+  "latitude" : "40.727097000000001",
+  "park_site_name" : "Hudson River Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.011511999999996"
+}
+, {
+  "address" : "60 Centre Street",
+  "site_type" : "Outdoor",
+  "latitude" : "40.714666000000001",
+  "park_site_name" : "Hudson River Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.002176000000006"
+}
+, {
+  "address" : "Battery Park Entrance (State St & Water St)",
+  "site_type" : "Outdoor",
+  "latitude" : "40.702410999999998",
+  "park_site_name" : "Hudson River Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.012878999999998"
+}
+, {
+  "address" : "Essex St & Delancy St",
+  "site_type" : "Outdoor",
+  "latitude" : "40.702350000000003",
+  "park_site_name" : "Hudson River Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.014392999999998"
+}
+, {
+  "address" : "White Hall Ferry Terminal (Indoor & Outdoor)",
+  "site_type" : "Outdoor",
+  "latitude" : "40.701307",
+  "park_site_name" : "Hudson River Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.011998000000006"
+}
+, {
+  "address" : "Imagination Playground",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.706124",
+  "park_site_name" : "Imagination Playground",
+  "borough" : "Manhattan",
+  "longitude" : "-74.004217"
+}
+, {
+  "address" : "Inwood Hill Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.87126",
+  "park_site_name" : "Inwood Dyckman fields",
+  "borough" : "Manhattan",
+  "longitude" : "-73.930765"
+}
+, {
+  "address" : "Inwood Hill Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.872594",
+  "park_site_name" : "Inwood Dyckman fields",
+  "borough" : "Manhattan",
+  "longitude" : "-73.930199"
+}
+, {
+  "address" : "Inwood Hill Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.867338",
+  "park_site_name" : "Inwood Hill",
+  "borough" : "Manhattan",
+  "longitude" : "-73.929011"
+}
+, {
+  "address" : "218 St & Indian Rd",
+  "site_type" : "Indoor",
+  "latitude" : "40.87303",
+  "park_site_name" : "Inwood Hill Nature Center",
+  "borough" : "Manhattan",
+  "longitude" : "-73.918427"
+}
+, {
+  "address" : "Jay Hood Wright Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.84637",
+  "park_site_name" : "J. Hood Wright",
+  "borough" : "Manhattan",
+  "longitude" : "-73.940825"
+}
+, {
+  "address" : "Jay Hood Wright Park",
+  "site_type" : "Indoor",
+  "latitude" : "40.84696",
+  "park_site_name" : "J. Hood Wright",
+  "borough" : "Manhattan",
+  "longitude" : "-73.940028"
+}
+, {
+  "address" : "89 Bradhurst Ave",
+  "site_type" : "Indoor",
+  "latitude" : "40.824297",
+  "park_site_name" : "Jackie Robinson",
+  "borough" : "Manhattan",
+  "longitude" : "-73.942288"
+}
+, {
+  "address" : "Jackson Square",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.738952",
+  "park_site_name" : "Jackson Square",
+  "borough" : "Manhattan",
+  "longitude" : "-74.002882"
+}
+, {
+  "address" : "Fort Tyron Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.859226",
+  "park_site_name" : "Jacob Javits Playground",
+  "borough" : "Manhattan",
+  "longitude" : "-73.934552"
+}
+, {
+  "address" : "Jacob Schiff Playground ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.820071",
+  "park_site_name" : "Jacob Schiff",
+  "borough" : "Manhattan",
+  "longitude" : "-73.952107"
+}
+, {
+  "address" : "John Jay Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.769445",
+  "park_site_name" : "John Jay Park",
+  "borough" : "Manhattan",
+  "longitude" : "-73.949898"
+}
+, {
+  "address" : "2015 Lexington Avenue ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.802588",
+  "park_site_name" : "Life Spire (CRMD, Inc.)",
+  "borough" : "Manhattan",
+  "longitude" : "-73.938468"
+}
+, {
+  "address" : "Broadway & 66 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.773715000000003",
+  "park_site_name" : "Lincoln Square",
+  "borough" : "Manhattan",
+  "longitude" : "-73.981956999999994"
+}
+, {
+  "address" : "Broadway & 63 St ",
+  "site_type" : "Outdoor",
+  "latitude" : "40.771372",
+  "park_site_name" : "Lincoln Square",
+  "borough" : "Manhattan",
+  "longitude" : "-73.982072000000002"
+}
+, {
+  "address" : "1547 Lexington Ave",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.828677",
+  "park_site_name" : "Maggie's Garden",
+  "borough" : "Manhattan",
+  "longitude" : "-73.948059"
+}
+, {
+  "address" : "W 43 St Btwn 8 & 9 Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.758977",
+  "park_site_name" : "McCaffry Plgd – Parks",
+  "borough" : "Manhattan",
+  "longitude" : "-73.991396"
+}
+, {
+  "address" : "955 Columbus Avenue ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.799707",
+  "park_site_name" : "Mobilization for Change Community Garden",
+  "borough" : "Manhattan",
+  "longitude" : "-73.962203"
+}
+, {
+  "address" : "W 116 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.805621",
+  "park_site_name" : "Morningside Park",
+  "borough" : "Manhattan",
+  "longitude" : "-73.958455"
+}
+, {
+  "address" : "Morningside Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.80413",
+  "park_site_name" : "Morningside Park",
+  "borough" : "Manhattan",
+  "longitude" : "-73.958298"
+}
+, {
+  "address" : "W 113 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.803133",
+  "park_site_name" : "Morningside Park",
+  "borough" : "Manhattan",
+  "longitude" : "-73.958336"
+}
+, {
+  "address" : "Morningside Dr",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.801921",
+  "park_site_name" : "Morningside Park",
+  "borough" : "Manhattan",
+  "longitude" : "-73.960854"
+}
+, {
+  "address" : "455-457 W 162nd Street ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.835708",
+  "park_site_name" : "Morris Jumel Ecological Garden",
+  "borough" : "Manhattan",
+  "longitude" : "-73.939122"
+}
+, {
+  "address" : "W 79 St & Columbus Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.781936",
+  "park_site_name" : "Museum of Natural History/Planitarium",
+  "borough" : "Manhattan",
+  "longitude" : "-73.97542"
+}
+, {
+  "address" : "W 78 St & Columbus Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.781265",
+  "park_site_name" : "Museum of Natural History/Planitarium",
+  "borough" : "Manhattan",
+  "longitude" : "-73.975927"
+}
+, {
+  "address" : "Central Park West",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.780558",
+  "park_site_name" : "Museum of Natural History/Planitarium",
+  "borough" : "Manhattan",
+  "longitude" : "-73.972924"
+}
+, {
+  "address" : "W 81 St Loop",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.782175",
+  "park_site_name" : "Museum of Natural History/Planitarium",
+  "borough" : "Manhattan",
+  "longitude" : "-73.972256"
+}
+, {
+  "address" : "W 81 St Loop",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.782665999999999",
+  "park_site_name" : "Museum of Natural History/Planitarium",
+  "borough" : "Manhattan",
+  "longitude" : "-73.973214999999996"
+}
+, {
+  "address" : "275-277 W. 122nd St.",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.808183",
+  "park_site_name" : "Our Little Green Acres (Garden Eight)",
+  "borough" : "Manhattan",
+  "longitude" : "-73.95205"
+}
+, {
+  "address" : "Outside Plaza  Entrance",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.711826000000002",
+  "park_site_name" : "Park Row & Beekman Street",
+  "borough" : "Manhattan",
+  "longitude" : "-74.007142000000002"
+}
+, {
+  "address" : "116-122 West 134th Street ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.814478",
+  "park_site_name" : "Parks Council Success Garden- P.S. 175 I.S. 275",
+  "borough" : "Manhattan",
+  "longitude" : "-73.943498"
+}
+, {
+  "address" : "Inwood Hill Park",
+  "site_type" : "Subproperty",
+  "latitude" : "40.867205",
+  "park_site_name" : "Payson Playground",
+  "borough" : "Manhattan",
+  "longitude" : "-73.929121"
+}
+, {
+  "address" : "18 Mount Morris Park",
+  "site_type" : "Indoor",
+  "latitude" : "40.805463",
+  "park_site_name" : "Pelham Fritz",
+  "borough" : "Manhattan",
+  "longitude" : "-73.946284"
+}
+, {
+  "address" : "Pier 25 West End, Hudson River Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.720478",
+  "park_site_name" : "Pier 25",
+  "borough" : "Manhattan",
+  "longitude" : "-74.016222999999997"
+}
+, {
+  "address" : "Hudson River Park ",
+  "site_type" : "Outdoor",
+  "park_site_name" : "Pier 25",
+  "borough" : "Manhattan"
+}
+, {
+  "address" : "Hudson River Park ",
+  "site_type" : "Outdoor",
+  "latitude" : "40.720176000000002",
+  "park_site_name" : "Pier 25 Mini Golf & Skate Park",
+  "borough" : "Manhattan",
+  "longitude" : "-74.013948999999997"
+}
+, {
+  "address" : "Pier 25 Playground West Gate, Hudson River Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.719714000000003",
+  "park_site_name" : "Pier 25 Playground",
+  "borough" : "Manhattan",
+  "longitude" : "-74.012943000000007"
+}
+, {
+  "address" : "Pier 40 Courtyard & Tunnel, Hudson River Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.729170000000003",
+  "park_site_name" : "Pier 40",
+  "borough" : "Manhattan",
+  "longitude" : "-74.011317000000005"
+}
+, {
+  "address" : "Pier 40, Hudson River Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.730379999999997",
+  "park_site_name" : "Pier 40 Dog Run",
+  "borough" : "Manhattan",
+  "longitude" : "-74.011004999999997"
+}
+, {
+  "address" : "Pier 40, Hudson River Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.728828",
+  "park_site_name" : "Pier 40 Roof",
+  "borough" : "Manhattan",
+  "longitude" : "-74.011903000000004"
+}
+, {
+  "address" : "Hudson River Park ",
+  "site_type" : "Outdoor",
+  "latitude" : "40.732970999999999",
+  "park_site_name" : "Pier 45",
+  "borough" : "Manhattan",
+  "longitude" : "-74.010874999999999"
+}
+, {
+  "address" : "Hudson River Park ",
+  "site_type" : "Outdoor",
+  "latitude" : "40.743409999999997",
+  "park_site_name" : "Pier 57",
+  "borough" : "Manhattan",
+  "longitude" : "-74.009"
+}
+, {
+  "address" : "Hudson River Park ",
+  "site_type" : "Outdoor",
+  "latitude" : "40.763247",
+  "park_site_name" : "Pier 84 (44 St Park Building)",
+  "borough" : "Manhattan",
+  "longitude" : "-74.000041999999993"
+}
+, {
+  "address" : "342-353 Pleasant Ave./502 E. 119th Street",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.796609",
+  "park_site_name" : "Pleasant Village Community Garden",
+  "borough" : "Manhattan",
+  "longitude" : "-73.931602"
+}
+, {
+  "address" : "Hudson River Park ",
+  "site_type" : "Outdoor",
+  "latitude" : "40.707656",
+  "park_site_name" : "Promenade South",
+  "borough" : "Manhattan",
+  "longitude" : "-74.015975999999995"
+}
+, {
+  "address" : "E 54 St Btwn 1 Ave & 2 Ave",
+  "site_type" : "Indoor",
+  "latitude" : "40.756564",
+  "park_site_name" : "Rec Center  54",
+  "borough" : "Manhattan",
+  "longitude" : "-73.965043"
+}
+, {
+  "address" : "Riverside Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.787059",
+  "park_site_name" : "Riverside Park- Plgd @ 83rd St.",
+  "borough" : "Manhattan",
+  "longitude" : "-73.982257"
+}
+, {
+  "address" : "155 St & Frederick Douglass Blvd",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.829744",
+  "park_site_name" : "Rucker Park-parks",
+  "borough" : "Manhattan",
+  "longitude" : "-73.936431"
+}
+, {
+  "address" : "Chrystie St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.721035",
+  "park_site_name" : "Sara D. Roosevelt",
+  "borough" : "Manhattan",
+  "longitude" : "-73.991596"
+}
+, {
+  "address" : "Seward park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.714603",
+  "park_site_name" : "Seward park",
+  "borough" : "Manhattan",
+  "longitude" : "-73.990111"
+}
+, {
+  "address" : "78-92 Avenue B",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.724254",
+  "park_site_name" : "Sixth St. & Ave. B",
+  "borough" : "Manhattan",
+  "longitude" : "-73.982088"
+}
+, {
+  "address" : "Broadway &  Prince St ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.724319000000001",
+  "park_site_name" : "Soho Parnership",
+  "borough" : "Manhattan",
+  "longitude" : "-73.997827999999998"
+}
+, {
+  "address" : "Spring St & Lafayette St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.722270000000002",
+  "park_site_name" : "Soho Partnership",
+  "borough" : "Manhattan",
+  "longitude" : "-73.997287"
+}
+, {
+  "address" : "St. Catherine's Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.76512",
+  "park_site_name" : "St. Catherine's ",
+  "borough" : "Manhattan",
+  "longitude" : "-73.958509"
+}
+, {
+  "address" : "135 St & St. Nicholas Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.817272000000003",
+  "park_site_name" : "St. Nicholas",
+  "borough" : "Manhattan",
+  "longitude" : "-73.948248000000007"
+}
+, {
+  "address" : "St. Vartan's Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.744858",
+  "park_site_name" : "St. Vartan's ",
+  "borough" : "Manhattan",
+  "longitude" : "-73.973764"
+}
+, {
+  "address" : "East River Bikeway",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.73277",
+  "park_site_name" : "Stuyvesant- Parks",
+  "borough" : "Manhattan",
+  "longitude" : "-73.97406"
+}
+, {
+  "address" : "Jefferson Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.793412",
+  "park_site_name" : "Thomas Jefferson",
+  "borough" : "Manhattan",
+  "longitude" : "-73.937115"
+}
+, {
+  "address" : "Duane St & Centre St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.714045",
+  "park_site_name" : "Thomas Payne",
+  "borough" : "Manhattan",
+  "longitude" : "-74.003135"
+}
+, {
+  "address" : "Duane St & Lafayette St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.714224",
+  "park_site_name" : "Thomas Payne",
+  "borough" : "Manhattan",
+  "longitude" : "-74.003285"
+}
+, {
+  "address" : "Centre St & Worth St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.715059",
+  "park_site_name" : "Thomas Payne",
+  "borough" : "Manhattan",
+  "longitude" : "-74.002355"
+}
+, {
+  "address" : "Lafayette St & Worth St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.715355",
+  "park_site_name" : "Thomas Payne",
+  "borough" : "Manhattan",
+  "longitude" : "-74.002982"
+}
+, {
+  "address" : "42 St Btwn Broadway & 7 Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.755913999999997",
+  "park_site_name" : "Times Square",
+  "borough" : "Manhattan",
+  "longitude" : "-73.986711999999997"
+}
+, {
+  "address" : "Avenue A & E 7 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.72603",
+  "park_site_name" : "Tompkins Square Park",
+  "borough" : "Manhattan",
+  "longitude" : "-73.983353"
+}
+, {
+  "address" : "Avenue A & St. Mark's Pl",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.726599",
+  "park_site_name" : "Tompkins Square Park",
+  "borough" : "Manhattan",
+  "longitude" : "-73.982985"
+}
+, {
+  "address" : "Avenue B & E 8 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.725698",
+  "park_site_name" : "Tompkins Square Park",
+  "borough" : "Manhattan",
+  "longitude" : "-73.980843"
+}
+, {
+  "address" : "1 Clarkson St",
+  "site_type" : "Indoor",
+  "latitude" : "40.729474",
+  "park_site_name" : "Tony Dapolito",
+  "borough" : "Manhattan",
+  "longitude" : "-74.005489"
+}
+, {
+  "address" : "Greenwich & North Moore",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.719979000000002",
+  "park_site_name" : "Tribeca Partnership",
+  "borough" : "Manhattan",
+  "longitude" : "-74.010272000000001"
+}
+, {
+  "address" : "Union Square Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.735243",
+  "park_site_name" : "Union Square ",
+  "borough" : "Manhattan",
+  "longitude" : "-73.991012"
+}
+, {
+  "address" : "Union Square Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.735219",
+  "park_site_name" : "Union Square ",
+  "borough" : "Manhattan",
+  "longitude" : "-73.991603"
+}
+, {
+  "address" : "Union Square Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.735292",
+  "park_site_name" : "Union Square ",
+  "borough" : "Manhattan",
+  "longitude" : "-73.991614"
+}
+, {
+  "address" : "Union Square Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.737023",
+  "park_site_name" : "Union Square ",
+  "borough" : "Manhattan",
+  "longitude" : "-73.990324"
+}
+, {
+  "address" : "Union Square Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.736535",
+  "park_site_name" : "Union Square ",
+  "borough" : "Manhattan",
+  "longitude" : "-73.989754"
+}
+, {
+  "address" : "Union Square Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.736122",
+  "park_site_name" : "Union Square ",
+  "borough" : "Manhattan",
+  "longitude" : "-73.98963"
+}
+, {
+  "address" : "Union Square Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.73534",
+  "park_site_name" : "Union Square ",
+  "borough" : "Manhattan",
+  "longitude" : "-73.990127"
+}
+, {
+  "address" : "Verdi Square",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.77878",
+  "park_site_name" : "Verdi Square",
+  "borough" : "Manhattan",
+  "longitude" : "-73.981788"
+}
+, {
+  "address" : "Thompson St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.72534",
+  "park_site_name" : "Vesuvio Playground",
+  "borough" : "Manhattan",
+  "longitude" : "-74.002324"
+}
+, {
+  "address" : "107 Wall Street",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.704695000000001",
+  "park_site_name" : "Wall Street (South/Front)",
+  "borough" : "Manhattan",
+  "longitude" : "-74.006729000000007"
+}
+, {
+  "address" : "100 Wall Street",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.704918999999997",
+  "park_site_name" : "Wall Street (Water/Front)",
+  "borough" : "Manhattan",
+  "longitude" : "-74.007084000000006"
+}
+, {
+  "address" : "270 Greenwich Street",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.715575000000001",
+  "park_site_name" : "Warren & Greenwich",
+  "borough" : "Manhattan",
+  "longitude" : "-74.011301000000003"
+}
+, {
+  "address" : "Washington Market Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.717298",
+  "park_site_name" : "Washington Market Playground",
+  "borough" : "Manhattan",
+  "longitude" : "-74.011001"
+}
+, {
+  "address" : "Washington Square Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.729689",
+  "park_site_name" : "Washington Square Park",
+  "borough" : "Manhattan",
+  "longitude" : "-73.99662"
+}
+, {
+  "address" : "West 124th Street and 5th Avenue ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.806938",
+  "park_site_name" : "West 124th Street Community Garden",
+  "borough" : "Manhattan",
+  "longitude" : "-73.945301"
+}
+, {
+  "address" : "6 Ave Btwn W 3 St & W 4 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.731315",
+  "park_site_name" : "West 4th St. Courts (PLGD)",
+  "borough" : "Manhattan",
+  "longitude" : "-74.000988"
+}
+, {
+  "address" : "West End Ave & 86 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.788756999999997",
+  "park_site_name" : "West End Avenuw",
+  "borough" : "Manhattan",
+  "longitude" : "-73.977788000000004"
+}
+, {
+  "address" : "State Street outside Whitehall Ferry Terminal ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.702334999999998",
+  "park_site_name" : "Whitehall Ferry Terminal",
+  "borough" : "Manhattan",
+  "longitude" : "-74.014384000000007"
+}
+, {
+  "address" : "35-30 35 St",
+  "site_type" : "Indoor",
+  "latitude" : "40.755803",
+  "park_site_name" : "A.R.R.O.W. Field house",
+  "borough" : "Queens",
+  "longitude" : "-73.926310000000001"
+}
+, {
+  "site_type" : "Outdoor ",
+  "latitude" : "40.728344",
+  "park_site_name" : "Abe Wolfson",
+  "borough" : "Queens",
+  "longitude" : "-73.815158999999994"
+}
+, {
+  "address" : "Addabo Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.673136999999997",
+  "park_site_name" : "Addabo Park",
+  "borough" : "Queens",
+  "longitude" : "-73.854609999999994"
+}
+, {
+  "address" : "131-40 Fowler Ave",
+  "site_type" : "Indoor",
+  "latitude" : "40.751418000000001",
+  "park_site_name" : "Al Oerter Rec Center ",
+  "borough" : "Queens",
+  "longitude" : "-73.833843000000002"
+}
+, {
+  "address" : "22806 Northern Blvd",
+  "site_type" : "Indoor",
+  "latitude" : "40.762689999999999",
+  "park_site_name" : "Alley Pond Environmental",
+  "borough" : "Queens",
+  "longitude" : "-73.753297000000003"
+}
+, {
+  "address" : "Alley Pond Park",
+  "site_type" : "Subproperty",
+  "latitude" : "40.740062999999999",
+  "park_site_name" : "Alley Springfield, picnic and athletic",
+  "borough" : "Queens",
+  "longitude" : "-73.734290999999999"
+}
+, {
+  "address" : "Alley Pond Park",
+  "site_type" : "Subproperty",
+  "latitude" : "40.739522999999998",
+  "park_site_name" : "Alley Springfield, picnic and athletic",
+  "borough" : "Queens",
+  "longitude" : "-73.734881000000001"
+}
+, {
+  "address" : "Alley Pond Park",
+  "site_type" : "Subproperty",
+  "latitude" : "40.739294999999998",
+  "park_site_name" : "Alley Springfield, picnic and athletic",
+  "borough" : "Queens",
+  "longitude" : "-73.735872999999998"
+}
+, {
+  "address" : "Alley Pond Park",
+  "site_type" : "Subproperty",
+  "latitude" : "40.738985999999997",
+  "park_site_name" : "Alley Springfield, picnic and athletic",
+  "borough" : "Queens",
+  "longitude" : "-73.737665000000007"
+}
+, {
+  "address" : "Alley Pond Park",
+  "site_type" : "Subproperty",
+  "latitude" : "40.739758000000002",
+  "park_site_name" : "Alley Springfield, picnic and athletic",
+  "borough" : "Queens",
+  "longitude" : "-73.735460000000003"
+}
+, {
+  "address" : "Astoria Park S",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.776788000000003",
+  "park_site_name" : "Astoria Park",
+  "borough" : "Queens",
+  "longitude" : "-73.927530000000004"
+}
+, {
+  "address" : "Ehrenreich-Austin Playground",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.715851000000001",
+  "park_site_name" : "Austin E",
+  "borough" : "Queens",
+  "longitude" : "-73.836995000000002"
+}
+, {
+  "address" : "150-14 115th Drive ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.683453",
+  "park_site_name" : "B.C.C.A. Mini-Park and Garden",
+  "borough" : "Queens",
+  "longitude" : "-73.79213"
+}
+, {
+  "address" : "155 St & 125 Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.675268000000003",
+  "park_site_name" : "Baisley Pond Park",
+  "borough" : "Queens",
+  "longitude" : "-73.786905000000004"
+}
+, {
+  "address" : "Lakeview Blvd & 118 Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.682417999999998",
+  "park_site_name" : "Baisley Pond Park",
+  "borough" : "Queens",
+  "longitude" : "-73.785392000000002"
+}
+, {
+  "address" : "155 St & 118 Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.681365999999997",
+  "park_site_name" : "Baisley Pond Park",
+  "borough" : "Queens",
+  "longitude" : "-73.787853999999996"
+}
+, {
+  "address" : "Bland Playground",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.758381",
+  "park_site_name" : "Bland Playground",
+  "borough" : "Queens",
+  "longitude" : "-73.831007999999997"
+}
+, {
+  "address" : "Inwood Stree between Lakewood & Shore Aves",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.690593999999997",
+  "park_site_name" : "Block Association #81",
+  "borough" : "Queens",
+  "longitude" : "-73.803821999999997"
+}
+, {
+  "address" : "143 Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.663460000000001",
+  "park_site_name" : "Brookville Park",
+  "borough" : "Queens",
+  "longitude" : "-73.741328999999993"
+}
+, {
+  "address" : "232 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.661051",
+  "park_site_name" : "Brookville Park",
+  "borough" : "Queens",
+  "longitude" : "-73.746639000000002"
+}
+, {
+  "address" : "147 Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.657674",
+  "park_site_name" : "Brookville Park",
+  "borough" : "Queens",
+  "longitude" : "-73.748388000000006"
+}
+, {
+  "address" : "Crocheron Park",
+  "site_type" : "Subproperty",
+  "latitude" : "40.770752999999999",
+  "park_site_name" : "Buzz O'Rourke Playground",
+  "borough" : "Queens",
+  "longitude" : "-73.771739999999994"
+}
+, {
+  "address" : "135 Ave btwn 131 St & 132 St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.667504999999998",
+  "park_site_name" : "Byrne Park",
+  "borough" : "Queens",
+  "longitude" : "-73.807496"
+}
+, {
+  "address" : "Captain Tilly Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.712529000000004",
+  "park_site_name" : "Captain Tilly",
+  "borough" : "Queens",
+  "longitude" : "-73.799377000000007"
+}
+, {
+  "address" : "Astoria Park",
+  "site_type" : "Subproperty",
+  "latitude" : "40.779896999999998",
+  "park_site_name" : "Charybdis plgd",
+  "borough" : "Queens",
+  "longitude" : "-73.922391000000005"
+}
+, {
+  "address" : "33 Rd & 215 Pl",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.772080000000003",
+  "park_site_name" : "Crocheron Park",
+  "borough" : "Queens",
+  "longitude" : "-73.769437999999994"
+}
+, {
+  "address" : "30-15 Seagirt Blvd. @ Beach 31st Street",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.595548000000001",
+  "park_site_name" : "Culinary Kids",
+  "borough" : "Queens",
+  "longitude" : "-73.762265999999997"
+}
+, {
+  "address" : "Cunningham Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.736722",
+  "park_site_name" : "Cunningham Ballfields",
+  "borough" : "Queens",
+  "longitude" : "-73.770538000000002"
+}
+, {
+  "address" : "Cunningham Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.735230000000001",
+  "park_site_name" : "Cunningham Ballfields",
+  "borough" : "Queens",
+  "longitude" : "-73.772082999999995"
+}
+, {
+  "address" : "Cunningham Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.730966000000002",
+  "park_site_name" : "Cunningham Picnic",
+  "borough" : "Queens",
+  "longitude" : "-73.772458"
+}
+, {
+  "address" : "Cunningham Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.73836",
+  "park_site_name" : "Cunningham Soccer",
+  "borough" : "Queens",
+  "longitude" : "-73.764990999999995"
+}
+, {
+  "address" : "Cunningham Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.730117",
+  "park_site_name" : "Cunningham tennis courts",
+  "borough" : "Queens",
+  "longitude" : "-73.7727"
+}
+, {
+  "address" : "Cunningham Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.729498999999997",
+  "park_site_name" : "Cunningham tennis courts",
+  "borough" : "Queens",
+  "longitude" : "-73.772887999999995"
+}
+, {
+  "address" : "Detective Keith Williams Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.701915",
+  "park_site_name" : "Detective Keith Williams",
+  "borough" : "Queens",
+  "longitude" : "-73.783477000000005"
+}
+, {
+  "address" : "Elmhurst Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.730193",
+  "park_site_name" : "Elmhurst Park",
+  "borough" : "Queens",
+  "longitude" : "-73.885301999999996"
+}
+, {
+  "address" : "United Nations Ave S",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.744249000000003",
+  "park_site_name" : "Flushing Meadows Corona Park",
+  "borough" : "Queens",
+  "longitude" : "-73.844067999999993"
+}
+, {
+  "address" : "Amphitheater Bridge",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.740388000000003",
+  "park_site_name" : "Flushing Meadows Corona Park",
+  "borough" : "Queens",
+  "longitude" : "-73.841879000000006"
+}
+, {
+  "address" : "Meadow Lake Trail E",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.737039000000003",
+  "park_site_name" : "Flushing Meadows Corona Park",
+  "borough" : "Queens",
+  "longitude" : "-73.837856000000002"
+}
+, {
+  "address" : "Dinosaur Playground",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.735168999999999",
+  "park_site_name" : "Flushing Meadows Corona Park",
+  "borough" : "Queens",
+  "longitude" : "-73.843434999999999"
+}
+, {
+  "address" : "Meadow Lake Trail W",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.7333",
+  "park_site_name" : "Flushing Meadows Corona Park",
+  "borough" : "Queens",
+  "longitude" : "-73.841976000000003"
+}
+, {
+  "address" : "Baseball Field 13",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.728112000000003",
+  "park_site_name" : "Flushing Meadows Corona Park",
+  "borough" : "Queens",
+  "longitude" : "-73.835592000000005"
+}
+, {
+  "address" : "Unisphere",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.746639000000002",
+  "park_site_name" : "Flushing Meadows Corona Park",
+  "borough" : "Queens",
+  "longitude" : "-73.844583"
+}
+, {
+  "address" : "Field 2, Avenue of Commerce",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.749150999999998",
+  "park_site_name" : "Flushing Meadows Corona Park",
+  "borough" : "Queens",
+  "longitude" : "-73.840065999999993"
+}
+, {
+  "address" : "Avery Ave & 131 St",
+  "site_type" : "Indoor",
+  "latitude" : "40.751882000000002",
+  "park_site_name" : "Flushing Meadows Pool",
+  "borough" : "Queens",
+  "longitude" : "-73.837458999999996"
+}
+, {
+  "address" : "Bandshell",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.698413000000002",
+  "park_site_name" : "Forest Park",
+  "borough" : "Queens",
+  "longitude" : "-73.857671999999994"
+}
+, {
+  "address" : "Tennis Courts",
+  "site_type" : "Outdoor",
+  "latitude" : "40.697470000000003",
+  "park_site_name" : "Forest Park",
+  "borough" : "Queens",
+  "longitude" : "-73.856663999999995"
+}
+, {
+  "address" : "Dog Run",
+  "site_type" : "Outdoor",
+  "latitude" : "40.696640000000002",
+  "park_site_name" : "Forest Park",
+  "borough" : "Queens",
+  "longitude" : "-73.860343999999998"
+}
+, {
+  "address" : "Woodhaven Blvd & Park Lane S",
+  "site_type" : "Outdoor",
+  "latitude" : "40.697989999999997",
+  "park_site_name" : "Forest Park",
+  "borough" : "Queens",
+  "longitude" : "-73.853295000000003"
+}
+, {
+  "address" : "Victory Field Soccer & Running Track",
+  "site_type" : "Outdoor",
+  "latitude" : "40.701853999999997",
+  "park_site_name" : "Forest Park",
+  "borough" : "Queens",
+  "longitude" : "-73.853144999999998"
+}
+, {
+  "address" : "Victory Field Baseball",
+  "site_type" : "Outdoor",
+  "latitude" : "40.702292999999997",
+  "park_site_name" : "Forest Park",
+  "borough" : "Queens",
+  "longitude" : "-73.854765"
+}
+, {
+  "address" : "Myrtle Ave & Park Lane S",
+  "site_type" : "Outdoor",
+  "latitude" : "40.701272000000003",
+  "park_site_name" : "Forest Park",
+  "borough" : "Queens",
+  "longitude" : "-73.841921999999997"
+}
+, {
+  "address" : "Weaver Rd & Totten Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.792357000000003",
+  "park_site_name" : "Fort Totten",
+  "borough" : "Queens",
+  "longitude" : "-73.777012999999997"
+}
+, {
+  "address" : "North Loop",
+  "site_type" : "Outdoor",
+  "latitude" : "40.794781",
+  "park_site_name" : "Fort Totten",
+  "borough" : "Queens",
+  "longitude" : "-73.779207"
+}
+, {
+  "address" : "Story Rd",
+  "site_type" : "Outdoor",
+  "latitude" : "40.792085",
+  "park_site_name" : "Fort Totten",
+  "borough" : "Queens",
+  "longitude" : "-73.774356999999995"
+}
+, {
+  "address" : "148th Street ",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.692405999999998",
+  "park_site_name" : "George Eagle Carr Community Garden",
+  "borough" : "Queens",
+  "longitude" : "-73.794745000000006"
+}
+, {
+  "address" : "Glendale Playground",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.704591000000001",
+  "park_site_name" : "Glendale Playground",
+  "borough" : "Queens",
+  "longitude" : "-73.881944000000004"
+}
+, {
+  "address" : "10 St & Queens Plaza S",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.753635000000003",
+  "park_site_name" : "Greenthumb compound",
+  "borough" : "Queens",
+  "longitude" : "-73.947614999999999"
+}
+, {
+  "address" : "Cleveland Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.710068999999997",
+  "park_site_name" : "Grover Cleveland",
+  "borough" : "Queens",
+  "longitude" : "-73.911456000000001"
+}
+, {
+  "address" : "Cleveland Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.71031",
+  "park_site_name" : "Grover Cleveland",
+  "borough" : "Queens",
+  "longitude" : "-73.911062999999999"
+}
+, {
+  "address" : "Hoffman Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.733134999999997",
+  "park_site_name" : "Hoffman Park",
+  "borough" : "Queens",
+  "longitude" : "-73.871233000000004"
+}
+, {
+  "address" : "Hoffman Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.733142999999998",
+  "park_site_name" : "Hoffman Park",
+  "borough" : "Queens",
+  "longitude" : "-73.871426999999997"
+}
+, {
+  "address" : "Hoffman Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.733068000000003",
+  "park_site_name" : "Hoffman Park",
+  "borough" : "Queens",
+  "longitude" : "-73.870885000000001"
+}
+, {
+  "address" : "Hoffman Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.732937999999997",
+  "park_site_name" : "Hoffman Park",
+  "borough" : "Queens",
+  "longitude" : "-73.870915999999994"
+}
+, {
+  "address" : "Hoffman Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.732700999999999",
+  "park_site_name" : "Hoffman Park",
+  "borough" : "Queens",
+  "longitude" : "-73.871081000000004"
+}
+, {
+  "address" : "Hoffman Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.733203000000003",
+  "park_site_name" : "Hoffman Park",
+  "borough" : "Queens",
+  "longitude" : "-73.871821999999995"
+}
+, {
+  "address" : "Juniper Valley Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.720689",
+  "park_site_name" : "Juniper Valley Park",
+  "borough" : "Queens",
+  "longitude" : "-73.877521000000002"
+}
+, {
+  "address" : "Juniper Valley Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.720412000000003",
+  "park_site_name" : "Juniper Valley Park",
+  "borough" : "Queens",
+  "longitude" : "-73.876474000000002"
+}
+, {
+  "address" : "Juniper Valley Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.719988000000001",
+  "park_site_name" : "Juniper Valley Park",
+  "borough" : "Queens",
+  "longitude" : "-73.884692999999999"
+}
+, {
+  "address" : "Juniper Valley Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.719841000000002",
+  "park_site_name" : "Juniper Valley Park",
+  "borough" : "Queens",
+  "longitude" : "-73.882970999999998"
+}
+, {
+  "address" : "Booth Memorial Ave ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.742502000000002",
+  "park_site_name" : "Kissena Park",
+  "borough" : "Queens",
+  "longitude" : "-73.810260999999997"
+}
+, {
+  "address" : "Lithonia Ave ",
+  "site_type" : "Outdoor",
+  "latitude" : "40.749228000000002",
+  "park_site_name" : "Kissena Park",
+  "borough" : "Queens",
+  "longitude" : "-73.803657999999999"
+}
+, {
+  "address" : "Kissena Velodrome",
+  "site_type" : "Outdoor",
+  "latitude" : "40.744148000000003",
+  "park_site_name" : "Kissena Park",
+  "borough" : "Queens",
+  "longitude" : "-73.809332999999995"
+}
+, {
+  "address" : "Booth Memorial Ave ",
+  "site_type" : "Outdoor",
+  "latitude" : "40.742364000000002",
+  "park_site_name" : "Kissena Park",
+  "borough" : "Queens",
+  "longitude" : "-73.808518000000007"
+}
+, {
+  "address" : "Rose Ave",
+  "site_type" : "Outdoor",
+  "latitude" : "40.747886999999999",
+  "park_site_name" : "Kissena Park",
+  "borough" : "Queens",
+  "longitude" : "-73.809764999999999"
+}
+, {
+  "address" : "93-29 Queens Blvd",
+  "site_type" : "Indoor",
+  "latitude" : "40.732225999999997",
+  "park_site_name" : "LBH Rec Center",
+  "borough" : "Queens",
+  "longitude" : "-73.86515"
+}
+, {
+  "address" : "Marie Curie Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.757266000000001",
+  "park_site_name" : "Marie Curie Playground",
+  "borough" : "Queens",
+  "longitude" : "-73.770977999999999"
+}
+, {
+  "address" : "McDonald Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.721814999999999",
+  "park_site_name" : "McDonald Park",
+  "borough" : "Queens",
+  "longitude" : "-73.845511000000002"
+}
+, {
+  "address" : "McDonald Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.722011999999999",
+  "park_site_name" : "McDonald Park",
+  "borough" : "Queens",
+  "longitude" : "-73.846080000000001"
+}
+, {
+  "address" : "McDonald Park",
+  "site_type" : "Outdoor",
+  "latitude" : "40.722479999999997",
+  "park_site_name" : "McDonald Park",
+  "borough" : "Queens",
+  "longitude" : "-73.847476999999998"
+}
+, {
+  "address" : "Flushing Meadows Corona Park",
+  "site_type" : "Indoor",
+  "latitude" : "40.751632000000001",
+  "park_site_name" : "Parks Academy",
+  "borough" : "Queens",
+  "longitude" : "-73.843676000000002"
+}
+, {
+  "address" : "Flushing Meadows Corona Park",
+  "site_type" : "Indoor",
+  "latitude" : "40.751632000000001",
+  "park_site_name" : "Passerelle ",
+  "borough" : "Queens",
+  "longitude" : "-73.843676000000002"
+}
+, {
+  "address" : "Flushing Meadows Corona Park",
+  "site_type" : "Indoor",
+  "latitude" : "40.750332999999998",
+  "park_site_name" : "Passerelle - Aquatics",
+  "borough" : "Queens",
+  "longitude" : "-73.844099999999997"
+}
+, {
+  "address" : "Phil Rizzuto Park ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.694406999999998",
+  "park_site_name" : "Phil Rizzuto Park ",
+  "borough" : "Queens",
+  "longitude" : "-73.822115999999994"
+}
+, {
+  "address" : "Flushing Meadows Corona Park",
+  "site_type" : "Subproperty",
+  "latitude" : "40.740882999999997",
+  "park_site_name" : "Playground for All Children",
+  "borough" : "Queens",
+  "longitude" : "-73.849317999999997"
+}
+, {
+  "address" : "Pomonok Playground",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.736170999999999",
+  "park_site_name" : "Pomonok Playground",
+  "borough" : "Queens",
+  "longitude" : "-73.814014"
+}
+, {
+  "address" : "47-01 111 St",
+  "site_type" : "Indoor",
+  "latitude" : "40.747126999999999",
+  "park_site_name" : "Queens Hall of Science",
+  "borough" : "Queens",
+  "longitude" : "-73.852214000000004"
+}
+, {
+  "address" : "New York City Building, Flushing Meadows Corona Park",
+  "site_type" : "Indoor",
+  "latitude" : "40.745793999999997",
+  "park_site_name" : "Queens Museum",
+  "borough" : "Queens",
+  "longitude" : "-73.846728999999996"
+}
+, {
+  "address" : "14 United Nations Ave S",
+  "site_type" : "Indoor",
+  "latitude" : "40.744152",
+  "park_site_name" : "Queens Theatre",
+  "borough" : "Queens",
+  "longitude" : "-73.844476"
+}
+, {
+  "address" : "53-51 111 St",
+  "site_type" : "Indoor",
+  "latitude" : "40.743599000000003",
+  "park_site_name" : "Queens Zoo",
+  "borough" : "Queens",
+  "longitude" : "-73.850354999999993"
+}
+, {
+  "address" : "Rainey Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.765644000000002",
+  "park_site_name" : "Rainey park",
+  "borough" : "Queens",
+  "longitude" : "-73.941158999999999"
+}
+, {
+  "address" : "B 105 St Boardwalk",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.580753999999999",
+  "park_site_name" : "Rockaway Beach ",
+  "borough" : "Queens",
+  "longitude" : "-73.824935999999994"
+}
+, {
+  "address" : "B 102 St Boardwalk",
+  "site_type" : "Outdoor",
+  "latitude" : "40.581400000000002",
+  "park_site_name" : "Rockaway Beach ",
+  "borough" : "Queens",
+  "longitude" : "-73.823376999999994"
+}
+, {
+  "address" : "B 100 St Boardwalk",
+  "site_type" : "Outdoor",
+  "latitude" : "40.582137000000003",
+  "park_site_name" : "Rockaway Beach ",
+  "borough" : "Queens",
+  "longitude" : "-73.820126999999999"
+}
+, {
+  "address" : "B 99 St Boardwalk",
+  "site_type" : "Outdoor",
+  "latitude" : "40.582478999999999",
+  "park_site_name" : "Rockaway Beach ",
+  "borough" : "Queens",
+  "longitude" : "-73.819096999999999"
+}
+, {
+  "address" : "B 97 St Boardwalk",
+  "site_type" : "Outdoor",
+  "latitude" : "40.582825",
+  "park_site_name" : "Rockaway Beach ",
+  "borough" : "Queens",
+  "longitude" : "-73.817858000000001"
+}
+, {
+  "address" : "B 95 St Boardwalk",
+  "site_type" : "Outdoor",
+  "latitude" : "40.583412000000003",
+  "park_site_name" : "Rockaway Beach ",
+  "borough" : "Queens",
+  "longitude" : "-73.815483999999998"
+}
+, {
+  "address" : "B 91 St Boardwalk",
+  "site_type" : "Outdoor",
+  "latitude" : "40.584150000000001",
+  "park_site_name" : "Rockaway Beach ",
+  "borough" : "Queens",
+  "longitude" : "-73.812472"
+}
+, {
+  "address" : "B 90 St Boardwalk",
+  "site_type" : "Outdoor",
+  "latitude" : "40.584400000000002",
+  "park_site_name" : "Rockaway Beach ",
+  "borough" : "Queens",
+  "longitude" : "-73.811254000000005"
+}
+, {
+  "address" : "B 81 St Boardwalk",
+  "site_type" : "Outdoor",
+  "latitude" : "40.585825999999997",
+  "park_site_name" : "Rockaway Beach ",
+  "borough" : "Queens",
+  "longitude" : "-73.807265000000001"
+}
+, {
+  "address" : "Bayside Pl Boardwalk",
+  "site_type" : "Outdoor",
+  "latitude" : "40.585104999999999",
+  "park_site_name" : "Rockaway Beach ",
+  "borough" : "Queens",
+  "longitude" : "-73.809223000000003"
+}
+, {
+  "address" : "Rocket Park ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.670613000000003",
+  "park_site_name" : "Rocket Park ",
+  "borough" : "Queens",
+  "longitude" : "-73.846256999999994"
+}
+, {
+  "address" : "Baisley Blvd",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.685918000000001",
+  "park_site_name" : "Roy Wilkens",
+  "borough" : "Queens",
+  "longitude" : "-73.769315000000006"
+}
+, {
+  "address" : "Roy Wilkens ",
+  "site_type" : "Outdoor",
+  "latitude" : "40.688248999999999",
+  "park_site_name" : "Roy Wilkens",
+  "borough" : "Queens",
+  "longitude" : "-73.773573999999996"
+}
+, {
+  "address" : "115 Ave & 175 St",
+  "site_type" : "Outdoor",
+  "latitude" : "40.691011000000003",
+  "park_site_name" : "Roy Wilkens",
+  "borough" : "Queens",
+  "longitude" : "-73.774207000000004"
+}
+, {
+  "address" : "Socrates Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.768028999999999",
+  "park_site_name" : "Socrates Park",
+  "borough" : "Queens",
+  "longitude" : "-73.936159000000004"
+}
+, {
+  "address" : "1848 Cornaga Ave",
+  "site_type" : "Indoor",
+  "latitude" : "40.602280999999998",
+  "park_site_name" : "Sorrentino ",
+  "borough" : "Queens",
+  "longitude" : "-73.751564000000002"
+}
+, {
+  "address" : "Southern Pkwy",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.665379000000001",
+  "park_site_name" : "Southern Fields ",
+  "borough" : "Queens",
+  "longitude" : "-73.824555000000004"
+}
+, {
+  "address" : "Southern Pkwy",
+  "site_type" : "Outdoor",
+  "latitude" : "40.665627000000001",
+  "park_site_name" : "Southern Fields ",
+  "borough" : "Queens",
+  "longitude" : "-73.826702999999995"
+}
+, {
+  "address" : "St. Michael's Playground",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.758218999999997",
+  "park_site_name" : "St. Michaels",
+  "borough" : "Queens",
+  "longitude" : "-73.900278"
+}
+, {
+  "address" : "BW 34 St & Broadway",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.758155000000002",
+  "park_site_name" : "Steinway St",
+  "borough" : "Queens",
+  "longitude" : "-73.919785000000005"
+}
+, {
+  "address" : "Sunnyside Garden Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.749844000000003",
+  "park_site_name" : "Sunnyside Garden Park",
+  "borough" : "Queens",
+  "longitude" : "-73.914749999999998"
+}
+, {
+  "address" : "Sunnyside Garden Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.749547",
+  "park_site_name" : "Sunnyside Garden Park",
+  "borough" : "Queens",
+  "longitude" : "-73.915139999999994"
+}
+, {
+  "address" : "Sunnyside Garden Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.749687000000002",
+  "park_site_name" : "Sunnyside Garden Park",
+  "borough" : "Queens",
+  "longitude" : "-73.914270000000002"
+}
+, {
+  "address" : "Travers Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.754243000000002",
+  "park_site_name" : "Travers Park",
+  "borough" : "Queens",
+  "longitude" : "-73.889364999999998"
+}
+, {
+  "address" : "Cunningham Park",
+  "site_type" : "Subproperty",
+  "latitude" : "40.741627999999999",
+  "park_site_name" : "Underhill",
+  "borough" : "Queens",
+  "longitude" : "-73.777361999999997"
+}
+, {
+  "address" : "173 St",
+  "site_type" : "Greenthumb",
+  "latitude" : "40.701650999999998",
+  "park_site_name" : "William Simmons Community Garden Club",
+  "borough" : "Queens",
+  "longitude" : "-73.783150000000006"
+}
+, {
+  "address" : "Flushing Meadows Corona Park",
+  "site_type" : "Indoor",
+  "latitude" : "40.751913999999999",
+  "park_site_name" : "World ice rink",
+  "borough" : "Queens",
+  "longitude" : "-73.837320000000005"
+}
+, {
+  "address" : "Gen. Douglas Macarthur Park, Dongan Hills Ave",
+  "site_type" : "Subproperty",
+  "latitude" : "40.587445",
+  "park_site_name" : "Berry Homes ballfield",
+  "borough" : "Staten Island",
+  "longitude" : "-74.100364"
+}
+, {
+  "address" : "Gen. Douglas Macarthur Park, Dongan Hills Ave",
+  "site_type" : "Subproperty",
+  "latitude" : "40.586439",
+  "park_site_name" : "Berry Homes ballfield",
+  "borough" : "Staten Island",
+  "longitude" : "-74.100257"
+}
+, {
+  "address" : "New Dorp Lane & S Railroad Ave",
+  "site_type" : "Outdoor",
+  "latitude" : "40.574036",
+  "park_site_name" : "150 St",
+  "borough" : "Staten Island",
+  "longitude" : "-74.116626999999994"
+}
+, {
+  "address" : "Bloomingdale Park, Lenevar Ave & Ramona Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.53514",
+  "park_site_name" : "Bloomingdale Playgound",
+  "borough" : "Staten Island",
+  "longitude" : "-74.208524"
+}
+, {
+  "address" : "Bloomingdale Park ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.533819",
+  "park_site_name" : "Bloomingdale Playgound",
+  "borough" : "Staten Island",
+  "longitude" : "-74.210241"
+}
+, {
+  "address" : "Bloomingdale Park, Richmond Pkwy & Lenevar Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.531521",
+  "park_site_name" : "Bloomingdale Playgound",
+  "borough" : "Staten Island",
+  "longitude" : "-74.207153"
+}
+, {
+  "address" : "Bloomingdale Park ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.535174",
+  "park_site_name" : "Bloomingdale Playgound",
+  "borough" : "Staten Island",
+  "longitude" : "-74.210125"
+}
+, {
+  "address" : "Cedar Grove Beach",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.557382",
+  "park_site_name" : "Cedar Grove Beach",
+  "borough" : "Staten Island",
+  "longitude" : "-74.10392"
+}
+, {
+  "address" : "Cedar Grove Beach",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.560272",
+  "park_site_name" : "Cedar Grove Beach",
+  "borough" : "Staten Island",
+  "longitude" : "-74.10104"
+}
+, {
+  "address" : "Clove Lake Park",
+  "site_type" : "Indoor",
+  "latitude" : "40.620135",
+  "park_site_name" : "Clove lake garage complex",
+  "borough" : "Staten Island",
+  "longitude" : "-74.118801"
+}
+, {
+  "address" : "Clove Lake Park",
+  "site_type" : "Indoor",
+  "latitude" : "40.618744",
+  "park_site_name" : "Clove lake garage complex",
+  "borough" : "Staten Island",
+  "longitude" : "-74.118278"
+}
+, {
+  "address" : "Clove Lake Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.613891",
+  "park_site_name" : "Cloves Lake",
+  "borough" : "Staten Island",
+  "longitude" : "-74.113523"
+}
+, {
+  "address" : "CPL Thompson Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.637872",
+  "park_site_name" : "Corporal Thompson Playground",
+  "borough" : "Staten Island",
+  "longitude" : "-74.118791"
+}
+, {
+  "address" : "Thompkins Ave Btwn Chestnut Ave & Shaughnessy Ln",
+  "site_type" : "Indoor",
+  "latitude" : "40.614615",
+  "park_site_name" : "DeMatti Playground",
+  "borough" : "Staten Island",
+  "longitude" : "-74.07412"
+}
+, {
+  "address" : "Faber Pool and Park",
+  "site_type" : "Indoor",
+  "latitude" : "40.640999",
+  "park_site_name" : "Faber Pool",
+  "borough" : "Staten Island",
+  "longitude" : "-74.135418"
+}
+, {
+  "address" : "Jennifer's Playground",
+  "site_type" : "Indoor",
+  "latitude" : "40.6200556871",
+  "park_site_name" : "Graniteville",
+  "borough" : "Staten Island",
+  "longitude" : "-74.1631154874"
+}
+, {
+  "address" : "700 Rockland Ave",
+  "site_type" : "Indoor",
+  "latitude" : "40.588496",
+  "park_site_name" : "Greenbelt Nature Center",
+  "borough" : "Staten Island",
+  "longitude" : "-74.138918"
+}
+, {
+  "site_type" : "Outdoor ",
+  "latitude" : "40.584516000000001",
+  "park_site_name" : "Greenbelt Park ",
+  "borough" : "Staten Island",
+  "longitude" : "-74.125034999999997"
+}
+, {
+  "address" : "501 Brielle Ave",
+  "site_type" : "Indoor",
+  "latitude" : "40.593686",
+  "park_site_name" : "Greenbelt Rec Ctr",
+  "borough" : "Staten Island",
+  "longitude" : "-74.135646"
+}
+, {
+  "address" : "Miller Field",
+  "site_type" : "Subproperty",
+  "latitude" : "40.564469",
+  "park_site_name" : "John M. D'Amato Field",
+  "borough" : "Staten Island",
+  "longitude" : "-74.097531"
+}
+, {
+  "address" : "Tompkinsville Play Center",
+  "site_type" : "Indoor",
+  "latitude" : "40.637596",
+  "park_site_name" : "Lyons Pool",
+  "borough" : "Staten Island",
+  "longitude" : "-74.074802"
+}
+, {
+  "address" : "MacArthur Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.585877",
+  "park_site_name" : "MacArthur Park",
+  "borough" : "Staten Island",
+  "longitude" : "-74.100975"
+}
+, {
+  "address" : "Crescent Ave Btwn Jersey St & Beechwood Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.643368",
+  "park_site_name" : "Mahony Playground",
+  "borough" : "Staten Island",
+  "longitude" : "-74.086066"
+}
+, {
+  "address" : "Midland Playground",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.575019",
+  "park_site_name" : "Midland Beach",
+  "borough" : "Staten Island",
+  "longitude" : "-74.098706"
+}
+, {
+  "address" : "Midland Field, Bedford Ave ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.57669",
+  "park_site_name" : "Midland Beach",
+  "borough" : "Staten Island",
+  "longitude" : "-74.098663"
+}
+, {
+  "address" : "Forest Ave & Elizabeth St",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.628859",
+  "park_site_name" : "Prall Playground",
+  "borough" : "Staten Island",
+  "longitude" : "-74.118013"
+}
+, {
+  "address" : "Silver Lake Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.627186",
+  "park_site_name" : "Silver Lake Dog Run",
+  "borough" : "Staten Island",
+  "longitude" : "-74.091985"
+}
+, {
+  "address" : "Silver Lake Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.628358",
+  "park_site_name" : "Silver Lake Tennis",
+  "borough" : "Staten Island",
+  "longitude" : "-74.099058"
+}
+, {
+  "site_type" : "Outdoor ",
+  "latitude" : "40.579312999999999",
+  "park_site_name" : "South Beach",
+  "borough" : "Staten Island",
+  "longitude" : "-74.077687999999995"
+}
+, {
+  "address" : "Richmond Terrace",
+  "site_type" : "Outdoor",
+  "latitude" : "40.642709000000004",
+  "park_site_name" : "Staten Island Ferry Terminal",
+  "borough" : "Staten Island",
+  "longitude" : "-74.075723999999994"
+}
+, {
+  "address" : "Richmond Terrace",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.642324000000002",
+  "park_site_name" : "Staten Island Ferry Terminal",
+  "borough" : "Staten Island",
+  "longitude" : "-74.075489000000005"
+}
+, {
+  "address" : "Hyatt Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.642302999999998",
+  "park_site_name" : "Staten Island Ferry Terminal",
+  "borough" : "Staten Island",
+  "longitude" : "-74.076549"
+}
+, {
+  "address" : "Hylan Blvd",
+  "site_type" : "Indoor",
+  "latitude" : "40.505646",
+  "park_site_name" : "Tottenville Pool",
+  "borough" : "Staten Island",
+  "longitude" : "-74.235477"
+}
+, {
+  "address" : "Delafield Pl & Bard Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.643799",
+  "park_site_name" : "Walker Park",
+  "borough" : "Staten Island",
+  "longitude" : "-74.108845"
+}
+, {
+  "address" : "Davis Ave & Livingston Ct",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.642843",
+  "park_site_name" : "Walker Park",
+  "borough" : "Staten Island",
+  "longitude" : "-74.11032"
+}
+, {
+  "address" : "Delafield Pl & Davis Ave",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.643449",
+  "park_site_name" : "Walker Park",
+  "borough" : "Staten Island",
+  "longitude" : "-74.11046"
+}
+, {
+  "address" : "Livingston Ct & bard Ave ",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.643343",
+  "park_site_name" : "Walker Park",
+  "borough" : "Staten Island",
+  "longitude" : "-74.108641"
+}
+, {
+  "address" : "899 Henderson Ave ",
+  "site_type" : "Indoor",
+  "latitude" : "40.637121",
+  "park_site_name" : "West Brighton Pool",
+  "borough" : "Staten Island",
+  "longitude" : "-74.119287"
+}
+, {
+  "address" : "Willowbrook Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.603832",
+  "park_site_name" : "Willowbrook Park",
+  "borough" : "Staten Island",
+  "longitude" : "-74.158697"
+}
+, {
+  "address" : "Willowbrook Park",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.603828",
+  "park_site_name" : "Willowbrook Park",
+  "borough" : "Staten Island",
+  "longitude" : "-74.16125"
+}
+, {
+  "address" : "Wolfe's Pond",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.517368",
+  "park_site_name" : "Wolfe's Pond",
+  "borough" : "Staten Island",
+  "longitude" : "-74.190913"
+}
+, {
+  "address" : "Wolfe's Pond",
+  "site_type" : "Outdoor ",
+  "latitude" : "40.518652000000003",
+  "park_site_name" : "Wolfe's Pond",
+  "borough" : "Staten Island",
+  "longitude" : "-74.187309999999997"
+}
+ ]

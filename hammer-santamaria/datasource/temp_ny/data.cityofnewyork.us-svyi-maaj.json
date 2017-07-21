@@ -1,0 +1,46 @@
+[ {
+  "mwbe_type" : "Black American",
+  "prime_contracts_construction" : "12.63%",
+  "subcontracts_construction" : "9%",
+  "prime_contracts_standard_services" : "9.23%",
+  "prime_contracts_professional_services" : "9%",
+  "prime_contracts_goods" : "7.47%",
+  "subcontracts_professional_services" : "9%"
+}
+, {
+  "mwbe_type" : "Asian American",
+  "prime_contracts_construction" : "No goal",
+  "subcontracts_construction" : "9.47%",
+  "prime_contracts_standard_services" : "No goal",
+  "prime_contracts_professional_services" : "No goal",
+  "prime_contracts_goods" : "5.29%",
+  "subcontracts_professional_services" : "No goal"
+}
+, {
+  "mwbe_type" : "Hispanic American",
+  "prime_contracts_construction" : "9.06%",
+  "subcontracts_construction" : "9.06%",
+  "prime_contracts_standard_services" : "5.14%",
+  "prime_contracts_professional_services" : "5%",
+  "prime_contracts_goods" : "4.99%",
+  "subcontracts_professional_services" : "5%"
+}
+, {
+  "mwbe_type" : "Caucasian Female",
+  "prime_contracts_construction" : "No goal",
+  "subcontracts_construction" : "No goal",
+  "prime_contracts_standard_services" : "10.45%",
+  "prime_contracts_professional_services" : "16.50%",
+  "prime_contracts_goods" : "17.87%",
+  "subcontracts_professional_services" : "16.50%"
+}
+, {
+  "mwbe_type" : "Emerging Business",
+  "prime_contracts_construction" : "6%",
+  "subcontracts_construction" : "6%",
+  "prime_contracts_standard_services" : "6%",
+  "prime_contracts_professional_services" : "6%",
+  "prime_contracts_goods" : "6%",
+  "subcontracts_professional_services" : "6%"
+}
+ ]

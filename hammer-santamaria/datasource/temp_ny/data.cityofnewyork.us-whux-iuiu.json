@@ -1,0 +1,658 @@
+[ {
+  "types" : "Gas Primary/FO Secondary",
+  "building" : "Bronx Bergen Building",
+  "bin_number" : "2009911",
+  "fuel_oil_2_delivery_2" : "N/A",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "1740",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "Gas Primary/FO Secondary",
+  "building" : "Office Building 100 Gold St",
+  "bin_number" : "1001289",
+  "fuel_oil_2_delivery_2" : "1497",
+  "fuel_oil_2_b5_delivery" : "4660",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "ConEd Steam",
+  "building" : "Clocktower Building",
+  "bin_number" : "1001835",
+  "fuel_oil_2_delivery_2" : "N/A",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "Gas Only",
+  "building" : "Bronx Concourse Plaza",
+  "bin_number" : "2099027",
+  "fuel_oil_2_delivery_2" : "N/A",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "ConEd Steam",
+  "building" : "City Planning Building",
+  "bin_number" : "1078613",
+  "fuel_oil_2_delivery_2" : "N/A",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "Gas Primary/FO Secondary",
+  "building" : "Office Building (345 Adams Street)",
+  "bin_number" : "3392969",
+  "fuel_oil_2_delivery_2" : "N/A",
+  "fuel_oil_2_b5_delivery" : "511",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "No boilers, Heated with Gas Fired Chillers",
+  "building" : "Office Building (130 Stuyvesant Place SI)",
+  "bin_number" : "5000085",
+  "fuel_oil_2_delivery_2" : "N/A",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "ConEd Steam",
+  "building" : "Sun Building",
+  "bin_number" : "1079215",
+  "fuel_oil_2_delivery_2" : "N/A",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "Gas Primary/FO Secondary",
+  "building" : "Excelsior Building",
+  "bin_number" : "1002358",
+  "fuel_oil_2_delivery_2" : "1957",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "ConEd Steam",
+  "building" : "Louis J Lefkowitz Building",
+  "bin_number" : "1001830",
+  "fuel_oil_2_delivery_2" : "N/A",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "ConEd Steam",
+  "building" : "Health Building",
+  "bin_number" : "1001831",
+  "fuel_oil_2_delivery_2" : "N/A",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "ConEd Steam",
+  "building" : "Home Life Building",
+  "bin_number" : "1082757",
+  "fuel_oil_2_delivery_2" : "N/A",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "Gas Primary/FO Secondary",
+  "building" : "Court Square Building",
+  "bin_number" : "1001672",
+  "fuel_oil_2_delivery_2" : "1731",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "ConEd Steam",
+  "building" : "Emigrant Savings Building",
+  "bin_number" : "1079216",
+  "fuel_oil_2_delivery_2" : "N/A",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "Gas Primary/FO Secondary",
+  "building" : "Bronx Hall of Justice",
+  "bin_number" : "2113095",
+  "fuel_oil_2_delivery_2" : "7810",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "Gas Primary/FO Secondary, also feeds Brooklyn House of Detention",
+  "building" : "Brooklyn Criminal Court",
+  "bin_number" : "3000534",
+  "fuel_oil_2_delivery_2" : "N/A",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "1205",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "ConEd Steam",
+  "building" : "Manhattan Appellate Court",
+  "bin_number" : "1016743",
+  "fuel_oil_2_delivery_2" : "N/A",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "ConEd Steam",
+  "building" : "Manhattan Supreme Court",
+  "bin_number" : "1085748",
+  "fuel_oil_2_delivery_2" : "N/A",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "Gas Primary/FO Secondary",
+  "building" : "Harlem Courthouse",
+  "bin_number" : "1054382",
+  "fuel_oil_2_delivery_2" : "3102",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "Gas Primary/FO Secondary",
+  "building" : "Bronx Family and Criminal Court",
+  "bin_number" : "2002704",
+  "fuel_oil_2_delivery_2" : "5007",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "Leased Space for Which DCAS pays the energy bill",
+  "building" : "Red Hook Community Court",
+  "bin_number" : "3331865",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "types" : "Gas Primary/FO Secondary",
+  "building" : "Queens Family Court",
+  "bin_number" : "4438731",
+  "fuel_oil_2_delivery_2" : "464",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "Gas Primary/FO Secondary",
+  "building" : "Bronx Housing Court",
+  "bin_number" : "2101266",
+  "fuel_oil_2_delivery_2" : "263",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "Gas Primary/FO Secondary",
+  "building" : "Long Island City Courthouse",
+  "bin_number" : "4000698",
+  "fuel_oil_2_delivery_2" : "850",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "Gas Primary/FO Secondary",
+  "building" : "Queens Supreme Court",
+  "bin_number" : "4207071",
+  "fuel_oil_2_delivery_2" : "N/A",
+  "fuel_oil_2_b5_delivery" : "662",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "ConEd Steam",
+  "building" : "Manhattan Family Court",
+  "bin_number" : "1001842",
+  "fuel_oil_2_delivery_2" : "N/A",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "N/A",
+  "fuel_oil_6_delivery_2" : "N/A"
+}
+, {
+  "types" : "Gas Only",
+  "building" : "Staten Island Civil Court",
+  "bin_number" : "5004530",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "types" : "ConEd Steam",
+  "building" : "Manhattan Civil Court",
+  "bin_number" : "1001833",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "types" : "Gas Primary/FO Secondary",
+  "building" : "Queens Civil Court",
+  "bin_number" : "4448759",
+  "fuel_oil_2_delivery_2" : "1224",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "Dyker School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "3167212",
+  "fuel_oil_2_delivery_2" : "2000",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "John Jay High School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "3025510",
+  "fuel_oil_2_delivery_2" : "2000",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "261648",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "232200"
+}
+, {
+  "building" : "Murry Bergtraum High School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "1001388",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "Emma L. Johnston School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "3378160",
+  "fuel_oil_2_delivery_2" : "3500",
+  "fuel_oil_2_delivery_1" : "7302",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "Dr. Rose B. English",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "3081032",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "57351",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "The Highlawn School",
+  "fuel_oil_4_delivery_1" : "21503",
+  "bin_number" : "3177680",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "25004",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "P.S.73X",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "2003051",
+  "fuel_oil_2_delivery_2" : "79500",
+  "fuel_oil_2_delivery_1" : "74015",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "George Washington High School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "1076751",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "43320",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "59168",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "225640"
+}
+, {
+  "building" : "James Monroe High School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "2027459",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "187311",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "153259"
+}
+, {
+  "building" : "The City Island School",
+  "fuel_oil_4_delivery_1" : "15505",
+  "bin_number" : "2082444",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "21504",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "Roberto Clemente",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "1052384",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "P.S.208Q",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "4529898",
+  "fuel_oil_2_delivery_2" : "3000",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "High School of Economics & Finance",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "1001037",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "Richmond Hill High School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "4195688",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "134732",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "128012"
+}
+, {
+  "building" : "High School for Leadership in Public Services",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "1001035",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "George E. Wibecan School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "3045047",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "47830",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "42342"
+}
+, {
+  "building" : "Shorac Kappock School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "1064871",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "Roberto Clemente School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "3085070",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "34161",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "29191"
+}
+, {
+  "building" : "Thaddeus Stevens School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "3043248",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "47891",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "Forest Park School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "4181565",
+  "fuel_oil_2_delivery_2" : "2500",
+  "fuel_oil_2_delivery_1" : "2000",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "Seneca School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "4085173",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "6502",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "Middle School 399",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "2013899",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "87524",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "Dutch Kills",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "4004170",
+  "fuel_oil_2_delivery_2" : "7700",
+  "fuel_oil_2_delivery_1" : "3001",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "Medger Evers Middle College",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "3032886",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "Theodore Roosevelt High School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "2011810",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "266589",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "183350"
+}
+, {
+  "building" : "MS / High School 270",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "2010604",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "P.S.43Q",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "4467711",
+  "fuel_oil_2_delivery_2" : "5400",
+  "fuel_oil_2_delivery_1" : "1978",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "William H. Maxwell High School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "3083660",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "Brooklyn School District 20",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "3154215",
+  "fuel_oil_2_delivery_2" : "2001",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "Saint Albans School",
+  "fuel_oil_4_delivery_1" : "22433",
+  "bin_number" : "4268900",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "19009",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "George J. Werdan III School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "2086851",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "Institute for Environmental Learning",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "2096013",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "The Michael J. Petrides School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "5113169",
+  "fuel_oil_2_delivery_2" : "18665",
+  "fuel_oil_2_delivery_1" : "2283",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "Manhattan Beach School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "3246519",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "The Multiple Intelligence School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "2097990",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+, {
+  "building" : "Norman Thomas High School",
+  "fuel_oil_4_delivery_1" : "NA",
+  "bin_number" : "1087537",
+  "fuel_oil_2_delivery_2" : "NA",
+  "fuel_oil_2_delivery_1" : "NA",
+  "fuel_oil_2_b5_delivery" : "N/A",
+  "fuel_oil_6_delivery_1" : "NA",
+  "fuel_oil_4_delivery_2" : "NA",
+  "fuel_oil_6_delivery_2" : "NA"
+}
+ ]

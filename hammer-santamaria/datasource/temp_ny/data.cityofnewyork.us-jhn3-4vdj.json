@@ -1,0 +1,787 @@
+[ {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Palladia",
+  "facility_name" : "126 Street Shelter"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "BRC",
+  "facility_name" : "85 Lexington"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Create, Inc.",
+  "facility_name" : "Create Young Adult"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "HELP USA",
+  "facility_name" : "HWC Assessment"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Project Renewal",
+  "facility_name" : "Kenton"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "BRC",
+  "facility_name" : "Palace Men"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Project Hospitality",
+  "facility_name" : "Project Hospitality"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "HELP USA",
+  "facility_name" : "Saratoga"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Center for Urban Community Services",
+  "facility_name" : "SCCW TLC"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Turning Point",
+  "facility_name" : "Turning Point"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "DHS",
+  "facility_name" : "30th St. Assessment"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Project Renewal",
+  "facility_name" : "8 E. 3rd St."
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Institute for Community Living",
+  "facility_name" : "Borden Ave."
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Samaritan Village",
+  "facility_name" : "Forbell Men"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Salvation Army",
+  "facility_name" : "Franklin Assessment"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "New York Foundation for Senior Citizens",
+  "facility_name" : "George Daly"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "HELP USA/Brooklyn Community Services",
+  "facility_name" : "Help Women's Center TLC"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "BRC",
+  "facility_name" : "Palace Women"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "CAMBA",
+  "facility_name" : "Park Slope"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Weston United",
+  "facility_name" : "Weston"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Palladia",
+  "facility_name" : "Willow Next Step"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Henry Street Settlement",
+  "facility_name" : "282 E. 3rd St."
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Christian Herald",
+  "facility_name" : "Bowery Mission"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "VIP Community Services",
+  "facility_name" : "Casa Esperanza"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Volunteers of America",
+  "facility_name" : "CH Gay Assessment"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "HELP USA",
+  "facility_name" : "Creston"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Palladia",
+  "facility_name" : "The Fane"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "SEBCO",
+  "facility_name" : "Father Smith"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Doe Fund",
+  "facility_name" : "Gates Avenue"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Doe Fund",
+  "facility_name" : "Harlem"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "CAMBA",
+  "facility_name" : "Opportunity House"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Care for the Homeless",
+  "facility_name" : "Susan's Place"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "DHS",
+  "facility_name" : "Atlantic Men's Assessment"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Barrier Free Living",
+  "facility_name" : "Barrier Free"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "BRC",
+  "facility_name" : "The Boulevard"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "BEDCO",
+  "facility_name" : "Eddie Harris"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "SCO",
+  "facility_name" : "El Camino"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Project Renewal",
+  "facility_name" : "Ft. Washington"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Project Renewal",
+  "facility_name" : "New Providence"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "BEDCO",
+  "facility_name" : "The Plaza"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "SCO",
+  "facility_name" : "Renaissance"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Institute for Community Living",
+  "facility_name" : "Tillary"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "WSFSSH",
+  "facility_name" : "Valley Lodge"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "DHS",
+  "facility_name" : "Barbara Kleiman"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "CAMBA",
+  "facility_name" : "Broadway House"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "CAMBA",
+  "facility_name" : "CAMBA Atlantic"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "HELP USA",
+  "facility_name" : "Help SEC"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Volunteers of America",
+  "facility_name" : "Jamaica Next Step"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Salvation Army",
+  "facility_name" : "Kingsboro MICA"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "DHS",
+  "facility_name" : "Kingsboro Star"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "DHS",
+  "facility_name" : "Linden"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Lenox Hill Neighborhood Houses",
+  "facility_name" : "Park Ave."
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Aguila",
+  "facility_name" : "Parkview"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Doe Fund",
+  "facility_name" : "Porter Ave."
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "DHS",
+  "facility_name" : "30th St."
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Alan Lapes",
+  "facility_name" : "Aladdin"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Common Ground",
+  "facility_name" : "Andrews Men's Shelter"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "SCO",
+  "facility_name" : "Bob's Place"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "HELP USA",
+  "facility_name" : "Clarke Thomas Next Step"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "SCO",
+  "facility_name" : "Delta Manor"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Black Vets for Social Justice",
+  "facility_name" : "Pamoja Next Step"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Volunteers of America",
+  "facility_name" : "Schwartz Next Step"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Volunteers of America",
+  "facility_name" : "Schwartz"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "BASICS, Inc.",
+  "facility_name" : "The Stadium"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011 Q3",
+  "provider_agency" : "Jerry Schreck/Susan Alter",
+  "facility_name" : "Starbright"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "VIP Community Services",
+  "facility_name" : "Casa Esperanza"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Create, Inc.",
+  "facility_name" : "Create Young Adult"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Palladia",
+  "facility_name" : "The Fane"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Samaritan Village",
+  "facility_name" : "Forbell Men"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Salvation Army",
+  "facility_name" : "Franklin Assessment"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "HELP USA",
+  "facility_name" : "HWC Assessment"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Project Renewal",
+  "facility_name" : "Kenton"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "BRC",
+  "facility_name" : "Palace Men"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "CAMBA",
+  "facility_name" : "Park Slope"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "HELP USA",
+  "facility_name" : "Saratoga"
+}
+, {
+  "performance_tier" : "1st Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Palladia",
+  "facility_name" : "Willow Next Step"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Palladia",
+  "facility_name" : "126 Street Shelter"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "DHS",
+  "facility_name" : "30th St. Assessment"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Project Renewal",
+  "facility_name" : "8 E. 3rd St."
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Barrier Free Living",
+  "facility_name" : "Barrier Free"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Institute for Community Living",
+  "facility_name" : "Borden Ave."
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Volunteers of America",
+  "facility_name" : "CH Gay Asmt"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Project Renewal",
+  "facility_name" : "New Providence"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "CAMBA",
+  "facility_name" : "Opportunity House"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "BRC",
+  "facility_name" : "Palace Women"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Project Hospitality",
+  "facility_name" : "Project Hospitality"
+}
+, {
+  "performance_tier" : "2nd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Care for the Homeless",
+  "facility_name" : "Susan's Place"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Henry Street Settlement",
+  "facility_name" : "282 E. 3rd St."
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "CAMBA",
+  "facility_name" : "Broadway House"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "CAMBA",
+  "facility_name" : "CAMBA Atlantic"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Project Renewal",
+  "facility_name" : "Ft. Washington"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "New York Foundation for Senior Citizens",
+  "facility_name" : "George Daly"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Doe Fund",
+  "facility_name" : "Harlem"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Volunteers of America",
+  "facility_name" : "Jamaica Next Step"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "BASICS, Inc.",
+  "facility_name" : "Skyway"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Institute for Community Living",
+  "facility_name" : "Tillary"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Turning Point",
+  "facility_name" : "Turning Point"
+}
+, {
+  "performance_tier" : "3rd Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "WSFSSH",
+  "facility_name" : "Valley Lodge"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "BRC",
+  "facility_name" : "85 Lexington"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "DHS",
+  "facility_name" : "Atlantic Men's Assessment"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "BRC",
+  "facility_name" : "The Boulevard"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "HELP USA",
+  "facility_name" : "Creston"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "HELP USA",
+  "facility_name" : "Help SEC"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "HELP USA",
+  "facility_name" : "Help Women's Center TLC"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Lenox Hill Neighborhood Houses",
+  "facility_name" : "Park Ave."
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "BEDCO",
+  "facility_name" : "The Plaza"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Doe Fund",
+  "facility_name" : "Porter Ave."
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "SCO",
+  "facility_name" : "Renaissance"
+}
+, {
+  "performance_tier" : "4th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Center for Urban Community Services",
+  "facility_name" : "SCCW TLC"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "DHS",
+  "facility_name" : "Barbara Kleiman"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Christian Herald",
+  "facility_name" : "Bowery Mission"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "BEDCO",
+  "facility_name" : "Eddie Harris"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "SCO",
+  "facility_name" : "El Camino"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Doe Fund",
+  "facility_name" : "Gates Avenue"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Salvation Army",
+  "facility_name" : "Kingsboro MICA"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "DHS",
+  "facility_name" : "Kingsboro Star"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "DHS",
+  "facility_name" : "Linden"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Volunteers of America",
+  "facility_name" : "Schwartz"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "BASICS, Inc.",
+  "facility_name" : "The Stadium"
+}
+, {
+  "performance_tier" : "5th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Weston United",
+  "facility_name" : "Weston"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "DHS",
+  "facility_name" : "30th St."
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Alan Lapes",
+  "facility_name" : "Aladdin"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Common ground",
+  "facility_name" : "Andrews Men's Shelter"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "SCO",
+  "facility_name" : "Bob's Place"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "HELP USA",
+  "facility_name" : "Clarke Thomas Next Step"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "SCO",
+  "facility_name" : "Delta Manor"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "SEBCO",
+  "facility_name" : "Father Smith"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Black Vets for Social Justice",
+  "facility_name" : "Pamoja Next Step"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Aguila",
+  "facility_name" : "Parkview"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Volunteers of America",
+  "facility_name" : "Schwartz Next Step"
+}
+, {
+  "performance_tier" : "6th Performance Tier",
+  "year_quarter" : "2011Q4",
+  "provider_agency" : "Jerry Schreck/Susan Alter",
+  "facility_name" : "Starbright"
+}
+ ]

@@ -1,0 +1,991 @@
+[ {
+  "fiscal_year_ending_in_june_" : "2006",
+  "client_total" : "19",
+  "case_type" : "ACD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2007",
+  "client_total" : "30",
+  "case_type" : "ACD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2008",
+  "client_total" : "34",
+  "case_type" : "ACD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2009",
+  "client_total" : "27",
+  "case_type" : "ACD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2010",
+  "client_total" : "116",
+  "case_type" : "ACD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2011",
+  "client_total" : "110",
+  "case_type" : "ACD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2012",
+  "client_total" : "134",
+  "case_type" : "ACD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2013",
+  "client_total" : "125",
+  "case_type" : "ACD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2014",
+  "client_total" : "93",
+  "case_type" : "ACD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2015",
+  "client_total" : "71",
+  "case_type" : "ACD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2016",
+  "client_total" : "74",
+  "case_type" : "ACD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2006",
+  "client_total" : "205",
+  "case_type" : "ESP",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2007",
+  "client_total" : "172",
+  "case_type" : "ESP",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2008",
+  "client_total" : "179",
+  "case_type" : "ESP",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2009",
+  "client_total" : "207",
+  "case_type" : "ESP",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2010",
+  "client_total" : "274",
+  "case_type" : "ESP",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2011",
+  "client_total" : "209",
+  "case_type" : "ESP",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2012",
+  "client_total" : "180",
+  "case_type" : "ESP",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2013",
+  "client_total" : "167",
+  "case_type" : "ESP",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2014",
+  "client_total" : "93",
+  "case_type" : "ESP",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2015",
+  "client_total" : "61",
+  "case_type" : "ESP",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2016",
+  "client_total" : "58",
+  "case_type" : "ESP",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2006",
+  "client_total" : "586",
+  "case_type" : "JD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2007",
+  "client_total" : "526",
+  "case_type" : "JD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2008",
+  "client_total" : "491",
+  "case_type" : "JD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2009",
+  "client_total" : "455",
+  "case_type" : "JD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2010",
+  "client_total" : "449",
+  "case_type" : "JD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2011",
+  "client_total" : "408",
+  "case_type" : "JD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2012",
+  "client_total" : "407",
+  "case_type" : "JD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2013",
+  "client_total" : "327",
+  "case_type" : "JD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2014",
+  "client_total" : "358",
+  "case_type" : "JD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2015",
+  "client_total" : "303",
+  "case_type" : "JD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2016",
+  "client_total" : "283",
+  "case_type" : "JD",
+  "borough" : "Bronx"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2006",
+  "client_total" : "230",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2007",
+  "client_total" : "178",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2008",
+  "client_total" : "149",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2009",
+  "client_total" : "160",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2010",
+  "client_total" : "174",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2011",
+  "client_total" : "155",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2012",
+  "client_total" : "129",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2013",
+  "client_total" : "107",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2014",
+  "client_total" : "114",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2015",
+  "client_total" : "69",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2016",
+  "client_total" : "82",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2006",
+  "client_total" : "133",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2007",
+  "client_total" : "164",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2008",
+  "client_total" : "137",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2009",
+  "client_total" : "147",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2010",
+  "client_total" : "130",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2011",
+  "client_total" : "98",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2012",
+  "client_total" : "111",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2013",
+  "client_total" : "90",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2014",
+  "client_total" : "78",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2015",
+  "client_total" : "45",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2016",
+  "client_total" : "54",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2006",
+  "client_total" : "718",
+  "case_type" : "JD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2007",
+  "client_total" : "555",
+  "case_type" : "JD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2008",
+  "client_total" : "496",
+  "case_type" : "JD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2009",
+  "client_total" : "505",
+  "case_type" : "JD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2010",
+  "client_total" : "436",
+  "case_type" : "JD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2011",
+  "client_total" : "360",
+  "case_type" : "JD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2012",
+  "client_total" : "347",
+  "case_type" : "JD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2013",
+  "client_total" : "373",
+  "case_type" : "JD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2014",
+  "client_total" : "393",
+  "case_type" : "JD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2015",
+  "client_total" : "315",
+  "case_type" : "JD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2016",
+  "client_total" : "263",
+  "case_type" : "JD",
+  "borough" : "Brooklyn"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2006",
+  "client_total" : "11",
+  "case_type" : "ACD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2007",
+  "client_total" : "27",
+  "case_type" : "ACD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2008",
+  "client_total" : "26",
+  "case_type" : "ACD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2009",
+  "client_total" : "39",
+  "case_type" : "ACD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2010",
+  "client_total" : "61",
+  "case_type" : "ACD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2011",
+  "client_total" : "39",
+  "case_type" : "ACD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2012",
+  "client_total" : "24",
+  "case_type" : "ACD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2013",
+  "client_total" : "30",
+  "case_type" : "ACD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2014",
+  "client_total" : "29",
+  "case_type" : "ACD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2015",
+  "client_total" : "24",
+  "case_type" : "ACD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2016",
+  "client_total" : "40",
+  "case_type" : "ACD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2006",
+  "client_total" : "55",
+  "case_type" : "ESP",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2007",
+  "client_total" : "70",
+  "case_type" : "ESP",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2008",
+  "client_total" : "87",
+  "case_type" : "ESP",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2009",
+  "client_total" : "95",
+  "case_type" : "ESP",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2010",
+  "client_total" : "80",
+  "case_type" : "ESP",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2011",
+  "client_total" : "79",
+  "case_type" : "ESP",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2012",
+  "client_total" : "52",
+  "case_type" : "ESP",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2013",
+  "client_total" : "70",
+  "case_type" : "ESP",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2014",
+  "client_total" : "48",
+  "case_type" : "ESP",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2015",
+  "client_total" : "24",
+  "case_type" : "ESP",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2016",
+  "client_total" : "28",
+  "case_type" : "ESP",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2006",
+  "client_total" : "367",
+  "case_type" : "JD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2007",
+  "client_total" : "232",
+  "case_type" : "JD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2008",
+  "client_total" : "266",
+  "case_type" : "JD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2009",
+  "client_total" : "321",
+  "case_type" : "JD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2010",
+  "client_total" : "314",
+  "case_type" : "JD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2011",
+  "client_total" : "258",
+  "case_type" : "JD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2012",
+  "client_total" : "233",
+  "case_type" : "JD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2013",
+  "client_total" : "202",
+  "case_type" : "JD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2014",
+  "client_total" : "150",
+  "case_type" : "JD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2015",
+  "client_total" : "180",
+  "case_type" : "JD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2016",
+  "client_total" : "165",
+  "case_type" : "JD",
+  "borough" : "Manhattan"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2006",
+  "client_total" : "214",
+  "case_type" : "ACD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2007",
+  "client_total" : "185",
+  "case_type" : "ACD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2008",
+  "client_total" : "158",
+  "case_type" : "ACD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2009",
+  "client_total" : "84",
+  "case_type" : "ACD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2010",
+  "client_total" : "133",
+  "case_type" : "ACD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2011",
+  "client_total" : "72",
+  "case_type" : "ACD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2012",
+  "client_total" : "70",
+  "case_type" : "ACD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2013",
+  "client_total" : "36",
+  "case_type" : "ACD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2014",
+  "client_total" : "41",
+  "case_type" : "ACD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2015",
+  "client_total" : "54",
+  "case_type" : "ACD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2016",
+  "client_total" : "46",
+  "case_type" : "ACD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2006",
+  "client_total" : "89",
+  "case_type" : "ESP",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2007",
+  "client_total" : "122",
+  "case_type" : "ESP",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2008",
+  "client_total" : "151",
+  "case_type" : "ESP",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2009",
+  "client_total" : "145",
+  "case_type" : "ESP",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2010",
+  "client_total" : "175",
+  "case_type" : "ESP",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2011",
+  "client_total" : "170",
+  "case_type" : "ESP",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2012",
+  "client_total" : "134",
+  "case_type" : "ESP",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2013",
+  "client_total" : "66",
+  "case_type" : "ESP",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2014",
+  "client_total" : "87",
+  "case_type" : "ESP",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2015",
+  "client_total" : "65",
+  "case_type" : "ESP",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2016",
+  "client_total" : "43",
+  "case_type" : "ESP",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2006",
+  "client_total" : "618",
+  "case_type" : "JD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2007",
+  "client_total" : "425",
+  "case_type" : "JD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2008",
+  "client_total" : "419",
+  "case_type" : "JD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2009",
+  "client_total" : "439",
+  "case_type" : "JD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2010",
+  "client_total" : "368",
+  "case_type" : "JD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2011",
+  "client_total" : "363",
+  "case_type" : "JD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2012",
+  "client_total" : "302",
+  "case_type" : "JD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2013",
+  "client_total" : "288",
+  "case_type" : "JD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2014",
+  "client_total" : "247",
+  "case_type" : "JD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2015",
+  "client_total" : "229",
+  "case_type" : "JD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2016",
+  "client_total" : "177",
+  "case_type" : "JD",
+  "borough" : "Queens"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2006",
+  "client_total" : "51",
+  "case_type" : "ACD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2007",
+  "client_total" : "45",
+  "case_type" : "ACD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2008",
+  "client_total" : "18",
+  "case_type" : "ACD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2009",
+  "client_total" : "42",
+  "case_type" : "ACD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2010",
+  "client_total" : "34",
+  "case_type" : "ACD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2011",
+  "client_total" : "26",
+  "case_type" : "ACD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2012",
+  "client_total" : "20",
+  "case_type" : "ACD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2013",
+  "client_total" : "38",
+  "case_type" : "ACD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2014",
+  "client_total" : "21",
+  "case_type" : "ACD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2015",
+  "client_total" : "15",
+  "case_type" : "ACD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2016",
+  "client_total" : "9",
+  "case_type" : "ACD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2006",
+  "client_total" : "18",
+  "case_type" : "ESP",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2007",
+  "client_total" : "18",
+  "case_type" : "ESP",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2008",
+  "client_total" : "25",
+  "case_type" : "ESP",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2009",
+  "client_total" : "37",
+  "case_type" : "ESP",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2010",
+  "client_total" : "48",
+  "case_type" : "ESP",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2011",
+  "client_total" : "46",
+  "case_type" : "ESP",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2012",
+  "client_total" : "35",
+  "case_type" : "ESP",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2013",
+  "client_total" : "23",
+  "case_type" : "ESP",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2014",
+  "client_total" : "15",
+  "case_type" : "ESP",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2015",
+  "client_total" : "14",
+  "case_type" : "ESP",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2016",
+  "client_total" : "17",
+  "case_type" : "ESP",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2006",
+  "client_total" : "122",
+  "case_type" : "JD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2007",
+  "client_total" : "139",
+  "case_type" : "JD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2008",
+  "client_total" : "142",
+  "case_type" : "JD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2009",
+  "client_total" : "156",
+  "case_type" : "JD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2010",
+  "client_total" : "132",
+  "case_type" : "JD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2011",
+  "client_total" : "94",
+  "case_type" : "JD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2012",
+  "client_total" : "99",
+  "case_type" : "JD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2013",
+  "client_total" : "89",
+  "case_type" : "JD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2014",
+  "client_total" : "90",
+  "case_type" : "JD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2015",
+  "client_total" : "58",
+  "case_type" : "JD",
+  "borough" : "Staten Island"
+}
+, {
+  "fiscal_year_ending_in_june_" : "2016",
+  "client_total" : "51",
+  "case_type" : "JD",
+  "borough" : "Staten Island"
+}
+ ]

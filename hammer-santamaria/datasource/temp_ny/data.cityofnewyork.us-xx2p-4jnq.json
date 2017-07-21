@@ -1,0 +1,770 @@
+[ {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"1118 Grand Concourse\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-466-3102",
+  "custodial" : "718-590-7466",
+  "custodial_borough_supervisor_name" : "Ann Wilson",
+  "borough" : "Bronx",
+  "engineering" : "718-590-1061",
+  "building" : "Bronx Housing Court",
+  "custodial_borough_supervisor_phone" : "347-386-2979"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"1932 Arthur Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-579-6733",
+  "custodial" : "718-579-6730",
+  "custodial_borough_supervisor_name" : "Ann Wilson",
+  "borough" : "Bronx",
+  "engineering" : "718-590-3234",
+  "building" : "Bergen Building",
+  "custodial_borough_supervisor_phone" : "347-386-2980"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"198 E. 161 St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-590-2030",
+  "custodial" : "718-590-7232",
+  "custodial_borough_supervisor_name" : "Ann Wilson",
+  "borough" : "Bronx",
+  "engineering" : "718-590-1814",
+  "building" : "Concourse Plaza",
+  "custodial_borough_supervisor_phone" : "347-386-2981"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"215 E. 161 St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-618-2410",
+  "custodial" : "718-590-3232",
+  "custodial_borough_supervisor_name" : "Ann Wilson",
+  "borough" : "Bronx",
+  "engineering" : "718-590-3234",
+  "building" : "Bronx Family & Criminal Court",
+  "custodial_borough_supervisor_phone" : "347-386-2982"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"4101 White Plains Rd.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-881-4455 (9-5, M-F)",
+  "custodial" : "718-655-4893",
+  "custodial_borough_supervisor_name" : "Ann Wilson",
+  "borough" : "Bronx",
+  "engineering" : "718-590-3835",
+  "building" : "Bronx Neighborhood Building",
+  "custodial_borough_supervisor_phone" : "347-386-2983"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"851 Grand Concourse\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-618-1701",
+  "custodial" : "718-590-3486",
+  "custodial_borough_supervisor_name" : "Ann Wilson",
+  "borough" : "Bronx",
+  "engineering" : "718-590-3835",
+  "building" : "Bronx County Courthouse",
+  "custodial_borough_supervisor_phone" : "347-386-2984"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"265 E. 161 Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-618-1850",
+  "custodial" : "718-537-1273",
+  "custodial_borough_supervisor_name" : "Ann Wilson",
+  "borough" : "Bronx",
+  "engineering" : "718-537-5870",
+  "building" : "Bronx Hall of Justice",
+  "custodial_borough_supervisor_phone" : "347-386-2985"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"120 Schermerhorn St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "347-404-9485",
+  "custodial" : "718-643-2006",
+  "custodial_borough_supervisor_name" : "Robert Pittman",
+  "borough" : "Brooklyn",
+  "engineering" : "718-643-2008",
+  "building" : "Brooklyn Criminal Court",
+  "custodial_borough_supervisor_phone" : " 347-386-2986"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"141 Livingston St. (Leased)\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "347-404-9333",
+  "custodial" : "347-404-9142",
+  "custodial_borough_supervisor_name" : "Robert Pittman",
+  "borough" : "Brooklyn",
+  "engineering" : "N/A",
+  "building" : "Brooklyn Civil Court",
+  "custodial_borough_supervisor_phone" : " 347-386-2987"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"209 Joralemon St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-802-3887",
+  "custodial" : "718-802-3887",
+  "custodial_borough_supervisor_name" : "Robert Pittman",
+  "borough" : "Brooklyn",
+  "engineering" : "718-643-7856",
+  "building" : "Brooklyn Borough Hall",
+  "custodial_borough_supervisor_phone" : " 347-386-2988"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"210 Joralemon St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-802-3599",
+  "custodial" : "718-802-3509",
+  "custodial_borough_supervisor_name" : "Robert Pittman",
+  "borough" : "Brooklyn",
+  "engineering" : "718-643-7856",
+  "building" : "Brooklyn Municipal Building",
+  "custodial_borough_supervisor_phone" : " 347-386-2989"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"345 Adams St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-404-4399, 718-403-4100",
+  "custodial" : "718-403-4194",
+  "custodial_borough_supervisor_name" : "Robert Pittman",
+  "borough" : "Brooklyn",
+  "engineering" : "718-403-4197",
+  "building" : "345 Adams St.",
+  "custodial_borough_supervisor_phone" : " 347-386-2990"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"360 Adams St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "347-296-1183",
+  "custodial" : "718-643-5196",
+  "custodial_borough_supervisor_name" : "Robert Pittman",
+  "borough" : "Brooklyn",
+  "engineering" : "718-643-5224",
+  "building" : "Brooklyn Supreme Court",
+  "custodial_borough_supervisor_phone" : " 347-386-2991"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"390 Kent Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "custodial" : "N/A",
+  "custodial_borough_supervisor_name" : "Robert Pittman",
+  "borough" : "Brooklyn",
+  "engineering" : "718-643-5224",
+  "building" : "DFMC Shops",
+  "custodial_borough_supervisor_phone" : " 347-386-2992"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"45 Monroe Pl.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-722-6604",
+  "custodial" : "718-875-1300, x 26211",
+  "custodial_borough_supervisor_name" : "Robert Pittman",
+  "borough" : "Brooklyn",
+  "engineering" : "718-875-1300, x26210",
+  "building" : "Brooklyn Appellate Court",
+  "custodial_borough_supervisor_phone" : " 347-386-2993"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"330 Jay Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "347-401-9650",
+  "custodial" : "718-802-2510",
+  "custodial_borough_supervisor_name" : "Robert Pittman",
+  "borough" : "Brooklyn",
+  "engineering" : "718-802-2515",
+  "building" : "Brooklyn Supreme & Family Court",
+  "custodial_borough_supervisor_phone" : " 347-386-2994"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"165 Cadman Plaza East\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-442-4700 (24/7)",
+  "custodial" : "718-422-8580",
+  "custodial_borough_supervisor_name" : "Robert Pittman",
+  "borough" : "Brooklyn",
+  "engineering" : "718-422-8590",
+  "building" : "OEM Building",
+  "custodial_borough_supervisor_phone" : " 347-386-2995"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"Navy and Sand\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-797-6881",
+  "custodial" : "718-643-8413",
+  "custodial_borough_supervisor_name" : "Robert Pittman",
+  "borough" : "Brooklyn",
+  "engineering" : "718-802-2815",
+  "building" : "OTS Building",
+  "custodial_borough_supervisor_phone" : " 347-386-2996"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"1 Centre St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "212-669-4300/4944",
+  "custodial" : "212-669-4673",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-669-2062",
+  "building" : "Manhattan Municipal Building",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2974"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"100 Centre St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "646-386-4766",
+  "custodial" : "212-442-8500",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-442-8527",
+  "building" : "Manhattan Criminal Court",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2975"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"111 Centre St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "646-386-5572",
+  "custodial" : "212-513-0605",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-442-8533",
+  "building" : "Manhattan Civil Court",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2976"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"125 Worth St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "212-442-9339, Alternate: 212-442-4292 Health Police Desk: 212-788-4990",
+  "custodial" : "212-676-6396",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-374-8533",
+  "building" : "Health Building",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2977"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"137 Centre St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "213-360-4116",
+  "custodial" : "212-219-5096",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-442-8533",
+  "building" : "Excelsior Building",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2978"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"170 E. 121 St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "212-360-8745",
+  "custodial" : "212-534-2162",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "718-590-3835",
+  "building" : "Harlem Courthouse",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2979"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"2 Lafayette St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "212-442-0211",
+  "custodial" : "212-442-0210",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-442-0213",
+  "building" : "Court Square Building",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2980"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"22 Reade St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "212-720-3393",
+  "custodial" : "212-720-3388",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-566-1973",
+  "building" : "City Planning Building",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2981"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"253 Broadway\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "212-341-0355",
+  "custodial" : "212-341-0420",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-374-5489",
+  "building" : "Home Life Building",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2982"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"27 Madison Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "212-340-0477",
+  "custodial" : "N/A",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-340-0464",
+  "building" : "Manhattan Appellate Court",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2983"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"31 Chambers St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "212-788-8548\nBasement: 212-676-0608",
+  "custodial" : "212-788-8828",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-788-8546",
+  "building" : "Manhattan Surrogate's Court",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2984"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"346 Broadway\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "212-442-3588",
+  "custodial" : "212-442-3580",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-788-8546",
+  "building" : "Clock Tower Building",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2985"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"49-51 Chambers St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "212-788-8259, Reade St Basement:212-676-0638   51 Chambers Sec Desk: 212-676-9899",
+  "custodial" : "212-788-8255",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-566-1973",
+  "building" : "Emigrant Savings Building",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2986"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"60 Centre St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "646-396-3139",
+  "custodial" : "212-374-8534",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-374-8533",
+  "building" : "Manhattan Supreme Court",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2987"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"60 Lafayette St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "646-386-5040",
+  "custodial" : "212-442-2993/2",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-442-2995",
+  "building" : "Manhattan Family Court",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2988"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"City Hall Park\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "212-788-6688",
+  "custodial" : "212-788-2954",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-374-5489",
+  "building" : "City Hall",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2989"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"314 W. 54th St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "646-265-1352",
+  "custodial" : "N/A",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "646-264-1336",
+  "building" : "Midtown Community Court",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2990"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"280 Broadway\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "Main: 212-566-1974 Chambers entr:212-566-5677 Loading Dock: 212-566-1976",
+  "custodial" : "212-566-3047",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-566-1973",
+  "building" : "Sun Building",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2991"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"52 Chambers St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "Upper Level: 212-374-6766 1st Floor Entrance: 212-374-5913 1st Floor Camera:212-374-2831",
+  "custodial" : "212-374-4146",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-374-5489",
+  "building" : "Tweed Courthouse",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2992"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"80 Centre St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "646-386-3700",
+  "custodial" : "212-227-3598",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-227-3602",
+  "building" : "Louis Lefkowitz Building",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2993"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"100 Gold St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "212-863-5007",
+  "custodial" : "212-863-7951",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-863-5099",
+  "building" : "100 Gold St.",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2994"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"115 Chrystie Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "212-334-7603",
+  "custodial" : "212-334-7001",
+  "custodial_borough_supervisor_name" : "Tammy Newkirk, Richard McCarthy",
+  "borough" : "Manhattan",
+  "engineering" : "212-442-8533",
+  "building" : "115 Chrystie Street",
+  "custodial_borough_supervisor_phone" : "917-337-6309,  347-386-2995"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"120-55 Queens Blvd.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-286-3122",
+  "custodial" : "718-286-2919",
+  "custodial_borough_supervisor_name" : "Derrick Barksdale",
+  "borough" : "Queens",
+  "engineering" : "718-286-2924",
+  "building" : "Queens Borough Hall",
+  "custodial_borough_supervisor_phone" : "917-681-2181"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"125-01 Queens Blvd.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "Officer( 24/7) 718-298-0736\nCapt. 718-298-0729",
+  "custodial" : "718-520-3546",
+  "custodial_borough_supervisor_name" : "Derrick Barksdale",
+  "borough" : "Queens",
+  "engineering" : "718-520-3547",
+  "building" : "Queens Criminal Court",
+  "custodial_borough_supervisor_phone" : "917-681-2182"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"25-10 Court House Square\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-298-1614",
+  "custodial" : "718-784-5320",
+  "custodial_borough_supervisor_name" : "Derrick Barksdale",
+  "borough" : "Queens",
+  "engineering" : "718-392-4230",
+  "building" : "Long Island City Courthouse",
+  "custodial_borough_supervisor_phone" : "917-681-2183"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"88-11 Sutphin Blvd.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-298-1071",
+  "custodial" : "718-520-3107",
+  "custodial_borough_supervisor_name" : "Derrick Barksdale",
+  "borough" : "Queens",
+  "engineering" : "718-520-3108",
+  "building" : "Queens Supreme Court",
+  "custodial_borough_supervisor_phone" : "917-681-2184"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"152-02 Jamaica Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-298-1020",
+  "custodial" : "718-262-8357/8382",
+  "custodial_borough_supervisor_name" : "Derrick Barksdale",
+  "borough" : "Queens",
+  "engineering" : "718-262-8015",
+  "building" : "Queens Family Court",
+  "custodial_borough_supervisor_phone" : "917-681-2185"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"89-17 Sutphin Blvd.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-262-7111",
+  "custodial" : "718-206-3213",
+  "custodial_borough_supervisor_name" : "Derrick Barksdale",
+  "borough" : "Queens",
+  "engineering" : "718-206-3249",
+  "building" : "Queens Civil Court",
+  "custodial_borough_supervisor_phone" : "917-681-2186"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"66-26 Metropolitan Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "Liaison 718-417-2020\nGuard 718-417-2000",
+  "custodial" : "N/A",
+  "custodial_borough_supervisor_name" : "Derrick Barksdale",
+  "borough" : "Queens",
+  "engineering" : "718-417-2041",
+  "building" : "Central Storehouse",
+  "custodial_borough_supervisor_phone" : "917-681-2187"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"126-02 82nd Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "East 718-298-0724\nWest 718-298-0725",
+  "custodial" : "718-520-3546",
+  "custodial_borough_supervisor_name" : "Derrick Barksdale",
+  "borough" : "Queens",
+  "engineering" : "718-520-3547",
+  "building" : "Queens Family Justice Center",
+  "custodial_borough_supervisor_phone" : "917-681-2188"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"10 Richmond Terrace\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-816-2043",
+  "custodial" : "718-816-2381",
+  "custodial_borough_supervisor_name" : "Bernice Blackman",
+  "borough" : "Staten Island",
+  "engineering" : "718-556-7371",
+  "building" : "Staten Island Borough Hall",
+  "custodial_borough_supervisor_phone" : " 917-337-6289"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"18 Richmond Terrace\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-675-8708",
+  "custodial" : "718-390-5121",
+  "custodial_borough_supervisor_name" : "Bernice Blackman",
+  "borough" : "Staten Island",
+  "engineering" : "718-556-7371",
+  "building" : "Staten Island Supreme Court",
+  "custodial_borough_supervisor_phone" : " 917-337-6290"
+}
+, {
+  "dcas_security" : "Y",
+  "location_1" : {
+    "human_address" : "{\"address\":\"130 Stuyvesant Pl.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "Lobby: 718-556-2498\nGarage Guard: 718-448-5104",
+  "custodial" : "718-556-7354",
+  "custodial_borough_supervisor_name" : "Bernice Blackman",
+  "borough" : "Staten Island",
+  "engineering" : "718-556-7371",
+  "building" : "130 Stuyvesant Pl.",
+  "custodial_borough_supervisor_phone" : " 917-337-6291"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"927 Castleton Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-675-8450",
+  "custodial" : "718-556-5323",
+  "custodial_borough_supervisor_name" : "Bernice Blackman",
+  "borough" : "Staten Island",
+  "engineering" : "718-556-7371",
+  "building" : "Staten Island Civil Court",
+  "custodial_borough_supervisor_phone" : " 917-337-6292"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"67 Targee St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-675-8544",
+  "custodial" : "718-390-5121",
+  "custodial_borough_supervisor_name" : "Bernice Blackman",
+  "borough" : "Staten Island",
+  "engineering" : "718-556-7371",
+  "building" : "Staten Island Criminal Court",
+  "custodial_borough_supervisor_phone" : " 917-337-6293"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"111 Canal St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "No Security Desk",
+  "custodial" : "718-390-5199",
+  "custodial_borough_supervisor_name" : "Bernice Blackman",
+  "borough" : "Staten Island",
+  "engineering" : "718-556-7371",
+  "building" : "Staten Island Village Hall",
+  "custodial_borough_supervisor_phone" : " 917-337-6294"
+}
+, {
+  "dcas_security" : "N",
+  "location_1" : {
+    "human_address" : "{\"address\":\"100 Richmond Terrace\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "security" : "718-675-8850",
+  "custodial" : "718-390-8515",
+  "custodial_borough_supervisor_name" : "Bernice Blackman",
+  "borough" : "Staten Island",
+  "engineering" : "718-556-7371",
+  "building" : "Staten Island Family Court",
+  "custodial_borough_supervisor_phone" : " 917-337-6295"
+}
+ ]

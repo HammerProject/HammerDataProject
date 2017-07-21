@@ -1,0 +1,64 @@
+[ {
+  "family_size__2_nos___monthly_income" : "2017",
+  "family_size__4_nos___monthly_income" : "3073",
+  "premium_categories" : "Free Insurance",
+  "family_size__3_nos___monthly_income" : "2545",
+  "each_additional_person_add" : "528",
+  "family_size__5_nos___monthly_income" : "3601",
+  "family_size__1_ind___monthly_income" : "1489"
+}
+, {
+  "family_size__2_nos___monthly_income" : "2800",
+  "family_size__4_nos___monthly_income" : "4265",
+  "premium_categories" : "$9 Per Child Per Month\n(Maximum of $27 per family)",
+  "family_size__3_nos___monthly_income" : "3532",
+  "each_additional_person_add" : "733",
+  "family_size__5_nos___monthly_income" : "4997",
+  "family_size__1_ind___monthly_income" : "2067"
+}
+, {
+  "family_size__2_nos___monthly_income" : "3153",
+  "family_size__4_nos___monthly_income" : "4803",
+  "premium_categories" : "$15 Per Child Per MonthMaximum of $45 per family)",
+  "family_size__3_nos___monthly_income" : "3978",
+  "each_additional_person_add" : "825",
+  "family_size__5_nos___monthly_income" : "5628",
+  "family_size__1_ind___monthly_income" : "2328"
+}
+, {
+  "family_size__2_nos___monthly_income" : "3783",
+  "family_size__4_nos___monthly_income" : "5763",
+  "premium_categories" : "$30 Per Child Per Month (Maximum of $90 per family)",
+  "family_size__3_nos___monthly_income" : "4773",
+  "each_additional_person_add" : "990",
+  "family_size__5_nos___monthly_income" : "6753",
+  "family_size__1_ind___monthly_income" : "2793"
+}
+, {
+  "family_size__2_nos___monthly_income" : "4413",
+  "family_size__4_nos___monthly_income" : "6723",
+  "premium_categories" : "$45 Per Child Per Month (Maximum of $135 per family)",
+  "family_size__3_nos___monthly_income" : "5568",
+  "each_additional_person_add" : "1155",
+  "family_size__5_nos___monthly_income" : "7878",
+  "family_size__1_ind___monthly_income" : "3258"
+}
+, {
+  "family_size__2_nos___monthly_income" : "5044",
+  "family_size__4_nos___monthly_income" : "7684",
+  "premium_categories" : "$60 Per Child Per Month (Maximum of $1820 per family)",
+  "family_size__3_nos___monthly_income" : "6364",
+  "each_additional_person_add" : "1320",
+  "family_size__5_nos___monthly_income" : "9004",
+  "family_size__1_ind___monthly_income" : "3724"
+}
+, {
+  "family_size__2_nos___monthly_income" : "Over $ 5044.00",
+  "family_size__4_nos___monthly_income" : "Over $ 7684.00",
+  "premium_categories" : "Full Premium Per Child Per Month",
+  "family_size__3_nos___monthly_income" : "Over $ 6364.00",
+  "each_additional_person_add" : "1247",
+  "family_size__5_nos___monthly_income" : "Over $ 9004.00",
+  "family_size__1_ind___monthly_income" : "Over $ 3724.00"
+}
+ ]

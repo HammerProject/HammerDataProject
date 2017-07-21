@@ -1,0 +1,121 @@
+[ {
+  "data_set_title" : "SHL Vehicles – Brokers",
+  "agency" : "Taxi and Limousine Commission (TLC)",
+  "agency_comment" : "Under review – data may/may not apply to SHL entity",
+  "data_set_description" : "This list contains information on taxicab brokers."
+}
+, {
+  "data_set_title" : "Performance Evaluations",
+  "agency" : "Office of the Mayor (OTM)",
+  "agency_comment" : "Does not qualify as “data” according to Local Law 11 of 2012 ",
+  "data_set_description" : "The Mayor shall ensure that copies of City contracts and other standard information regarding City contracts and vendors (including information relating to the vendor's qualification and performance evaluations, contract audits, and decisions regarding suspension and debarment) are reasonably available for public inspection as provided by law, with adequate protection for confidential information."
+}
+, {
+  "data_set_title" : "Events and clean-up costs",
+  "agency" : "Department of Sanitation (DSNY)",
+  "agency_comment" : "Under review – dataset may not be public",
+  "data_set_description" : "Names, locations and dates of events permitted by Street Activity Permit Office and the DSNY cost of clean-up efforts billed to event organizers."
+}
+, {
+  "data_set_title" : "Resource Plans",
+  "agency" : "Department of Sanitation (DSNY)",
+  "agency_comment" : "Under review – dataset may not be public",
+  "data_set_description" : "Planned number of personnel to be assigned to Cleaning and Collection functions, by Sanitation District, date, and function."
+}
+, {
+  "data_set_title" : "Resource Utilization",
+  "agency" : "Department of Sanitation (DSNY)",
+  "agency_comment" : "Under review – dataset may not be public",
+  "data_set_description" : "Actual number of personnel assigned to Cleaning and Collection functions, by Sanitation District, date, and function. Also number of personnel not available by category and personnel detached to/attached from other districts."
+}
+, {
+  "data_set_title" : "MWBE Vendors",
+  "agency" : "NYC School Construction Authority (SCA)",
+  "agency_comment" : "Data is included in \"Prequalified Firms\" dataset",
+  "data_set_description" : "List of MWBE certified vendors."
+}
+, {
+  "data_set_title" : "100 Year Association - College Scholar Award ",
+  "agency" : "Department of Citywide Administrative Services (DCAS)",
+  "agency_comment" : "Under review – this dataset may not qualify as data ",
+  "data_set_description" : "The Hundred Year Association of New York honors outstanding civil servants and provides college scholarships for the children of City employees."
+}
+, {
+  "data_set_title" : "Consumer Restitution Awarded through Tribunal",
+  "agency" : "Department of Consumer Affairs (DCA)",
+  "agency_comment" : "This data will be reported as part of the OATH Health and Consumer Case dataset when DCA disbands its tribunal and begins to file its cases at OATH for either hearings or trials",
+  "data_set_description" : "Restitution awarded to consumers via settlements and decisions."
+}
+, {
+  "data_set_title" : "Case Workflow",
+  "agency" : "Department of Consumer Affairs (DCA)",
+  "agency_comment" : "This data will be reported as part of the OATH Health and Consumer Case dataset when DCA disbands its tribunal and begins to file its cases at OATH for either hearings or trials",
+  "data_set_description" : "Status of cases in DCA's Administrative Tribunal."
+}
+, {
+  "data_set_title" : "Licensing Fees Rate Table",
+  "agency" : "Department of Consumer Affairs (DCA)",
+  "agency_comment" : "Data does not exist",
+  "data_set_description" : "Fee table for DCA license applications."
+}
+, {
+  "data_set_title" : "Health Tribunal Today's Scheduled Hearings",
+  "agency" : "Office of Administrative Trials and Hearings (OATH)",
+  "agency_comment" : "This will be replaced with \"Health, Restaurant and Consumer Hearings Case Status\" dataset",
+  "data_set_description" : "This dataset contains a list of dockets scheduled to be heard on each calendar day and includes additional data not contained in Case History."
+}
+, {
+  "data_set_title" : "Tribunal decisions rendered",
+  "agency" : "Office of Administrative Trials and Hearings (OATH)",
+  "agency_comment" : "This data is already included in MMR/PMMR datasets",
+  "data_set_description" : "ECB Tribunal decisions rendered."
+}
+, {
+  "data_set_title" : "Health Tribunal Case History",
+  "agency" : "Office of Administrative Trials and Hearings (OATH)",
+  "agency_comment" : "This will be replaced with \"Health, Restaurant and Consumer Hearings Case Status\" dataset",
+  "data_set_description" : "This dataset contains case tracking information on the status of each notice of violation received and processed by the Health Tribunal."
+}
+, {
+  "data_set_title" : "Adjournment time",
+  "agency" : "Office of Administrative Trials and Hearings (OATH)",
+  "agency_comment" : "This data is already included in MMR/PMMR datasets",
+  "data_set_description" : "Average adjournment time at the OATH Tribunal (business days)."
+}
+, {
+  "data_set_title" : "OATH Tribunal decisions",
+  "agency" : "Office of Administrative Trials and Hearings (OATH)",
+  "agency_comment" : "This data is already included in MMR/PMMR datasets",
+  "data_set_description" : "Average time for the OATH Tribunal to issue decisions after records closed (business days)"
+}
+, {
+  "data_set_title" : "Tribunal hearing decisions",
+  "agency" : "Office of Administrative Trials and Hearings (OATH)",
+  "agency_comment" : "This data is already included in MMR/PMMR datasets",
+  "data_set_description" : "Average time from ECB Tribunal hearing assignment to decision (days)."
+}
+, {
+  "data_set_title" : "Taxi & Limousine Case History",
+  "agency" : "Office of Administrative Trials and Hearings (OATH)",
+  "agency_comment" : "This will be replaced with \"For Hire Vehicle Hearings Case Status\" dataset",
+  "data_set_description" : "This dataset contains case tracking information on the status of each notice of violation received and processed by the Taxi and Limousine Tribunal."
+}
+, {
+  "data_set_title" : "Work orders; Asset Inventory; Maintenance Schedules",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "agency_comment" : "Split out into \"Work Orders\" and \"Materials Inventory\". Eliminate \"Maintenance Schedules\" as this data does not exist",
+  "data_set_description" : "Work order - Work orders generated for both general maintenance, and those used to address issues discovered during inspections; Inventory - inventory maintained on-hand at Parks storehouses; Maintenance Schedules - schedules used to assign field crews."
+}
+, {
+  "data_set_title" : "Street Tree Inventory and related information",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "agency_comment" : "Split out into component datasets",
+  "data_set_description" : "Comprehensive data on Street Trees under Parks Department jurisdiction."
+}
+, {
+  "data_set_title" : "OATH Tribunal Case History",
+  "agency" : "Office of Administrative Trials and Hearings (OATH)",
+  "agency_comment" : "This will be replaced with OATH Trials Division Case Status dataset",
+  "data_set_description" : "The dataset contains tracking information on the status of each case filed at the OATH Tribunal.."
+}
+ ]

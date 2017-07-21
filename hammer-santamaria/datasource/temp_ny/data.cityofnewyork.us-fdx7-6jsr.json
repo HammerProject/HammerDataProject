@@ -1,0 +1,346 @@
+[ {
+  "amount" : "2040",
+  "comments" : "The amount of floor area shall be calculated based upon the floor area for the entire development or enlargement",
+  "land_use_detail" : "Less than 10,000 square feet",
+  "application_type" : "Special Permit"
+}
+, {
+  "amount" : "3100",
+  "comments" : "The amount of floor area shall be calculated based upon the floor area for the entire development or enlargement",
+  "land_use_detail" : "10,000 to 19,999 square feet",
+  "application_type" : "Special Permit"
+}
+, {
+  "amount" : "4080",
+  "comments" : "The amount of floor area shall be calculated based upon the floor area for the entire development or enlargement",
+  "land_use_detail" : "20,000 to 39,999 square feet",
+  "application_type" : "Special Permit"
+}
+, {
+  "amount" : "5215",
+  "comments" : "The amount of floor area shall be calculated based upon the floor area for the entire development or enlargement",
+  "land_use_detail" : "40,000 to 69,999 square feet",
+  "application_type" : "Special Permit"
+}
+, {
+  "amount" : "6125",
+  "comments" : "The amount of floor area shall be calculated based upon the floor area for the entire development or enlargement",
+  "land_use_detail" : "70,000 to 99,999 square feet",
+  "application_type" : "Special Permit"
+}
+, {
+  "amount" : "6805",
+  "comments" : "The amount of floor area shall be calculated based upon the floor area for the entire development or enlargement",
+  "land_use_detail" : "100,000 to 239,999 square feet",
+  "application_type" : "Special Permit"
+}
+, {
+  "amount" : "17765",
+  "comments" : "The amount of floor area shall be calculated based upon the floor area for the entire development or enlargement",
+  "land_use_detail" : "240,000 to 500,000 square feet",
+  "application_type" : "Special Permit"
+}
+, {
+  "amount" : "29485",
+  "comments" : "The amount of floor area shall be calculated based upon the floor area for the entire development or enlargement",
+  "land_use_detail" : "over 500,000 square feet",
+  "application_type" : "Special Permit"
+}
+, {
+  "amount" : "2190",
+  "comments" : "The area of all zoning lots in the area to be rezoned",
+  "land_use_detail" : "Less than 10,000 square feet",
+  "application_type" : "Zoning Map Amendment"
+}
+, {
+  "amount" : "3250",
+  "comments" : "The area of all zoning lots in the area to be rezoned",
+  "land_use_detail" : "10,000 to 19,999 square feet",
+  "application_type" : "Zoning Map Amendment"
+}
+, {
+  "amount" : "4310",
+  "comments" : "The area of all zoning lots in the area to be rezoned",
+  "land_use_detail" : "20,000 to 39,999 square feet",
+  "application_type" : "Zoning Map Amendment"
+}
+, {
+  "amount" : "5445",
+  "comments" : "The area of all zoning lots in the area to be rezoned",
+  "land_use_detail" : "40,000 to 69,999 square feet",
+  "application_type" : "Zoning Map Amendment"
+}
+, {
+  "amount" : "6425",
+  "comments" : "The area of all zoning lots in the area to be rezoned",
+  "land_use_detail" : "70,000 to 99,999 square feet",
+  "application_type" : "Zoning Map Amendment"
+}
+, {
+  "amount" : "7105",
+  "comments" : "The area of all zoning lots in the area to be rezoned",
+  "land_use_detail" : "100,000 to 239,999 square feet",
+  "application_type" : "Zoning Map Amendment"
+}
+, {
+  "amount" : "18445",
+  "comments" : "The area of all zoning lots in the area to be rezoned",
+  "land_use_detail" : "240,000 to 500,000 square feet",
+  "application_type" : "Zoning Map Amendment"
+}
+, {
+  "amount" : "30620",
+  "comments" : "The area of all zoning lots in the area to be rezoned",
+  "land_use_detail" : "over 500,000 square feet",
+  "application_type" : "Zoning Map Amendment"
+}
+, {
+  "amount" : "1740",
+  "land_use_detail" : "Elimination of a mapped but unimproved street",
+  "application_type" : "Changes to City Map & Landfill"
+}
+, {
+  "amount" : "3400",
+  "land_use_detail" : "Establishment of a Landfill",
+  "application_type" : "Changes to City Map & Landfill"
+}
+, {
+  "amount" : "5445",
+  "land_use_detail" : "Any other change in The City Street Map",
+  "application_type" : "Changes to City Map & Landfill"
+}
+, {
+  "amount" : "3400",
+  "land_use_detail" : "Applications pursuant to §197-c of the City Charter",
+  "application_type" : "Franchises and revocable consents"
+}
+, {
+  "amount" : "55",
+  "comments" : "Minimum $1360",
+  "land_use_detail" : "Enclosed sidewalk cafes pursuant to New York City Administrative Code section 20-225 - Per Chair",
+  "application_type" : "Franchises and revocable consents"
+}
+, {
+  "amount" : "5445",
+  "land_use_detail" : "Amendments to the text of the Zoning Resolution pursuant to Section 201 of the City Charter",
+  "application_type" : "Amendment to Zoning Resolution"
+}
+, {
+  "amount" : "160",
+  "land_use_detail" : "certification for public school space pursuant to Section 107-123 of   Article X, Chapter 7",
+  "application_type" : "Zoning Certification "
+}
+, {
+  "amount" : "380",
+  "land_use_detail" : "For an application for one zoning lot with no more than two existing or proposed dwelling units and no commercial or community facility use",
+  "application_type" : "Zoning Certification "
+}
+, {
+  "amount" : "430",
+  "land_use_detail" : "For all other applications the fee for each zoning lot",
+  "application_type" : "Zoning Certification "
+}
+, {
+  "amount" : "755",
+  "land_use_detail" : "For an application for one zoning lot with no more than two existing or proposed dwelling units and no commercial or community facility use",
+  "application_type" : "Zoning Authorization"
+}
+, {
+  "amount" : "830",
+  "comments" : "Per Dwelling Unit",
+  "land_use_detail" : "all other applications with no commercial or community facility use, the fee shall be based upon the number of dwelling units being proposed",
+  "application_type" : "Zoning Authorization"
+}
+, {
+  "amount" : "1060",
+  "comments" : "The fee shall be based upon the area of the zoning lot, and in cases of community facility or commercial uses, the fee shall be based upon the total amount of floor area",
+  "land_use_detail" : "Less than 10,000 square feet",
+  "application_type" : "Zoning Authorization for Open Spaces"
+}
+, {
+  "amount" : "1590",
+  "comments" : "The fee shall be based upon the area of the zoning lot, and in cases of community facility or commercial uses, the fee shall be based upon the total amount of floor area",
+  "land_use_detail" : "10,000 to 19,999 square feet",
+  "application_type" : "Zoning Authorization for Open Spaces"
+}
+, {
+  "amount" : "2040",
+  "comments" : "The fee shall be based upon the area of the zoning lot, and in cases of community facility or commercial uses, the fee shall be based upon the total amount of floor area",
+  "land_use_detail" : "20,000 to 39,999 square feet",
+  "application_type" : "Zoning Authorization for Open Spaces"
+}
+, {
+  "amount" : "2645",
+  "comments" : "The fee shall be based upon the area of the zoning lot, and in cases of community facility or commercial uses, the fee shall be based upon the total amount of floor area",
+  "land_use_detail" : "40,000 to 69,999 square feet",
+  "application_type" : "Zoning Authorization for Open Spaces"
+}
+, {
+  "amount" : "3100",
+  "comments" : "The fee shall be based upon the area of the zoning lot, and in cases of community facility or commercial uses, the fee shall be based upon the total amount of floor area",
+  "land_use_detail" : "70,000 to 99,999 square feet",
+  "application_type" : "Zoning Authorization for Open Spaces"
+}
+, {
+  "amount" : "3400",
+  "comments" : "The fee shall be based upon the area of the zoning lot, and in cases of community facility or commercial uses, the fee shall be based upon the total amount of floor area",
+  "land_use_detail" : "100,000 square feet and over",
+  "application_type" : "Zoning Authorization for Open Spaces"
+}
+, {
+  "amount" : "270",
+  "land_use_detail" : "Pursuant to §95-04 (Transit Easements) of the Zoning Resolution",
+  "application_type" : "Zoning Authorization"
+}
+, {
+  "amount" : "1060",
+  "comments" : "In the case of a transfer of development rights or floor area bonus, the fee shall be based upon the amount of floor area associated with such transfer or bonus. ",
+  "land_use_detail" : "Less than 10,000 square feet",
+  "application_type" : "All other sections of the Zoning Resolution"
+}
+, {
+  "amount" : "1590",
+  "comments" : "In the case of a transfer of development rights or floor area bonus, the fee shall be based upon the amount of floor area associated with such transfer or bonus. ",
+  "land_use_detail" : "10,000 to 19,999 square feet",
+  "application_type" : "All other sections of the Zoning Resolution"
+}
+, {
+  "amount" : "2040",
+  "comments" : "In the case of a transfer of development rights or floor area bonus, the fee shall be based upon the amount of floor area associated with such transfer or bonus. ",
+  "land_use_detail" : "20,000 to 39,999 square feet",
+  "application_type" : "All other sections of the Zoning Resolution"
+}
+, {
+  "amount" : "2645",
+  "comments" : "In the case of a transfer of development rights or floor area bonus, the fee shall be based upon the amount of floor area associated with such transfer or bonus. ",
+  "land_use_detail" : "40,000 to 69,999 square feet",
+  "application_type" : "All other sections of the Zoning Resolution"
+}
+, {
+  "amount" : "3100",
+  "comments" : "In the case of a transfer of development rights or floor area bonus, the fee shall be based upon the amount of floor area associated with such transfer or bonus. ",
+  "land_use_detail" : "70,000 to 99,999 square feet",
+  "application_type" : "All other sections of the Zoning Resolution"
+}
+, {
+  "amount" : "3400",
+  "comments" : "In the case of a transfer of development rights or floor area bonus, the fee shall be based upon the amount of floor area associated with such transfer or bonus. ",
+  "land_use_detail" : "100,000 square feet and over",
+  "application_type" : "All other sections of the Zoning Resolution"
+}
+, {
+  "amount" : "80000",
+  "land_use_detail" : "Applications that may result in the development of 500,000 to 999,999 square feet of floor area",
+  "application_type" : "Supplemental Fee for Large Projects"
+}
+, {
+  "amount" : "120000",
+  "land_use_detail" : "Applications that may result in the development of 1,000,000 to 2,499,000 square feet of floor area",
+  "application_type" : "Supplemental Fee for Large Projects"
+}
+, {
+  "amount" : "160000",
+  "land_use_detail" : "Applications that may result in the development of at least 2,500,000 square feet of floor area",
+  "application_type" : "Supplemental Fee for Large Projects"
+}
+, {
+  "amount" : "0.10",
+  "comments" : "Maximum of $18900. Pursuant to §§105-45, 107-321, 107-65, and 119-40 of the Zoning Resolution, for the restoration of trees that have been removed or topography that has been altered without the prior approval of the City Planning Commission pursuant to §§105-40, 107-60, 119-10, 119-20, or 119-30 of the Zoning Resolution is filed",
+  "land_use_detail" : "Per Square Foot",
+  "application_type" : "Natural Feature Restoration Fee"
+}
+, {
+  "amount" : "110",
+  "land_use_detail" : "Request that the Department of City Planning verify in writing the zoning district(s) in which a property is located",
+  "application_type" : "Zoning Verification Fee"
+}
+, {
+  "amount" : "460",
+  "comments" : "Projects measurable in square feet (Square Footage of Total Project)",
+  "land_use_detail" : "Less than 10,000 sq. ft.",
+  "application_type" : "CEQR Application Fee"
+}
+, {
+  "amount" : "1350",
+  "comments" : "Projects measurable in square feet (Square Footage of Total Project)",
+  "land_use_detail" : "10,000 to 19,999 sq. ft.",
+  "application_type" : "CEQR Application Fee"
+}
+, {
+  "amount" : "2940",
+  "comments" : "Projects measurable in square feet (Square Footage of Total Project)",
+  "land_use_detail" : "20,000 to 39,999 sq. ft.",
+  "application_type" : "CEQR Application Fee"
+}
+, {
+  "amount" : "5465",
+  "comments" : "Projects measurable in square feet (Square Footage of Total Project)",
+  "land_use_detail" : "40,000 to 59,999 sq. ft.",
+  "application_type" : "CEQR Application Fee"
+}
+, {
+  "amount" : "8195",
+  "comments" : "Projects measurable in square feet (Square Footage of Total Project)",
+  "land_use_detail" : "60,000 to 79,999 sq. ft.",
+  "application_type" : "CEQR Application Fee"
+}
+, {
+  "amount" : "13660",
+  "comments" : "Projects measurable in square feet (Square Footage of Total Project)",
+  "land_use_detail" : "80,000 to 99,999 sq. ft.",
+  "application_type" : "CEQR Application Fee"
+}
+, {
+  "amount" : "27325",
+  "comments" : "Projects measurable in square feet (Square Footage of Total Project)",
+  "land_use_detail" : "100,000 to 149,999 sq. ft.",
+  "application_type" : "CEQR Application Fee"
+}
+, {
+  "amount" : "47815",
+  "comments" : "Projects measurable in square feet (Square Footage of Total Project)",
+  "land_use_detail" : "150,000 to 199,999 sq. ft.",
+  "application_type" : "CEQR Application Fee"
+}
+, {
+  "amount" : "71415",
+  "comments" : "Projects measurable in square feet (Square Footage of Total Project)",
+  "land_use_detail" : "200,000 to 299,999 sq. ft.",
+  "application_type" : "CEQR Application Fee"
+}
+, {
+  "amount" : "128545",
+  "comments" : "Projects measurable in square feet (Square Footage of Total Project)",
+  "land_use_detail" : "300,000 to 499,999 sq. ft.",
+  "application_type" : "CEQR Application Fee"
+}
+, {
+  "amount" : "192820",
+  "comments" : "Projects measurable in square feet (Square Footage of Total Project)",
+  "land_use_detail" : "500,000 to 1,000,000 sq. ft",
+  "application_type" : "CEQR Application Fee"
+}
+, {
+  "amount" : "314225",
+  "comments" : "Projects measurable in square feet (Square Footage of Total Project)",
+  "land_use_detail" : "Over 1,000,000 sq. ft.",
+  "application_type" : "CEQR Application Fee"
+}
+, {
+  "amount" : "1880",
+  "land_use_detail" : "Projects not measurable in square feet (Ex. bus franchises)",
+  "application_type" : "CEQR Application Fee"
+}
+, {
+  "amount" : "110",
+  "comments" : "Projects not measurable in square feet",
+  "land_use_detail" : "Type II Actions",
+  "application_type" : "CEQR Application Fee"
+}
+, {
+  "amount" : "8000",
+  "comments" : "For CEQR applications filed on or after July 1, 2009, for which a restrictive declaration to ensure compliance with project components related to the environment and/or mitigation of significant adverse impacts will be executed",
+  "land_use_detail" : "For Environmental Mitigation",
+  "application_type" : "Supplemental Fee for Large Projects"
+}
+ ]

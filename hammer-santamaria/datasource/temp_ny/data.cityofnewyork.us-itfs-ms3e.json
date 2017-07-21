@@ -1,0 +1,1650 @@
+[ {
+  "dbn" : "01M448",
+  "ap_test_takers_" : "39",
+  "schoolname" : "UNIVERSITY NEIGHBORHOOD H.S.",
+  "total_exams_taken" : "49",
+  "number_of_exams_with_scores_3_4_or_5" : "10"
+}
+, {
+  "dbn" : "01M450",
+  "ap_test_takers_" : "19",
+  "schoolname" : "EAST SIDE COMMUNITY HS",
+  "total_exams_taken" : "21"
+}
+, {
+  "dbn" : "01M515",
+  "ap_test_takers_" : "24",
+  "schoolname" : "LOWER EASTSIDE PREP",
+  "total_exams_taken" : "26",
+  "number_of_exams_with_scores_3_4_or_5" : "24"
+}
+, {
+  "dbn" : "01M539",
+  "ap_test_takers_" : "255",
+  "schoolname" : "NEW EXPLORATIONS SCI,TECH,MATH",
+  "total_exams_taken" : "377",
+  "number_of_exams_with_scores_3_4_or_5" : "191"
+}
+, {
+  "dbn" : "02M296",
+  "schoolname" : "High School of Hospitality Management"
+}
+, {
+  "dbn" : "02M298",
+  "ap_test_takers_" : "21",
+  "schoolname" : "Pace High School",
+  "total_exams_taken" : "21"
+}
+, {
+  "dbn" : "02M300",
+  "ap_test_takers_" : "99",
+  "schoolname" : "Urban Assembly School of Design and Construction,",
+  "total_exams_taken" : "117",
+  "number_of_exams_with_scores_3_4_or_5" : "10"
+}
+, {
+  "dbn" : "02M303",
+  "ap_test_takers_" : "42",
+  "schoolname" : "Facing History School, The",
+  "total_exams_taken" : "44"
+}
+, {
+  "dbn" : "02M305",
+  "ap_test_takers_" : "25",
+  "schoolname" : "Urban Assembly Academy of Government and Law, The",
+  "total_exams_taken" : "37",
+  "number_of_exams_with_scores_3_4_or_5" : "15"
+}
+, {
+  "dbn" : "02M308",
+  "schoolname" : "Lower Manhattan Arts Academy"
+}
+, {
+  "dbn" : "02M400",
+  "ap_test_takers_" : "213",
+  "schoolname" : "HS FOR ENVIRONMENTAL STUDIES",
+  "total_exams_taken" : "298",
+  "number_of_exams_with_scores_3_4_or_5" : "152"
+}
+, {
+  "dbn" : "02M408",
+  "ap_test_takers_" : "20",
+  "schoolname" : "PROFESSIONAL PERFORMING ARTS",
+  "total_exams_taken" : "20",
+  "number_of_exams_with_scores_3_4_or_5" : "15"
+}
+, {
+  "dbn" : "02M411",
+  "ap_test_takers_" : "78",
+  "schoolname" : "BARUCH COLLEGE CAMPUS HS",
+  "total_exams_taken" : "115",
+  "number_of_exams_with_scores_3_4_or_5" : "88"
+}
+, {
+  "dbn" : "02M412",
+  "ap_test_takers_" : "114",
+  "schoolname" : "NYC LAB HS FOR COLL. STUDIES",
+  "total_exams_taken" : "140",
+  "number_of_exams_with_scores_3_4_or_5" : "97"
+}
+, {
+  "dbn" : "02M413",
+  "ap_test_takers_" : "11",
+  "schoolname" : "SCHOOL OF THE FUTURE",
+  "total_exams_taken" : "11"
+}
+, {
+  "dbn" : "02M414",
+  "schoolname" : "NYC MUSEUM SCHOOL"
+}
+, {
+  "dbn" : "02M416",
+  "ap_test_takers_" : "155",
+  "schoolname" : "Eleanor Roosevelt High School",
+  "total_exams_taken" : "235",
+  "number_of_exams_with_scores_3_4_or_5" : "169"
+}
+, {
+  "dbn" : "02M418",
+  "ap_test_takers_" : "86",
+  "schoolname" : "Millennium High School",
+  "total_exams_taken" : "95",
+  "number_of_exams_with_scores_3_4_or_5" : "67"
+}
+, {
+  "dbn" : "02M420",
+  "ap_test_takers_" : "204",
+  "schoolname" : "HEALTH PROF & HUMAN SVCS",
+  "total_exams_taken" : "248",
+  "number_of_exams_with_scores_3_4_or_5" : "75"
+}
+, {
+  "dbn" : "02M425",
+  "ap_test_takers_" : "70",
+  "schoolname" : "H S FOR LEADERSHIP & PUBLIC",
+  "total_exams_taken" : "84",
+  "number_of_exams_with_scores_3_4_or_5" : "32"
+}
+, {
+  "dbn" : "02M429",
+  "ap_test_takers_" : "22",
+  "schoolname" : "LEGACY SCHOOL",
+  "total_exams_taken" : "26"
+}
+, {
+  "dbn" : "02M439",
+  "ap_test_takers_" : "42",
+  "schoolname" : "MANHATTAN VILLAGE ACADEMY HS",
+  "total_exams_taken" : "69",
+  "number_of_exams_with_scores_3_4_or_5" : "29"
+}
+, {
+  "dbn" : "02M440",
+  "ap_test_takers_" : "6",
+  "schoolname" : "HS FOR HUMANITIES",
+  "total_exams_taken" : "6"
+}
+, {
+  "dbn" : "02M459",
+  "ap_test_takers_" : "12",
+  "schoolname" : "CES-MANHATTAN INTERNATIONAL",
+  "total_exams_taken" : "12",
+  "number_of_exams_with_scores_3_4_or_5" : "6"
+}
+, {
+  "dbn" : "02M460",
+  "ap_test_takers_" : "69",
+  "schoolname" : "WASHINGTON IRVING HS",
+  "total_exams_taken" : "83",
+  "number_of_exams_with_scores_3_4_or_5" : "21"
+}
+, {
+  "dbn" : "02M475",
+  "ap_test_takers_" : "1510",
+  "schoolname" : "STUYVESANT HS",
+  "total_exams_taken" : "2819",
+  "number_of_exams_with_scores_3_4_or_5" : "2648"
+}
+, {
+  "dbn" : "02M489",
+  "ap_test_takers_" : "101",
+  "schoolname" : "HS OF ECONOMICS & FINANCE",
+  "total_exams_taken" : "176",
+  "number_of_exams_with_scores_3_4_or_5" : "78"
+}
+, {
+  "dbn" : "02M519",
+  "ap_test_takers_" : "30",
+  "schoolname" : "TALENT UNLIMITED",
+  "total_exams_taken" : "34",
+  "number_of_exams_with_scores_3_4_or_5" : "21"
+}
+, {
+  "dbn" : "02M520",
+  "ap_test_takers_" : "118",
+  "schoolname" : "MURRY BERGTRAUM H.S.",
+  "total_exams_taken" : "157",
+  "number_of_exams_with_scores_3_4_or_5" : "76"
+}
+, {
+  "dbn" : "02M529",
+  "ap_test_takers_" : "80",
+  "schoolname" : "JACQUELINE K. ONASSIS HS",
+  "total_exams_taken" : "118",
+  "number_of_exams_with_scores_3_4_or_5" : "29"
+}
+, {
+  "dbn" : "02M542",
+  "ap_test_takers_" : "67",
+  "schoolname" : "Manhattan Bridges High School",
+  "total_exams_taken" : "102",
+  "number_of_exams_with_scores_3_4_or_5" : "59"
+}
+, {
+  "dbn" : "02M545",
+  "ap_test_takers_" : "61",
+  "schoolname" : "High School for Dual Language and Asian Studies",
+  "total_exams_taken" : "96",
+  "number_of_exams_with_scores_3_4_or_5" : "89"
+}
+, {
+  "dbn" : "02M551",
+  "ap_test_takers_" : "7",
+  "schoolname" : "HARBOR HIGH SCHOOL",
+  "total_exams_taken" : "7"
+}
+, {
+  "dbn" : "02M575",
+  "ap_test_takers_" : "58",
+  "schoolname" : "MANHATTAN COMP.NIGHT H.S.",
+  "total_exams_taken" : "100",
+  "number_of_exams_with_scores_3_4_or_5" : "61"
+}
+, {
+  "dbn" : "02M580",
+  "ap_test_takers_" : "67",
+  "schoolname" : "R.R.GREEN HS OF TEACHING",
+  "total_exams_taken" : "117",
+  "number_of_exams_with_scores_3_4_or_5" : "40"
+}
+, {
+  "dbn" : "02M600",
+  "ap_test_takers_" : "70",
+  "schoolname" : "HS FOR FASHION INDUSTRIES",
+  "total_exams_taken" : "87",
+  "number_of_exams_with_scores_3_4_or_5" : "26"
+}
+, {
+  "dbn" : "02M615",
+  "ap_test_takers_" : "52",
+  "schoolname" : "CHELSEA VHS",
+  "total_exams_taken" : "97",
+  "number_of_exams_with_scores_3_4_or_5" : "13"
+}
+, {
+  "dbn" : "02M620",
+  "ap_test_takers_" : "34",
+  "schoolname" : "NORMAN THOMAS H.S.",
+  "total_exams_taken" : "34",
+  "number_of_exams_with_scores_3_4_or_5" : "14"
+}
+, {
+  "dbn" : "02M625",
+  "ap_test_takers_" : "79",
+  "schoolname" : "HS COMMUNICATION GRAPHIC ART",
+  "total_exams_taken" : "85",
+  "number_of_exams_with_scores_3_4_or_5" : "9"
+}
+, {
+  "dbn" : "02M630",
+  "ap_test_takers_" : "84",
+  "schoolname" : "HS OF ART AND DESIGN",
+  "total_exams_taken" : "100",
+  "number_of_exams_with_scores_3_4_or_5" : "33"
+}
+, {
+  "dbn" : "02M655",
+  "ap_test_takers_" : "50",
+  "schoolname" : "LIFE SCIENCES SECONDARY SCHL",
+  "total_exams_taken" : "90",
+  "number_of_exams_with_scores_3_4_or_5" : "10"
+}
+, {
+  "dbn" : "03M415",
+  "ap_test_takers_" : "65",
+  "schoolname" : "WADLEIGH ARTS HIGH SCHOOL",
+  "total_exams_taken" : "73"
+}
+, {
+  "dbn" : "03M470",
+  "ap_test_takers_" : "48",
+  "schoolname" : "LOUIS D. BRANDEIS HS",
+  "total_exams_taken" : "70",
+  "number_of_exams_with_scores_3_4_or_5" : "6"
+}
+, {
+  "dbn" : "03M479",
+  "ap_test_takers_" : "166",
+  "schoolname" : "BEACON SCHOOL",
+  "total_exams_taken" : "197",
+  "number_of_exams_with_scores_3_4_or_5" : "140"
+}
+, {
+  "dbn" : "03M485",
+  "ap_test_takers_" : "691",
+  "schoolname" : "FIORELLO H.LAGUARDIA HS",
+  "total_exams_taken" : "1236",
+  "number_of_exams_with_scores_3_4_or_5" : "790"
+}
+, {
+  "dbn" : "03M494",
+  "ap_test_takers_" : "38",
+  "schoolname" : "MLK, JR HS FOR ARTS & TECH",
+  "total_exams_taken" : "38",
+  "number_of_exams_with_scores_3_4_or_5" : "6"
+}
+, {
+  "dbn" : "03M860",
+  "ap_test_takers_" : "11",
+  "schoolname" : "FREDERICK DOUGLASS ACADEMY II",
+  "total_exams_taken" : "11"
+}
+, {
+  "dbn" : "04M409",
+  "ap_test_takers_" : "18",
+  "schoolname" : "COALITION SCHL FOR SOCIAL CHG",
+  "total_exams_taken" : "18"
+}
+, {
+  "dbn" : "04M435",
+  "ap_test_takers_" : "328",
+  "schoolname" : "MANHATTAN CENTER-SCIENCE&MATH",
+  "total_exams_taken" : "426",
+  "number_of_exams_with_scores_3_4_or_5" : "261"
+}
+, {
+  "dbn" : "04M495",
+  "schoolname" : "PARK EAST H.S."
+}
+, {
+  "dbn" : "04M555",
+  "schoolname" : "CENTRAL PARK EAST H.S."
+}
+, {
+  "dbn" : "04M610",
+  "ap_test_takers_" : "41",
+  "schoolname" : "THE YOUNG WOMEN'S LEADERSHIP SCHOOL OF EAST HARLEM",
+  "total_exams_taken" : "55",
+  "number_of_exams_with_scores_3_4_or_5" : "29"
+}
+, {
+  "dbn" : "04M610",
+  "schoolname" : "YOUNG WOMEN'S LEADERSHIP SCH"
+}
+, {
+  "dbn" : "05M304",
+  "ap_test_takers_" : "11",
+  "schoolname" : "Mott Hall High School",
+  "total_exams_taken" : "11"
+}
+, {
+  "dbn" : "05M367",
+  "ap_test_takers_" : "17",
+  "schoolname" : "Academy for Social Action: A College Board School",
+  "total_exams_taken" : "17"
+}
+, {
+  "dbn" : "05M469",
+  "ap_test_takers_" : "6",
+  "schoolname" : "CHOIR ACADEMY OF HARLEM",
+  "total_exams_taken" : "6"
+}
+, {
+  "dbn" : "05M499",
+  "ap_test_takers_" : "163",
+  "schoolname" : "FREDRICK DOUGLAS SEC. SCHOOL",
+  "total_exams_taken" : "226",
+  "number_of_exams_with_scores_3_4_or_5" : "159"
+}
+, {
+  "dbn" : "05M670",
+  "ap_test_takers_" : "37",
+  "schoolname" : "THURGOOD MARSHALL ACADEMY",
+  "total_exams_taken" : "38"
+}
+, {
+  "dbn" : "05M692",
+  "ap_test_takers_" : "114",
+  "schoolname" : "HIGH SCHOOL FOR MATH SCIENCE ENGINEERING @ CCNY",
+  "total_exams_taken" : "124",
+  "number_of_exams_with_scores_3_4_or_5" : "71"
+}
+, {
+  "dbn" : "06M462",
+  "ap_test_takers_" : "108",
+  "schoolname" : "H.S. INT'L BUSINESS & FINANCE",
+  "total_exams_taken" : "135",
+  "number_of_exams_with_scores_3_4_or_5" : "43"
+}
+, {
+  "dbn" : "06M463",
+  "ap_test_takers_" : "37",
+  "schoolname" : "H.S. MEDIA & COMMUNICATIONS",
+  "total_exams_taken" : "64"
+}
+, {
+  "dbn" : "06M467",
+  "ap_test_takers_" : "141",
+  "schoolname" : "H.S. LAW & PUBLIC SERVICE",
+  "total_exams_taken" : "212",
+  "number_of_exams_with_scores_3_4_or_5" : "82"
+}
+, {
+  "dbn" : "06M468",
+  "ap_test_takers_" : "32",
+  "schoolname" : "H.S. HEALTH CAREERS & SCIENCE",
+  "total_exams_taken" : "38",
+  "number_of_exams_with_scores_3_4_or_5" : "17"
+}
+, {
+  "dbn" : "06M540",
+  "ap_test_takers_" : "165",
+  "schoolname" : "A PHILIP RANDOLPH CAMPUS",
+  "total_exams_taken" : "222",
+  "number_of_exams_with_scores_3_4_or_5" : "72"
+}
+, {
+  "dbn" : "06M552",
+  "ap_test_takers_" : "88",
+  "schoolname" : "GREGORIO LUPERON HS SCI & MATH",
+  "total_exams_taken" : "138",
+  "number_of_exams_with_scores_3_4_or_5" : "73"
+}
+, {
+  "dbn" : "07X221",
+  "ap_test_takers_" : "63",
+  "schoolname" : "South Bronx Preparatory: A College Board School",
+  "total_exams_taken" : "89",
+  "number_of_exams_with_scores_3_4_or_5" : "24"
+}
+, {
+  "dbn" : "07X500",
+  "ap_test_takers_" : "64",
+  "schoolname" : "LINCOLN ACADEMY/ HOSTOS",
+  "total_exams_taken" : "107",
+  "number_of_exams_with_scores_3_4_or_5" : "39"
+}
+, {
+  "dbn" : "07X520",
+  "ap_test_takers_" : "13",
+  "schoolname" : "FOREIGN LANG ACAD/GLOBAL STUD",
+  "total_exams_taken" : "13",
+  "number_of_exams_with_scores_3_4_or_5" : "12"
+}
+, {
+  "dbn" : "07X527",
+  "ap_test_takers_" : "30",
+  "schoolname" : "Bronx Leadership Academy II High School",
+  "total_exams_taken" : "30"
+}
+, {
+  "dbn" : "07X547",
+  "ap_test_takers_" : "18",
+  "schoolname" : "New Explorers High School",
+  "total_exams_taken" : "18"
+}
+, {
+  "dbn" : "07X548",
+  "schoolname" : "Urban Assembly School for Careers in Sports"
+}
+, {
+  "dbn" : "07X551",
+  "ap_test_takers_" : "53",
+  "schoolname" : "Bronx Academy of Letters",
+  "total_exams_taken" : "92",
+  "number_of_exams_with_scores_3_4_or_5" : "37"
+}
+, {
+  "dbn" : "07X600",
+  "ap_test_takers_" : "11",
+  "schoolname" : "ALFRED E. SMITH VHS",
+  "total_exams_taken" : "11"
+}
+, {
+  "dbn" : "07X655",
+  "ap_test_takers_" : "77",
+  "schoolname" : "SAMUEL GOMPERS VHS",
+  "total_exams_taken" : "126"
+}
+, {
+  "dbn" : "07X670",
+  "ap_test_takers_" : "61",
+  "schoolname" : "HEALTH OPPORTUNITIES PROGRAM",
+  "total_exams_taken" : "117",
+  "number_of_exams_with_scores_3_4_or_5" : "29"
+}
+, {
+  "dbn" : "08X282",
+  "ap_test_takers_" : "21",
+  "schoolname" : "Women's Academy of Excellence",
+  "total_exams_taken" : "22"
+}
+, {
+  "dbn" : "08X293",
+  "ap_test_takers_" : "22",
+  "schoolname" : "Renaissance High School for Musical Theater & Tech",
+  "total_exams_taken" : "29",
+  "number_of_exams_with_scores_3_4_or_5" : "14"
+}
+, {
+  "dbn" : "08X295",
+  "schoolname" : "Gateway School for Environmental Research and Tech"
+}
+, {
+  "dbn" : "08X305",
+  "schoolname" : "Pablo Neruda Academy for Architecture and World St"
+}
+, {
+  "dbn" : "08X312",
+  "ap_test_takers_" : "35",
+  "schoolname" : "Millennium Art Academy",
+  "total_exams_taken" : "55"
+}
+, {
+  "dbn" : "08X332",
+  "ap_test_takers_" : "20",
+  "schoolname" : "Holcombe L. Rucker School of Community Research",
+  "total_exams_taken" : "28"
+}
+, {
+  "dbn" : "08X405",
+  "ap_test_takers_" : "430",
+  "schoolname" : "HERBERT LEHMAN HS",
+  "total_exams_taken" : "532",
+  "number_of_exams_with_scores_3_4_or_5" : "197"
+}
+, {
+  "dbn" : "08X540",
+  "ap_test_takers_" : "9",
+  "schoolname" : "School for Community Research and Learning",
+  "total_exams_taken" : "9"
+}
+, {
+  "dbn" : "08X650",
+  "ap_test_takers_" : "44",
+  "schoolname" : "JANE ADDAMS VHS",
+  "total_exams_taken" : "69",
+  "number_of_exams_with_scores_3_4_or_5" : "8"
+}
+, {
+  "dbn" : "09X231",
+  "ap_test_takers_" : "32",
+  "schoolname" : "Eagle Academy for Young Men",
+  "total_exams_taken" : "44",
+  "number_of_exams_with_scores_3_4_or_5" : "11"
+}
+, {
+  "dbn" : "09X239",
+  "ap_test_takers_" : "9",
+  "schoolname" : "Urban Assembly Academy for History and Citizenship",
+  "total_exams_taken" : "9"
+}
+, {
+  "dbn" : "09X241",
+  "ap_test_takers_" : "16",
+  "schoolname" : "Urban Assembly School for Applied Math and Science",
+  "total_exams_taken" : "16"
+}
+, {
+  "dbn" : "09X250",
+  "ap_test_takers_" : "90",
+  "schoolname" : "Eximius College Preparatory Academy: A College Boa",
+  "total_exams_taken" : "146",
+  "number_of_exams_with_scores_3_4_or_5" : "11"
+}
+, {
+  "dbn" : "09X260",
+  "ap_test_takers_" : "62",
+  "schoolname" : "Bronx Center for Science and Mathematics",
+  "total_exams_taken" : "80",
+  "number_of_exams_with_scores_3_4_or_5" : "35"
+}
+, {
+  "dbn" : "09X263",
+  "ap_test_takers_" : "7",
+  "schoolname" : "Validus Preparatory Academy: An Expeditionary Lear",
+  "total_exams_taken" : "7"
+}
+, {
+  "dbn" : "09X276",
+  "ap_test_takers_" : "17",
+  "schoolname" : "Leadership Institute",
+  "total_exams_taken" : "17",
+  "number_of_exams_with_scores_3_4_or_5" : "7"
+}
+, {
+  "dbn" : "09X329",
+  "ap_test_takers_" : "15",
+  "schoolname" : "DreamYard Preparatory School",
+  "total_exams_taken" : "15"
+}
+, {
+  "dbn" : "09X365",
+  "ap_test_takers_" : "20",
+  "schoolname" : "Academy for Language and Technology",
+  "total_exams_taken" : "20",
+  "number_of_exams_with_scores_3_4_or_5" : "20"
+}
+, {
+  "dbn" : "09X412",
+  "ap_test_takers_" : "26",
+  "schoolname" : "BRONX HIGH SCHOOL OF BUSINESS",
+  "total_exams_taken" : "31",
+  "number_of_exams_with_scores_3_4_or_5" : "9"
+}
+, {
+  "dbn" : "09X414",
+  "ap_test_takers_" : "18",
+  "schoolname" : "J. LEVIN HS FOR MEDIA & COMM.",
+  "total_exams_taken" : "18"
+}
+, {
+  "dbn" : "09X505",
+  "ap_test_takers_" : "45",
+  "schoolname" : "BRONX SCH FOR LAW, GOVT, JUST",
+  "total_exams_taken" : "55",
+  "number_of_exams_with_scores_3_4_or_5" : "27"
+}
+, {
+  "dbn" : "09X517",
+  "ap_test_takers_" : "26",
+  "schoolname" : "FREDERICK DOUGLASS ACADEMY III",
+  "total_exams_taken" : "36"
+}
+, {
+  "dbn" : "09X525",
+  "ap_test_takers_" : "40",
+  "schoolname" : "BRONX LEADERSHIP ACADEMY HS",
+  "total_exams_taken" : "42",
+  "number_of_exams_with_scores_3_4_or_5" : "8"
+}
+, {
+  "dbn" : "10X141",
+  "ap_test_takers_" : "133",
+  "schoolname" : "MS/HS 141 D A STEIN RIV/KINGSB",
+  "total_exams_taken" : "184",
+  "number_of_exams_with_scores_3_4_or_5" : "119"
+}
+, {
+  "dbn" : "10X213",
+  "ap_test_takers_" : "107",
+  "schoolname" : "Bronx Engineering and Technology Academy",
+  "total_exams_taken" : "228",
+  "number_of_exams_with_scores_3_4_or_5" : "10"
+}
+, {
+  "dbn" : "10X225",
+  "ap_test_takers_" : "17",
+  "schoolname" : "Theatre Arts Production Company School",
+  "total_exams_taken" : "27"
+}
+, {
+  "dbn" : "10X237",
+  "ap_test_takers_" : "15",
+  "schoolname" : "The Marie Curie School for Medicine, Nursing, and",
+  "total_exams_taken" : "15"
+}
+, {
+  "dbn" : "10X243",
+  "ap_test_takers_" : "25",
+  "schoolname" : "West Bronx Academy for the Future",
+  "total_exams_taken" : "29",
+  "number_of_exams_with_scores_3_4_or_5" : "14"
+}
+, {
+  "dbn" : "10X268",
+  "ap_test_takers_" : "32",
+  "schoolname" : "Kingsbridge International High School",
+  "total_exams_taken" : "37"
+}
+, {
+  "dbn" : "10X284",
+  "ap_test_takers_" : "21",
+  "schoolname" : "Bronx School of Law and Finance",
+  "total_exams_taken" : "27"
+}
+, {
+  "dbn" : "10X342",
+  "ap_test_takers_" : "55",
+  "schoolname" : "International School for Liberal Arts",
+  "total_exams_taken" : "73",
+  "number_of_exams_with_scores_3_4_or_5" : "45"
+}
+, {
+  "dbn" : "10X368",
+  "ap_test_takers_" : "40",
+  "schoolname" : "MS/HS 368 INFO & NETWORK TECH",
+  "total_exams_taken" : "54",
+  "number_of_exams_with_scores_3_4_or_5" : "17"
+}
+, {
+  "dbn" : "10X433",
+  "ap_test_takers_" : "62",
+  "schoolname" : "HS FOR TEACHING & PROFESSIONS",
+  "total_exams_taken" : "83",
+  "number_of_exams_with_scores_3_4_or_5" : "13"
+}
+, {
+  "dbn" : "10X434",
+  "ap_test_takers_" : "31",
+  "schoolname" : "BELMONT PREPARATORY HIGH SCHL",
+  "total_exams_taken" : "45",
+  "number_of_exams_with_scores_3_4_or_5" : "10"
+}
+, {
+  "dbn" : "10X437",
+  "schoolname" : "FORDHAM HS FOR THE ARTS"
+}
+, {
+  "dbn" : "10X438",
+  "ap_test_takers_" : "42",
+  "schoolname" : "FORDHAM LDRSHP ACAD BUS & TECH",
+  "total_exams_taken" : "47",
+  "number_of_exams_with_scores_3_4_or_5" : "12"
+}
+, {
+  "dbn" : "10X439",
+  "ap_test_takers_" : "44",
+  "schoolname" : "BRONX HS OF LAW & COMM SERVICE",
+  "total_exams_taken" : "65",
+  "number_of_exams_with_scores_3_4_or_5" : "9"
+}
+, {
+  "dbn" : "10X440",
+  "ap_test_takers_" : "366",
+  "schoolname" : "DEWITT CLINTON HS",
+  "total_exams_taken" : "540",
+  "number_of_exams_with_scores_3_4_or_5" : "262"
+}
+, {
+  "dbn" : "10X442",
+  "ap_test_takers_" : "31",
+  "schoolname" : "Celia Cruz Bronx High School of Music, The",
+  "total_exams_taken" : "35",
+  "number_of_exams_with_scores_3_4_or_5" : "8"
+}
+, {
+  "dbn" : "10X445",
+  "ap_test_takers_" : "1190",
+  "schoolname" : "BRONX HS OF SCIENCE",
+  "total_exams_taken" : "2435",
+  "number_of_exams_with_scores_3_4_or_5" : "2189"
+}
+, {
+  "dbn" : "10X475",
+  "ap_test_takers_" : "46",
+  "schoolname" : "JOHN F KENNEDY HS",
+  "total_exams_taken" : "48",
+  "number_of_exams_with_scores_3_4_or_5" : "19"
+}
+, {
+  "dbn" : "10X477",
+  "ap_test_takers_" : "83",
+  "schoolname" : "MARBLE HILL HS FOR INT STUDIES",
+  "total_exams_taken" : "141",
+  "number_of_exams_with_scores_3_4_or_5" : "37"
+}
+, {
+  "dbn" : "10X546",
+  "ap_test_takers_" : "34",
+  "schoolname" : "Bronx Theatre High School",
+  "total_exams_taken" : "34"
+}
+, {
+  "dbn" : "10X549",
+  "schoolname" : "Discovery High School"
+}
+, {
+  "dbn" : "10X696",
+  "ap_test_takers_" : "194",
+  "schoolname" : "HIGH SCHOOL OF AMERICAN STUDIES At Lehman College",
+  "total_exams_taken" : "302",
+  "number_of_exams_with_scores_3_4_or_5" : "243"
+}
+, {
+  "dbn" : "11X249",
+  "schoolname" : "Bronx Health Sciences High School"
+}
+, {
+  "dbn" : "11X253",
+  "ap_test_takers_" : "28",
+  "schoolname" : "Bronx High School for Writing and Communication Ar",
+  "total_exams_taken" : "30"
+}
+, {
+  "dbn" : "11X270",
+  "ap_test_takers_" : "24",
+  "schoolname" : "Academy for Scholarship and Entrepreneurship: A Co",
+  "total_exams_taken" : "24"
+}
+, {
+  "dbn" : "11X275",
+  "schoolname" : "High School of Computers and Technology"
+}
+, {
+  "dbn" : "11X288",
+  "ap_test_takers_" : "79",
+  "schoolname" : "Collegiate Institute for Math and Science",
+  "total_exams_taken" : "111",
+  "number_of_exams_with_scores_3_4_or_5" : "33"
+}
+, {
+  "dbn" : "11X299",
+  "ap_test_takers_" : "36",
+  "schoolname" : "Astor Collegiate Academy",
+  "total_exams_taken" : "48",
+  "number_of_exams_with_scores_3_4_or_5" : "12"
+}
+, {
+  "dbn" : "11X415",
+  "ap_test_takers_" : "34",
+  "schoolname" : "CHRISTOPHER COLUMBUS HS",
+  "total_exams_taken" : "34",
+  "number_of_exams_with_scores_3_4_or_5" : "6"
+}
+, {
+  "dbn" : "11X418",
+  "ap_test_takers_" : "26",
+  "schoolname" : "BRONX HS FOR THE VISUAL ARTS",
+  "total_exams_taken" : "41",
+  "number_of_exams_with_scores_3_4_or_5" : "9"
+}
+, {
+  "dbn" : "11X455",
+  "ap_test_takers_" : "103",
+  "schoolname" : "HARRY S TRUMAN HS",
+  "total_exams_taken" : "135",
+  "number_of_exams_with_scores_3_4_or_5" : "27"
+}
+, {
+  "dbn" : "11X513",
+  "ap_test_takers_" : "12",
+  "schoolname" : "New World High School",
+  "total_exams_taken" : "12"
+}
+, {
+  "dbn" : "11X542",
+  "ap_test_takers_" : "46",
+  "schoolname" : "Pelham Preparatory Academy",
+  "total_exams_taken" : "57",
+  "number_of_exams_with_scores_3_4_or_5" : "17"
+}
+, {
+  "dbn" : "12X248",
+  "ap_test_takers_" : "25",
+  "schoolname" : "Metropolitan High School, The",
+  "total_exams_taken" : "25"
+}
+, {
+  "dbn" : "12X267",
+  "schoolname" : "Bronx Latin"
+}
+, {
+  "dbn" : "12X271",
+  "ap_test_takers_" : "32",
+  "schoolname" : "East Bronx Academy for the Future",
+  "total_exams_taken" : "37"
+}
+, {
+  "dbn" : "12X278",
+  "ap_test_takers_" : "8",
+  "schoolname" : "Peace and Diversity Academy",
+  "total_exams_taken" : "8"
+}
+, {
+  "dbn" : "12X682",
+  "schoolname" : "FANNIE LOU HAMER FREEDOM HS"
+}
+, {
+  "dbn" : "12X684",
+  "ap_test_takers_" : "20",
+  "schoolname" : "WINGS ACADEMY",
+  "total_exams_taken" : "27"
+}
+, {
+  "dbn" : "12X690",
+  "ap_test_takers_" : "7",
+  "schoolname" : "MONROE ACADEMY - BUSINESS/LAW",
+  "total_exams_taken" : "7"
+}
+, {
+  "dbn" : "13K265",
+  "ap_test_takers_" : "17",
+  "schoolname" : "Dr Susan S McKinney Secondary School of the Arts",
+  "total_exams_taken" : "22"
+}
+, {
+  "dbn" : "13K412",
+  "ap_test_takers_" : "21",
+  "schoolname" : "Brooklyn Community High School of Communication, A",
+  "total_exams_taken" : "21"
+}
+, {
+  "dbn" : "13K419",
+  "ap_test_takers_" : "52",
+  "schoolname" : "SCIENCE SKILLS CENTER",
+  "total_exams_taken" : "59"
+}
+, {
+  "dbn" : "13K430",
+  "ap_test_takers_" : "2117",
+  "schoolname" : "BROOKLYN TECHNICAL HS",
+  "total_exams_taken" : "3692",
+  "number_of_exams_with_scores_3_4_or_5" : "2687"
+}
+, {
+  "dbn" : "13K483",
+  "ap_test_takers_" : "31",
+  "schoolname" : "Urban Assembly School for Law and Justice, The",
+  "total_exams_taken" : "57",
+  "number_of_exams_with_scores_3_4_or_5" : "24"
+}
+, {
+  "dbn" : "13K499",
+  "ap_test_takers_" : "64",
+  "schoolname" : "ACORN COMMUNITY HIGH SCHOOL",
+  "total_exams_taken" : "95"
+}
+, {
+  "dbn" : "13K509",
+  "ap_test_takers_" : "74",
+  "schoolname" : "FREEDOM ACADEMY H.S.",
+  "total_exams_taken" : "89"
+}
+, {
+  "dbn" : "13K595",
+  "ap_test_takers_" : "43",
+  "schoolname" : "Bedford Academy High School",
+  "total_exams_taken" : "57",
+  "number_of_exams_with_scores_3_4_or_5" : "16"
+}
+, {
+  "dbn" : "13K605",
+  "ap_test_takers_" : "35",
+  "schoolname" : "GEORGE WESTINGHOUSE",
+  "total_exams_taken" : "35"
+}
+, {
+  "dbn" : "13K670",
+  "ap_test_takers_" : "132",
+  "schoolname" : "BENJAMIN BANNEKER ACADEMY",
+  "total_exams_taken" : "149",
+  "number_of_exams_with_scores_3_4_or_5" : "62"
+}
+, {
+  "dbn" : "14K071",
+  "ap_test_takers_" : "16",
+  "schoolname" : "JHS 071 JUAN MOREL CAMPOS",
+  "total_exams_taken" : "16",
+  "number_of_exams_with_scores_3_4_or_5" : "12"
+}
+, {
+  "dbn" : "14K322",
+  "ap_test_takers_" : "42",
+  "schoolname" : "Foundations Academy",
+  "total_exams_taken" : "53"
+}
+, {
+  "dbn" : "14K474",
+  "ap_test_takers_" : "50",
+  "schoolname" : "PROGRESS HIGH SCHOOL",
+  "total_exams_taken" : "66"
+}
+, {
+  "dbn" : "14K477",
+  "ap_test_takers_" : "24",
+  "schoolname" : "HIGH SCHOOL OF LEGAL STUDIES",
+  "total_exams_taken" : "27"
+}
+, {
+  "dbn" : "14K478",
+  "ap_test_takers_" : "94",
+  "schoolname" : "HS OF ENTERPRISE AND TECH",
+  "total_exams_taken" : "129",
+  "number_of_exams_with_scores_3_4_or_5" : "19"
+}
+, {
+  "dbn" : "14K488",
+  "ap_test_takers_" : "28",
+  "schoolname" : "Brooklyn Preparatory High School",
+  "total_exams_taken" : "46",
+  "number_of_exams_with_scores_3_4_or_5" : "7"
+}
+, {
+  "dbn" : "14K558",
+  "ap_test_takers_" : "30",
+  "schoolname" : "Williamsburg High School for Architecture and Desi",
+  "total_exams_taken" : "48"
+}
+, {
+  "dbn" : "14K561",
+  "ap_test_takers_" : "31",
+  "schoolname" : "Williamsburg Preparatory School",
+  "total_exams_taken" : "41"
+}
+, {
+  "dbn" : "14K685",
+  "schoolname" : "EL PUENTE ACADEMY"
+}
+, {
+  "dbn" : "15K463",
+  "ap_test_takers_" : "22",
+  "schoolname" : "Secondary School for Journalism",
+  "total_exams_taken" : "22"
+}
+, {
+  "dbn" : "15K497",
+  "ap_test_takers_" : "30",
+  "schoolname" : "SCHOOL FOR INTERNATL.STUDIES",
+  "total_exams_taken" : "34"
+}
+, {
+  "dbn" : "15K519",
+  "ap_test_takers_" : "25",
+  "schoolname" : "COBBLE HILL SCH OF AMER STUDIE",
+  "total_exams_taken" : "36"
+}
+, {
+  "dbn" : "15K530",
+  "ap_test_takers_" : "14",
+  "schoolname" : "METROPOLITAN CORP. ACADEMY",
+  "total_exams_taken" : "14"
+}
+, {
+  "dbn" : "15K656",
+  "schoolname" : "BROOKLYN H.S. FOR THE ARTS"
+}
+, {
+  "dbn" : "16K455",
+  "ap_test_takers_" : "22",
+  "schoolname" : "BOYS AND GIRLS HS",
+  "total_exams_taken" : "32"
+}
+, {
+  "dbn" : "16K498",
+  "ap_test_takers_" : "49",
+  "schoolname" : "Acorn High School for Social Justice",
+  "total_exams_taken" : "80"
+}
+, {
+  "dbn" : "17K382",
+  "ap_test_takers_" : "64",
+  "schoolname" : "Academy for College Preparation and Career Explora",
+  "total_exams_taken" : "82",
+  "number_of_exams_with_scores_3_4_or_5" : "7"
+}
+, {
+  "dbn" : "17K528",
+  "ap_test_takers_" : "20",
+  "schoolname" : "High School for Global Citizenship, The",
+  "total_exams_taken" : "34"
+}
+, {
+  "dbn" : "17K537",
+  "ap_test_takers_" : "21",
+  "schoolname" : "High School for Youth and Community Development at",
+  "total_exams_taken" : "37"
+}
+, {
+  "dbn" : "17K546",
+  "ap_test_takers_" : "106",
+  "schoolname" : "High School for Public Service: Heroes  of Tomorro",
+  "total_exams_taken" : "130",
+  "number_of_exams_with_scores_3_4_or_5" : "13"
+}
+, {
+  "dbn" : "17K547",
+  "ap_test_takers_" : "49",
+  "schoolname" : "Brooklyn Academy of Science and the  Environment",
+  "total_exams_taken" : "59"
+}
+, {
+  "dbn" : "17K548",
+  "ap_test_takers_" : "37",
+  "schoolname" : "Brooklyn School for Music & Theatre",
+  "total_exams_taken" : "41",
+  "number_of_exams_with_scores_3_4_or_5" : "9"
+}
+, {
+  "dbn" : "17K590",
+  "ap_test_takers_" : "272",
+  "schoolname" : "MIDDLE COLL HS @ MEDGAR EVERS",
+  "total_exams_taken" : "507",
+  "number_of_exams_with_scores_3_4_or_5" : "86"
+}
+, {
+  "dbn" : "17K600",
+  "ap_test_takers_" : "135",
+  "schoolname" : "CLARA BARTON VHS",
+  "total_exams_taken" : "211",
+  "number_of_exams_with_scores_3_4_or_5" : "63"
+}
+, {
+  "dbn" : "17K625",
+  "ap_test_takers_" : "50",
+  "schoolname" : "PAUL ROBESON HS",
+  "total_exams_taken" : "51"
+}
+, {
+  "dbn" : "18K415",
+  "schoolname" : "SAMUEL J. TILDEN HS"
+}
+, {
+  "dbn" : "18K500",
+  "ap_test_takers_" : "11",
+  "schoolname" : "CANARSIE HS",
+  "total_exams_taken" : "14"
+}
+, {
+  "dbn" : "19K409",
+  "schoolname" : "EAST NEW YORK FAMILY ACADEMY"
+}
+, {
+  "dbn" : "19K420",
+  "ap_test_takers_" : "10",
+  "schoolname" : "FRANKLIN K LANE HIGH SCHOOL",
+  "total_exams_taken" : "10"
+}
+, {
+  "dbn" : "19K504",
+  "ap_test_takers_" : "12",
+  "schoolname" : "High School for Civil Rights",
+  "total_exams_taken" : "18"
+}
+, {
+  "dbn" : "19K507",
+  "schoolname" : "Performing Arts and Technology High School"
+}
+, {
+  "dbn" : "19K510",
+  "ap_test_takers_" : "22",
+  "schoolname" : "World Academy for Total Community Health High Scho",
+  "total_exams_taken" : "22"
+}
+, {
+  "dbn" : "19K583",
+  "ap_test_takers_" : "44",
+  "schoolname" : "Multicultural High School",
+  "total_exams_taken" : "44",
+  "number_of_exams_with_scores_3_4_or_5" : "39"
+}
+, {
+  "dbn" : "19K615",
+  "ap_test_takers_" : "138",
+  "schoolname" : "ENY-TRANSIT TECH HS",
+  "total_exams_taken" : "164",
+  "number_of_exams_with_scores_3_4_or_5" : "18"
+}
+, {
+  "dbn" : "19K659",
+  "ap_test_takers_" : "21",
+  "schoolname" : "Cypress Hills Collegiate Preparatory School",
+  "total_exams_taken" : "21",
+  "number_of_exams_with_scores_3_4_or_5" : "10"
+}
+, {
+  "dbn" : "19K660",
+  "ap_test_takers_" : "46",
+  "schoolname" : "WM H MAXWELL VHS",
+  "total_exams_taken" : "46"
+}
+, {
+  "dbn" : "20K445",
+  "ap_test_takers_" : "174",
+  "schoolname" : "NEW UTRECHT HS",
+  "total_exams_taken" : "271",
+  "number_of_exams_with_scores_3_4_or_5" : "95"
+}
+, {
+  "dbn" : "20K485",
+  "ap_test_takers_" : "251",
+  "schoolname" : "HS OF TELECOMMUNICATIONS",
+  "total_exams_taken" : "413",
+  "number_of_exams_with_scores_3_4_or_5" : "123"
+}
+, {
+  "dbn" : "20K490",
+  "ap_test_takers_" : "357",
+  "schoolname" : "FORT HAMILTON HS",
+  "total_exams_taken" : "576",
+  "number_of_exams_with_scores_3_4_or_5" : "331"
+}
+, {
+  "dbn" : "20K505",
+  "ap_test_takers_" : "228",
+  "schoolname" : "F.D. ROOSEVELT HS",
+  "total_exams_taken" : "340",
+  "number_of_exams_with_scores_3_4_or_5" : "186"
+}
+, {
+  "dbn" : "21K344",
+  "ap_test_takers_" : "34",
+  "schoolname" : "Rachel Carson High School for Coastal Studies",
+  "total_exams_taken" : "64"
+}
+, {
+  "dbn" : "21K348",
+  "ap_test_takers_" : "10",
+  "schoolname" : "High School of Sports Management",
+  "total_exams_taken" : "10"
+}
+, {
+  "dbn" : "21K400",
+  "schoolname" : "LAFAYETTE HS"
+}
+, {
+  "dbn" : "21K410",
+  "ap_test_takers_" : "133",
+  "schoolname" : "ABRAHAM LINCOLN HS",
+  "total_exams_taken" : "193",
+  "number_of_exams_with_scores_3_4_or_5" : "18"
+}
+, {
+  "dbn" : "21K525",
+  "ap_test_takers_" : "397",
+  "schoolname" : "EDWARD R MURROW HS",
+  "total_exams_taken" : "577",
+  "number_of_exams_with_scores_3_4_or_5" : "307"
+}
+, {
+  "dbn" : "21K540",
+  "ap_test_takers_" : "232",
+  "schoolname" : "JOHN DEWEY H.S.",
+  "total_exams_taken" : "370",
+  "number_of_exams_with_scores_3_4_or_5" : "154"
+}
+, {
+  "dbn" : "21K690",
+  "ap_test_takers_" : "39",
+  "schoolname" : "BROOKLYN STUDIO SCHOOL",
+  "total_exams_taken" : "43",
+  "number_of_exams_with_scores_3_4_or_5" : "13"
+}
+, {
+  "dbn" : "22K405",
+  "ap_test_takers_" : "745",
+  "schoolname" : "MIDWOOD HS",
+  "total_exams_taken" : "1223",
+  "number_of_exams_with_scores_3_4_or_5" : "758"
+}
+, {
+  "dbn" : "22K425",
+  "ap_test_takers_" : "323",
+  "schoolname" : "JAMES MADISON HS",
+  "total_exams_taken" : "463",
+  "number_of_exams_with_scores_3_4_or_5" : "188"
+}
+, {
+  "dbn" : "22K495",
+  "ap_test_takers_" : "37",
+  "schoolname" : "SHEEPSHEAD BAY HS",
+  "total_exams_taken" : "59",
+  "number_of_exams_with_scores_3_4_or_5" : "27"
+}
+, {
+  "dbn" : "22K535",
+  "ap_test_takers_" : "367",
+  "schoolname" : "LEON GOLDSTEIN HS SCIENCES",
+  "total_exams_taken" : "575",
+  "number_of_exams_with_scores_3_4_or_5" : "382"
+}
+, {
+  "dbn" : "23K493",
+  "ap_test_takers_" : "15",
+  "schoolname" : "Brooklyn Collegiate: A College Board School",
+  "total_exams_taken" : "16"
+}
+, {
+  "dbn" : "23K514",
+  "ap_test_takers_" : "39",
+  "schoolname" : "Frederick Douglass Academy VII High School",
+  "total_exams_taken" : "40"
+}
+, {
+  "dbn" : "23K697",
+  "ap_test_takers_" : "33",
+  "schoolname" : "TEACHERS PREPARATORY SCHOOL",
+  "total_exams_taken" : "37"
+}
+, {
+  "dbn" : "24Q264",
+  "ap_test_takers_" : "95",
+  "schoolname" : "Academy of Finance and  Enterprise",
+  "total_exams_taken" : "137",
+  "number_of_exams_with_scores_3_4_or_5" : "40"
+}
+, {
+  "dbn" : "24Q267",
+  "ap_test_takers_" : "46",
+  "schoolname" : "High School of Applied Communication",
+  "total_exams_taken" : "48"
+}
+, {
+  "dbn" : "24Q455",
+  "ap_test_takers_" : "174",
+  "schoolname" : "NEWTOWN HS",
+  "total_exams_taken" : "200",
+  "number_of_exams_with_scores_3_4_or_5" : "117"
+}
+, {
+  "dbn" : "24Q485",
+  "ap_test_takers_" : "200",
+  "schoolname" : "GROVER CLEVELAND HS",
+  "total_exams_taken" : "274",
+  "number_of_exams_with_scores_3_4_or_5" : "112"
+}
+, {
+  "dbn" : "24Q550",
+  "ap_test_takers_" : "198",
+  "schoolname" : "HIGH SCHOOL FOR ARTS & BUSINESS",
+  "total_exams_taken" : "320",
+  "number_of_exams_with_scores_3_4_or_5" : "73"
+}
+, {
+  "dbn" : "24Q600",
+  "ap_test_takers_" : "27",
+  "schoolname" : "QUEENS VHS",
+  "total_exams_taken" : "27",
+  "number_of_exams_with_scores_3_4_or_5" : "20"
+}
+, {
+  "dbn" : "24Q610",
+  "ap_test_takers_" : "130",
+  "schoolname" : "AVIATION CAREER & TECHNICAL H.S.",
+  "total_exams_taken" : "140",
+  "number_of_exams_with_scores_3_4_or_5" : "61"
+}
+, {
+  "dbn" : "25Q285",
+  "ap_test_takers_" : "65",
+  "schoolname" : "World Journalism Preparatory: A College Board Scho",
+  "total_exams_taken" : "87",
+  "number_of_exams_with_scores_3_4_or_5" : "18"
+}
+, {
+  "dbn" : "25Q425",
+  "ap_test_takers_" : "176",
+  "schoolname" : "JOHN BOWNE HS",
+  "total_exams_taken" : "229",
+  "number_of_exams_with_scores_3_4_or_5" : "116"
+}
+, {
+  "dbn" : "25Q460",
+  "ap_test_takers_" : "324",
+  "schoolname" : "FLUSHING HS",
+  "total_exams_taken" : "424",
+  "number_of_exams_with_scores_3_4_or_5" : "136"
+}
+, {
+  "dbn" : "25Q525",
+  "ap_test_takers_" : "613",
+  "schoolname" : "TOWNSEND HARRIS HS",
+  "total_exams_taken" : "796",
+  "number_of_exams_with_scores_3_4_or_5" : "625"
+}
+, {
+  "dbn" : "25Q670",
+  "ap_test_takers_" : "77",
+  "schoolname" : "R F KENNEDY COLLABORATIVE H S",
+  "total_exams_taken" : "112",
+  "number_of_exams_with_scores_3_4_or_5" : "43"
+}
+, {
+  "dbn" : "26Q415",
+  "ap_test_takers_" : "676",
+  "schoolname" : "BENJAMIN N. CARDOZO",
+  "total_exams_taken" : "1145",
+  "number_of_exams_with_scores_3_4_or_5" : "796"
+}
+, {
+  "dbn" : "26Q430",
+  "ap_test_takers_" : "697",
+  "schoolname" : "FRANCIS LEWIS HS",
+  "total_exams_taken" : "1033",
+  "number_of_exams_with_scores_3_4_or_5" : "583"
+}
+, {
+  "dbn" : "26Q435",
+  "ap_test_takers_" : "71",
+  "schoolname" : "MARTIN VAN BUREN HS",
+  "total_exams_taken" : "101",
+  "number_of_exams_with_scores_3_4_or_5" : "15"
+}
+, {
+  "dbn" : "26Q495",
+  "ap_test_takers_" : "480",
+  "schoolname" : "BAYSIDE HS",
+  "total_exams_taken" : "686",
+  "number_of_exams_with_scores_3_4_or_5" : "413"
+}
+, {
+  "dbn" : "26Q566",
+  "schoolname" : "Queens High School of Teaching, Liberal Arts and t"
+}
+, {
+  "dbn" : "27Q262",
+  "ap_test_takers_" : "43",
+  "schoolname" : "Channel View School for Research",
+  "total_exams_taken" : "69",
+  "number_of_exams_with_scores_3_4_or_5" : "18"
+}
+, {
+  "dbn" : "27Q323",
+  "ap_test_takers_" : "55",
+  "schoolname" : "Scholars' Academy",
+  "total_exams_taken" : "121",
+  "number_of_exams_with_scores_3_4_or_5" : "57"
+}
+, {
+  "dbn" : "27Q400",
+  "ap_test_takers_" : "19",
+  "schoolname" : "AUGUST MARTIN HS",
+  "total_exams_taken" : "28"
+}
+, {
+  "dbn" : "27Q475",
+  "ap_test_takers_" : "142",
+  "schoolname" : "RICHMOND HILL HS",
+  "total_exams_taken" : "170",
+  "number_of_exams_with_scores_3_4_or_5" : "55"
+}
+, {
+  "dbn" : "27Q480",
+  "ap_test_takers_" : "140",
+  "schoolname" : "JOHN ADAMS HS",
+  "total_exams_taken" : "168",
+  "number_of_exams_with_scores_3_4_or_5" : "33"
+}
+, {
+  "dbn" : "27Q650",
+  "ap_test_takers_" : "91",
+  "schoolname" : "High School for Construction Trades, Engineering a",
+  "total_exams_taken" : "109",
+  "number_of_exams_with_scores_3_4_or_5" : "21"
+}
+, {
+  "dbn" : "28Q440",
+  "ap_test_takers_" : "733",
+  "schoolname" : "FOREST HILLS HS",
+  "total_exams_taken" : "1116",
+  "number_of_exams_with_scores_3_4_or_5" : "526"
+}
+, {
+  "dbn" : "28Q470",
+  "ap_test_takers_" : "64",
+  "schoolname" : "JAMAICA HS",
+  "total_exams_taken" : "76",
+  "number_of_exams_with_scores_3_4_or_5" : "8"
+}
+, {
+  "dbn" : "28Q505",
+  "ap_test_takers_" : "241",
+  "schoolname" : "HILLCREST HS",
+  "total_exams_taken" : "362",
+  "number_of_exams_with_scores_3_4_or_5" : "50"
+}
+, {
+  "dbn" : "28Q620",
+  "ap_test_takers_" : "183",
+  "schoolname" : "THOS A EDISON VHS",
+  "total_exams_taken" : "244",
+  "number_of_exams_with_scores_3_4_or_5" : "100"
+}
+, {
+  "dbn" : "28Q680",
+  "ap_test_takers_" : "89",
+  "schoolname" : "GATEWAY TO HEALTH SCIENCES",
+  "total_exams_taken" : "136",
+  "number_of_exams_with_scores_3_4_or_5" : "57"
+}
+, {
+  "dbn" : "28Q687",
+  "ap_test_takers_" : "215",
+  "schoolname" : "Queens HS for Science York Colllege",
+  "total_exams_taken" : "338",
+  "number_of_exams_with_scores_3_4_or_5" : "275"
+}
+, {
+  "dbn" : "28Q690",
+  "ap_test_takers_" : "19",
+  "schoolname" : "High School for Law Enforcement and Public Safety",
+  "total_exams_taken" : "19"
+}
+, {
+  "dbn" : "28Q896",
+  "ap_test_takers_" : "6",
+  "schoolname" : "Young  Women's Leadership School, Queens",
+  "total_exams_taken" : "6"
+}
+, {
+  "dbn" : "29Q248",
+  "ap_test_takers_" : "15",
+  "schoolname" : "Queens Preparatory Academy",
+  "total_exams_taken" : "15"
+}
+, {
+  "dbn" : "29Q259",
+  "ap_test_takers_" : "29",
+  "schoolname" : "Pathways College Preparatory School: A College Boa",
+  "total_exams_taken" : "71"
+}
+, {
+  "dbn" : "29Q272",
+  "ap_test_takers_" : "14",
+  "schoolname" : "George Washington Carver High School for the Scien",
+  "total_exams_taken" : "21"
+}
+, {
+  "dbn" : "29Q283",
+  "ap_test_takers_" : "40",
+  "schoolname" : "Preparatory Academy for Writers",
+  "total_exams_taken" : "43"
+}
+, {
+  "dbn" : "29Q420",
+  "schoolname" : "SPRINGFIELD GARDENS HS"
+}
+, {
+  "dbn" : "29Q492",
+  "ap_test_takers_" : "22",
+  "schoolname" : "MATH/SCIENCE RESEARCH TECH CTR",
+  "total_exams_taken" : "31",
+  "number_of_exams_with_scores_3_4_or_5" : "8"
+}
+, {
+  "dbn" : "29Q496",
+  "schoolname" : "BUSINESS/COMPUTER APPLICATIONS"
+}
+, {
+  "dbn" : "30Q445",
+  "ap_test_takers_" : "243",
+  "schoolname" : "WM CULLEN BRYANT HS",
+  "total_exams_taken" : "330",
+  "number_of_exams_with_scores_3_4_or_5" : "97"
+}
+, {
+  "dbn" : "30Q450",
+  "ap_test_takers_" : "406",
+  "schoolname" : "LONG ISLAND CITY HS",
+  "total_exams_taken" : "805",
+  "number_of_exams_with_scores_3_4_or_5" : "169"
+}
+, {
+  "dbn" : "30Q501",
+  "ap_test_takers_" : "108",
+  "schoolname" : "FRANK SINATRA HIGH SCHOOL",
+  "total_exams_taken" : "136",
+  "number_of_exams_with_scores_3_4_or_5" : "38"
+}
+, {
+  "dbn" : "30Q502",
+  "ap_test_takers_" : "51",
+  "schoolname" : "INFORMATION TECHNOLOGY HS",
+  "total_exams_taken" : "74",
+  "number_of_exams_with_scores_3_4_or_5" : "13"
+}
+, {
+  "dbn" : "30Q555",
+  "ap_test_takers_" : "119",
+  "schoolname" : "NEWCOMERS HS:ACAD AMER STD",
+  "total_exams_taken" : "163",
+  "number_of_exams_with_scores_3_4_or_5" : "140"
+}
+, {
+  "dbn" : "30Q575",
+  "ap_test_takers_" : "101",
+  "schoolname" : "ACADEMY OF AMER. STUDIES HS",
+  "total_exams_taken" : "170",
+  "number_of_exams_with_scores_3_4_or_5" : "119"
+}
+, {
+  "dbn" : "31R080",
+  "ap_test_takers_" : "162",
+  "schoolname" : "PS 080 MICHAEL J. PETRIDES",
+  "total_exams_taken" : "243",
+  "number_of_exams_with_scores_3_4_or_5" : "66"
+}
+, {
+  "dbn" : "31R440",
+  "ap_test_takers_" : "96",
+  "schoolname" : "NEW DORP HS",
+  "total_exams_taken" : "118",
+  "number_of_exams_with_scores_3_4_or_5" : "62"
+}
+, {
+  "dbn" : "31R445",
+  "ap_test_takers_" : "194",
+  "schoolname" : "PORT RICHMOND HS",
+  "total_exams_taken" : "304",
+  "number_of_exams_with_scores_3_4_or_5" : "76"
+}
+, {
+  "dbn" : "31R450",
+  "ap_test_takers_" : "247",
+  "schoolname" : "CURTIS HS",
+  "total_exams_taken" : "295",
+  "number_of_exams_with_scores_3_4_or_5" : "90"
+}
+, {
+  "dbn" : "31R455",
+  "ap_test_takers_" : "396",
+  "schoolname" : "TOTTENVILLE HS",
+  "total_exams_taken" : "687",
+  "number_of_exams_with_scores_3_4_or_5" : "206"
+}
+, {
+  "dbn" : "31R460",
+  "ap_test_takers_" : "279",
+  "schoolname" : "SUSAN E. WAGNER HS",
+  "total_exams_taken" : "408",
+  "number_of_exams_with_scores_3_4_or_5" : "175"
+}
+, {
+  "dbn" : "31R600",
+  "schoolname" : "RAPLH MCKEE VHS"
+}
+, {
+  "dbn" : "31R605",
+  "ap_test_takers_" : "528",
+  "schoolname" : "STATEN ISLAND TECHNICAL HS",
+  "total_exams_taken" : "905",
+  "number_of_exams_with_scores_3_4_or_5" : "809"
+}
+, {
+  "dbn" : "32K545",
+  "ap_test_takers_" : "47",
+  "schoolname" : "EBC-HS FOR PUB SERVICE (BUSH)",
+  "total_exams_taken" : "64",
+  "number_of_exams_with_scores_3_4_or_5" : "13"
+}
+, {
+  "dbn" : "32K552",
+  "ap_test_takers_" : "76",
+  "schoolname" : "Academy of Urban Planning",
+  "total_exams_taken" : "100",
+  "number_of_exams_with_scores_3_4_or_5" : "10"
+}
+, {
+  "dbn" : "32K554",
+  "ap_test_takers_" : "7",
+  "schoolname" : "All City Leadership Secondary School",
+  "total_exams_taken" : "8"
+}
+, {
+  "dbn" : "32K556",
+  "ap_test_takers_" : "34",
+  "schoolname" : "Bushwick Leaders High School for Academic Excellen",
+  "total_exams_taken" : "35",
+  "number_of_exams_with_scores_3_4_or_5" : "18"
+}
+ ]

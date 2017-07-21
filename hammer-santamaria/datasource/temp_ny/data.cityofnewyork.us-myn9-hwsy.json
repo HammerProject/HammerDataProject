@@ -1,0 +1,1404 @@
+[ {
+  "exempt_code" : "1010",
+  "legal_ref" : "RPTL § 458",
+  "sdea_code" : "41101",
+  "description" : "VETERAN",
+  "updated" : "2013-11-25T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1010",
+  "legal_ref" : "RPTL § 458",
+  "sdea_code" : "41121",
+  "description" : "New Law Veteran",
+  "updated" : "2013-11-25T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1010",
+  "legal_ref" : "RPTL § 458",
+  "sdea_code" : "41131",
+  "description" : "New Law Veteran",
+  "updated" : "2013-11-25T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1010",
+  "legal_ref" : "RPTL § 458",
+  "sdea_code" : "41141",
+  "description" : "New Law Veteran",
+  "updated" : "2013-11-25T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1011",
+  "legal_ref" : "RPTL §458(3)",
+  "sdea_code" : "41300",
+  "description" : "SER DISABLED VET",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1015",
+  "legal_ref" : "RPTL §467",
+  "sdea_code" : "41800",
+  "description" : "SENIOR CITIZEN",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1016",
+  "legal_ref" : "RPTL §459-b",
+  "sdea_code" : "41910",
+  "description" : "CRIME VICTIMS",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1017",
+  "legal_ref" : "RPTL § 425",
+  "sdea_code" : "41836",
+  "description" : "SCHOOL TAX RELIEF",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1017",
+  "legal_ref" : "RPTL § 425",
+  "sdea_code" : "41856",
+  "description" : "SCHOOL TAX RELIEF",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1019",
+  "legal_ref" : "RPTL § 459C",
+  "sdea_code" : "41930",
+  "description" : "DISABLE HOMEOWNER",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1021",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25110",
+  "description" : "HOUSE OF WORSHIP",
+  "updated" : "2013-11-25T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1022",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25120",
+  "description" : "RELIGIOUS-SCHOOL",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1023",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25120",
+  "description" : "RELIGIOUS-DORMITORY",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1101",
+  "legal_ref" : "RPTL § 462",
+  "sdea_code" : "21600",
+  "description" : "PARSONAGE",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1102",
+  "legal_ref" : "RPTL § 462",
+  "sdea_code" : "21600",
+  "description" : "RELIGIOUS MISSIONS",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1200",
+  "legal_ref" : "RPTL § 460",
+  "sdea_code" : "41400",
+  "description" : "CLERGY",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1301",
+  "legal_ref" : "RPTL § 420-C",
+  "sdea_code" : "25800",
+  "description" : "420C HOUSING",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1401",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25210",
+  "description" : "HOSPITAL",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1402",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25210",
+  "description" : "HEALTH CENTER",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1403",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25210",
+  "description" : "NURSING HOME",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1404",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25210",
+  "description" : "HOSPITAL STAFF HSG",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1501",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25130",
+  "description" : "CHARITABLE",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1502",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25130",
+  "description" : "CHARITABLE",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1503",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25130",
+  "description" : "CHARITABLE",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1504",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25130",
+  "description" : "CHARITABLE HOUSING",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1505",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25130",
+  "description" : "NFP-CONTEMP USE",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1511",
+  "legal_ref" : "RPTL § 428",
+  "sdea_code" : "25400",
+  "description" : "FRATERNAL ORGANIZ",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1521",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25230",
+  "description" : "MENTAL-MORAL IMPROVE",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1522",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25110",
+  "description" : "SALVATION ARMY",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1523",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25130",
+  "description" : "CHARTBLE PHILAN",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1561",
+  "legal_ref" : "RPTL § 466",
+  "sdea_code" : "46450",
+  "description" : "VOL. FIRE CO.",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1562",
+  "legal_ref" : "RPTL § 468",
+  "sdea_code" : "26350",
+  "description" : "PATROL SALVAGE",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1571",
+  "legal_ref" : "RPTL § 452",
+  "sdea_code" : "26100",
+  "description" : "A.L.,VFW,CWV,JWV,ETC",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1572",
+  "legal_ref" : "RPTL § 442",
+  "sdea_code" : "29650",
+  "description" : "MEMORIAL ASSN",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1601",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25120",
+  "description" : "COLLEGE-UNIVERSITY",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1602",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25120",
+  "description" : "SCHOOL-ELEM,HS,ACAD",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1603",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25120",
+  "description" : "STUDENT DORMITORY",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1604",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25120",
+  "description" : "FACULTY STUDENT HSG",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1605",
+  "legal_ref" : "RPTL § 420-a",
+  "sdea_code" : "25120",
+  "description" : "MUSEUM",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1606",
+  "legal_ref" : "C279-59",
+  "sdea_code" : "26000",
+  "description" : "COOPER UNION",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1620",
+  "legal_ref" : "RPTL § 424",
+  "sdea_code" : "26500",
+  "description" : "INST OF ARTS SCI",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1630",
+  "legal_ref" : "RPTL § 426",
+  "sdea_code" : "29150",
+  "description" : "OPERA HOUSE",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1640",
+  "legal_ref" : "RPTL § 427",
+  "sdea_code" : "29500",
+  "description" : "PERF ARTS BLDG",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1650",
+  "legal_ref" : "RPTL § 432",
+  "sdea_code" : "49200",
+  "description" : "THEATRICAL CORP",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1660",
+  "legal_ref" : "RPTL § 434",
+  "sdea_code" : "29450",
+  "description" : "ACADEMY OF MUSIC",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1700",
+  "legal_ref" : "RPTL §446",
+  "sdea_code" : "27350",
+  "description" : "CEMETERY (PRIVATE",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1840",
+  "legal_ref" : "RPTL § 420-B",
+  "sdea_code" : "25300",
+  "description" : "BIBLE",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1841",
+  "legal_ref" : "RPTL § 420-B",
+  "sdea_code" : "25300",
+  "description" : "TRACT",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1850",
+  "legal_ref" : "RPTL § 420-B",
+  "sdea_code" : "25300",
+  "description" : "BENEVOLENT",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1860",
+  "legal_ref" : "RPTL § 420-B",
+  "sdea_code" : "25300",
+  "description" : "INFIRMARY",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1870",
+  "legal_ref" : "RPTL § 420-B",
+  "sdea_code" : "25300",
+  "description" : "PUBLIC PLAYGROUND",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1871",
+  "legal_ref" : "RPTL § 420-B",
+  "sdea_code" : "25300",
+  "description" : "SUPVD. SPORTSMANSHIP",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1872",
+  "legal_ref" : "RPTL § 420-B",
+  "sdea_code" : "25300",
+  "description" : "ENF/LAW/CHILD/ANIMAL",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1880",
+  "legal_ref" : "RPTL § 420-B",
+  "sdea_code" : "25300",
+  "description" : "SCIENTIFIC",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1881",
+  "legal_ref" : "RPTL § 420-B",
+  "sdea_code" : "25300",
+  "description" : "LITERARY",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1882",
+  "legal_ref" : "RPTL § 420-B",
+  "sdea_code" : "25300",
+  "description" : "LIBRARY",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1890",
+  "legal_ref" : "RPTL § 420-B",
+  "sdea_code" : "25300",
+  "description" : "PATRIOTIC",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1891",
+  "legal_ref" : "RPTL § 420-B",
+  "sdea_code" : "25300",
+  "description" : "HISTORICAL",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1901",
+  "legal_ref" : "RPTL § 476",
+  "sdea_code" : "29600",
+  "description" : "PASSENGER TERMINAL",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1902",
+  "legal_ref" : "RPTL § 476",
+  "sdea_code" : "47200",
+  "description" : "CONSTRUCTION",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1903",
+  "legal_ref" : "RPTL § 489",
+  "sdea_code" : "47200",
+  "description" : "RAILROAD CEILING",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1904",
+  "legal_ref" : "RPTL § 489",
+  "sdea_code" : "47200",
+  "description" : "RAILROAD PASSENGER",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1905",
+  "legal_ref" : "RPTL § 489",
+  "sdea_code" : "47200",
+  "description" : "COMMUTER CEILING",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1920",
+  "legal_ref" : "RPTL § 489",
+  "sdea_code" : "48070",
+  "description" : "J-51 ALTERATION",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1925",
+  "legal_ref" : "RPTL § 421G",
+  "sdea_code" : "48820",
+  "description" : "421g RES. CONVERS. LOW MANH",
+  "updated" : "2013-11-22T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1930",
+  "legal_ref" : "RPTL § 479",
+  "sdea_code" : "47700",
+  "description" : "FALLOUT SHELTER",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1940",
+  "legal_ref" : "RPTL §485-d",
+  "sdea_code" : "27500",
+  "description" : "JAMAICA WATER",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1950",
+  "legal_ref" : "RPTL § 486",
+  "sdea_code" : "25500",
+  "description" : "NON-PROFIT MED DENT",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1951",
+  "legal_ref" : "RPTL § 486",
+  "sdea_code" : "25500",
+  "description" : "HIP CENTER",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1961",
+  "legal_ref" : "RPTL § 477",
+  "sdea_code" : "49530",
+  "description" : "INDUST WASTE FACIL",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1963",
+  "legal_ref" : "RPTL § 481",
+  "sdea_code" : "47900",
+  "description" : "ENVIRON PROT EX",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1964",
+  "legal_ref" : "RPTL § 481",
+  "sdea_code" : "47900",
+  "description" : "ENVIRON PROT EX",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1965",
+  "legal_ref" : "RPTL § 487",
+  "sdea_code" : "49500",
+  "description" : "SOLAR/WIND ENERGY",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1971",
+  "legal_ref" : "RPTL § 470",
+  "sdea_code" : "47750",
+  "description" : "LIMIT.ON TEL TEL EQ",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1972",
+  "legal_ref" : "S-471",
+  "sdea_code" : "47760",
+  "description" : "TELECOM EQUIP",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1975",
+  "legal_ref" : "BUCK ACT",
+  "sdea_code" : "0",
+  "description" : "PVT PROP ON US LAND",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1981",
+  "legal_ref" : "RPTL § 489",
+  "sdea_code" : "47650",
+  "description" : "NEW IND OR COMM BLDG",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1982",
+  "legal_ref" : "RPTL § 489",
+  "sdea_code" : "47650",
+  "description" : "ALT IND OR COMM BLDG",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1984",
+  "legal_ref" : "RPTL § 489",
+  "sdea_code" : "47660",
+  "description" : "ICIP DEFERED PAYMENT",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1985",
+  "legal_ref" : "RPTL § 489",
+  "sdea_code" : "47660",
+  "description" : "ICIP REG. COMML EX",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1986",
+  "legal_ref" : "RPTL § 489",
+  "sdea_code" : "47660",
+  "description" : "ICIP IND/SPECIAL EX",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1988",
+  "legal_ref" : "RPTL § 489A",
+  "sdea_code" : "47680",
+  "description" : "MIXED-USE - LOW MANH",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1990",
+  "legal_ref" : "Art-Cult L Section 21",
+  "sdea_code" : "13940",
+  "description" : "TRUST FOR CULT RSRCE",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "1992",
+  "legal_ref" : "RPTL § 429",
+  "sdea_code" : "49000",
+  "description" : "PROF. MAJ LEA SPORTS",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2100",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "BOROUGH PRESIDENT",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2120",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "ARMORY",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2131",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "DEPT OF CORRECTION",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2132",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "POLICE DEPT",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2133",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "FIRE DEPT",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2134",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "POLICE FIRE",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2151",
+  "legal_ref" : "RPTL § 408",
+  "sdea_code" : "13800",
+  "description" : "DEPT. OF EDUCATION",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2152",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "BOARD HIGHER EDUC (CUNY)",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2171",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "DEPT OF SANITATION",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2172",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "DEPT WATER RESOURCES",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2191",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "PORTS TERMINALS",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2198",
+  "legal_ref" : "RPTL § 406(1)",
+  "comments" : "Replaces 6140",
+  "sdea_code" : "14620",
+  "description" : "AIRFIELD -DO NOT USE",
+  "updated" : "2013-11-26T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2201",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "DEPT OF PUBLIC WORKS (DEP",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2202",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "DEPT OF REAL ESTATE (DCAS",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2220",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "DEPT OF SOC SERVICES (HRA",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2231",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "PARK",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2232",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "PUBLIC LIBRARY",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2233",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "PUBLIC MUSEUM",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2234",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "PUBLIC BEACH",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2251",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "DEPT OF HEALTH",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2252",
+  "legal_ref" : "McK U Con L Section 7400",
+  "sdea_code" : "13950",
+  "description" : "HEALTH & HOSPITALS C",
+  "updated" : "2013-11-26T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2261",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "DEPT OF TRAFFIC",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2262",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "DEPT OF HIGHWAYS",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2280",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "HOUSE PRES DEVL ADM",
+  "updated" : "2013-11-26T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2310",
+  "legal_ref" : "Gen Muni Law § 506, 555, 560",
+  "sdea_code" : "18040",
+  "description" : "URBAN RENEWAL",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2350",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "NYC ECON DEV CORP",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2351",
+  "legal_ref" : "RPTL § 406(1)",
+  "sdea_code" : "13350",
+  "description" : "EDC - PILOT",
+  "updated" : "2013-11-26T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2400",
+  "legal_ref" : "Education Law §468",
+  "sdea_code" : "13920",
+  "description" : "NYC EDUC CONST FUND",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2500",
+  "legal_ref" : "RPTL §412a",
+  "sdea_code" : "18020",
+  "description" : "NYC INDUSTRIAL DEV",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2501",
+  "legal_ref" : "RPTL §412a",
+  "sdea_code" : "18020",
+  "description" : "IDA - PILOT",
+  "updated" : "2013-11-26T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "2600",
+  "legal_ref" : "RPTL §404(2)",
+  "sdea_code" : "13350",
+  "description" : "NYC EMPL RETIRE SYS",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "3360",
+  "legal_ref" : "RPTL §400(1)/State Law §54",
+  "sdea_code" : "12100",
+  "description" : "MILITARY",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "3380",
+  "legal_ref" : "RPTL §404(1)",
+  "sdea_code" : "12100",
+  "description" : "STATE HOSPITAL",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "3390",
+  "legal_ref" : "RPTL §404(1)",
+  "sdea_code" : "12100",
+  "description" : "STATE LANDS BLDGS",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "3400",
+  "legal_ref" : "RPTL §404(1)",
+  "sdea_code" : "12100",
+  "description" : "STATE PUBLIC WORKS",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "3410",
+  "legal_ref" : "RPTL §404(1)",
+  "sdea_code" : "18180",
+  "description" : "NYS URBAN DEV (ESDC)",
+  "updated" : "2013-11-26T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "3420",
+  "legal_ref" : "McK U Con Law § 6395",
+  "sdea_code" : "12100",
+  "description" : "ROOSEVELT ISLAND",
+  "updated" : "2013-11-26T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "3500",
+  "legal_ref" : "Pub Auth Law §1685",
+  "sdea_code" : "12350",
+  "description" : "DORMITORY AUTHORITY",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "3600",
+  "legal_ref" : "RPTL §404(2)",
+  "sdea_code" : "12150",
+  "description" : "STATE RETIRE SYSTEM",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "3700",
+  "legal_ref" : "McK U Con L Section 7421",
+  "sdea_code" : "12450",
+  "description" : "NYS MED CARE FAC FIN",
+  "updated" : "2013-11-26T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "3800",
+  "legal_ref" : "Pub Auth Law §1742",
+  "sdea_code" : "14000",
+  "description" : "SCHOOL CONST AUTH",
+  "updated" : "2013-12-05T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "4500",
+  "legal_ref" : "State L §59-g",
+  "sdea_code" : "14120",
+  "description" : "ARMED FORCES",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "4520",
+  "legal_ref" : "State L §54",
+  "sdea_code" : "14110",
+  "description" : "POST OFFICE",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "4530",
+  "legal_ref" : "RPTL §400(1)",
+  "sdea_code" : "14100",
+  "description" : "LIGHTHOUSE",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "4540",
+  "legal_ref" : "RPTL §446",
+  "sdea_code" : "14100",
+  "description" : "FED CEMETERY",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "4550",
+  "legal_ref" : "State L §54",
+  "sdea_code" : "14110",
+  "description" : "FED HOSPITAL",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "4600",
+  "legal_ref" : "RPTL §400(1)",
+  "sdea_code" : "14100",
+  "description" : "FED GOVT LAND BLDGS",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "4650",
+  "legal_ref" : "45 USC §546b",
+  "sdea_code" : "27250",
+  "description" : "AMTRAK (FED SUBSI RR",
+  "updated" : "2013-11-26T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5090",
+  "legal_ref" : "PHFL §45a",
+  "sdea_code" : "18120",
+  "description" : "NYS Housing Finance Agency",
+  "updated" : "2014-03-12T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5100",
+  "legal_ref" : "PHFL §33(2), (3)",
+  "sdea_code" : "48460",
+  "description" : "LTD PROFIT HSNG CO:LEASED",
+  "updated" : "2014-02-28T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5101",
+  "legal_ref" : "Pub Hsng L §§52(3), 52(5), 52(6)",
+  "sdea_code" : "18080",
+  "description" : "NYC HOUSING AUTH",
+  "updated" : "2014-05-22T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5102",
+  "legal_ref" : "Pub Hsng L §§52(4), 52(5)",
+  "sdea_code" : "38260",
+  "description" : "STATE AIDED PUB HSG",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5103",
+  "legal_ref" : "Pub Hsng L §§52(3), 52(5), 52(6)",
+  "sdea_code" : "18080",
+  "description" : "NYC HOUS AUTH-DUPLIC",
+  "updated" : "2014-05-22T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5104",
+  "legal_ref" : "Pub Hsng L §§52(3), 52(5), 52(6)",
+  "sdea_code" : "18080",
+  "description" : "DWELLING FROM FED",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5105",
+  "legal_ref" : "RPTL §422",
+  "sdea_code" : "28120",
+  "description" : "ST ASSISTED PRIV HSG",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5106",
+  "legal_ref" : "PHFL §577(3)",
+  "sdea_code" : "48660",
+  "description" : "HSG DEV FUND COMPANY  (SRT)",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5107",
+  "legal_ref" : "PHFL §93(6)",
+  "sdea_code" : "48540",
+  "description" : "LIMITED DIVIDEND (SRT)",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5108",
+  "legal_ref" : "PHFL §§125, 127",
+  "sdea_code" : "48670",
+  "description" : "REDEVELOPMENT (SRT)",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5109",
+  "legal_ref" : "PHFL §33(1)(c)(d)",
+  "sdea_code" : "48650",
+  "description" : "MITCHELL-LAMA     (SRT)",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5110",
+  "legal_ref" : "RPTL § 421A",
+  "sdea_code" : "48800",
+  "description" : "421a (10 yr not cap)",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5111",
+  "legal_ref" : "RPTL § 421B",
+  "sdea_code" : "41950",
+  "description" : "421b",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5112",
+  "legal_ref" : "Gen Muny L §696",
+  "sdea_code" : "48100",
+  "description" : "URBAN DEV. ACT PROJ.    ",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5113",
+  "legal_ref" : "RPTL § 421A",
+  "sdea_code" : "48800",
+  "description" : "421a (15 yr not cap)",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5114",
+  "legal_ref" : "RPTL § 421A",
+  "sdea_code" : "48800",
+  "description" : "421a  (25 yr not cap)",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5115",
+  "legal_ref" : "RPTL § 423",
+  "sdea_code" : "48690",
+  "description" : "REDEV. PHASE OUT ",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5116",
+  "legal_ref" : "RPTL § 421A",
+  "sdea_code" : "48800",
+  "description" : "421a  (20 yr not cap)",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5117",
+  "legal_ref" : "RPTL § 421A",
+  "sdea_code" : "48800",
+  "description" : "421a (10 yr cap)",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5118",
+  "legal_ref" : "RPTL § 421A",
+  "sdea_code" : "48800",
+  "description" : "421a (15 yr cap)",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5129",
+  "legal_ref" : "PHFL §1106-h",
+  "sdea_code" : "48743",
+  "description" : "DIV OF ALT MGMT PROG    ",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "5130",
+  "legal_ref" : "PHFL §1106-h",
+  "sdea_code" : "48743",
+  "description" : "Special Initiatives Program (SIP)    ",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "6110",
+  "legal_ref" : "McK U Con L §6611",
+  "sdea_code" : "14610",
+  "description" : "PORT AUTH-WORLD TRAD",
+  "updated" : "2013-11-26T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "6120",
+  "comments" : "Replaced with 6110, 6140, 6150, 6160, 6170, 6180",
+  "sdea_code" : "14640",
+  "description" : "PORT AUTH - INVALID",
+  "updated" : "2013-11-26T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "6130",
+  "legal_ref" : "McK U Con L §6611",
+  "comments" : "Use 6110",
+  "sdea_code" : "14610",
+  "description" : "PATH-DO NOT USE",
+  "updated" : "2013-11-26T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "6140",
+  "legal_ref" : "McK U Con L §6635",
+  "comments" : "Formerly 2198",
+  "sdea_code" : "14620",
+  "description" : "PORT AUTH-AIR TERMIN",
+  "updated" : "2013-11-26T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "6150",
+  "legal_ref" : "McK U Con L §7210",
+  "sdea_code" : "14630",
+  "description" : "PORT AUTH-BUS FACILT",
+  "updated" : "2013-11-26T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "6160",
+  "legal_ref" : "McK U Con L §6562",
+  "sdea_code" : "14600",
+  "description" : "PORT AUTH-NARROWS BR",
+  "updated" : "2013-11-26T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "6170",
+  "legal_ref" : "McK U Con L §7181",
+  "sdea_code" : "17000",
+  "description" : "PORT AUTH-INDUST DEV",
+  "updated" : "2013-11-26T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "6180",
+  "legal_ref" : "McK U Con L §6515",
+  "sdea_code" : "14640",
+  "description" : "PORT AUTH-BRIDGE/TUN",
+  "updated" : "2013-11-26T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "6200",
+  "legal_ref" : "Pub Auth Law §566",
+  "sdea_code" : "12360",
+  "description" : "MTA - BRIDGE/TUNNEL",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "6320",
+  "legal_ref" : "Pub Auth Law §1216",
+  "sdea_code" : "12360",
+  "description" : "MTA - NYC TRANSIT",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "6400",
+  "legal_ref" : "Pub Auth Law §1275",
+  "sdea_code" : "12360",
+  "description" : "MTA - LIRR/MN",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "6500",
+  "legal_ref" : "RPTL §456",
+  "sdea_code" : "19950",
+  "description" : "MUNICIPAL RAILROAD",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "6600",
+  "legal_ref" : "Pub Auth L §1012",
+  "sdea_code" : "12350",
+  "description" : "NY STATE POWER AUTH",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "6700",
+  "legal_ref" : "Pub Auth L §1806",
+  "sdea_code" : "12350",
+  "description" : "NY JOB DEVEL AUTH",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "6800",
+  "legal_ref" : "Pub Auth L §1981",
+  "sdea_code" : "12350",
+  "description" : "BATTERY PARK AUTH",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "7120",
+  "legal_ref" : "Vienna Convention on Consular Relations, Article 32",
+  "sdea_code" : "14210",
+  "description" : "FOREIGN CONSULATE",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "7150",
+  "legal_ref" : "RPTL §416",
+  "sdea_code" : "14400",
+  "description" : "UNITED NATIONS",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "7160",
+  "legal_ref" : "Vienna Convention on Consular Relations, Article 23",
+  "sdea_code" : "14220",
+  "description" : "FOREIGN MISSION",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "7165",
+  "legal_ref" : "RPTL §418",
+  "sdea_code" : "14200",
+  "description" : "FOREIGN EMBASSY",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "7166",
+  "legal_ref" : "22 U.S.C. 4305c",
+  "sdea_code" : "14200",
+  "description" : "FOREIGN STAFF HSING",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+, {
+  "exempt_code" : "7170",
+  "legal_ref" : "McK U Con L §9613",
+  "sdea_code" : "14410",
+  "description" : "UN DEVELOP CORP",
+  "updated" : "2013-03-01T00:00:00",
+  "status" : "ACTIVE"
+}
+ ]

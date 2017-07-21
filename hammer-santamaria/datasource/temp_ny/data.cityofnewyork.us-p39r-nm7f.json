@@ -1,0 +1,7450 @@
+[ {
+  "date" : "2017-05-17T00:00:00",
+  "fine_paid_to_coib" : "7000",
+  "agency" : "DOE",
+  "case_name" : "Scaduto",
+  "case_number" : "2016-096"
+}
+, {
+  "date" : "2017-05-17T00:00:00",
+  "fine_paid_to_coib" : "9500",
+  "agency" : "NYCHA",
+  "case_name" : "Dempsey",
+  "case_number" : "2016-161"
+}
+, {
+  "date" : "2017-04-28T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Darmalingum",
+  "case_number" : "2016-956",
+  "suspension_value" : "2970.50",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2017-04-28T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Hooks",
+  "case_number" : "2016-956a",
+  "suspension_value" : "2079.35",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "7"
+}
+, {
+  "date" : "2017-04-28T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DYCD",
+  "case_name" : "Patterson",
+  "case_number" : "2016-601",
+  "suspension_value" : "1112.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "4"
+}
+, {
+  "date" : "2017-04-28T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "LeMaitre",
+  "case_number" : "2016-246",
+  "suspension_value" : "2222.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "One year general probation",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2017-04-28T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Campbell",
+  "case_number" : "2016-900",
+  "suspension_value" : "1338.90",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "6"
+}
+, {
+  "date" : "2017-04-28T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DOE",
+  "case_name" : "Martinez",
+  "case_number" : "2014-943"
+}
+, {
+  "date" : "2017-04-28T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "QCPAO",
+  "case_name" : "Rosenblatt",
+  "case_number" : "2016-247"
+}
+, {
+  "date" : "2017-03-29T00:00:00",
+  "fine_paid_to_coib" : "10000",
+  "other_penalty" : "$846",
+  "agency" : "HRA",
+  "case_name" : "Martinez",
+  "case_number" : "2015-739",
+  "other_penalty_value" : "Restitution",
+  "exp_of_amount_paid_to_coib" : "Although respondent did appear at the trial,  the Board fine has not yet been collected"
+}
+, {
+  "date" : "2017-03-24T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "HRA",
+  "case_name" : "O'Brien",
+  "case_number" : "2014-216"
+}
+, {
+  "date" : "2017-03-24T00:00:00",
+  "agency" : "DEP",
+  "case_name" : "Youssef",
+  "case_number" : "2016-881",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign from DEP"
+}
+, {
+  "date" : "2017-03-24T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Morgan",
+  "case_number" : "2017-157",
+  "suspension_value" : "486.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "3"
+}
+, {
+  "date" : "2017-03-24T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOT",
+  "case_name" : "Noel",
+  "case_number" : "2015-858d",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1500"
+}
+, {
+  "date" : "2017-03-24T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Gillenwater",
+  "case_number" : "2016-593",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1250"
+}
+, {
+  "date" : "2017-02-17T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "FISA",
+  "case_name" : "Myers",
+  "case_number" : "2016-735",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2017-02-17T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Peters",
+  "case_number" : "2016-002",
+  "suspension_value" : "4000.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2017-02-17T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Harris",
+  "case_number" : "2015-516",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was reduced from $40,000 to $1,000"
+}
+, {
+  "date" : "2017-02-17T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "Council",
+  "case_name" : "Edwards",
+  "case_number" : "2015-550",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was reduced from $8,000 to $1,000"
+}
+, {
+  "date" : "2017-02-17T00:00:00",
+  "fine_paid_to_coib" : "5000",
+  "agency" : "NYPD",
+  "case_name" : "Vega",
+  "case_number" : "2016-090",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was reduced from $75,000 to $5,000"
+}
+, {
+  "date" : "2017-01-27T00:00:00",
+  "other_penalty" : "$13,700",
+  "agency" : "DEP",
+  "case_name" : "Maloney",
+  "case_number" : "2016-733",
+  "suspension_value" : "15904.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Restitution to DEP & resign",
+  "suspension_of_days" : "65"
+}
+, {
+  "date" : "2017-01-27T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Agbasonu",
+  "case_number" : "2016-366",
+  "suspension_value" : "2019.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2017-01-27T00:00:00",
+  "fine_paid_to_coib" : "250",
+  "agency" : "DSNY",
+  "case_name" : "Asare",
+  "case_number" : "2016-380",
+  "suspension_value" : "1963.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2017-01-27T00:00:00",
+  "fine_paid_to_coib" : "50",
+  "agency" : "DOE",
+  "case_name" : "Kipp",
+  "case_number" : "2015-851"
+}
+, {
+  "date" : "2017-01-27T00:00:00",
+  "agency" : "DOE",
+  "case_name" : "Ginsberg",
+  "case_number" : "2016-838",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign from DOE "
+}
+, {
+  "date" : "2017-01-27T00:00:00",
+  "fine_paid_to_coib" : "300",
+  "agency" : "DOHMH",
+  "case_name" : "Worthy-Smith",
+  "case_number" : "2016-698",
+  "suspension_value" : "936.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "6"
+}
+, {
+  "date" : "2017-01-27T00:00:00",
+  "fine_paid_to_coib" : "600",
+  "agency" : "DOE",
+  "case_name" : "Salazar",
+  "case_number" : "2016-444",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was reduced from $2,500 to $600"
+}
+, {
+  "date" : "2017-01-27T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Patrikeyev",
+  "case_number" : "2015-602",
+  "suspension_value" : "1468.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2017-01-27T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Davis",
+  "case_number" : "2016-702",
+  "suspension_value" : "1143.96",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "3"
+}
+, {
+  "date" : "2016-12-16T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Leggett",
+  "case_number" : "2015-642",
+  "suspension_value" : "4867.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "40"
+}
+, {
+  "date" : "2016-12-16T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "H+H",
+  "case_name" : "Santana",
+  "case_number" : "2015-778"
+}
+, {
+  "date" : "2016-12-16T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "OCME",
+  "case_name" : "Williams",
+  "case_number" : "2014-652b",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1500"
+}
+, {
+  "date" : "2016-12-16T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Scudieri",
+  "case_number" : "2015-520",
+  "suspension_value" : "1906.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2016-11-22T00:00:00",
+  "other_penalty" : "$600",
+  "agency" : "DEP",
+  "case_name" : "Deokarran",
+  "case_number" : "2016-683",
+  "suspension_value" : "9224.32",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Reimburse DEP & resign",
+  "suspension_of_days" : "39"
+}
+, {
+  "date" : "2016-11-22T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Cumberbatch",
+  "case_number" : "2016-684",
+  "suspension_value" : "1486.85",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2016-11-22T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Papp",
+  "case_number" : "2016-700",
+  "suspension_value" : "871.41",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "3"
+}
+, {
+  "date" : "2016-11-22T00:00:00",
+  "agency" : "DEP",
+  "case_name" : "Romano",
+  "case_number" : "2016-675",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign from DEP"
+}
+, {
+  "date" : "2016-11-22T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Puglia",
+  "case_number" : "2016-704",
+  "suspension_value" : "1192.65",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2016-11-22T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Torres",
+  "case_number" : "2016-704a",
+  "suspension_value" : "861.06",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "3"
+}
+, {
+  "date" : "2016-11-22T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "Sampath",
+  "case_number" : "2016-193",
+  "suspension_value" : "1996.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "One year general probation",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2016-11-22T00:00:00",
+  "fine_paid_to_coib" : "6000",
+  "agency" : "HPD",
+  "case_name" : "Ali",
+  "case_number" : "2015-797"
+}
+, {
+  "date" : "2016-11-22T00:00:00",
+  "agency" : "DOT",
+  "case_name" : "Lawrence",
+  "case_number" : "2016-018",
+  "suspension_value" : "2000.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2016-11-22T00:00:00",
+  "fine_paid_to_coib" : "450",
+  "agency" : "H+H",
+  "case_name" : "Bosco",
+  "case_number" : "2016-388b"
+}
+, {
+  "date" : "2016-11-22T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "H+H",
+  "case_name" : "Cook",
+  "case_number" : "2016-388"
+}
+, {
+  "date" : "2016-10-14T00:00:00",
+  "other_penalty" : "$3,167",
+  "agency" : "DEP",
+  "case_name" : "Mingo-Bellony",
+  "case_number" : "2016-416",
+  "suspension_value" : "2968.90",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Reimburse DEP for gasoline & resign",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2016-10-06T00:00:00",
+  "fine_paid_to_coib" : "150",
+  "agency" : "DOE",
+  "case_name" : "Watson",
+  "case_number" : "2016-334"
+}
+, {
+  "date" : "2016-10-06T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "SCA",
+  "case_name" : "Flynn",
+  "case_number" : "2016-473",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "6 month extended probation"
+}
+, {
+  "date" : "2016-10-06T00:00:00",
+  "fine_paid_to_coib" : "800",
+  "agency" : "NYPD",
+  "case_name" : "Murtha",
+  "case_number" : "2015-656"
+}
+, {
+  "date" : "2016-10-06T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "Jones",
+  "case_number" : "2016-054b"
+}
+, {
+  "date" : "2016-10-06T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOE",
+  "case_name" : "Fagan",
+  "case_number" : "2016-054c"
+}
+, {
+  "date" : "2016-10-06T00:00:00",
+  "fine_paid_to_coib" : "750",
+  "agency" : "DOE",
+  "case_name" : "Manner",
+  "case_number" : "2016-054d"
+}
+, {
+  "date" : "2016-10-06T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Feigelson",
+  "case_number" : "2016-054e"
+}
+, {
+  "date" : "2016-10-06T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOE",
+  "case_name" : "Rachelson",
+  "case_number" : "2016-054h"
+}
+, {
+  "date" : "2016-09-22T00:00:00",
+  "fine_paid_to_coib" : "42000",
+  "agency" : "NYCHA",
+  "case_name" : "Hawkins",
+  "case_number" : "2015-208",
+  "exp_of_amount_paid_to_coib" : "Respondent did not appear at the trial, so the Board fine has not yet been collected"
+}
+, {
+  "date" : "2016-09-20T00:00:00",
+  "other_penalty" : "$1,578",
+  "agency" : "DPR",
+  "case_name" : "Deberry",
+  "case_number" : "2016-222",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "10 days annual leave forfeited"
+}
+, {
+  "date" : "2016-09-20T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "NYPD",
+  "case_name" : "Secreto",
+  "case_number" : "2015-428a"
+}
+, {
+  "date" : "2016-09-20T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "NYPD",
+  "case_name" : "Tuller",
+  "case_number" : "2015-428"
+}
+, {
+  "date" : "2016-09-20T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "NYPD",
+  "case_name" : "Pizzuti",
+  "case_number" : "2015-428b"
+}
+, {
+  "date" : "2016-08-04T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "Water Bd.",
+  "case_name" : "Finnerty",
+  "case_number" : "2016-337"
+}
+, {
+  "date" : "2016-08-04T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Binyaminov",
+  "case_number" : "2016-073",
+  "suspension_value" : "1704.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "6"
+}
+, {
+  "date" : "2016-08-04T00:00:00",
+  "other_penalty" : "$83",
+  "agency" : "DEP",
+  "case_name" : "Panzarino",
+  "case_number" : "2016-051",
+  "suspension_value" : "3180.80",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Partially reimburse DEP for tolls",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2016-08-04T00:00:00",
+  "fine_paid_to_coib" : "15000",
+  "agency" : "KCDA",
+  "case_name" : "Thompson",
+  "case_number" : "2015-110"
+}
+, {
+  "date" : "2016-07-29T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOE",
+  "case_name" : "Abdelhalim",
+  "case_number" : "2015-791"
+}
+, {
+  "date" : "2016-07-14T00:00:00",
+  "agency" : "DHS",
+  "case_name" : "Waldron",
+  "case_number" : "2016-323",
+  "suspension_value" : "7475.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2016-06-16T00:00:00",
+  "fine_paid_to_coib" : "200",
+  "agency" : "NYPD",
+  "case_name" : "Davis",
+  "case_number" : "2016-045",
+  "suspension_value" : "360.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "1"
+}
+, {
+  "date" : "2016-06-16T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "CoPenny",
+  "case_number" : "2015-651",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Possible reassignment",
+  "fine_paid_to_agency" : "6000"
+}
+, {
+  "date" : "2016-05-31T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "Jackson",
+  "case_number" : "2016-303",
+  "suspension_value" : "2532.17",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2016-05-31T00:00:00",
+  "fine_paid_to_coib" : "1800",
+  "agency" : "DOE",
+  "case_name" : "Sanchez",
+  "case_number" : "2014-427",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2016-05-31T00:00:00",
+  "fine_paid_to_coib" : "200",
+  "agency" : "SCA",
+  "case_name" : "Kraft",
+  "case_number" : "2015-800"
+}
+, {
+  "date" : "2016-05-31T00:00:00",
+  "fine_paid_to_coib" : "1800",
+  "agency" : "DOE",
+  "case_name" : "Kaplan",
+  "case_number" : "2014-553",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2016-04-20T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Cifarelli",
+  "case_number" : "2014-859",
+  "suspension_value" : "8465.29",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2016-03-31T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOC",
+  "case_name" : "Kuczinski",
+  "case_number" : "2015-497",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2016-03-31T00:00:00",
+  "fine_paid_to_coib" : "5000",
+  "agency" : "Bx. D.A.",
+  "case_name" : "Wansley",
+  "case_number" : "2014-665"
+}
+, {
+  "date" : "2016-03-31T00:00:00",
+  "fine_paid_to_coib" : "3500",
+  "agency" : "BOE",
+  "case_name" : "Del Giorno",
+  "case_number" : "2015-269"
+}
+, {
+  "date" : "2016-02-25T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Theilacker",
+  "case_number" : "2015-013"
+}
+, {
+  "date" : "2016-02-25T00:00:00",
+  "agency" : "DHS",
+  "case_name" : "Dickens",
+  "case_number" : "2014-262",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "15 day pay fine plus 6 month probation",
+  "fine_paid_to_agency" : "3152"
+}
+, {
+  "date" : "2016-02-25T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Constanza",
+  "case_number" : "2015-145",
+  "suspension_value" : "2469.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "8"
+}
+, {
+  "date" : "2016-02-25T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Liota",
+  "case_number" : "2016-008",
+  "suspension_value" : "1577.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2016-01-28T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "ACS",
+  "case_name" : "Evans Barnett",
+  "case_number" : "2015-502",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2016-01-28T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Viverette",
+  "case_number" : "2015-732",
+  "suspension_value" : "10317.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "60"
+}
+, {
+  "date" : "2016-01-28T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOHMH",
+  "case_name" : "Myers",
+  "case_number" : "2015-183",
+  "suspension_value" : "838.00",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1500",
+  "suspension_of_days" : "2"
+}
+, {
+  "date" : "2016-01-28T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "NYCHA",
+  "case_name" : "Blaney",
+  "case_number" : "2015-291",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "One  year general probation"
+}
+, {
+  "date" : "2016-01-28T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOHMH",
+  "case_name" : "Rana",
+  "case_number" : "2015-789",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1000"
+}
+, {
+  "date" : "2016-01-28T00:00:00",
+  "fine_paid_to_coib" : "5000",
+  "agency" : "DOT",
+  "case_name" : "Syed",
+  "case_number" : "2015-740"
+}
+, {
+  "date" : "2016-01-27T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Maldonado",
+  "case_number" : "2016-713",
+  "suspension_value" : "2466.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "8"
+}
+, {
+  "date" : "2016-01-27T00:00:00",
+  "fine_paid_to_coib" : "250",
+  "agency" : "DSNY",
+  "case_name" : "Bowman",
+  "case_number" : "2016-391",
+  "suspension_value" : "1371.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2015-12-22T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "agency" : "Council",
+  "case_name" : "Levenson",
+  "case_number" : "2013-903a"
+}
+, {
+  "date" : "2015-12-22T00:00:00",
+  "fine_paid_to_coib" : "7000",
+  "other_penalty" : "$3,796",
+  "agency" : "Council",
+  "case_name" : "Mark-Viverito",
+  "case_number" : "2013-903",
+  "other_penalty_value" : "Pay lobbyist for value of gift"
+}
+, {
+  "date" : "2015-12-22T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "FDNY",
+  "case_name" : "Brosi",
+  "case_number" : "2015-061a",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2015-12-22T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "FDNY",
+  "case_name" : "Cartafalsa",
+  "case_number" : "2015-061b",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2015-12-22T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "FDNY",
+  "case_name" : "Chilson",
+  "case_number" : "2015-061c",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2015-12-22T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "agency" : "FDNY",
+  "case_name" : "Curatolo",
+  "case_number" : "2015-061d",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2015-12-22T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "FDNY",
+  "case_name" : "Duffy",
+  "case_number" : "2015-061e",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2015-12-22T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "FDNY",
+  "case_name" : "McLaughlin",
+  "case_number" : "2015-061h",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2015-12-22T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "FDNY",
+  "case_name" : "Meyers",
+  "case_number" : "2015-061i",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2015-12-22T00:00:00",
+  "fine_paid_to_coib" : "750",
+  "agency" : "DOF",
+  "case_name" : "Haimoff",
+  "case_number" : "2015-542",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2015-12-22T00:00:00",
+  "fine_paid_to_coib" : "3500",
+  "agency" : "DHS",
+  "case_name" : "Davis Moten",
+  "case_number" : "2014-269"
+}
+, {
+  "date" : "2015-12-22T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Hsu",
+  "case_number" : "2015-228",
+  "suspension_value" : "588.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "2"
+}
+, {
+  "date" : "2015-12-22T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "Scott",
+  "case_number" : "2015-625",
+  "suspension_value" : "3143.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "One year general probation",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2015-12-22T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Evans",
+  "case_number" : "2015-311",
+  "suspension_value" : "598.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "3"
+}
+, {
+  "date" : "2015-11-30T00:00:00",
+  "fine_paid_to_coib" : "6000",
+  "agency" : "HHC",
+  "case_name" : "Hagler",
+  "case_number" : "2013-866"
+}
+, {
+  "date" : "2015-11-30T00:00:00",
+  "agency" : "CCRB",
+  "case_name" : "Sazonov",
+  "case_number" : "2015-621",
+  "suspension_value" : "4275.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Reassigned from Investigator Level  II to Investigator Level I plus  one year probation. ",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2015-11-23T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "M. Joseph",
+  "case_number" : "2015-300",
+  "suspension_value" : "1600.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "7"
+}
+, {
+  "date" : "2015-11-23T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Rosario",
+  "case_number" : "2015-248",
+  "suspension_value" : "5538.00",
+  "suspension_of_days" : "45"
+}
+, {
+  "date" : "2015-11-23T00:00:00",
+  "agency" : "SCA",
+  "case_name" : "M. Lee",
+  "case_number" : "2015-182",
+  "suspension_value" : "31547.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "90"
+}
+, {
+  "date" : "2015-11-23T00:00:00",
+  "fine_paid_to_coib" : "250",
+  "agency" : "BOE",
+  "case_name" : "Orozco",
+  "case_number" : "2015-190e"
+}
+, {
+  "date" : "2015-10-21T00:00:00",
+  "agency" : "DEP",
+  "case_name" : "An. Reid",
+  "case_number" : "2015-312",
+  "suspension_value" : "417.92",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "2"
+}
+, {
+  "date" : "2015-10-21T00:00:00",
+  "agency" : "DHS",
+  "case_name" : "Etienne",
+  "case_number" : "2015-587",
+  "suspension_value" : "1715.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "7"
+}
+, {
+  "date" : "2015-10-21T00:00:00",
+  "agency" : "DHS",
+  "case_name" : "Valles",
+  "case_number" : "2015-587a",
+  "suspension_value" : "329.64",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "3"
+}
+, {
+  "date" : "2015-10-21T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "BOE",
+  "case_name" : "Scutt",
+  "case_number" : "2015-190a"
+}
+, {
+  "date" : "2015-10-21T00:00:00",
+  "fine_paid_to_coib" : "150",
+  "agency" : "OLR",
+  "case_name" : "Amnawah",
+  "case_number" : "2015-434"
+}
+, {
+  "date" : "2015-09-25T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "ACS",
+  "case_name" : "Crawley",
+  "case_number" : "2014-935",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1500"
+}
+, {
+  "date" : "2015-09-25T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOHMH",
+  "case_name" : "Hardy-Howard",
+  "case_number" : "2014-453",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1500"
+}
+, {
+  "date" : "2015-09-25T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "BOE",
+  "case_name" : "Hunte",
+  "case_number" : "2015-190d"
+}
+, {
+  "date" : "2015-09-25T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "BOE",
+  "case_name" : "George",
+  "case_number" : "2015-190b"
+}
+, {
+  "date" : "2015-09-25T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "BOE",
+  "case_name" : "Annarummo",
+  "case_number" : "2015-190"
+}
+, {
+  "date" : "2015-09-25T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Colon Rivera",
+  "case_number" : "2015-405",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign and never return to HRA employment"
+}
+, {
+  "date" : "2015-09-25T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Pagan",
+  "case_number" : "2015-432",
+  "suspension_value" : "1177.75",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2015-09-09T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Gaskin",
+  "case_number" : "2015-113",
+  "suspension_value" : "2335.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "8"
+}
+, {
+  "date" : "2015-08-19T00:00:00",
+  "fine_paid_to_coib" : "1900",
+  "agency" : "DOP",
+  "case_name" : "Mapp",
+  "case_number" : "2013-480"
+}
+, {
+  "date" : "2015-08-19T00:00:00",
+  "fine_paid_to_coib" : "10000",
+  "agency" : "BOE",
+  "case_name" : "Michel",
+  "case_number" : "2014-317"
+}
+, {
+  "date" : "2015-08-19T00:00:00",
+  "agency" : "SCA",
+  "case_name" : "Wong",
+  "case_number" : "2015-182a",
+  "suspension_value" : "3575.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2015-07-14T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "HPD",
+  "case_name" : "Drew",
+  "case_number" : "2014-904",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1250"
+}
+, {
+  "date" : "2015-07-10T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DDC",
+  "case_name" : "Bourne",
+  "case_number" : "2015-099",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Indefinite probation"
+}
+, {
+  "date" : "2015-07-10T00:00:00",
+  "agency" : "DCAS",
+  "case_name" : "J. Brewster",
+  "case_number" : "2015-188",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "500"
+}
+, {
+  "date" : "2015-06-25T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Judd",
+  "case_number" : "2015-102",
+  "suspension_value" : "4692.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign and never return to City employment",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2015-06-25T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "HPD",
+  "case_name" : "Bukhgalter",
+  "case_number" : "2014-891",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "2000"
+}
+, {
+  "date" : "2015-06-25T00:00:00",
+  "fine_paid_to_coib" : "3500",
+  "agency" : "Bronx BP",
+  "case_name" : "A. Greene",
+  "case_number" : "2013-594"
+}
+, {
+  "date" : "2015-05-21T00:00:00",
+  "agency" : "DCAS",
+  "case_name" : "Dunbar",
+  "case_number" : "2015-066",
+  "suspension_value" : "388.40",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "3"
+}
+, {
+  "date" : "2015-05-21T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "EDC",
+  "case_name" : "Gray",
+  "case_number" : "2013-648"
+}
+, {
+  "date" : "2015-05-21T00:00:00",
+  "agency" : "DEP",
+  "case_name" : "Jung",
+  "case_number" : "2015-150",
+  "suspension_value" : "5515.73",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2015-05-21T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Salvati",
+  "case_number" : "2013-784a",
+  "suspension_value" : "8349.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2015-05-21T00:00:00",
+  "agency" : "DEP",
+  "case_name" : "Dixon",
+  "case_number" : "2015-358",
+  "suspension_value" : "749.63",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "2"
+}
+, {
+  "date" : "2015-05-21T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOHMH",
+  "case_name" : "Rene",
+  "case_number" : "2015-001",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1500"
+}
+, {
+  "date" : "2015-05-21T00:00:00",
+  "fine_paid_to_coib" : "2200",
+  "agency" : "NYCHA",
+  "case_name" : "Jones",
+  "case_number" : "2014-184"
+}
+, {
+  "date" : "2015-05-21T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "King",
+  "case_number" : "2015-159",
+  "suspension_value" : "1351.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2015-04-21T00:00:00",
+  "fine_paid_to_coib" : "7500",
+  "agency" : "NYPD",
+  "case_name" : "Duval",
+  "case_number" : "2014-908b"
+}
+, {
+  "date" : "2015-04-21T00:00:00",
+  "fine_paid_to_coib" : "5000",
+  "agency" : "NYPD",
+  "case_name" : "Roy",
+  "case_number" : "2014-908c"
+}
+, {
+  "date" : "2015-04-21T00:00:00",
+  "fine_paid_to_coib" : "1750",
+  "agency" : "NYCHA",
+  "case_name" : "Lanzot",
+  "case_number" : "2014-164"
+}
+, {
+  "date" : "2015-04-21T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "HRA",
+  "case_name" : "Das",
+  "case_number" : "2014-134",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was forgiven"
+}
+, {
+  "date" : "2015-04-21T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "Parks",
+  "case_name" : "Badillo",
+  "case_number" : "2015-070"
+}
+, {
+  "date" : "2015-04-21T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Chase",
+  "case_number" : "2014-615",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Retire from HRA and never return to City employment"
+}
+, {
+  "date" : "2015-04-21T00:00:00",
+  "fine_paid_to_coib" : "3192",
+  "agency" : "M CB 2",
+  "case_name" : "Sweeney",
+  "case_number" : "2013-374",
+  "exp_of_amount_paid_to_coib" : "$2,000 penalty + $1,192 value of membership received"
+}
+, {
+  "date" : "2015-04-21T00:00:00",
+  "fine_paid_to_coib" : "6000",
+  "agency" : "NYCHA",
+  "case_name" : "Martinez",
+  "case_number" : "2013-673"
+}
+, {
+  "date" : "2015-03-24T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Ellis",
+  "case_number" : "2015-011",
+  "suspension_value" : "1009.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2015-03-24T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "Colon",
+  "case_number" : "2015-051",
+  "suspension_value" : "4385.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "One year probation",
+  "suspension_of_days" : "20"
+}
+, {
+  "date" : "2015-03-24T00:00:00",
+  "fine_paid_to_coib" : "750",
+  "agency" : "DSNY",
+  "case_name" : "Middleton",
+  "case_number" : "2014-431",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2015-03-24T00:00:00",
+  "fine_paid_to_coib" : "12000",
+  "agency" : "HHC",
+  "case_name" : "Velez",
+  "case_number" : "2014-663"
+}
+, {
+  "date" : "2015-03-24T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "FDNY",
+  "case_name" : "Annette",
+  "case_number" : "2014-241"
+}
+, {
+  "date" : "2015-03-24T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Cruz",
+  "case_number" : "2014-903",
+  "suspension_value" : "5434.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "45"
+}
+, {
+  "date" : "2015-03-24T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOE",
+  "case_name" : "Murray",
+  "case_number" : "2014-565"
+}
+, {
+  "date" : "2015-02-26T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "Mayor's Office",
+  "case_name" : "Wood",
+  "case_number" : "2014-495"
+}
+, {
+  "date" : "2015-02-26T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Roman",
+  "case_number" : "2013-632",
+  "suspension_value" : "5068.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "One year probation",
+  "suspension_of_days" : "50"
+}
+, {
+  "date" : "2015-02-26T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "HHC",
+  "case_name" : "Martin",
+  "case_number" : "2010-621a"
+}
+, {
+  "date" : "2015-02-26T00:00:00",
+  "other_penalty" : "$66,594",
+  "agency" : "HHC",
+  "case_name" : "Wanek",
+  "case_number" : "2010-621",
+  "other_penalty_value" : "Demoted, resulting in $66,594 annual salary reduction"
+}
+, {
+  "date" : "2015-02-26T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "DOE",
+  "case_name" : "Butz",
+  "case_number" : "2014-894"
+}
+, {
+  "date" : "2015-02-26T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "Fonseca",
+  "case_number" : "2014-518",
+  "suspension_value" : "8128.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "18 month probation",
+  "suspension_of_days" : "25"
+}
+, {
+  "date" : "2015-02-26T00:00:00",
+  "agency" : "BOE",
+  "case_name" : "Bougiamas",
+  "case_number" : "2014-6",
+  "other_penalty_value" : "Resign from BOE"
+}
+, {
+  "date" : "2015-02-26T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DOT",
+  "case_name" : "Restagno",
+  "case_number" : "2014-517",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2015-02-26T00:00:00",
+  "agency" : "DHS",
+  "case_name" : "Eddie",
+  "case_number" : "2014-839",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "50 days annual leave forfeited"
+}
+, {
+  "date" : "2015-02-26T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "Giles",
+  "case_number" : "2014-312",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Placed by DOE in Absent Teacher Reserve"
+}
+, {
+  "date" : "2015-01-22T00:00:00",
+  "fine_paid_to_coib" : "4650",
+  "agency" : "DORIS",
+  "case_name" : "Akuesson",
+  "case_number" : "2014-488",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2015-01-22T00:00:00",
+  "fine_paid_to_coib" : "9000",
+  "agency" : "Council",
+  "case_name" : "Dilan",
+  "case_number" : "2011-201"
+}
+, {
+  "date" : "2015-01-22T00:00:00",
+  "fine_paid_to_coib" : "4500",
+  "agency" : "DOE",
+  "case_name" : "Neering",
+  "case_number" : "2014-201",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2015-01-22T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Perdomo",
+  "case_number" : "2014-361",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2014-12-17T00:00:00",
+  "fine_paid_to_coib" : "800",
+  "agency" : "NYCERS",
+  "case_name" : "Harish",
+  "case_number" : "2014-414"
+}
+, {
+  "date" : "2014-12-17T00:00:00",
+  "fine_paid_to_coib" : "2250",
+  "agency" : "DOE",
+  "case_name" : "Kwon",
+  "case_number" : "2014-307"
+}
+, {
+  "date" : "2014-12-09T00:00:00",
+  "agency" : "DHS",
+  "case_name" : "Reid",
+  "case_number" : "2014-751a",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "750"
+}
+, {
+  "date" : "2014-11-21T00:00:00",
+  "fine_paid_to_coib" : "10000",
+  "agency" : "HRA",
+  "case_name" : "Parker",
+  "case_number" : "2013-605",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was forgiven"
+}
+, {
+  "date" : "2014-11-21T00:00:00",
+  "fine_paid_to_coib" : "4500",
+  "agency" : "KCHC",
+  "case_name" : "Ellis",
+  "case_number" : "2013-853"
+}
+, {
+  "date" : "2014-11-21T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "HHC",
+  "case_name" : "Amato",
+  "case_number" : "2009-376"
+}
+, {
+  "date" : "2014-11-21T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Buenaventura",
+  "case_number" : "2014-479",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign from DOHMH"
+}
+, {
+  "date" : "2014-11-21T00:00:00",
+  "fine_paid_to_coib" : "5500",
+  "agency" : "BOE",
+  "case_name" : "Dent",
+  "case_number" : "2014-061"
+}
+, {
+  "date" : "2014-11-21T00:00:00",
+  "fine_paid_to_coib" : "10660",
+  "agency" : "M CB 2",
+  "case_name" : "Hamilton",
+  "case_number" : "2013-374a",
+  "exp_of_amount_paid_to_coib" : "$2,500 fine + $8,160 value of benefit received"
+}
+, {
+  "date" : "2014-11-21T00:00:00",
+  "agency" : "DPR",
+  "case_name" : "Williams",
+  "case_number" : "2014-768a",
+  "suspension_value" : "4952.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "90 days probation",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2014-11-06T00:00:00",
+  "fine_paid_to_coib" : "7500",
+  "agency" : "TLC",
+  "case_name" : "Oberman",
+  "case_number" : "2013-609"
+}
+, {
+  "date" : "2014-10-29T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "BOE",
+  "case_name" : "Ribustello",
+  "case_number" : "2014-059"
+}
+, {
+  "date" : "2014-10-24T00:00:00",
+  "fine_paid_to_coib" : "10000",
+  "agency" : "BOE",
+  "case_name" : "Araujo",
+  "case_number" : "2013-426"
+}
+, {
+  "date" : "2014-10-24T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DOE",
+  "case_name" : "Shin",
+  "case_number" : "2014-201a"
+}
+, {
+  "date" : "2014-10-24T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "HPD",
+  "case_name" : "Thomas",
+  "case_number" : "2014-561",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "250"
+}
+, {
+  "date" : "2014-10-24T00:00:00",
+  "fine_paid_to_coib" : "250",
+  "agency" : "DOHMH",
+  "case_name" : "Ross",
+  "case_number" : "2013-913",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1100"
+}
+, {
+  "date" : "2014-10-24T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "ACS",
+  "case_name" : "Rogers",
+  "case_number" : "2013-817"
+}
+, {
+  "date" : "2014-09-22T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Morris",
+  "case_number" : "2014-280",
+  "suspension_value" : "3164.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2014-09-22T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "agency" : "HHC",
+  "case_name" : "Maldonado",
+  "case_number" : "2012-518a",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2014-09-22T00:00:00",
+  "fine_paid_to_coib" : "6000",
+  "agency" : "HHC",
+  "case_name" : "LaRosa",
+  "case_number" : "2012-518",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2014-09-22T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOE",
+  "case_name" : "Osei-Boateng",
+  "case_number" : "2013-815"
+}
+, {
+  "date" : "2014-08-28T00:00:00",
+  "agency" : "Compt. ",
+  "case_name" : "Avellino",
+  "case_number" : "2014-498",
+  "suspension_value" : "388.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "2"
+}
+, {
+  "date" : "2014-08-28T00:00:00",
+  "fine_paid_to_coib" : "2400",
+  "agency" : "DOE",
+  "case_name" : "Paul",
+  "case_number" : "2013-358",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2014-08-28T00:00:00",
+  "fine_paid_to_coib" : "1600",
+  "agency" : "DOE",
+  "case_name" : "Judin",
+  "case_number" : "2013-439",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2014-08-28T00:00:00",
+  "agency" : "Compt.",
+  "case_name" : "Chien",
+  "case_number" : "2014-458",
+  "suspension_value" : "13891.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "45"
+}
+, {
+  "date" : "2014-08-27T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "HPD",
+  "case_name" : "Mas",
+  "case_number" : "2014-188a",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1000"
+}
+, {
+  "date" : "2014-08-27T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "HPD",
+  "case_name" : "Ruiz",
+  "case_number" : "2014-188",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1250"
+}
+, {
+  "date" : "2014-08-27T00:00:00",
+  "fine_paid_to_coib" : "7000",
+  "agency" : "DOE",
+  "case_name" : "Ali",
+  "case_number" : "2013-633",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2014-08-26T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "Mayor's Office",
+  "case_name" : "Luong",
+  "case_number" : "2013-714"
+}
+, {
+  "date" : "2014-08-26T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "Mayor's Office",
+  "case_name" : "Mischel",
+  "case_number" : "2014-310"
+}
+, {
+  "date" : "2014-08-20T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "King",
+  "case_number" : "2013-535",
+  "suspension_value" : "4194.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "20"
+}
+, {
+  "date" : "2014-08-20T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "BOE",
+  "case_name" : "Conacchio",
+  "case_number" : "2014-060"
+}
+, {
+  "date" : "2014-08-20T00:00:00",
+  "fine_paid_to_coib" : "2170",
+  "other_penalty" : "$2,170",
+  "agency" : "DDC",
+  "case_name" : "Brown, F.",
+  "case_number" : "2013-305",
+  "suspension_value" : "2170.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "7 days annual leave forfeited",
+  "suspension_of_days" : "7"
+}
+, {
+  "date" : "2014-08-20T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "QBPO",
+  "case_name" : "Romano",
+  "case_number" : "2011-659"
+}
+, {
+  "date" : "2014-08-20T00:00:00",
+  "agency" : "DEP",
+  "case_name" : "Meloy",
+  "case_number" : "2014-449",
+  "suspension_value" : "5228.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2014-08-20T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOHMH",
+  "case_name" : "Bediako",
+  "case_number" : "2014-174",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1500"
+}
+, {
+  "date" : "2014-08-19T00:00:00",
+  "fine_paid_to_coib" : "10000",
+  "agency" : "DA",
+  "case_name" : "Collins",
+  "case_number" : "2013-258",
+  "exp_of_amount_paid_to_coib" : "Respondent did not appear at the trial, so the Board fine has not yet been collected"
+}
+, {
+  "date" : "2014-08-06T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "agency" : "DSNY",
+  "case_name" : "DiBerardino",
+  "case_number" : "2014-321",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign from DSNY"
+}
+, {
+  "date" : "2014-08-06T00:00:00",
+  "fine_paid_to_coib" : "25000",
+  "other_penalty" : "$23,900",
+  "agency" : "OEM",
+  "case_name" : "Jenkins",
+  "case_number" : "2013-607",
+  "suspension_value" : "2700.00",
+  "other_penalty_value" : "Pleaded guilty in NYS Criminal Ct. to Welfare Fraud, judgment",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was forgiven",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2014-07-22T00:00:00",
+  "fine_paid_to_coib" : "5000",
+  "agency" : "DOF",
+  "case_name" : "Rabinowitz",
+  "case_number" : "2013-279"
+}
+, {
+  "date" : "2014-07-01T00:00:00",
+  "other_penalty" : "$4,781",
+  "agency" : "DOHMH",
+  "case_name" : "Nealy",
+  "case_number" : "2013-829",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Demoted, resulting in $4,781 annual salary reduction"
+}
+, {
+  "date" : "2014-07-01T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Rosal",
+  "case_number" : "2013-474",
+  "suspension_value" : "4202.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "13"
+}
+, {
+  "date" : "2014-06-26T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DSNY",
+  "case_name" : "Malloy",
+  "case_number" : "2014-038a"
+}
+, {
+  "date" : "2014-06-26T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DSNY",
+  "case_name" : "Nichilo",
+  "case_number" : "2014-038"
+}
+, {
+  "date" : "2014-06-26T00:00:00",
+  "fine_paid_to_coib" : "6000",
+  "agency" : "HRA",
+  "case_name" : "Oni",
+  "case_number" : "2013-299",
+  "exp_of_amount_paid_to_coib" : "Respondent did not appear at the trial, so the Board fine has not yet been collected"
+}
+, {
+  "date" : "2014-06-25T00:00:00",
+  "agency" : "DOE",
+  "case_name" : "Schlansky",
+  "case_number" : "2014-067",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "6000"
+}
+, {
+  "date" : "2014-06-25T00:00:00",
+  "agency" : "Law Dept.",
+  "case_name" : "Darwin",
+  "case_number" : "2014-165",
+  "suspension_value" : "755.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "4"
+}
+, {
+  "date" : "2014-06-23T00:00:00",
+  "agency" : "DCAS",
+  "case_name" : "Sainbert",
+  "case_number" : "2014-200",
+  "suspension_value" : "2001.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2014-06-23T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "ACS",
+  "case_name" : "Moore",
+  "case_number" : "2013-460",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "500"
+}
+, {
+  "date" : "2014-06-23T00:00:00",
+  "fine_paid_to_coib" : "1300",
+  "agency" : "NYCHA",
+  "case_name" : "Washington",
+  "case_number" : "2013-001"
+}
+, {
+  "date" : "2014-06-18T00:00:00",
+  "agency" : "Compt. ",
+  "case_name" : "Martinez",
+  "case_number" : "2014-240",
+  "other_penalty_value" : "Forfeit half of remaining annual leave and retire from Comptroller's Office ",
+  "fine_paid_to_agency" : "4852"
+}
+, {
+  "date" : "2014-06-18T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "other_penalty" : "$2,503",
+  "agency" : "DHS",
+  "case_name" : "Joseph",
+  "case_number" : "2014-261",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Reimburse Agency for repair to damages on City vehicle"
+}
+, {
+  "date" : "2014-06-18T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "NYCHA",
+  "case_name" : "Shapiro",
+  "case_number" : "2014-286"
+}
+, {
+  "date" : "2014-06-05T00:00:00",
+  "fine_paid_to_coib" : "750",
+  "other_penalty" : "$1,898",
+  "agency" : "FDNY",
+  "case_name" : "Cassidy",
+  "case_number" : "2013-222a",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "6 days annual leave forfeited",
+  "fine_paid_to_agency" : "750"
+}
+, {
+  "date" : "2014-06-02T00:00:00",
+  "fine_paid_to_coib" : "5500",
+  "agency" : "FDNY",
+  "case_name" : "Del Re",
+  "case_number" : "2013-222",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1500"
+}
+, {
+  "date" : "2014-05-12T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Vazquez",
+  "case_number" : "2013-870",
+  "suspension_value" : "1821.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "6"
+}
+, {
+  "date" : "2014-05-12T00:00:00",
+  "fine_paid_to_coib" : "1200",
+  "agency" : "NYCHA",
+  "case_name" : "Fraraccio",
+  "case_number" : "2012-836b"
+}
+, {
+  "date" : "2014-05-12T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOHMH",
+  "case_name" : "Akinboye",
+  "case_number" : "2013-863",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "3500"
+}
+, {
+  "date" : "2014-05-12T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Ortiz-Melendez",
+  "case_number" : "2012-687",
+  "suspension_value" : "950.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "7"
+}
+, {
+  "date" : "2014-05-12T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOE",
+  "case_name" : "Phifer",
+  "case_number" : "2013-424",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2014-04-28T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Hederman",
+  "case_number" : "2011-700",
+  "exp_of_amount_paid_to_coib" : "Fine would have been substantially higher but for showing of financial hardship"
+}
+, {
+  "date" : "2014-04-28T00:00:00",
+  "fine_paid_to_coib" : "625",
+  "agency" : "ACS",
+  "case_name" : "Cotto",
+  "case_number" : "2013-669",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "625"
+}
+, {
+  "date" : "2014-04-28T00:00:00",
+  "other_penalty" : "$4,423",
+  "agency" : "DEP",
+  "case_name" : "Rao",
+  "case_number" : "2013-644",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Restitution and 10 days annual leave forfeited",
+  "fine_paid_to_agency" : "775"
+}
+, {
+  "date" : "2014-04-24T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "NYCHA",
+  "case_name" : "Massuridis",
+  "case_number" : "2012-870"
+}
+, {
+  "date" : "2014-04-24T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOE",
+  "case_name" : "Hinds",
+  "case_number" : "2012-321 & 2012-827",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was reduced from $12,500 to $2,500"
+}
+, {
+  "date" : "2014-04-24T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Casal",
+  "case_number" : "2013-307"
+}
+, {
+  "date" : "2014-04-15T00:00:00",
+  "fine_paid_to_coib" : "5000",
+  "agency" : "ACS",
+  "case_name" : "Salce",
+  "case_number" : "2011-387"
+}
+, {
+  "date" : "2014-03-31T00:00:00",
+  "other_penalty" : "$1,565",
+  "agency" : "DEP",
+  "case_name" : "Saint-Louis",
+  "case_number" : "2013-622",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Restitution and 5 days annual leave forfeited",
+  "fine_paid_to_agency" : "3090"
+}
+, {
+  "date" : "2014-03-27T00:00:00",
+  "fine_paid_to_coib" : "2400",
+  "agency" : "HPD",
+  "case_name" : "Simpson",
+  "case_number" : "2013-623"
+}
+, {
+  "date" : "2014-03-27T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DOE",
+  "case_name" : "Green",
+  "case_number" : "2013-072"
+}
+, {
+  "date" : "2014-03-27T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Lebron",
+  "case_number" : "2014-017",
+  "suspension_value" : "1472.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2014-03-20T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Ivey",
+  "case_number" : "2013-534",
+  "suspension_value" : "4466.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "12"
+}
+, {
+  "date" : "2014-03-04T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Brown",
+  "case_number" : "2013-711",
+  "suspension_value" : "995.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2014-02-03T00:00:00",
+  "agency" : "Compt.",
+  "case_name" : "Yndigoyen",
+  "case_number" : "2013-816",
+  "suspension_value" : "2300.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2014-02-03T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DSNY",
+  "case_name" : "Dixon",
+  "case_number" : "2013-782a",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Retire from DSNY"
+}
+, {
+  "date" : "2014-01-30T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "other_penalty" : "$575",
+  "agency" : "DHS",
+  "case_name" : "Zima",
+  "case_number" : "2013-627",
+  "other_penalty_value" : "Restitution"
+}
+, {
+  "date" : "2014-01-30T00:00:00",
+  "fine_paid_to_coib" : "4500",
+  "agency" : "DOE",
+  "case_name" : "Kwait",
+  "case_number" : "2013-557",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2013-12-30T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Bansi",
+  "case_number" : "2013-656",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign from DOHMH & never return to DOHMH employment"
+}
+, {
+  "date" : "2013-12-30T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOHMH",
+  "case_name" : "Diaz",
+  "case_number" : "2013-661",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1000"
+}
+, {
+  "date" : "2013-12-26T00:00:00",
+  "other_penalty" : "$34,275",
+  "agency" : "ACS",
+  "case_name" : "Antonetty",
+  "case_number" : "2013-462",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Reassigned, resulting in $34,275 annual salary reduction"
+}
+, {
+  "date" : "2013-12-26T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "DOE",
+  "case_name" : "Hasberry",
+  "case_number" : "2013-296",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2013-12-23T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "NYCHA",
+  "case_name" : "Bazile",
+  "case_number" : "2013-198"
+}
+, {
+  "date" : "2013-12-23T00:00:00",
+  "agency" : "Compt.",
+  "case_name" : "Tapia",
+  "case_number" : "2013-468",
+  "suspension_value" : "4480.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "20"
+}
+, {
+  "date" : "2013-12-23T00:00:00",
+  "fine_paid_to_coib" : "6000",
+  "agency" : "DOE",
+  "case_name" : "Castro",
+  "case_number" : "2013-097",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2013-12-03T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOHMH",
+  "case_name" : "Dalton",
+  "case_number" : "2013-414",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2013-12-02T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "James",
+  "case_number" : "2013-277",
+  "suspension_value" : "3180.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "18 months probation",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2013-11-26T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "DOE",
+  "case_name" : "Namnum",
+  "case_number" : "2013-196"
+}
+, {
+  "date" : "2013-10-29T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "Greene",
+  "case_number" : "2013-044a"
+}
+, {
+  "date" : "2013-10-29T00:00:00",
+  "other_penalty" : "$5,475",
+  "agency" : "NYCHA",
+  "case_name" : "Mignogna",
+  "case_number" : "2012-836",
+  "other_penalty_value" : "Demoted, resulting in $5,475 annual salary reduction"
+}
+, {
+  "date" : "2013-10-29T00:00:00",
+  "fine_paid_to_coib" : "1600",
+  "agency" : "NYCHA",
+  "case_name" : "Cavero",
+  "case_number" : "2012-836a"
+}
+, {
+  "date" : "2013-10-29T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "NYCHA",
+  "case_name" : "Augustyn",
+  "case_number" : "2012-836c"
+}
+, {
+  "date" : "2013-10-29T00:00:00",
+  "fine_paid_to_coib" : "900",
+  "agency" : "NYCHA",
+  "case_name" : "Santaniello",
+  "case_number" : "2012-836d"
+}
+, {
+  "date" : "2013-10-24T00:00:00",
+  "agency" : "DOE",
+  "case_name" : "Torres",
+  "case_number" : "2013-384",
+  "other_penalty_value" : "Terminated"
+}
+, {
+  "date" : "2013-10-02T00:00:00",
+  "fine_paid_to_coib" : "8000",
+  "agency" : "DDC",
+  "case_name" : "Devgan",
+  "case_number" : "2013-177",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign from DDC"
+}
+, {
+  "date" : "2013-10-02T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DDC",
+  "case_name" : "Shah",
+  "case_number" : "2013-177a",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Indefinite probation"
+}
+, {
+  "date" : "2013-10-01T00:00:00",
+  "agency" : "Bx B.P.",
+  "case_name" : "Veras",
+  "case_number" : "2013-444",
+  "suspension_value" : "5066.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2013-10-01T00:00:00",
+  "fine_paid_to_coib" : "2300",
+  "agency" : "NYCHA",
+  "case_name" : "Reissig",
+  "case_number" : "2012-831",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2013-10-01T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "Compt.",
+  "case_name" : "Mosley",
+  "case_number" : "2013-004"
+}
+, {
+  "date" : "2013-09-03T00:00:00",
+  "fine_paid_to_coib" : "5000",
+  "agency" : "HPD",
+  "case_name" : "Enright",
+  "case_number" : "2012-469"
+}
+, {
+  "date" : "2013-08-29T00:00:00",
+  "agency" : "SCA",
+  "case_name" : "Giwa",
+  "case_number" : "2013-306",
+  "suspension_value" : "10400.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2013-08-26T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "HPD",
+  "case_name" : "Compton",
+  "case_number" : "2013-380"
+}
+, {
+  "date" : "2013-08-13T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Hila",
+  "case_number" : "2012-493",
+  "suspension_value" : "10718.84",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "39"
+}
+, {
+  "date" : "2013-08-12T00:00:00",
+  "fine_paid_to_coib" : "7500",
+  "agency" : "Bx CB 9",
+  "case_name" : "Gonzalez",
+  "case_number" : "2011-145"
+}
+, {
+  "date" : "2013-08-01T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "ACS",
+  "case_name" : "Trambitskaya",
+  "case_number" : "2013-253"
+}
+, {
+  "date" : "2013-08-01T00:00:00",
+  "agency" : "Compt.",
+  "case_name" : "Mohamed",
+  "case_number" : "2013-158",
+  "suspension_value" : "942.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2013-06-27T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "DOHMH",
+  "case_name" : "Woods",
+  "case_number" : "2012-880b",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2013-06-26T00:00:00",
+  "fine_paid_to_coib" : "5000",
+  "agency" : "DEP",
+  "case_name" : "Madu",
+  "case_number" : "2013-111",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2013-06-24T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOE",
+  "case_name" : "Rodriguez",
+  "case_number" : "2013-044"
+}
+, {
+  "date" : "2013-06-24T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DSNY",
+  "case_name" : "Bracone",
+  "case_number" : "2012-238"
+}
+, {
+  "date" : "2013-06-24T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DSNY",
+  "case_name" : "Torres",
+  "case_number" : "2012-238a"
+}
+, {
+  "date" : "2013-05-20T00:00:00",
+  "fine_paid_to_coib" : "750",
+  "agency" : "DOHMH",
+  "case_name" : "Choden",
+  "case_number" : "2013-124",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "750"
+}
+, {
+  "date" : "2013-05-16T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DEP",
+  "case_name" : "Marrero",
+  "case_number" : "2012-338",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2013-04-29T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "NYCHA",
+  "case_name" : "Jones",
+  "case_number" : "2012-458",
+  "suspension_value" : "1393.61",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "One year probation",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2013-04-29T00:00:00",
+  "fine_paid_to_coib" : "4500",
+  "agency" : "DOC",
+  "case_name" : "Reyes",
+  "case_number" : "2012-365"
+}
+, {
+  "date" : "2013-04-29T00:00:00",
+  "fine_paid_to_coib" : "6000",
+  "agency" : "DOC",
+  "case_name" : "Davis",
+  "case_number" : "2012-365a"
+}
+, {
+  "date" : "2013-04-29T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Bessem",
+  "case_number" : "2012-233",
+  "suspension_value" : "3082.80",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "20"
+}
+, {
+  "date" : "2013-04-29T00:00:00",
+  "fine_paid_to_coib" : "7000",
+  "agency" : "FDNY",
+  "case_name" : "Raheb",
+  "case_number" : "2012-461"
+}
+, {
+  "date" : "2013-04-25T00:00:00",
+  "other_penalty" : "$3,838",
+  "agency" : "DEP",
+  "case_name" : "Valencia",
+  "case_number" : "2012-894a",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "$800 in restitution & 15 days annual leave forfeited  = $3,038"
+}
+, {
+  "date" : "2013-04-25T00:00:00",
+  "other_penalty" : "$4,088",
+  "agency" : "DEP",
+  "case_name" : "Abrams",
+  "case_number" : "2012-894b",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "$946 in restitution & 15 days annual leave forfeited = $3,142"
+}
+, {
+  "date" : "2013-04-25T00:00:00",
+  "other_penalty" : "$1,229",
+  "agency" : "DEP",
+  "case_name" : "Ramnarine",
+  "case_number" : "2012-894c",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Restitution & resign from DEP"
+}
+, {
+  "date" : "2013-04-25T00:00:00",
+  "other_penalty" : "$1,322",
+  "agency" : "DEP",
+  "case_name" : "Hernandez",
+  "case_number" : "2012-894",
+  "suspension_value" : "5777.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Restitution",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2013-04-25T00:00:00",
+  "agency" : "Compt.",
+  "case_name" : "Starkey",
+  "case_number" : "2013-135",
+  "suspension_value" : "5512.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "25"
+}
+, {
+  "date" : "2013-04-24T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "other_penalty" : "$500",
+  "agency" : "HHC",
+  "case_name" : "Taylor",
+  "case_number" : "2012-828",
+  "other_penalty_value" : "Loan repayment"
+}
+, {
+  "date" : "2013-04-17T00:00:00",
+  "fine_paid_to_coib" : "6000",
+  "agency" : "HHC",
+  "case_name" : "Wolf",
+  "case_number" : "2012-848"
+}
+, {
+  "date" : "2013-04-15T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOHMH",
+  "case_name" : "James",
+  "case_number" : "2012-710",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "2500"
+}
+, {
+  "date" : "2013-04-01T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DOHMH",
+  "case_name" : "Wilson",
+  "case_number" : "2012-766",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2013-04-01T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "DOHMH",
+  "case_name" : "Singleton",
+  "case_number" : "2012-765",
+  "suspension_value" : "500.00",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2013-04-01T00:00:00",
+  "fine_paid_to_coib" : "250",
+  "agency" : "DOE",
+  "case_name" : "Piccirillo",
+  "case_number" : "2012-712a"
+}
+, {
+  "date" : "2013-03-21T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "HPD",
+  "case_name" : "Booker",
+  "case_number" : "2011-412"
+}
+, {
+  "date" : "2013-03-18T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "HPD",
+  "case_name" : "Theodore",
+  "case_number" : "2012-362"
+}
+, {
+  "date" : "2013-03-07T00:00:00",
+  "fine_paid_to_coib" : "9500",
+  "agency" : "HHC",
+  "case_name" : "Pack",
+  "case_number" : "2012-473"
+}
+, {
+  "date" : "2013-03-07T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "ACS",
+  "case_name" : "Davis",
+  "case_number" : "2012-624",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2013-03-04T00:00:00",
+  "fine_paid_to_coib" : "2300",
+  "agency" : "DOE",
+  "case_name" : "DeMaio",
+  "case_number" : "2012-819",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "4200"
+}
+, {
+  "date" : "2013-02-28T00:00:00",
+  "agency" : "DHS",
+  "case_name" : "Muniz",
+  "case_number" : "2012-426",
+  "suspension_value" : "6622.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign from DHS & never return to City employment",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2013-02-28T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "NYCHA",
+  "case_name" : "Romeo",
+  "case_number" : "2012-808"
+}
+, {
+  "date" : "2013-02-25T00:00:00",
+  "fine_paid_to_coib" : "1400",
+  "agency" : "HRA",
+  "case_name" : "Findley",
+  "case_number" : "2010-747"
+}
+, {
+  "date" : "2013-02-06T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Purvis",
+  "case_number" : "2011-898a",
+  "suspension_value" : "9972.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "60"
+}
+, {
+  "date" : "2013-02-05T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Rodriguez",
+  "case_number" : "2012-464",
+  "suspension_value" : "280.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "2"
+}
+, {
+  "date" : "2013-01-23T00:00:00",
+  "fine_paid_to_coib" : "7500",
+  "agency" : "DOE",
+  "case_name" : "Cohen",
+  "case_number" : "2012-322"
+}
+, {
+  "date" : "2013-01-23T00:00:00",
+  "fine_paid_to_coib" : "6500",
+  "agency" : "DOE",
+  "case_name" : "Baptiste",
+  "case_number" : "2012-313"
+}
+, {
+  "date" : "2013-01-17T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Stevenson-Hull",
+  "case_number" : "2012-140",
+  "suspension_value" : "1076.00",
+  "suspension_of_days" : "8"
+}
+, {
+  "date" : "2013-01-07T00:00:00",
+  "other_penalty" : "$1,000",
+  "agency" : "DCAS",
+  "case_name" : "Blackman",
+  "case_number" : "2012-605",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign from DCAS & never return to City employment; forfeit annual leave in the amount of $1,000"
+}
+, {
+  "date" : "2013-01-07T00:00:00",
+  "other_penalty" : "$2,591",
+  "agency" : "DDC",
+  "case_name" : "Patel",
+  "case_number" : "2011-816",
+  "suspension_value" : "5980.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "13 days annual leave forfeited",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2013-01-07T00:00:00",
+  "agency" : "DHS",
+  "case_name" : "Chavez-Downes",
+  "case_number" : "2012-746",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "3750"
+}
+, {
+  "date" : "2012-12-27T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "DiVittorio",
+  "case_number" : "2012-568",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2012-12-27T00:00:00",
+  "fine_paid_to_coib" : "1750",
+  "agency" : "HHC",
+  "case_name" : "Rodriguez",
+  "case_number" : "2012-473a"
+}
+, {
+  "date" : "2012-12-26T00:00:00",
+  "fine_paid_to_coib" : "9000",
+  "agency" : "DOE",
+  "case_name" : "Vera",
+  "case_number" : "2011-750",
+  "exp_of_amount_paid_to_coib" : "Respondent did not appear at the trial, so the Board fine has not yet been collected"
+}
+, {
+  "date" : "2012-12-26T00:00:00",
+  "fine_paid_to_coib" : "7500",
+  "agency" : "ACS",
+  "case_name" : "Dockery",
+  "case_number" : "2010-880",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was forgiven"
+}
+, {
+  "date" : "2012-12-13T00:00:00",
+  "fine_paid_to_coib" : "5000",
+  "agency" : "DoITT",
+  "case_name" : "Sivilich",
+  "case_number" : "2012-583",
+  "suspension_value" : "7144.78",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign & never return to DoITT employment",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2012-12-13T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Ervin-Turner",
+  "case_number" : "2012-582",
+  "suspension_value" : "3780.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "20"
+}
+, {
+  "date" : "2012-12-03T00:00:00",
+  "fine_paid_to_coib" : "1750",
+  "agency" : "Parks",
+  "case_name" : "Zerilli",
+  "case_number" : "2012-329",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2012-11-28T00:00:00",
+  "fine_paid_to_coib" : "49929",
+  "agency" : "DOE",
+  "case_name" : "Namnum",
+  "case_number" : "2011-860",
+  "exp_of_amount_paid_to_coib" : "$15,000 fine + $32,929.29 value of benefit received "
+}
+, {
+  "date" : "2012-11-26T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "HRA",
+  "case_name" : "Cohen",
+  "case_number" : "2012-270b"
+}
+, {
+  "date" : "2012-11-26T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOE",
+  "case_name" : "Fogel",
+  "case_number" : "2012-228"
+}
+, {
+  "date" : "2012-11-26T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOE",
+  "case_name" : "Brennan",
+  "case_number" : "2012-540"
+}
+, {
+  "date" : "2012-10-25T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "SCA",
+  "case_name" : "Agius",
+  "case_number" : "2012-169"
+}
+, {
+  "date" : "2012-10-24T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOE",
+  "case_name" : "Knowlin",
+  "case_number" : "2009-493",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was forgiven"
+}
+, {
+  "date" : "2012-10-24T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "agency" : "DOE",
+  "case_name" : "Nero",
+  "case_number" : "2011-636"
+}
+, {
+  "date" : "2012-10-17T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "agency" : "DOE",
+  "case_name" : "Scanterbury",
+  "case_number" : "2012-328"
+}
+, {
+  "date" : "2012-10-17T00:00:00",
+  "fine_paid_to_coib" : "7500",
+  "agency" : "EDC",
+  "case_name" : "Lim",
+  "case_number" : "2012-364"
+}
+, {
+  "date" : "2012-10-04T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Jimenez",
+  "case_number" : "2012-581",
+  "suspension_value" : "3363.94",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "7"
+}
+, {
+  "date" : "2012-10-03T00:00:00",
+  "agency" : "DEP",
+  "case_name" : "Dance",
+  "case_number" : "2012-486",
+  "suspension_value" : "3790.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2012-10-03T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Ojudun",
+  "case_number" : "2012-316",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign & never return to HRA employment"
+}
+, {
+  "date" : "2012-09-12T00:00:00",
+  "agency" : "DOE",
+  "case_name" : "Thompson",
+  "case_number" : "2009-845",
+  "other_penalty_value" : "Resign & never return to DOE employment"
+}
+, {
+  "date" : "2012-09-05T00:00:00",
+  "fine_paid_to_coib" : "9197",
+  "agency" : "DSNY",
+  "case_name" : "Taylor",
+  "case_number" : "2011-193",
+  "exp_of_amount_paid_to_coib" : "$7,500 fine + $1,696.82 value of benefit received "
+}
+, {
+  "date" : "2012-09-04T00:00:00",
+  "agency" : "DCAS",
+  "case_name" : "Marinello",
+  "case_number" : "2012-314",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2012-09-04T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Williams",
+  "case_number" : "2012-367",
+  "suspension_value" : "4686.35",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "25"
+}
+, {
+  "date" : "2012-09-04T00:00:00",
+  "fine_paid_to_coib" : "6000",
+  "agency" : "DOHMH",
+  "case_name" : "Hayes",
+  "case_number" : "2012-399",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "No longer use any affiliation in publications other than DOHMH"
+}
+, {
+  "date" : "2012-09-04T00:00:00",
+  "fine_paid_to_coib" : "3500",
+  "agency" : "DOE",
+  "case_name" : "Passarella",
+  "case_number" : "2011-531"
+}
+, {
+  "date" : "2012-09-04T00:00:00",
+  "agency" : "Compt.",
+  "case_name" : "Perez",
+  "case_number" : "2012-492a",
+  "suspension_value" : "1316.45",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "3"
+}
+, {
+  "date" : "2012-09-04T00:00:00",
+  "agency" : "Compt.",
+  "case_name" : "Innamorato",
+  "case_number" : "2012-492",
+  "suspension_value" : "3000.88",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2012-08-22T00:00:00",
+  "agency" : "Parks",
+  "case_name" : "Baksh",
+  "case_number" : "2012-021",
+  "suspension_value" : "11478.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "60"
+}
+, {
+  "date" : "2012-08-22T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "agency" : "DOE",
+  "case_name" : "O’Mahoney",
+  "case_number" : "2011-720",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2012-08-22T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "ACS",
+  "case_name" : "Gonzalez",
+  "case_number" : "2011-055",
+  "suspension_value" : "1256.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2012-08-22T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Purvis",
+  "case_number" : "2011-898",
+  "suspension_value" : "3530.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "20"
+}
+, {
+  "date" : "2012-08-22T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Washington",
+  "case_number" : "2012-115",
+  "suspension_value" : "758.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2012-08-08T00:00:00",
+  "fine_paid_to_coib" : "3500",
+  "agency" : "DOE",
+  "case_name" : "Thornton",
+  "case_number" : "2010-479"
+}
+, {
+  "date" : "2012-07-31T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Hope, K.",
+  "case_number" : "2012-230",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign & never return to HRA employment"
+}
+, {
+  "date" : "2012-07-31T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "Charbonier",
+  "case_number" : "2011-622b",
+  "suspension_value" : "812.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "One year probation",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2012-07-31T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "Shepard",
+  "case_number" : "2011-622e",
+  "suspension_value" : "1421.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "One year probation",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2012-07-25T00:00:00",
+  "agency" : "DFTA",
+  "case_name" : "Balkcom",
+  "case_number" : "2011-825",
+  "suspension_value" : "4757.12",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "9 month probation",
+  "suspension_of_days" : "45"
+}
+, {
+  "date" : "2012-07-25T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Murph",
+  "case_number" : "2012-204",
+  "suspension_value" : "1085.97",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "8"
+}
+, {
+  "date" : "2012-07-25T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Tomkins",
+  "case_number" : "2012-114",
+  "suspension_value" : "1244.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2012-07-23T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Cortez",
+  "case_number" : "2012-339",
+  "suspension_value" : "3861.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "12"
+}
+, {
+  "date" : "2012-07-23T00:00:00",
+  "other_penalty" : "$1,574",
+  "agency" : "DEP",
+  "case_name" : "Paci",
+  "case_number" : "2012-246",
+  "suspension_value" : "393.40",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "4 days annual leave forfeited",
+  "suspension_of_days" : "1"
+}
+, {
+  "date" : "2012-07-23T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "HHC",
+  "case_name" : "Rodriguez",
+  "case_number" : "2010-541"
+}
+, {
+  "date" : "2012-06-28T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Glover, M.",
+  "case_number" : "2011-429a",
+  "suspension_value" : "1584.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2012-06-28T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Glover, B.",
+  "case_number" : "2011-429",
+  "suspension_value" : "4307.00",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2012-06-26T00:00:00",
+  "fine_paid_to_coib" : "3750",
+  "agency" : "HRA",
+  "case_name" : "Gomez",
+  "case_number" : "2012-095",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2012-06-26T00:00:00",
+  "other_penalty" : "$39,003",
+  "agency" : "DOE",
+  "case_name" : "Shepherd",
+  "case_number" : "2009-598",
+  "other_penalty_value" : "Demoted, resulting in $39,003 annual salary reduction"
+}
+, {
+  "date" : "2012-06-26T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOE",
+  "case_name" : "Strauss",
+  "case_number" : "2010-762",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2012-06-26T00:00:00",
+  "fine_paid_to_coib" : "250",
+  "agency" : "Parks",
+  "case_name" : "McCrorey",
+  "case_number" : "2010-335a"
+}
+, {
+  "date" : "2012-06-26T00:00:00",
+  "fine_paid_to_coib" : "250",
+  "agency" : "Parks",
+  "case_name" : "Williams",
+  "case_number" : "2010-335b"
+}
+, {
+  "date" : "2012-06-26T00:00:00",
+  "fine_paid_to_coib" : "750",
+  "agency" : "Parks",
+  "case_name" : "James",
+  "case_number" : "2010-335c"
+}
+, {
+  "date" : "2012-06-26T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "Parks",
+  "case_name" : "Hill",
+  "case_number" : "2010-335d",
+  "exp_of_amount_paid_to_coib" : "Respondent did not appear at the trial, so the Board fine has not yet been collected"
+}
+, {
+  "date" : "2012-06-26T00:00:00",
+  "fine_paid_to_coib" : "250",
+  "agency" : "Parks",
+  "case_name" : "Simms",
+  "case_number" : "2010-335e",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was forgiven"
+}
+, {
+  "date" : "2012-06-25T00:00:00",
+  "fine_paid_to_coib" : "6500",
+  "agency" : "City Planning",
+  "case_name" : "Stewart",
+  "case_number" : "2012-162"
+}
+, {
+  "date" : "2012-06-11T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Neblett",
+  "case_number" : "2010-015",
+  "other_penalty_value" : "Resign from DOE & return piano"
+}
+, {
+  "date" : "2012-06-11T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Mercado",
+  "case_number" : "2011-478"
+}
+, {
+  "date" : "2012-06-06T00:00:00",
+  "agency" : "DoITT",
+  "case_name" : "Mayo",
+  "case_number" : "2012-326",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign & never return to DoITT employment"
+}
+, {
+  "date" : "2012-06-06T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "Silver",
+  "case_number" : "2010-672",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2012-06-04T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Bennett",
+  "case_number" : "2012-098",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2012-06-04T00:00:00",
+  "agency" : "DOE",
+  "case_name" : "Borrero",
+  "case_number" : "2012-150a",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2012-06-04T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Thomas",
+  "case_number" : "2012-231",
+  "suspension_value" : "2252.11",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "20"
+}
+, {
+  "date" : "2012-06-04T00:00:00",
+  "fine_paid_to_coib" : "1750",
+  "agency" : "HHC",
+  "case_name" : "Tirado",
+  "case_number" : "2012-151"
+}
+, {
+  "date" : "2012-06-04T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Hope",
+  "case_number" : "2012-229",
+  "suspension_value" : "5304.74",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2012-06-04T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Gamble",
+  "case_number" : "2012-045",
+  "suspension_value" : "2348.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "12"
+}
+, {
+  "date" : "2012-06-04T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "Mattern",
+  "case_number" : "2010-276a",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2012-04-30T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DOE",
+  "case_name" : "Shapiro",
+  "case_number" : "2011-445",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2012-04-30T00:00:00",
+  "fine_paid_to_coib" : "4500",
+  "agency" : "DOE",
+  "case_name" : "Connell-Cowell",
+  "case_number" : "2010-836",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2012-04-25T00:00:00",
+  "fine_paid_to_coib" : "3500",
+  "agency" : "DOE",
+  "case_name" : "Nelson",
+  "case_number" : "2011-591"
+}
+, {
+  "date" : "2012-04-24T00:00:00",
+  "fine_paid_to_coib" : "22000",
+  "agency" : "DOF",
+  "case_name" : "Stark",
+  "case_number" : "2011-480"
+}
+, {
+  "date" : "2012-04-23T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "DOE",
+  "case_name" : "Trezevantte",
+  "case_number" : "2011-302",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2012-04-16T00:00:00",
+  "other_penalty" : "$15,900",
+  "agency" : "DOF",
+  "case_name" : "Perotti",
+  "case_number" : "2011-868",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Demoted, resulting in $8,000 salary reduction + $7,900 in loan repayment"
+}
+, {
+  "date" : "2012-03-26T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOE",
+  "case_name" : "Fabrikant",
+  "case_number" : "2011-544"
+}
+, {
+  "date" : "2012-03-21T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Gibson",
+  "case_number" : "2012-041",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1500"
+}
+, {
+  "date" : "2012-03-12T00:00:00",
+  "other_penalty" : "$7,235",
+  "agency" : "DOC",
+  "case_name" : "Edwards",
+  "case_number" : "2011-724",
+  "suspension_value" : "4539.40",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "24 days annual leave forfeited",
+  "suspension_of_days" : "21"
+}
+, {
+  "date" : "2012-03-12T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "ACS",
+  "case_name" : "Wiltshire",
+  "case_number" : "2011-456"
+}
+, {
+  "date" : "2012-03-12T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Congo",
+  "case_number" : "2012-121",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign & never return to City employment"
+}
+, {
+  "date" : "2012-03-06T00:00:00",
+  "other_penalty" : "$4,494",
+  "agency" : "DOHMH",
+  "case_name" : "Mark",
+  "case_number" : "2012-014",
+  "suspension_value" : "4494.20",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "20 days annual leave forfeited and resign & never return to City employment",
+  "fine_paid_to_agency" : "4000",
+  "suspension_of_days" : "20"
+}
+, {
+  "date" : "2012-03-05T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "NYPD",
+  "case_name" : "Pawar",
+  "case_number" : "2011-765"
+}
+, {
+  "date" : "2012-03-05T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Singleton",
+  "case_number" : "2011-627",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "2000"
+}
+, {
+  "date" : "2012-03-05T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Dumeng",
+  "case_number" : "2011-727",
+  "suspension_value" : "1000.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2012-03-05T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Vasquez",
+  "case_number" : "2011-734",
+  "suspension_value" : "4369.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2012-02-21T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Hines",
+  "case_number" : "2011-664",
+  "suspension_value" : "3926.67",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2012-02-08T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Harris",
+  "case_number" : "2011-547",
+  "suspension_value" : "1172.20",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "4"
+}
+, {
+  "date" : "2012-02-07T00:00:00",
+  "fine_paid_to_coib" : "7500",
+  "agency" : "DOE",
+  "case_name" : "Zackria",
+  "case_number" : "2010-609",
+  "exp_of_amount_paid_to_coib" : "Respondent did not appear at the trial, so the Board fine has not yet been collected"
+}
+, {
+  "date" : "2012-02-06T00:00:00",
+  "agency" : "Parks",
+  "case_name" : "Vazgryn",
+  "case_number" : "2011-473",
+  "suspension_value" : "5300.00",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "4500",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2012-02-06T00:00:00",
+  "agency" : "DDC",
+  "case_name" : "Taylor-Williamson",
+  "case_number" : "2011-768",
+  "suspension_value" : "1743.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "7"
+}
+, {
+  "date" : "2012-01-31T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DoITT",
+  "case_name" : "Lugo",
+  "case_number" : "2010-842a"
+}
+, {
+  "date" : "2012-01-26T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "James",
+  "case_number" : "2007-269",
+  "suspension_value" : "25046.10",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "90"
+}
+, {
+  "date" : "2012-01-26T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Gilbert",
+  "case_number" : "2007-269a",
+  "suspension_value" : "16697.47",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "60"
+}
+, {
+  "date" : "2012-01-26T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Maurice",
+  "case_number" : "2007-269b",
+  "suspension_value" : "24425.57",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "90"
+}
+, {
+  "date" : "2011-12-20T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOB",
+  "case_name" : "Maldonado",
+  "case_number" : "2010-548"
+}
+, {
+  "date" : "2011-12-20T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "FDNY",
+  "case_name" : "LaBella",
+  "case_number" : "2010-285a"
+}
+, {
+  "date" : "2011-12-20T00:00:00",
+  "fine_paid_to_coib" : "12500",
+  "agency" : "FDNY",
+  "case_name" : "Zerillo",
+  "case_number" : "2010-285"
+}
+, {
+  "date" : "2011-12-15T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOHMH",
+  "case_name" : "Burgos",
+  "case_number" : "2011-726",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2011-12-15T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Williams",
+  "case_number" : "2011-663",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "2440"
+}
+, {
+  "date" : "2011-12-08T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Akinoye",
+  "case_number" : "2011-443",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "700"
+}
+, {
+  "date" : "2011-12-06T00:00:00",
+  "fine_paid_to_coib" : "6500",
+  "agency" : "DOE",
+  "case_name" : "Raab",
+  "case_number" : "2011-368"
+}
+, {
+  "date" : "2011-12-05T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOC",
+  "case_name" : "Glanz",
+  "case_number" : "2010-831"
+}
+, {
+  "date" : "2011-12-01T00:00:00",
+  "fine_paid_to_coib" : "10000",
+  "agency" : "Bx B.P.",
+  "case_name" : "Carrion",
+  "case_number" : "2009-159"
+}
+, {
+  "date" : "2011-11-14T00:00:00",
+  "other_penalty" : "$596",
+  "agency" : "OATH",
+  "case_name" : "Robertson",
+  "case_number" : "2011-392",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "4 days annual leave forfeited"
+}
+, {
+  "date" : "2011-09-28T00:00:00",
+  "other_penalty" : "$706",
+  "agency" : "ACS",
+  "case_name" : "Garvin",
+  "case_number" : "2010-258",
+  "suspension_value" : "1412.60",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "5 days annual leave forfeited",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2011-09-19T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DOHMH",
+  "case_name" : "Udeh",
+  "case_number" : "2011-361",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Demoted, resulting in 8% salary reduction"
+}
+, {
+  "date" : "2011-09-19T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DOE",
+  "case_name" : "Capellan",
+  "case_number" : "2011-427"
+}
+, {
+  "date" : "2011-09-19T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Vielle",
+  "case_number" : "2011-003",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign & never return to DOHMH employment"
+}
+, {
+  "date" : "2011-08-29T00:00:00",
+  "fine_paid_to_coib" : "1269",
+  "other_penalty" : "$1,269",
+  "agency" : "DEP",
+  "case_name" : "Marandi",
+  "case_number" : "2011-360",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Restitution"
+}
+, {
+  "date" : "2011-07-25T00:00:00",
+  "fine_paid_to_coib" : "7500",
+  "agency" : "HRA",
+  "case_name" : "McNair",
+  "case_number" : "2009-700",
+  "exp_of_amount_paid_to_coib" : "Although respondent did appear at the trial,  the Board fine has not yet been collected"
+}
+, {
+  "date" : "2011-07-25T00:00:00",
+  "fine_paid_to_coib" : "20000",
+  "agency" : "BBP",
+  "case_name" : "Markowitz",
+  "case_number" : "2009-181"
+}
+, {
+  "date" : "2011-07-25T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOHMH",
+  "case_name" : "Godfrey",
+  "case_number" : "2011-343"
+}
+, {
+  "date" : "2011-07-06T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DOT",
+  "case_name" : "Julien",
+  "case_number" : "2008-880"
+}
+, {
+  "date" : "2011-06-30T00:00:00",
+  "fine_paid_to_coib" : "600",
+  "other_penalty" : "$1,099",
+  "agency" : "DOHMH",
+  "case_name" : "Pizarro",
+  "case_number" : "2010-723",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "3 days annual leave forfeited & $111.92 restitution"
+}
+, {
+  "date" : "2011-06-30T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "DOE",
+  "case_name" : "Kelly-Ennis",
+  "case_number" : "2010-276"
+}
+, {
+  "date" : "2011-06-30T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Mitchell",
+  "case_number" : "2010-430",
+  "suspension_value" : "799.61",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2011-06-30T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "HPD",
+  "case_name" : "Naidu-Walton",
+  "case_number" : "2010-063",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2011-06-30T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "HRA",
+  "case_name" : "Hedrington",
+  "case_number" : "2009-434"
+}
+, {
+  "date" : "2011-06-30T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "HRA",
+  "case_name" : "Barthelemy",
+  "case_number" : "2009-434a"
+}
+, {
+  "date" : "2011-06-29T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "agency" : "DOE",
+  "case_name" : "Olsen",
+  "case_number" : "2011-189",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2011-06-28T00:00:00",
+  "other_penalty" : "$764",
+  "agency" : "DOE",
+  "case_name" : "Smolkin",
+  "case_number" : "2011-084",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Restitution",
+  "fine_paid_to_agency" : "5000"
+}
+, {
+  "date" : "2011-06-28T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Garcia",
+  "case_number" : "2010-406",
+  "suspension_value" : "2033.60",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2011-06-28T00:00:00",
+  "agency" : "BIC",
+  "case_name" : "Lee",
+  "case_number" : "2010-830",
+  "suspension_value" : "3403.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2011-06-28T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "NYCHA",
+  "case_name" : "Andrews",
+  "case_number" : "2011-156"
+}
+, {
+  "date" : "2011-06-27T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "Ruiz",
+  "case_number" : "2011-015",
+  "suspension_value" : "7616.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "40"
+}
+, {
+  "date" : "2011-06-27T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "HRA",
+  "case_name" : "Baez",
+  "case_number" : "2010-282",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was reduced  from $5,000 to $500"
+}
+, {
+  "date" : "2011-06-27T00:00:00",
+  "other_penalty" : "$345",
+  "agency" : "HRA",
+  "case_name" : "Belle",
+  "case_number" : "2010-156",
+  "other_penalty_value" : "Restitution",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was forgiven"
+}
+, {
+  "date" : "2011-06-23T00:00:00",
+  "other_penalty" : "$1,371",
+  "agency" : "DEP",
+  "case_name" : "Terracciano",
+  "case_number" : "2011-230",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "3 days annual leave forfeited"
+}
+, {
+  "date" : "2011-05-25T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DFTA",
+  "case_name" : "Shaffer",
+  "case_number" : "2011-187",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Demoted & transferred, resulting in 20% salary reduction",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was reduced  from $7,500 to $1,000"
+}
+, {
+  "date" : "2011-05-19T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "Arowolo",
+  "case_number" : "2010-873",
+  "suspension_value" : "3013.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "One year probation",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2011-05-09T00:00:00",
+  "other_penalty" : "$277",
+  "agency" : "DCAS",
+  "case_name" : "Barrington",
+  "case_number" : "2010-329",
+  "suspension_value" : "2423.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Restitution",
+  "suspension_of_days" : "20"
+}
+, {
+  "date" : "2011-05-09T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Solomon",
+  "case_number" : "2009-807"
+}
+, {
+  "date" : "2011-05-04T00:00:00",
+  "other_penalty" : "$15,000",
+  "agency" : "DoITT",
+  "case_name" : "Jordan",
+  "case_number" : "2010-842",
+  "other_penalty_value" : "Transferred, resulting in $15,000 salary reduction"
+}
+, {
+  "date" : "2011-05-02T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Lowe",
+  "case_number" : "2010-573",
+  "suspension_value" : "3352.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2011-04-21T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "Parks",
+  "case_name" : "Diggs",
+  "case_number" : "2010-335"
+}
+, {
+  "date" : "2011-04-07T00:00:00",
+  "fine_paid_to_coib" : "300",
+  "agency" : "DOE",
+  "case_name" : "Grant",
+  "case_number" : "2009-553"
+}
+, {
+  "date" : "2011-04-05T00:00:00",
+  "fine_paid_to_coib" : "20000",
+  "agency" : "DOE",
+  "case_name" : "Tatum",
+  "case_number" : "2009-467"
+}
+, {
+  "date" : "2011-04-04T00:00:00",
+  "agency" : "DEP",
+  "case_name" : "Ginty",
+  "case_number" : "2011-002",
+  "suspension_value" : "3772.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Demoted & one year probation",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2011-03-29T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "FDNY",
+  "case_name" : "Paige",
+  "case_number" : "2010-439",
+  "exp_of_amount_paid_to_coib" : "Respondent did not appear at the trial, so the Board fine has not yet been collected"
+}
+, {
+  "date" : "2011-03-24T00:00:00",
+  "fine_paid_to_coib" : "3250",
+  "agency" : "DOE",
+  "case_name" : "Szot",
+  "case_number" : "2009-436",
+  "fine_paid_to_agency" : "2500"
+}
+, {
+  "date" : "2011-03-21T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "ACS",
+  "case_name" : "Concepcion",
+  "case_number" : "2008-963a"
+}
+, {
+  "date" : "2011-03-10T00:00:00",
+  "fine_paid_to_coib" : "3500",
+  "agency" : "HHC",
+  "case_name" : "Tabaei",
+  "case_number" : "2009-651"
+}
+, {
+  "date" : "2011-03-09T00:00:00",
+  "agency" : "DOE",
+  "case_name" : "Walker",
+  "case_number" : "2010-165",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign & never return to DOE employment"
+}
+, {
+  "date" : "2011-03-07T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "agency" : "DOC",
+  "case_name" : "Armstead",
+  "case_number" : "2008-503"
+}
+, {
+  "date" : "2011-03-07T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOHMH",
+  "case_name" : "James",
+  "case_number" : "2008-747"
+}
+, {
+  "date" : "2011-02-15T00:00:00",
+  "agency" : "DOE",
+  "case_name" : "Lumpkins-Moses",
+  "case_number" : "2010-657",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "7500"
+}
+, {
+  "date" : "2011-02-09T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Hall",
+  "case_number" : "2010-492",
+  "suspension_value" : "3695.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2011-02-09T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Wright",
+  "case_number" : "2010-278",
+  "suspension_value" : "6972.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "60"
+}
+, {
+  "date" : "2011-02-07T00:00:00",
+  "fine_paid_to_coib" : "1100",
+  "agency" : "BBP",
+  "case_name" : "Scissura",
+  "case_number" : "2009-849a"
+}
+, {
+  "date" : "2011-02-07T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "BBP",
+  "case_name" : "Markowitz",
+  "case_number" : "2009-849"
+}
+, {
+  "date" : "2011-02-02T00:00:00",
+  "agency" : "DOE",
+  "case_name" : "Cadet",
+  "case_number" : "2010-540",
+  "suspension_value" : "848.40",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2011-02-02T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "HHC",
+  "case_name" : "Padilla",
+  "case_number" : "2010-742"
+}
+, {
+  "date" : "2011-02-01T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "HPD",
+  "case_name" : "Koonce",
+  "case_number" : "2006-773",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was forgiven"
+}
+, {
+  "date" : "2011-02-01T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Graham",
+  "case_number" : "2010-521",
+  "suspension_value" : "9079.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "One year probation",
+  "suspension_of_days" : "45"
+}
+, {
+  "date" : "2011-02-01T00:00:00",
+  "fine_paid_to_coib" : "12500",
+  "agency" : "FDNY",
+  "case_name" : "Peruggia",
+  "case_number" : "2010-442",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2011-01-31T00:00:00",
+  "other_penalty" : "$4,494",
+  "agency" : "DOHMH",
+  "case_name" : "Mark",
+  "case_number" : "2010-874",
+  "suspension_value" : "4494.20",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "20 days annual leave forfeited",
+  "fine_paid_to_agency" : "4000",
+  "suspension_of_days" : "20"
+}
+, {
+  "date" : "2011-01-31T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Anderson",
+  "case_number" : "2010-893",
+  "suspension_value" : "7303.96",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Transferred to another unit",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2010-12-27T00:00:00",
+  "fine_paid_to_coib" : "14000",
+  "agency" : "DOE",
+  "case_name" : "Rizzo",
+  "case_number" : "2010-610"
+}
+, {
+  "date" : "2010-12-22T00:00:00",
+  "agency" : "HPD",
+  "case_name" : "Acevedo",
+  "case_number" : "2010-126",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign"
+}
+, {
+  "date" : "2010-12-22T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "Karim",
+  "case_number" : "2010-242",
+  "suspension_value" : "3082.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2010-12-21T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "SCA",
+  "case_name" : "Crispiano",
+  "case_number" : "2010-014"
+}
+, {
+  "date" : "2010-12-20T00:00:00",
+  "fine_paid_to_coib" : "2250",
+  "agency" : "DOE",
+  "case_name" : "Angelidakis",
+  "case_number" : "2010-234a",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2010-12-20T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "Halpern",
+  "case_number" : "2010-234b",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2010-12-20T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "Nussbaum",
+  "case_number" : "2010-234c",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2010-12-20T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Vazquez",
+  "case_number" : "2010-768",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign & never return to DOHMH employment"
+}
+, {
+  "date" : "2010-11-18T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Woods",
+  "case_number" : "2010-296",
+  "suspension_value" : "2490.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "20"
+}
+, {
+  "date" : "2010-11-18T00:00:00",
+  "agency" : "HPD",
+  "case_name" : "Orah",
+  "case_number" : "2010-661",
+  "suspension_value" : "8464.44",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "60"
+}
+, {
+  "date" : "2010-11-08T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DOHMH",
+  "case_name" : "McNeil",
+  "case_number" : "2009-307",
+  "exp_of_amount_paid_to_coib" : "Although respondent did appear at the trial,  the Board fine has not yet been collected"
+}
+, {
+  "date" : "2010-11-08T00:00:00",
+  "fine_paid_to_coib" : "6000",
+  "agency" : "NYCHA",
+  "case_name" : "Mitchell",
+  "case_number" : "2008-397"
+}
+, {
+  "date" : "2010-11-08T00:00:00",
+  "fine_paid_to_coib" : "20000",
+  "agency" : "NYCHA",
+  "case_name" : "Fischetti",
+  "case_number" : "2010-035"
+}
+, {
+  "date" : "2010-11-01T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Mendez",
+  "case_number" : "2010-338",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign & never return to City employment"
+}
+, {
+  "date" : "2010-11-01T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Bradley",
+  "case_number" : "2010-558",
+  "suspension_value" : "571.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "3"
+}
+, {
+  "date" : "2010-11-01T00:00:00",
+  "agency" : "DOE",
+  "case_name" : "Bollera",
+  "case_number" : "2010-446",
+  "other_penalty_value" : "Terminated"
+}
+, {
+  "date" : "2010-10-20T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "HPD",
+  "case_name" : "Jones",
+  "case_number" : "2008-602"
+}
+, {
+  "date" : "2010-10-19T00:00:00",
+  "agency" : "FDNY",
+  "case_name" : "Yung",
+  "case_number" : "2009-465",
+  "suspension_value" : "2060.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "6"
+}
+, {
+  "date" : "2010-10-14T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "HRA",
+  "case_name" : "Agbaje",
+  "case_number" : "2009-514"
+}
+, {
+  "date" : "2010-10-04T00:00:00",
+  "fine_paid_to_coib" : "2250",
+  "agency" : "DSNY",
+  "case_name" : "Kayola",
+  "case_number" : "2010-491"
+}
+, {
+  "date" : "2010-10-04T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DCAS",
+  "case_name" : "Currie",
+  "case_number" : "2010-051"
+}
+, {
+  "date" : "2010-09-30T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Griffen-Cruz",
+  "case_number" : "2010-345",
+  "suspension_value" : "1161.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2010-09-23T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Coward",
+  "case_number" : "2010-433",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Retire & never return to DSNY employment or City for 5 years"
+}
+, {
+  "date" : "2010-09-01T00:00:00",
+  "other_penalty" : "$5,303",
+  "agency" : "DOHMH",
+  "case_name" : "John",
+  "case_number" : "2008-756",
+  "suspension_value" : "6005.34",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "136 hours of annual leave forfeited; resign & never return to City employment",
+  "suspension_of_days" : "22"
+}
+, {
+  "date" : "2010-08-26T00:00:00",
+  "fine_paid_to_coib" : "900",
+  "agency" : "NYCHA",
+  "case_name" : "Chabot",
+  "case_number" : "2010-067",
+  "suspension_value" : "3890.00",
+  "exp_of_amount_paid_to_coib" : "In setting the amount of the fine, the Board took into consideration that respondent was suspended by his agency for 30 days, valued at approx. $3,890",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2010-08-26T00:00:00",
+  "fine_paid_to_coib" : "2400",
+  "agency" : "DOE",
+  "case_name" : "Holder",
+  "case_number" : "2009-466",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2010-08-26T00:00:00",
+  "agency" : "DEP",
+  "case_name" : "Speranza",
+  "case_number" : "2010-245",
+  "suspension_value" : "1495.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "8"
+}
+, {
+  "date" : "2010-08-23T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOT",
+  "case_name" : "King",
+  "case_number" : "2010-299"
+}
+, {
+  "date" : "2010-08-23T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Simpkins",
+  "case_number" : "2010-424",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "2500"
+}
+, {
+  "date" : "2010-08-23T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Oates",
+  "case_number" : "2010-432",
+  "suspension_value" : "2371.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign",
+  "suspension_of_days" : "19"
+}
+, {
+  "date" : "2010-08-09T00:00:00",
+  "fine_paid_to_coib" : "1750",
+  "agency" : "NYCHA",
+  "case_name" : "Romano",
+  "case_number" : "2009-686",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2010-07-19T00:00:00",
+  "other_penalty" : "$2,939",
+  "agency" : "DEP",
+  "case_name" : "Clare",
+  "case_number" : "2010-315",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Criminal restitution, resign & never return to DEP employment or City for 5 years"
+}
+, {
+  "date" : "2010-07-13T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Simmons",
+  "case_number" : "2010-097",
+  "suspension_value" : "1083.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "7"
+}
+, {
+  "date" : "2010-07-12T00:00:00",
+  "fine_paid_to_coib" : "1750",
+  "agency" : "DCAS",
+  "case_name" : "Duncan",
+  "case_number" : "2010-005"
+}
+, {
+  "date" : "2010-07-06T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DOB",
+  "case_name" : "Reid",
+  "case_number" : "2008-547"
+}
+, {
+  "date" : "2010-06-29T00:00:00",
+  "agency" : "DOE",
+  "case_name" : "Williams",
+  "case_number" : "2009-598b",
+  "suspension_value" : "4884.00",
+  "suspension_of_days" : "75"
+}
+, {
+  "date" : "2010-06-29T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "Parks",
+  "case_name" : "Macaluso",
+  "case_number" : "2008-759"
+}
+, {
+  "date" : "2010-06-29T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOF",
+  "case_name" : "Rubin",
+  "case_number" : "2009-398"
+}
+, {
+  "date" : "2010-06-29T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Ingram",
+  "case_number" : "2009-265",
+  "suspension_value" : "1357.00",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2010-06-03T00:00:00",
+  "fine_paid_to_coib" : "950",
+  "agency" : "DOHMH",
+  "case_name" : "Gill",
+  "case_number" : "2007-773a"
+}
+, {
+  "date" : "2010-06-02T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOHMH",
+  "case_name" : "Kolowski",
+  "case_number" : "2006-772",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2010-06-02T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOHMH",
+  "case_name" : "Fisher",
+  "case_number" : "2006-772a",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2010-06-02T00:00:00",
+  "fine_paid_to_coib" : "800",
+  "other_penalty" : "$802",
+  "agency" : "Parks",
+  "case_name" : "McKinney",
+  "case_number" : "2010-103",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Restitution"
+}
+, {
+  "date" : "2010-05-19T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Siyanbola",
+  "case_number" : "2009-687",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign"
+}
+, {
+  "date" : "2010-05-19T00:00:00",
+  "fine_paid_to_coib" : "250",
+  "agency" : "DEP",
+  "case_name" : "Jamal",
+  "case_number" : "2009-814",
+  "suspension_value" : "903.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "3"
+}
+, {
+  "date" : "2010-05-11T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "Aponte",
+  "case_number" : "2009-486",
+  "suspension_value" : "612.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2010-05-11T00:00:00",
+  "fine_paid_to_coib" : "7500",
+  "agency" : "ACS",
+  "case_name" : "Tieku",
+  "case_number" : "2009-099",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was forgiven"
+}
+, {
+  "date" : "2010-05-11T00:00:00",
+  "fine_paid_to_coib" : "7500",
+  "agency" : "HRA",
+  "case_name" : "Roberts",
+  "case_number" : "2009-403"
+}
+, {
+  "date" : "2010-05-04T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Eliopoulos",
+  "case_number" : "2010-212",
+  "suspension_value" : "1567.02",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "6"
+}
+, {
+  "date" : "2010-05-03T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "DOE",
+  "case_name" : "Cid",
+  "case_number" : "2010-077a"
+}
+, {
+  "date" : "2010-05-03T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "DOE",
+  "case_name" : "Piazza",
+  "case_number" : "2010-077"
+}
+, {
+  "date" : "2010-05-03T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "HHC",
+  "case_name" : "Dunn",
+  "case_number" : "2008-648a"
+}
+, {
+  "date" : "2010-05-03T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "City Council",
+  "case_name" : "Stewart",
+  "case_number" : "2008-246b"
+}
+, {
+  "date" : "2010-05-03T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "NYCHA",
+  "case_name" : "Eng",
+  "case_number" : "2010-035a"
+}
+, {
+  "date" : "2010-04-15T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "other_penalty" : "$1,048",
+  "agency" : "DOHMH",
+  "case_name" : "Wright",
+  "case_number" : "2009-646",
+  "suspension_value" : "1047.55",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "5 days annual leave forfeited",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2010-04-15T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Williams",
+  "case_number" : "2009-852",
+  "suspension_value" : "2714.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "20"
+}
+, {
+  "date" : "2010-04-15T00:00:00",
+  "fine_paid_to_coib" : "400",
+  "agency" : "DEP",
+  "case_name" : "Hines",
+  "case_number" : "2009-261",
+  "suspension_value" : "2124.60",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2010-04-15T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "ACS",
+  "case_name" : "Colbert",
+  "case_number" : "2007-695",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was forgiven"
+}
+, {
+  "date" : "2010-04-13T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "DOE",
+  "case_name" : "Velez Rivera",
+  "case_number" : "2009-542",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2010-04-13T00:00:00",
+  "fine_paid_to_coib" : "900",
+  "agency" : "DOE",
+  "case_name" : "Maliaros",
+  "case_number" : "2009-445"
+}
+, {
+  "date" : "2010-04-08T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Paulk",
+  "case_number" : "2009-204",
+  "suspension_value" : "1144.00",
+  "suspension_of_days" : "6"
+}
+, {
+  "date" : "2010-03-05T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DORIS",
+  "case_name" : "Roberts",
+  "case_number" : "2008-562"
+}
+, {
+  "date" : "2010-03-02T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "DOE",
+  "case_name" : "Robinson",
+  "case_number" : "2009-600"
+}
+, {
+  "date" : "2010-03-02T00:00:00",
+  "fine_paid_to_coib" : "13500",
+  "agency" : "HHC",
+  "case_name" : "Ricciardi",
+  "case_number" : "2008-648"
+}
+, {
+  "date" : "2010-03-02T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "City Council",
+  "case_name" : "Reid",
+  "case_number" : "2008-246"
+}
+, {
+  "date" : "2010-03-01T00:00:00",
+  "fine_paid_to_coib" : "1750",
+  "agency" : "DCAS",
+  "case_name" : "Baker",
+  "case_number" : "2009-723"
+}
+, {
+  "date" : "2010-02-02T00:00:00",
+  "fine_paid_to_coib" : "6000",
+  "agency" : "DSNY",
+  "case_name" : "Holchendler",
+  "case_number" : "2007-635"
+}
+, {
+  "date" : "2010-02-02T00:00:00",
+  "agency" : "DOE",
+  "case_name" : "Cohen-Brown",
+  "case_number" : "2009-053a",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "3500"
+}
+, {
+  "date" : "2010-02-01T00:00:00",
+  "fine_paid_to_coib" : "5000",
+  "agency" : "DOE",
+  "case_name" : "Dziekanowski",
+  "case_number" : "2007-155",
+  "suspension_value" : "6747.00",
+  "exp_of_amount_paid_to_coib" : "In setting the amount of the fine, the Board took into consideration that respondent was suspended by his agency for 30 days, valued at approx. $6,747",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2010-02-01T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "City Council",
+  "case_name" : "Keaney",
+  "case_number" : "2009-690"
+}
+, {
+  "date" : "2010-01-28T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "ACS",
+  "case_name" : "Avinger",
+  "case_number" : "2009-312",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was reduced  from $3,000 to $500"
+}
+, {
+  "date" : "2010-01-11T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "Parks",
+  "case_name" : "Rosa",
+  "case_number" : "2009-062",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2010-01-06T00:00:00",
+  "fine_paid_to_coib" : "5000",
+  "agency" : "NYC-TV",
+  "case_name" : "Wierson",
+  "case_number" : "2009-226a"
+}
+, {
+  "date" : "2009-12-22T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "ACS",
+  "case_name" : "Wright",
+  "case_number" : "2009-351",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was reduced  from $3,000 to $1,000"
+}
+, {
+  "date" : "2009-12-22T00:00:00",
+  "fine_paid_to_coib" : "750",
+  "agency" : "ACS",
+  "case_name" : "Gray",
+  "case_number" : "2008-948",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was reduced  from $1,500 to $750"
+}
+, {
+  "date" : "2009-12-22T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DOE",
+  "case_name" : "Mateo",
+  "case_number" : "2008-805",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was forgiven"
+}
+, {
+  "date" : "2009-12-16T00:00:00",
+  "other_penalty" : "$1,500",
+  "agency" : "FDNY",
+  "case_name" : "Paige",
+  "case_number" : "2009-391",
+  "suspension_value" : "1136.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Loan repayment",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2009-12-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Jack",
+  "case_number" : "2008-923a",
+  "suspension_value" : "2412.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "9"
+}
+, {
+  "date" : "2009-12-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Coward",
+  "case_number" : "2008-923",
+  "suspension_value" : "2412.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "9"
+}
+, {
+  "date" : "2009-12-14T00:00:00",
+  "agency" : "DOF",
+  "case_name" : "Racicot",
+  "case_number" : "2009-046",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "3000"
+}
+, {
+  "date" : "2009-12-14T00:00:00",
+  "agency" : "DOE",
+  "case_name" : "Hicks",
+  "case_number" : "2009-085",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "750"
+}
+, {
+  "date" : "2009-12-08T00:00:00",
+  "fine_paid_to_coib" : "10000",
+  "agency" : "HRA",
+  "case_name" : "Smart",
+  "case_number" : "2008-861",
+  "exp_of_amount_paid_to_coib" : "Respondent did not appear at the trial, so the Board fine has not yet been collected"
+}
+, {
+  "date" : "2009-12-02T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "ACS",
+  "case_name" : "Bryant",
+  "case_number" : "2008-792"
+}
+, {
+  "date" : "2009-12-02T00:00:00",
+  "agency" : "DHS",
+  "case_name" : "Watts",
+  "case_number" : "2009-381",
+  "suspension_value" : "870.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2009-12-02T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Winfrey",
+  "case_number" : "2009-082",
+  "suspension_value" : "1586.00",
+  "_3_way_settlement" : "X",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial shardship, the Board accepted the penalty imposed by the agency of $1,586, instead of the Board fine of $3,000 ",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2009-12-01T00:00:00",
+  "fine_paid_to_coib" : "6000",
+  "agency" : "DOE",
+  "case_name" : "Pettinato",
+  "case_number" : "2008-911",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1500"
+}
+, {
+  "date" : "2009-11-24T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "HPD",
+  "case_name" : "Cuffy",
+  "case_number" : "2008-271"
+}
+, {
+  "date" : "2009-11-23T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "HRA",
+  "case_name" : "Williams",
+  "case_number" : "2006-045"
+}
+, {
+  "date" : "2009-11-23T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "HRA",
+  "case_name" : "R. Brewster",
+  "case_number" : "2008-390"
+}
+, {
+  "date" : "2009-10-26T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Fox",
+  "case_number" : "2007-588"
+}
+, {
+  "date" : "2009-10-21T00:00:00",
+  "fine_paid_to_coib" : "12500",
+  "agency" : "HHC",
+  "case_name" : "Perez",
+  "case_number" : "2004-220"
+}
+, {
+  "date" : "2009-10-21T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "DOE",
+  "case_name" : "Mason-Bell",
+  "case_number" : "2009-416"
+}
+, {
+  "date" : "2009-10-20T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "Brown",
+  "case_number" : "2009-140",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1300"
+}
+, {
+  "date" : "2009-10-20T00:00:00",
+  "fine_paid_to_coib" : "7500",
+  "agency" : "HRA",
+  "case_name" : "Beza",
+  "case_number" : "2009-024",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was forgiven"
+}
+, {
+  "date" : "2009-10-19T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Anthony",
+  "case_number" : "2009-479",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1400"
+}
+, {
+  "date" : "2009-10-15T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Maslin",
+  "case_number" : "2008-531"
+}
+, {
+  "date" : "2009-10-15T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "King",
+  "case_number" : "2009-576",
+  "suspension_value" : "6100.33",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "60"
+}
+, {
+  "date" : "2009-09-29T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Eisenberg",
+  "case_number" : "2007-626"
+}
+, {
+  "date" : "2009-09-29T00:00:00",
+  "other_penalty" : "$762",
+  "agency" : "DOHMH",
+  "case_name" : "Pittman",
+  "case_number" : "2009-482",
+  "suspension_value" : "761.50",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "5 days annual leave forfeited",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2009-09-29T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "McNeil",
+  "case_number" : "2009-224",
+  "suspension_value" : "1420.08",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2009-09-29T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DHS",
+  "case_name" : "Proctor",
+  "case_number" : "2008-274"
+}
+, {
+  "date" : "2009-09-29T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "DeSanctis",
+  "case_number" : "2009-144",
+  "suspension_value" : "4695.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2009-09-29T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "HRA",
+  "case_name" : "Kundu",
+  "case_number" : "2008-303"
+}
+, {
+  "date" : "2009-09-29T00:00:00",
+  "agency" : "DOT",
+  "case_name" : "Baksh",
+  "case_number" : "2008-802",
+  "suspension_value" : "1644.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2009-09-29T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Ayinde",
+  "case_number" : "2009-480",
+  "suspension_value" : "1412.46",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "7"
+}
+, {
+  "date" : "2009-09-29T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "EDC",
+  "case_name" : "Sirefman",
+  "case_number" : "2007-847"
+}
+, {
+  "date" : "2009-09-09T00:00:00",
+  "other_penalty" : "$330",
+  "agency" : "DOHMH",
+  "case_name" : "Patrick",
+  "case_number" : "2009-481",
+  "suspension_value" : "219.94",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "3 days annual leave forfeited",
+  "suspension_of_days" : "2"
+}
+, {
+  "date" : "2009-09-08T00:00:00",
+  "other_penalty" : "$1,994",
+  "agency" : "DCAS",
+  "case_name" : "Campbell",
+  "case_number" : "2009-122",
+  "suspension_value" : "2999.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "10 days annual leave forfeited",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2009-08-27T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOE",
+  "case_name" : "Cora",
+  "case_number" : "2008-872",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, after respondent paid $500, the Board forgave the remainder of the $2,500 fine "
+}
+, {
+  "date" : "2009-08-27T00:00:00",
+  "fine_paid_to_coib" : "900",
+  "agency" : "HRA",
+  "case_name" : "Finkenberg",
+  "case_number" : "2009-029",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, after respondent paid $900, the Board forgave the remainder of the $1,500 fine "
+}
+, {
+  "date" : "2009-08-27T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Calvin",
+  "case_number" : "2008-729",
+  "suspension_value" : "2491.55",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "16"
+}
+, {
+  "date" : "2009-08-27T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "DOE",
+  "case_name" : "Knowles",
+  "case_number" : "2008-582"
+}
+, {
+  "date" : "2009-08-27T00:00:00",
+  "agency" : "OCME",
+  "case_name" : "Purvis",
+  "case_number" : "2009-498",
+  "suspension_value" : "1433.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2009-08-10T00:00:00",
+  "fine_paid_to_coib" : "3500",
+  "agency" : "DOHMH",
+  "case_name" : "Dorsinville",
+  "case_number" : "2007-218; 2008-530"
+}
+, {
+  "date" : "2009-07-28T00:00:00",
+  "fine_paid_to_coib" : "15000",
+  "agency" : "DOE",
+  "case_name" : "Green",
+  "case_number" : "2008-881"
+}
+, {
+  "date" : "2009-07-28T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "NYCHA",
+  "case_name" : "Byrne",
+  "case_number" : "2008-825"
+}
+, {
+  "date" : "2009-07-28T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "NYCHA",
+  "case_name" : "Samuels",
+  "case_number" : "2008-910",
+  "suspension_value" : "586.00",
+  "exp_of_amount_paid_to_coib" : "In setting the amount of the fine, the Board took into consideration that respondent was suspended by his agency for 3 days, valued at approx. $586",
+  "suspension_of_days" : "3"
+}
+, {
+  "date" : "2009-07-23T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Spann",
+  "case_number" : "2009-399",
+  "suspension_value" : "1325.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2009-07-20T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "NYCHA",
+  "case_name" : "Hall",
+  "case_number" : "2008-348",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1500"
+}
+, {
+  "date" : "2009-07-13T00:00:00",
+  "fine_paid_to_coib" : "1450",
+  "agency" : "DOF",
+  "case_name" : "Keeney",
+  "case_number" : "2007-565"
+}
+, {
+  "date" : "2009-07-13T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "Vazquez",
+  "case_number" : "2009-241",
+  "suspension_value" : "10164.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "44"
+}
+, {
+  "date" : "2009-07-09T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Miller",
+  "case_number" : "2009-227",
+  "suspension_value" : "1597.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "6"
+}
+, {
+  "date" : "2009-07-09T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "ECB",
+  "case_name" : "Edwards",
+  "case_number" : "2008-131",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Demoted & reassigned"
+}
+, {
+  "date" : "2009-07-08T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Sheiner",
+  "case_number" : "2009-177",
+  "suspension_value" : "1274.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2009-07-07T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "ACS",
+  "case_name" : "Belenky",
+  "case_number" : "2009-279"
+}
+, {
+  "date" : "2009-07-06T00:00:00",
+  "agency" : "Parks",
+  "case_name" : "Keene",
+  "case_number" : "2008-260",
+  "suspension_value" : "2300.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2009-07-06T00:00:00",
+  "other_penalty" : "$6,290",
+  "agency" : "DEP",
+  "case_name" : "Fenves",
+  "case_number" : "2009-262",
+  "suspension_value" : "6290.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "12 days annual leave forfeited"
+}
+, {
+  "date" : "2009-06-09T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "Lucks",
+  "case_number" : "2008-962a"
+}
+, {
+  "date" : "2009-06-08T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "HHC",
+  "case_name" : "Constantino",
+  "case_number" : "2008-355"
+}
+, {
+  "date" : "2009-06-01T00:00:00",
+  "fine_paid_to_coib" : "600",
+  "agency" : "DOE",
+  "case_name" : "Hahn",
+  "case_number" : "2008-929"
+}
+, {
+  "date" : "2009-06-01T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Gabrielsen",
+  "case_number" : "2009-192",
+  "suspension_value" : "1492.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "7"
+}
+, {
+  "date" : "2009-05-06T00:00:00",
+  "agency" : "DOE",
+  "case_name" : "Core",
+  "case_number" : "2008-237a",
+  "suspension_value" : "7904.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2009-05-05T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Guerrero",
+  "case_number" : "2008-922",
+  "suspension_value" : "3822.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2009-05-04T00:00:00",
+  "fine_paid_to_coib" : "20000",
+  "agency" : "DOE",
+  "case_name" : "O’Brien",
+  "case_number" : "2008-960"
+}
+, {
+  "date" : "2009-05-04T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "NYCHA",
+  "case_name" : "Richardson",
+  "case_number" : "2008-527"
+}
+, {
+  "date" : "2009-05-04T00:00:00",
+  "fine_paid_to_coib" : "400",
+  "agency" : "HRA",
+  "case_name" : "Purdie",
+  "case_number" : "2008-687",
+  "suspension_value" : "1671.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "11"
+}
+, {
+  "date" : "2009-05-04T00:00:00",
+  "fine_paid_to_coib" : "6000",
+  "agency" : "DEP",
+  "case_name" : "Tharasavat",
+  "case_number" : "2008-236"
+}
+, {
+  "date" : "2009-05-04T00:00:00",
+  "other_penalty" : "$41,035",
+  "agency" : "HRA",
+  "case_name" : "Medal",
+  "case_number" : "2008-744",
+  "other_penalty_value" : "Criminal restitution"
+}
+, {
+  "date" : "2009-05-04T00:00:00",
+  "fine_paid_to_coib" : "2750",
+  "agency" : "ACS",
+  "case_name" : "Davey",
+  "case_number" : "2008-635"
+}
+, {
+  "date" : "2009-05-04T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Abiodun",
+  "case_number" : "2005-612",
+  "suspension_value" : "1466.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "13"
+}
+, {
+  "date" : "2009-04-16T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "OPA",
+  "case_name" : "Winfield",
+  "case_number" : "2008-823"
+}
+, {
+  "date" : "2009-04-13T00:00:00",
+  "fine_paid_to_coib" : "750",
+  "agency" : "DOF",
+  "case_name" : "Horowitz",
+  "case_number" : "2007-565a"
+}
+, {
+  "date" : "2009-04-08T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Pottinger",
+  "case_number" : "2009-063",
+  "suspension_value" : "817.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2009-04-08T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "City Planning",
+  "case_name" : "Chen",
+  "case_number" : "2008-688"
+}
+, {
+  "date" : "2009-04-07T00:00:00",
+  "fine_paid_to_coib" : "3250",
+  "agency" : "OCME",
+  "case_name" : "Ribowsky",
+  "case_number" : "2008-478"
+}
+, {
+  "date" : "2009-04-06T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "agency" : "DCAS",
+  "case_name" : "Forsythe",
+  "case_number" : "2008-192"
+}
+, {
+  "date" : "2009-04-06T00:00:00",
+  "fine_paid_to_coib" : "1200",
+  "agency" : "Parks",
+  "case_name" : "Smith",
+  "case_number" : "2008-301"
+}
+, {
+  "date" : "2009-04-06T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Candelario",
+  "case_number" : "2008-387",
+  "suspension_value" : "3074.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "21"
+}
+, {
+  "date" : "2009-04-06T00:00:00",
+  "fine_paid_to_coib" : "1150",
+  "agency" : "DOE",
+  "case_name" : "Borowiec",
+  "case_number" : "2008-555 "
+}
+, {
+  "date" : "2009-04-06T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Bastawros",
+  "case_number" : "2009-045",
+  "suspension_value" : "5000.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "25"
+}
+, {
+  "date" : "2009-03-10T00:00:00",
+  "fine_paid_to_coib" : "12000",
+  "agency" : "SLA",
+  "case_name" : "Piscitelli",
+  "case_number" : "2007-745"
+}
+, {
+  "date" : "2009-03-05T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DEP",
+  "case_name" : "Benson",
+  "case_number" : "2007-297"
+}
+, {
+  "date" : "2009-03-04T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DHS",
+  "case_name" : "James",
+  "case_number" : "2006-462",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was forgiven"
+}
+, {
+  "date" : "2009-03-03T00:00:00",
+  "agency" : "OCME",
+  "case_name" : "McFadzean",
+  "case_number" : "2008-941",
+  "suspension_value" : "1472.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "11"
+}
+, {
+  "date" : "2009-03-03T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Hayes",
+  "case_number" : "2008-943",
+  "suspension_value" : "699.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "3"
+}
+, {
+  "date" : "2009-03-02T00:00:00",
+  "fine_paid_to_coib" : "6626",
+  "agency" : "ACS",
+  "case_name" : "Henry",
+  "case_number" : "2008-006",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was forgiven"
+}
+, {
+  "date" : "2009-03-02T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DSNY",
+  "case_name" : "Qureshi",
+  "case_number" : "2008-760"
+}
+, {
+  "date" : "2009-03-02T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "FDNY",
+  "case_name" : "Kwok",
+  "case_number" : "2008-504"
+}
+, {
+  "date" : "2009-02-26T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Burgos",
+  "case_number" : "2008-326",
+  "suspension_value" : "8232.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "60"
+}
+, {
+  "date" : "2009-02-19T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "King",
+  "case_number" : "2008-681",
+  "suspension_value" : "562.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "3"
+}
+, {
+  "date" : "2009-02-18T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DOE",
+  "case_name" : "Alejandro",
+  "case_number" : "2008-581"
+}
+, {
+  "date" : "2009-02-10T00:00:00",
+  "agency" : "DEP",
+  "case_name" : "Tangredi",
+  "case_number" : "2008-434",
+  "suspension_value" : "839.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2009-02-09T00:00:00",
+  "agency" : "DEP",
+  "case_name" : "Geraghty",
+  "case_number" : "2008-368a",
+  "suspension_value" : "4826.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2009-02-09T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Murrell",
+  "case_number" : "2008-481",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was reduced from $3,000 to $1,000"
+}
+, {
+  "date" : "2009-02-04T00:00:00",
+  "other_penalty" : "$2,070",
+  "agency" : "DOHMH",
+  "case_name" : "Teriba",
+  "case_number" : "2008-719",
+  "suspension_value" : "1034.85",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "10 days annual leave forfeited",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2009-02-04T00:00:00",
+  "other_penalty" : "$338",
+  "agency" : "DOHMH",
+  "case_name" : "Conton",
+  "case_number" : "2008-921",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "3 days annual leave forfeited",
+  "suspension_of_days" : "3"
+}
+, {
+  "date" : "2009-02-04T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "NYPD",
+  "case_name" : "Buccigrossi",
+  "case_number" : "2004-750"
+}
+, {
+  "date" : "2009-02-03T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "ACS",
+  "case_name" : "Leigh",
+  "case_number" : "2006-640"
+}
+, {
+  "date" : "2009-01-29T00:00:00",
+  "agency" : "Parks",
+  "case_name" : "Brenner",
+  "case_number" : "2008-716",
+  "fine_paid_to_agency" : "11000"
+}
+, {
+  "date" : "2009-01-29T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DDC",
+  "case_name" : "Dodson",
+  "case_number" : "2007-330"
+}
+, {
+  "date" : "2009-01-12T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "FDNY",
+  "case_name" : "Santana",
+  "case_number" : "2008-374"
+}
+, {
+  "date" : "2008-12-30T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "Hubert",
+  "case_number" : "2008-267a",
+  "suspension_value" : "2882.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "20"
+}
+, {
+  "date" : "2008-12-22T00:00:00",
+  "fine_paid_to_coib" : "7500",
+  "agency" : "DOE",
+  "case_name" : "Bryan",
+  "case_number" : "2005-748",
+  "exp_of_amount_paid_to_coib" : "Respondent did not appear at the trial, so the Board fine has not yet been collected"
+}
+, {
+  "date" : "2008-12-22T00:00:00",
+  "other_penalty" : "$291",
+  "agency" : "ACS",
+  "case_name" : "Wiltshire",
+  "case_number" : "2008-604",
+  "suspension_value" : "3495.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Restitution",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2008-12-18T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "OCME",
+  "case_name" : "Shaler",
+  "case_number" : "2008-478a"
+}
+, {
+  "date" : "2008-12-17T00:00:00",
+  "fine_paid_to_coib" : "600",
+  "agency" : "Parks",
+  "case_name" : "Bradley",
+  "case_number" : "2008-423b"
+}
+, {
+  "date" : "2008-12-17T00:00:00",
+  "fine_paid_to_coib" : "750",
+  "agency" : "DCAS",
+  "case_name" : "LaBush",
+  "case_number" : "2005-588"
+}
+, {
+  "date" : "2008-12-15T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "NYCHA",
+  "case_name" : "Miraglia",
+  "case_number" : "2007-813"
+}
+, {
+  "date" : "2008-12-15T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Alfred",
+  "case_number" : "2007-686",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2008-12-10T00:00:00",
+  "fine_paid_to_coib" : "800",
+  "agency" : "DOE",
+  "case_name" : "Valvo",
+  "case_number" : "2007-479"
+}
+, {
+  "date" : "2008-11-24T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "DOE",
+  "case_name" : "Rosado",
+  "case_number" : "2008-376",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2008-11-24T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "DOE",
+  "case_name" : "Ballard",
+  "case_number" : "2007-431"
+}
+, {
+  "date" : "2008-11-24T00:00:00",
+  "fine_paid_to_coib" : "1800",
+  "agency" : "DOC",
+  "case_name" : "Bryk",
+  "case_number" : "2008-706",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2008-11-17T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "Parks",
+  "case_name" : "Pittari",
+  "case_number" : "2008-077"
+}
+, {
+  "date" : "2008-11-05T00:00:00",
+  "fine_paid_to_coib" : "7000",
+  "agency" : "ACS",
+  "case_name" : "Okanome",
+  "case_number" : "2005-132",
+  "exp_of_amount_paid_to_coib" : "Respondent did not appear at the trial, so the Board fine has not yet been collected"
+}
+, {
+  "date" : "2008-11-05T00:00:00",
+  "fine_paid_to_coib" : "750",
+  "agency" : "NYCERS",
+  "case_name" : "Ramsami",
+  "case_number" : "2007-627"
+}
+, {
+  "date" : "2008-10-30T00:00:00",
+  "agency" : "DOE",
+  "case_name" : "Elliott",
+  "case_number" : "2008-331",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1000"
+}
+, {
+  "date" : "2008-10-30T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "DOE",
+  "case_name" : "Bourbeau",
+  "case_number" : "2007-442",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign"
+}
+, {
+  "date" : "2008-10-29T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Salgado",
+  "case_number" : "2008-296",
+  "suspension_value" : "11020.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "44"
+}
+, {
+  "date" : "2008-10-29T00:00:00",
+  "fine_paid_to_coib" : "250",
+  "agency" : "DSNY",
+  "case_name" : "Geddes",
+  "case_number" : "2008-122",
+  "suspension_value" : "561.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "3"
+}
+, {
+  "date" : "2008-10-28T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Ng-A-Qui",
+  "case_number" : "2008-352",
+  "suspension_value" : "1563.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "6"
+}
+, {
+  "date" : "2008-10-27T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "HRA",
+  "case_name" : "Soto",
+  "case_number" : "2007-261",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was reduced from $3,500 to $1,500"
+}
+, {
+  "date" : "2008-10-27T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "DeFabbia",
+  "case_number" : "2007-670"
+}
+, {
+  "date" : "2008-10-22T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Adkins",
+  "case_number" : "2008-543",
+  "suspension_value" : "1003.76",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "8"
+}
+, {
+  "date" : "2008-10-21T00:00:00",
+  "other_penalty" : "$770",
+  "agency" : "DHS",
+  "case_name" : "Proctor",
+  "case_number" : "2008-256",
+  "suspension_value" : "1499.50",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "7 days annual leave forfeited",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2008-10-20T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOE",
+  "case_name" : "Grandt",
+  "case_number" : "2008-609"
+}
+, {
+  "date" : "2008-10-20T00:00:00",
+  "fine_paid_to_coib" : "750",
+  "agency" : "DOB",
+  "case_name" : "Tsarsis",
+  "case_number" : "2008-624"
+}
+, {
+  "date" : "2008-09-29T00:00:00",
+  "fine_paid_to_coib" : "5000",
+  "other_penalty" : "$37,000",
+  "agency" : "NYPD",
+  "case_name" : "Byrne",
+  "case_number" : "2005-243",
+  "other_penalty_value" : "Terminal leave forfeited",
+  "exp_of_amount_paid_to_coib" : "In setting the amount of the fine, the Board took into consideration that respondent forfeited terminal leave valued at approximately $37,000"
+}
+, {
+  "date" : "2008-09-24T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Nash-Daniel",
+  "case_number" : "2008-472",
+  "suspension_value" : "1496.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "8"
+}
+, {
+  "date" : "2008-09-24T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Miller",
+  "case_number" : "2008-536",
+  "suspension_value" : "550.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-09-24T00:00:00",
+  "agency" : "DOHMH",
+  "case_name" : "Wordsworth",
+  "case_number" : "2008-585",
+  "suspension_value" : "623.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-09-23T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "EDC",
+  "case_name" : "Greco",
+  "case_number" : "2008-423"
+}
+, {
+  "date" : "2008-09-22T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOE",
+  "case_name" : "Gray",
+  "case_number" : "2007-777"
+}
+, {
+  "date" : "2008-09-22T00:00:00",
+  "fine_paid_to_coib" : "11500",
+  "agency" : "EDC",
+  "case_name" : "Mir",
+  "case_number" : "2008-421"
+}
+, {
+  "date" : "2008-09-17T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "ACS",
+  "case_name" : "Siegel",
+  "case_number" : "2007-672"
+}
+, {
+  "date" : "2008-09-16T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "DOE",
+  "case_name" : "Solo",
+  "case_number" : "2008-396"
+}
+, {
+  "date" : "2008-09-16T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "DOE",
+  "case_name" : "Militano",
+  "case_number" : "2008-396a"
+}
+, {
+  "date" : "2008-09-11T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DSNY",
+  "case_name" : "Carmenaty",
+  "case_number" : "2007-436h"
+}
+, {
+  "date" : "2008-08-25T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "Heaney",
+  "case_number" : "2007-827",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2008-08-14T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DSNY",
+  "case_name" : "Stephenson",
+  "case_number" : "2007-436ss"
+}
+, {
+  "date" : "2008-07-28T00:00:00",
+  "fine_paid_to_coib" : "1750",
+  "agency" : "DCAS",
+  "case_name" : "Berger",
+  "case_number" : "2008-207"
+}
+, {
+  "date" : "2008-07-28T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Passaretti",
+  "case_number" : "2008-217",
+  "suspension_value" : "7306.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2008-07-23T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Lowry",
+  "case_number" : "2008-295",
+  "suspension_value" : "7307.10",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Arzuza",
+  "case_number" : "2007-436",
+  "suspension_value" : "1172.09",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Baerga",
+  "case_number" : "2007-436a",
+  "suspension_value" : "1206.09",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Baldi",
+  "case_number" : "2007-436b",
+  "suspension_value" : "4940.40",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "20"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Barone",
+  "case_number" : "2007-436c",
+  "suspension_value" : "862.50",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Bellucci",
+  "case_number" : "2007-436d",
+  "suspension_value" : "1172.09",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Bostic",
+  "case_number" : "2007-436e",
+  "suspension_value" : "1172.09",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Bracone",
+  "case_number" : "2007-436f",
+  "suspension_value" : "1223.81",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Branaccio",
+  "case_number" : "2007-436g",
+  "suspension_value" : "2587.50",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Castro",
+  "case_number" : "2007-436i",
+  "suspension_value" : "3705.30",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Cato",
+  "case_number" : "2007-436j",
+  "suspension_value" : "1189.33",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Colorundo",
+  "case_number" : "2007-436k",
+  "suspension_value" : "1206.57",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Congimi",
+  "case_number" : "2007-436l",
+  "suspension_value" : "1235.10",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Cutrone",
+  "case_number" : "2007-436m",
+  "suspension_value" : "1252.30",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Damers",
+  "case_number" : "2007-436n",
+  "suspension_value" : "1235.10",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Desanctis",
+  "case_number" : "2007-436o",
+  "suspension_value" : "1189.33",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Dixon",
+  "case_number" : "2007-436p",
+  "suspension_value" : "1252.30",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Drogsler",
+  "case_number" : "2007-436q",
+  "suspension_value" : "829.31",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Gallo",
+  "case_number" : "2007-436r",
+  "suspension_value" : "3808.65",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Garcia",
+  "case_number" : "2007-436s",
+  "suspension_value" : "1217.85",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Georgios",
+  "case_number" : "2007-436t",
+  "suspension_value" : "821.40",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Grey",
+  "case_number" : "2007-436u",
+  "suspension_value" : "7410.60",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Harley",
+  "case_number" : "2007-436v",
+  "suspension_value" : "1172.09",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Hayden",
+  "case_number" : "2007-436w",
+  "suspension_value" : "1189.33",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Jaouen",
+  "case_number" : "2007-436x",
+  "suspension_value" : "1252.30",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Kane",
+  "case_number" : "2007-436y",
+  "suspension_value" : "1217.85",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Keane",
+  "case_number" : "2007-436z",
+  "suspension_value" : "1206.57",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Kopczynski",
+  "case_number" : "2007-436aa",
+  "suspension_value" : "1223.81",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "4"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Lagalante",
+  "case_number" : "2007-436bb",
+  "suspension_value" : "1206.57",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Lampasona",
+  "case_number" : "2007-436cc",
+  "suspension_value" : "959.70",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "La Rocca",
+  "case_number" : "2007-436dd",
+  "suspension_value" : "3705.30",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DSNY",
+  "case_name" : "La Salle",
+  "case_number" : "2007-436ee"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "MacDonald",
+  "case_number" : "2007-436ff",
+  "suspension_value" : "3705.30",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Mann, A.",
+  "case_number" : "2007-436gg",
+  "suspension_value" : "3757.05",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Mann, C.",
+  "case_number" : "2007-436hh",
+  "suspension_value" : "1189.33",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Mastrocco",
+  "case_number" : "2007-436ii",
+  "suspension_value" : "3808.68",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "McDermott",
+  "case_number" : "2007-436jj",
+  "suspension_value" : "829.31",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "McMahon",
+  "case_number" : "2007-436kk",
+  "suspension_value" : "1172.09",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Morales, A.",
+  "case_number" : "2007-436ll",
+  "suspension_value" : "1252.30",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Morales, J.",
+  "case_number" : "2007-436mm",
+  "suspension_value" : "3705.30",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Moscarelli",
+  "case_number" : "2007-436nn",
+  "suspension_value" : "1217.85",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Prendergrast",
+  "case_number" : "2007-436oo",
+  "suspension_value" : "2587.50",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Puhi",
+  "case_number" : "2007-436pp",
+  "suspension_value" : "1206.57",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Ruocco",
+  "case_number" : "2007-436qq",
+  "suspension_value" : "1269.55",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Smith, M.",
+  "case_number" : "2007-436rr",
+  "suspension_value" : "1217.85",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Sterbenz",
+  "case_number" : "2007-436tt",
+  "suspension_value" : "2217.85",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Taylor",
+  "case_number" : "2007-436uu",
+  "suspension_value" : "1189.33",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "4"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Torres",
+  "case_number" : "2007-436vv",
+  "suspension_value" : "1206.57",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Valerio",
+  "case_number" : "2007-436ww",
+  "suspension_value" : "1172.09",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Wallace",
+  "case_number" : "2007-436xx",
+  "suspension_value" : "1217.85",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Williams",
+  "case_number" : "2007-436yy",
+  "suspension_value" : "3705.30",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DSNY",
+  "case_name" : "Zaborsky",
+  "case_number" : "2007-436zz"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Guifre",
+  "case_number" : "2007-436ab",
+  "suspension_value" : "821.40",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Sullivan",
+  "case_number" : "2007-436ac",
+  "suspension_value" : "821.40",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-15T00:00:00",
+  "agency" : "DSNY",
+  "case_name" : "Pretakiewicz",
+  "case_number" : "2007-436ae",
+  "suspension_value" : "1252.30",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-07-08T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "DCA",
+  "case_name" : "Hwang",
+  "case_number" : "2008-132"
+}
+, {
+  "date" : "2008-07-08T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "Klein",
+  "case_number" : "2007-015c"
+}
+, {
+  "date" : "2008-07-08T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOE",
+  "case_name" : "Montemarano",
+  "case_number" : "2007-015"
+}
+, {
+  "date" : "2008-07-07T00:00:00",
+  "fine_paid_to_coib" : "7500",
+  "agency" : "DOHMH",
+  "case_name" : "Harmon",
+  "case_number" : "2008-025"
+}
+, {
+  "date" : "2008-07-07T00:00:00",
+  "fine_paid_to_coib" : "2250",
+  "agency" : "DOE",
+  "case_name" : "Philemy",
+  "case_number" : "2007-237",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2008-07-07T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DEP",
+  "case_name" : "Harrington",
+  "case_number" : "2007-774"
+}
+, {
+  "date" : "2008-07-07T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "NYPD",
+  "case_name" : "Lemkin",
+  "case_number" : "2004-746"
+}
+, {
+  "date" : "2008-07-07T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "NYPD",
+  "case_name" : "Renna",
+  "case_number" : "2004-746a"
+}
+, {
+  "date" : "2008-07-07T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "NYPD",
+  "case_name" : "Schneider",
+  "case_number" : "2004746b"
+}
+, {
+  "date" : "2008-06-17T00:00:00",
+  "fine_paid_to_coib" : "7100",
+  "agency" : "HHC",
+  "case_name" : "Anderson",
+  "case_number" : "2002-325",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was reduced from $20,000 to $7,100"
+}
+, {
+  "date" : "2008-05-22T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOE",
+  "case_name" : "Cross",
+  "case_number" : "2006-559a",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2008-05-22T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOE",
+  "case_name" : "Richards",
+  "case_number" : "2006-559",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2008-05-22T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Jafferalli",
+  "case_number" : "2007-433",
+  "suspension_value" : "4151.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2008-05-22T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Edwards",
+  "case_number" : "2007-433a",
+  "suspension_value" : "3872.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "21"
+}
+, {
+  "date" : "2008-05-22T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Mouzon",
+  "case_number" : "2007-570",
+  "suspension_value" : "1046.00",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1279",
+  "suspension_of_days" : "10"
+}
+, {
+  "date" : "2008-05-20T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Blundo",
+  "case_number" : "2007-636",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2008-05-09T00:00:00",
+  "fine_paid_to_coib" : "300",
+  "agency" : "DOE",
+  "case_name" : "Johnson",
+  "case_number" : "2006-617",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2008-05-08T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "Zigelman",
+  "case_number" : "2008-037",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1500"
+}
+, {
+  "date" : "2008-05-01T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "HRA",
+  "case_name" : "Childs",
+  "case_number" : "2006-755",
+  "suspension_value" : "1795.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-04-30T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DEP",
+  "case_name" : "Rider",
+  "case_number" : "2008-106"
+}
+, {
+  "date" : "2008-04-29T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "OCME",
+  "case_name" : "Shaler",
+  "case_number" : "2007-873"
+}
+, {
+  "date" : "2008-04-29T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "HPD",
+  "case_name" : "Mizrahi",
+  "case_number" : "2005-236"
+}
+, {
+  "date" : "2008-04-29T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "NYCHA",
+  "case_name" : "Deschamps",
+  "case_number" : "2007-744",
+  "suspension_value" : "892.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2008-03-20T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "DOC",
+  "case_name" : "Lee",
+  "case_number" : "2003-373a"
+}
+, {
+  "date" : "2008-03-20T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "DOC",
+  "case_name" : "Gwiazdzinski",
+  "case_number" : "2003-373k"
+}
+, {
+  "date" : "2008-03-06T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "NYPD",
+  "case_name" : "Murano",
+  "case_number" : "2004-530"
+}
+, {
+  "date" : "2008-03-05T00:00:00",
+  "fine_paid_to_coib" : "750",
+  "agency" : "DOP",
+  "case_name" : "Saigbovo",
+  "case_number" : "2007-058"
+}
+, {
+  "date" : "2008-03-05T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "DOE",
+  "case_name" : "Aldorasi",
+  "case_number" : "2007-157",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1500"
+}
+, {
+  "date" : "2008-03-04T00:00:00",
+  "fine_paid_to_coib" : "4500",
+  "agency" : "DCAS",
+  "case_name" : "Amar",
+  "case_number" : "2003-550"
+}
+, {
+  "date" : "2008-03-03T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "DOE",
+  "case_name" : "Namnum",
+  "case_number" : "2007-723",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2008-03-03T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "HRA",
+  "case_name" : "Osindero",
+  "case_number" : "2005-665",
+  "suspension_value" : "2205.97",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2008-03-03T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "HRA",
+  "case_name" : "Namyotova",
+  "case_number" : "2007-825",
+  "suspension_value" : "1952.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "15"
+}
+, {
+  "date" : "2008-02-07T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "Moran",
+  "case_number" : "2001-566d",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2008-02-07T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "Guarino",
+  "case_number" : "2001-566c",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2008-02-07T00:00:00",
+  "fine_paid_to_coib" : "5000",
+  "agency" : "DOE",
+  "case_name" : "Sender",
+  "case_number" : "2001-566b",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2008-02-07T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "Diaz",
+  "case_number" : "2001-566a",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2008-02-07T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOE",
+  "case_name" : "Ferro",
+  "case_number" : "2001-566",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2008-01-28T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOT",
+  "case_name" : "Riccardi",
+  "case_number" : "2004-610"
+}
+, {
+  "date" : "2008-01-23T00:00:00",
+  "fine_paid_to_coib" : "15000",
+  "agency" : "CCSC",
+  "case_name" : "Schlein",
+  "case_number" : "2006-350"
+}
+, {
+  "date" : "2007-12-17T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "ACS",
+  "case_name" : "Blenman",
+  "case_number" : "2006-632"
+}
+, {
+  "date" : "2007-12-17T00:00:00",
+  "fine_paid_to_coib" : "5000",
+  "agency" : "DOP",
+  "case_name" : "Osagie",
+  "case_number" : "2006-233",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2007-12-04T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "other_penalty" : "$3,961",
+  "agency" : "DJJ",
+  "case_name" : "Pratt",
+  "case_number" : "2004-188",
+  "other_penalty_value" : "Restitution",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was reduced from $4,750 to $500"
+}
+, {
+  "date" : "2007-11-29T00:00:00",
+  "fine_paid_to_coib" : "100",
+  "other_penalty" : "$900",
+  "agency" : "DOE",
+  "case_name" : "Tamayo",
+  "case_number" : "2007-519",
+  "suspension_value" : "52649.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Resign as Principal & reinstated as teacher w/pay reduction; must resign from DOE by 8/31/08 "
+}
+, {
+  "date" : "2007-11-29T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "McLeod",
+  "case_number" : "2007-022",
+  "suspension_value" : "1105.62",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2007-11-27T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DHS",
+  "case_name" : "Hall",
+  "case_number" : "2006-618"
+}
+, {
+  "date" : "2007-11-27T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "agency" : "City Planning",
+  "case_name" : "Williams",
+  "case_number" : "2004-517"
+}
+, {
+  "date" : "2007-11-05T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "agency" : "DOC",
+  "case_name" : "Norwood",
+  "case_number" : "2005-365",
+  "exp_of_amount_paid_to_coib" : "Respondent did not appear at the trial, so the Board fine has not yet been collected"
+}
+, {
+  "date" : "2007-10-29T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "Bk CB 17",
+  "case_name" : "S. Fraser",
+  "case_number" : "2006-423"
+}
+, {
+  "date" : "2007-10-29T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "City Council",
+  "case_name" : "Speiller",
+  "case_number" : "2003-785a"
+}
+, {
+  "date" : "2007-10-29T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "FDNY",
+  "case_name" : "Basile",
+  "case_number" : "2007-138"
+}
+, {
+  "date" : "2007-10-26T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Tulce",
+  "case_number" : "2007-039",
+  "suspension_value" : "4550.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2007-10-09T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DOHMH",
+  "case_name" : "Lastique",
+  "case_number" : "2003-200",
+  "suspension_value" : "1971.69",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Plus reassignment & probation",
+  "suspension_of_days" : "21"
+}
+, {
+  "date" : "2007-10-02T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "HPD",
+  "case_name" : "Larson",
+  "case_number" : "2007-441"
+}
+, {
+  "date" : "2007-10-02T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "Bk CB 17",
+  "case_name" : "Russell",
+  "case_number" : "2006-423a"
+}
+, {
+  "date" : "2007-09-26T00:00:00",
+  "fine_paid_to_coib" : "5000",
+  "agency" : "HRA",
+  "case_name" : "Allen",
+  "case_number" : "2006-411",
+  "exp_of_amount_paid_to_coib" : "Respondent did not appear at the trial, so the Board fine has not yet been collected"
+}
+, {
+  "date" : "2007-09-18T00:00:00",
+  "fine_paid_to_coib" : "3250",
+  "agency" : "DOE",
+  "case_name" : "Margolin",
+  "case_number" : "2004-246"
+}
+, {
+  "date" : "2007-09-12T00:00:00",
+  "fine_paid_to_coib" : "700",
+  "agency" : "HPD",
+  "case_name" : "Davis",
+  "case_number" : "2006-551"
+}
+, {
+  "date" : "2007-09-04T00:00:00",
+  "agency" : "ACS",
+  "case_name" : "Graham",
+  "case_number" : "2007-016",
+  "suspension_value" : "896.00",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2007-08-30T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "NYCHA",
+  "case_name" : "Lucido",
+  "case_number" : "2007-362"
+}
+, {
+  "date" : "2007-07-31T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "City Council",
+  "case_name" : "Gennaro",
+  "case_number" : "2003-785"
+}
+, {
+  "date" : "2007-07-23T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "Bk CB 2",
+  "case_name" : "Bergman",
+  "case_number" : "2003-152a"
+}
+, {
+  "date" : "2007-07-18T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOT",
+  "case_name" : "Pentangelo",
+  "case_number" : "1999-026"
+}
+, {
+  "date" : "2007-07-16T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOE",
+  "case_name" : "Carlson",
+  "case_number" : "2006-706",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "4821"
+}
+, {
+  "date" : "2007-07-12T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "HRA",
+  "case_name" : "Greenidge",
+  "case_number" : "2006-461"
+}
+, {
+  "date" : "2007-07-11T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOE",
+  "case_name" : "Barreto",
+  "case_number" : "2006-098",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2007-07-11T00:00:00",
+  "fine_paid_to_coib" : "6500",
+  "agency" : "FDNY",
+  "case_name" : "Clair",
+  "case_number" : "2005-244"
+}
+, {
+  "date" : "2007-07-10T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Glover",
+  "case_number" : "2007-056",
+  "suspension_value" : "7742.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2007-06-29T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DDC",
+  "case_name" : "Cetera",
+  "case_number" : "2005-200",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2007-06-05T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "City Council",
+  "case_name" : "Sanders",
+  "case_number" : "2005-442"
+}
+, {
+  "date" : "2007-06-04T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "TLC",
+  "case_name" : "Mazer",
+  "case_number" : "2005-467"
+}
+, {
+  "date" : "2007-05-31T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Ianniello",
+  "case_number" : "2006-383",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2007-05-31T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOE",
+  "case_name" : "Cooper",
+  "case_number" : "2006-684",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "2500"
+}
+, {
+  "date" : "2007-05-31T00:00:00",
+  "fine_paid_to_coib" : "750",
+  "agency" : "DOE",
+  "case_name" : "Reilly",
+  "case_number" : "2006-684a",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "750"
+}
+, {
+  "date" : "2007-05-31T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "DHS",
+  "case_name" : "Amoafo-Danquah",
+  "case_number" : "2006-460",
+  "suspension_value" : "1273.25",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "5"
+}
+, {
+  "date" : "2007-05-30T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "HHC",
+  "case_name" : "Cammarata",
+  "case_number" : "2007-053"
+}
+, {
+  "date" : "2007-05-30T00:00:00",
+  "fine_paid_to_coib" : "750",
+  "agency" : "DOT",
+  "case_name" : "Murphy",
+  "case_number" : "2002-678"
+}
+, {
+  "date" : "2007-05-30T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "HHC",
+  "case_name" : "Cagadoc",
+  "case_number" : "2004-556"
+}
+, {
+  "date" : "2007-05-02T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "SCA",
+  "case_name" : "Cantwell",
+  "case_number" : "2005-690"
+}
+, {
+  "date" : "2007-04-30T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "ACS",
+  "case_name" : "Henry",
+  "case_number" : "2006-068"
+}
+, {
+  "date" : "2007-04-30T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOE",
+  "case_name" : "Oquendo",
+  "case_number" : "2005-739a"
+}
+, {
+  "date" : "2007-04-25T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Matos",
+  "case_number" : "2004-570",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2007-04-17T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "NYCHA",
+  "case_name" : "Wade",
+  "case_number" : "2006-562a"
+}
+, {
+  "date" : "2007-03-28T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "HRA",
+  "case_name" : "Bassy",
+  "case_number" : "2006-554"
+}
+, {
+  "date" : "2007-03-27T00:00:00",
+  "fine_paid_to_coib" : "2250",
+  "agency" : "NYCHA",
+  "case_name" : "Vale",
+  "case_number" : "2006-349"
+}
+, {
+  "date" : "2007-03-27T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "DDC",
+  "case_name" : "Sahm",
+  "case_number" : "2005-240"
+}
+, {
+  "date" : "2007-02-28T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "Qns CB 13",
+  "case_name" : "Martino-Fisher",
+  "case_number" : "2005-505"
+}
+, {
+  "date" : "2007-02-28T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "TRS",
+  "case_name" : "Kessock",
+  "case_number" : "2003-752"
+}
+, {
+  "date" : "2007-02-28T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOC",
+  "case_name" : "Lepkowski",
+  "case_number" : "2006-519"
+}
+, {
+  "date" : "2007-02-28T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOHMH",
+  "case_name" : "Maith",
+  "case_number" : "2002-503"
+}
+, {
+  "date" : "2007-02-05T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "NYCHA",
+  "case_name" : "Aquino",
+  "case_number" : "2002-458"
+}
+, {
+  "date" : "2007-02-05T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "NYCHA",
+  "case_name" : "Tarazona",
+  "case_number" : "2006-064"
+}
+, {
+  "date" : "2007-02-05T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DSNY",
+  "case_name" : "Russo",
+  "case_number" : "2001-494",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2007-01-29T00:00:00",
+  "fine_paid_to_coib" : "750",
+  "agency" : "DOE",
+  "case_name" : "Marchuk",
+  "case_number" : "2005-031"
+}
+, {
+  "date" : "2007-01-29T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DDC",
+  "case_name" : "Bayer",
+  "case_number" : "2006-635",
+  "suspension_value" : "1000.00",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Retire from DDC",
+  "suspension_of_days" : "18"
+}
+, {
+  "date" : "2007-01-24T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Davis",
+  "case_number" : "2005-178",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2007-01-24T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "NYCERS",
+  "case_name" : "Rosenfeld",
+  "case_number" : "2005-098"
+}
+, {
+  "date" : "2007-01-05T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "Della Monica",
+  "case_number" : "2004-697"
+}
+, {
+  "date" : "2007-01-03T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "DOT",
+  "case_name" : "McHugh",
+  "case_number" : "2004-712"
+}
+, {
+  "date" : "2006-12-19T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOE",
+  "case_name" : "Diaz",
+  "case_number" : "2005-685"
+}
+, {
+  "date" : "2006-12-15T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DYCD",
+  "case_name" : "Fenster",
+  "case_number" : "2002-140"
+}
+, {
+  "date" : "2006-12-11T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "Jefferson",
+  "case_number" : "2006-562b",
+  "suspension_value" : "3085.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "25"
+}
+, {
+  "date" : "2006-12-11T00:00:00",
+  "agency" : "NYCHA",
+  "case_name" : "Nelson",
+  "case_number" : "2006-562",
+  "suspension_value" : "4262.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "25"
+}
+, {
+  "date" : "2006-11-10T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "FDNY",
+  "case_name" : "Sorkin",
+  "case_number" : "2003-655"
+}
+, {
+  "date" : "2006-11-10T00:00:00",
+  "fine_paid_to_coib" : "460",
+  "agency" : "DEP",
+  "case_name" : "Parlante",
+  "case_number" : "2005-271a",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2006-11-10T00:00:00",
+  "fine_paid_to_coib" : "750",
+  "agency" : "DEP",
+  "case_name" : "Marchesi",
+  "case_number" : "2005-271",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2006-08-24T00:00:00",
+  "fine_paid_to_coib" : "4500",
+  "agency" : "DDC",
+  "case_name" : "Neira",
+  "case_number" : "2004-324a"
+}
+, {
+  "date" : "2006-08-24T00:00:00",
+  "agency" : "HRA",
+  "case_name" : "Tyner",
+  "case_number" : "2006-048",
+  "suspension_value" : "6224.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "45"
+}
+, {
+  "date" : "2006-07-28T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "agency" : "DOE",
+  "case_name" : "L. Golubchick",
+  "case_number" : "2004-700a"
+}
+, {
+  "date" : "2006-07-28T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "J. Golubchick",
+  "case_number" : "2004-700"
+}
+, {
+  "date" : "2006-06-30T00:00:00",
+  "fine_paid_to_coib" : "10000",
+  "other_penalty" : "$211,000",
+  "agency" : "DOC",
+  "case_name" : "Kerik",
+  "case_number" : "2003-097",
+  "other_penalty_value" : "$5,000 FD & $206,000 Criminal"
+}
+, {
+  "date" : "2006-06-20T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "HHC",
+  "case_name" : "Goyol",
+  "case_number" : "2004-159"
+}
+, {
+  "date" : "2006-06-06T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "agency" : "HRA",
+  "case_name" : "Okowitz",
+  "case_number" : "2005-155",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2006-05-10T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOE",
+  "case_name" : "Coppola",
+  "case_number" : "2003-423a"
+}
+, {
+  "date" : "2006-04-03T00:00:00",
+  "agency" : "DOE",
+  "case_name" : "Whitlow",
+  "case_number" : "2005-590",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1818"
+}
+, {
+  "date" : "2006-02-23T00:00:00",
+  "other_penalty" : "$2,254",
+  "agency" : "FDNY",
+  "case_name" : "Valsamedis",
+  "case_number" : "2005-238",
+  "suspension_value" : "11267.50",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "10 days annual leave forfeited",
+  "suspension_of_days" : "50"
+}
+, {
+  "date" : "2006-02-15T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "other_penalty" : "$1,122",
+  "agency" : "SCI",
+  "case_name" : "Vance",
+  "case_number" : "2005-146",
+  "other_penalty_value" : "Annual leave forfeited"
+}
+, {
+  "date" : "2006-02-03T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "DOE",
+  "case_name" : "Green",
+  "case_number" : "2002-716",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "1500"
+}
+, {
+  "date" : "2005-11-16T00:00:00",
+  "fine_paid_to_coib" : "2800",
+  "agency" : "DOE",
+  "case_name" : "Guttman",
+  "case_number" : "2004-214"
+}
+, {
+  "date" : "2005-11-16T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "agency" : "FDNY",
+  "case_name" : "Trica",
+  "case_number" : "2004-418"
+}
+, {
+  "date" : "2005-07-23T00:00:00",
+  "fine_paid_to_coib" : "10000",
+  "agency" : "DOC",
+  "case_name" : "Serra",
+  "case_number" : "2002-677",
+  "exp_of_amount_paid_to_coib" : "This fine was paid to the Board as part of Serra' s plea of guilty to grand larceny and violation of the conflicts of interest law"
+}
+, {
+  "date" : "2005-06-22T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "DDC",
+  "case_name" : "Carroll",
+  "case_number" : "2005-151",
+  "suspension_value" : "3000.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "25"
+}
+, {
+  "date" : "2005-06-07T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "agency" : "DOE",
+  "case_name" : "Romano",
+  "case_number" : "2004-082a"
+}
+, {
+  "date" : "2005-05-25T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "agency" : "DOE",
+  "case_name" : "Hoffman",
+  "case_number" : "2004-082"
+}
+, {
+  "date" : "2005-03-29T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "other_penalty" : "$1,000",
+  "agency" : "HRA",
+  "case_name" : "Asemota",
+  "case_number" : "2003-788",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Annual leave forfeited"
+}
+, {
+  "date" : "2005-03-29T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Powery",
+  "case_number" : "2004-466"
+}
+, {
+  "date" : "2005-02-28T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Genao",
+  "case_number" : "2004-515"
+}
+, {
+  "date" : "2005-02-28T00:00:00",
+  "fine_paid_to_coib" : "1750",
+  "other_penalty" : "$1,600",
+  "agency" : "HRA",
+  "case_name" : "Vasquez",
+  "case_number" : "2004-321a",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Annual leave forfeited"
+}
+, {
+  "date" : "2005-01-31T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "other_penalty" : "$3,915",
+  "agency" : "DOS",
+  "case_name" : "Thomas",
+  "case_number" : "2003-127",
+  "other_penalty_value" : "Annual leave forfeited"
+}
+, {
+  "date" : "2005-01-31T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "HRA",
+  "case_name" : "Bonamarte",
+  "case_number" : "2002-782"
+}
+, {
+  "date" : "2004-12-21T00:00:00",
+  "fine_paid_to_coib" : "3500",
+  "agency" : "OEM",
+  "case_name" : "Berkowitz",
+  "case_number" : "2004-180"
+}
+, {
+  "date" : "2004-10-30T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DOC",
+  "case_name" : "W. Fraser",
+  "case_number" : "2002-770"
+}
+, {
+  "date" : "2004-10-21T00:00:00",
+  "fine_paid_to_coib" : "450",
+  "agency" : "DOE",
+  "case_name" : "McKen",
+  "case_number" : "2004-305",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "450"
+}
+, {
+  "date" : "2004-06-22T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "NYCHA",
+  "case_name" : "Campbell",
+  "case_number" : "2003-569"
+}
+, {
+  "date" : "2004-03-05T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DORIS",
+  "case_name" : "Anderson",
+  "case_number" : "2001-618"
+}
+, {
+  "date" : "2004-02-25T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "other_penalty" : "$1,300",
+  "agency" : "DOE",
+  "case_name" : "Fleishman",
+  "case_number" : "2002-528",
+  "other_penalty_value" : "Restitution",
+  "fine_paid_to_agency" : "5000"
+}
+, {
+  "date" : "2003-04-03T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Arriaga",
+  "case_number" : "2002-304",
+  "suspension_value" : "2500.00",
+  "_3_way_settlement" : "X",
+  "suspension_of_days" : "30"
+}
+, {
+  "date" : "2003-03-25T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOE",
+  "case_name" : "Adams",
+  "case_number" : "2002-088"
+}
+, {
+  "date" : "2003-01-07T00:00:00",
+  "other_penalty" : "$5,000",
+  "agency" : "DOE",
+  "case_name" : "Mumford",
+  "case_number" : "2002-463",
+  "other_penalty_value" : "for violation of Reg. C-110",
+  "fine_paid_to_agency" : "2500"
+}
+, {
+  "date" : "2002-07-18T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "other_penalty" : "$4,000",
+  "agency" : "DOE",
+  "case_name" : "Blake-Reid",
+  "case_number" : "2002-188",
+  "other_penalty_value" : "Annual leave forfeited"
+}
+, {
+  "date" : "2002-07-01T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DCA",
+  "case_name" : "Cottes",
+  "case_number" : "2001-593",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2002-06-21T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "DFTA",
+  "case_name" : "Silverman",
+  "case_number" : "2000-456"
+}
+, {
+  "date" : "2002-03-27T00:00:00",
+  "other_penalty" : "$2,433",
+  "agency" : "ACS",
+  "case_name" : "Smith",
+  "case_number" : "2000-192",
+  "other_penalty_value" : "Restitution",
+  "exp_of_amount_paid_to_coib" : "The fine was forgiven if by 3/1/04, respondent had fully paid restitution for outstanding loan amount."
+}
+, {
+  "date" : "2002-02-27T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "NYPD",
+  "case_name" : "Kerik",
+  "case_number" : "2001-569"
+}
+, {
+  "date" : "2002-02-22T00:00:00",
+  "fine_paid_to_coib" : "800",
+  "agency" : "NYCHA",
+  "case_name" : "Loughran",
+  "case_number" : "2000-407"
+}
+, {
+  "date" : "2001-12-13T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOT",
+  "case_name" : "King",
+  "case_number" : "1998-508",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2001-11-13T00:00:00",
+  "fine_paid_to_coib" : "700",
+  "agency" : "ACS",
+  "case_name" : "Hill-Grier",
+  "case_number" : "2000-581",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2001-09-30T00:00:00",
+  "agency" : "DOC",
+  "case_name" : "Jones",
+  "case_number" : "1998-437",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "5 days annual leave forfeited"
+}
+, {
+  "date" : "2001-09-25T00:00:00",
+  "agency" : "BOE",
+  "case_name" : "Denizac",
+  "case_number" : "2000-533",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "4000"
+}
+, {
+  "date" : "2001-08-15T00:00:00",
+  "other_penalty" : "$3,768",
+  "agency" : "DOT",
+  "case_name" : "Moran",
+  "case_number" : "1999-501",
+  "other_penalty_value" : "Demotion to non-supervisory position with paycut of $1,268; 30 days annual leave forfeited = $2,500"
+}
+, {
+  "date" : "2001-07-16T00:00:00",
+  "fine_paid_to_coib" : "4000",
+  "agency" : "Bk CB 10",
+  "case_name" : "Capetanakis",
+  "case_number" : "1999-157"
+}
+, {
+  "date" : "2001-06-25T00:00:00",
+  "fine_paid_to_coib" : "2000",
+  "agency" : "CHR",
+  "case_name" : "Rieue",
+  "case_number" : "2000-005"
+}
+, {
+  "date" : "2001-06-07T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "BOE",
+  "case_name" : "Steinhandler",
+  "case_number" : "2000-231",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2001-05-23T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOE",
+  "case_name" : "Camarata",
+  "case_number" : "1999-121"
+}
+, {
+  "date" : "2001-03-08T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOPR",
+  "case_name" : "Peterson",
+  "case_number" : "1997-173"
+}
+, {
+  "date" : "2001-02-26T00:00:00",
+  "fine_paid_to_coib" : "2250",
+  "agency" : "NYCHA",
+  "case_name" : "Finkel",
+  "case_number" : "1999-199"
+}
+, {
+  "date" : "2000-10-24T00:00:00",
+  "fine_paid_to_coib" : "8500",
+  "agency" : "HRA",
+  "case_name" : "Hoover",
+  "case_number" : "1999-200"
+}
+, {
+  "date" : "2000-10-16T00:00:00",
+  "fine_paid_to_coib" : "6500",
+  "agency" : "HRA",
+  "case_name" : "Turner",
+  "case_number" : "1999-200a"
+}
+, {
+  "date" : "2000-08-16T00:00:00",
+  "fine_paid_to_coib" : "7000",
+  "agency" : "NYPD",
+  "case_name" : "Safir",
+  "case_number" : "1999-115"
+}
+, {
+  "date" : "2000-08-14T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "DOT",
+  "case_name" : "Paniccia",
+  "case_number" : "1999-511"
+}
+, {
+  "date" : "2000-08-07T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "Cultural Affairs",
+  "case_name" : "Chapin",
+  "case_number" : "1999-500"
+}
+, {
+  "date" : "2000-07-24T00:00:00",
+  "fine_paid_to_coib" : "250",
+  "agency" : "HPD",
+  "case_name" : "Lizzio",
+  "case_number" : "2000-254"
+}
+, {
+  "date" : "2000-05-24T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DoITT",
+  "case_name" : "Rosenberg",
+  "case_number" : "1999-358"
+}
+, {
+  "date" : "2000-04-26T00:00:00",
+  "fine_paid_to_coib" : "5000",
+  "agency" : "SCA",
+  "case_name" : "Marrone",
+  "case_number" : "1998-169"
+}
+, {
+  "date" : "2000-03-26T00:00:00",
+  "fine_paid_to_coib" : "625",
+  "agency" : "DOF",
+  "case_name" : "Sullivan",
+  "case_number" : "1998-288",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2000-03-10T00:00:00",
+  "fine_paid_to_coib" : "800",
+  "agency" : "DEP",
+  "case_name" : "Carlin",
+  "case_number" : "1999-250",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "2000-01-06T00:00:00",
+  "agency" : "DOE",
+  "case_name" : "Rene",
+  "case_number" : "1997-237",
+  "_3_way_settlement" : "X",
+  "fine_paid_to_agency" : "2500"
+}
+, {
+  "date" : "1999-11-23T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "CHR",
+  "case_name" : "Davila",
+  "case_number" : "1994-082"
+}
+, {
+  "date" : "1999-11-22T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "agency" : "DOB",
+  "case_name" : "McGann",
+  "case_number" : "1999-334",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "1999-06-29T00:00:00",
+  "fine_paid_to_coib" : "20000",
+  "agency" : "MPBO",
+  "case_name" : "Sass",
+  "case_number" : "1998-190"
+}
+, {
+  "date" : "1999-02-03T00:00:00",
+  "fine_paid_to_coib" : "7500",
+  "agency" : "NYFD",
+  "case_name" : "Ludewig",
+  "case_number" : "1997-247",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "1998-10-09T00:00:00",
+  "fine_paid_to_coib" : "6000",
+  "other_penalty" : "$93,105",
+  "agency" : "NYFD",
+  "case_name" : "Morello",
+  "case_number" : "1997-247",
+  "other_penalty_value" : "Annual leave forfeited & resign"
+}
+, {
+  "date" : "1998-09-17T00:00:00",
+  "fine_paid_to_coib" : "84000",
+  "agency" : "Sheriff",
+  "case_name" : "Katsorhis",
+  "case_number" : "1994-351"
+}
+, {
+  "date" : "1998-07-14T00:00:00",
+  "fine_paid_to_coib" : "1250",
+  "other_penalty" : "$3,750",
+  "agency" : "DOH",
+  "case_name" : "Weinstein",
+  "case_number" : "1997-394",
+  "_3_way_settlement" : "X",
+  "other_penalty_value" : "Annual leave forfeited"
+}
+, {
+  "date" : "1998-06-22T00:00:00",
+  "fine_paid_to_coib" : "3000",
+  "other_penalty" : "$100",
+  "agency" : "DCAS",
+  "case_name" : "Fodera",
+  "case_number" : "1996-404",
+  "other_penalty_value" : "for late FD filing"
+}
+, {
+  "date" : "1998-06-22T00:00:00",
+  "fine_paid_to_coib" : "1500",
+  "agency" : "CHR",
+  "case_name" : "Wills",
+  "case_number" : "1995-045"
+}
+, {
+  "date" : "1998-06-15T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "DOB",
+  "case_name" : "Hahn",
+  "case_number" : "1998-102",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "1998-05-22T00:00:00",
+  "fine_paid_to_coib" : "200",
+  "agency" : "M CB 11",
+  "case_name" : "Harvey",
+  "case_number" : "1997-368",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was reduced to $200"
+}
+, {
+  "date" : "1998-05-08T00:00:00",
+  "fine_paid_to_coib" : "100",
+  "agency" : "NYFD",
+  "case_name" : "Cioffi",
+  "case_number" : "1997-247"
+}
+, {
+  "date" : "1997-12-22T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "ADA",
+  "case_name" : "N. Ross",
+  "case_number" : "1997-076"
+}
+, {
+  "date" : "1997-12-10T00:00:00",
+  "fine_paid_to_coib" : "1000",
+  "agency" : "BOE",
+  "case_name" : "M. Ross",
+  "case_number" : "1997-225",
+  "_3_way_settlement" : "X"
+}
+, {
+  "date" : "1997-06-17T00:00:00",
+  "fine_paid_to_coib" : "100",
+  "agency" : "Art Commission",
+  "case_name" : "Quennell",
+  "case_number" : "1997-060"
+}
+, {
+  "date" : "1996-04-03T00:00:00",
+  "fine_paid_to_coib" : "7500",
+  "agency" : "Compt.",
+  "case_name" : "Holtzman",
+  "case_number" : "1993-121"
+}
+, {
+  "date" : "1996-03-08T00:00:00",
+  "fine_paid_to_coib" : "250",
+  "agency" : "DEP",
+  "case_name" : "Matos",
+  "case_number" : "1994-368",
+  "exp_of_amount_paid_to_coib" : "Due to showing of financial hardship, fine was reduced from $1,000 to $250 "
+}
+, {
+  "date" : "1995-08-04T00:00:00",
+  "fine_paid_to_coib" : "5000",
+  "agency" : "Mayor's Office",
+  "case_name" : "Baer",
+  "case_number" : "1993-282a"
+}
+, {
+  "date" : "1994-02-11T00:00:00",
+  "fine_paid_to_coib" : "500",
+  "agency" : "PVB",
+  "case_name" : "Bryson",
+  "case_number" : "1993-282"
+}
+, {
+  "date" : "1994-01-24T00:00:00",
+  "fine_paid_to_coib" : "2500",
+  "agency" : "Mayor's Office",
+  "case_name" : "McAuliffe",
+  "case_number" : "1991-214"
+}
+, {
+  "date" : "1993-04-27T00:00:00",
+  "agency" : "CSD 1",
+  "case_name" : "Ubinas",
+  "case_number" : "1991-223"
+}
+ ]

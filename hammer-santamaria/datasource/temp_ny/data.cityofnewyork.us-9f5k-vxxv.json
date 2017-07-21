@@ -1,0 +1,121 @@
+[ {
+  "site_name" : "The Children's Aid Society",
+  "program_type" : "Family Support,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.83246290693709",
+    "human_address" : "{\"address\":\"1338 Southern Blvd\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10460\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89070580726401"
+  },
+  "agency" : "The Children's Aid Society",
+  "borough_community" : "Bronx",
+  "program" : "Health Stat",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "(718) 617-8595"
+}
+, {
+  "site_name" : "The East New York Learning Center, Inc",
+  "program_type" : "Family Support,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.67813043816926",
+    "human_address" : "{\"address\":\"1958 Fulton&nbsp; St\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11233\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91977647550391"
+  },
+  "agency" : "The East New York Learning Center, Inc",
+  "borough_community" : "Brooklyn",
+  "program" : "Health Stat",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "(718) 756- 7200"
+}
+, {
+  "site_name" : "Make the Road New York",
+  "program_type" : "Family Support,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.698428502523264",
+    "human_address" : "{\"address\":\"301 Grove St\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11237\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91562347499381"
+  },
+  "agency" : "Make the Road New York",
+  "borough_community" : "Brooklyn",
+  "program" : "Health Stat",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "(718) 418-7690"
+}
+, {
+  "site_name" : "The Children's Aid Society",
+  "program_type" : "Family Support,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.75294216673416",
+    "human_address" : "{\"address\":\"150 45th St\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10017\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9736410568292"
+  },
+  "agency" : "The Children's Aid Society",
+  "borough_community" : "New York",
+  "program" : "Health Stat",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-503-6820"
+}
+, {
+  "site_name" : "Northern Manhattan Improvement Corporation",
+  "program_type" : "Family Support,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.84705167605878",
+    "human_address" : "{\"address\":\"76 Wadsworth Ave\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10033\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93704472494271"
+  },
+  "agency" : "Northern Manhattan Improvement Corporation",
+  "borough_community" : "New York",
+  "program" : "Health Stat",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "(212) 822-8344"
+}
+, {
+  "site_name" : "Asian Americans for Equality",
+  "program_type" : "Family Support,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.76862022064671",
+    "human_address" : "{\"address\":\"133 04 39th Ave\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11354\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82719028070687"
+  },
+  "agency" : "Asian Americans for Equality",
+  "borough_community" : "Queens",
+  "program" : "Health Stat",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "(718)961-0888"
+}
+, {
+  "site_name" : "Asian Americans for Equality",
+  "program_type" : "Family Support,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.75163073936716",
+    "human_address" : "{\"address\":\"95 05 Roosevelt Ave\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11372\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88361254528269"
+  },
+  "agency" : "Asian Americans for Equality",
+  "borough_community" : "Queens",
+  "program" : "Health Stat",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "(718)961-0888"
+}
+, {
+  "site_name" : "Make the Road New York",
+  "program_type" : "Family Support,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.63093452909704",
+    "human_address" : "{\"address\":\"479 Port Richmond Ave\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10302\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.13901464968129"
+  },
+  "agency" : "Make the Road New York",
+  "borough_community" : "Staten Island",
+  "program" : "Health Stat",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "(347) 547-5133"
+}
+ ]

@@ -1,0 +1,584 @@
+[ {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.756212",
+    "human_address" : "{\"address\":\"41st Road\",\"city\":\"Flushing\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.831919"
+  },
+  "buildingnumber" : "132-49",
+  "examprice" : "Free",
+  "streetname" : "41st Road",
+  "city" : "Flushing",
+  "latitude" : "40.756212",
+  "telephone" : "(718) 886-6249",
+  "languagesoffered" : "English, Spanish",
+  "schoolname" : "DTA Driver Training Associates - ????",
+  "zipcode" : "11355",
+  "suiteapt" : "Suite 1b",
+  "web" : {
+    "url" : "http://www.dtadirect.com"
+  },
+  "courseprice" : "$175 ",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "email" : "info@dtadirect.com",
+  "longitude" : "-73.831919"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.634363",
+    "human_address" : "{\"address\":\"East 43rd Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.935172"
+  },
+  "buildingnumber" : "847",
+  "examprice" : "$50 ",
+  "streetname" : "East 43rd Street",
+  "city" : "Brooklyn",
+  "latitude" : "40.634363",
+  "telephone" : "(718) 253-1212",
+  "languagesoffered" : "English, Russian, Urdu",
+  "schoolname" : "Advance Mobility Plus",
+  "zipcode" : "11210",
+  "web" : {
+    "url" : "http://www.advancemobilityplus.com"
+  },
+  "courseprice" : "$150 ",
+  "contact" : "Jeff Grobman",
+  "state" : "NY",
+  "time" : "10:49:39.7570000",
+  "email" : "advancemobilityplus@gmail.com",
+  "longitude" : "-73.935172"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.851991",
+    "human_address" : "{\"address\":\"Westchester Avenue\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.828319"
+  },
+  "buildingnumber" : "3250",
+  "examprice" : "$50 ",
+  "streetname" : "Westchester Avenue",
+  "city" : "Bronx",
+  "latitude" : "40.851991",
+  "telephone" : "(718) 684-4889",
+  "languagesoffered" : "English",
+  "schoolname" : "Advance Mobility Plus",
+  "zipcode" : "10461",
+  "suiteapt" : "Suite 205",
+  "web" : {
+    "url" : "http://www.advancemobilityplus.com"
+  },
+  "courseprice" : "$150 ",
+  "contact" : "Brian Grobman",
+  "state" : "NY",
+  "time" : "10:49:39.7570000",
+  "email" : "advancemobilityofbronx@gmail.com",
+  "longitude" : "-73.828319"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.635028",
+    "human_address" : "{\"address\":\"Glenwood Road\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.935002"
+  },
+  "buildingnumber" : "4301",
+  "examprice" : "$75 ",
+  "streetname" : "Glenwood Road",
+  "city" : "Brooklyn",
+  "latitude" : "40.635028",
+  "telephone" : "(347) 829-2999",
+  "languagesoffered" : "English, Russian, Spanish",
+  "schoolname" : "Abba Training School",
+  "zipcode" : "11210",
+  "web" : {
+    "url" : "http://www.training4tlc.com"
+  },
+  "courseprice" : "$175 ",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "longitude" : "-73.935002"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.859032",
+    "human_address" : "{\"address\":\"Boston Road\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.867547"
+  },
+  "buildingnumber" : "2250",
+  "examprice" : "$75 ",
+  "streetname" : "Boston Road",
+  "city" : "Bronx",
+  "latitude" : "40.859032",
+  "telephone" : "(347) 622-1111 ",
+  "languagesoffered" : "English, Mandarin, Spanish",
+  "schoolname" : "Abba Training School",
+  "zipcode" : "10467",
+  "suiteapt" : "Suite D.E.",
+  "web" : {
+    "url" : "http://www.training4tlc.com"
+  },
+  "courseprice" : "$175 ",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "longitude" : "-73.867547"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.751085",
+    "human_address" : "{\"address\":\"E. 43rd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97337"
+  },
+  "buildingnumber" : "210",
+  "examprice" : "$50 ",
+  "streetname" : "E. 43rd Street",
+  "city" : "New York",
+  "latitude" : "40.751085",
+  "telephone" : "(718) 705-1111",
+  "languagesoffered" : "English, Spanish, Bengali",
+  "schoolname" : "A. Vollo Transportation Group",
+  "zipcode" : "100017",
+  "web" : {
+    "url" : "http://www.vginstitute.com"
+  },
+  "courseprice" : "$160 ",
+  "contact" : "Andrew Vollo",
+  "state" : "NY",
+  "time" : "10:49:39.7570000",
+  "email" : "info@vtginstitute.com",
+  "longitude" : "-73.97337"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.746598",
+    "human_address" : "{\"address\":\"Jackson Avenue\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.944532"
+  },
+  "buildingnumber" : "24-29",
+  "examprice" : "$75 ",
+  "streetname" : "Jackson Avenue",
+  "city" : "Long Island City",
+  "latitude" : "40.746598",
+  "telephone" : "(718) 472-1699",
+  "languagesoffered" : "English, Spanish, Bengali",
+  "schoolname" : "American Master Cabbie Taxi Academy",
+  "zipcode" : "11101",
+  "web" : {
+    "url" : "http://www.mastercabbie.com"
+  },
+  "courseprice" : "$174 ",
+  "contact" : "Terry Gelber",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "longitude" : "-73.944532"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.816422",
+    "human_address" : "{\"address\":\"East 149th Street\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91812"
+  },
+  "buildingnumber" : "391",
+  "examprice" : "$75 ",
+  "streetname" : "East 149th Street",
+  "city" : "Bronx",
+  "latitude" : "40.816422",
+  "telephone" : "(347) 590-2220",
+  "languagesoffered" : "English, Spanish, Bengali",
+  "schoolname" : "American Master Cabbie Taxi Academy",
+  "zipcode" : "10455",
+  "web" : {
+    "url" : "http://www.mastercabbie.com"
+  },
+  "courseprice" : "$174 ",
+  "contact" : "Terry Gelber",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "longitude" : "-73.91812"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.789361",
+    "human_address" : "{\"address\":\"14th Avenue\",\"city\":\"Whiestone\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.812129"
+  },
+  "buildingnumber" : "150-51",
+  "examprice" : "$75 ",
+  "streetname" : "14th Avenue",
+  "city" : "Whiestone",
+  "latitude" : "40.789361",
+  "telephone" : "718) 746-4400",
+  "languagesoffered" : "English, Spanish, Urdu",
+  "schoolname" : "Goog Transportation Education Academy",
+  "zipcode" : "11357",
+  "suiteapt" : "Unit A, Lower Level",
+  "web" : {
+    "url" : "http://www.googeducation.com"
+  },
+  "courseprice" : "$175 ",
+  "contact" : "Nawaz Amad",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "email" : "info@googeducation.com",
+  "longitude" : "-73.812129"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.751777",
+    "human_address" : "{\"address\":\"Northern Boulevard\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.930235"
+  },
+  "buildingnumber" : "33-24",
+  "examprice" : "$75 ",
+  "streetname" : "Northern Boulevard",
+  "city" : "Long Island City",
+  "latitude" : "40.751777",
+  "telephone" : "(718) 433-0439",
+  "languagesoffered" : "English, Spanish, Bengali, Urdu",
+  "schoolname" : "HANAC NYC Taxi Academy",
+  "zipcode" : "11101",
+  "suiteapt" : "4th Floor",
+  "web" : {
+    "url" : "http://www.hanactaxi.com"
+  },
+  "courseprice" : "$175 ",
+  "contact" : "Hasain Shakil",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "longitude" : "-73.930235"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.744818",
+    "human_address" : "{\"address\":\"Queens Boulevard\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.929438"
+  },
+  "buildingnumber" : "35-01",
+  "examprice" : "$75 ",
+  "streetname" : "Queens Boulevard",
+  "city" : "Long Island City",
+  "latitude" : "40.744818",
+  "telephone" : "(718) 709-1990",
+  "languagesoffered" : "English, Spanish, Bengali, Urdu",
+  "schoolname" : "HANAC NYC Taxi Academy",
+  "zipcode" : "11101",
+  "suiteapt" : "Ground Floor",
+  "web" : {
+    "url" : "http://www.hanactaxi.com"
+  },
+  "courseprice" : "$175 ",
+  "contact" : "Hasain Shakil",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "longitude" : "-73.929438"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.577814",
+    "human_address" : "{\"address\":\"Oriental Boulevard\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.935561"
+  },
+  "buildingnumber" : "2001",
+  "examprice" : "$25 ",
+  "streetname" : "Oriental Boulevard",
+  "city" : "Brooklyn",
+  "latitude" : "40.577814",
+  "telephone" : "(718) 368-5189",
+  "languagesoffered" : "English, American Sign Langauge",
+  "schoolname" : "Kingsborough Community College",
+  "zipcode" : "11235",
+  "suiteapt" : "Room T4122",
+  "courseprice" : "$175 ",
+  "contact" : "Abel Zamora",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "email" : "taxi@kbcc.cuny.edu",
+  "longitude" : "-73.935561"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.701117",
+    "human_address" : "{\"address\":\"Lefferts Boulevard\",\"city\":\"Richmond Hill\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.831401"
+  },
+  "buildingnumber" : "86-11",
+  "examprice" : "$75 ",
+  "streetname" : "Lefferts Boulevard",
+  "city" : "Richmond Hill",
+  "latitude" : "40.701117",
+  "telephone" : "(718) 790-2000",
+  "languagesoffered" : "English, Bengali, Urdu",
+  "schoolname" : "Knowledge Seekers, Inc.",
+  "zipcode" : "11418",
+  "web" : {
+    "url" : "http://www.knowledgeseekers.nyc"
+  },
+  "courseprice" : "$175 ",
+  "contact" : "Asad R. Siddiqy",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "email" : "info@knowledgeseekers.nyc",
+  "longitude" : "-73.831401"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.744",
+    "human_address" : "{\"address\":\"Thomson Avenue\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.935013"
+  },
+  "buildingnumber" : "31-10",
+  "examprice" : "$75 ",
+  "streetname" : "Thomson Avenue",
+  "city" : "Long Island City",
+  "latitude" : "40.744",
+  "telephone" : "(718) 482-5335",
+  "languagesoffered" : "English, Spanish",
+  "schoolname" : "LaGuardia Community College",
+  "zipcode" : "11101",
+  "suiteapt" : "M-building, Room M-143",
+  "web" : {
+    "url" : "http://www.lagcc.cuny.edu/taxi"
+  },
+  "courseprice" : "$175 ",
+  "contact" : "Karini Rodriguez",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "email" : "cunytaxi@lagcc.cuny.edu",
+  "longitude" : "-73.935013"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.59802",
+    "human_address" : "{\"address\":\"Hylan Boulevard\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.082364"
+  },
+  "buildingnumber" : "1194",
+  "examprice" : "$75 ",
+  "streetname" : "Hylan Boulevard",
+  "city" : "Staten Island ",
+  "latitude" : "40.59802",
+  "telephone" : "(718) 816-6400",
+  "languagesoffered" : "English, Spanish",
+  "schoolname" : "MDS Corp.",
+  "zipcode" : "10305",
+  "courseprice" : "$175 ",
+  "contact" : "Mickey Milbauer",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "email" : "mickey2449@gmail.com",
+  "longitude" : "-74.082364"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.74209",
+    "human_address" : "{\"address\":\"47th Avenue\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.935516"
+  },
+  "buildingnumber" : "31-00 ",
+  "examprice" : "$75 ",
+  "streetname" : "47th Avenue",
+  "city" : "Long Island City",
+  "latitude" : "40.74209",
+  "telephone" : "(718) 392-0627",
+  "languagesoffered" : "English, Spanish",
+  "schoolname" : "MDS Corp.",
+  "zipcode" : "11101",
+  "suiteapt" : "3rd Floor",
+  "courseprice" : "$175 ",
+  "contact" : "Mickey Milbauer",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "email" : "mickey2449@gmail.com",
+  "longitude" : "-73.935516"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.744409",
+    "human_address" : "{\"address\":\"Queens Boulevard\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.933008"
+  },
+  "buildingnumber" : "32-02 ",
+  "examprice" : "$75 ",
+  "streetname" : "Queens Boulevard",
+  "city" : "Long Island City",
+  "latitude" : "40.744409",
+  "telephone" : "(718) 361-2232",
+  "languagesoffered" : "English, Spanish",
+  "schoolname" : "MDS Corp.",
+  "zipcode" : "11101",
+  "courseprice" : "$175 ",
+  "contact" : "Mickey Milbauer",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "email" : "mickey2449@gmail.com",
+  "longitude" : "-73.933008"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.86885",
+    "human_address" : "{\"address\":\"Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.916637"
+  },
+  "buildingnumber" : "5030",
+  "examprice" : "$75 ",
+  "streetname" : "Broadway ",
+  "city" : "New York",
+  "latitude" : "40.86885",
+  "telephone" : "(718) 503-8004",
+  "languagesoffered" : "English, Spanish",
+  "schoolname" : "NYC Taxi Limo Training Center",
+  "zipcode" : "10034",
+  "suiteapt" : "Suite #626",
+  "web" : {
+    "url" : "http://www.nyctaxilimotrainingcenter.com"
+  },
+  "courseprice" : "$175 ",
+  "contact" : "Anthony Cabrera",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "email" : "nyctaxilimotrainingcenter@gmail.com",
+  "longitude" : "-73.916637"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.754536",
+    "human_address" : "{\"address\":\"37th Avenue\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.930743"
+  },
+  "buildingnumber" : "31-10",
+  "examprice" : "$75 ",
+  "streetname" : "37th Avenue",
+  "city" : "Long Island City",
+  "latitude" : "40.754536",
+  "telephone" : "(718) 706-9892",
+  "languagesoffered" : "English, Spanish, Bengali",
+  "schoolname" : "Taxi Workers Academy at NYTWA",
+  "zipcode" : "11101",
+  "suiteapt" : "Suite 300",
+  "web" : {
+    "url" : "http://www.nytwa.org"
+  },
+  "courseprice" : "$175 ",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "longitude" : "-73.930743"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.767429",
+    "human_address" : "{\"address\":\"Steinway Street\",\"city\":\"Astoria\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.911747"
+  },
+  "buildingnumber" : "25-15 ",
+  "examprice" : "$75 ",
+  "streetname" : "Steinway Street",
+  "city" : "Astoria",
+  "latitude" : "40.767429",
+  "telephone" : "(718) 355-9009",
+  "languagesoffered" : "English, Spanish, Urdu",
+  "schoolname" : "TLC Akademy",
+  "zipcode" : "11101",
+  "suiteapt" : "3rd Floor",
+  "web" : {
+    "url" : "http://www.tlcakademy.com"
+  },
+  "courseprice" : "$175 ",
+  "state" : "NY",
+  "time" : "10:49:39.7570000",
+  "email" : "info@tlcakademy.com",
+  "longitude" : "-73.911747"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.74209",
+    "human_address" : "{\"address\":\"47th Avenue\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.935516"
+  },
+  "buildingnumber" : "31-00 ",
+  "examprice" : "$75 ",
+  "streetname" : "47th Avenue",
+  "city" : "Long Island City",
+  "latitude" : "40.74209",
+  "telephone" : "(718) 255-9500",
+  "languagesoffered" : "English, Spanish, Bengali, Urdu",
+  "schoolname" : "TLC Driver Institute, Inc.",
+  "zipcode" : "11101",
+  "suiteapt" : "1st Floor",
+  "web" : {
+    "url" : "http://www.TLCdriver.nyc"
+  },
+  "courseprice" : "$175 ",
+  "contact" : "Angela Meza",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "email" : "school@TLCdriver.nyc",
+  "longitude" : "-73.935516"
+}
+, {
+  "date" : "2017-05-01T00:00:00",
+  "location_1" : {
+    "latitude" : "40.745723",
+    "human_address" : "{\"address\":\"Roosevelt Avenue\",\"city\":\"Woodside\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.903771"
+  },
+  "buildingnumber" : "60-19 ",
+  "examprice" : "$75 ",
+  "streetname" : "Roosevelt Avenue",
+  "city" : "Woodside",
+  "latitude" : "40.745723",
+  "telephone" : "(718) 255-9500",
+  "languagesoffered" : "English, Spanish, Bengali, Urdu",
+  "schoolname" : "TLC Driver Institute, Inc.",
+  "zipcode" : "11377",
+  "web" : {
+    "url" : "http://www.TLCdriver.nyc"
+  },
+  "courseprice" : "$175 ",
+  "contact" : "Angela Meza",
+  "state" : "NY ",
+  "time" : "10:49:39.7570000",
+  "email" : "school@TLCdriver.nyc",
+  "longitude" : "-73.903771"
+}
+ ]

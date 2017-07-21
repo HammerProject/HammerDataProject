@@ -1,0 +1,1526 @@
+[ {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "23.5",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "13 - 74.1",
+  "parameters" : "Alkalinity (mg/L CaCO3)",
+  "samples" : "304"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50 - 200 (1)",
+  "average" : "20",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "1957-06-01T00:00:00",
+  "parameters" : "Aluminum (µg/L)",
+  "samples" : "306"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "2",
+  "average" : "0.02",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "0.01 - 0.04",
+  "epa_mclg_ideal_goal" : "2",
+  "parameters" : "Barium (mg/L)",
+  "samples" : "306"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "9.1999999999999993",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "5.5 - 30.4",
+  "parameters" : "Calcium (mg/L)",
+  "samples" : "304"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : " - (2)",
+  "average" : "0.2",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination using sodium hypochlorite",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "0.2",
+  "parameters" : "Chlorate (mg/L)",
+  "samples" : "2"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "250",
+  "average" : "24",
+  "sources_in_drinking_water" : "Naturally occurring; road salt",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "11 - 101",
+  "parameters" : "Chloride (mg/L)",
+  "samples" : "304"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "4 (3)",
+  "average" : "0.6 (3)",
+  "sources_in_drinking_water" : "Water additive for disinfection",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "0.0 - 2.2",
+  "parameters" : "Chlorine Residual, Free (mg/L)",
+  "samples" : "15816"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "100",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 31",
+  "parameters" : "Chromium (µg/L)",
+  "samples" : "307"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : " - (2)",
+  "average" : "4.4999999999999998E-2",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "0.044 - 0.046",
+  "parameters" : "Chromium VI (µg/L)",
+  "samples" : "2"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "6",
+  "sources_in_drinking_water" : "Presence of iron, manganese, and organics in water",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "1945-03-01T00:00:00",
+  "parameters" : "Color - distribution system",
+  "samples" : "14105"
+}
+, {
+  "year" : "2016",
+  "parameters" : "(color units - apparent)"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "15 (4)",
+  "average" : "6",
+  "sources_in_drinking_water" : "Presence of iron, manganese, and organics in water",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "2017-03-08T00:00:00",
+  "parameters" : "Color - entry points",
+  "samples" : "1711"
+}
+, {
+  "year" : "2016",
+  "parameters" : "(color units - apparent)"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "1.3 (5)",
+  "average" : "7.0000000000000001E-3",
+  "sources_in_drinking_water" : "Corrosion of household plumbing systems; erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.081",
+  "epa_mclg_ideal_goal" : "1.3",
+  "parameters" : "Copper (mg/L)",
+  "samples" : "308"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "0 (1) (6)",
+  "average" : "-2.13",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "-2.78 to -1.07",
+  "parameters" : "Corrosivity (Langelier index)",
+  "samples" : "303"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "2.2 (4)",
+  "average" : "0.7",
+  "sources_in_drinking_water" : "Water additive which promotes strong teeth; erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.9",
+  "epa_mclg_ideal_goal" : "4",
+  "parameters" : "Fluoride (mg/L)",
+  "samples" : "2076"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "33",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "19 - 119",
+  "parameters" : "Hardness (mg/L CaCO3)",
+  "samples" : "304"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "1.8",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "1.1 - 7",
+  "parameters" : "Hardness (grains/gallon[US]CaCO3) (7)",
+  "samples" : "304"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "300 (4) (8) ",
+  "average" : "30",
+  "sources_in_drinking_water" : "Naturally occurring",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 154",
+  "parameters" : "Iron (µg/L)",
+  "samples" : "305"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "15 (5)",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Corrosion of household plumbing systems; erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 15",
+  "epa_mclg_ideal_goal" : "0",
+  "parameters" : "Lead (µg/L)",
+  "samples" : "308"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "2.5",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "1.1 - 11",
+  "parameters" : "Magnesium (mg/L)",
+  "samples" : "304"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "300 (4) (8) ",
+  "average" : "15",
+  "sources_in_drinking_water" : "Naturally occurring",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 81",
+  "parameters" : "Manganese (µg/L)",
+  "samples" : "308"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "0.4",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.8",
+  "parameters" : "Nickel (µg/L)",
+  "samples" : "306"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "10",
+  "average" : "0.14000000000000001",
+  "sources_in_drinking_water" : "Runoff from fertilizer use; leaching from septic tanks, sewage; erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "0.05 - 0.45",
+  "epa_mclg_ideal_goal" : "10",
+  "parameters" : "Nitrate (mg/L nitrogen)",
+  "samples" : "304"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "1",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Runoff from fertilizer use; leaching from septic tanks, sewage; erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.001",
+  "epa_mclg_ideal_goal" : "1",
+  "parameters" : "Nitrite (mg/L nitrogen)",
+  "samples" : "306"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "6.8 - 8.2 (9)",
+  "average" : "7.4",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "7.0 - 9.1",
+  "parameters" : "pH (pH units)",
+  "samples" : "15816"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "1-4 (9)",
+  "average" : "2.1",
+  "sources_in_drinking_water" : "Water additive for corrosion control",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "1.3 - 2.9",
+  "parameters" : "Phosphate, Ortho- (mg/L)",
+  "samples" : "15816"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "0.9",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "0.5 - 3",
+  "parameters" : "Potassium (mg/L)",
+  "samples" : "304"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "2.6",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "1.4 - 5.8",
+  "parameters" : "Silica [silicon oxide] (mg/L)",
+  "samples" : "304"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "NDL (4) (10)",
+  "average" : "16",
+  "sources_in_drinking_water" : "Naturally occurring; road salt; water softeners; animal waste",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "1954-09-01T00:00:00",
+  "parameters" : "Sodium (mg/L)",
+  "samples" : "304"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "132",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "80 - 533",
+  "parameters" : "Specific Conductance (µS/cm)",
+  "samples" : "15816"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "31",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "19 - 99",
+  "parameters" : "Strontium (µg/L)",
+  "samples" : "305"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "250",
+  "average" : "6.5",
+  "sources_in_drinking_water" : "Naturally occurring",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "3.8 - 24.9",
+  "parameters" : "Sulfate (mg/L)",
+  "samples" : "304"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "55",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "36 - 86",
+  "parameters" : "Temperature (°F)",
+  "samples" : "15816"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "500 (1)",
+  "average" : "84",
+  "sources_in_drinking_water" : "Metals and salts naturally occurring in the soil; organic matter",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "42 - 292",
+  "parameters" : "Total Dissolved Solids (mg/L)",
+  "samples" : "303"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "1.6",
+  "sources_in_drinking_water" : "Organic matter naturally present in the environment",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "1.3 - 2.4",
+  "parameters" : "Total Organic Carbon (mg/L carbon)",
+  "samples" : "304"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "5 (12)",
+  "average" : "0.8 (12)",
+  "sources_in_drinking_water" : "Soil runoff",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 6.0",
+  "parameters" : "Turbidity (11) - distribution system (NTU)",
+  "samples" : "14105"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "5 (13)",
+  "average" : "4.3 (13)",
+  "sources_in_drinking_water" : "Soil runoff",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "-",
+  "parameters" : "Turbidity (11) - source water (NTU)"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "TT (14)",
+  "average" : "0.27 (14)",
+  "sources_in_drinking_water" : "Soil runoff",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "-",
+  "parameters" : "Turbidity (11) - filtered water (NTU)"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "2.5999999999999999E-2",
+  "sources_in_drinking_water" : "Organic matter naturally present in the environment",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "0.018 - 0.034",
+  "parameters" : "UV 254 Absorbency/cm",
+  "samples" : "304"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "5 (4)",
+  "average" : "3.0000000000000001E-3",
+  "sources_in_drinking_water" : "Naturally occurring",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.008",
+  "parameters" : "Zinc (mg/L)",
+  "samples" : "308"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "1.6",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 4.5",
+  "parameters" : "Bromochloroacetic Acid (µg/L)",
+  "samples" : "304"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Wastewater plant effluent, leaching from septic tanks",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.061(15)",
+  "parameters" : "Caffeine (µg/L)",
+  "samples" : "80"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "0.39",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.65",
+  "parameters" : "Chloropicrin (µg/L)",
+  "samples" : "24"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "5.16",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "0.95 - 10.49",
+  "parameters" : "Chloral Hydrate (µg/L)",
+  "samples" : "24"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Fungicide used on crops and lawns",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.1 (15)",
+  "parameters" : "Chlorothalonil (µg/L)",
+  "samples" : "80"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "ND",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 1.0 (15)",
+  "parameters" : "Dalapon (µg/L)",
+  "samples" : "304"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "6",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Probable source is sample contamination from plastic gloves or air particulates.",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.69",
+  "parameters" : "Di(2-ethylhexyl)phthalate (µg/L)",
+  "samples" : "80"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "60 (16)",
+  "average" : "50 (16)",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "1957-11-01T00:00:00",
+  "parameters" : "Haloacetic Acid 5 (HAA5) (µg/L)",
+  "samples" : "304"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "2.62",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "0.92 - 3.75",
+  "parameters" : "Haloacetonitriles (HANs) (µg/L)",
+  "samples" : "24"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "2.4700000000000002",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "1.07 - 3.42",
+  "parameters" : "Halogenated Ketones (HKs) (µg/L)",
+  "samples" : "24"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Solvent in glues, paints, and nail polish removers",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.58 (15)",
+  "parameters" : "Methyl Acetate (µg/L)",
+  "samples" : "305"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "10",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Releases from gasoline storage tanks. Octane enhancer in unleaded gasoline. Atmospheric deposition.",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "ND - 1.1 (15)",
+  "parameters" : "Methyl Tertiary Butyl Ether (MTBE) (µg/L)",
+  "samples" : "305"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "153",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "96 - 318",
+  "parameters" : "Total Organic Halogen (µg/L)",
+  "samples" : "245"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "80 (16)",
+  "average" : "52 (16)",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2016",
+  "mcl_violation" : "No",
+  "range" : "8.2 - 76",
+  "parameters" : "Total Trihalomethanes (TTHM) (µg/L)",
+  "samples" : "304"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "20.8",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "13.5 - 76.7",
+  "parameters" : "Alkalinity (mg/L CaCO3)",
+  "samples" : "291"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50 - 200 (1)",
+  "average" : "25",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "19998",
+  "parameters" : "Aluminum (µg/L)",
+  "samples" : "291"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "2",
+  "average" : "0.018",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "0.013 - 0.045",
+  "epa_mclg_ideal_goal" : "2",
+  "parameters" : "Barium (mg/L)",
+  "samples" : "291"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "8.2",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "5.8 - 28.2",
+  "parameters" : "Calcium (mg/L)",
+  "samples" : "292"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : " - (2)",
+  "average" : "0.082",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination using sodium hypochlorite",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "0.044 - 0.130",
+  "parameters" : "Chlorate (mg/L)",
+  "samples" : "6"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "250",
+  "average" : "20",
+  "sources_in_drinking_water" : "Naturally occurring; road salt",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "11 - 101",
+  "parameters" : "Chloride (mg/L)",
+  "samples" : "291"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "4 (3)",
+  "average" : "0.65 (3)",
+  "sources_in_drinking_water" : "Water additive for disinfection",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "0.00 - 1.8",
+  "parameters" : "Chlorine Residual, Free (mg/L)",
+  "samples" : "15550"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "100",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "ND - 1",
+  "parameters" : "Chromium (µg/L)",
+  "samples" : "297"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : " - (2)",
+  "average" : "0.042",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.057",
+  "parameters" : "Chromium VI (µg/L)",
+  "samples" : "6"
+}
+, {
+  "year" : "2015",
+  "parameters" : "Color - distribution system "
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "6",
+  "sources_in_drinking_water" : "Presence of iron, manganese, and organics in water",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "12816",
+  "parameters" : "(color units - apparent)",
+  "samples" : "14065"
+}
+, {
+  "year" : "2015",
+  "parameters" : "Color - entry points "
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "15 (4)",
+  "average" : "6",
+  "sources_in_drinking_water" : "Presence of iron, manganese, and organics in water",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "42437",
+  "parameters" : "(color units - apparent)",
+  "samples" : "1485"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "1.3 (5)",
+  "average" : "0.007",
+  "sources_in_drinking_water" : "Corrosion of household plumbing systems; erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "0.002 - 0.083",
+  "epa_mclg_ideal_goal" : "1.3",
+  "parameters" : "Copper (mg/L)",
+  "samples" : "294"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "0 (1) (6)",
+  "average" : "-2.2",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "-2.74 to -1",
+  "parameters" : "Corrosivity (Langelier index)",
+  "samples" : "291"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "2.2 (4)",
+  "average" : "0.7",
+  "sources_in_drinking_water" : "Water additive which promotes strong teeth; erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.9",
+  "epa_mclg_ideal_goal" : "4",
+  "parameters" : "Fluoride (mg/L)",
+  "samples" : "1976"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "29",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "20 - 110",
+  "parameters" : "Hardness (mg/L CaCO3)",
+  "samples" : "292"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "1.60",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "1.1 - 6.3",
+  "parameters" : "Hardness (grains/gallon[US]CaCO3) (7)",
+  "samples" : "292"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "300 (4) (8) ",
+  "average" : "35.00",
+  "sources_in_drinking_water" : "Naturally occurring",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "ND - 82",
+  "parameters" : "Iron (µg/L)",
+  "samples" : "294"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "15 (5)",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Corrosion of household plumbing systems; erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "ND - 8",
+  "epa_mclg_ideal_goal" : "0",
+  "parameters" : "Lead (µg/L)",
+  "samples" : "294"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.002",
+  "parameters" : "Lithium (mg/L)",
+  "samples" : "292"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "2",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "1.2 - 9.6",
+  "parameters" : "Magnesium (mg/L)",
+  "samples" : "292"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "300 (4) (8) ",
+  "average" : "14.000",
+  "sources_in_drinking_water" : "Naturally occurring",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "ND - 37",
+  "parameters" : "Manganese (µg/L)",
+  "samples" : "294"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.9",
+  "parameters" : "Nickel (µg/L)",
+  "samples" : "291"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "10",
+  "average" : "0.2",
+  "sources_in_drinking_water" : "Runoff from fertilizer use; leaching from septic tanks, sewage; erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "0.1 - 0.55",
+  "epa_mclg_ideal_goal" : "10.0",
+  "parameters" : "Nitrate (mg/L nitrogen)",
+  "samples" : "291"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "6.8 - 8.2 (9)",
+  "average" : "7",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "6.8 - 10.9",
+  "parameters" : "pH (pH units)",
+  "samples" : "15549"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "1-4 (9)",
+  "average" : "2.1",
+  "sources_in_drinking_water" : "Water additive for corrosion control",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "0.69 - 3.17",
+  "parameters" : "Phosphate, Ortho- (mg/L)",
+  "samples" : "15550"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "0.8",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "0.5 - 2.6",
+  "parameters" : "Potassium (mg/L)",
+  "samples" : "292"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "2.7",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "1.6 - 6.8",
+  "parameters" : "Silica [silicon oxide] (mg/L)",
+  "samples" : "291"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "NDL (4) (10)",
+  "average" : "14",
+  "sources_in_drinking_water" : "Naturally occurring; road salt; water softeners; animal waste",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "23255",
+  "parameters" : "Sodium (mg/L)",
+  "samples" : "292"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "121",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "82 - 522",
+  "parameters" : "Specific Conductance (µS/cm)",
+  "samples" : "15550"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "28",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "19 - 91",
+  "parameters" : "Strontium (µg/L)",
+  "samples" : "298"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "250",
+  "average" : "5.30",
+  "sources_in_drinking_water" : "Naturally occurring",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "3.8 - 18",
+  "parameters" : "Sulfate (mg/L)",
+  "samples" : "291"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "54.0",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "33 - 87",
+  "parameters" : "Temperature (°F)",
+  "samples" : "15550"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "500 (1)",
+  "average" : "74.00",
+  "sources_in_drinking_water" : "Metals and salts naturally occurring in the soil; organic matter",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "40 - 281",
+  "parameters" : "Total Dissolved Solids (mg/L)",
+  "samples" : "291"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "1.6",
+  "sources_in_drinking_water" : "Organic matter naturally present in the environment",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "1.3 - 2.1",
+  "parameters" : "Total Organic Carbon (mg/L carbon)",
+  "samples" : "291"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "5 (12)",
+  "average" : "1.1 (12)",
+  "sources_in_drinking_water" : "Soil runoff",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "ND - 5.5",
+  "parameters" : "Turbidity (11) - distribution system (NTU)",
+  "samples" : "14065"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "5 (13)",
+  "average" : "1.7 (13)",
+  "sources_in_drinking_water" : "Soil runoff",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "-",
+  "parameters" : "Turbidity (11) - source water (NTU)"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "TT (14)",
+  "average" : "0.11 (14)",
+  "sources_in_drinking_water" : "Soil runoff",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "-",
+  "parameters" : "Turbidity (11) - filtered water (NTU)"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "2.8000000000000001E-2",
+  "sources_in_drinking_water" : "Organic matter naturally present in the environment",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "0.016 - 0.034",
+  "parameters" : "UV 254 Absorbency (cm-1)",
+  "samples" : "290"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "5 (4)",
+  "average" : "0.0",
+  "sources_in_drinking_water" : "Naturally occurring",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.02",
+  "parameters" : "Zinc (mg/L)",
+  "samples" : "294"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "1.6",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "ND - 4.5",
+  "parameters" : "Bromochloroacetic Acid (µg/L)",
+  "samples" : "298"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "0.46",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "0.20 - 0.72",
+  "parameters" : "Chloropicrin (µg/L)",
+  "samples" : "22"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "5.21",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "1.29 -11.40",
+  "parameters" : "Chloral Hydrate (µg/L)",
+  "samples" : "22"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "6",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Probable source is sample contamination from plastic gloves or air particulates.",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.92 ",
+  "parameters" : "Di(2-ethylhexyl)phthalate (µg/L)",
+  "samples" : "87"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "ND",
+  "sources_in_drinking_water" : "May enter the environment through its use as a solvent and in textile processing, printing processes, and detergent preparations.",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.082 (15)",
+  "parameters" : "1,4-Dioxane (µg/L)",
+  "samples" : "3"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "60 (16)",
+  "average" : "43 (16)",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "15 - 56",
+  "parameters" : "Haloacetic Acid 5 (HAA5) (µg/L)",
+  "samples" : "298"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "2.73",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "1.06 - 4.65",
+  "parameters" : "Haloacetonitriles (HANs) (µg/L)",
+  "samples" : "22"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "2.74",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "1.59 - 4.89",
+  "parameters" : "Halogenated Ketones (HKs) (µg/L)",
+  "samples" : "22"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "5",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Discharge from chemical factories",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.071",
+  "parameters" : "Hexachlorocyclopentadiene (µg/L)",
+  "samples" : "21"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "149",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "86 - 213",
+  "parameters" : "Total Organic Halogen (µg/L)",
+  "samples" : "291"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "80 (16)",
+  "average" : "42 (16)",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2015",
+  "mcl_violation" : "No",
+  "range" : "9.1 - 64",
+  "parameters" : "Total Trihalomethanes (TTHM) (µg/L)",
+  "samples" : "289"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "15.7",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "13.5 - 18.1",
+  "parameters" : "Alkalinity (mg/L CaCO3)",
+  "samples" : "272"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50 - 200 (1)",
+  "average" : "23",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "11 - 144",
+  "parameters" : "Aluminum (µg/L)",
+  "samples" : "275"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "2",
+  "average" : "0.017",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "0.013 - 0.028",
+  "epa_mclg_ideal_goal" : "2",
+  "parameters" : "Barium (mg/L)",
+  "samples" : "275"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "5.9",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "5.2 - 6.9",
+  "parameters" : "Calcium (mg/L)",
+  "samples" : "272"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : " - (2)",
+  "average" : "0.032",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination using sodium hypochlorite",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.039",
+  "parameters" : "Chlorate (mg/L)",
+  "samples" : "18"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "250",
+  "average" : "11",
+  "sources_in_drinking_water" : "Naturally occurring; road salt",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "9 - 14",
+  "parameters" : "Chloride (mg/L)",
+  "samples" : "272"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "4 (3)",
+  "average" : "0.63 (3)",
+  "sources_in_drinking_water" : "Water additive for disinfection",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "0.00 - 1.51",
+  "parameters" : "Chlorine Residual, Free (mg/L)",
+  "samples" : "15023"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "100",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.31",
+  "parameters" : "Chromium (µg/L)",
+  "samples" : "290"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : " - (2)",
+  "average" : "0.041",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "0.033 - 0.054",
+  "parameters" : "Chromium VI (µg/L)",
+  "samples" : "18"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "6",
+  "sources_in_drinking_water" : "Presence of iron, manganese, and organics in water",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "3 - 40",
+  "parameters" : "Color - distribution system (color units - apparent)",
+  "samples" : "13929"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "15 (4)",
+  "average" : "6",
+  "sources_in_drinking_water" : "Presence of iron, manganese, and organics in water",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "5 - 8",
+  "parameters" : "Color - entry points (color units - apparent)",
+  "samples" : "1095"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "1.3 (5)",
+  "average" : "0.006",
+  "sources_in_drinking_water" : "Corrosion of household plumbing systems; erosion of natural deposits",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "0.002 - 0.038",
+  "epa_mclg_ideal_goal" : "1.3",
+  "parameters" : "Copper (mg/L)",
+  "samples" : "285"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "0 (1) (6)",
+  "average" : "-2.38",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "-2.82 to -1.66",
+  "parameters" : "Corrosivity (Langelier index)",
+  "samples" : "272"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "2.2 (4)",
+  "average" : "0.8",
+  "sources_in_drinking_water" : "Water additive which promotes strong teeth; erosion of natural deposits",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.9",
+  "epa_mclg_ideal_goal" : "4.0",
+  "parameters" : "Fluoride (mg/L)",
+  "samples" : "1689"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "20",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "18 - 23",
+  "parameters" : "Hardness (mg/L CaCO3)",
+  "samples" : "272"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "1.1",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "1.0 - 1.3",
+  "parameters" : "Hardness (grains/gallon[US]CaCO3) (7)",
+  "samples" : "272"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "300 (4) (8) ",
+  "average" : "38",
+  "sources_in_drinking_water" : "Naturally occurring",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "21 - 313",
+  "parameters" : "Iron (µg/L)",
+  "samples" : "285"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "15 (5)",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Corrosion of household plumbing systems; erosion of natural deposits",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "ND - 6",
+  "epa_mclg_ideal_goal" : "0",
+  "parameters" : "Lead (µg/L)",
+  "samples" : "285"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "1.3",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "1.1 - 1.6",
+  "parameters" : "Magnesium (mg/L)",
+  "samples" : "272"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "300 (4) (8) ",
+  "average" : "17",
+  "sources_in_drinking_water" : "Naturally occurring",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "9 - 206",
+  "parameters" : "Manganese (µg/L)",
+  "samples" : "285"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "ND - 1",
+  "parameters" : "Nickel (µg/L)",
+  "samples" : "275"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "10",
+  "average" : "0.17",
+  "sources_in_drinking_water" : "Runoff from fertilizer use; leaching from septic tanks, sewage; erosion of natural deposits",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "0.1 - 0.32",
+  "epa_mclg_ideal_goal" : "10",
+  "parameters" : "Nitrate (mg/L nitrogen)",
+  "samples" : "272"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "6.8 - 8.2 (9)",
+  "average" : "7.3",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "6.9 - 9.1",
+  "parameters" : "pH (pH units)",
+  "samples" : "15025"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "2.11",
+  "sources_in_drinking_water" : "Water additive for corrosion control",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "0.74 - 3.54",
+  "parameters" : "Phosphate, Ortho- (mg/L)",
+  "samples" : "15024"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "0.3",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.7",
+  "parameters" : "Potassium (mg/L)",
+  "samples" : "272"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "2.5",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "1.9 - 3.1",
+  "parameters" : "Silica [silicon oxide] (mg/L)",
+  "samples" : "272"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "NDL (4) (10)",
+  "average" : "9",
+  "sources_in_drinking_water" : "Naturally occurring; road salt; water softeners; animal waste",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "7 - 10",
+  "parameters" : "Sodium (mg/L)",
+  "samples" : "272"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "87",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "75 - 109",
+  "parameters" : "Specific Conductance (µS/cm)",
+  "samples" : "15024"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "20",
+  "sources_in_drinking_water" : "Erosion of natural deposits",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "17 - 25",
+  "parameters" : "Strontium (µg/L)",
+  "samples" : "290"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "250",
+  "average" : "4.2",
+  "sources_in_drinking_water" : "Naturally occurring",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "3.7 - 4.8",
+  "parameters" : "Sulfate (mg/L)",
+  "samples" : "272"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "53",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "34 - 79",
+  "parameters" : "Temperature (°F)",
+  "samples" : "15025"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "500 (1)",
+  "average" : "53",
+  "sources_in_drinking_water" : "Metals and salts naturally occurring in the soil; organic matter",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "41 - 63",
+  "parameters" : "Total Dissolved Solids (mg/L)",
+  "samples" : "272"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "1.5",
+  "sources_in_drinking_water" : "Organic matter naturally present in the environment",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "1.3 - 1.7",
+  "parameters" : "Total Organic Carbon (mg/L carbon)",
+  "samples" : "272"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "5 (12)",
+  "average" : "1.4 (12)",
+  "sources_in_drinking_water" : "Soil runoff",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "0.5 - 8.6",
+  "parameters" : "Turbidity (11) - distribution system (NTU)",
+  "samples" : "13929"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "5 (13)",
+  "average" : "2.4 (13)",
+  "sources_in_drinking_water" : "Soil runoff",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "-",
+  "parameters" : "Turbidity (11) - source water (NTU)"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "0.029",
+  "sources_in_drinking_water" : "Organic matter naturally present in the environment",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "0.021 - 0.043",
+  "parameters" : "UV 254 Absorbency (cm-1)",
+  "samples" : "271"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "5 (4)",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Naturally occurring",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.017",
+  "parameters" : "Zinc (mg/L)",
+  "samples" : "285"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "1.2",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "ND - 2.4",
+  "parameters" : "Bromochloroacetic Acid (µg/L)",
+  "samples" : "267"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "0.52",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "0.27 - 0.72",
+  "parameters" : "Chloropicrin (µg/L)",
+  "samples" : "16"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "6",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Probable source is sample contamination from plastic gloves or air particulates.",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.64 (14)",
+  "parameters" : "Di(2-ethylhexyl)phthalate (µg/L)",
+  "samples" : "75"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "ND",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "ND - 1.1 (14)",
+  "parameters" : "Dalapon (µg/L)",
+  "samples" : "267"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "60 (15)",
+  "average" : "46",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "13 - 60",
+  "parameters" : "Haloacetic Acid 5 (HAA5) (µg/L)",
+  "samples" : "267"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "2.30",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "1.41 - 3.54",
+  "parameters" : "Haloacetonitriles (HANs) (µg/L)",
+  "samples" : "16"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "2.40",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "1.17 - 3.50",
+  "parameters" : "Halogenated Ketones (HKs) (µg/L)",
+  "samples" : "16"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "5",
+  "average" : "ND",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.056",
+  "parameters" : "Hexachlorocyclopentadiene (µg/L)",
+  "samples" : "15"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "50",
+  "average" : "ND",
+  "sources_in_drinking_water" : "Incomplete combustion of fossil fuels",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "ND - 0.2 (14)",
+  "parameters" : "Phenanthrene (µg/L)",
+  "samples" : "75"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "-",
+  "average" : "148",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "82 - 300",
+  "parameters" : "Total Organic Halogen (µg/L)",
+  "samples" : "129"
+}
+, {
+  "nysdoh_mcl_highest_level_allowed" : "80 (15)",
+  "average" : "50",
+  "sources_in_drinking_water" : "By-product of drinking water chlorination",
+  "year" : "2014",
+  "mcl_violation" : "No",
+  "range" : "10 - 73",
+  "parameters" : "Total Trihalomethanes (TTHM) (µg/L)",
+  "samples" : "268"
+}
+ ]

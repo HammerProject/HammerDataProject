@@ -1,0 +1,99 @@
+[ {
+  "minimun_income_in_group" : "0",
+  "total_income_dollars_in_millions" : "342.1",
+  "percentage" : "10",
+  "number_of_filers" : "346320",
+  "avergae_income_per_filer" : "988",
+  "income_group" : "1st Decile ",
+  "_" : "0.1"
+}
+, {
+  "minimun_income_in_group" : "3794",
+  "total_income_dollars_in_millions" : "2279.1",
+  "percentage" : "10",
+  "number_of_filers" : "346026",
+  "avergae_income_per_filer" : "6587",
+  "income_group" : "2nd Decile",
+  "_" : "1"
+}
+, {
+  "minimun_income_in_group" : "9072",
+  "total_income_dollars_in_millions" : "3995.9",
+  "percentage" : "10",
+  "number_of_filers" : "346159",
+  "avergae_income_per_filer" : "11543",
+  "income_group" : "3rd Decile",
+  "_" : "1.7"
+}
+, {
+  "minimun_income_in_group" : "14229",
+  "total_income_dollars_in_millions" : "5978.8",
+  "percentage" : "10",
+  "number_of_filers" : "346193",
+  "avergae_income_per_filer" : "17270",
+  "income_group" : "4th Decile ",
+  "_" : "2.6"
+}
+, {
+  "minimun_income_in_group" : "20555",
+  "total_income_dollars_in_millions" : "8431.3",
+  "percentage" : "10",
+  "number_of_filers" : "246213",
+  "avergae_income_per_filer" : "24353",
+  "income_group" : "5th Decile ",
+  "_" : "3.7"
+}
+, {
+  "minimun_income_in_group" : "28213",
+  "total_income_dollars_in_millions" : "11351",
+  "percentage" : "10",
+  "number_of_filers" : "346021",
+  "avergae_income_per_filer" : "32804",
+  "income_group" : "6th Decile ",
+  "_" : "4.9"
+}
+, {
+  "minimun_income_in_group" : "37672",
+  "total_income_dollars_in_millions" : "15020",
+  "percentage" : "10",
+  "number_of_filers" : "346268",
+  "avergae_income_per_filer" : "43377",
+  "income_group" : "7th Decile ",
+  "_" : "6.5"
+}
+, {
+  "minimun_income_in_group" : "49509",
+  "total_income_dollars_in_millions" : "20034.5",
+  "percentage" : "10",
+  "number_of_filers" : "346132",
+  "avergae_income_per_filer" : "57881",
+  "income_group" : "8th Decile ",
+  "_" : "8.7"
+}
+, {
+  "minimun_income_in_group" : "68146",
+  "total_income_dollars_in_millions" : "28997",
+  "percentage" : "10",
+  "number_of_filers" : "346068",
+  "avergae_income_per_filer" : "83790",
+  "income_group" : "9th Decile ",
+  "_" : "12.6"
+}
+, {
+  "minimun_income_in_group" : "105368",
+  "total_income_dollars_in_millions" : "134038.4",
+  "percentage" : "10",
+  "number_of_filers" : "346121",
+  "avergae_income_per_filer" : "387259",
+  "income_group" : "10th Decile ",
+  "_" : "58.2"
+}
+, {
+  "total_income_dollars_in_millions" : "230468.1",
+  "percentage" : "100",
+  "number_of_filers" : "3461521",
+  "avergae_income_per_filer" : "66580",
+  "income_group" : "Total",
+  "_" : "100"
+}
+ ]

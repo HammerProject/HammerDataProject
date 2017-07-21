@@ -1,0 +1,1441 @@
+[ {
+  "material" : "Refuse",
+  "district" : "BK01",
+  "latitude" : "40.7145",
+  "location" : "215 Varick Ave Brooklyn, NY",
+  "primary_disposal_facility" : "WM - Varick",
+  "longitude" : "-73.929744"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK01",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK01",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK02",
+  "latitude" : "40.587147",
+  "location" : "4435 Victory Blvd SI, NY",
+  "primary_disposal_facility" : "Visy",
+  "longitude" : "-74.199155"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK02",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BK02",
+  "latitude" : "40.672944",
+  "location" : "577 Court St Brooklyn, NY",
+  "primary_disposal_facility" : "IESI - Court",
+  "longitude" : "-74.000227"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BK03",
+  "latitude" : "40.7145",
+  "location" : "215 Varick Ave Brooklyn, NY",
+  "primary_disposal_facility" : "WM - Varick",
+  "longitude" : "-73.929744"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK03",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK03",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BK04",
+  "latitude" : "40.7145",
+  "location" : "215 Varick Ave Brooklyn, NY",
+  "primary_disposal_facility" : "WM - Varick",
+  "longitude" : "-73.929744"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK04",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK04",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BK05",
+  "latitude" : "40.7145",
+  "location" : "215 Varick Ave Brooklyn, NY",
+  "primary_disposal_facility" : "WM - Varick",
+  "longitude" : "-73.929744"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK05",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK05",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK06",
+  "latitude" : "40.587147",
+  "location" : "4435 Victory Blvd SI, NY",
+  "primary_disposal_facility" : "Visy",
+  "longitude" : "-74.199155"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK06",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BK06",
+  "latitude" : "40.672944",
+  "location" : "577 Court St Brooklyn, NY",
+  "primary_disposal_facility" : "IESI - Court",
+  "longitude" : "-74.000227"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BK07",
+  "latitude" : "40.650241",
+  "location" : "110 50th St Brooklyn, NY",
+  "primary_disposal_facility" : "IESI - 50 st",
+  "longitude" : "-74.018444"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK07",
+  "latitude" : "40.587147",
+  "location" : "4435 Victory Blvd SI, NY",
+  "primary_disposal_facility" : "Visy",
+  "longitude" : "-74.199155"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK07",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK08",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK08",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BK08",
+  "latitude" : "40.672944",
+  "location" : "577 Court St Brooklyn, NY",
+  "primary_disposal_facility" : "IESI - Court",
+  "longitude" : "-74.000227"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BK09",
+  "latitude" : "40.7145",
+  "location" : "215 Varick Ave Brooklyn, NY",
+  "primary_disposal_facility" : "WM - Varick",
+  "longitude" : "-73.929744"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK09",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK09",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BK10",
+  "latitude" : "40.650241",
+  "location" : "110 50th St Brooklyn, NY",
+  "primary_disposal_facility" : "IESI - 50 St",
+  "longitude" : "-74.018444"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK10",
+  "latitude" : "40.587147",
+  "location" : "4435 Victory Blvd SI, NY",
+  "primary_disposal_facility" : "Visy",
+  "longitude" : "-74.199155"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK10",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BK11",
+  "latitude" : "40.650241",
+  "location" : "110 50th St Brooklyn, NY",
+  "primary_disposal_facility" : "IESI - 50 St",
+  "longitude" : "-74.018444"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK11",
+  "latitude" : "40.587147",
+  "location" : "4435 Victory Blvd SI, NY",
+  "primary_disposal_facility" : "Visy",
+  "longitude" : "-74.199155"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK11",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BK12",
+  "latitude" : "40.650241",
+  "location" : "110 50th St Brooklyn, NY",
+  "primary_disposal_facility" : "IESI - 50 St",
+  "longitude" : "-74.018444"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK12",
+  "latitude" : "40.587147",
+  "location" : "4435 Victory Blvd SI, NY",
+  "primary_disposal_facility" : "Visy",
+  "longitude" : "-74.199155"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK12",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BK13",
+  "latitude" : "40.650241",
+  "location" : "110 50th St Brooklyn, NY",
+  "primary_disposal_facility" : "IESI - 50 St",
+  "longitude" : "-74.018444"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK13",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK13",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BK14",
+  "latitude" : "40.7145",
+  "location" : "215 Varick Ave Brooklyn, NY",
+  "primary_disposal_facility" : "WM - Varick",
+  "longitude" : "-73.929744"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK14",
+  "latitude" : "40.587147",
+  "location" : "4435 Victory Blvd SI, NY",
+  "primary_disposal_facility" : "Visy",
+  "longitude" : "-74.199155"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK14",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK15",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK15",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BK15",
+  "latitude" : "40.672944",
+  "location" : "577 Court St Brooklyn, NY",
+  "primary_disposal_facility" : "IESI - Court",
+  "longitude" : "-74.000227"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BK16",
+  "latitude" : "40.7145",
+  "location" : "215 Varick Ave Brooklyn, NY",
+  "primary_disposal_facility" : "WM - Varick",
+  "longitude" : "-73.929744"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK16",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK16",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BK17",
+  "latitude" : "40.705862",
+  "location" : "105 - 115 Thames Street",
+  "primary_disposal_facility" : "BT Thames",
+  "longitude" : "-73.92875"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK17",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK17",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Paper",
+  "district" : "BK18",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BK18",
+  "latitude" : "40.661202",
+  "location" : "472 2nd Ave Brooklyn, NY",
+  "primary_disposal_facility" : "Sims Bklyn",
+  "longitude" : "-74.005105"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BK18",
+  "latitude" : "40.663921",
+  "location" : "941 Stanley Avenue Broolyn, NY",
+  "primary_disposal_facility" : "Action Stanley",
+  "longitude" : "-73.874593"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BX01",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Paper",
+  "district" : "BX01",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BX01",
+  "latitude" : "40.807793",
+  "location" : "98 Lincoln Ave Bronx, NY",
+  "primary_disposal_facility" : "WM-Harlem River",
+  "longitude" : "-73.929659"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BX02",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Paper",
+  "district" : "BX02",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BX02",
+  "latitude" : "40.807793",
+  "location" : "98 Lincoln Ave Bronx, NY",
+  "primary_disposal_facility" : "WM-Harlem River",
+  "longitude" : "-73.929659"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BX03",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Paper",
+  "district" : "BX03",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BX03",
+  "latitude" : "40.807793",
+  "location" : "98 Lincoln Ave Bronx, NY",
+  "primary_disposal_facility" : "WM-Harlem River",
+  "longitude" : "-73.929659"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BX04",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Paper",
+  "district" : "BX04",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BX04",
+  "latitude" : "40.807793",
+  "location" : "98 Lincoln Ave Bronx, NY",
+  "primary_disposal_facility" : "WM-Harlem River",
+  "longitude" : "-73.929659"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BX05",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Paper",
+  "district" : "BX05",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BX05",
+  "latitude" : "40.807793",
+  "location" : "98 Lincoln Ave Bronx, NY",
+  "primary_disposal_facility" : "WM-Harlem River",
+  "longitude" : "-73.929659"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BX06",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Paper",
+  "district" : "BX06",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BX06",
+  "latitude" : "40.807793",
+  "location" : "98 Lincoln Ave Bronx, NY",
+  "primary_disposal_facility" : "WM-Harlem River",
+  "longitude" : "-73.929659"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BX07",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Paper",
+  "district" : "BX07",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BX07",
+  "latitude" : "40.807793",
+  "location" : "98 Lincoln Ave Bronx, NY",
+  "primary_disposal_facility" : "WM-Harlem River",
+  "longitude" : "-73.929659"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BX08",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Paper",
+  "district" : "BX08",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BX08",
+  "latitude" : "40.807793",
+  "location" : "98 Lincoln Ave Bronx, NY",
+  "primary_disposal_facility" : "WM-Harlem River",
+  "longitude" : "-73.929659"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BX09",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Paper",
+  "district" : "BX09",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BX09",
+  "latitude" : "40.807793",
+  "location" : "98 Lincoln Ave Bronx, NY",
+  "primary_disposal_facility" : "WM-Harlem River",
+  "longitude" : "-73.929659"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BX10",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Paper",
+  "district" : "BX10",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BX10",
+  "latitude" : "40.807793",
+  "location" : "98 Lincoln Ave Bronx, NY",
+  "primary_disposal_facility" : "WM-Harlem River",
+  "longitude" : "-73.929659"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BX11",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Paper",
+  "district" : "BX11",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BX11",
+  "latitude" : "40.807793",
+  "location" : "98 Lincoln Ave Bronx, NY",
+  "primary_disposal_facility" : "WM-Harlem River",
+  "longitude" : "-73.929659"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "BX12",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Paper",
+  "district" : "BX12",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Refuse",
+  "district" : "BX12",
+  "latitude" : "40.807793",
+  "location" : "98 Lincoln Ave Bronx, NY",
+  "primary_disposal_facility" : "WM-Harlem River",
+  "longitude" : "-73.929659"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "MN01",
+  "latitude" : "40.687229",
+  "location" : "1 Linden Avenue East Jersey City, NJ",
+  "primary_disposal_facility" : "Sims - Jersey",
+  "longitude" : "-74.080709"
+}
+, {
+  "material" : "Refuse",
+  "district" : "MN01",
+  "latitude" : "40.737224",
+  "location" : "183 Raymond Blvd Newark, NJ",
+  "primary_disposal_facility" : "Covanta - Essex",
+  "longitude" : "-74.126531"
+}
+, {
+  "material" : "Paper",
+  "district" : "MN01",
+  "latitude" : "40.773171",
+  "location" : "59th St Pier NY, NY",
+  "primary_disposal_facility" : "Visy 59th St",
+  "longitude" : "-73.994637"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "MN02",
+  "latitude" : "40.687229",
+  "location" : "1 Linden Avenue East Jersey City, NJ",
+  "primary_disposal_facility" : "Sims - Jersey",
+  "longitude" : "-74.080709"
+}
+, {
+  "material" : "Refuse",
+  "district" : "MN02",
+  "latitude" : "40.737224",
+  "location" : "183 Raymond Blvd Newark, NJ",
+  "primary_disposal_facility" : "Covanta - Essex",
+  "longitude" : "-74.126531"
+}
+, {
+  "material" : "Paper",
+  "district" : "MN02",
+  "latitude" : "40.773171",
+  "location" : "59th St Pier NY, NY",
+  "primary_disposal_facility" : "Visy 59th St",
+  "longitude" : "-73.994637"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "MN03",
+  "latitude" : "40.687229",
+  "location" : "1 Linden Avenue East Jersey City, NJ",
+  "primary_disposal_facility" : "Sims - Jersey",
+  "longitude" : "-74.080709"
+}
+, {
+  "material" : "Refuse",
+  "district" : "MN03",
+  "latitude" : "40.737224",
+  "location" : "183 Raymond Blvd Newark, NJ",
+  "primary_disposal_facility" : "Covanta - Essex",
+  "longitude" : "-74.126531"
+}
+, {
+  "material" : "Paper",
+  "district" : "MN03",
+  "latitude" : "40.773171",
+  "location" : "59th St Pier NY, NY",
+  "primary_disposal_facility" : "Visy 59th St",
+  "longitude" : "-73.994637"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "MN04",
+  "latitude" : "40.687229",
+  "location" : "1 Linden Avenue East Jersey City, NJ",
+  "primary_disposal_facility" : "Sims - Jersey",
+  "longitude" : "-74.080709"
+}
+, {
+  "material" : "Refuse",
+  "district" : "MN04",
+  "latitude" : "40.737224",
+  "location" : "183 Raymond Blvd Newark, NJ",
+  "primary_disposal_facility" : "Covanta - Essex",
+  "longitude" : "-74.126531"
+}
+, {
+  "material" : "Paper",
+  "district" : "MN04",
+  "latitude" : "40.773171",
+  "location" : "59th St Pier NY, NY",
+  "primary_disposal_facility" : "Visy 59th St",
+  "longitude" : "-73.994637"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "MN05",
+  "latitude" : "40.687229",
+  "location" : "1 Linden Avenue East Jersey City, NJ",
+  "primary_disposal_facility" : "Sims - Jersey",
+  "longitude" : "-74.080709"
+}
+, {
+  "material" : "Refuse",
+  "district" : "MN05",
+  "latitude" : "40.740392",
+  "location" : "375 US 1 /9 truck South, Jersey City, NJ ",
+  "primary_disposal_facility" : "IWS Jersey City",
+  "longitude" : "-74.080059"
+}
+, {
+  "material" : "Paper",
+  "district" : "MN05",
+  "latitude" : "40.773171",
+  "location" : "59th St Pier NY, NY",
+  "primary_disposal_facility" : "Visy 59th St",
+  "longitude" : "-73.994637"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "MN06",
+  "latitude" : "40.687229",
+  "location" : "1 Linden Avenue East Jersey City, NJ",
+  "primary_disposal_facility" : "Sims - Jersey",
+  "longitude" : "-74.080709"
+}
+, {
+  "material" : "Refuse",
+  "district" : "MN06",
+  "latitude" : "40.817491",
+  "location" : "61-75 Broad Ave, Fairview NJ",
+  "primary_disposal_facility" : "WM- Fairview",
+  "longitude" : "-74.008875"
+}
+, {
+  "material" : "Paper",
+  "district" : "MN06",
+  "latitude" : "40.773171",
+  "location" : "59th St Pier NY, NY",
+  "primary_disposal_facility" : "Visy 59th St",
+  "longitude" : "-73.994637"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "MN07",
+  "latitude" : "40.687229",
+  "location" : "1 Linden Avenue East Jersey City, NJ",
+  "primary_disposal_facility" : "Sims - Jersey",
+  "longitude" : "-74.080709"
+}
+, {
+  "material" : "Refuse",
+  "district" : "MN07",
+  "latitude" : "40.737224",
+  "location" : "183 Raymond Blvd Newark, NJ",
+  "primary_disposal_facility" : "Covanta - Essex",
+  "longitude" : "-74.126531"
+}
+, {
+  "material" : "Paper",
+  "district" : "MN07",
+  "latitude" : "40.773171",
+  "location" : "59th St Pier NY, NY",
+  "primary_disposal_facility" : "Visy 59th St",
+  "longitude" : "-73.994637"
+}
+, {
+  "material" : "Refuse",
+  "district" : "MN08",
+  "latitude" : "40.93371",
+  "location" : "325 Yonkers Ave., Yonkers NY",
+  "primary_disposal_facility" : "WM- A1 Compaction",
+  "longitude" : "-73.873182"
+}
+, {
+  "material" : "Paper",
+  "district" : "MN08",
+  "latitude" : "40.773171",
+  "location" : "59th St Pier NY, NY",
+  "primary_disposal_facility" : "Visy 59th St",
+  "longitude" : "-73.994637"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "MN08",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Refuse",
+  "district" : "MN09",
+  "latitude" : "40.737224",
+  "location" : "183 Raymond Blvd Newark, NJ",
+  "primary_disposal_facility" : "Covanta - Essex",
+  "longitude" : "-74.126531"
+}
+, {
+  "material" : "Paper",
+  "district" : "MN09",
+  "latitude" : "40.773171",
+  "location" : "59th St Pier NY, NY",
+  "primary_disposal_facility" : "Visy 59th St",
+  "longitude" : "-73.994637"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "MN09",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Refuse",
+  "district" : "MN10",
+  "latitude" : "40.737224",
+  "location" : "183 Raymond Blvd Newark, NJ",
+  "primary_disposal_facility" : "Covanta - Essex",
+  "longitude" : "-74.126531"
+}
+, {
+  "material" : "Paper",
+  "district" : "MN10",
+  "latitude" : "40.773171",
+  "location" : "59th St Pier NY, NY",
+  "primary_disposal_facility" : "Visy 59th St",
+  "longitude" : "-73.994637"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "MN10",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Refuse",
+  "district" : "MN11",
+  "latitude" : "40.817483",
+  "location" : "61-75 Broad Ave, Fairview NJ",
+  "primary_disposal_facility" : "WM- Fairview",
+  "longitude" : "-74.008918"
+}
+, {
+  "material" : "Paper",
+  "district" : "MN11",
+  "latitude" : "40.773171",
+  "location" : "59th St Pier NY, NY",
+  "primary_disposal_facility" : "Visy 59th St",
+  "longitude" : "-73.994637"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "MN11",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Refuse",
+  "district" : "MN12",
+  "latitude" : "40.737224",
+  "location" : "183 Raymond Blvd Newark, NJ",
+  "primary_disposal_facility" : "Covanta - Essex",
+  "longitude" : "-74.126531"
+}
+, {
+  "material" : "Paper",
+  "district" : "MN12",
+  "latitude" : "40.773171",
+  "location" : "59th St Pier NY, NY",
+  "primary_disposal_facility" : "Visy 59th St",
+  "longitude" : "-73.994637"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "MN12",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Refuse",
+  "district" : "QN01",
+  "latitude" : "40.73083",
+  "location" : "38-50 Review Ave Queens, NY",
+  "primary_disposal_facility" : "WM: Review",
+  "longitude" : "-73.934488"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "QN01",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Paper",
+  "district" : "QN01",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "QN02",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Paper",
+  "district" : "QN02",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Refuse",
+  "district" : "QN02",
+  "latitude" : "40.73083",
+  "location" : "38-50 Review Ave Queens, NY",
+  "primary_disposal_facility" : "WM: Review",
+  "longitude" : "-73.934488"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "QN03",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Paper",
+  "district" : "QN03",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Refuse",
+  "district" : "QN03",
+  "latitude" : "40.73083",
+  "location" : "38-50 Review Ave Queens, NY",
+  "primary_disposal_facility" : "WM: Review",
+  "longitude" : "-73.934488"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "QN04",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Paper",
+  "district" : "QN04",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Refuse",
+  "district" : "QN04",
+  "latitude" : "40.73083",
+  "location" : "38-50 Review Ave Queens, NY",
+  "primary_disposal_facility" : "WM: Review",
+  "longitude" : "-73.934488"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "QN05",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Paper",
+  "district" : "QN05",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Refuse",
+  "district" : "QN05",
+  "latitude" : "40.73083",
+  "location" : "38-50 Review Ave Queens, NY",
+  "primary_disposal_facility" : "WM: Review",
+  "longitude" : "-73.934488"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "QN06",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Paper",
+  "district" : "QN06",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Refuse",
+  "district" : "QN06",
+  "latitude" : "40.73083",
+  "location" : "38-50 Review Ave Queens, NY",
+  "primary_disposal_facility" : "WM: Review",
+  "longitude" : "-73.934488"
+}
+, {
+  "material" : "Paper",
+  "district" : "QN07",
+  "latitude" : "40.768633",
+  "location" : "31-33 Farrington St Queens, NY",
+  "primary_disposal_facility" : "Lobosco",
+  "longitude" : "-73.832984"
+}
+, {
+  "material" : "Refuse",
+  "district" : "QN07",
+  "latitude" : "40.770897",
+  "location" : "31st Avenue/122nd Street",
+  "primary_disposal_facility" : "North Shore MTS",
+  "longitude" : "-73.849199"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "QN07",
+  "latitude" : "40.81874",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882543"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "QN08",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Paper",
+  "district" : "QN08",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Refuse",
+  "district" : "QN08",
+  "latitude" : "40.770897",
+  "location" : "31st Avenue/122nd Street",
+  "primary_disposal_facility" : "North Shore MTS",
+  "longitude" : "-73.849199"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "QN09",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Paper",
+  "district" : "QN09",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Refuse",
+  "district" : "QN09",
+  "latitude" : "40.770897",
+  "location" : "31st Avenue/122nd Street",
+  "primary_disposal_facility" : "North Shore MTS",
+  "longitude" : "-73.849199"
+}
+, {
+  "material" : "Refuse",
+  "district" : "QN10",
+  "latitude" : "40.703493",
+  "location" : "172-06 Douglas Avenue Jamaica, NY",
+  "primary_disposal_facility" : "Regal Recycling",
+  "longitude" : "-73.79182"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "QN10",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Paper",
+  "district" : "QN10",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "QN11",
+  "latitude" : "40.818772",
+  "location" : "850 Edgewater Road  Bronx, NY",
+  "primary_disposal_facility" : "Sims - Bronx",
+  "longitude" : "-73.882554"
+}
+, {
+  "material" : "Paper",
+  "district" : "QN11",
+  "latitude" : "40.768633",
+  "location" : "31-33 Farrington St Queens, NY",
+  "primary_disposal_facility" : "Lobosco",
+  "longitude" : "-73.832984"
+}
+, {
+  "material" : "Refuse",
+  "district" : "QN11",
+  "latitude" : "40.770897",
+  "location" : "31st Avenue/122nd Street",
+  "primary_disposal_facility" : "North Shore MTS",
+  "longitude" : "-73.849199"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "QN12",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Paper",
+  "district" : "QN12",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Refuse",
+  "district" : "QN12",
+  "latitude" : "40.770897",
+  "location" : "31st Avenue/122nd Street",
+  "primary_disposal_facility" : "North Shore MTS",
+  "longitude" : "-73.849199"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "QN13",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Paper",
+  "district" : "QN13",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Refuse",
+  "district" : "QN13",
+  "latitude" : "40.770897",
+  "location" : "31st Avenue/122nd Street",
+  "primary_disposal_facility" : "North Shore MTS",
+  "longitude" : "-73.849199"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "QN13A",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Paper",
+  "district" : "QN13A",
+  "latitude" : "40.768633",
+  "location" : "31-33 Farrington St Queens, NY",
+  "primary_disposal_facility" : "Lobosco",
+  "longitude" : "-73.832984"
+}
+, {
+  "material" : "Refuse",
+  "district" : "QN13A",
+  "latitude" : "40.770897",
+  "location" : "31st Avenue/122nd Street",
+  "primary_disposal_facility" : "North Shore MTS",
+  "longitude" : "-73.849199"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "QN14",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Paper",
+  "district" : "QN14",
+  "latitude" : "40.737347",
+  "location" : "30-27 Greenpoint Avenue LIC, NY",
+  "primary_disposal_facility" : "Sims - LIC",
+  "longitude" : "-73.943138"
+}
+, {
+  "material" : "Refuse",
+  "district" : "QN14",
+  "latitude" : "40.770897",
+  "location" : "31st Avenue/122nd Street",
+  "primary_disposal_facility" : "North Shore MTS",
+  "longitude" : "-73.849199"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "SI01",
+  "latitude" : "40.687229",
+  "location" : "1 Linden Avenue East Jersey City, NJ",
+  "primary_disposal_facility" : "Sims - Jersey ",
+  "longitude" : "-74.080709"
+}
+, {
+  "material" : "Paper",
+  "district" : "SI01",
+  "latitude" : "40.587147",
+  "location" : "4435 Victory Blvd SI, NY",
+  "primary_disposal_facility" : "Visy",
+  "longitude" : "-74.199155"
+}
+, {
+  "material" : "Refuse",
+  "district" : "SI01",
+  "latitude" : "40.585864",
+  "location" : "600 West Service Rd Staten Island, NY",
+  "primary_disposal_facility" : "SITS",
+  "longitude" : "-74.193074"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "SI02",
+  "latitude" : "40.687229",
+  "location" : "1 Linden Avenue East Jersey City, NJ",
+  "primary_disposal_facility" : "Sims - Jersey",
+  "longitude" : "-74.080709"
+}
+, {
+  "material" : "Paper",
+  "district" : "SI02",
+  "latitude" : "40.587147",
+  "location" : "4435 Victory Blvd SI, NY",
+  "primary_disposal_facility" : "Visy",
+  "longitude" : "-74.199155"
+}
+, {
+  "material" : "Refuse",
+  "district" : "SI02",
+  "latitude" : "40.585864",
+  "location" : "600 West Service Rd Staten Island, NY",
+  "primary_disposal_facility" : "SITS",
+  "longitude" : "-74.193074"
+}
+, {
+  "material" : "Met, Glass, Plastic",
+  "district" : "SI03",
+  "latitude" : "40.687229",
+  "location" : "1 Linden Avenue East Jersey City, NJ",
+  "primary_disposal_facility" : "Sims - Jersey",
+  "longitude" : "-74.080709"
+}
+, {
+  "material" : "Paper",
+  "district" : "SI03",
+  "latitude" : "40.587147",
+  "location" : "4435 Victory Blvd SI, NY",
+  "primary_disposal_facility" : "Visy",
+  "longitude" : "-74.199155"
+}
+, {
+  "material" : "Refuse",
+  "district" : "SI03",
+  "latitude" : "40.585864",
+  "location" : "600 West Service Rd Staten Island, NY",
+  "primary_disposal_facility" : "SITS",
+  "longitude" : "-74.193074"
+}
+ ]

@@ -1,0 +1,1193 @@
+[ {
+  "dataset_description" : "Number of children placed in foster care by their CD of origin",
+  "agency" : "Administration for Children's Services (ACS)",
+  "update_frequency" : "Annually",
+  "dataset" : "Placements by Community District (CD)"
+}
+, {
+  "dataset_description" : "Abuse/neglect investigations by CD of family",
+  "agency" : "Administration for Children's Services (ACS)",
+  "update_frequency" : "Annually",
+  "dataset" : "Abuse/Neglect by CD"
+}
+, {
+  "dataset_description" : "Select Child Welfare indicators reported in compliance with Introduction 15 passed by the New York City Council in 2006",
+  "agency" : "Administration for Children's Services (ACS)",
+  "update_frequency" : "Quarterly",
+  "dataset" : "Child Welfare Indicators -Annual and quarterly report indicators"
+}
+, {
+  "dataset_description" : "Unadjusted decennial census data from 1950-2000 and projected figures from 2010-2040: summary table of New York City population numbers and percentage share by Borough, including school-age (5 to 17), 65 and Over, and total population.",
+  "agency" : "Department of City Planning (DCP)",
+  "update_frequency" : "Historical Data",
+  "dataset" : "New York City Population by Borough, 1950 - 2040"
+}
+, {
+  "dataset_description" : "Unadjusted decennial census data from 1950-2000 and projected figures from 2010-2040: summary table of New York City population numbers and percentage share by Borough, including school-age (5 to 17), 65 and Over, and total population.",
+  "agency" : "Department of City Planning (DCP)",
+  "update_frequency" : "Historical Data",
+  "dataset" : "New York City’s School-Age and 65 and Over Populations by Borough, 1950 – 2040"
+}
+, {
+  "dataset_description" : "Archived History of Primary Land Use Tax Lot Output (PLUTO).\nThe PLUTO tax lot data files contain over seventy data fields derived from extracts of mainframe data files maintained by the Department of City Planning (DCP), Department of Finance (DOF), Department of Citywide Administrative Services (DCAS), and from information contained in Landmarks Preservation Commission (LPC) publications and web site.",
+  "agency" : "Department of City Planning (DCP)",
+  "update_frequency" : "Historical Data",
+  "dataset" : "Archived Primary Land Use Tax Lot Output (PLUTO)"
+}
+, {
+  "dataset_description" : "DCP 2040 population projection tables.",
+  "agency" : "Department of City Planning (DCP)",
+  "update_frequency" : "As Needed",
+  "dataset" : "2040 Population Projection Tables"
+}
+, {
+  "dataset_description" : "Individuals buried on Hart Island with date and place of death when available",
+  "agency" : "Department of Correction (DOC)",
+  "update_frequency" : "Quarterly",
+  "dataset" : "Hart Island Burial Records"
+}
+, {
+  "dataset_description" : "Directory of Universal Pre-K (UPK) School Locations",
+  "agency" : "Department of Education (DOE)",
+  "update_frequency" : "As needed",
+  "dataset" : "Universal Pre-K (UPK) School Locations"
+}
+, {
+  "dataset_description" : "List of acceptable reduced pressure detector assemblies",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Acceptable Reduced Pressure Detector Assemblies"
+}
+, {
+  "dataset_description" : "Cryptosporidium and Giardia Background Information and Monitoring Program",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Cryptosporidium and Giardia Data Set"
+}
+, {
+  "dataset_description" : "The data tables provides current reservoir storage levels along with release, diversion, and spill rates",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "update_frequency" : "Monthly",
+  "dataset" : "Reservoir Provisional Data"
+}
+, {
+  "dataset_description" : "The data tables provides current precipitation and reservoir capacity data",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "update_frequency" : "Monthly",
+  "dataset" : "Water Report"
+}
+, {
+  "dataset_description" : "List of acceptable double check valve assemblies",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Acceptable Double Check Valve Assemblies"
+}
+, {
+  "dataset_description" : "List of acceptable reduced pressure zone devices",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Acceptable Reduced Pressure Zone Devices"
+}
+, {
+  "dataset_description" : "List of acceptable double detector assemblies",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Acceptable Double Check Detector Assemblies"
+}
+, {
+  "dataset_description" : "Data from tables and charts included in DEP's Combined Sewer Overflow Best Management Practices Annual Report",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "update_frequency" : "Annually",
+  "dataset" : "CSO BMP Report Appendices"
+}
+, {
+  "agency" : "Department of Environmental Protection (DEP)",
+  "update_frequency" : "As needed",
+  "dataset" : "Hurricane Storm Surge Depths - NNE Bearing"
+}
+, {
+  "dataset_description" : "New York city plant locations and capacities",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "update_frequency" : "As Needed",
+  "dataset" : "Wastewater Treatment Plant Data"
+}
+, {
+  "dataset_description" : "Property Details for Personal Property Related Documents Recorded in ACRIS",
+  "agency" : "Department of Finance (DOF)",
+  "update_frequency" : "Monthly",
+  "dataset" : "ACRIS - Personal Property Legals"
+}
+, {
+  "dataset_description" : "Location and facility information for New York City farmers markets.",
+  "agency" : "Department of Health and Mental Hygiene (DOHMH)",
+  "update_frequency" : "Monthly",
+  "dataset" : "New York City Farmers Markets"
+}
+, {
+  "dataset_description" : "Location and facility information for places in New York City providing seasonal flu vaccinations.",
+  "agency" : "Department of Health and Mental Hygiene (DOHMH)",
+  "update_frequency" : "Monthly",
+  "dataset" : "New York City Locations Providing Seasonal Flu Vaccinations"
+}
+, {
+  "dataset_description" : "The location and facility information for doctors who participate in NYC Regional Electronic Adoption Center for Health (REACH), which assists providers in adopting technology and methods for electronic health records.",
+  "agency" : "Department of Health and Mental Hygiene (DOHMH)",
+  "update_frequency" : "Quarterly",
+  "dataset" : "NYC REACH Members"
+}
+, {
+  "dataset_description" : "Per Local Law 44 of 2013, HPD is required to publish building location, affordability, development team and cost information for all housing development projects. The data set includes all required elements of Local Law 44",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Semi-Annually",
+  "dataset" : "Local Law 44"
+}
+, {
+  "dataset_description" : "The data set contains information on work orders created through HPD's Emergency Repair Program, Alternative Enforcement Program and Demolition programs and fees assessed against properties by HPD pursuant the Housing Manteca Code.  The work orders are created to conduct emergency repair work when an owner fails to address a hazardous condition pursuant to the requirements of an HPD-issued violation, a Department of Buildings Declaration of Emergency, a Department of Health Commissioner's Order to Abate or an emergency violation issued by another City Agency",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Monthly",
+  "dataset" : "Charges "
+}
+, {
+  "dataset_description" : "HPD issues violations against conditions in rental dwelling units that been verified to violate the NYC Housing Maintenance Code (HMC) or the NY State Multiple Dwelling Law (MDL). Violations are issued when an inspection verifies that a violation of the HMC or MDL exists.  It is closed when a violation is corrected",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Monthly",
+  "dataset" : "Violations"
+}
+, {
+  "dataset_description" : "HPD records complaints that are made by the public through the 311 City Services Center, Code Enforcement Borough Offices or the internet for conditions which violate the NYC Housing Maintenance Code or the NY State Multiple Dwelling Law (MDL).  Each complaint is associated with one or more problems reported by the complainant",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Monthly",
+  "dataset" : "Complaints"
+}
+, {
+  "dataset_description" : "HPD Housing Litigation Division (HLD) initiates action into the Housing Court against owners of privately-owned buildings to enforce compliance with the housing quality standards contained in the NY State Multiple Dwelling Law and NYC Housing Maintenance Code",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Monthly",
+  "dataset" : "Litigation"
+}
+, {
+  "dataset_description" : "HPD collected registration information from owners of residential rental units.  Owners are required to register if they own residential buildings with 3 or more units or if they own one- or two- family homes and neither they nor members of their immediate family live there",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Monthly",
+  "dataset" : "Registration"
+}
+, {
+  "dataset_description" : "Pursuant to New York City's Housing Maintenance Code, HPD collects information on multiple dwellings in New York City, and other buildings that fall under its jurisdiction. The list contains building location information, multiple registration numbers and the number of dwelling units by type ",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Monthly",
+  "dataset" : "Building"
+}
+, {
+  "dataset_description" : "Information on tax incentive Year 1 amounts, name and type for those tax exemptions or abatements that meet the definition of City Financial Assistance for each project.",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Biannually",
+  "dataset" : "HPD Tax Incentive Element"
+}
+, {
+  "dataset_description" : "Information on the amounts, names and types of other City Financial Assistance such as credit facility, HPD Section 8 Project Based Voucher (PBV) Housing Assistance Payment (HAP), Inclusionary affordable floor area, and discounted land value for each project.",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Biannually",
+  "dataset" : "HPD Other City Financial Assistance Element"
+}
+, {
+  "dataset_description" : "Contains information about problems associated with complaints.",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Monthly",
+  "dataset" : "Complaint Problems"
+}
+, {
+  "dataset_description" : "Contains information about fees assessed against properties by HPD pursuant to the Housing Maintenance Code.",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Monthly",
+  "dataset" : "Fee Charges"
+}
+, {
+  "dataset_description" : "Contains information about invoices submitted to HPD by private contractors under an OMO.",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Monthly",
+  "dataset" : "Invoices for Open Market Order (OMO) Charges"
+}
+, {
+  "dataset_description" : "Building-level information for each building in the project such as address, other location identifiers, stories, and square footage at base.",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Biannually",
+  "dataset" : "HPD Project Building Element"
+}
+, {
+  "dataset_description" : "Development team information for the developer (Borrower Legal Entity), GC, and subcontractors for each project.",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Biannually",
+  "dataset" : "HPD Development Team  Element"
+}
+, {
+  "dataset_description" : "Information on a Housing Development Project about which HPD is required to report. This includes general project information such as start and completion dates, units, Borrower Legal Entity, general contractor (GC), and prevailing wage information.",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Biannually",
+  "dataset" : "HPD Project Element"
+}
+, {
+  "dataset_description" : "Information on how the developer was selected for each project.",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Biannually",
+  "dataset" : "HPD Developer Selection Element"
+}
+, {
+  "dataset_description" : "Information on units disaggregated by rent affordability for each building in a project.",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Biannually",
+  "dataset" : "HPD Rent Affordability Element"
+}
+, {
+  "dataset_description" : "Information on the number of bedrooms disaggregated by maximum allowable household income and initial legal and actual rents for each building in a project.",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Biannually",
+  "dataset" : "HPD Unit Income Rent  Element"
+}
+, {
+  "dataset_description" : "Information on Low Income Housing Tax Credit (LIHTC) allocation amounts and type for those LIHTC allocations that meet the definition of City Financial Assistance for each project.",
+  "agency" : "Department of Housing Preservation and Development (HPD)",
+  "update_frequency" : "Biannually",
+  "dataset" : "HPD LIHTC Element"
+}
+, {
+  "dataset_description" : "A listing of all available and planned datasets for use in feeding API calls and embedded lists on the NYC Open Data Compliance Plan Dashboard",
+  "agency" : "Department of Information Technology & Telecommunications (DoITT)",
+  "update_frequency" : "As needed",
+  "dataset" : "NYC Open Data Plan Dashboard Values"
+}
+, {
+  "dataset_description" : "CSCL PUB Centerline is a road-bed representation of New York City streets containing address ranges and other information such as traffic directions, road types, segment types",
+  "agency" : "Department of Information Technology & Telecommunications (DoITT)",
+  "update_frequency" : "As needed",
+  "dataset" : "CSCL PUB Centerline"
+}
+, {
+  "dataset_description" : "Planimetric basemap polygon layer containing sidewalk features",
+  "agency" : "Department of Information Technology & Telecommunications (DoITT)",
+  "update_frequency" : "As needed",
+  "dataset" : "Sidewalk Features"
+}
+, {
+  "dataset_description" : "Public pay telephone location data from around NYC",
+  "agency" : "Department of Information Technology & Telecommunications (DoITT)",
+  "update_frequency" : "As needed",
+  "dataset" : "Public Pay Telephone Locations"
+}
+, {
+  "dataset_description" : "Planimetric basemap layer containing hydrography",
+  "agency" : "Department of Information Technology & Telecommunications (DoITT)",
+  "update_frequency" : "As needed",
+  "dataset" : "Hydrography"
+}
+, {
+  "dataset_description" : "Planimetric basemap layer containing railroad lines",
+  "agency" : "Department of Information Technology & Telecommunications (DoITT)",
+  "update_frequency" : "As needed",
+  "dataset" : "New York City Rail Roads"
+}
+, {
+  "dataset_description" : "Planimetric basemap layer containing pavement edge features.",
+  "agency" : "Department of Information Technology & Telecommunications (DoITT)",
+  "update_frequency" : "As needed",
+  "dataset" : "New York City Pavement Edges"
+}
+, {
+  "dataset_description" : "Planimetric basemap layer containing the roadbed",
+  "agency" : "Department of Information Technology & Telecommunications (DoITT)",
+  "update_frequency" : "As needed",
+  "dataset" : "Roadbed"
+}
+, {
+  "dataset_description" : "Data on DoITT's high-capacity/telecommunications services franchise agreements",
+  "agency" : "Department of Information Technology and Telecommunications (DoITT)",
+  "update_frequency" : "Quarterly",
+  "dataset" : "Hi-Caps"
+}
+, {
+  "dataset_description" : "Directory of Department of Parks and Recreation (DPR) athletic facilities.",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "update_frequency" : "As needed",
+  "dataset" : "Athletic Facilities"
+}
+, {
+  "dataset_description" : "Directory of Functional Parkland",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "update_frequency" : "As needed",
+  "dataset" : "Functional Parkland"
+}
+, {
+  "dataset_description" : "Directory of Schoolyard to playground conversions",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "update_frequency" : "As needed",
+  "dataset" : "Schoolyards To Playgrounds"
+}
+, {
+  "dataset_description" : "Directory of Parking Lots",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "update_frequency" : "As needed",
+  "dataset" : "Parking Lots"
+}
+, {
+  "dataset_description" : "Directory of Golf Courses",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "update_frequency" : "As needed",
+  "dataset" : "Golf Courses"
+}
+, {
+  "dataset_description" : "Directory of Landfills",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "update_frequency" : "As needed",
+  "dataset" : "Landfills"
+}
+, {
+  "dataset_description" : "Directory of Spray Showers",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "update_frequency" : "As needed",
+  "dataset" : "Spray Showers"
+}
+, {
+  "dataset_description" : "Directory of Model Aircraft Fields",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "update_frequency" : "As needed",
+  "dataset" : "Model Aircraft Fields"
+}
+, {
+  "dataset_description" : "Directory of Parks Properties",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "update_frequency" : "As needed",
+  "dataset" : "Parks Properties"
+}
+, {
+  "dataset_description" : "Directory of Play Areas",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "update_frequency" : "As needed",
+  "dataset" : "Play Areas"
+}
+, {
+  "dataset_description" : "Directory Pools",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "update_frequency" : "As needed",
+  "dataset" : "Pools"
+}
+, {
+  "dataset_description" : "Directory of Skateparks",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "update_frequency" : "As needed",
+  "dataset" : "Skateparks"
+}
+, {
+  "dataset_description" : "The New York City Water Trail connects New York City’s rivers, creeks, and waterways together for paddling enthusiasts. Use this data to find launch sites on the water trail for kayaks and other openwater rowing craft",
+  "agency" : "Department of Parks and Recreation (DPR)",
+  "update_frequency" : "As needed",
+  "dataset" : "New York City Water Trail (Kayak and Canoe Launch Sites)"
+}
+, {
+  "dataset_description" : "This table contains the number of presentence investigations completed by the Department during a fiscal year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Juvenile Operations - Investigations (Fiscal Year)"
+}
+, {
+  "dataset_description" : "This table provides a breakdown of early discharges during a calendar year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Adult Early Discharges (EDs) (Calendar Year)"
+}
+, {
+  "dataset_description" : "This table provides a breakdown of early discharges during a fiscal year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Adult Early Discharges (EDs) (Fiscal Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of probationers under supervision on the last day of a calendar year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Adult Operations - End-of-Year Probationer Count (Calendar Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of presentence investigations completed by the Department during a calendar year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Adult Operations - Investigations (Calendar Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of probationers under supervision on the last day of a fiscal year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Adult Operations - End-of-Year Probationer Count (Fiscal Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of adult probation supervision cases serviced by the Department during a calendar year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Adult Operations - Total Cases Supervised (Calendar Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of adult probation supervision cases serviced by the Department during a fiscal year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Adult Operations - Total Cases Supervised (Fiscal Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of violation proceedings disposed for adult probationers during a calendar year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Adult Violations of Probation Disposed (Calendar Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of violation proceedings disposed for adult probationers during a fiscal year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Adult Violations of Probation Disposed (Fiscal Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of \"Violation of Probation” proceedings filed in court against adult probationers during a calendar year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Adult Violations of Probation Filed (Calendar Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of \"Violation of Probation” proceedings filed in court against adult probationers during a fiscal year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Adult Violations of Probation Filed (Fiscal Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of probation supervision intakes completed by the Department during a calendar year ",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Adult Operations - Intake (Calendar Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of probation supervision intakes completed by the Department during a fiscal year ",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Adult Operations - Intake (Fiscal Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of probationers under supervision on the last day of a calendar year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Juvenile Operations - End-of-Year Probationer Count (Calendar Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of probationers under supervision on the last day of a fiscal year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Juvenile Operations - End-of-Year Probationer Count (Fiscal Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of probation cases serviced by the Department during a calendar year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Juvenile Operations - Total Cases Supervised (Calendar Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of probation cases serviced by the Department during a fiscal year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Juvenile Operations - Total Cases Supervised (Fiscal Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of violation proceedings disposed for juvenile probationers during a fiscal year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Juvenile Violations of Probation Disposed (Fiscal Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of violation proceedings disposed for juvenile probationers during a calendar year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Juvenile Violations of Probation Disposed (Calendar Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of \"Violation of Probation\" proceedings filed in court against juvenile probationers during a calendar year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Juvenile Violations of Probation Filed (Calendar Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of \"Violation of Probation\" proceedings filed in court against juvenile probationers during a fiscal year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Juvenile Violations of Probation Filed (Fiscal Year)"
+}
+, {
+  "dataset_description" : "This table contains juvenile delinquency Intake cases open for adjustment services during a calendar year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Juvenile Operations - Intake Adjustments (Calendar Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of presentence investigations completed by the Department during a fiscal year  ",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Adult Operations - Investigations (Fiscal Year)"
+}
+, {
+  "dataset_description" : "This table contains juvenile delinquency Intake cases open for adjustment services during a fiscal year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Juvenile Operations - Intake Adjustments (Fiscal Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of intakes by the Department during a calendar year ",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Juvenile Operations - Intake (Calendar Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of intakes by the Department during a fiscal year ",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Juvenile Operations - Intake (Fiscal Year)"
+}
+, {
+  "dataset_description" : "This table contains the number of presentence investigations completed by the Department during a calendar year",
+  "agency" : "Department of Probation (DOP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Juvenile Operations - Investigations (Calendar Year)"
+}
+, {
+  "dataset_description" : "DSNY Graffiti Information",
+  "agency" : "Department of Sanitation (DSNY)",
+  "update_frequency" : "Monthly",
+  "dataset" : "DSNY Graffiti Information"
+}
+, {
+  "dataset_description" : "DSNY Monthly Tonnage Data",
+  "agency" : "Department of Sanitation (DSNY)",
+  "update_frequency" : "Monthly",
+  "dataset" : "DSNY Monthly Tonnage Data"
+}
+, {
+  "dataset_description" : "Vehicle classification counts collected by DOT for New York Metropolitan Transportation Council (NYMTC) to validate the New York Best Practice Model (NYBPM). For NYBPM screenline locations where data has been collected within the last three years are not considered for data collection for the present year. DOT collects data on at least 10% of the total NYBPM screenline locations.",
+  "agency" : "Department of Transportation (DOT)",
+  "update_frequency" : "As Needed",
+  "dataset" : "Vehicle Classification Counts (2012-2013)"
+}
+, {
+  "dataset_description" : "Vehicle classification counts collected by DOT for New York Metropolitan Transportation Council (NYMTC) to validate the New York Best Practice Model (NYBPM). For NYBPM screenline locations where data has been collected within the last three years are not considered for data collection for the present year. DOT collects data on at least 10% of the total NYBPM screenline locations.",
+  "agency" : "Department of Transportation (DOT)",
+  "update_frequency" : "As needed",
+  "dataset" : "Vehicle Classification Counts (2011-2012)"
+}
+, {
+  "dataset_description" : "Traffic volume counts collected by DOT for New York Metropolitan Transportation Council (NYMTC) to validate the New York Best Practice Model (NYBPM). For NYBPM screenline locations where data has been collected within the last three years are not considered for data collection for the present year. DOT collects data on at least 30% of the total NYBPM screenline locations.",
+  "agency" : "Department of Transportation (DOT)",
+  "update_frequency" : "As needed",
+  "dataset" : "Traffic Volume Counts (2012-2013)"
+}
+, {
+  "dataset_description" : "Extract of WalkNYC Focus base map for the Long Island City area of Queens, prepared for the 2014 NYC BigApps Competition. The map is designed to be displayed on street signs at a scale of 1:1,500. The map is current as of 6/19/2014.",
+  "agency" : "Department of Transportation (DOT)",
+  "update_frequency" : "As needed",
+  "dataset" : "WalkNYC Long Island City Focus Base Map"
+}
+, {
+  "dataset_description" : "GIS-based dataset (polygons) containing boundaries of scenic sites (e.g. parks) proposed or designated as New York City scenic landmarks from the moment of calendaring through designation or later actions, including relevant dates and other descriptive fields",
+  "agency" : "Landmarks Preservation Commission (LPC)",
+  "update_frequency" : "Annually",
+  "dataset" : "Scenic Landmark Boundaries"
+}
+, {
+  "dataset_description" : "GIS-based dataset (points) containing properties proposed or designated as New York City Landmarks from the moment of calendaring through designation or later actions, including relevant dates and other descriptive fields",
+  "agency" : "Landmarks Preservation Commission (LPC)",
+  "update_frequency" : "Quarterly",
+  "dataset" : "Landmark List"
+}
+, {
+  "dataset_description" : "GIS-based dataset (polygons) containing boundaries of areas proposed or designated as New York City historic districts from the moment of calendaring through designation or later actions, including relevant dates and other descriptive fields",
+  "agency" : "Landmarks Preservation Commission (LPC)",
+  "update_frequency" : "Quarterly",
+  "dataset" : "Historic District Boundaries"
+}
+, {
+  "dataset_description" : "This list contains information on tourism grants",
+  "agency" : "Manhattan Borough President (MBP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Tourism Grants"
+}
+, {
+  "dataset_description" : "This list contains information on capital grants",
+  "agency" : "Manhattan Borough President (MBP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Capital Grants"
+}
+, {
+  "dataset_description" : "This list contains information on Manhattan Community Grants",
+  "agency" : "Manhattan Borough President (MBP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Manhattan Community Grants"
+}
+, {
+  "dataset_description" : "This list contains information on community board appointments.",
+  "agency" : "Manhattan Borough President (MBP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Community Board Appointments"
+}
+, {
+  "dataset_description" : "This list contains information on community board applications.",
+  "agency" : "Manhattan Borough President (MBP)",
+  "update_frequency" : "Annually",
+  "dataset" : "Community Board Applications"
+}
+, {
+  "dataset_description" : "Statistical breakdown by citywide, borough, and precinct",
+  "agency" : "New York Police Department (NYPD)",
+  "update_frequency" : "Annually",
+  "dataset" : "Stop, Question and Frisk Reports"
+}
+, {
+  "dataset_description" : "Details of Motor Vehicle Collisions in New York City provided by the Police Department (NYPD).",
+  "agency" : "New York Police Department (NYPD)",
+  "update_frequency" : "Weekdays",
+  "dataset" : "NYPD Motor Vehicle Collisions"
+}
+, {
+  "dataset_description" : "Annual spending for personal services and OTPS within each agency",
+  "agency" : "NYC Independent Budget Office (IBO)",
+  "update_frequency" : "Annually",
+  "dataset" : "Agency Expenditures"
+}
+, {
+  "dataset_description" : "Annual revenue and spending data by major areas of the budget",
+  "agency" : "NYC Independent Budget Office (IBO)",
+  "update_frequency" : "Annually",
+  "dataset" : "Revenue and Spending Summary"
+}
+, {
+  "dataset_description" : "Actual full-time positions as of June 30 of each year by agency",
+  "agency" : "NYC Independent Budget Office (IBO)",
+  "update_frequency" : "Annually",
+  "dataset" : "Actual Full-time Positions by Agency"
+}
+, {
+  "dataset_description" : "Annual tax revenue from major tax sources",
+  "agency" : "NYC Independent Budget Office (IBO)",
+  "update_frequency" : "Annually",
+  "dataset" : "Tax Revenues"
+}
+, {
+  "dataset_description" : "Annual non-tax revenue from major revenue sources",
+  "agency" : "NYC Independent Budget Office (IBO)",
+  "update_frequency" : "Annually",
+  "dataset" : "Non-tax Revenues"
+}
+, {
+  "dataset_description" : "Annual state and federal categorical aid by purpose of grant",
+  "agency" : "NYC Independent Budget Office (IBO)",
+  "update_frequency" : "Annually",
+  "dataset" : "State and Federal Categorical Aid"
+}
+, {
+  "dataset_description" : "Annual capital expenditures, by capital budget area and agency",
+  "agency" : "NYC Independent Budget Office (IBO)",
+  "update_frequency" : "Annually",
+  "dataset" : "Capital Expenditures Since 1985"
+}
+, {
+  "dataset_description" : "Annual spending by and behalf of the Department of Education since 1990, adjusted for inflation",
+  "agency" : "NYC Independent Budget Office (IBO)",
+  "update_frequency" : "Annually",
+  "dataset" : "School Spending Since 1990"
+}
+, {
+  "dataset_description" : "Annual spending on debt service",
+  "agency" : "NYC Independent Budget Office (IBO)",
+  "update_frequency" : "Annually",
+  "dataset" : "Debt Service since 2000"
+}
+, {
+  "dataset_description" : "Amount of debt outstanding as of June 30 of each year",
+  "agency" : "NYC Independent Budget Office (IBO)",
+  "update_frequency" : "Annually",
+  "dataset" : "Debt Outstanding since 2000"
+}
+, {
+  "dataset_description" : "Number of tax filers/payers and total income by income ranges",
+  "agency" : "NYC Independent Budget Office (IBO)",
+  "update_frequency" : "Annually",
+  "dataset" : "Personal income by AGI range"
+}
+, {
+  "dataset_description" : "Number of tax filers/payers and income from various types of income by income ranges",
+  "agency" : "NYC Independent Budget Office (IBO)",
+  "update_frequency" : "Annually",
+  "dataset" : "Income by type of income and AGI range"
+}
+, {
+  "dataset_description" : "Number of tax filers/payers and total city tax liability by income ranges",
+  "agency" : "NYC Independent Budget Office (IBO)",
+  "update_frequency" : "Annually",
+  "dataset" : "Tax liability by AGI range"
+}
+, {
+  "dataset_description" : "Number of tax filers/payers using various tax credits and amount of credit, by income ranges",
+  "agency" : "NYC Independent Budget Office (IBO)",
+  "update_frequency" : "Annually",
+  "dataset" : "Tax credits used by AGI ranges"
+}
+, {
+  "dataset_description" : "The Environmental Control Board Notice of Violations dataset contains information about violations that are being adjudicated through the court and provides information about the infraction decision and dismissal reason, payments, amounts and fees relating to the violation",
+  "agency" : "Office of Administrative Trials and Hearings (OATH)",
+  "update_frequency" : "Daily",
+  "dataset" : "ECB NOVs New Line"
+}
+, {
+  "dataset_description" : "Type and address of emergency incident to which OEM responded",
+  "agency" : "Office of Emergency Management (OEM)",
+  "update_frequency" : "Quarterly",
+  "dataset" : "Emergency response incidents"
+}
+, {
+  "dataset_description" : "Events held to increase public preparedness",
+  "agency" : "Office of Emergency Management (OEM)",
+  "update_frequency" : "Quarterly",
+  "dataset" : "ReadyNY events"
+}
+, {
+  "dataset_description" : "Organizations that have completed specified emergency preparedness tasks",
+  "agency" : "Office of Emergency Management (OEM)",
+  "update_frequency" : "Quarterly",
+  "dataset" : "Partners in Preparedness"
+}
+, {
+  "dataset_description" : "Areas targeted for ReadyNY guide distribution following a nearby incident, such as a large fire or water main break",
+  "agency" : "Office of Emergency Management (OEM)",
+  "update_frequency" : "Quarterly",
+  "dataset" : "Incident based distribution of RNY guides"
+}
+, {
+  "dataset_description" : "Messages sent with information about emergency events and important City services",
+  "agency" : "Office of Emergency Management (OEM)",
+  "update_frequency" : "Quarterly",
+  "dataset" : "Emergency notifications"
+}
+, {
+  "dataset_description" : "Storm surge depths for a hurricane moving towards the north-northeast at landfall",
+  "agency" : "Office of Emergency Management (OEM)",
+  "update_frequency" : "As needed",
+  "dataset" : "Hurricane Storm Surge Depths - NNE Bearing"
+}
+, {
+  "dataset_description" : "Storm surge depths for a hurricane moving towards the west-northwest at landfall",
+  "agency" : "Office of Emergency Management (OEM)",
+  "update_frequency" : "As needed",
+  "dataset" : "Hurricane Storm Surge Depths - WNW Bearing"
+}
+, {
+  "dataset_description" : "Storm surge depths for a hurricane moving towards the north at landfall",
+  "agency" : "Office of Emergency Management (OEM)",
+  "update_frequency" : "As needed",
+  "dataset" : "Hurricane Storm Surge Depths - N Bearing"
+}
+, {
+  "dataset_description" : "Storm surge depths for a hurricane moving towards the north-northwest at landfall",
+  "agency" : "Office of Emergency Management (OEM)",
+  "update_frequency" : "As needed",
+  "dataset" : "Hurricane Storm Surge Depths - NNW Bearing"
+}
+, {
+  "dataset_description" : "Worst case storm surge inundation areas.  These are the SLOSH MOM zones.",
+  "agency" : "Office of Emergency Management (OEM)",
+  "update_frequency" : "As needed",
+  "dataset" : "Hurricane Inundation Zones - Worst Case"
+}
+, {
+  "dataset_description" : "Storm surge depths for a hurricane moving towards the northeast at landfall",
+  "agency" : "Office of Emergency Management (OEM)",
+  "update_frequency" : "As needed",
+  "dataset" : "Hurricane Storm Surge Depths - NE Bearing"
+}
+, {
+  "dataset_description" : "List of Citizen Emergency Response Teams (CERT)",
+  "agency" : "Office of Emergency Management (OEM)",
+  "update_frequency" : "Quarterly",
+  "dataset" : "Citizen Emergency Response Team (CERT)"
+}
+, {
+  "dataset_description" : "Storm surge depths for a hurricane moving towards the northwest at landfall",
+  "agency" : "Office of Emergency Management (OEM)",
+  "update_frequency" : "As Needed",
+  "dataset" : "Hurricane Storm Surge Depths - NW Bearing"
+}
+, {
+  "dataset_description" : "Data set contains expense budgets by agency for actual fiscal years and five financial plan fiscal years in All funds.",
+  "agency" : "Office of Management and Budget (OMB)",
+  "update_frequency" : "Quarterly",
+  "dataset" : "NYC Budget Expense All Funds"
+}
+, {
+  "dataset_description" : "Data set contains expense budgets by agency for actual fiscal years and five financial plan fiscal years in City funds.",
+  "agency" : "Office of Management and Budget (OMB)",
+  "update_frequency" : "Quarterly",
+  "dataset" : "NYC Budget Expense City Funds"
+}
+, {
+  "dataset_description" : "Data set contains revenue for actual fiscal years and five financial plan fiscal years. Revenue includes Taxes, Miscellaneous Revenues, Unrestricted Intergovernmental Aid, Disallowance of Categorical Grants, Federal Grants, State Grants, Other Categorical Grants, and Capital IFA.",
+  "agency" : "Office of Management and Budget (OMB)",
+  "update_frequency" : "Quarterly",
+  "dataset" : "NYC Budget Revenue"
+}
+, {
+  "dataset_description" : "Data set contains revenue for actual fiscal years and five financial plan fiscal years. Revenue includes Taxes, Miscellaneous Revenues, Unrestricted Intergovernmental Aid, Disallowance of Categorical Grants, Federal Grants, State Grants, Other Categorical Grants, and Capital IFA. Additional revenue subcategories provided for Miscellaneous Revenues, Federal Grants, and State Grants.",
+  "agency" : "Office of Management and Budget (OMB)",
+  "update_frequency" : "Quarterly",
+  "dataset" : "NYC Budget Revenue Additional"
+}
+, {
+  "dataset_description" : "Data set contains capital commitments for actual fiscal years and five financial plan fiscal years in All funds.",
+  "agency" : "Office of Management and Budget (OMB)",
+  "update_frequency" : "Quarterly",
+  "dataset" : "NYC Capital All Funds"
+}
+, {
+  "dataset_description" : "Financial Transparency System - Includes information on Budget, Revenue, Spending, Contracts and Payroll",
+  "agency" : "Office of the Comptroller (COMPTROLLER)",
+  "update_frequency" : "Daily",
+  "dataset" : "Checkbook 2.0"
+}
+, {
+  "dataset_description" : "This list contains information on approved event applications.",
+  "agency" : "Office of the Mayor (OTM)",
+  "update_frequency" : "Daily",
+  "dataset" : "Trust for Governors Island Approved Event Applications"
+}
+, {
+  "dataset_description" : "This list contains information on approved event applications",
+  "agency" : "Office of the Mayor (OTM)",
+  "update_frequency" : "Daily",
+  "dataset" : "Brooklyn Bridge Park Approved Event Applications"
+}
+, {
+  "dataset_description" : "This list contains information on approved event applications",
+  "agency" : "Office of the Mayor (OTM)",
+  "update_frequency" : "Daily",
+  "dataset" : "DPR Approved Event Applications"
+}
+, {
+  "dataset_description" : "A listing of NYC Service Initiatives by Impact area",
+  "agency" : "Office of the Mayor (OTM)",
+  "update_frequency" : "Monthly",
+  "dataset" : "NYC Service Initiatives by Impact area"
+}
+, {
+  "dataset_description" : "This list contains information on the complaints to and inspections of locations inspected by Office of Special Enforcement.",
+  "agency" : "Office of the Mayor (OTM)",
+  "update_frequency" : "Daily",
+  "dataset" : "OSE Inspections"
+}
+, {
+  "dataset_description" : "Street and sidewalk cleanliness ratings.",
+  "agency" : "Office of the Mayor (OTM)",
+  "update_frequency" : "Monthly",
+  "dataset" : "Scorecard Ratings"
+}
+, {
+  "dataset_description" : "Program reports on the quality of customer service and the physical conditions of the City's walk-in centers. ",
+  "agency" : "Office of the Mayor (OTM)",
+  "update_frequency" : "Annually",
+  "dataset" : "CORE Ratings"
+}
+, {
+  "dataset_description" : "Quality of life conditions reported by city inspectors.",
+  "agency" : "Office of the Mayor (OTM)",
+  "update_frequency" : "Monthly",
+  "dataset" : "SCOUT Conditions"
+}
+, {
+  "dataset_description" : "Performance indicators for all city agencies",
+  "agency" : "Office of the Mayor (OTM)",
+  "update_frequency" : "Monthly",
+  "dataset" : "Citywide Performance Reporting"
+}
+, {
+  "dataset_description" : "This list contains information on approved event applications that will occur within the next month. Please note that Permitted Film Events only reflect those permits which will impact one or more streets for at least five days.",
+  "agency" : "Office of the Mayor (OTM)",
+  "update_frequency" : "Daily",
+  "dataset" : "NYC Permitted Event Information"
+}
+, {
+  "agency" : "Office of the Mayor (OTM)",
+  "update_frequency" : "As Needed",
+  "dataset" : "PMMR 2014 Raw Data"
+}
+, {
+  "dataset_description" : "This list contains information on the status of current SHL vehicles authorized to operate in New York City.",
+  "agency" : "Taxi and Limousine Commission (TLC)",
+  "update_frequency" : "Daily",
+  "dataset" : "SHL Vehicles – Authorized"
+}
+, {
+  "dataset_description" : "This list contains information on SHL endorsed bases",
+  "agency" : "Taxi and Limousine Commission (TLC)",
+  "update_frequency" : "Weekly",
+  "dataset" : "SHL Vehicles – Endorsed Bases"
+}
+, {
+  "dataset_description" : "This list contains lost item contact information on  bases that are affiliated with TLC SHL/Boro and Yellow Medallion Taxicabs.",
+  "agency" : "Taxi and Limousine Commission (TLC)",
+  "update_frequency" : "Daily",
+  "dataset" : "Lost Property Contact Information"
+}
+, {
+  "dataset_description" : "Click this link for use instructions :  \nhttp://www.nyc.gov/html/tlc/downloads/pdf/open_data_instructions_base_finder.pdf",
+  "agency" : "Taxi and Limousine Commission (TLC)",
+  "update_frequency" : "As Needed",
+  "dataset" : "FHV Bases"
+}
+, {
+  "dataset_description" : "This list contains the most recently published active medallion drivers list. This is a list of licensees who are currently authorized to operate NYC TLC licensed Taxicabs. The old data set is no longer being updated but can be accessed from the link given below to access data from 03/07/2013 through 01/04/2014 https://data.cityofnewyork.us/Transportation/Medallion-Drivers-Active/n776-dsqy. A new Change Log containing changes in status from 10/28/2013 onwards can be found at https://data.cityofnewyork.us/Transportation/TLC-MEDALLION-ACTIVE-Historical-Data/sjfe-fppp",
+  "agency" : "Taxi and Limousine Commission (TLC)",
+  "update_frequency" : "Daily",
+  "dataset" : "Medallion Drivers - Active"
+}
+, {
+  "dataset_description" : "Data from the Association for a Better New York's NYC Tech Ecosystem report.",
+  "agency" : "Association for a Better New York",
+  "update_frequency" : "As Needed",
+  "dataset" : "New York Tech Ecosystem Report Data"
+}
+, {
+  "dataset_description" : "CartoDB wraps any spatial data into an API. Allowing you to query and spatially query data using REST and returning results in JSON and GeoJSON. There is also a Maps API that will let you embed and build maps from data directly into your websites or mobile applications. The platform is scalable, fast, and made to make beautiful maps. For questions or comments, contact: andrew@cartodb.com.",
+  "agency" : "CartoDB",
+  "update_frequency" : "As needed",
+  "dataset" : "CartoDB Maps and Data APIs"
+}
+, {
+  "dataset_description" : "Data to solve Cleanweb's BigIdea.",
+  "agency" : "Cleanweb",
+  "update_frequency" : "As needed",
+  "dataset" : "AQE Github"
+}
+, {
+  "dataset_description" : "Data to solve CSNYC's Big Idea.",
+  "agency" : "CSNYC",
+  "update_frequency" : "As needed",
+  "dataset" : "Cloud 9 Source Code"
+}
+, {
+  "dataset_description" : "Data to solve CSNYC's Big Idea.",
+  "agency" : "CSNYC",
+  "update_frequency" : "As needed",
+  "dataset" : "School Progress Report"
+}
+, {
+  "dataset_description" : "The CSRHub Specification for REST Access (CSRA) API offers a simple way to request information from the CSRHub database of corporate sustainability ratings.  A developer can easily use the CSRA API to:\nRetrieve high level, intermediate, and/or detailed sustainability performance information on any of 8,800 companies in 102 countries and 135 different industry groups.\nEnter tickers or variants of company names and receive a standard name or CSRHub invariant ID number for any company in the database.\nRequest information about companies such as their industry, location (address, city, state, country, zip code, and/or phone number), web site, and/or the web location for their CSR information.\nRequest a list of the data sources that have reported information on a company (or a total of the number of sources).\nRequest average values for all companies in an industry or geographic area.\nRequest historic data for any month from the present back to December 2008. For questions or comments, contact: bahar@csrhub.com",
+  "agency" : "CSRHub LLC",
+  "update_frequency" : "As needed",
+  "dataset" : "CSRA (CSRHub RESTful API) and CSRHub Dash (Excel Add In)"
+}
+, {
+  "dataset_description" : "Carpoolworld brings people together for ridesharing, using a pioneering search engine that matches individuals based on their trip origins and destinations, anywhere on the planet. The Carpoolworld API gives developers access to the web site's essential functions to create trips, find matches, and contact potential travel partners. The API is developed using the RESTful style. Responses are formatted in XML. For questions or comments, contact: iboulard@carpoolworld.com",
+  "agency" : "Datasphere Corporation",
+  "update_frequency" : "As needed",
+  "dataset" : "Carpoolworld API"
+}
+, {
+  "dataset_description" : "Enigma is a public data platform bringing together billions of records across federal, state, local and international sources. Spanning everything from SEC filings, to real estate records, environmental violations, import records, demographic data and much more, Enigma provides a single point of access to public data through a web application and data APIs. For questions or comments, contact: marc@enigma.io",
+  "agency" : "Enigma",
+  "update_frequency" : "As needed",
+  "dataset" : "Enigma API | Over 100k federal, state, local & international data sets"
+}
+, {
+  "dataset_description" : "The Foursquare API powers the location layer of the internet, giving developers access to our powerful reverse geocoder and venue database of over 60 million places. We turn latitude and longitude points into real meaning. For questions or comments, contact: api@foursquare.com",
+  "agency" : "Foursquare",
+  "update_frequency" : "As needed",
+  "dataset" : "Foursquare API"
+}
+, {
+  "dataset_description" : "Landmark interiors",
+  "agency" : "Landmarks Preservation Commission (LPC)",
+  "update_frequency" : "As needed",
+  "dataset" : "Interiors"
+}
+, {
+  "dataset_description" : "The Lehman College Bronx Information Portal is a map-based open data platform with a focus on all things Bronx. Developed by Lehman College/CUNY with Socrata, the portal brings together Bronx-related open data all in one place.  Data sets include education, health, population, environment and sustainability, among others. Join us to engage students, researchers and communities in connecting the Bronx to enrich teaching, learning and community service initiatives. For questions or comments, contact: ronald.bergmann@lehman.cuny.edu",
+  "agency" : "Lehman College/City University of New York",
+  "update_frequency" : "As needed",
+  "dataset" : "Community Connect: Bronx Information Portal"
+}
+, {
+  "dataset_description" : "LinkUp only indexes jobs that are found on corporate career websites. Today, our U.S site lists roughly 1,500,000 jobs from over 40,000 company websites. Since we don't allow jobs to be manually posted to LinkUp, and because of the sources we index (real companies), we have the cleanest and highest quality dataset of jobs on the web - no job scams, lead-gen pollution, or fraudulent postings. For questions or comments, contact: bsquibb@linkup.com",
+  "agency" : "LinkUp",
+  "update_frequency" : "As needed",
+  "dataset" : "LinkUp Job Search Engine"
+}
+, {
+  "dataset_description" : "Mapbox makes it easy to find bars on foursquare, search for hotels on Hipmunk, and organize notes in Evernote. With Mapbox, design and publish maps that tell stories, integrate with apps, and represent brands. For questions or comments, contact: alex@mapbox.com",
+  "agency" : "Mapbox",
+  "update_frequency" : "As needed",
+  "dataset" : "Mapbox maps"
+}
+, {
+  "dataset_description" : "Data to solve NYC ACRE's BigIdea",
+  "agency" : "NYC ACRE",
+  "update_frequency" : "As needed",
+  "dataset" : "Tariff Data & APIs"
+}
+, {
+  "dataset_description" : "Data to solve NYC ACRE's BigIdea",
+  "agency" : "NYC ACRE",
+  "update_frequency" : "As needed",
+  "dataset" : "Energy Efficiency Completed Projects: Beginning 1987"
+}
+, {
+  "dataset_description" : "Data to solve NYC ACRE's BigIdea",
+  "agency" : "NYC ACRE",
+  "update_frequency" : "As needed",
+  "dataset" : "New York Power Authority Net Generation (MWh) Produced by Facility"
+}
+, {
+  "dataset_description" : "Data to solve NYC ACRE's BigIdea",
+  "agency" : "NYC ACRE",
+  "update_frequency" : "As needed",
+  "dataset" : "Energy Efficiency Programs and Estimated Energy Savings"
+}
+, {
+  "dataset_description" : "Data to solve NYC ACRE's BigIdea",
+  "agency" : "NYC ACRE",
+  "update_frequency" : "As needed",
+  "dataset" : "PVWatts"
+}
+, {
+  "dataset_description" : "Data to solve NYC ACRE's BigIdea",
+  "agency" : "NYC ACRE",
+  "update_frequency" : "As needed",
+  "dataset" : "Commercial Building Profiles"
+}
+, {
+  "dataset_description" : "Data to solve NYC ACRE's BigIdea",
+  "agency" : "NYC ACRE",
+  "update_frequency" : "As needed",
+  "dataset" : "Wind Energy Projects: Beginning in 2004"
+}
+, {
+  "dataset_description" : "Data to solve NYC ACRE's BigIdea",
+  "agency" : "NYC ACRE",
+  "update_frequency" : "As needed",
+  "dataset" : "Cost of Renewable Energy Spreadsheet Tool (CREST)"
+}
+, {
+  "dataset_description" : "Data to solve NYC ACRE's BigIdea",
+  "agency" : "NYC ACRE",
+  "update_frequency" : "As needed",
+  "dataset" : "Electricity Sales by Sector, GWh: Beginning 1980"
+}
+, {
+  "dataset_description" : "Data to solve NYC ACRE's BigIdea",
+  "agency" : "NYC ACRE",
+  "update_frequency" : "As needed",
+  "dataset" : "Energy Prices Per Physical Unity by Sector: Beginning 1970"
+}
+, {
+  "dataset_description" : "Data to solve NYC ACRE's BigIdea",
+  "agency" : "NYC ACRE",
+  "update_frequency" : "As needed",
+  "dataset" : "eGRID"
+}
+, {
+  "dataset_description" : "Data to solve NYC ACRE's BigIdea",
+  "agency" : "NYC ACRE",
+  "update_frequency" : "As needed",
+  "dataset" : "BYTES of the BIG APPLE"
+}
+, {
+  "dataset_description" : "Data to solve NYC ACRE's BigIdea",
+  "agency" : "NYC ACRE",
+  "update_frequency" : "As Needed",
+  "dataset" : "2012 Non Residential Properties"
+}
+, {
+  "dataset_description" : "Data to solve NYC ACRE's BigIdea",
+  "agency" : "NYC ACRE",
+  "update_frequency" : "As Needed",
+  "dataset" : "Office Energy Intensity"
+}
+, {
+  "dataset_description" : "This dataset contains building information for all buildings that have completed a WiredNYC survey.  This includes buildings that have opted-out from displaying their profiles publicly.  Therefore, the building-specific data (e.g. building address) provided is anonymous and only linked to the borough the building is located in.",
+  "agency" : "NYC EDC",
+  "update_frequency" : "As needed",
+  "dataset" : "WiredNYC – All Buildings Data"
+}
+, {
+  "dataset_description" : "Data to Help Solar One solve their Big Idea.",
+  "agency" : "Open NY via Solar One",
+  "update_frequency" : "As needed",
+  "dataset" : "Typical Utility Bill Information"
+}
+, {
+  "dataset_description" : "Parse is a backend service that makes it easy to build apps faster. For questions or comments, contact: bear@fb.com",
+  "agency" : "Parse",
+  "update_frequency" : "As needed",
+  "dataset" : "Parse"
+}
+, {
+  "dataset_description" : "Data to help PENCIL solve their Big Idea.",
+  "agency" : "Pencil",
+  "update_frequency" : "As Needed",
+  "dataset" : "New York State Schools, Demographics, & Contact Info"
+}
+, {
+  "dataset_description" : "The Voting Information Project (VIP) offers cutting edge technology tools to provide voters with access to customized election information to help them navigate the voting process and cast an informed vote. VIP works with election officials across the nation to ensure this information is official and reliable. We answer voters’ basic questions like “Where is my polling place?” “What’s on my ballot?” and “How do I navigate the voting process?”",
+  "agency" : "Pew Trust - Voter Information Project",
+  "update_frequency" : "As Needed",
+  "dataset" : "Voter Information Project Feed Repository"
+}
+, {
+  "dataset_description" : "The SeatGeek API is the canonical source of data on all live events (from sports to concert to theater and more), both within New York City as well as worldwide.\nYou can easily retrieve detailed event information with the SeatGeek API--everything from the lat/lon of a venue to the average ticket price for a show. It’s all wrapped up in a clean, well-documented API, with no rate limits and no cost to use.\nFor questions or comments, contact: will@seatgeek.com.",
+  "agency" : "SeatGeek",
+  "update_frequency" : "As needed",
+  "dataset" : "SeatGeek Events"
+}
+, {
+  "dataset_description" : "Simplify Commerce is an easy way to accept payments online. It's easy for businesses to get a merchant account and take payments, and it's easy for developers to use.\nYou can easily do recurring payments/subscriptions, create coupons, invoices, store customer and card information. For questions or comments, contact: rahul_deshpande@mastercard.com",
+  "agency" : "Simplify Commerce by MasterCard",
+  "update_frequency" : "As Needed",
+  "dataset" : "Simplify Commerce Payment API"
+}
+, {
+  "dataset_description" : "Open NY provides access to hundreds of high-quality New York State government datasets, each with an API endpoint and detailed documentation. From liquor licenses to hospital data, it contains valuable and up-to-date information which you can freely include in your next civic-oriented application.  For questions or comments, contact andrew.nicklin@its.ny.gov",
+  "agency" : "State of New York",
+  "update_frequency" : "As needed",
+  "dataset" : "Open NY"
+}
+, {
+  "dataset_description" : "Data to help Teach for America Solve their Big Idea.",
+  "agency" : "Teach for America",
+  "update_frequency" : "As Needed",
+  "dataset" : "Teach for America School List"
+}
+, {
+  "dataset_description" : "Tessel is a microcontroller that runs JavaScript. It's Node-compatible and ships with Wifi built in. Use it to easily make physical devices that connect to the web. More information: http://tessel.io. For questions or comments, contact kelsey@technical.io",
+  "agency" : "Tessel",
+  "update_frequency" : "As Needed",
+  "dataset" : "Technical Machine"
+}
+, {
+  "dataset_description" : "You already know that NYTimes.com is an unparalleled source of news and information. But it's a premier source of data, too — why just read the news when you can hack it? The Times APIs allow you to work with rich sets of Times data, including article metadata and abstracts, movie reviews and best-seller lists, and NYTimes.com user comments. For questions or comments, contact: joseph.fiore@nytimes.com",
+  "agency" : "The New York Times",
+  "update_frequency" : "As needed",
+  "dataset" : "NYTimes APIs"
+}
+, {
+  "dataset_description" : "Twilio provides a software and cloud-based communications platform that enables developers and businesses to build communications solutions that meet their specific needs.  Whether integrating voice, messaging or VoIP capabilities into a web or mobile app or building a complete call center, Twilio removes traditional obstacles to creating effective communications experiences. For questions or comments, contact: ebalbuena@twilio.com",
+  "agency" : "Twilio",
+  "update_frequency" : "As needed",
+  "dataset" : "Twilio API"
+}
+, {
+  "dataset_description" : "YQL provides a consistent interface to many datasets. For questions or comments, contact: sojumu@yahoo-inc.com",
+  "agency" : "Yahoo!",
+  "update_frequency" : "As Needed",
+  "dataset" : "YQL"
+}
+, {
+  "dataset_description" : "Yelp allows developers to access rich local data through their Search and Business APIs. Within minutes, developers can retrieve business listing data, star ratings, deals, an image URL, and much more. For questions or comments, contact: natasha@yelp.com.",
+  "agency" : "Yelp",
+  "update_frequency" : "As needed",
+  "dataset" : "Yelp API"
+}
+ ]

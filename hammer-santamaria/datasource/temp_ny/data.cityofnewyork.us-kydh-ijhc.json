@@ -1,0 +1,113 @@
+[ {
+  "proposed_leased_facility" : "Yes",
+  "forecast_capacity" : "Replacement",
+  "previousappropriations" : "0.49",
+  "boro" : "X",
+  "project" : "DSF0000775874",
+  "constr_start" : "Mar-15",
+  "existing_site_identified" : "Yes",
+  "fundingreq_dfy_15_19" : "17.15",
+  "total_est_cost" : "17.64",
+  "needed_tocomplete" : "0.00",
+  "school" : "P.S. 315",
+  "district" : "10",
+  "actual_est_compl" : "May-17",
+  "design_start" : "Sep-13"
+}
+, {
+  "proposed_leased_facility" : "No ",
+  "forecast_capacity" : "Replacement",
+  "previousappropriations" : "0.00",
+  "boro" : "Q",
+  "project" : "DSF0000798568",
+  "constr_start" : "Jul-16",
+  "existing_site_identified" : "Yes",
+  "fundingreq_dfy_15_19" : "15.87",
+  "total_est_cost" : "15.87",
+  "needed_tocomplete" : "0.00",
+  "school" : "P.S. 19 MINISCHOOL",
+  "district" : "24",
+  "actual_est_compl" : "Sep-18",
+  "design_start" : "Mar-15"
+}
+, {
+  "proposed_leased_facility" : "No ",
+  "forecast_capacity" : "Replacement",
+  "previousappropriations" : "0.00",
+  "boro" : "Q",
+  "project" : "DSF0000798203",
+  "constr_start" : "Jul-16",
+  "existing_site_identified" : "Yes",
+  "fundingreq_dfy_15_19" : "9.25",
+  "total_est_cost" : "9.26",
+  "needed_tocomplete" : "0.00",
+  "school" : "P.S. 24 ADDITION",
+  "district" : "25",
+  "actual_est_compl" : "Sep-18",
+  "design_start" : "Dec-14"
+}
+, {
+  "proposed_leased_facility" : "No ",
+  "forecast_capacity" : "Replacement",
+  "previousappropriations" : "0.00",
+  "boro" : "Q",
+  "project" : "DSF0000843866",
+  "constr_start" : "Dec-17",
+  "existing_site_identified" : "Yes",
+  "fundingreq_dfy_15_19" : "21.45",
+  "total_est_cost" : "23.44",
+  "needed_tocomplete" : "1.99",
+  "school" : "P.S. 256 ANNEX",
+  "district" : "75Q",
+  "actual_est_compl" : "Sep-20",
+  "design_start" : "Apr-16"
+}
+, {
+  "proposed_leased_facility" : "No ",
+  "forecast_capacity" : "Replacement",
+  "previousappropriations" : "0.00",
+  "boro" : "R",
+  "project" : "DSF0000821871",
+  "constr_start" : "Dec-17",
+  "existing_site_identified" : "Yes",
+  "fundingreq_dfy_15_19" : "40.61",
+  "total_est_cost" : "44.24",
+  "needed_tocomplete" : "3.63",
+  "school" : "D75 REPLACEMENT @ 15 FAIRFIELD STREET",
+  "district" : "75R",
+  "actual_est_compl" : "Sep-20",
+  "design_start" : "Sep-16"
+}
+, {
+  "proposed_leased_facility" : "Yes",
+  "forecast_capacity" : "Replacement",
+  "previousappropriations" : "0.00",
+  "boro" : "M",
+  "project" : "DSF0000800279",
+  "constr_start" : "Jan-17",
+  "existing_site_identified" : "Yes",
+  "fundingreq_dfy_15_19" : "19.35",
+  "total_est_cost" : "19.35",
+  "needed_tocomplete" : "0.00",
+  "school" : "ISHS @ M837 (Phase 2)",
+  "district" : "78M",
+  "actual_est_compl" : "Jun-19",
+  "design_start" : "Jun-14"
+}
+, {
+  "proposed_leased_facility" : "Yes",
+  "forecast_capacity" : "Replacement",
+  "previousappropriations" : "0.00",
+  "boro" : "X",
+  "project" : "DSF0000800056",
+  "constr_start" : "Jul-15",
+  "existing_site_identified" : "Yes",
+  "fundingreq_dfy_15_19" : "10.05",
+  "total_est_cost" : "10.05",
+  "needed_tocomplete" : "0.00",
+  "school" : "SOUTHERN BOULEVARD COMMUNITY CAMPUS",
+  "district" : "78X",
+  "actual_est_compl" : "Jul-16",
+  "design_start" : "Sep-14"
+}
+ ]

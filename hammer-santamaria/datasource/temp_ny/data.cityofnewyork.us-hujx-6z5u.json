@@ -1,0 +1,1488 @@
+[ {
+  "as_is_appraisal_amount" : "1380000.00",
+  "is_nominal" : "Yes",
+  "projectdwid" : "18512",
+  "project_id" : "44350",
+  "acquisition_price" : "2.00",
+  "highest_best_appraisal_amount" : "12200000.00"
+}
+, {
+  "as_is_appraisal_amount" : "62040805.00",
+  "is_nominal" : "Yes",
+  "projectdwid" : "18593",
+  "project_id" : "48726",
+  "acquisition_price" : "1.00"
+}
+, {
+  "as_is_appraisal_amount" : "27959193.00",
+  "is_nominal" : "Yes",
+  "projectdwid" : "18594",
+  "project_id" : "49143",
+  "acquisition_price" : "1.00"
+}
+, {
+  "as_is_appraisal_amount" : "1240000.00",
+  "is_nominal" : "Yes",
+  "projectdwid" : "18602",
+  "project_id" : "44369",
+  "acquisition_price" : "9.00",
+  "highest_best_appraisal_amount" : "1240000.00"
+}
+, {
+  "as_is_appraisal_amount" : "2380000.00",
+  "is_nominal" : "Yes",
+  "projectdwid" : "18604",
+  "project_id" : "44258",
+  "hpd_pbvhap_year1_amount" : "92098.00",
+  "acquisition_price" : "4.00",
+  "highest_best_appraisal_amount" : "2120000.00"
+}
+, {
+  "as_is_appraisal_amount" : "12520000.00",
+  "is_nominal" : "Yes",
+  "projectdwid" : "18612",
+  "project_id" : "48772",
+  "acquisition_price" : "3.00",
+  "highest_best_appraisal_amount" : "12527400.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "59640",
+  "is_nominal" : "Yes",
+  "projectdwid" : "18140",
+  "project_id" : "44507",
+  "acquisition_price" : "3"
+}
+, {
+  "is_nominal" : "Yes",
+  "projectdwid" : "18151",
+  "project_id" : "44464",
+  "acquisition_price" : "6"
+}
+, {
+  "is_nominal" : "Yes",
+  "projectdwid" : "18379",
+  "project_id" : "44299",
+  "acquisition_price" : "5"
+}
+, {
+  "as_is_appraisal_amount" : "550000.00",
+  "is_nominal" : "Yes",
+  "projectdwid" : "18601",
+  "project_id" : "44249",
+  "acquisition_price" : "1.00",
+  "highest_best_appraisal_amount" : "550000.00"
+}
+, {
+  "as_is_appraisal_amount" : "900000.00",
+  "is_nominal" : "Yes",
+  "projectdwid" : "18620",
+  "project_id" : "48735",
+  "acquisition_price" : "1.00"
+}
+, {
+  "as_is_appraisal_amount" : "3000000.00",
+  "is_nominal" : "Yes",
+  "projectdwid" : "18621",
+  "project_id" : "48937",
+  "acquisition_price" : "1.00",
+  "highest_best_appraisal_amount" : "3000000.00"
+}
+, {
+  "as_is_appraisal_amount" : "1000000.00",
+  "is_nominal" : "Yes",
+  "projectdwid" : "18628",
+  "project_id" : "44306",
+  "acquisition_price" : "1.00",
+  "highest_best_appraisal_amount" : "1000000.00"
+}
+, {
+  "projectdwid" : "16762",
+  "project_id" : "38989",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16763",
+  "project_id" : "38990",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16764",
+  "project_id" : "38991",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16829",
+  "project_id" : "39405",
+  "hpd_pbvhap_year1_amount" : "451009"
+}
+, {
+  "projectdwid" : "16835",
+  "project_id" : "39433",
+  "hpd_pbvhap_year1_amount" : "477539",
+  "acquisition_price" : "3",
+  "highest_best_appraisal_amount" : "1020000"
+}
+, {
+  "as_is_appraisal_amount" : "196650",
+  "projectdwid" : "16857",
+  "project_id" : "39479"
+}
+, {
+  "projectdwid" : "16880",
+  "project_id" : "40072",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16896",
+  "project_id" : "40548",
+  "acquisition_price" : "3",
+  "highest_best_appraisal_amount" : "2200000"
+}
+, {
+  "projectdwid" : "16932",
+  "project_id" : "41249",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16960",
+  "project_id" : "41814",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16969",
+  "project_id" : "42082",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16971",
+  "project_id" : "42084",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16973",
+  "project_id" : "42104",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16974",
+  "project_id" : "42105",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16987",
+  "project_id" : "42415",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16988",
+  "project_id" : "42416",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17004",
+  "project_id" : "42788",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17005",
+  "project_id" : "42789",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17006",
+  "project_id" : "42790",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17007",
+  "project_id" : "42791",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17008",
+  "project_id" : "42792",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17009",
+  "project_id" : "42793",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17016",
+  "project_id" : "42926",
+  "hpd_pbvhap_year1_amount" : "678156"
+}
+, {
+  "projectdwid" : "17031",
+  "project_id" : "43111",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17056",
+  "project_id" : "43241",
+  "hpd_pbvhap_year1_amount" : "94188"
+}
+, {
+  "projectdwid" : "17057",
+  "project_id" : "43274",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "inclusionary_low_income_floor_area" : "14250.00",
+  "projectdwid" : "17067",
+  "project_id" : "43311"
+}
+, {
+  "projectdwid" : "17073",
+  "project_id" : "43323",
+  "acquisition_price" : "1"
+}
+, {
+  "inclusionary_low_income_floor_area" : "8702.00",
+  "projectdwid" : "17078",
+  "project_id" : "43566"
+}
+, {
+  "projectdwid" : "17079",
+  "project_id" : "43628",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17080",
+  "project_id" : "43629",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17083",
+  "project_id" : "44068",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17084",
+  "project_id" : "44069",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17085",
+  "project_id" : "44071",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17086",
+  "project_id" : "44072",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17088",
+  "project_id" : "44075",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17089",
+  "project_id" : "44076",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17095",
+  "project_id" : "44205",
+  "hpd_pbvhap_year1_amount" : "499198",
+  "acquisition_price" : "1",
+  "highest_best_appraisal_amount" : "3980000"
+}
+, {
+  "projectdwid" : "17098",
+  "project_id" : "44609",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17100",
+  "project_id" : "44611",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17102",
+  "project_id" : "44613",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17103",
+  "project_id" : "44616",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17107",
+  "project_id" : "44756",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17108",
+  "project_id" : "44757",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17109",
+  "project_id" : "44758",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17114",
+  "project_id" : "44766",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17115",
+  "project_id" : "44767",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17116",
+  "project_id" : "44768",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17117",
+  "project_id" : "44769",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17128",
+  "project_id" : "44919",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17130",
+  "project_id" : "44921",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17131",
+  "project_id" : "44923",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17132",
+  "project_id" : "44924",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17151",
+  "project_id" : "45107",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17152",
+  "project_id" : "45108",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17153",
+  "project_id" : "45110",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17154",
+  "project_id" : "45111",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17155",
+  "project_id" : "45112",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17158",
+  "project_id" : "45115",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17173",
+  "project_id" : "45346",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17174",
+  "project_id" : "45350",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17181",
+  "project_id" : "45475",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "inclusionary_low_income_floor_area" : "8579",
+  "projectdwid" : "16695",
+  "project_id" : "37648"
+}
+, {
+  "inclusionary_low_income_floor_area" : "10917",
+  "projectdwid" : "16696",
+  "project_id" : "37649"
+}
+, {
+  "projectdwid" : "16722",
+  "project_id" : "38479",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16723",
+  "project_id" : "38481",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16754",
+  "project_id" : "38958",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18207",
+  "project_id" : "44995",
+  "hpd_pbvhap_year1_amount" : "1439031"
+}
+, {
+  "projectdwid" : "18212",
+  "project_id" : "48516",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18213",
+  "project_id" : "48517",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18222",
+  "project_id" : "48519",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18223",
+  "project_id" : "48520",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18240",
+  "project_id" : "48524",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18252",
+  "project_id" : "48528",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18253",
+  "project_id" : "48529",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18255",
+  "project_id" : "48531",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18259",
+  "project_id" : "48538",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "inclusionary_low_income_floor_area" : "12171.00",
+  "projectdwid" : "18265",
+  "project_id" : "44365"
+}
+, {
+  "projectdwid" : "18266",
+  "project_id" : "48542",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18280",
+  "project_id" : "48181",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18283",
+  "project_id" : "48033",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18284",
+  "project_id" : "48037",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "inclusionary_low_income_floor_area" : "1.00",
+  "projectdwid" : "18293",
+  "project_id" : "47926"
+}
+, {
+  "projectdwid" : "18295",
+  "project_id" : "48375",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "inclusionary_low_income_floor_area" : "37024.00",
+  "projectdwid" : "18296",
+  "project_id" : "48087"
+}
+, {
+  "inclusionary_low_income_floor_area" : "38113.00",
+  "projectdwid" : "18306",
+  "project_id" : "48068"
+}
+, {
+  "projectdwid" : "18319",
+  "project_id" : "48633",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18320",
+  "project_id" : "48636",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18358",
+  "project_id" : "49139",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "inclusionary_low_income_floor_area" : "23953.00",
+  "projectdwid" : "18474",
+  "project_id" : "49270"
+}
+, {
+  "projectdwid" : "18565",
+  "project_id" : "44865",
+  "hpd_pbvhap_year1_amount" : "29931.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "11541.00",
+  "projectdwid" : "18567",
+  "project_id" : "46264"
+}
+, {
+  "inclusionary_low_income_floor_area" : "26487.00",
+  "projectdwid" : "18568",
+  "project_id" : "48739"
+}
+, {
+  "inclusionary_low_income_floor_area" : "5749.00",
+  "projectdwid" : "18569",
+  "project_id" : "46262"
+}
+, {
+  "inclusionary_low_income_floor_area" : "38062.00",
+  "projectdwid" : "18570",
+  "project_id" : "49273"
+}
+, {
+  "inclusionary_low_income_floor_area" : "38687.00",
+  "projectdwid" : "18571",
+  "project_id" : "48555"
+}
+, {
+  "inclusionary_low_income_floor_area" : "106068.00",
+  "projectdwid" : "18574",
+  "project_id" : "48743"
+}
+, {
+  "as_is_appraisal_amount" : "6200000.00",
+  "intended_use_appraisal_amount" : "6195000.00",
+  "projectdwid" : "18575",
+  "project_id" : "44420",
+  "hpd_pbvhap_year1_amount" : "310831.00",
+  "acquisition_price" : "1.00",
+  "highest_best_appraisal_amount" : "6000000.00"
+}
+, {
+  "projectdwid" : "18370",
+  "project_id" : "44423",
+  "acquisition_price" : "3.00",
+  "highest_best_appraisal_amount" : "934000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "55497.00",
+  "projectdwid" : "18382",
+  "project_id" : "45961"
+}
+, {
+  "inclusionary_low_income_floor_area" : "13677.00",
+  "projectdwid" : "18385",
+  "project_id" : "48086"
+}
+, {
+  "inclusionary_low_income_floor_area" : "77470",
+  "projectdwid" : "18387",
+  "project_id" : "46063"
+}
+, {
+  "projectdwid" : "18600",
+  "project_id" : "44275",
+  "acquisition_price" : "4.00",
+  "highest_best_appraisal_amount" : "580000.00"
+}
+, {
+  "projectdwid" : "18606",
+  "project_id" : "45142",
+  "hpd_pbvhap_year1_amount" : "246046.00"
+}
+, {
+  "as_is_appraisal_amount" : "2400000",
+  "intended_use_appraisal_amount" : "6100000",
+  "projectdwid" : "18610",
+  "project_id" : "44512",
+  "acquisition_price" : "48873",
+  "highest_best_appraisal_amount" : "1992576"
+}
+, {
+  "projectdwid" : "18614",
+  "project_id" : "44345",
+  "acquisition_price" : "2.00",
+  "highest_best_appraisal_amount" : "3970000.00"
+}
+, {
+  "projectdwid" : "18615",
+  "project_id" : "45677",
+  "hpd_pbvhap_year1_amount" : "33769.00"
+}
+, {
+  "as_is_appraisal_amount" : "1435000.00",
+  "projectdwid" : "18411",
+  "project_id" : "44349",
+  "acquisition_price" : "1.00"
+}
+, {
+  "as_is_appraisal_amount" : "3500000.00",
+  "intended_use_appraisal_amount" : "13600000.00",
+  "projectdwid" : "18414",
+  "project_id" : "44336",
+  "acquisition_price" : "2.00"
+}
+, {
+  "projectdwid" : "18419",
+  "project_id" : "44320",
+  "acquisition_price" : "1.00",
+  "highest_best_appraisal_amount" : "28200000.00"
+}
+, {
+  "projectdwid" : "18421",
+  "project_id" : "44403",
+  "acquisition_price" : "1550000.00"
+}
+, {
+  "projectdwid" : "18422",
+  "project_id" : "44544",
+  "hpd_pbvhap_year1_amount" : "333855.00",
+  "acquisition_price" : "1.00",
+  "highest_best_appraisal_amount" : "730000.00"
+}
+, {
+  "projectdwid" : "18423",
+  "project_id" : "48536",
+  "acquisition_price" : "1"
+}
+, {
+  "intended_use_appraisal_amount" : "260000.00",
+  "projectdwid" : "18424",
+  "project_id" : "44377",
+  "hpd_pbvhap_year1_amount" : "253270.00",
+  "acquisition_price" : "1.00",
+  "highest_best_appraisal_amount" : "400000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "1.00",
+  "as_is_appraisal_amount" : "19600000.00",
+  "projectdwid" : "18425",
+  "project_id" : "45206"
+}
+, {
+  "projectdwid" : "16885",
+  "project_id" : "40084",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16942",
+  "project_id" : "41403",
+  "hpd_pbvhap_year1_amount" : "238769"
+}
+, {
+  "inclusionary_low_income_floor_area" : "1750000.00",
+  "as_is_appraisal_amount" : "6500000.00",
+  "projectdwid" : "18532",
+  "project_id" : "45578",
+  "acquisition_price" : "6500000.00",
+  "highest_best_appraisal_amount" : "17490000.00"
+}
+, {
+  "projectdwid" : "18541",
+  "project_id" : "49939",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16944",
+  "project_id" : "41406",
+  "acquisition_price" : "1",
+  "highest_best_appraisal_amount" : "384750"
+}
+, {
+  "projectdwid" : "16819",
+  "project_id" : "39382",
+  "hpd_pbvhap_year1_amount" : "725151"
+}
+, {
+  "projectdwid" : "16989",
+  "project_id" : "42417",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "inclusionary_low_income_floor_area" : "6968",
+  "projectdwid" : "16705",
+  "project_id" : "37739"
+}
+, {
+  "projectdwid" : "17030",
+  "project_id" : "43109",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17101",
+  "project_id" : "44612",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17003",
+  "project_id" : "42787",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17110",
+  "project_id" : "44759",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16962",
+  "project_id" : "41835",
+  "hpd_pbvhap_year1_amount" : "197795"
+}
+, {
+  "inclusionary_low_income_floor_area" : "3849.00",
+  "projectdwid" : "18623",
+  "project_id" : "49276"
+}
+, {
+  "projectdwid" : "17129",
+  "project_id" : "44920",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17111",
+  "project_id" : "44760",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16771",
+  "project_id" : "39191",
+  "hpd_pbvhap_year1_amount" : "433322"
+}
+, {
+  "projectdwid" : "17156",
+  "project_id" : "45113",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "inclusionary_low_income_floor_area" : "23037.00",
+  "projectdwid" : "18434",
+  "project_id" : "48543"
+}
+, {
+  "inclusionary_low_income_floor_area" : "4.00",
+  "as_is_appraisal_amount" : "1930000.00",
+  "projectdwid" : "18437",
+  "project_id" : "48510",
+  "acquisition_price" : "1930000.00"
+}
+, {
+  "projectdwid" : "18455",
+  "project_id" : "49909",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18138",
+  "project_id" : "44480",
+  "acquisition_price" : "2",
+  "highest_best_appraisal_amount" : "3610000"
+}
+, {
+  "projectdwid" : "18139",
+  "project_id" : "44482",
+  "hpd_pbvhap_year1_amount" : "371419",
+  "acquisition_price" : "15",
+  "highest_best_appraisal_amount" : "1990000"
+}
+, {
+  "projectdwid" : "17228",
+  "project_id" : "45858",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17230",
+  "project_id" : "45861",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18145",
+  "project_id" : "44514",
+  "acquisition_price" : "11",
+  "highest_best_appraisal_amount" : "14093250"
+}
+, {
+  "projectdwid" : "18150",
+  "project_id" : "44502",
+  "acquisition_price" : "3",
+  "highest_best_appraisal_amount" : "65500"
+}
+, {
+  "projectdwid" : "18161",
+  "project_id" : "44505",
+  "acquisition_price" : "6",
+  "highest_best_appraisal_amount" : "2160000"
+}
+, {
+  "projectdwid" : "18163",
+  "project_id" : "44503",
+  "acquisition_price" : "1",
+  "highest_best_appraisal_amount" : "9100000"
+}
+, {
+  "projectdwid" : "18165",
+  "project_id" : "44484",
+  "acquisition_price" : "7",
+  "highest_best_appraisal_amount" : "1250000"
+}
+, {
+  "projectdwid" : "18168",
+  "project_id" : "44491",
+  "acquisition_price" : "19125",
+  "highest_best_appraisal_amount" : "1695820"
+}
+, {
+  "projectdwid" : "18174",
+  "project_id" : "44355",
+  "acquisition_price" : "650000"
+}
+, {
+  "projectdwid" : "18178",
+  "project_id" : "45095",
+  "acquisition_price" : "12000",
+  "highest_best_appraisal_amount" : "435000"
+}
+, {
+  "projectdwid" : "18184",
+  "project_id" : "44344",
+  "acquisition_price" : "1",
+  "highest_best_appraisal_amount" : "1700000"
+}
+, {
+  "projectdwid" : "18185",
+  "project_id" : "44415",
+  "hpd_pbvhap_year1_amount" : "696631"
+}
+, {
+  "projectdwid" : "18186",
+  "project_id" : "44314",
+  "acquisition_price" : "1"
+}
+, {
+  "inclusionary_low_income_floor_area" : "120513.00",
+  "projectdwid" : "18188",
+  "project_id" : "44254"
+}
+, {
+  "projectdwid" : "18189",
+  "project_id" : "45304",
+  "acquisition_price" : "54",
+  "highest_best_appraisal_amount" : "3530000"
+}
+, {
+  "projectdwid" : "18190",
+  "project_id" : "45866",
+  "acquisition_price" : "1",
+  "highest_best_appraisal_amount" : "1255000"
+}
+, {
+  "as_is_appraisal_amount" : "2500000",
+  "intended_use_appraisal_amount" : "26800000",
+  "projectdwid" : "18155",
+  "project_id" : "44506",
+  "acquisition_price" : "1",
+  "highest_best_appraisal_amount" : "26800000"
+}
+, {
+  "inclusionary_low_income_floor_area" : "7962",
+  "as_is_appraisal_amount" : "12000000",
+  "projectdwid" : "18159",
+  "project_id" : "44508",
+  "acquisition_price" : "1000000"
+}
+, {
+  "projectdwid" : "18183",
+  "project_id" : "44221",
+  "acquisition_price" : "36",
+  "highest_best_appraisal_amount" : "13570000"
+}
+, {
+  "projectdwid" : "18194",
+  "project_id" : "48512",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18146",
+  "project_id" : "44515",
+  "acquisition_price" : "4",
+  "highest_best_appraisal_amount" : "5065000"
+}
+, {
+  "inclusionary_low_income_floor_area" : "1.00",
+  "as_is_appraisal_amount" : "7200000.00",
+  "projectdwid" : "18523",
+  "project_id" : "48254",
+  "acquisition_price" : "1100000.00",
+  "highest_best_appraisal_amount" : "5950000.00"
+}
+, {
+  "as_is_appraisal_amount" : "4185000",
+  "projectdwid" : "18436",
+  "project_id" : "44382",
+  "acquisition_price" : "450000"
+}
+, {
+  "projectdwid" : "18158",
+  "project_id" : "44474",
+  "acquisition_price" : "350000",
+  "highest_best_appraisal_amount" : "6220000"
+}
+, {
+  "projectdwid" : "18180",
+  "project_id" : "44358",
+  "acquisition_price" : "3",
+  "highest_best_appraisal_amount" : "480000"
+}
+, {
+  "projectdwid" : "18239",
+  "project_id" : "48523",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18341",
+  "project_id" : "49029",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18564",
+  "project_id" : "48639",
+  "hpd_pbvhap_year1_amount" : "72143.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "88982.00",
+  "projectdwid" : "18386",
+  "project_id" : "46061"
+}
+, {
+  "inclusionary_low_income_floor_area" : "16135.00",
+  "as_is_appraisal_amount" : "2800000.00",
+  "intended_use_appraisal_amount" : "32400000.00",
+  "projectdwid" : "18595",
+  "project_id" : "44807",
+  "acquisition_price" : "1600000.00",
+  "highest_best_appraisal_amount" : "31800000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "30000.00",
+  "as_is_appraisal_amount" : "1380000.00",
+  "projectdwid" : "18616",
+  "project_id" : "44241",
+  "acquisition_price" : "1380000.00",
+  "highest_best_appraisal_amount" : "1380000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "2.00",
+  "as_is_appraisal_amount" : "2700000.00",
+  "projectdwid" : "18416",
+  "project_id" : "44366",
+  "hpd_pbvhap_year1_amount" : "503712.00",
+  "acquisition_price" : "2700000.00"
+}
+, {
+  "projectdwid" : "18537",
+  "project_id" : "45675",
+  "hpd_pbvhap_year1_amount" : "37606.00"
+}
+, {
+  "projectdwid" : "18618",
+  "project_id" : "47652",
+  "hpd_pbvhap_year1_amount" : "345368.00",
+  "acquisition_price" : "1.00",
+  "highest_best_appraisal_amount" : "1200000.00"
+}
+, {
+  "projectdwid" : "18457",
+  "project_id" : "49931",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18157",
+  "project_id" : "44457",
+  "hpd_pbvhap_year1_amount" : "75351",
+  "acquisition_price" : "5",
+  "highest_best_appraisal_amount" : "1570000"
+}
+, {
+  "inclusionary_low_income_floor_area" : "9.00",
+  "as_is_appraisal_amount" : "13860000.00",
+  "projectdwid" : "17037",
+  "project_id" : "43129"
+}
+, {
+  "projectdwid" : "17087",
+  "project_id" : "44074",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17099",
+  "project_id" : "44610",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "17112",
+  "project_id" : "44763",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "inclusionary_low_income_floor_area" : "42956.00",
+  "projectdwid" : "17127",
+  "project_id" : "44894"
+}
+, {
+  "projectdwid" : "17133",
+  "project_id" : "44925",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "inclusionary_low_income_floor_area" : "32128",
+  "projectdwid" : "17148",
+  "project_id" : "45078"
+}
+, {
+  "projectdwid" : "17157",
+  "project_id" : "45114",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18221",
+  "project_id" : "48518",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18254",
+  "project_id" : "48530",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18276",
+  "project_id" : "44998",
+  "hpd_pbvhap_year1_amount" : "690735.00"
+}
+, {
+  "projectdwid" : "18297",
+  "project_id" : "45676",
+  "hpd_pbvhap_year1_amount" : "633174.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "4.00",
+  "as_is_appraisal_amount" : "370000.00",
+  "projectdwid" : "18321",
+  "project_id" : "45998",
+  "acquisition_price" : "330000.00"
+}
+, {
+  "projectdwid" : "18380",
+  "project_id" : "44255",
+  "acquisition_price" : "1.00",
+  "highest_best_appraisal_amount" : "11550000.00"
+}
+, {
+  "projectdwid" : "18417",
+  "project_id" : "45001",
+  "hpd_pbvhap_year1_amount" : "653016.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "1100000.00",
+  "projectdwid" : "18426",
+  "project_id" : "45317"
+}
+, {
+  "projectdwid" : "18540",
+  "project_id" : "49940",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16868",
+  "project_id" : "39542",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "as_is_appraisal_amount" : "8100000.00",
+  "intended_use_appraisal_amount" : "16200000.00",
+  "projectdwid" : "17213",
+  "project_id" : "45820",
+  "acquisition_price" : "1.00"
+}
+, {
+  "projectdwid" : "17229",
+  "project_id" : "45860",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "as_is_appraisal_amount" : "1629000.00",
+  "intended_use_appraisal_amount" : "2000000.00",
+  "projectdwid" : "17046",
+  "project_id" : "43190",
+  "acquisition_price" : "1.00",
+  "highest_best_appraisal_amount" : "3000000.00"
+}
+, {
+  "projectdwid" : "17113",
+  "project_id" : "44764",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16770",
+  "project_id" : "39178",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16879",
+  "project_id" : "40071",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16900",
+  "project_id" : "40703",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16941",
+  "project_id" : "41402",
+  "hpd_pbvhap_year1_amount" : "274143"
+}
+, {
+  "projectdwid" : "16961",
+  "project_id" : "41815",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16970",
+  "project_id" : "42083",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "18197",
+  "project_id" : "48513",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "projectdwid" : "16721",
+  "project_id" : "38478",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "inclusionary_low_income_floor_area" : "22892.00",
+  "projectdwid" : "18566",
+  "project_id" : "48579"
+}
+, {
+  "projectdwid" : "18412",
+  "project_id" : "44375",
+  "acquisition_price" : "3",
+  "highest_best_appraisal_amount" : "1266350"
+}
+, {
+  "as_is_appraisal_amount" : "12100000",
+  "intended_use_appraisal_amount" : "18200000",
+  "projectdwid" : "19658",
+  "project_id" : "70",
+  "acquisition_price" : "49500",
+  "highest_best_appraisal_amount" : "18200000"
+}
+, {
+  "as_is_appraisal_amount" : "18860000",
+  "intended_use_appraisal_amount" : "8840000",
+  "projectdwid" : "18226",
+  "project_id" : "44323",
+  "acquisition_price" : "1"
+}
+, {
+  "projectdwid" : "18267",
+  "project_id" : "44513",
+  "acquisition_price" : "49545",
+  "highest_best_appraisal_amount" : "4067424"
+}
+, {
+  "projectdwid" : "18258",
+  "project_id" : "48537",
+  "acquisition_price" : "3680000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "8055.00",
+  "projectdwid" : "18560",
+  "project_id" : "49272"
+}
+, {
+  "inclusionary_low_income_floor_area" : "313825.00",
+  "projectdwid" : "18536",
+  "project_id" : "49455"
+}
+, {
+  "projectdwid" : "18542",
+  "project_id" : "48640",
+  "hpd_pbvhap_year1_amount" : "23024.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "5.00",
+  "as_is_appraisal_amount" : "15200000.00",
+  "projectdwid" : "18544",
+  "project_id" : "48049",
+  "acquisition_price" : "6550000.00",
+  "highest_best_appraisal_amount" : "1800000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "11794.00",
+  "projectdwid" : "18549",
+  "project_id" : "49285"
+}
+, {
+  "inclusionary_low_income_floor_area" : "39541.00",
+  "projectdwid" : "18636",
+  "project_id" : "49391"
+}
+, {
+  "inclusionary_low_income_floor_area" : "60160.00",
+  "projectdwid" : "18642",
+  "project_id" : "48929"
+}
+, {
+  "projectdwid" : "18732",
+  "project_id" : "50568",
+  "is_credit_facility" : "Yes"
+}
+, {
+  "inclusionary_low_income_floor_area" : "2.00",
+  "projectdwid" : "18545",
+  "project_id" : "44303",
+  "acquisition_price" : "790000.00"
+}
+, {
+  "projectdwid" : "18546",
+  "project_id" : "49481",
+  "hpd_pbvhap_year1_amount" : "26094.00"
+}
+, {
+  "as_is_appraisal_amount" : "6600000.00",
+  "projectdwid" : "19437",
+  "project_id" : "48877",
+  "acquisition_price" : "6600321.00",
+  "highest_best_appraisal_amount" : "6600000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "2.00",
+  "as_is_appraisal_amount" : "17500000.00",
+  "projectdwid" : "19570",
+  "project_id" : "48132",
+  "acquisition_price" : "4700000.00",
+  "highest_best_appraisal_amount" : "11750000.00"
+}
+, {
+  "projectdwid" : "18648",
+  "project_id" : "48644",
+  "hpd_pbvhap_year1_amount" : "49886.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "1.00",
+  "as_is_appraisal_amount" : "77350000.00",
+  "projectdwid" : "18654",
+  "project_id" : "44405",
+  "acquisition_price" : "77350000.00",
+  "highest_best_appraisal_amount" : "32490000.00"
+}
+, {
+  "projectdwid" : "18657",
+  "project_id" : "49173",
+  "hpd_pbvhap_year1_amount" : "23024.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "43889.00",
+  "projectdwid" : "18658",
+  "project_id" : "50181"
+}
+, {
+  "inclusionary_low_income_floor_area" : "18392.00",
+  "projectdwid" : "18659",
+  "project_id" : "50329"
+}
+, {
+  "inclusionary_low_income_floor_area" : "49070.00",
+  "projectdwid" : "18660",
+  "project_id" : "49690"
+}
+, {
+  "inclusionary_low_income_floor_area" : "26136.00",
+  "projectdwid" : "18663",
+  "project_id" : "49706"
+}
+, {
+  "inclusionary_low_income_floor_area" : "1.00",
+  "as_is_appraisal_amount" : "1255000.00",
+  "projectdwid" : "19259",
+  "project_id" : "48650",
+  "acquisition_price" : "1255000.00",
+  "highest_best_appraisal_amount" : "1255000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "36000.00",
+  "projectdwid" : "19274",
+  "project_id" : "44265"
+}
+, {
+  "inclusionary_low_income_floor_area" : "4.00",
+  "as_is_appraisal_amount" : "346000.00",
+  "projectdwid" : "19283",
+  "project_id" : "44288",
+  "acquisition_price" : "346000.00",
+  "highest_best_appraisal_amount" : "346000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "6.00",
+  "as_is_appraisal_amount" : "11370000.00",
+  "projectdwid" : "19334",
+  "project_id" : "50131",
+  "acquisition_price" : "4640000.00",
+  "highest_best_appraisal_amount" : "11370000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "8.00",
+  "projectdwid" : "19347",
+  "project_id" : "48128",
+  "acquisition_price" : "8700000.00",
+  "highest_best_appraisal_amount" : "12180000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "4.00",
+  "as_is_appraisal_amount" : "7047000.00",
+  "projectdwid" : "19390",
+  "project_id" : "49722",
+  "acquisition_price" : "7047000.00",
+  "highest_best_appraisal_amount" : "7047000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "1.00",
+  "as_is_appraisal_amount" : "2155000.00",
+  "projectdwid" : "19420",
+  "project_id" : "44250",
+  "acquisition_price" : "2155000.00",
+  "highest_best_appraisal_amount" : "2155000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "5.00",
+  "as_is_appraisal_amount" : "2548000.00",
+  "projectdwid" : "19421",
+  "project_id" : "44230",
+  "acquisition_price" : "256687.00",
+  "highest_best_appraisal_amount" : "2215000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "1.00",
+  "as_is_appraisal_amount" : "8500000.00",
+  "projectdwid" : "19430",
+  "project_id" : "49588",
+  "acquisition_price" : "13400000.00",
+  "highest_best_appraisal_amount" : "650000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "1.00",
+  "as_is_appraisal_amount" : "24200000.00",
+  "projectdwid" : "19503",
+  "project_id" : "50026",
+  "acquisition_price" : "2750000.00",
+  "highest_best_appraisal_amount" : "22500000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "8.00",
+  "as_is_appraisal_amount" : "13100000.00",
+  "projectdwid" : "19639",
+  "project_id" : "44319",
+  "hpd_pbvhap_year1_amount" : "132720.00",
+  "acquisition_price" : "7540000.00",
+  "highest_best_appraisal_amount" : "13100000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "17140000.00",
+  "as_is_appraisal_amount" : "77320000.00",
+  "projectdwid" : "21289",
+  "project_id" : "52083",
+  "acquisition_price" : "77320000.00",
+  "highest_best_appraisal_amount" : "36800000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "1325943.00",
+  "projectdwid" : "21089",
+  "project_id" : "52223"
+}
+, {
+  "inclusionary_low_income_floor_area" : "5.00",
+  "projectdwid" : "19356",
+  "project_id" : "44333"
+}
+, {
+  "inclusionary_low_income_floor_area" : "1.00",
+  "as_is_appraisal_amount" : "11914290.00",
+  "projectdwid" : "19338",
+  "project_id" : "49938",
+  "acquisition_price" : "11914290.00",
+  "highest_best_appraisal_amount" : "11914290.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "1.00",
+  "projectdwid" : "19546",
+  "project_id" : "48624",
+  "highest_best_appraisal_amount" : "520000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "1900000.00",
+  "projectdwid" : "19536",
+  "project_id" : "44281"
+}
+, {
+  "inclusionary_low_income_floor_area" : "7.00",
+  "as_is_appraisal_amount" : "5000000.00",
+  "projectdwid" : "19375",
+  "project_id" : "50059",
+  "acquisition_price" : "3660000.00",
+  "highest_best_appraisal_amount" : "2600000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "1.00",
+  "as_is_appraisal_amount" : "77800000.00",
+  "projectdwid" : "21316",
+  "project_id" : "52122",
+  "acquisition_price" : "77800000.00",
+  "highest_best_appraisal_amount" : "9940000.00"
+}
+, {
+  "inclusionary_low_income_floor_area" : "1875000.00",
+  "as_is_appraisal_amount" : "1800000.00",
+  "projectdwid" : "21350",
+  "project_id" : "52656",
+  "acquisition_price" : "1800000.00",
+  "highest_best_appraisal_amount" : "12000000.00"
+}
+ ]

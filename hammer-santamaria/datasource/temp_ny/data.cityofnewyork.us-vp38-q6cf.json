@@ -1,0 +1,71 @@
+[ {
+  "service_name" : "For emergencies",
+  "phone_number" : "911"
+}
+, {
+  "service_name" : "Information on New York City Services",
+  "phone_number" : "311"
+}
+, {
+  "comments" : "TDD: 866-604-5350, All language, 24 hour, shelter, counseling, legal assistance, benefits",
+  "service_name" : "NYC Domestic Violence Hotline",
+  "phone_number" : "800-621-4673"
+}
+, {
+  "service_name" : "NYC Incest/Sexual Assault 24 hour Hotline",
+  "phone_number" : "212-267-7273"
+}
+, {
+  "service_name" : "NYC Crime Victims Hotline",
+  "phone_number" : "212-577-7777"
+}
+, {
+  "comments" : "Spanish: 800-942-6908, TDD: 800-818-0656 Outside of NYC",
+  "service_name" : "NY State Coalition Against Domestic Violence",
+  "phone_number" : "800-942-6906"
+}
+, {
+  "comments" : "24 hour bilingual hotline and services for LGBTQ victims of abuse",
+  "service_name" : "Anti-Violence Project",
+  "phone_number" : "212-714-1141"
+}
+, {
+  "comments" : "Victims of abuse with disabilities",
+  "service_name" : "Barrier Free Living",
+  "phone_number" : "212-533-4358"
+}
+, {
+  "comments" : "NYS Central Register for reporting child abuse",
+  "service_name" : "Child Abuse and Maltreatment Hotline",
+  "phone_number" : "800-342-3720"
+}
+, {
+  "comments" : "Prevent Child Abuse New York",
+  "service_name" : "Child Abuse Prevention and Parent Helpline",
+  "phone_number" : "800-342-7472"
+}
+, {
+  "service_name" : "Elderly Crime Victims Resource Center",
+  "phone_number" : "212-442-3103"
+}
+, {
+  "comments" : "Food emergency",
+  "service_name" : "Hunger Hotline",
+  "phone_number" : "866-888-8777"
+}
+, {
+  "comments" : "For women and infants",
+  "service_name" : "Prenatal Care Assistance Program",
+  "phone_number" : "800-522-5006"
+}
+, {
+  "comments" : "Determine release date from correctional facility",
+  "service_name" : "Victim Information Notification Everyday Program (VINE)",
+  "phone_number" : "888-846-3469"
+}
+, {
+  "comments" : "TDD: 800-246-4699, Crisis intervention and youth service referral, all language and Braille printing capabilities",
+  "service_name" : "Youthline",
+  "phone_number" : "800-246-4646"
+}
+ ]

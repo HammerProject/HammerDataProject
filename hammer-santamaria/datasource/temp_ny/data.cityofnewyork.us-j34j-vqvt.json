@@ -1,0 +1,3786 @@
+[ {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1947",
+  "averageresponsetime" : "3:54",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "435",
+  "averageresponsetime" : "4:00",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "432",
+  "averageresponsetime" : "3:59",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "90",
+  "averageresponsetime" : "4:34",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "652",
+  "averageresponsetime" : "3:29",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "338",
+  "averageresponsetime" : "4:17",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1495",
+  "averageresponsetime" : "4:19",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "349",
+  "averageresponsetime" : "4:16",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "296",
+  "averageresponsetime" : "4:32",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "103",
+  "averageresponsetime" : "4:38",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "438",
+  "averageresponsetime" : "3:59",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "309",
+  "averageresponsetime" : "4:31",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "18606",
+  "averageresponsetime" : "4:12",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4895",
+  "averageresponsetime" : "4:17",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3429",
+  "averageresponsetime" : "4:17",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "933",
+  "averageresponsetime" : "4:19",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "5344",
+  "averageresponsetime" : "3:51",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "4005",
+  "averageresponsetime" : "4:30",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "15739",
+  "averageresponsetime" : "4:50",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4446",
+  "averageresponsetime" : "4:51",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3150",
+  "averageresponsetime" : "5:04",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "877",
+  "averageresponsetime" : "5:24",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "4395",
+  "averageresponsetime" : "4:20",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "2871",
+  "averageresponsetime" : "5:11",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "2655",
+  "averageresponsetime" : "4:07",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "474",
+  "averageresponsetime" : "4:07",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "755",
+  "averageresponsetime" : "4:26",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "192",
+  "averageresponsetime" : "3:49",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "565",
+  "averageresponsetime" : "3:42",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "669",
+  "averageresponsetime" : "4:11",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "408",
+  "averageresponsetime" : "4:13",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "110",
+  "averageresponsetime" : "4:18",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "75",
+  "averageresponsetime" : "4:00",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "10",
+  "averageresponsetime" : "4:10",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "111",
+  "averageresponsetime" : "3:50",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "102",
+  "averageresponsetime" : "4:42",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "40850",
+  "averageresponsetime" : "4:27",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "10709",
+  "averageresponsetime" : "4:32",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "8137",
+  "averageresponsetime" : "4:37",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "2205",
+  "averageresponsetime" : "4:45",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "11505",
+  "averageresponsetime" : "4:01",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "8294",
+  "averageresponsetime" : "4:43",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200907"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1933",
+  "averageresponsetime" : "3:58",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "439",
+  "averageresponsetime" : "4:04",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "432",
+  "averageresponsetime" : "4:17",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "80",
+  "averageresponsetime" : "4:32",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "613",
+  "averageresponsetime" : "3:26",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "369",
+  "averageresponsetime" : "4:16",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1283",
+  "averageresponsetime" : "4:18",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "276",
+  "averageresponsetime" : "4:15",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "230",
+  "averageresponsetime" : "4:41",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "44",
+  "averageresponsetime" : "5:01",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "402",
+  "averageresponsetime" : "3:49",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "331",
+  "averageresponsetime" : "4:36",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "18409",
+  "averageresponsetime" : "4:13",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4854",
+  "averageresponsetime" : "4:16",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3438",
+  "averageresponsetime" : "4:20",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "838",
+  "averageresponsetime" : "4:26",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "5437",
+  "averageresponsetime" : "3:53",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3842",
+  "averageresponsetime" : "4:30",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "16859",
+  "averageresponsetime" : "4:55",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4621",
+  "averageresponsetime" : "5:02",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3786",
+  "averageresponsetime" : "5:17",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "834",
+  "averageresponsetime" : "4:56",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "4571",
+  "averageresponsetime" : "4:19",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3047",
+  "averageresponsetime" : "5:12",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "2814",
+  "averageresponsetime" : "4:06",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "514",
+  "averageresponsetime" : "4:17",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "779",
+  "averageresponsetime" : "4:21",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "198",
+  "averageresponsetime" : "4:04",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "632",
+  "averageresponsetime" : "3:34",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "691",
+  "averageresponsetime" : "4:11",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "425",
+  "averageresponsetime" : "4:19",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "132",
+  "averageresponsetime" : "4:16",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "84",
+  "averageresponsetime" : "4:20",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "15",
+  "averageresponsetime" : "4:44",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "94",
+  "averageresponsetime" : "3:46",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "100",
+  "averageresponsetime" : "4:49",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "41723",
+  "averageresponsetime" : "4:30",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "10836",
+  "averageresponsetime" : "4:38",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "8749",
+  "averageresponsetime" : "4:47",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "2009",
+  "averageresponsetime" : "4:38",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "11749",
+  "averageresponsetime" : "4:01",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "8380",
+  "averageresponsetime" : "4:44",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200908"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "2096",
+  "averageresponsetime" : "3:58",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "468",
+  "averageresponsetime" : "4:13",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "449",
+  "averageresponsetime" : "4:00",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "103",
+  "averageresponsetime" : "4:16",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "676",
+  "averageresponsetime" : "3:34",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "400",
+  "averageresponsetime" : "4:13",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1294",
+  "averageresponsetime" : "4:21",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "277",
+  "averageresponsetime" : "4:23",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "237",
+  "averageresponsetime" : "4:40",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "64",
+  "averageresponsetime" : "4:16",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "362",
+  "averageresponsetime" : "3:51",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "354",
+  "averageresponsetime" : "4:39",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "17073",
+  "averageresponsetime" : "4:15",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4592",
+  "averageresponsetime" : "4:16",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3230",
+  "averageresponsetime" : "4:27",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "840",
+  "averageresponsetime" : "4:21",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "4927",
+  "averageresponsetime" : "3:54",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3484",
+  "averageresponsetime" : "4:34",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "14027",
+  "averageresponsetime" : "4:46",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4018",
+  "averageresponsetime" : "5:00",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "2840",
+  "averageresponsetime" : "4:55",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "761",
+  "averageresponsetime" : "4:56",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "3880",
+  "averageresponsetime" : "4:11",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "2528",
+  "averageresponsetime" : "5:06",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "2187",
+  "averageresponsetime" : "4:07",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "373",
+  "averageresponsetime" : "4:20",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "563",
+  "averageresponsetime" : "4:20",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "217",
+  "averageresponsetime" : "4:09",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "457",
+  "averageresponsetime" : "3:32",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "577",
+  "averageresponsetime" : "4:11",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "405",
+  "averageresponsetime" : "4:14",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "94",
+  "averageresponsetime" : "4:26",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "92",
+  "averageresponsetime" : "3:57",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "13",
+  "averageresponsetime" : "5:12",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "96",
+  "averageresponsetime" : "3:41",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "110",
+  "averageresponsetime" : "4:39",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "37082",
+  "averageresponsetime" : "4:27",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "9822",
+  "averageresponsetime" : "4:37",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "7411",
+  "averageresponsetime" : "4:36",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "1998",
+  "averageresponsetime" : "4:33",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "10398",
+  "averageresponsetime" : "3:58",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "7453",
+  "averageresponsetime" : "4:43",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200909"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "2290",
+  "averageresponsetime" : "3:56",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "501",
+  "averageresponsetime" : "4:08",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "528",
+  "averageresponsetime" : "4:02",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "92",
+  "averageresponsetime" : "4:14",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "749",
+  "averageresponsetime" : "3:32",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "420",
+  "averageresponsetime" : "4:15",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1110",
+  "averageresponsetime" : "4:16",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "281",
+  "averageresponsetime" : "4:17",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "191",
+  "averageresponsetime" : "4:26",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "47",
+  "averageresponsetime" : "4:27",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "311",
+  "averageresponsetime" : "3:47",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "280",
+  "averageresponsetime" : "4:40",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "17377",
+  "averageresponsetime" : "4:17",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4584",
+  "averageresponsetime" : "4:20",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3253",
+  "averageresponsetime" : "4:23",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "904",
+  "averageresponsetime" : "4:30",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "5006",
+  "averageresponsetime" : "3:54",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3630",
+  "averageresponsetime" : "4:37",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "17663",
+  "averageresponsetime" : "4:48",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4721",
+  "averageresponsetime" : "4:49",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3645",
+  "averageresponsetime" : "5:05",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "989",
+  "averageresponsetime" : "5:11",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "4893",
+  "averageresponsetime" : "4:14",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3415",
+  "averageresponsetime" : "5:13",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "2135",
+  "averageresponsetime" : "4:11",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "375",
+  "averageresponsetime" : "4:17",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "544",
+  "averageresponsetime" : "4:22",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "203",
+  "averageresponsetime" : "4:08",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "462",
+  "averageresponsetime" : "3:43",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "551",
+  "averageresponsetime" : "4:21",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "399",
+  "averageresponsetime" : "4:19",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "101",
+  "averageresponsetime" : "4:06",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "92",
+  "averageresponsetime" : "4:34",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "12",
+  "averageresponsetime" : "4:31",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "100",
+  "averageresponsetime" : "3:45",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "94",
+  "averageresponsetime" : "4:55",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "40974",
+  "averageresponsetime" : "4:30",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "10563",
+  "averageresponsetime" : "4:34",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "8253",
+  "averageresponsetime" : "4:42",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "2247",
+  "averageresponsetime" : "4:46",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "11521",
+  "averageresponsetime" : "4:01",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "8390",
+  "averageresponsetime" : "4:51",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200910"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "2430",
+  "averageresponsetime" : "3:58",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "583",
+  "averageresponsetime" : "4:12",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "546",
+  "averageresponsetime" : "4:00",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "97",
+  "averageresponsetime" : "4:32",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "759",
+  "averageresponsetime" : "3:31",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "445",
+  "averageresponsetime" : "4:18",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1156",
+  "averageresponsetime" : "4:22",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "260",
+  "averageresponsetime" : "4:13",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "167",
+  "averageresponsetime" : "4:49",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "100",
+  "averageresponsetime" : "4:38",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "342",
+  "averageresponsetime" : "3:50",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "287",
+  "averageresponsetime" : "4:50",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "16751",
+  "averageresponsetime" : "4:18",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4284",
+  "averageresponsetime" : "4:25",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3122",
+  "averageresponsetime" : "4:28",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "909",
+  "averageresponsetime" : "4:26",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "4832",
+  "averageresponsetime" : "3:56",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3604",
+  "averageresponsetime" : "4:32",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "15555",
+  "averageresponsetime" : "4:46",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4250",
+  "averageresponsetime" : "4:51",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3298",
+  "averageresponsetime" : "5:00",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "790",
+  "averageresponsetime" : "5:02",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "4443",
+  "averageresponsetime" : "4:13",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "2774",
+  "averageresponsetime" : "5:07",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1977",
+  "averageresponsetime" : "4:14",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "353",
+  "averageresponsetime" : "4:25",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "508",
+  "averageresponsetime" : "4:28",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "223",
+  "averageresponsetime" : "4:20",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "416",
+  "averageresponsetime" : "3:37",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "477",
+  "averageresponsetime" : "4:21",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "328",
+  "averageresponsetime" : "4:08",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "90",
+  "averageresponsetime" : "4:16",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "60",
+  "averageresponsetime" : "4:02",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "17",
+  "averageresponsetime" : "3:30",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "69",
+  "averageresponsetime" : "3:44",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "92",
+  "averageresponsetime" : "4:33",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "38197",
+  "averageresponsetime" : "4:29",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "9820",
+  "averageresponsetime" : "4:37",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "7701",
+  "averageresponsetime" : "4:41",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "2136",
+  "averageresponsetime" : "4:40",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "10861",
+  "averageresponsetime" : "4:01",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "7679",
+  "averageresponsetime" : "4:45",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200911"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "2674",
+  "averageresponsetime" : "4:04",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "650",
+  "averageresponsetime" : "4:14",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "596",
+  "averageresponsetime" : "4:12",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "130",
+  "averageresponsetime" : "4:30",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "816",
+  "averageresponsetime" : "3:38",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "482",
+  "averageresponsetime" : "4:19",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1358",
+  "averageresponsetime" : "4:16",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "366",
+  "averageresponsetime" : "4:13",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "214",
+  "averageresponsetime" : "4:38",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "48",
+  "averageresponsetime" : "4:39",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "415",
+  "averageresponsetime" : "3:47",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "315",
+  "averageresponsetime" : "4:38",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "16706",
+  "averageresponsetime" : "4:26",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4257",
+  "averageresponsetime" : "4:29",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3210",
+  "averageresponsetime" : "4:34",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "900",
+  "averageresponsetime" : "4:38",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "4647",
+  "averageresponsetime" : "4:02",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3692",
+  "averageresponsetime" : "4:42",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "19205",
+  "averageresponsetime" : "4:53",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "5017",
+  "averageresponsetime" : "5:00",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3937",
+  "averageresponsetime" : "5:03",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "1018",
+  "averageresponsetime" : "5:00",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "5533",
+  "averageresponsetime" : "4:20",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3700",
+  "averageresponsetime" : "5:19",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1947",
+  "averageresponsetime" : "4:22",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "400",
+  "averageresponsetime" : "4:36",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "425",
+  "averageresponsetime" : "4:38",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "119",
+  "averageresponsetime" : "4:32",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "439",
+  "averageresponsetime" : "3:54",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "564",
+  "averageresponsetime" : "4:20",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "370",
+  "averageresponsetime" : "4:32",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "104",
+  "averageresponsetime" : "4:29",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "51",
+  "averageresponsetime" : "4:55",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "14",
+  "averageresponsetime" : "5:38",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "103",
+  "averageresponsetime" : "4:06",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "98",
+  "averageresponsetime" : "4:45",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "42260",
+  "averageresponsetime" : "4:37",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "10794",
+  "averageresponsetime" : "4:44",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "8433",
+  "averageresponsetime" : "4:48",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "2229",
+  "averageresponsetime" : "4:48",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "11953",
+  "averageresponsetime" : "4:09",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "8851",
+  "averageresponsetime" : "4:56",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "200912"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "2467",
+  "averageresponsetime" : "3:55",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "624",
+  "averageresponsetime" : "4:11",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "554",
+  "averageresponsetime" : "3:59",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "91",
+  "averageresponsetime" : "4:16",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "773",
+  "averageresponsetime" : "3:23",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "425",
+  "averageresponsetime" : "4:20",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1239",
+  "averageresponsetime" : "4:11",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "329",
+  "averageresponsetime" : "4:13",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "214",
+  "averageresponsetime" : "4:36",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "76",
+  "averageresponsetime" : "4:20",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "378",
+  "averageresponsetime" : "3:43",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "242",
+  "averageresponsetime" : "4:24",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "16581",
+  "averageresponsetime" : "4:20",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4097",
+  "averageresponsetime" : "4:23",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3298",
+  "averageresponsetime" : "4:29",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "850",
+  "averageresponsetime" : "4:30",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "4767",
+  "averageresponsetime" : "3:57",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3569",
+  "averageresponsetime" : "4:36",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "18234",
+  "averageresponsetime" : "4:46",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4874",
+  "averageresponsetime" : "4:51",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3869",
+  "averageresponsetime" : "4:59",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "843",
+  "averageresponsetime" : "4:57",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "5176",
+  "averageresponsetime" : "4:14",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3472",
+  "averageresponsetime" : "5:09",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1725",
+  "averageresponsetime" : "4:19",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "313",
+  "averageresponsetime" : "4:27",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "410",
+  "averageresponsetime" : "4:37",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "126",
+  "averageresponsetime" : "4:08",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "366",
+  "averageresponsetime" : "3:51",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "510",
+  "averageresponsetime" : "4:21",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "302",
+  "averageresponsetime" : "4:28",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "77",
+  "averageresponsetime" : "4:27",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "66",
+  "averageresponsetime" : "4:54",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "7",
+  "averageresponsetime" : "4:08",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "79",
+  "averageresponsetime" : "3:55",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "73",
+  "averageresponsetime" : "4:47",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "40548",
+  "averageresponsetime" : "4:31",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "10314",
+  "averageresponsetime" : "4:37",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "8411",
+  "averageresponsetime" : "4:43",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "1993",
+  "averageresponsetime" : "4:40",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "11539",
+  "averageresponsetime" : "4:02",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "8291",
+  "averageresponsetime" : "4:49",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201001"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "2202",
+  "averageresponsetime" : "4:01",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "510",
+  "averageresponsetime" : "4:07",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "552",
+  "averageresponsetime" : "4:05",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "76",
+  "averageresponsetime" : "4:26",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "674",
+  "averageresponsetime" : "3:35",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "390",
+  "averageresponsetime" : "4:30",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1848",
+  "averageresponsetime" : "4:14",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "630",
+  "averageresponsetime" : "4:12",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "207",
+  "averageresponsetime" : "4:32",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "35",
+  "averageresponsetime" : "4:27",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "584",
+  "averageresponsetime" : "3:55",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "392",
+  "averageresponsetime" : "4:34",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "14517",
+  "averageresponsetime" : "4:25",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "3511",
+  "averageresponsetime" : "4:27",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "2772",
+  "averageresponsetime" : "4:25",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "759",
+  "averageresponsetime" : "4:50",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "4311",
+  "averageresponsetime" : "4:05",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3164",
+  "averageresponsetime" : "4:44",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "16672",
+  "averageresponsetime" : "5:02",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4212",
+  "averageresponsetime" : "4:57",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3146",
+  "averageresponsetime" : "5:10",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "1437",
+  "averageresponsetime" : "6:06",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "4824",
+  "averageresponsetime" : "4:32",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3053",
+  "averageresponsetime" : "5:19",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1548",
+  "averageresponsetime" : "4:35",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "268",
+  "averageresponsetime" : "4:46",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "304",
+  "averageresponsetime" : "4:47",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "137",
+  "averageresponsetime" : "4:35",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "390",
+  "averageresponsetime" : "4:04",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "449",
+  "averageresponsetime" : "4:48",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "278",
+  "averageresponsetime" : "4:28",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "58",
+  "averageresponsetime" : "4:31",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "57",
+  "averageresponsetime" : "4:48",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "12",
+  "averageresponsetime" : "5:05",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "80",
+  "averageresponsetime" : "3:52",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "71",
+  "averageresponsetime" : "4:45",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "37065",
+  "averageresponsetime" : "4:41",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "9189",
+  "averageresponsetime" : "4:40",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "7038",
+  "averageresponsetime" : "4:47",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "2456",
+  "averageresponsetime" : "5:34",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "10863",
+  "averageresponsetime" : "4:15",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "7519",
+  "averageresponsetime" : "4:58",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201002"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "2325",
+  "averageresponsetime" : "4:02",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "512",
+  "averageresponsetime" : "4:14",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "511",
+  "averageresponsetime" : "4:09",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "131",
+  "averageresponsetime" : "4:24",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "784",
+  "averageresponsetime" : "3:36",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "387",
+  "averageresponsetime" : "4:24",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1660",
+  "averageresponsetime" : "4:24",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "348",
+  "averageresponsetime" : "4:14",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "243",
+  "averageresponsetime" : "4:30",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "139",
+  "averageresponsetime" : "4:49",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "572",
+  "averageresponsetime" : "4:08",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "358",
+  "averageresponsetime" : "4:43",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "16929",
+  "averageresponsetime" : "4:17",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4441",
+  "averageresponsetime" : "4:22",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3221",
+  "averageresponsetime" : "4:24",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "813",
+  "averageresponsetime" : "4:41",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "4932",
+  "averageresponsetime" : "3:55",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3522",
+  "averageresponsetime" : "4:33",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "21125",
+  "averageresponsetime" : "5:10",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4826",
+  "averageresponsetime" : "5:03",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "4157",
+  "averageresponsetime" : "5:24",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "2253",
+  "averageresponsetime" : "6:11",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "5825",
+  "averageresponsetime" : "4:31",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "4064",
+  "averageresponsetime" : "5:31",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "2157",
+  "averageresponsetime" : "4:33",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "356",
+  "averageresponsetime" : "4:33",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "581",
+  "averageresponsetime" : "4:41",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "211",
+  "averageresponsetime" : "4:54",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "432",
+  "averageresponsetime" : "3:59",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "577",
+  "averageresponsetime" : "4:41",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "368",
+  "averageresponsetime" : "4:18",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "75",
+  "averageresponsetime" : "4:10",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "68",
+  "averageresponsetime" : "4:30",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "8",
+  "averageresponsetime" : "4:13",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "127",
+  "averageresponsetime" : "3:59",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "90",
+  "averageresponsetime" : "4:40",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "44564",
+  "averageresponsetime" : "4:44",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "10558",
+  "averageresponsetime" : "4:43",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "8781",
+  "averageresponsetime" : "4:55",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "3555",
+  "averageresponsetime" : "5:38",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "12672",
+  "averageresponsetime" : "4:12",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "8998",
+  "averageresponsetime" : "5:01",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201003"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "2173",
+  "averageresponsetime" : "3:59",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "531",
+  "averageresponsetime" : "4:06",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "470",
+  "averageresponsetime" : "4:04",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "102",
+  "averageresponsetime" : "4:50",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "704",
+  "averageresponsetime" : "3:33",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "366",
+  "averageresponsetime" : "4:20",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1467",
+  "averageresponsetime" : "4:22",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "378",
+  "averageresponsetime" : "4:37",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "265",
+  "averageresponsetime" : "4:26",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "119",
+  "averageresponsetime" : "4:54",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "377",
+  "averageresponsetime" : "3:46",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "328",
+  "averageresponsetime" : "4:33",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "17252",
+  "averageresponsetime" : "4:13",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4525",
+  "averageresponsetime" : "4:20",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3145",
+  "averageresponsetime" : "4:20",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "917",
+  "averageresponsetime" : "4:30",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "4966",
+  "averageresponsetime" : "3:52",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3699",
+  "averageresponsetime" : "4:27",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "15101",
+  "averageresponsetime" : "4:48",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4188",
+  "averageresponsetime" : "4:55",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3112",
+  "averageresponsetime" : "4:59",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "995",
+  "averageresponsetime" : "5:00",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "4131",
+  "averageresponsetime" : "4:19",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "2675",
+  "averageresponsetime" : "5:03",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "2089",
+  "averageresponsetime" : "4:15",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "370",
+  "averageresponsetime" : "4:26",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "644",
+  "averageresponsetime" : "4:26",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "178",
+  "averageresponsetime" : "4:15",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "402",
+  "averageresponsetime" : "3:43",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "495",
+  "averageresponsetime" : "4:17",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "383",
+  "averageresponsetime" : "4:11",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "91",
+  "averageresponsetime" : "4:17",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "75",
+  "averageresponsetime" : "4:12",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "14",
+  "averageresponsetime" : "4:33",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "122",
+  "averageresponsetime" : "3:53",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "81",
+  "averageresponsetime" : "4:25",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "38465",
+  "averageresponsetime" : "4:28",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "10083",
+  "averageresponsetime" : "4:37",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "7711",
+  "averageresponsetime" : "4:37",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "2325",
+  "averageresponsetime" : "4:45",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "10702",
+  "averageresponsetime" : "4:01",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "7644",
+  "averageresponsetime" : "4:40",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201004"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "2121",
+  "averageresponsetime" : "3:59",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "529",
+  "averageresponsetime" : "4:07",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "437",
+  "averageresponsetime" : "4:07",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "101",
+  "averageresponsetime" : "4:34",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "703",
+  "averageresponsetime" : "3:33",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "351",
+  "averageresponsetime" : "4:21",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1538",
+  "averageresponsetime" : "4:18",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "373",
+  "averageresponsetime" : "4:12",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "267",
+  "averageresponsetime" : "4:40",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "80",
+  "averageresponsetime" : "4:33",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "489",
+  "averageresponsetime" : "3:49",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "329",
+  "averageresponsetime" : "4:46",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "19278",
+  "averageresponsetime" : "4:15",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "5086",
+  "averageresponsetime" : "4:19",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3617",
+  "averageresponsetime" : "4:24",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "916",
+  "averageresponsetime" : "4:42",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "5549",
+  "averageresponsetime" : "3:54",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "4110",
+  "averageresponsetime" : "4:28",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "17866",
+  "averageresponsetime" : "4:53",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4847",
+  "averageresponsetime" : "4:52",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3580",
+  "averageresponsetime" : "5:07",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "1074",
+  "averageresponsetime" : "5:04",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "4711",
+  "averageresponsetime" : "4:22",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3654",
+  "averageresponsetime" : "5:16",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "2614",
+  "averageresponsetime" : "4:19",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "424",
+  "averageresponsetime" : "4:20",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "740",
+  "averageresponsetime" : "4:32",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "223",
+  "averageresponsetime" : "4:19",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "475",
+  "averageresponsetime" : "3:53",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "752",
+  "averageresponsetime" : "4:23",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "431",
+  "averageresponsetime" : "4:07",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "104",
+  "averageresponsetime" : "4:03",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "107",
+  "averageresponsetime" : "4:09",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "16",
+  "averageresponsetime" : "4:08",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "128",
+  "averageresponsetime" : "3:57",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "76",
+  "averageresponsetime" : "4:23",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "43848",
+  "averageresponsetime" : "4:31",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "11363",
+  "averageresponsetime" : "4:34",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "8748",
+  "averageresponsetime" : "4:43",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "2410",
+  "averageresponsetime" : "4:49",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "12055",
+  "averageresponsetime" : "4:04",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "9272",
+  "averageresponsetime" : "4:48",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201005"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1937",
+  "averageresponsetime" : "3:58",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "422",
+  "averageresponsetime" : "4:01",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "402",
+  "averageresponsetime" : "4:06",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "93",
+  "averageresponsetime" : "4:50",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "663",
+  "averageresponsetime" : "3:32",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "357",
+  "averageresponsetime" : "4:23",
+  "incidentclassification" : "Structural Fires",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "1741",
+  "averageresponsetime" : "4:19",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "426",
+  "averageresponsetime" : "4:18",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "312",
+  "averageresponsetime" : "4:30",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "106",
+  "averageresponsetime" : "4:51",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "496",
+  "averageresponsetime" : "3:56",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "401",
+  "averageresponsetime" : "4:30",
+  "incidentclassification" : "Non Structural Fires",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "19256",
+  "averageresponsetime" : "4:16",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "5342",
+  "averageresponsetime" : "4:19",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3519",
+  "averageresponsetime" : "4:24",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "943",
+  "averageresponsetime" : "4:30",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "5472",
+  "averageresponsetime" : "3:54",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3980",
+  "averageresponsetime" : "4:33",
+  "incidentclassification" : "Medical Emergencies",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "17689",
+  "averageresponsetime" : "4:59",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4820",
+  "averageresponsetime" : "5:01",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "3853",
+  "averageresponsetime" : "5:15",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "967",
+  "averageresponsetime" : "5:02",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "4650",
+  "averageresponsetime" : "4:28",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3399",
+  "averageresponsetime" : "5:19",
+  "incidentclassification" : "Non Medical Emergencies",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "2695",
+  "averageresponsetime" : "4:21",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "497",
+  "averageresponsetime" : "4:25",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "780",
+  "averageresponsetime" : "4:38",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "202",
+  "averageresponsetime" : "4:09",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "434",
+  "averageresponsetime" : "3:52",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "782",
+  "averageresponsetime" : "4:21",
+  "incidentclassification" : "False Alarm",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "460",
+  "averageresponsetime" : "4:14",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "127",
+  "averageresponsetime" : "4:11",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "83",
+  "averageresponsetime" : "4:25",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "19",
+  "averageresponsetime" : "4:22",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "124",
+  "averageresponsetime" : "3:55",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "107",
+  "averageresponsetime" : "4:32",
+  "incidentclassification" : "Medical False Alarm",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "43778",
+  "averageresponsetime" : "4:34",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "11634",
+  "averageresponsetime" : "4:39",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "8949",
+  "averageresponsetime" : "4:49",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "2330",
+  "averageresponsetime" : "4:44",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "11839",
+  "averageresponsetime" : "4:07",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "9026",
+  "averageresponsetime" : "4:49",
+  "incidentclassification" : "All Fire/Emergency Incidents",
+  "yearmonth" : "201006"
+}
+, {
+  "incidentborough" : "INCIDENTBOROUGH",
+  "averageresponsetime" : "AVERAGERESPONSETIME",
+  "incidentclassification" : "INCIDENTCLASSIFICATION"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "26595",
+  "averageresponsetime" : "3:59",
+  "incidentclassification" : "Structural Fires"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "6204",
+  "averageresponsetime" : "4:08",
+  "incidentclassification" : "Structural Fires"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "5909",
+  "averageresponsetime" : "4:05",
+  "incidentclassification" : "Structural Fires"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "1186",
+  "averageresponsetime" : "4:30",
+  "incidentclassification" : "Structural Fires"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "8566",
+  "averageresponsetime" : "3:32",
+  "incidentclassification" : "Structural Fires"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "4730",
+  "averageresponsetime" : "4:20",
+  "incidentclassification" : "Structural Fires"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "17189",
+  "averageresponsetime" : "4:18",
+  "incidentclassification" : "Non Structural Fires"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4293",
+  "averageresponsetime" : "4:17",
+  "incidentclassification" : "Non Structural Fires"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "2843",
+  "averageresponsetime" : "4:34",
+  "incidentclassification" : "Non Structural Fires"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "961",
+  "averageresponsetime" : "4:39",
+  "incidentclassification" : "Non Structural Fires"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "5166",
+  "averageresponsetime" : "3:52",
+  "incidentclassification" : "Non Structural Fires"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "3926",
+  "averageresponsetime" : "4:37",
+  "incidentclassification" : "Non Structural Fires"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "208735",
+  "averageresponsetime" : "4:17",
+  "incidentclassification" : "Medical Emergencies"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "54468",
+  "averageresponsetime" : "4:21",
+  "incidentclassification" : "Medical Emergencies"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "39254",
+  "averageresponsetime" : "4:24",
+  "incidentclassification" : "Medical Emergencies"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "10522",
+  "averageresponsetime" : "4:31",
+  "incidentclassification" : "Medical Emergencies"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "60190",
+  "averageresponsetime" : "3:55",
+  "incidentclassification" : "Medical Emergencies"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "44301",
+  "averageresponsetime" : "4:34",
+  "incidentclassification" : "Medical Emergencies"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "205735",
+  "averageresponsetime" : "4:53",
+  "incidentclassification" : "Non Medical Emergencies"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "54840",
+  "averageresponsetime" : "4:56",
+  "incidentclassification" : "Non Medical Emergencies"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "42373",
+  "averageresponsetime" : "5:07",
+  "incidentclassification" : "Non Medical Emergencies"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "12838",
+  "averageresponsetime" : "5:21",
+  "incidentclassification" : "Non Medical Emergencies"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "57032",
+  "averageresponsetime" : "4:21",
+  "incidentclassification" : "Non Medical Emergencies"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "38652",
+  "averageresponsetime" : "5:15",
+  "incidentclassification" : "Non Medical Emergencies"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "26543",
+  "averageresponsetime" : "4:16",
+  "incidentclassification" : "False Alarm"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "4717",
+  "averageresponsetime" : "4:23",
+  "incidentclassification" : "False Alarm"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "7033",
+  "averageresponsetime" : "4:30",
+  "incidentclassification" : "False Alarm"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "2229",
+  "averageresponsetime" : "4:16",
+  "incidentclassification" : "False Alarm"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "5470",
+  "averageresponsetime" : "3:46",
+  "incidentclassification" : "False Alarm"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "7094",
+  "averageresponsetime" : "4:21",
+  "incidentclassification" : "False Alarm"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "4557",
+  "averageresponsetime" : "4:17",
+  "incidentclassification" : "Medical False Alarm"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "1163",
+  "averageresponsetime" : "4:17",
+  "incidentclassification" : "Medical False Alarm"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "910",
+  "averageresponsetime" : "4:22",
+  "incidentclassification" : "Medical False Alarm"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "157",
+  "averageresponsetime" : "4:29",
+  "incidentclassification" : "Medical False Alarm"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "1233",
+  "averageresponsetime" : "3:52",
+  "incidentclassification" : "Medical False Alarm"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "1094",
+  "averageresponsetime" : "4:40",
+  "incidentclassification" : "Medical False Alarm"
+}
+, {
+  "incidentborough" : "Citywide",
+  "incidentcount" : "489354",
+  "averageresponsetime" : "4:33",
+  "incidentclassification" : "All Fire/Emergency Incidents"
+}
+, {
+  "incidentborough" : "Manhattan",
+  "incidentcount" : "125685",
+  "averageresponsetime" : "4:38",
+  "incidentclassification" : "All Fire/Emergency Incidents"
+}
+, {
+  "incidentborough" : "Bronx",
+  "incidentcount" : "98322",
+  "averageresponsetime" : "4:44",
+  "incidentclassification" : "All Fire/Emergency Incidents"
+}
+, {
+  "incidentborough" : "Staten Island",
+  "incidentcount" : "27893",
+  "averageresponsetime" : "4:54",
+  "incidentclassification" : "All Fire/Emergency Incidents"
+}
+, {
+  "incidentborough" : "Brooklyn",
+  "incidentcount" : "137657",
+  "averageresponsetime" : "4:04",
+  "incidentclassification" : "All Fire/Emergency Incidents"
+}
+, {
+  "incidentborough" : "Queens",
+  "incidentcount" : "99797",
+  "averageresponsetime" : "4:49",
+  "incidentclassification" : "All Fire/Emergency Incidents"
+}
+ ]

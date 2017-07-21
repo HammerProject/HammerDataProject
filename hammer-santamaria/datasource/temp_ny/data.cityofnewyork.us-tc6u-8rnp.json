@@ -1,0 +1,162 @@
+[ {
+  "street_address" : "30-50 West 21 Street, 1st flr",
+  "phone_number_s_" : "718-333-3275/718-333-3033",
+  "city" : "Brooklyn",
+  "borough" : "Brooklyn",
+  "state" : "NY",
+  "facility_name" : "Coney Island",
+  "zip_code" : "11224"
+}
+, {
+  "street_address" : "404 Pine Street, 1st Floor",
+  "phone_number_s_" : "718-827-3961/718-827-3444",
+  "city" : "Brooklyn",
+  "borough" : "Brooklyn",
+  "state" : "NY",
+  "facility_name" : "East New York",
+  "zip_code" : "11208"
+}
+, {
+  "street_address" : "275 Bergen Street, 1st Floor",
+  "phone_number_s_" : "718-473-8510/718-694-8196",
+  "comments" : "Extended Hours - Mon. - Fri. 8:30 - 6 pm, Sat 9:00 am to 5:00 pm",
+  "city" : "Brooklyn",
+  "borough" : "Brooklyn",
+  "state" : "NY",
+  "facility_name" : "Ft. Greene",
+  "zip_code" : "11217"
+}
+, {
+  "street_address" : "500 Dekalb Avenue, 4rd Floor",
+  "phone_number_s_" : "718-398-5057/718-636-7046",
+  "city" : "Brooklyn",
+  "borough" : "Brooklyn",
+  "state" : "NY",
+  "facility_name" : "North Brooklyn",
+  "zip_code" : "11205"
+}
+, {
+  "street_address" : "30 Thornton Street, 4th Floor",
+  "phone_number_s_" : "718-963-5115/718-963-5140",
+  "city" : "Brooklyn",
+  "borough" : "Brooklyn",
+  "state" : "NY",
+  "facility_name" : "Williamsburg ",
+  "zip_code" : "11206"
+}
+, {
+  "street_address" : "1375 Jerome Avenue, 2nd Floor",
+  "phone_number_s_" : "718-637-2401/718-590-7235",
+  "comments" : "Extended Hours - Mon. - Fri. 8:30 - 6 pm, Sat 9:00 am to 5:00 pm",
+  "city" : "Bronx",
+  "borough" : "Bronx",
+  "state" : "NY",
+  "facility_name" : "Concourse",
+  "zip_code" : "10452"
+}
+, {
+  "street_address" : "1910 Monterey Avenue, 5th Floor",
+  "phone_number_s_" : "718-901-0287/ 718-901-5459",
+  "city" : "Bronx",
+  "borough" : "Bronx",
+  "state" : "NY",
+  "facility_name" : "Crotona ",
+  "zip_code" : "10457"
+}
+, {
+  "street_address" : "260 East 161 Street",
+  "phone_number_s_" : "718-838-6353",
+  "comments" : "8:30am-9am only",
+  "city" : "Bronx",
+  "borough" : "Bronx",
+  "state" : "NY",
+  "facility_name" : "Melrose ",
+  "zip_code" : "10451"
+}
+, {
+  "street_address" : "260 East 161 Street",
+  "phone_number_s_" : "718-838-6320",
+  "comments" : "work requirements",
+  "city" : "Bronx",
+  "borough" : "Bronx",
+  "state" : "NY",
+  "facility_name" : "Melrose ",
+  "zip_code" : "10451"
+}
+, {
+  "street_address" : "2322 Third Avenue, 3rd Floor",
+  "phone_number_s_" : "212-860-5159, 212-860-5147",
+  "city" : "New York",
+  "borough" : "Manhattan",
+  "state" : "NY",
+  "facility_name" : "East End",
+  "zip_code" : "10035"
+}
+, {
+  "street_address" : "132 W.125th Street, 3rd Floor",
+  "phone_number_s_" : "212-666-1434/212-666-8788",
+  "city" : "New York",
+  "borough" : "Manhattan",
+  "state" : "NY",
+  "facility_name" : "St. Nicholas",
+  "zip_code" : "10027"
+}
+, {
+  "street_address" : "4055 10th Avenue, Lower Level",
+  "phone_number_s_" : "212-569-9829/212-569-9835",
+  "city" : "New York",
+  "borough" : "Manhattan",
+  "state" : "NY",
+  "facility_name" : "Washington Heights",
+  "zip_code" : "10034"
+}
+, {
+  "street_address" : "12 West 14th Street, 4th Floor",
+  "phone_number_s_" : "212-352-2519/212-352-2524",
+  "comments" : "Extended Hours - Mon. - Fri. 8:30 - 6 pm, Sat 9:00 am to 5:00 pm",
+  "city" : "New York",
+  "borough" : "Manhattan",
+  "state" : "NY",
+  "facility_name" : "Waverly",
+  "zip_code" : "10011"
+}
+, {
+  "street_address" : "165-08 88th Avenue, 3rd Floor",
+  "phone_number_s_" : "718-883-8356/718-883-8344",
+  "comments" : "Extended Hours - Mon. - Fri. 8:30 - 6 pm, Sat 9:00 am to 5:00 pm",
+  "city" : "Jamaica",
+  "borough" : "Queens",
+  "state" : "NY",
+  "facility_name" : "Jamaica ",
+  "zip_code" : "11432"
+}
+, {
+  "street_address" : "32-20 Northern Blvd., 2nd Floor",
+  "phone_number_s_" : "718-784-6123/718-784-6315",
+  "comments" : "Entrance on One Honeywell Street",
+  "city" : "LIC",
+  "borough" : "Queens",
+  "state" : "NY",
+  "facility_name" : "Queens",
+  "zip_code" : "11101"
+}
+, {
+  "street_address" : "219 Beach 59th St., 1st Floor",
+  "phone_number_s_" : "718-637-2754/718-637-2750",
+  "city" : "Rockaway",
+  "borough" : "Queens",
+  "state" : "NY",
+  "facility_name" : "Rockaway",
+  "zip_code" : "11692"
+}
+, {
+  "street_address" : "201 Bay Street, 2nd Floor",
+  "phone_number_s_" : "718-390-6827/718-390-6994",
+  "comments" : "Extended Hours - Mon. - Fri. 8:30 - 6 pm, Sat 9:00 am to 5:00 pm",
+  "city" : "Staten Island",
+  "borough" : "Staten Island",
+  "state" : "NY",
+  "facility_name" : "Richmond",
+  "zip_code" : "10301"
+}
+ ]

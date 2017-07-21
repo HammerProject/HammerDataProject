@@ -1,0 +1,124 @@
+[ {
+  "average_transaction_time" : "11.3",
+  "average_satisfaction_rating" : "4.84",
+  "month" : "2015-08-01T00:00:00",
+  "licensing_office" : "42 Broadway",
+  "customers_served" : "7758",
+  "average_wait_time" : "10.6"
+}
+, {
+  "average_transaction_time" : "11",
+  "average_satisfaction_rating" : "4.86",
+  "month" : "2015-09-01T00:00:00",
+  "licensing_office" : "42 Broadway",
+  "customers_served" : "7870",
+  "average_wait_time" : "7.7"
+}
+, {
+  "average_transaction_time" : "11.4",
+  "average_satisfaction_rating" : "4.89",
+  "month" : "2015-10-01T00:00:00",
+  "licensing_office" : "42 Broadway",
+  "customers_served" : "6712",
+  "average_wait_time" : "3.8"
+}
+, {
+  "average_transaction_time" : "11.2",
+  "average_satisfaction_rating" : "4.9",
+  "month" : "2015-11-01T00:00:00",
+  "licensing_office" : "42 Broadway",
+  "customers_served" : "5669",
+  "average_wait_time" : "5.1"
+}
+, {
+  "average_transaction_time" : "11.4",
+  "average_satisfaction_rating" : "4.88",
+  "month" : "2015-12-01T00:00:00",
+  "licensing_office" : "42 Broadway",
+  "customers_served" : "6489",
+  "average_wait_time" : "4.4"
+}
+, {
+  "average_transaction_time" : "11.7",
+  "average_satisfaction_rating" : "4.88",
+  "month" : "2016-01-01T00:00:00",
+  "licensing_office" : "42 Broadway",
+  "customers_served" : "5225",
+  "average_wait_time" : "6.6"
+}
+, {
+  "average_transaction_time" : "10.7",
+  "average_satisfaction_rating" : "4.88",
+  "month" : "2016-02-01T00:00:00",
+  "licensing_office" : "42 Broadway",
+  "customers_served" : "6496",
+  "average_wait_time" : "8.5"
+}
+, {
+  "average_transaction_time" : "19.2",
+  "month" : "2016-02-01T00:00:00",
+  "licensing_office" : "Queens",
+  "customers_served" : "249",
+  "average_wait_time" : "1"
+}
+, {
+  "average_transaction_time" : "10.8",
+  "average_satisfaction_rating" : "4.9",
+  "month" : "2016-03-01T00:00:00",
+  "licensing_office" : "42 Broadway",
+  "customers_served" : "9072",
+  "average_wait_time" : "14.9"
+}
+, {
+  "average_transaction_time" : "15.6",
+  "month" : "2016-03-01T00:00:00",
+  "licensing_office" : "Queens",
+  "customers_served" : "470",
+  "average_wait_time" : "1.6"
+}
+, {
+  "average_transaction_time" : "10.5",
+  "average_satisfaction_rating" : "4.9",
+  "month" : "2016-04-01T00:00:00",
+  "licensing_office" : "42 Broadway",
+  "customers_served" : "8275",
+  "average_wait_time" : "11.2"
+}
+, {
+  "average_transaction_time" : "17.9",
+  "month" : "2016-04-01T00:00:00",
+  "licensing_office" : "Queens",
+  "customers_served" : "499",
+  "average_wait_time" : "3.4"
+}
+, {
+  "average_transaction_time" : "11",
+  "average_satisfaction_rating" : "4.9",
+  "month" : "2016-05-01T00:00:00",
+  "licensing_office" : "42 Broadway",
+  "customers_served" : "7452",
+  "average_wait_time" : "10.4"
+}
+, {
+  "average_transaction_time" : "17.6",
+  "month" : "2016-05-01T00:00:00",
+  "licensing_office" : "Queens",
+  "customers_served" : "498",
+  "average_wait_time" : "2"
+}
+, {
+  "average_transaction_time" : "11.3",
+  "average_satisfaction_rating" : "4.9",
+  "month" : "2016-06-01T00:00:00",
+  "licensing_office" : "42 Broadway",
+  "customers_served" : "6740",
+  "average_wait_time" : "6.5"
+}
+, {
+  "average_transaction_time" : "15.3",
+  "month" : "2016-06-01T00:00:00",
+  "licensing_office" : "Queens",
+  "customers_served" : "585",
+  "average_wait_time" : "1.6"
+}
+ ]

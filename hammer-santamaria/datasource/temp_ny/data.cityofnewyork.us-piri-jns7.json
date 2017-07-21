@@ -1,0 +1,5001 @@
+[ {
+  "dbn" : "20K062",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "21K101",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "18K115",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "22K152",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "22K315",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "14K330",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "15K027",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K337",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "13K350",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "15K027",
+  "overall_rating" : "P",
+  "school_year" : "SY07-08"
+}
+, {
+  "dbn" : "22K425",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "15K429",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "15K447",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "13K483",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "20K485",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "17K524",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "17K531",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "17K533",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "17K544",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "17K546",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "17K590",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "13K670",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "14K685",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "23K697",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "05M030",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "04M045",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "04M050",
+  "overall_rating" : "U",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "03M075",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "02M114",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "01M134",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "06M187",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "03M199",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "15K027",
+  "overall_rating" : "P",
+  "school_year" : "SY08-09"
+}
+, {
+  "dbn" : "02M294",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "02M298",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "03M299",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "05M304",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "02M305",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "03M307",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "02M313",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "02M316",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "02M407",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "02M420",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "02M449",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "02M459",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "03M479",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "04M495",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "04M497",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "02M519",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "02M560",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "02M570",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "04M610",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "05M692",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "01M696",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "03M862",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "24Q049",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "28Q072",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "24Q093",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "29Q109",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "29Q135",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "30Q166",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "26Q188",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "28Q196",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "25Q252",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "25Q263",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "30Q450",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "27Q480",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "26Q495",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "25Q499",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "28Q505",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "24Q520",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "24Q530",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "24Q560",
+  "overall_rating" : "U",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "26Q566",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "30Q580",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "24Q877",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "31R006",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "31R035",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "75R721",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "10X020",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "08X071",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "11X103",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "09X231",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "09X239",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "12X245",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "12X248",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "11X265",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "08X269",
+  "overall_rating" : "U",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "12X271",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "12X278",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "12X286",
+  "overall_rating" : "U",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "10X331",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "09X403",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "11X418",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "10X477",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "08X530",
+  "overall_rating" : "U",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "07X548",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "12X682",
+  "overall_rating" : "WD",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "15K001",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K002",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K003",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K004",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K005",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K006",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K007",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K008",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K009",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K010",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K011",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K012",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K013",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K014",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K015",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K016",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K017",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K018",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K019",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K020",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K021",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K022",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K023",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K024",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K025",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K026",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K033",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K028",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K029",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K030",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K031",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K032",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K049",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K034",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K035",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K036",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K038",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K039",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K040",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K041",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K044",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K045",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K046",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K048",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K055",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K050",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K051",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K052",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K053",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K054",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K072",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K056",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K057",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K058",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K059",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K061",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K065",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K066",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K067",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K068",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K069",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K071",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K072",
+  "overall_rating" : "P",
+  "school_year" : "SY07-08"
+}
+, {
+  "dbn" : "23K073",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K075",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K077",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K078",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K081",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K084",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K086",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K088",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K089",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K090",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K091",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K092",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K093",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K094",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K095",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K096",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K097",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K098",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K099",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K100",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K102",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K103",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K104",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K105",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K106",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K107",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K108",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K109",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K110",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K112",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K113",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K114",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K116",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K117",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K119",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K120",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K121",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K123",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K124",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K126",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K127",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K128",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K130",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K131",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K132",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K133",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K134",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K135",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K136",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K137",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K138",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K139",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K140",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K141",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K143",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K145",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K146",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K147",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K149",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K150",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K151",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K153",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K154",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K155",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K156",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K157",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K158",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K159",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K160",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K161",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K162",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K163",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K164",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K165",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K166",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K167",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K169",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K170",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K171",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K172",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K174",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K176",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K177",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K178",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K179",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K180",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K181",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K183",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K184",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K185",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K186",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K187",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K188",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K189",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K190",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K191",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K192",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K193",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K194",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K195",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K196",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K197",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K198",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K199",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K200",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K201",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K202",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K203",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K204",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K205",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K206",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K207",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K208",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K209",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K211",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K212",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K213",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K214",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K215",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K216",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K217",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K218",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K219",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K220",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K221",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K222",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K223",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K224",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K225",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K226",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K227",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K228",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K229",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K230",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K231",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K232",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K233",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K234",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K235",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K236",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K238",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K239",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K240",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K241",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K243",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K244",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K245",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K246",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K247",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K249",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K250",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K251",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K252",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K253",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K254",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K255",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K256",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K257",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K258",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K259",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K260",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K261",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K262",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K265",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K266",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K267",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K268",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K269",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K270",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K271",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K272",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K273",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K274",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K276",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K277",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K278",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K279",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K281",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K282",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K284",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K285",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K287",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K288",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K289",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K290",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K291",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K292",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K295",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K296",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K297",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K298",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K299",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K301",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K302",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K303",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K304",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K305",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K306",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K307",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K308",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K309",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K311",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K312",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K313",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K316",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K318",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K319",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K321",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K322",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K323",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K326",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K327",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K328",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K329",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K332",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K334",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K335",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K340",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K344",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K345",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K346",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K347",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K348",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K349",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K352",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K353",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K354",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K361",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K364",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K368",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K369",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K370",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K371",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K372",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K373",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K375",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K376",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K377",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K380",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K381",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K382",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K383",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K384",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K385",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K336",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "23K392",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K393",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K394",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K396",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K397",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K398",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K399",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K403",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K404",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K405",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K408",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K409",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K410",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K412",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K336",
+  "overall_rating" : "P",
+  "school_year" : "SY07-08"
+}
+, {
+  "dbn" : "13K419",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K336",
+  "overall_rating" : "P",
+  "school_year" : "SY09-10"
+}
+, {
+  "dbn" : "13K430",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K336",
+  "overall_rating" : "D",
+  "school_year" : "SY10-11"
+}
+, {
+  "dbn" : "13K439",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K442",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K443",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K445",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K448",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K449",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K452",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K454",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K455",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K462",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K463",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K464",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K468",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K390",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K474",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K477",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K478",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K400",
+  "overall_rating" : "P",
+  "school_year" : "SY05-06"
+}
+, {
+  "dbn" : "17K484",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K488",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K489",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K490",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K492",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K493",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K495",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K497",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K498",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K499",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K415",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K502",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K503",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K504",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K505",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "20K506",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K507",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K509",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K510",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K514",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K420",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K518",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K519",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K435",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K522",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K525",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K527",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K528",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K529",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K530",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K534",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K535",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K537",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K539",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K540",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K543",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K544",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K545",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K547",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K548",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K549",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K469",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K552",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K553",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K554",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K555",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K556",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K558",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K561",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K564",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K568",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K571",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K575",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K577",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K582",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "16K584",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K479",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K587",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K595",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K600",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "13K605",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K610",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K615",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K620",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "17K625",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K500",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "18K515",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K656",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K659",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "19K660",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "21K690",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K698",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "84K704",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K721",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K753",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K771",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75K811",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K821",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K520",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K520",
+  "overall_rating" : "P",
+  "school_year" : "SY07-08"
+}
+, {
+  "dbn" : "02M001",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M002",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M003",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M004",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M005",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M006",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M007",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M008",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M009",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M011",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M012",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M013",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M015",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M018",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M019",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M020",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M028",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M033",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M034",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75M035",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M036",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M037",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M038",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M040",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M041",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M042",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "15K520",
+  "overall_rating" : "P",
+  "school_year" : "SY08-09"
+}
+, {
+  "dbn" : "05M046",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M047",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M048",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M051",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M052",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M054",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M057",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M059",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M063",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M064",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M072",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M076",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M077",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75M079",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M083",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M084",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M087",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M089",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M092",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75M094",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M096",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M098",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K551",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M102",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M104",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M108",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M110",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M111",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M112",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M115",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M116",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "32K551",
+  "overall_rating" : "P",
+  "school_year" : "SY07-08"
+}
+, {
+  "dbn" : "05M123",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M124",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M125",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M126",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M128",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M129",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M130",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M131",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M132",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M133",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M137",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75M138",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M140",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M142",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M143",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M145",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M146",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M149",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M150",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M152",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M153",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M154",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M155",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M158",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M161",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M163",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M165",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M166",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M167",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75M169",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M171",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "22K585",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M173",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M175",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M178",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M180",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M182",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M183",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M184",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M185",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M188",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M189",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M191",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M192",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M194",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M195",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M197",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M198",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M200",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M206",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M208",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M210",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M212",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M217",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M218",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M223",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M224",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M225",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75M226",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M234",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M241",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M242",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M243",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M245",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "14K640",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M247",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M250",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M255",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M256",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M258",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M260",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M278",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M285",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M286",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M288",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M289",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M290",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M292",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M293",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M296",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M300",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M301",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M302",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M303",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M308",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M311",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M312",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M314",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M315",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "23K645",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M318",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M319",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M322",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M324",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M325",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M326",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M328",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "84M329",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M332",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M333",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M334",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "79K957",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M345",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M346",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M347",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M348",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M349",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M361",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M363",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M364",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M369",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M400",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M408",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M409",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M411",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M413",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M414",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M415",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M416",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M418",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M419",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M425",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M429",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M435",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M439",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M044",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M442",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M448",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M450",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M460",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M462",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M463",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M467",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M468",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M469",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M044",
+  "overall_rating" : "P",
+  "school_year" : "SY07-08"
+}
+, {
+  "dbn" : "02M475",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M485",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M489",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M492",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M494",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M499",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M500",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M505",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M509",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M515",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M520",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M528",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M529",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M531",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M539",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M540",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M541",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M542",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M543",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M544",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M545",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M550",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "06M552",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M555",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M565",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M575",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M580",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M586",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M600",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M605",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M615",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M620",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M625",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M630",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M635",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M650",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M655",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M670",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M680",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "05M685",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M101",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M117",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75M721",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75M751",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75M811",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M825",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "01M839",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M860",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "02M896",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "04M964",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q002",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75Q004",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q005",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q007",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q008",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75Q009",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q010",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q011",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q012",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q013",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q014",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q015",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q016",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q017",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q018",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q019",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q020",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q021",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q022",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75Q023",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q024",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q025",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q026",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q028",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q029",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q030",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q031",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q032",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q033",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q034",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q035",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q036",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q037",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q038",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q040",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q041",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q042",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q043",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q045",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q046",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q047",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q048",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q050",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q051",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q052",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q053",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q054",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q055",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q056",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q058",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q059",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q060",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q061",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q062",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q063",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q064",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q065",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q066",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q067",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q068",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q069",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q070",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q071",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q073",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q074",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75Q075",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q076",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q077",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q078",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q079",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q080",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q081",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q082",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q084",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q085",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q086",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q087",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q088",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q089",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q090",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q091",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q092",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q094",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q095",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q096",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q097",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q098",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q099",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q100",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q101",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q102",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q104",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q105",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q106",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q107",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q108",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q111",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q112",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q113",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q114",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q115",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q116",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q117",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q118",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q119",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q120",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q121",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q122",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q123",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q124",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q125",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q126",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q127",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q128",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q129",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q130",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q131",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q132",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q133",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q134",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q136",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q137",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q138",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q139",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q140",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q141",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q143",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q144",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q145",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q146",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q147",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q148",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q149",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q150",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q151",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q152",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q153",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q154",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q155",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q156",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q157",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q158",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q159",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q160",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q161",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q162",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q163",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q164",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q165",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M172",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q169",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q171",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q172",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q173",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q174",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q175",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q176",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75Q177",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q178",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q181",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q182",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q183",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q184",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q185",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q186",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q189",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q190",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q191",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q192",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q193",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q194",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q195",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q197",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q199",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q200",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q201",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q202",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q203",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q204",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q205",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q206",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q207",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q208",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q209",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q210",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q212",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q213",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q214",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q215",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q216",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q217",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q219",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "28Q220",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q221",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q222",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q223",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75Q224",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "03M246",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q226",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q227",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q228",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q229",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q230",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q231",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q232",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75Q233",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q234",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "30Q235",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q237",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q238",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q239",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q242",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q248",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q250",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q251",
+  "overall_rating" : "U",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q253",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q254",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75Q255",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "75Q256",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q259",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q260",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q262",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q264",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q265",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "26Q266",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "24Q267",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q268",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q270",
+  "overall_rating" : "WD",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q272",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "25Q281",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "27Q282",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+, {
+  "dbn" : "29Q283",
+  "overall_rating" : "P",
+  "school_year" : "SY06-07"
+}
+ ]

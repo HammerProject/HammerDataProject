@@ -1,0 +1,202 @@
+[ {
+  "_2005" : "295",
+  "_2006" : "352",
+  "total" : "1539",
+  "_2009" : "261",
+  "_2007" : "341",
+  "patrol_services_bureau" : "Patrol Borough Manhattan South",
+  "_2008" : "290"
+}
+, {
+  "_2005" : "415",
+  "_2006" : "389",
+  "total" : "1926",
+  "_2009" : "357",
+  "_2007" : "386",
+  "patrol_services_bureau" : "Patrol Borough Manhattan North",
+  "_2008" : "379"
+}
+, {
+  "_2005" : "616",
+  "_2006" : "640",
+  "total" : "3489",
+  "_2009" : "735",
+  "_2007" : "748",
+  "patrol_services_bureau" : "Patrol Borough Bronx",
+  "_2008" : "750"
+}
+, {
+  "_2005" : "531",
+  "_2006" : "545",
+  "total" : "2422",
+  "_2009" : "401",
+  "_2007" : "500",
+  "patrol_services_bureau" : "Patrol Borough Brooklyn South",
+  "_2008" : "445"
+}
+, {
+  "_2005" : "550",
+  "_2006" : "558",
+  "total" : "2741",
+  "_2009" : "556",
+  "_2007" : "556",
+  "patrol_services_bureau" : "Patrol Borough Brooklyn North",
+  "_2008" : "521"
+}
+, {
+  "_2005" : "324",
+  "_2006" : "341",
+  "total" : "1509",
+  "_2009" : "249",
+  "_2007" : "331",
+  "patrol_services_bureau" : "Patrol Borough Queens South",
+  "_2008" : "264"
+}
+, {
+  "_2005" : "250",
+  "_2006" : "203",
+  "total" : "978",
+  "_2009" : "170",
+  "_2007" : "170",
+  "patrol_services_bureau" : "Patrol Borough Queens North",
+  "_2008" : "185"
+}
+, {
+  "_2005" : "100",
+  "_2006" : "136",
+  "total" : "554",
+  "_2009" : "110",
+  "_2007" : "118",
+  "patrol_services_bureau" : "Patrol Borough Staten Island",
+  "_2008" : "90"
+}
+, {
+  "_2005" : "39",
+  "_2006" : "45",
+  "total" : "160",
+  "_2009" : "15",
+  "_2007" : "40",
+  "patrol_services_bureau" : "Special Operations Division",
+  "_2008" : "21"
+}
+, {
+  "_2005" : "2",
+  "_2006" : "4",
+  "total" : "16",
+  "_2009" : "3",
+  "_2007" : "5",
+  "patrol_services_bureau" : "Other Patrol Services Bureau Commands",
+  "_2008" : "2"
+}
+, {
+  "_2005" : "3122",
+  "_2006" : "3213",
+  "total" : "15334",
+  "_2009" : "2857",
+  "_2007" : "3195",
+  "patrol_services_bureau" : "Subtotal - Patrol Services Bureau",
+  "_2008" : "2947"
+}
+, {
+  "patrol_services_bureau" : "Other Bureaus"
+}
+, {
+  "patrol_services_bureau" : "Chief of Transportation"
+}
+, {
+  "_2005" : "207",
+  "_2006" : "238",
+  "total" : "1020",
+  "_2009" : "192",
+  "_2007" : "187",
+  "patrol_services_bureau" : "     Transit Bureau",
+  "_2008" : "196"
+}
+, {
+  "_2005" : "72",
+  "_2006" : "82",
+  "total" : "380",
+  "_2009" : "56",
+  "_2007" : "84",
+  "patrol_services_bureau" : "     Traffic Control Division",
+  "_2008" : "86"
+}
+, {
+  "_2005" : "272",
+  "_2006" : "312",
+  "total" : "1498",
+  "_2009" : "277",
+  "_2007" : "303",
+  "patrol_services_bureau" : "Housing Bureau",
+  "_2008" : "334"
+}
+, {
+  "_2005" : "298",
+  "_2006" : "275",
+  "total" : "1573",
+  "_2009" : "265",
+  "_2007" : "378",
+  "patrol_services_bureau" : "Organized Crime Control Bureau",
+  "_2008" : "357"
+}
+, {
+  "_2005" : "284",
+  "_2006" : "260",
+  "total" : "1167",
+  "_2009" : "209",
+  "_2007" : "212",
+  "patrol_services_bureau" : "Detective Bureau",
+  "_2008" : "202"
+}
+, {
+  "_2005" : "58",
+  "_2006" : "64",
+  "total" : "281",
+  "_2009" : "60",
+  "_2007" : "46",
+  "patrol_services_bureau" : "Other Bureaus",
+  "_2008" : "53"
+}
+, {
+  "_2005" : "1191",
+  "_2006" : "1231",
+  "total" : "5919",
+  "_2009" : "1059",
+  "_2007" : "1210",
+  "patrol_services_bureau" : "Subtotal - Other Bureaus",
+  "_2008" : "1228"
+}
+, {
+  "patrol_services_bureau" : "Other Commands"
+}
+, {
+  "_2005" : "39",
+  "_2006" : "47",
+  "total" : "168",
+  "_2009" : "25",
+  "_2007" : "36",
+  "patrol_services_bureau" : "Deputy Commissioners and Misc. Units",
+  "_2008" : "21"
+}
+, {
+  "_2005" : "3578",
+  "_2006" : "4486",
+  "total" : "21039",
+  "_2009" : "4733",
+  "_2007" : "4192",
+  "patrol_services_bureau" : "Undetermined",
+  "_2008" : "4050"
+}
+, {
+  "_2005" : "7930",
+  "_2006" : "8977",
+  "total" : "42460",
+  "_2009" : "8674",
+  "_2007" : "8633",
+  "patrol_services_bureau" : "Total",
+  "_2008" : "8246"
+}
+, {
+  "patrol_services_bureau" : "* Since complaints with allegations against subject officers assigned to more than one command are assigned to each of the commands with a subject officer, the total number of complaints appears higher than the total annual complaints listed in Table 1.  See the Guide to Tables for more details."
+}
+ ]

@@ -1,0 +1,41 @@
+[ {
+  "ccrb_disciplinary_recommendation" : "No recommendation",
+  "number_of_officers_2008" : "3",
+  "number_of_officers_2009" : "10",
+  "number_of_officers_2006" : "3",
+  "number_of_officers_2007" : "3",
+  "number_of_officers_2005" : "0"
+}
+, {
+  "ccrb_disciplinary_recommendation" : "Charges",
+  "number_of_officers_2008" : "166",
+  "number_of_officers_2009" : "175",
+  "number_of_officers_2006" : "265",
+  "number_of_officers_2007" : "225",
+  "number_of_officers_2005" : "310"
+}
+, {
+  "ccrb_disciplinary_recommendation" : "Command discipline",
+  "number_of_officers_2008" : "43",
+  "number_of_officers_2009" : "67",
+  "number_of_officers_2006" : "66",
+  "number_of_officers_2007" : "54",
+  "number_of_officers_2005" : "49"
+}
+, {
+  "ccrb_disciplinary_recommendation" : "Instructions",
+  "number_of_officers_2008" : "7",
+  "number_of_officers_2009" : "24",
+  "number_of_officers_2006" : "13",
+  "number_of_officers_2007" : "18",
+  "number_of_officers_2005" : "12"
+}
+, {
+  "ccrb_disciplinary_recommendation" : "Total Number of Subject Officers",
+  "number_of_officers_2008" : "219",
+  "number_of_officers_2009" : "276",
+  "number_of_officers_2006" : "347",
+  "number_of_officers_2007" : "300",
+  "number_of_officers_2005" : "371"
+}
+ ]

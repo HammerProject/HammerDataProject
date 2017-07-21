@@ -1,0 +1,2257 @@
+[ {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX01 Claremont-Bathgate",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "45.7",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX03 Eastchester-Edenwald-Baychester",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "44.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX05 Bedford Park-Fordham North",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.9",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX06 Belmont",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "37.9",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX07 Bronxdale",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "39.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX08 West Farms-Bronx River",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "42.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX09 Soundview-Castle Hill-Clason Point-Harding Park",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "45.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX10 Pelham Bay-Country Club-City Island",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "37.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX13 Co-Op City",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "50.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX14 East Concourse-Concourse Village",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.7",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX17 East Tremont",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "43.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX22 North Riverdale-Fieldston-Riverdale",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "42.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX26 Highbridge",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "39.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX27 Hunts Point",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX28 Van Cortlandt Village",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "44.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX29 Spuyten Duyvil-Kingsbridge",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "42.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX30 Kingsbridge Heights",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "44.7",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX31 Allerton-Pelham Gardens",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "38.7",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX33 Longwood",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "40.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX34 Melrose South-Mott Haven North",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "40.7",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX35 Morrisania-Melrose",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "43.1",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX36 University Heights-Morris Heights",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX37 Van Nest-Morris Park-Westchester Square",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "40.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX39 Mott Haven-Port Morris",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX40 Fordham South",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.1",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX41 Mount Hope",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX43 Norwood",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "42.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX44 Williamsbridge-Olinville",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "45.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX46 Parkchester",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "47.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX49 Pelham Parkway",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "39.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX52 Schuylerville-Throgs Neck-Edgewater Park",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "38.3",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX55 Soundview-Bruckner",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "44.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX59 Westchester-Unionport",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "45.1",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX62 Woodlawn-Wakefield",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "42.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX63 West Concourse",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "40.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BX75 Crotona Park East",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "40.3",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK09 Brooklyn Heights-Cobble Hill                  ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "30.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK17 Sheepshead Bay-Gerritsen Beach-Manhattan Beach         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "43.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK19 Brighton Beach                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "44.3",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK21 Seagate-Coney Island                      ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "45.3",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK23 West Brighton                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "44.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK25 Homecrest                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "40.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK26 Gravesend                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "45.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK27 Bath Beach                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "48.3",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK28 Bensonhurst West                        ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "44.9",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK29 Bensonhurst East                        ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "44.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK30 Dyker Heights                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "44.7",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK31 Bay Ridge                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK32 Sunset Park West                        ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.3",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK33 Carroll Gardens-Columbia Street-Red Hook            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "36.1",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK34 Sunset Park East                        ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "46.7",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK35 Stuyvesant Heights                       ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "43.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK37 Park Slope-Gowanus                       ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "37.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK38 DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "34.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK40 Windsor Terrace                        ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK41 Kensington-Ocean Parkway                    ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "39.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK42 Flatbush                            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "42.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK43 Midwood                            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "37.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK44 Madison                            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "42.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK45 Georgetown-Marine Park-Bergen Beach-Mill Basin         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "38.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK46 Ocean Parkway South                      ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "38.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK50 Canarsie                            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "47.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK58 Flatlands                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "43.9",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK60 Prospect Lefferts Gardens-Wingate               ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "43.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK61 Crown Heights North                      ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK63 Crown Heights South                      ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "39.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK64 Prospect Heights                        ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "38.9",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK68 Fort Greene                          ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "35.3",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK69 Clinton Hill                          ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "38.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK72 Williamsburg                          ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "23.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK73 North Side-South Side                     ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "32.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK75 Bedford                            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "38.1",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK76 Greenpoint                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "34.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK77 Bushwick North                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "39.1",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK78 Bushwick South                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "39.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK79 Ocean Hill                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "44.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK81 Brownsville                          ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "45.7",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK82 East New York                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "43.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK83 Cypress Hills-City Line                    ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "42.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK85 East New York (Pennsylvania Ave)                ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "46.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK88 Borough Park                          ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "34.7",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK90 East Williamsburg                       ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "32.9",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK91 East Flatbush-Farragut                     ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "43.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK93 Starrett City                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "48.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK95 Erasmus                            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "45.7",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "BK96 Rugby-Remsen Village                      ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "46.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN01 Marble Hill-Inwood                       ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN03 Central Harlem North-Polo Grounds               ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "36.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN04 Hamilton Heights                        ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "38.3",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN06 Manhattanville                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "37.7",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN09 Morningside Heights                      ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "29.1",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN11 Central Harlem South                      ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "33.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN12 Upper West Side                        ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "30.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN13 Hudson Yards-Chelsea-Flat Iron-Union Square          ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "25.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN14 Lincoln Square                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "27.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN15 Clinton                            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "26.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN17 Midtown-Midtown South                     ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "22.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN19 Turtle Bay-East Midtown                    ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "25.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN20 Murray Hill-Kips Bay                      ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "26.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN21 Gramercy                            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "24.1",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN22 East Village                          ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "28.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN23 West Village                          ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "24.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN24 SoHo-TriBeCa-Civic Center-Little Italy             ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "25.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN25 Battery Park City-Lower Manhattan               ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "24.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN27 Chinatown                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "29.3",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN28 Lower East Side                        ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "33.3",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN31 Lenox Hill-Roosevelt Island                  ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "29.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN32 Yorkville                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "33.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN33 East Harlem South                       ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "32.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN34 East Harlem North                       ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "35.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN35 Washington Heights North                    ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "39.9",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN36 Washington Heights South                    ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "37.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN40 Upper East Side-Carnegie Hill                 ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "26.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "MN50 Stuyvesant Town-Cooper Village                 ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "28.9",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN01 South Jamaica                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "46.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN02 Springfield Gardens North                   ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "50.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN03 Springfield Gardens South-Brookville              ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "48.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN05 Rosedale                            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "47.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN06 Jamaica Estates-Holliswood                   ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "42.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN07 Hollis                             ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "47.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN08 St. Albans                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "48.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN10 Breezy Point-Belle Harbor-Rockaway Park-Broad Channel         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "43.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN12 Hammels-Arverne-Edgemere                    ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "51.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN15 Far Rockaway-Bayswater                     ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "45.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN17 Forest Hills                          ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN18 Rego Park                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "40.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN19 Glendale                            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "35.9",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN20 Ridgewood                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "38.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN21 Middle Village                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "36.7",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN22 Flushing                            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "42.7",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN23 College Point                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "42.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN25 Corona                             ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "42.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN26 North Corona                          ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "43.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN27 East Elmhurst                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "40.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN28 Jackson Heights                        ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "38.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN29 Elmhurst                            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN30 Maspeth                            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "40.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN31 Hunters Point-Sunnyside-West Maspeth              ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "35.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN33 Cambria Heights                        ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "48.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN34 Queens Village                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "46.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN35 Briarwood-Jamaica Hills                    ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "44.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN37 Kew Gardens Hills                       ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN38 Pomonok-Flushing Heights-Hillcrest               ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "42.7",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN41 Fresh Meadows-Utopia                      ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "44.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN42 Oakland Gardens                        ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "43.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN43 Bellerose                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "38.9",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN44 Glen Oaks-Floral Park-New Hyde Park              ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "39.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN45 Douglas Manor-Douglaston-Little Neck              ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "38.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN46 Bayside-Bayside Hills                     ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "39.7",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN47 Ft. Totten-Bay Terrace-Clearview                ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "40.3",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN48 Auburndale                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.9",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN49 Whitestone                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "36.3",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN50 Elmhurst-Maspeth                        ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "38.9",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN51 Murray Hill                          ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN52 East Flushing                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN53 Woodhaven                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "45.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN54 Richmond Hill                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "45.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN55 South Ozone Park                        ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "45.9",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN56 Ozone Park                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN57 Lindenwood-Howard Beach                    ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "39.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN60 Kew Gardens                          ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "42.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN61 Jamaica                            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "45.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN62 Queensboro Hill                        ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN63 Woodside                            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "38.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN66 Laurelton                           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "47.7",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN68 Queensbridge-Ravenswood-Long Island City            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "35.9",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN70 Astoria                            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "36.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN71 Old Astoria                          ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "36.3",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN72 Steinway                            ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "37.3",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "QN76 Baisley Park                          ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "46.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI01 Annadale-Huguenot-Prince's Bay-Eltingville           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI05 New Springville-Bloomfield-Travis               ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "43.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI07 Westerleigh                          ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "37.9",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI08 Grymes Hill-Clifton-Fox Hills                 ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "42.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI11 Charleston-Richmond Valley-Tottenville             ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "44.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI12 Mariner's Harbor-Arlington-Port Ivory-Graniteville         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "38.4",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI14 Grasmere-Arrochar-Ft. Wadsworth                ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "39.6",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI22 West New Brighton-New Brighton-St. George           ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "43.1",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI24 Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "40.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI25 Oakwood-Oakwood Beach                     ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "41.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI28 Port Richmond                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "39.0",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI32 Rossville-Woodrow                       ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "44.3",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI35 New Brighton-Silver Lake                    ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "38.7",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI36 Old Town-Dongan Hills-South Beach               ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "37.8",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI37 Stapleton-Rosebank                       ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "40.9",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI45 New Dorp-Midland Beach                     ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "42.5",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI48 Arden Heights                         ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "44.2",
+  "_2011" : "*"
+}
+, {
+  "indicator" : "Mean Travel Time to Work (2009-2013)",
+  "_2014" : "*",
+  "_2015" : "*",
+  "domain" : "Core Infrastructure & the Environment",
+  "geoid" : "SI54 Great Kills                          ",
+  "definition" : "Mean travel time for workers 16 years and over who did not work at home.",
+  "source" : "U.S. Census Bureau, 2009-2013 American Community Survey Five Year Estimates; http://factfinder2.census.gov",
+  "_2012" : "*",
+  "_2013" : "44.5",
+  "_2011" : "*"
+}
+ ]

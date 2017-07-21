@@ -1,0 +1,3385 @@
+[ {
+  "dbn" : "01M292",
+  "number_of_test_takers" : "31",
+  "critical_reading_mean" : "391",
+  "school_name" : "Henry Street School for International Studies ",
+  "mathematics_mean" : "425",
+  "writing_mean" : "385"
+}
+, {
+  "dbn" : "01M448",
+  "number_of_test_takers" : "60",
+  "critical_reading_mean" : "394",
+  "school_name" : "University Neighborhood High School ",
+  "mathematics_mean" : "419",
+  "writing_mean" : "387"
+}
+, {
+  "dbn" : "01M450",
+  "number_of_test_takers" : "69",
+  "critical_reading_mean" : "418",
+  "school_name" : "East Side Community High School ",
+  "mathematics_mean" : "431",
+  "writing_mean" : "402"
+}
+, {
+  "dbn" : "01M458",
+  "number_of_test_takers" : "26",
+  "critical_reading_mean" : "385",
+  "school_name" : "SATELLITE ACADEMY FORSYTH ST ",
+  "mathematics_mean" : "370",
+  "writing_mean" : "378"
+}
+, {
+  "dbn" : "01M509",
+  "school_name" : "CMSP HIGH SCHOOL "
+}
+, {
+  "dbn" : "01M515",
+  "number_of_test_takers" : "154",
+  "critical_reading_mean" : "314",
+  "school_name" : "Lower East Side Preparatory High School ",
+  "mathematics_mean" : "532",
+  "writing_mean" : "314"
+}
+, {
+  "dbn" : "01M539",
+  "number_of_test_takers" : "47",
+  "critical_reading_mean" : "568",
+  "school_name" : "New Explorations into Sci, Tech and Math HS ",
+  "mathematics_mean" : "583",
+  "writing_mean" : "568"
+}
+, {
+  "dbn" : "01M650",
+  "number_of_test_takers" : "35",
+  "critical_reading_mean" : "411",
+  "school_name" : "CASCADES HIGH SCHOOL ",
+  "mathematics_mean" : "401",
+  "writing_mean" : "401"
+}
+, {
+  "dbn" : "01M696",
+  "number_of_test_takers" : "138",
+  "critical_reading_mean" : "630",
+  "school_name" : "BARD HIGH SCHOOL EARLY COLLEGE ",
+  "mathematics_mean" : "608",
+  "writing_mean" : "630"
+}
+, {
+  "dbn" : "02M047",
+  "number_of_test_takers" : "11",
+  "critical_reading_mean" : "405",
+  "school_name" : "AMERICAN SIGN LANG ENG DUAL ",
+  "mathematics_mean" : "415",
+  "writing_mean" : "385"
+}
+, {
+  "dbn" : "02M288",
+  "number_of_test_takers" : "50",
+  "critical_reading_mean" : "422",
+  "school_name" : "FOOD AND FNANCE HIGH SCHOOL ",
+  "mathematics_mean" : "412",
+  "writing_mean" : "407"
+}
+, {
+  "dbn" : "02M294",
+  "number_of_test_takers" : "51",
+  "critical_reading_mean" : "382",
+  "school_name" : "HIGH SCHOOL FOR HIST AND COMM ",
+  "mathematics_mean" : "364",
+  "writing_mean" : "366"
+}
+, {
+  "dbn" : "02M296",
+  "number_of_test_takers" : "43",
+  "critical_reading_mean" : "397",
+  "school_name" : "High School of Hospitality Management ",
+  "mathematics_mean" : "415",
+  "writing_mean" : "391"
+}
+, {
+  "dbn" : "02M298",
+  "number_of_test_takers" : "71",
+  "critical_reading_mean" : "424",
+  "school_name" : "PACE HIGH SCHOOL ",
+  "mathematics_mean" : "448",
+  "writing_mean" : "423"
+}
+, {
+  "dbn" : "02M300",
+  "number_of_test_takers" : "49",
+  "critical_reading_mean" : "405",
+  "school_name" : "Urban Assembly School of Design and Construction ",
+  "mathematics_mean" : "446",
+  "writing_mean" : "415"
+}
+, {
+  "dbn" : "02M303",
+  "number_of_test_takers" : "59",
+  "critical_reading_mean" : "381",
+  "school_name" : "The Facing History School ",
+  "mathematics_mean" : "373",
+  "writing_mean" : "377"
+}
+, {
+  "dbn" : "02M305",
+  "number_of_test_takers" : "48",
+  "critical_reading_mean" : "411",
+  "school_name" : "Urban Assembly Academy of Government and Law ",
+  "mathematics_mean" : "406",
+  "writing_mean" : "411"
+}
+, {
+  "dbn" : "02M308",
+  "number_of_test_takers" : "35",
+  "critical_reading_mean" : "409",
+  "school_name" : "LOWER MANHATTAN ARTS ACADEMY ",
+  "mathematics_mean" : "381",
+  "writing_mean" : "412"
+}
+, {
+  "dbn" : "02M313",
+  "number_of_test_takers" : "45",
+  "critical_reading_mean" : "421",
+  "school_name" : "The James Baldwin School ",
+  "mathematics_mean" : "419",
+  "writing_mean" : "394"
+}
+, {
+  "dbn" : "02M316",
+  "number_of_test_takers" : "52",
+  "critical_reading_mean" : "401",
+  "school_name" : "Urban Assembly School of Business for Young Women ",
+  "mathematics_mean" : "409",
+  "writing_mean" : "391"
+}
+, {
+  "dbn" : "02M374",
+  "number_of_test_takers" : "49",
+  "critical_reading_mean" : "395",
+  "school_name" : "GRAMERCY ARTS HIGH SCHOOL ",
+  "mathematics_mean" : "376",
+  "writing_mean" : "386"
+}
+, {
+  "dbn" : "02M376",
+  "school_name" : "NYC iSchool "
+}
+, {
+  "dbn" : "02M400",
+  "number_of_test_takers" : "216",
+  "critical_reading_mean" : "465",
+  "school_name" : "HIGH SCHOOL ENVRNMNTL STUDIES ",
+  "mathematics_mean" : "480",
+  "writing_mean" : "448"
+}
+, {
+  "dbn" : "02M407",
+  "number_of_test_takers" : "42",
+  "critical_reading_mean" : "484",
+  "school_name" : "Institute for Collaborative Education ",
+  "mathematics_mean" : "478",
+  "writing_mean" : "472"
+}
+, {
+  "dbn" : "02M408",
+  "number_of_test_takers" : "69",
+  "critical_reading_mean" : "495",
+  "school_name" : "Professional Performng Arts School ",
+  "mathematics_mean" : "465",
+  "writing_mean" : "499"
+}
+, {
+  "dbn" : "02M411",
+  "number_of_test_takers" : "96",
+  "critical_reading_mean" : "523",
+  "school_name" : "Baruch College Campus High School ",
+  "mathematics_mean" : "583",
+  "writing_mean" : "528"
+}
+, {
+  "dbn" : "02M412",
+  "number_of_test_takers" : "108",
+  "critical_reading_mean" : "561",
+  "school_name" : "New York City Laboratory School Collab Studies ",
+  "mathematics_mean" : "597",
+  "writing_mean" : "567"
+}
+, {
+  "dbn" : "02M413",
+  "number_of_test_takers" : "79",
+  "critical_reading_mean" : "475",
+  "school_name" : "SCHOOL OF THE FUTURE ",
+  "mathematics_mean" : "488",
+  "writing_mean" : "466"
+}
+, {
+  "dbn" : "02M414",
+  "number_of_test_takers" : "90",
+  "critical_reading_mean" : "454",
+  "school_name" : "NEW YORK CITY MUSEUM SCHOOL ",
+  "mathematics_mean" : "448",
+  "writing_mean" : "435"
+}
+, {
+  "dbn" : "02M416",
+  "number_of_test_takers" : "122",
+  "critical_reading_mean" : "555",
+  "school_name" : "ELEANOR ROOSEVELT HIGH SCHOOL ",
+  "mathematics_mean" : "596",
+  "writing_mean" : "567"
+}
+, {
+  "dbn" : "02M418",
+  "number_of_test_takers" : "140",
+  "critical_reading_mean" : "512",
+  "school_name" : "Millennium High School ",
+  "mathematics_mean" : "554",
+  "writing_mean" : "523"
+}
+, {
+  "dbn" : "02M419",
+  "number_of_test_takers" : "47",
+  "critical_reading_mean" : "369",
+  "school_name" : "LANDMARK SCHOOL ",
+  "mathematics_mean" : "370",
+  "writing_mean" : "359"
+}
+, {
+  "dbn" : "02M420",
+  "number_of_test_takers" : "250",
+  "critical_reading_mean" : "446",
+  "school_name" : "HIGH SCHOOL HLTH PROF HUMAN ",
+  "mathematics_mean" : "458",
+  "writing_mean" : "440"
+}
+, {
+  "dbn" : "02M425",
+  "number_of_test_takers" : "74",
+  "critical_reading_mean" : "419",
+  "school_name" : "HIGH SCHOOL LEADERSHIP PUB SVC ",
+  "mathematics_mean" : "429",
+  "writing_mean" : "406"
+}
+, {
+  "dbn" : "02M429",
+  "number_of_test_takers" : "31",
+  "critical_reading_mean" : "379",
+  "school_name" : "LEGACY SCH INTEGRATED STUDIES ",
+  "mathematics_mean" : "356",
+  "writing_mean" : "354"
+}
+, {
+  "dbn" : "02M439",
+  "number_of_test_takers" : "90",
+  "critical_reading_mean" : "465",
+  "school_name" : "MANHATTAN VILLAGE ACADEMY ",
+  "mathematics_mean" : "479",
+  "writing_mean" : "472"
+}
+, {
+  "dbn" : "02M440",
+  "number_of_test_takers" : "136",
+  "critical_reading_mean" : "387",
+  "school_name" : "Bayard Rustin High School Humanities ",
+  "mathematics_mean" : "394",
+  "writing_mean" : "379"
+}
+, {
+  "dbn" : "02M445",
+  "school_name" : "Seward Park High School "
+}
+, {
+  "dbn" : "02M449",
+  "number_of_test_takers" : "54",
+  "critical_reading_mean" : "367",
+  "school_name" : "VANGUARD HIGH SCHOOL ",
+  "mathematics_mean" : "395",
+  "writing_mean" : "373"
+}
+, {
+  "dbn" : "02M459",
+  "number_of_test_takers" : "31",
+  "critical_reading_mean" : "418",
+  "school_name" : "MANHATTAN INTERNATIONAL HIGH SCHOOL ",
+  "mathematics_mean" : "463",
+  "writing_mean" : "415"
+}
+, {
+  "dbn" : "02M460",
+  "number_of_test_takers" : "163",
+  "critical_reading_mean" : "381",
+  "school_name" : "WASHINGTON IRVING HIGH SCHOOL ",
+  "mathematics_mean" : "385",
+  "writing_mean" : "368"
+}
+, {
+  "dbn" : "02M473",
+  "school_name" : "YABC at Washington Irving High School "
+}
+, {
+  "dbn" : "02M475",
+  "number_of_test_takers" : "804",
+  "critical_reading_mean" : "674",
+  "school_name" : "STUYVESANT HIGH SCHOOL ",
+  "mathematics_mean" : "735",
+  "writing_mean" : "678"
+}
+, {
+  "dbn" : "02M489",
+  "number_of_test_takers" : "147",
+  "critical_reading_mean" : "451",
+  "school_name" : "HS of Economics And Finance ",
+  "mathematics_mean" : "503",
+  "writing_mean" : "453"
+}
+, {
+  "dbn" : "02M500",
+  "number_of_test_takers" : "31",
+  "critical_reading_mean" : "371",
+  "school_name" : "UNITY HIGH SCHOOL ",
+  "mathematics_mean" : "369",
+  "writing_mean" : "368"
+}
+, {
+  "dbn" : "02M519",
+  "number_of_test_takers" : "124",
+  "critical_reading_mean" : "465",
+  "school_name" : "TALENT UNLIMITED HIGH SCHOOL ",
+  "mathematics_mean" : "454",
+  "writing_mean" : "461"
+}
+, {
+  "dbn" : "02M520",
+  "number_of_test_takers" : "287",
+  "critical_reading_mean" : "411",
+  "school_name" : "MURRY BERGTRAUM HIGH SCHOOL ",
+  "mathematics_mean" : "439",
+  "writing_mean" : "396"
+}
+, {
+  "dbn" : "02M529",
+  "number_of_test_takers" : "88",
+  "critical_reading_mean" : "420",
+  "school_name" : "Jacqueline Kennedy Onassis High School ",
+  "mathematics_mean" : "424",
+  "writing_mean" : "398"
+}
+, {
+  "dbn" : "02M531",
+  "number_of_test_takers" : "32",
+  "critical_reading_mean" : "415",
+  "school_name" : "NEW YORK CITY PUB SCH REP COMP ",
+  "mathematics_mean" : "405",
+  "writing_mean" : "397"
+}
+, {
+  "dbn" : "02M535",
+  "school_name" : "Park West High School "
+}
+, {
+  "dbn" : "02M542",
+  "number_of_test_takers" : "31",
+  "critical_reading_mean" : "345",
+  "school_name" : "MANHATTAN BRIDGE HIGH SCHOOL ",
+  "mathematics_mean" : "380",
+  "writing_mean" : "325"
+}
+, {
+  "dbn" : "02M543",
+  "number_of_test_takers" : "74",
+  "critical_reading_mean" : "390",
+  "school_name" : "NEW DESIGN HIGH SCHOOL ",
+  "mathematics_mean" : "385",
+  "writing_mean" : "387"
+}
+, {
+  "dbn" : "02M544",
+  "number_of_test_takers" : "16",
+  "critical_reading_mean" : "404",
+  "school_name" : "INDEPENDENCE HIGH SCHOOL ",
+  "mathematics_mean" : "419",
+  "writing_mean" : "395"
+}
+, {
+  "dbn" : "02M545",
+  "number_of_test_takers" : "47",
+  "critical_reading_mean" : "416",
+  "school_name" : "Dual Language and Asian Studies High School ",
+  "mathematics_mean" : "612",
+  "writing_mean" : "419"
+}
+, {
+  "dbn" : "02M550",
+  "number_of_test_takers" : "32",
+  "critical_reading_mean" : "343",
+  "school_name" : "Liberty High School Academy for Newcomers ",
+  "mathematics_mean" : "465",
+  "writing_mean" : "362"
+}
+, {
+  "dbn" : "02M551",
+  "number_of_test_takers" : "54",
+  "critical_reading_mean" : "372",
+  "school_name" : "New York Harbor High School ",
+  "mathematics_mean" : "369",
+  "writing_mean" : "368"
+}
+, {
+  "dbn" : "02M560",
+  "number_of_test_takers" : "57",
+  "critical_reading_mean" : "468",
+  "school_name" : "City as School ",
+  "mathematics_mean" : "441",
+  "writing_mean" : "434"
+}
+, {
+  "dbn" : "02M565",
+  "number_of_test_takers" : "34",
+  "critical_reading_mean" : "513",
+  "school_name" : "URBAN ACADEMY ",
+  "mathematics_mean" : "460",
+  "writing_mean" : "502"
+}
+, {
+  "dbn" : "02M570",
+  "number_of_test_takers" : "16",
+  "critical_reading_mean" : "400",
+  "school_name" : "Satellite Academy High School ",
+  "mathematics_mean" : "336",
+  "writing_mean" : "376"
+}
+, {
+  "dbn" : "02M575",
+  "number_of_test_takers" : "141",
+  "critical_reading_mean" : "355",
+  "school_name" : "Manhattan Comprehensive Night Day High School ",
+  "mathematics_mean" : "475",
+  "writing_mean" : "339"
+}
+, {
+  "dbn" : "02M580",
+  "number_of_test_takers" : "79",
+  "critical_reading_mean" : "425",
+  "school_name" : "Richard R Green High School of Teaching ",
+  "mathematics_mean" : "429",
+  "writing_mean" : "419"
+}
+, {
+  "dbn" : "02M586",
+  "number_of_test_takers" : "11",
+  "critical_reading_mean" : "429",
+  "school_name" : "HARVEY MILK SCHOOL ",
+  "mathematics_mean" : "382",
+  "writing_mean" : "416"
+}
+, {
+  "dbn" : "02M600",
+  "number_of_test_takers" : "301",
+  "critical_reading_mean" : "419",
+  "school_name" : "HIGH SCHOOL FASHION INDUSTRIES ",
+  "mathematics_mean" : "420",
+  "writing_mean" : "413"
+}
+, {
+  "dbn" : "02M605",
+  "number_of_test_takers" : "37",
+  "critical_reading_mean" : "433",
+  "school_name" : "HUMANITIES PREPARATORY ACADEMY ",
+  "mathematics_mean" : "405",
+  "writing_mean" : "417"
+}
+, {
+  "dbn" : "02M615",
+  "number_of_test_takers" : "61",
+  "critical_reading_mean" : "393",
+  "school_name" : "Chelsea Career and Technical Education High School ",
+  "mathematics_mean" : "412",
+  "writing_mean" : "376"
+}
+, {
+  "dbn" : "02M620",
+  "number_of_test_takers" : "152",
+  "critical_reading_mean" : "378",
+  "school_name" : "NORMAN THOMAS HIGH SCHOOL ",
+  "mathematics_mean" : "387",
+  "writing_mean" : "370"
+}
+, {
+  "dbn" : "02M625",
+  "number_of_test_takers" : "125",
+  "critical_reading_mean" : "370",
+  "school_name" : "HS of Graphic Commnctn And Art ",
+  "mathematics_mean" : "378",
+  "writing_mean" : "360"
+}
+, {
+  "dbn" : "02M630",
+  "number_of_test_takers" : "212",
+  "critical_reading_mean" : "427",
+  "school_name" : "HIGH SCHOOL OF ART AND DESIGN ",
+  "mathematics_mean" : "423",
+  "writing_mean" : "418"
+}
+, {
+  "dbn" : "02M655",
+  "number_of_test_takers" : "71",
+  "critical_reading_mean" : "399",
+  "school_name" : "LIFE SCIENCES SECONDARY SCHOOL ",
+  "mathematics_mean" : "389",
+  "writing_mean" : "383"
+}
+, {
+  "dbn" : "02M690",
+  "number_of_test_takers" : "14",
+  "critical_reading_mean" : "382",
+  "school_name" : "SCHOOL FOR THE PHYSICAL CITY ",
+  "mathematics_mean" : "404",
+  "writing_mean" : "359"
+}
+, {
+  "dbn" : "03M283",
+  "number_of_test_takers" : "23",
+  "critical_reading_mean" : "406",
+  "school_name" : "MANHATTAN THEATRE LAB HIGH SCHOOL ",
+  "mathematics_mean" : "378",
+  "writing_mean" : "391"
+}
+, {
+  "dbn" : "03M299",
+  "number_of_test_takers" : "57",
+  "critical_reading_mean" : "364",
+  "school_name" : "High School For Arts, Imagination And Inquiry ",
+  "mathematics_mean" : "378",
+  "writing_mean" : "357"
+}
+, {
+  "dbn" : "03M307",
+  "number_of_test_takers" : "53",
+  "critical_reading_mean" : "374",
+  "school_name" : "Urban Assembly School For Media Studies ",
+  "mathematics_mean" : "363",
+  "writing_mean" : "377"
+}
+, {
+  "dbn" : "03M404",
+  "school_name" : "INNOVATION DIPLOMA PLUS HIGH SCHOOL "
+}
+, {
+  "dbn" : "03M415",
+  "number_of_test_takers" : "68",
+  "critical_reading_mean" : "376",
+  "school_name" : "WADLEIGH SECONDARY SCHOOL ",
+  "mathematics_mean" : "373",
+  "writing_mean" : "371"
+}
+, {
+  "dbn" : "03M470",
+  "number_of_test_takers" : "170",
+  "critical_reading_mean" : "357",
+  "school_name" : "LOUIS D BRANDEIS HIGH SCHOOL ",
+  "mathematics_mean" : "357",
+  "writing_mean" : "345"
+}
+, {
+  "dbn" : "03M479",
+  "number_of_test_takers" : "237",
+  "critical_reading_mean" : "573",
+  "school_name" : "BEACON SCHOOL ",
+  "mathematics_mean" : "563",
+  "writing_mean" : "575"
+}
+, {
+  "dbn" : "03M485",
+  "number_of_test_takers" : "594",
+  "critical_reading_mean" : "558",
+  "school_name" : "LAGUARDIA HIGH SCH MUSIC ART ",
+  "mathematics_mean" : "555",
+  "writing_mean" : "567"
+}
+, {
+  "dbn" : "03M494",
+  "number_of_test_takers" : "60",
+  "critical_reading_mean" : "407",
+  "school_name" : "Martin Luther King Jr HS Arts and Technology ",
+  "mathematics_mean" : "425",
+  "writing_mean" : "397"
+}
+, {
+  "dbn" : "03M505",
+  "number_of_test_takers" : "18",
+  "critical_reading_mean" : "410",
+  "school_name" : "Edward A. Reynolds West Side High School ",
+  "mathematics_mean" : "407",
+  "writing_mean" : "388"
+}
+, {
+  "dbn" : "03M541",
+  "number_of_test_takers" : "80",
+  "critical_reading_mean" : "481",
+  "school_name" : "MANHATTAN/HUNTER COLL HS SCI ",
+  "mathematics_mean" : "525",
+  "writing_mean" : "469"
+}
+, {
+  "dbn" : "03M860",
+  "number_of_test_takers" : "33",
+  "critical_reading_mean" : "414",
+  "school_name" : "FREDERICK DOUGLAS ACADEMY II ",
+  "mathematics_mean" : "410",
+  "writing_mean" : "406"
+}
+, {
+  "dbn" : "04M409",
+  "number_of_test_takers" : "39",
+  "critical_reading_mean" : "390",
+  "school_name" : "COALITION SCH SOCIAL CHANGE ",
+  "mathematics_mean" : "372",
+  "writing_mean" : "383"
+}
+, {
+  "dbn" : "04M435",
+  "number_of_test_takers" : "312",
+  "critical_reading_mean" : "485",
+  "school_name" : "Manhattan Center for Science and Math ",
+  "mathematics_mean" : "531",
+  "writing_mean" : "475"
+}
+, {
+  "dbn" : "04M495",
+  "number_of_test_takers" : "46",
+  "critical_reading_mean" : "360",
+  "school_name" : "PARK EAST HIGH SCHOOL ",
+  "mathematics_mean" : "374",
+  "writing_mean" : "362"
+}
+, {
+  "dbn" : "04M555",
+  "number_of_test_takers" : "35",
+  "critical_reading_mean" : "362",
+  "school_name" : "CENTRAL PARK SECONDARY SCHOOL ",
+  "mathematics_mean" : "378",
+  "writing_mean" : "356"
+}
+, {
+  "dbn" : "04M610",
+  "number_of_test_takers" : "48",
+  "critical_reading_mean" : "451",
+  "school_name" : "YOUNG WOMEN LEADERSHIP SCHOOL ",
+  "mathematics_mean" : "445",
+  "writing_mean" : "470"
+}
+, {
+  "dbn" : "04M610",
+  "school_name" : "Young Women's Leadership School of Astoria "
+}
+, {
+  "dbn" : "04M635",
+  "number_of_test_takers" : "39",
+  "critical_reading_mean" : "380",
+  "school_name" : "Academy of Environment Science Secondary School ",
+  "mathematics_mean" : "385",
+  "writing_mean" : "354"
+}
+, {
+  "dbn" : "04M680",
+  "number_of_test_takers" : "47",
+  "critical_reading_mean" : "369",
+  "school_name" : "HERITAGE SCHOOL ",
+  "mathematics_mean" : "385",
+  "writing_mean" : "361"
+}
+, {
+  "dbn" : "04M695",
+  "number_of_test_takers" : "23",
+  "critical_reading_mean" : "366",
+  "school_name" : "URBAN PEACE ACADEMY ",
+  "mathematics_mean" : "382",
+  "writing_mean" : "362"
+}
+, {
+  "dbn" : "05M285",
+  "number_of_test_takers" : "19",
+  "critical_reading_mean" : "402",
+  "school_name" : "HARLEM RENAISSANCE HIGH SCHOOL ",
+  "mathematics_mean" : "394",
+  "writing_mean" : "367"
+}
+, {
+  "dbn" : "05M304",
+  "number_of_test_takers" : "63",
+  "critical_reading_mean" : "424",
+  "school_name" : "MOTT HALL HIGH SCHOOL ",
+  "mathematics_mean" : "421",
+  "writing_mean" : "410"
+}
+, {
+  "dbn" : "05M367",
+  "school_name" : "Academy for Social Action "
+}
+, {
+  "dbn" : "05M369",
+  "number_of_test_takers" : "34",
+  "critical_reading_mean" : "349",
+  "school_name" : "URBAN ASSEMBLY SCHOOL FOR THE PERFORMIN ",
+  "mathematics_mean" : "370",
+  "writing_mean" : "363"
+}
+, {
+  "dbn" : "05M469",
+  "number_of_test_takers" : "16",
+  "critical_reading_mean" : "420",
+  "school_name" : "CHOIR ACADEMY OF HARLEM ",
+  "mathematics_mean" : "369",
+  "writing_mean" : "401"
+}
+, {
+  "dbn" : "05M499",
+  "number_of_test_takers" : "216",
+  "critical_reading_mean" : "465",
+  "school_name" : "FREDERICK DOUGLASS ACADEMY ",
+  "mathematics_mean" : "481",
+  "writing_mean" : "466"
+}
+, {
+  "dbn" : "05M670",
+  "number_of_test_takers" : "52",
+  "critical_reading_mean" : "423",
+  "school_name" : "THURGOOD MARSHALL ACADEMY ",
+  "mathematics_mean" : "434",
+  "writing_mean" : "404"
+}
+, {
+  "dbn" : "05M685",
+  "number_of_test_takers" : "54",
+  "critical_reading_mean" : "364",
+  "school_name" : "Bread & Rose Intergrated Arts High School ",
+  "mathematics_mean" : "378",
+  "writing_mean" : "359"
+}
+, {
+  "dbn" : "05M692",
+  "number_of_test_takers" : "106",
+  "critical_reading_mean" : "592",
+  "school_name" : "High School For Math Science Engineering City Coll ",
+  "mathematics_mean" : "627",
+  "writing_mean" : "575"
+}
+, {
+  "dbn" : "06M293",
+  "school_name" : "MS 293 City College Academy of the Arts "
+}
+, {
+  "dbn" : "06M346",
+  "school_name" : "Community Health Academy Heights "
+}
+, {
+  "dbn" : "06M348",
+  "school_name" : "MS 348 Washington Heights Expeditionary Learning S "
+}
+, {
+  "dbn" : "06M457",
+  "school_name" : "YABC AT G. WASHINGTON EDUCATIONAL CAMPUS "
+}
+, {
+  "dbn" : "06M462",
+  "number_of_test_takers" : "56",
+  "critical_reading_mean" : "383",
+  "school_name" : "HIGH SCHOOL FOR INTL BUS/FIN ",
+  "mathematics_mean" : "384",
+  "writing_mean" : "379"
+}
+, {
+  "dbn" : "06M463",
+  "number_of_test_takers" : "75",
+  "critical_reading_mean" : "366",
+  "school_name" : "HS for Media and Communications-George Washingto ",
+  "mathematics_mean" : "376",
+  "writing_mean" : "353"
+}
+, {
+  "dbn" : "06M467",
+  "number_of_test_takers" : "106",
+  "critical_reading_mean" : "388",
+  "school_name" : "High School for Law and Public Service ",
+  "mathematics_mean" : "388",
+  "writing_mean" : "378"
+}
+, {
+  "dbn" : "06M468",
+  "number_of_test_takers" : "28",
+  "critical_reading_mean" : "385",
+  "school_name" : "HIGH SCHOOL FOR HLTH CARER/SER ",
+  "mathematics_mean" : "417",
+  "writing_mean" : "373"
+}
+, {
+  "dbn" : "06M540",
+  "number_of_test_takers" : "193",
+  "critical_reading_mean" : "436",
+  "school_name" : "A Philip Randolph Campus High School ",
+  "mathematics_mean" : "451",
+  "writing_mean" : "421"
+}
+, {
+  "dbn" : "06M552",
+  "number_of_test_takers" : "60",
+  "critical_reading_mean" : "342",
+  "school_name" : "GREGORIO LUPERON PREP SCHOOL ",
+  "mathematics_mean" : "384",
+  "writing_mean" : "333"
+}
+, {
+  "dbn" : "07X221",
+  "number_of_test_takers" : "60",
+  "critical_reading_mean" : "399",
+  "school_name" : "SOUTH BRONX PREPARATORY ",
+  "mathematics_mean" : "393",
+  "writing_mean" : "382"
+}
+, {
+  "dbn" : "07X321",
+  "school_name" : "CROTANA ACADEMY HIGH SCHOOL "
+}
+, {
+  "dbn" : "07X334",
+  "number_of_test_takers" : "33",
+  "critical_reading_mean" : "322",
+  "school_name" : "INTERNATIONAL COMMUNITY HIGH SCHOOL ",
+  "mathematics_mean" : "335",
+  "writing_mean" : "327"
+}
+, {
+  "dbn" : "07X379",
+  "school_name" : "Jill Chaifetz Transfer High School "
+}
+, {
+  "dbn" : "07X381",
+  "number_of_test_takers" : "15",
+  "critical_reading_mean" : "335",
+  "school_name" : "BRONX HAVEN HIGH SCHOOL ",
+  "mathematics_mean" : "342",
+  "writing_mean" : "372"
+}
+, {
+  "dbn" : "07X427",
+  "number_of_test_takers" : "50",
+  "critical_reading_mean" : "372",
+  "school_name" : "Community High School Social Justice ",
+  "mathematics_mean" : "351",
+  "writing_mean" : "359"
+}
+, {
+  "dbn" : "07X473",
+  "number_of_test_takers" : "48",
+  "critical_reading_mean" : "345",
+  "school_name" : "Mott Haven Village Preparatory High School ",
+  "mathematics_mean" : "352",
+  "writing_mean" : "349"
+}
+, {
+  "dbn" : "07X495",
+  "number_of_test_takers" : "66",
+  "critical_reading_mean" : "401",
+  "school_name" : "UNIVERSITY HEIGHTS HIGH SCHOOL ",
+  "mathematics_mean" : "388",
+  "writing_mean" : "396"
+}
+, {
+  "dbn" : "07X500",
+  "number_of_test_takers" : "62",
+  "critical_reading_mean" : "460",
+  "school_name" : "HOSTOS-LINCOLN ACADEMY SCIENCE ",
+  "mathematics_mean" : "455",
+  "writing_mean" : "457"
+}
+, {
+  "dbn" : "07X520",
+  "number_of_test_takers" : "73",
+  "critical_reading_mean" : "418",
+  "school_name" : "FOREIGN LANGUAGE ACADEMY ",
+  "mathematics_mean" : "429",
+  "writing_mean" : "415"
+}
+, {
+  "dbn" : "07X527",
+  "number_of_test_takers" : "55",
+  "critical_reading_mean" : "377",
+  "school_name" : "Bronx Leadership Academy II High School ",
+  "mathematics_mean" : "381",
+  "writing_mean" : "379"
+}
+, {
+  "dbn" : "07X547",
+  "number_of_test_takers" : "36",
+  "critical_reading_mean" : "382",
+  "school_name" : "NEW EXPLORERS HIGH SCHOOL ",
+  "mathematics_mean" : "376",
+  "writing_mean" : "376"
+}
+, {
+  "dbn" : "07X548",
+  "number_of_test_takers" : "58",
+  "critical_reading_mean" : "381",
+  "school_name" : "Urban Assembly School for Careers in Sports ",
+  "mathematics_mean" : "423",
+  "writing_mean" : "384"
+}
+, {
+  "dbn" : "07X551",
+  "number_of_test_takers" : "51",
+  "critical_reading_mean" : "416",
+  "school_name" : "Bronx Academy of Letters ",
+  "mathematics_mean" : "406",
+  "writing_mean" : "435"
+}
+, {
+  "dbn" : "07X600",
+  "number_of_test_takers" : "53",
+  "critical_reading_mean" : "367",
+  "school_name" : "ALFRED E SMITH HIGH SCHOOL ",
+  "mathematics_mean" : "372",
+  "writing_mean" : "354"
+}
+, {
+  "dbn" : "07X655",
+  "number_of_test_takers" : "105",
+  "critical_reading_mean" : "370",
+  "school_name" : "Samuel Gompers Vocational Technical High School ",
+  "mathematics_mean" : "385",
+  "writing_mean" : "354"
+}
+, {
+  "dbn" : "07X670",
+  "number_of_test_takers" : "81",
+  "critical_reading_mean" : "400",
+  "school_name" : "Health Opportunities High School ",
+  "mathematics_mean" : "391",
+  "writing_mean" : "387"
+}
+, {
+  "dbn" : "08X282",
+  "number_of_test_takers" : "56",
+  "critical_reading_mean" : "395",
+  "school_name" : "YOUNG WOMEN'S LEADERSHIP SCH BRONX CMP ",
+  "mathematics_mean" : "407",
+  "writing_mean" : "388"
+}
+, {
+  "dbn" : "08X293",
+  "number_of_test_takers" : "47",
+  "critical_reading_mean" : "389",
+  "school_name" : "Renaissance High School Music Theater T ",
+  "mathematics_mean" : "375",
+  "writing_mean" : "375"
+}
+, {
+  "dbn" : "08X295",
+  "number_of_test_takers" : "31",
+  "critical_reading_mean" : "377",
+  "school_name" : "Gateway School for Environmental Research & Tech ",
+  "mathematics_mean" : "367",
+  "writing_mean" : "368"
+}
+, {
+  "dbn" : "08X305",
+  "number_of_test_takers" : "54",
+  "critical_reading_mean" : "359",
+  "school_name" : "Pablo Neruda Academy Architecture & World Studies ",
+  "mathematics_mean" : "358",
+  "writing_mean" : "338"
+}
+, {
+  "dbn" : "08X312",
+  "number_of_test_takers" : "41",
+  "critical_reading_mean" : "380",
+  "school_name" : "MILLENNIUM ART ACADEMY ",
+  "mathematics_mean" : "389",
+  "writing_mean" : "371"
+}
+, {
+  "dbn" : "08X332",
+  "number_of_test_takers" : "34",
+  "critical_reading_mean" : "374",
+  "school_name" : "HOLCOMBE L. RUCKER SCHOOL OF COMMUNITY ",
+  "mathematics_mean" : "362",
+  "writing_mean" : "366"
+}
+, {
+  "dbn" : "08X377",
+  "number_of_test_takers" : "10",
+  "critical_reading_mean" : "416",
+  "school_name" : "BRONX COMMUNITY HIGH SCHOOL (X377) ",
+  "mathematics_mean" : "393",
+  "writing_mean" : "414"
+}
+, {
+  "dbn" : "08X405",
+  "number_of_test_takers" : "448",
+  "critical_reading_mean" : "414",
+  "school_name" : "HERBERT H LEHMAN HIGH SCHOOL ",
+  "mathematics_mean" : "433",
+  "writing_mean" : "397"
+}
+, {
+  "dbn" : "08X408",
+  "number_of_test_takers" : "8",
+  "critical_reading_mean" : "358",
+  "school_name" : "YABC AT HERBERT H. LEHMAN HIGH SCHOOL ",
+  "mathematics_mean" : "343",
+  "writing_mean" : "385"
+}
+, {
+  "dbn" : "08X450",
+  "school_name" : "ADLAI E STEVENSON HIGH SCHOOL "
+}
+, {
+  "dbn" : "08X452",
+  "number_of_test_takers" : "36",
+  "critical_reading_mean" : "381",
+  "school_name" : "The Bronx Guild High School ",
+  "mathematics_mean" : "361",
+  "writing_mean" : "352"
+}
+, {
+  "dbn" : "08X507",
+  "school_name" : "YABC AT ADLAI STEVENSON HIGH SCHOOL "
+}
+, {
+  "dbn" : "08X519",
+  "number_of_test_takers" : "43",
+  "critical_reading_mean" : "373",
+  "school_name" : "Felisa Rincon de Gautier Inst for Law & Pub Policy ",
+  "mathematics_mean" : "376",
+  "writing_mean" : "367"
+}
+, {
+  "dbn" : "08X530",
+  "number_of_test_takers" : "48",
+  "critical_reading_mean" : "377",
+  "school_name" : "BANANA KELLY HIGH SCHOOL ",
+  "mathematics_mean" : "382",
+  "writing_mean" : "368"
+}
+, {
+  "dbn" : "08X540",
+  "number_of_test_takers" : "29",
+  "critical_reading_mean" : "356",
+  "school_name" : "HIGH SCHOOL CMTY RESEARCH LRN ",
+  "mathematics_mean" : "376",
+  "writing_mean" : "368"
+}
+, {
+  "dbn" : "08X560",
+  "number_of_test_takers" : "19",
+  "critical_reading_mean" : "373",
+  "school_name" : "BRONX ACADEMY HIGH SCHOOL ",
+  "mathematics_mean" : "354",
+  "writing_mean" : "364"
+}
+, {
+  "dbn" : "08X650",
+  "number_of_test_takers" : "152",
+  "critical_reading_mean" : "370",
+  "school_name" : "Jane Addams Vocational High School ",
+  "mathematics_mean" : "377",
+  "writing_mean" : "363"
+}
+, {
+  "dbn" : "09X227",
+  "number_of_test_takers" : "46",
+  "critical_reading_mean" : "371",
+  "school_name" : "Bronx Expeditionary Learning High School ",
+  "mathematics_mean" : "358",
+  "writing_mean" : "343"
+}
+, {
+  "dbn" : "09X231",
+  "number_of_test_takers" : "66",
+  "critical_reading_mean" : "391",
+  "school_name" : "Eagle Academy for Young Men ",
+  "mathematics_mean" : "399",
+  "writing_mean" : "386"
+}
+, {
+  "dbn" : "09X239",
+  "number_of_test_takers" : "22",
+  "critical_reading_mean" : "359",
+  "school_name" : "Urban Assembly Academy History & Citizenship ",
+  "mathematics_mean" : "380",
+  "writing_mean" : "371"
+}
+, {
+  "dbn" : "09X241",
+  "school_name" : "Urban Assembly School for Applied Math Science "
+}
+, {
+  "dbn" : "09X250",
+  "number_of_test_takers" : "44",
+  "critical_reading_mean" : "401",
+  "school_name" : "EXIMIUS COLLEGE PREP ACADEMY ",
+  "mathematics_mean" : "383",
+  "writing_mean" : "387"
+}
+, {
+  "dbn" : "09X252",
+  "number_of_test_takers" : "63",
+  "critical_reading_mean" : "395",
+  "school_name" : "MOTT HALL BRONX HIGH SCHOOL ",
+  "mathematics_mean" : "398",
+  "writing_mean" : "399"
+}
+, {
+  "dbn" : "09X260",
+  "number_of_test_takers" : "73",
+  "critical_reading_mean" : "447",
+  "school_name" : "Bronx Center for Science and Mathematics ",
+  "mathematics_mean" : "495",
+  "writing_mean" : "454"
+}
+, {
+  "dbn" : "09X263",
+  "number_of_test_takers" : "90",
+  "critical_reading_mean" : "359",
+  "school_name" : "VALIDUS PREPARATORY ACADEMY ",
+  "mathematics_mean" : "347",
+  "writing_mean" : "356"
+}
+, {
+  "dbn" : "09X276",
+  "number_of_test_takers" : "21",
+  "critical_reading_mean" : "362",
+  "school_name" : "LEADERSHIP INSTITUTE ",
+  "mathematics_mean" : "380",
+  "writing_mean" : "358"
+}
+, {
+  "dbn" : "09X297",
+  "number_of_test_takers" : "22",
+  "critical_reading_mean" : "388",
+  "school_name" : "MORRIS ACADEMY FOR COLLABORATIVE STUDIE ",
+  "mathematics_mean" : "352",
+  "writing_mean" : "378"
+}
+, {
+  "dbn" : "09X329",
+  "number_of_test_takers" : "46",
+  "critical_reading_mean" : "394",
+  "school_name" : "DREAMYARD PREPARATORY SCHOOL ",
+  "mathematics_mean" : "404",
+  "writing_mean" : "389"
+}
+, {
+  "dbn" : "09X365",
+  "school_name" : "ACADEMY FOR LANGUAGE AND TECHNOLOGY "
+}
+, {
+  "dbn" : "09X403",
+  "number_of_test_takers" : "37",
+  "critical_reading_mean" : "335",
+  "school_name" : "Bronx International High School ",
+  "mathematics_mean" : "335",
+  "writing_mean" : "340"
+}
+, {
+  "dbn" : "09X404",
+  "number_of_test_takers" : "32",
+  "critical_reading_mean" : "366",
+  "school_name" : "HIGH SCHOOL FOR EXCELLENCE ",
+  "mathematics_mean" : "373",
+  "writing_mean" : "371"
+}
+, {
+  "dbn" : "09X412",
+  "number_of_test_takers" : "35",
+  "critical_reading_mean" : "369",
+  "school_name" : "BRONX HIGH SCHOOL OF BUSINESS ",
+  "mathematics_mean" : "397",
+  "writing_mean" : "366"
+}
+, {
+  "dbn" : "09X413",
+  "number_of_test_takers" : "98",
+  "critical_reading_mean" : "423",
+  "school_name" : "HIGH SCHOOL MEDICAL SCIENCES ",
+  "mathematics_mean" : "450",
+  "writing_mean" : "435"
+}
+, {
+  "dbn" : "09X414",
+  "number_of_test_takers" : "81",
+  "critical_reading_mean" : "347",
+  "school_name" : "Jonathan Levin HS for Media and Communications ",
+  "mathematics_mean" : "353",
+  "writing_mean" : "351"
+}
+, {
+  "dbn" : "09X505",
+  "number_of_test_takers" : "87",
+  "critical_reading_mean" : "413",
+  "school_name" : "BRONX SCH LAW GOVMT & JUSTICE ",
+  "mathematics_mean" : "390",
+  "writing_mean" : "420"
+}
+, {
+  "dbn" : "09X517",
+  "number_of_test_takers" : "44",
+  "critical_reading_mean" : "399",
+  "school_name" : "Frederick Douglass Academy III Secondary School ",
+  "mathematics_mean" : "414",
+  "writing_mean" : "406"
+}
+, {
+  "dbn" : "09X525",
+  "number_of_test_takers" : "116",
+  "critical_reading_mean" : "402",
+  "school_name" : "Bronx Leadership Academy High School ",
+  "mathematics_mean" : "397",
+  "writing_mean" : "396"
+}
+, {
+  "dbn" : "09X543",
+  "number_of_test_takers" : "26",
+  "critical_reading_mean" : "332",
+  "school_name" : "HIGH SCHOOL VIOLIN AND DANCE ",
+  "mathematics_mean" : "379",
+  "writing_mean" : "337"
+}
+, {
+  "dbn" : "10X141",
+  "number_of_test_takers" : "101",
+  "critical_reading_mean" : "475",
+  "school_name" : "RIVERDALE KINGSBRIDGE ACADEMY ",
+  "mathematics_mean" : "479",
+  "writing_mean" : "470"
+}
+, {
+  "dbn" : "10X213",
+  "number_of_test_takers" : "36",
+  "critical_reading_mean" : "374",
+  "school_name" : "BRONX ENGINEERING & TECH ACADEMY ",
+  "mathematics_mean" : "402",
+  "writing_mean" : "364"
+}
+, {
+  "dbn" : "10X225",
+  "number_of_test_takers" : "53",
+  "critical_reading_mean" : "382",
+  "school_name" : "Theatre Arts Production Company School ",
+  "mathematics_mean" : "375",
+  "writing_mean" : "363"
+}
+, {
+  "dbn" : "10X237",
+  "number_of_test_takers" : "48",
+  "critical_reading_mean" : "373",
+  "school_name" : "Marie Curie HS for Nur, Med and Allied Health Prof ",
+  "mathematics_mean" : "358",
+  "writing_mean" : "366"
+}
+, {
+  "dbn" : "10X243",
+  "number_of_test_takers" : "32",
+  "critical_reading_mean" : "365",
+  "school_name" : "WEST BRONX ACADEMY FOR FUTURE ",
+  "mathematics_mean" : "382",
+  "writing_mean" : "375"
+}
+, {
+  "dbn" : "10X268",
+  "number_of_test_takers" : "40",
+  "critical_reading_mean" : "313",
+  "school_name" : "Kingsbridge International High School ",
+  "mathematics_mean" : "316",
+  "writing_mean" : "296"
+}
+, {
+  "dbn" : "10X284",
+  "number_of_test_takers" : "54",
+  "critical_reading_mean" : "404",
+  "school_name" : "BRONX SCHOOL OF LAW & FINANCE ",
+  "mathematics_mean" : "397",
+  "writing_mean" : "383"
+}
+, {
+  "dbn" : "10X319",
+  "number_of_test_takers" : "10",
+  "critical_reading_mean" : "349",
+  "school_name" : "Providing Urban Learners Success in Education HS ",
+  "mathematics_mean" : "346",
+  "writing_mean" : "364"
+}
+, {
+  "dbn" : "10X342",
+  "number_of_test_takers" : "46",
+  "critical_reading_mean" : "333",
+  "school_name" : "International School of Liberal Arts ",
+  "mathematics_mean" : "336",
+  "writing_mean" : "285"
+}
+, {
+  "dbn" : "10X368",
+  "number_of_test_takers" : "56",
+  "critical_reading_mean" : "418",
+  "school_name" : "Information Technology Academy ",
+  "mathematics_mean" : "411",
+  "writing_mean" : "398"
+}
+, {
+  "dbn" : "10X374",
+  "school_name" : "Knowledge & Power Prep Acad International HS "
+}
+, {
+  "dbn" : "10X430",
+  "school_name" : "WALTON HIGH SCHOOL "
+}
+, {
+  "dbn" : "10X430",
+  "school_name" : "YABC AT WALTON HIGH SCHOOL "
+}
+, {
+  "dbn" : "10X433",
+  "number_of_test_takers" : "50",
+  "critical_reading_mean" : "386",
+  "school_name" : "HIGH SCHOOL TEACHING PROFESSNS ",
+  "mathematics_mean" : "385",
+  "writing_mean" : "381"
+}
+, {
+  "dbn" : "10X434",
+  "number_of_test_takers" : "65",
+  "critical_reading_mean" : "358",
+  "school_name" : "Belmont Preparatory High School ",
+  "mathematics_mean" : "370",
+  "writing_mean" : "346"
+}
+, {
+  "dbn" : "10X437",
+  "number_of_test_takers" : "42",
+  "critical_reading_mean" : "377",
+  "school_name" : "Fordham High School for the Arts ",
+  "mathematics_mean" : "375",
+  "writing_mean" : "375"
+}
+, {
+  "dbn" : "10X438",
+  "number_of_test_takers" : "71",
+  "critical_reading_mean" : "375",
+  "school_name" : "Fordham Leadership Academy for Business Technolog ",
+  "mathematics_mean" : "385",
+  "writing_mean" : "373"
+}
+, {
+  "dbn" : "10X439",
+  "number_of_test_takers" : "57",
+  "critical_reading_mean" : "389",
+  "school_name" : "Bronx High School of Law and Community Service ",
+  "mathematics_mean" : "400",
+  "writing_mean" : "382"
+}
+, {
+  "dbn" : "10X440",
+  "number_of_test_takers" : "438",
+  "critical_reading_mean" : "425",
+  "school_name" : "DeWitt Clinton High School ",
+  "mathematics_mean" : "440",
+  "writing_mean" : "417"
+}
+, {
+  "dbn" : "10X442",
+  "number_of_test_takers" : "38",
+  "critical_reading_mean" : "421",
+  "school_name" : "BRONX HIGH SCHOOL OF MUSIC ",
+  "mathematics_mean" : "432",
+  "writing_mean" : "439"
+}
+, {
+  "dbn" : "10X445",
+  "number_of_test_takers" : "683",
+  "critical_reading_mean" : "632",
+  "school_name" : "BRONX HIGH SCHOOL OF SCIENCE ",
+  "mathematics_mean" : "685",
+  "writing_mean" : "643"
+}
+, {
+  "dbn" : "10X475",
+  "number_of_test_takers" : "87",
+  "critical_reading_mean" : "364",
+  "school_name" : "JOHN F KENNEDY HIGH SCHOOL ",
+  "mathematics_mean" : "375",
+  "writing_mean" : "358"
+}
+, {
+  "dbn" : "10X477",
+  "number_of_test_takers" : "70",
+  "critical_reading_mean" : "406",
+  "school_name" : "MARBLE HILL SCH INTL STUDIES ",
+  "mathematics_mean" : "429",
+  "writing_mean" : "403"
+}
+, {
+  "dbn" : "10X478",
+  "number_of_test_takers" : "12",
+  "critical_reading_mean" : "389",
+  "school_name" : "YABC AT JOHN F. KENNEDY HIGH SCHOOL ",
+  "mathematics_mean" : "383",
+  "writing_mean" : "364"
+}
+, {
+  "dbn" : "10X546",
+  "number_of_test_takers" : "50",
+  "critical_reading_mean" : "406",
+  "school_name" : "BRONX THEATER HIGH SCHOOL ",
+  "mathematics_mean" : "389",
+  "writing_mean" : "388"
+}
+, {
+  "dbn" : "10X549",
+  "number_of_test_takers" : "31",
+  "critical_reading_mean" : "340",
+  "school_name" : "DISCOVERY HIGH SCHOOL ",
+  "mathematics_mean" : "340",
+  "writing_mean" : "351"
+}
+, {
+  "dbn" : "10X660",
+  "number_of_test_takers" : "93",
+  "critical_reading_mean" : "380",
+  "school_name" : "Grace Dodge Vocational High School ",
+  "mathematics_mean" : "385",
+  "writing_mean" : "369"
+}
+, {
+  "dbn" : "10X667",
+  "number_of_test_takers" : "13",
+  "critical_reading_mean" : "367",
+  "school_name" : "YABC AT GRACE DODGE HIGH SCHOOL ",
+  "mathematics_mean" : "378",
+  "writing_mean" : "358"
+}
+, {
+  "dbn" : "10X696",
+  "number_of_test_takers" : "74",
+  "critical_reading_mean" : "635",
+  "school_name" : "HS of American Studies at Lehman College ",
+  "mathematics_mean" : "630",
+  "writing_mean" : "619"
+}
+, {
+  "dbn" : "11X249",
+  "number_of_test_takers" : "52",
+  "critical_reading_mean" : "363",
+  "school_name" : "Bronx Health School High School 11x249 ",
+  "mathematics_mean" : "366",
+  "writing_mean" : "364"
+}
+, {
+  "dbn" : "11X253",
+  "number_of_test_takers" : "57",
+  "critical_reading_mean" : "393",
+  "school_name" : "High School For Writing & Communication Arts ",
+  "mathematics_mean" : "363",
+  "writing_mean" : "387"
+}
+, {
+  "dbn" : "11X265",
+  "number_of_test_takers" : "70",
+  "critical_reading_mean" : "356",
+  "school_name" : "BRONX LAB SCHOOL ",
+  "mathematics_mean" : "370",
+  "writing_mean" : "355"
+}
+, {
+  "dbn" : "11X270",
+  "number_of_test_takers" : "37",
+  "critical_reading_mean" : "373",
+  "school_name" : "Academy for Scholarship and Entrepreneurship ",
+  "mathematics_mean" : "376",
+  "writing_mean" : "362"
+}
+, {
+  "dbn" : "11X275",
+  "number_of_test_takers" : "56",
+  "critical_reading_mean" : "399",
+  "school_name" : "High School of Computers and Technology ",
+  "mathematics_mean" : "402",
+  "writing_mean" : "373"
+}
+, {
+  "dbn" : "11X288",
+  "number_of_test_takers" : "90",
+  "critical_reading_mean" : "432",
+  "school_name" : "Columbus Institute for Math and Science ",
+  "mathematics_mean" : "464",
+  "writing_mean" : "424"
+}
+, {
+  "dbn" : "11X290",
+  "number_of_test_takers" : "46",
+  "critical_reading_mean" : "369",
+  "school_name" : "BRONX ACAD OF HEALTH CAREERS ",
+  "mathematics_mean" : "363",
+  "writing_mean" : "380"
+}
+, {
+  "dbn" : "11X299",
+  "number_of_test_takers" : "38",
+  "critical_reading_mean" : "404",
+  "school_name" : "ASTOR COLLEGIATE ACADEMY ",
+  "mathematics_mean" : "400",
+  "writing_mean" : "388"
+}
+, {
+  "dbn" : "11X415",
+  "number_of_test_takers" : "114",
+  "critical_reading_mean" : "354",
+  "school_name" : "Christopher Columbus High School ",
+  "mathematics_mean" : "373",
+  "writing_mean" : "350"
+}
+, {
+  "dbn" : "11X418",
+  "number_of_test_takers" : "54",
+  "critical_reading_mean" : "419",
+  "school_name" : "Bronx High School for the Visual Arts ",
+  "mathematics_mean" : "403",
+  "writing_mean" : "392"
+}
+, {
+  "dbn" : "11X425",
+  "number_of_test_takers" : "7",
+  "critical_reading_mean" : "344",
+  "school_name" : "EVANDER CHILDS HIGH SCHOOL ",
+  "mathematics_mean" : "306",
+  "writing_mean" : "350"
+}
+, {
+  "dbn" : "11X455",
+  "number_of_test_takers" : "201",
+  "critical_reading_mean" : "380",
+  "school_name" : "HARRY S TRUMAN HIGH SCHOOL ",
+  "mathematics_mean" : "384",
+  "writing_mean" : "379"
+}
+, {
+  "dbn" : "11X456",
+  "school_name" : "YABC AT HARRY S. TRUMAN HIGH SCHOOL "
+}
+, {
+  "dbn" : "11X513",
+  "number_of_test_takers" : "43",
+  "critical_reading_mean" : "331",
+  "school_name" : "NEW WORLD HIGH SCHOOL ",
+  "mathematics_mean" : "384",
+  "writing_mean" : "341"
+}
+, {
+  "dbn" : "11X514",
+  "number_of_test_takers" : "21",
+  "critical_reading_mean" : "359",
+  "school_name" : "Bronxwood Peparatory Academy ",
+  "mathematics_mean" : "389",
+  "writing_mean" : "350"
+}
+, {
+  "dbn" : "11X541",
+  "number_of_test_takers" : "43",
+  "critical_reading_mean" : "372",
+  "school_name" : "GLOBAL ENTERPRISE HIGH SCHOOL ",
+  "mathematics_mean" : "359",
+  "writing_mean" : "373"
+}
+, {
+  "dbn" : "11X542",
+  "number_of_test_takers" : "92",
+  "critical_reading_mean" : "427",
+  "school_name" : "PELHAM PREPARATORY ACADEMY ",
+  "mathematics_mean" : "416",
+  "writing_mean" : "424"
+}
+, {
+  "dbn" : "11X544",
+  "number_of_test_takers" : "40",
+  "critical_reading_mean" : "359",
+  "school_name" : "High School for the Contemporary Arts ",
+  "mathematics_mean" : "340",
+  "writing_mean" : "338"
+}
+, {
+  "dbn" : "11X545",
+  "number_of_test_takers" : "47",
+  "critical_reading_mean" : "393",
+  "school_name" : "BRONX AEROSPACE HIGH SCHOOL ",
+  "mathematics_mean" : "395",
+  "writing_mean" : "389"
+}
+, {
+  "dbn" : "12X245",
+  "number_of_test_takers" : "24",
+  "critical_reading_mean" : "368",
+  "school_name" : "NEW DAY ACADEMY ",
+  "mathematics_mean" : "349",
+  "writing_mean" : "358"
+}
+, {
+  "dbn" : "12X248",
+  "number_of_test_takers" : "42",
+  "critical_reading_mean" : "340",
+  "school_name" : "METROPOLITAN HIGH SCHOOL ",
+  "mathematics_mean" : "361",
+  "writing_mean" : "335"
+}
+, {
+  "dbn" : "12X251",
+  "number_of_test_takers" : "34",
+  "critical_reading_mean" : "364",
+  "school_name" : "EXPLORATIONS ACADEMY ",
+  "mathematics_mean" : "364",
+  "writing_mean" : "344"
+}
+, {
+  "dbn" : "12X262",
+  "number_of_test_takers" : "41",
+  "critical_reading_mean" : "383",
+  "school_name" : "Bronx High School Performance & Stage ",
+  "mathematics_mean" : "360",
+  "writing_mean" : "387"
+}
+, {
+  "dbn" : "12X267",
+  "school_name" : "Bronx Latin School "
+}
+, {
+  "dbn" : "12X271",
+  "number_of_test_takers" : "22",
+  "critical_reading_mean" : "415",
+  "school_name" : "EAST BRONX ACADEMY FOR THE FUTURE ",
+  "mathematics_mean" : "390",
+  "writing_mean" : "397"
+}
+, {
+  "dbn" : "12X278",
+  "number_of_test_takers" : "24",
+  "critical_reading_mean" : "408",
+  "school_name" : "PEACE & DIVERSITY ACAD HIGH SCHOOL ",
+  "mathematics_mean" : "400",
+  "writing_mean" : "401"
+}
+, {
+  "dbn" : "12X400",
+  "number_of_test_takers" : "9",
+  "critical_reading_mean" : "369",
+  "school_name" : "Morris High School ",
+  "mathematics_mean" : "374",
+  "writing_mean" : "360"
+}
+, {
+  "dbn" : "12X428",
+  "number_of_test_takers" : "11",
+  "critical_reading_mean" : "386",
+  "school_name" : "YABC at Monroe Academy ",
+  "mathematics_mean" : "345",
+  "writing_mean" : "388"
+}
+, {
+  "dbn" : "12X446",
+  "number_of_test_takers" : "14",
+  "critical_reading_mean" : "354",
+  "school_name" : "Schomburg Satellite Academy ",
+  "mathematics_mean" : "366",
+  "writing_mean" : "364"
+}
+, {
+  "dbn" : "12X480",
+  "number_of_test_takers" : "12",
+  "critical_reading_mean" : "359",
+  "school_name" : "BRONX REGIONAL HIGH SCHOOL ",
+  "mathematics_mean" : "366",
+  "writing_mean" : "359"
+}
+, {
+  "dbn" : "12X550",
+  "number_of_test_takers" : "50",
+  "critical_reading_mean" : "291",
+  "school_name" : "HIGH SCHOOL OF WORLD CULTURES ",
+  "mathematics_mean" : "333",
+  "writing_mean" : "291"
+}
+, {
+  "dbn" : "12X680",
+  "number_of_test_takers" : "31",
+  "critical_reading_mean" : "372",
+  "school_name" : "Bronx Coalition Community High School ",
+  "mathematics_mean" : "366",
+  "writing_mean" : "360"
+}
+, {
+  "dbn" : "12X682",
+  "number_of_test_takers" : "75",
+  "critical_reading_mean" : "333",
+  "school_name" : "Fannie Lou Hamer Freedom High School ",
+  "mathematics_mean" : "326",
+  "writing_mean" : "330"
+}
+, {
+  "dbn" : "12X684",
+  "number_of_test_takers" : "58",
+  "critical_reading_mean" : "386",
+  "school_name" : "WINGS ACADEMY ",
+  "mathematics_mean" : "397",
+  "writing_mean" : "383"
+}
+, {
+  "dbn" : "12X690",
+  "number_of_test_takers" : "47",
+  "critical_reading_mean" : "355",
+  "school_name" : "MONROE CAMPUS ",
+  "mathematics_mean" : "369",
+  "writing_mean" : "366"
+}
+, {
+  "dbn" : "12X692",
+  "number_of_test_takers" : "70",
+  "critical_reading_mean" : "346",
+  "school_name" : "MONROE ACAD VISUAL ARTS DESGN ",
+  "mathematics_mean" : "341",
+  "writing_mean" : "356"
+}
+, {
+  "dbn" : "13K265",
+  "number_of_test_takers" : "46",
+  "critical_reading_mean" : "387",
+  "school_name" : "Dr Susan S McKinney Secondary School of the Arts ",
+  "mathematics_mean" : "369",
+  "writing_mean" : "369"
+}
+, {
+  "dbn" : "13K336",
+  "school_name" : "Urban Assembly Academy of Business & Community D "
+}
+, {
+  "dbn" : "13K350",
+  "number_of_test_takers" : "59",
+  "critical_reading_mean" : "394",
+  "school_name" : "Urban Assembly School of Music and Art ",
+  "mathematics_mean" : "371",
+  "writing_mean" : "371"
+}
+, {
+  "dbn" : "13K412",
+  "number_of_test_takers" : "43",
+  "critical_reading_mean" : "393",
+  "school_name" : "BROOKLYN COMMUNITY HIGH SCHOOL ",
+  "mathematics_mean" : "356",
+  "writing_mean" : "377"
+}
+, {
+  "dbn" : "13K419",
+  "number_of_test_takers" : "104",
+  "critical_reading_mean" : "419",
+  "school_name" : "Science Skills Center High School ",
+  "mathematics_mean" : "421",
+  "writing_mean" : "409"
+}
+, {
+  "dbn" : "13K430",
+  "number_of_test_takers" : "1047",
+  "critical_reading_mean" : "588",
+  "school_name" : "BROOKLYN TECHNICAL HIGH SCHOOL ",
+  "mathematics_mean" : "652",
+  "writing_mean" : "581"
+}
+, {
+  "dbn" : "13K483",
+  "number_of_test_takers" : "104",
+  "critical_reading_mean" : "414",
+  "school_name" : "Urban Assembly School of Law and Justice ",
+  "mathematics_mean" : "415",
+  "writing_mean" : "412"
+}
+, {
+  "dbn" : "13K499",
+  "number_of_test_takers" : "103",
+  "critical_reading_mean" : "367",
+  "school_name" : "Acorn Association of Community Organization Return ",
+  "mathematics_mean" : "361",
+  "writing_mean" : "360"
+}
+, {
+  "dbn" : "13K509",
+  "number_of_test_takers" : "40",
+  "critical_reading_mean" : "416",
+  "school_name" : "FREEDOM ACADEMY ",
+  "mathematics_mean" : "386",
+  "writing_mean" : "408"
+}
+, {
+  "dbn" : "13K553",
+  "number_of_test_takers" : "19",
+  "critical_reading_mean" : "403",
+  "school_name" : "BROOKLYN ACADEMY HIGH SCHOOL ",
+  "mathematics_mean" : "384",
+  "writing_mean" : "377"
+}
+, {
+  "dbn" : "13K575",
+  "number_of_test_takers" : "20",
+  "critical_reading_mean" : "366",
+  "school_name" : "Bedford Stuyvesant Street Academy High School ",
+  "mathematics_mean" : "380",
+  "writing_mean" : "362"
+}
+, {
+  "dbn" : "13K595",
+  "number_of_test_takers" : "50",
+  "critical_reading_mean" : "453",
+  "school_name" : "BEDFORD ACADEMY HIGH SCHOOL ",
+  "mathematics_mean" : "469",
+  "writing_mean" : "441"
+}
+, {
+  "dbn" : "13K605",
+  "number_of_test_takers" : "87",
+  "critical_reading_mean" : "390",
+  "school_name" : "George Westinghouse Vocational Technical HS ",
+  "mathematics_mean" : "360",
+  "writing_mean" : "373"
+}
+, {
+  "dbn" : "13K616",
+  "number_of_test_takers" : "9",
+  "critical_reading_mean" : "323",
+  "school_name" : "Brooklyn High Sch for Leadership Community Svc ",
+  "mathematics_mean" : "281",
+  "writing_mean" : "310"
+}
+, {
+  "dbn" : "13K670",
+  "number_of_test_takers" : "168",
+  "critical_reading_mean" : "476",
+  "school_name" : "BENJAMIN BANNEKER ACADEMY ",
+  "mathematics_mean" : "477",
+  "writing_mean" : "445"
+}
+, {
+  "dbn" : "14K071",
+  "number_of_test_takers" : "59",
+  "critical_reading_mean" : "362",
+  "school_name" : "JHS 071 JUAN MOREL CAMPOS ",
+  "mathematics_mean" : "369",
+  "writing_mean" : "349"
+}
+, {
+  "dbn" : "14K322",
+  "number_of_test_takers" : "28",
+  "critical_reading_mean" : "373",
+  "school_name" : "FOUNDATIONS ACADEMY ",
+  "mathematics_mean" : "377",
+  "writing_mean" : "359"
+}
+, {
+  "dbn" : "14K404",
+  "number_of_test_takers" : "70",
+  "critical_reading_mean" : "377",
+  "school_name" : "ACADEMY FOR YOUNG WRITERS ",
+  "mathematics_mean" : "366",
+  "writing_mean" : "365"
+}
+, {
+  "dbn" : "14K449",
+  "number_of_test_takers" : "50",
+  "critical_reading_mean" : "536",
+  "school_name" : "BROOKLYN LATIN SCHOOL ",
+  "mathematics_mean" : "534",
+  "writing_mean" : "527"
+}
+, {
+  "dbn" : "14K454",
+  "number_of_test_takers" : "52",
+  "critical_reading_mean" : "381",
+  "school_name" : "GREEN SCHOOL: AN ACADEMY FOR ENVIRONMEN ",
+  "mathematics_mean" : "381",
+  "writing_mean" : "366"
+}
+, {
+  "dbn" : "14K474",
+  "number_of_test_takers" : "102",
+  "critical_reading_mean" : "365",
+  "school_name" : "Progress High School For Professional Careers ",
+  "mathematics_mean" : "375",
+  "writing_mean" : "373"
+}
+, {
+  "dbn" : "14K477",
+  "number_of_test_takers" : "82",
+  "critical_reading_mean" : "385",
+  "school_name" : "School for Legal Studies ",
+  "mathematics_mean" : "390",
+  "writing_mean" : "384"
+}
+, {
+  "dbn" : "14K478",
+  "number_of_test_takers" : "80",
+  "critical_reading_mean" : "360",
+  "school_name" : "Enterprise, Business and Technology High School ",
+  "mathematics_mean" : "390",
+  "writing_mean" : "354"
+}
+, {
+  "dbn" : "14K488",
+  "number_of_test_takers" : "44",
+  "critical_reading_mean" : "397",
+  "school_name" : "BROOKLYN PREP HIGH SCHOOL ",
+  "mathematics_mean" : "377",
+  "writing_mean" : "387"
+}
+, {
+  "dbn" : "14K558",
+  "number_of_test_takers" : "44",
+  "critical_reading_mean" : "399",
+  "school_name" : "Williamsburg High School for Architecture & Design ",
+  "mathematics_mean" : "393",
+  "writing_mean" : "367"
+}
+, {
+  "dbn" : "14K561",
+  "number_of_test_takers" : "58",
+  "critical_reading_mean" : "375",
+  "school_name" : "WILLIAMSBURG PREP ",
+  "mathematics_mean" : "386",
+  "writing_mean" : "369"
+}
+, {
+  "dbn" : "14K586",
+  "school_name" : "LYONS COMMUNITY SCHOOL "
+}
+, {
+  "dbn" : "14K610",
+  "number_of_test_takers" : "73",
+  "critical_reading_mean" : "353",
+  "school_name" : "AUTOMOTIVE HIGH SCHOOL ",
+  "mathematics_mean" : "359",
+  "writing_mean" : "340"
+}
+, {
+  "dbn" : "14K632",
+  "school_name" : "The Frances Perkins Academy "
+}
+, {
+  "dbn" : "14K640",
+  "school_name" : "HARRY VAN ARSDALE HIGH SCHOOL "
+}
+, {
+  "dbn" : "14K685",
+  "number_of_test_takers" : "16",
+  "critical_reading_mean" : "375",
+  "school_name" : "El Puente Academy for Peace and Justice ",
+  "mathematics_mean" : "386",
+  "writing_mean" : "394"
+}
+, {
+  "dbn" : "14K923",
+  "school_name" : "YABC at Automative High School "
+}
+, {
+  "dbn" : "15K429",
+  "number_of_test_takers" : "50",
+  "critical_reading_mean" : "374",
+  "school_name" : "BROOKLYN SCHOOL GLOBAL STUDIES ",
+  "mathematics_mean" : "365",
+  "writing_mean" : "374"
+}
+, {
+  "dbn" : "15K448",
+  "number_of_test_takers" : "63",
+  "critical_reading_mean" : "385",
+  "school_name" : "Brooklyn Secondary Sch for Collaborative Studies ",
+  "mathematics_mean" : "380",
+  "writing_mean" : "375"
+}
+, {
+  "dbn" : "15K462",
+  "number_of_test_takers" : "50",
+  "critical_reading_mean" : "406",
+  "school_name" : "Secondary School for Law, Journalism and Research ",
+  "mathematics_mean" : "409",
+  "writing_mean" : "393"
+}
+, {
+  "dbn" : "15K463",
+  "number_of_test_takers" : "75",
+  "critical_reading_mean" : "393",
+  "school_name" : "SECONDARY SCHOOL JOURNALISM ",
+  "mathematics_mean" : "372",
+  "writing_mean" : "370"
+}
+, {
+  "dbn" : "15K464",
+  "number_of_test_takers" : "65",
+  "critical_reading_mean" : "373",
+  "school_name" : "SECONDARY SCHOOL FOR RESEARCH ",
+  "mathematics_mean" : "395",
+  "writing_mean" : "368"
+}
+, {
+  "dbn" : "15K497",
+  "number_of_test_takers" : "45",
+  "critical_reading_mean" : "402",
+  "school_name" : "SCHOOL INTERNATIONAL STUDIES ",
+  "mathematics_mean" : "414",
+  "writing_mean" : "382"
+}
+, {
+  "dbn" : "15K519",
+  "number_of_test_takers" : "44",
+  "critical_reading_mean" : "365",
+  "school_name" : "COBBE HILL SCHOOL AMERICAN STD ",
+  "mathematics_mean" : "358",
+  "writing_mean" : "360"
+}
+, {
+  "dbn" : "15K520",
+  "number_of_test_takers" : "9",
+  "critical_reading_mean" : "356",
+  "school_name" : "PACIFIC HIGH SCHOOL ",
+  "mathematics_mean" : "352",
+  "writing_mean" : "343"
+}
+, {
+  "dbn" : "15K529",
+  "number_of_test_takers" : "11",
+  "critical_reading_mean" : "363",
+  "school_name" : "WEST BROOKLYN COMMUNITY HIGH SCHOOL ",
+  "mathematics_mean" : "382",
+  "writing_mean" : "381"
+}
+, {
+  "dbn" : "15K530",
+  "number_of_test_takers" : "17",
+  "critical_reading_mean" : "370",
+  "school_name" : "METROPOLITAN CORPORATE ACADEMY ",
+  "mathematics_mean" : "348",
+  "writing_mean" : "348"
+}
+, {
+  "dbn" : "15K656",
+  "number_of_test_takers" : "71",
+  "critical_reading_mean" : "416",
+  "school_name" : "Brooklyn High School of the Arts ",
+  "mathematics_mean" : "417",
+  "writing_mean" : "425"
+}
+, {
+  "dbn" : "15K698",
+  "number_of_test_takers" : "17",
+  "critical_reading_mean" : "387",
+  "school_name" : "South Brooklyn Community High School ",
+  "mathematics_mean" : "371",
+  "writing_mean" : "368"
+}
+, {
+  "dbn" : "16K393",
+  "number_of_test_takers" : "29",
+  "critical_reading_mean" : "429",
+  "school_name" : "Frederick Douglass Academy IV Seconday School ",
+  "mathematics_mean" : "421",
+  "writing_mean" : "424"
+}
+, {
+  "dbn" : "16K455",
+  "number_of_test_takers" : "143",
+  "critical_reading_mean" : "369",
+  "school_name" : "BOYS AND GIRLS HIGH SCHOOL ",
+  "mathematics_mean" : "367",
+  "writing_mean" : "366"
+}
+, {
+  "dbn" : "16K498",
+  "number_of_test_takers" : "34",
+  "critical_reading_mean" : "367",
+  "school_name" : "Acorn High School for Social Justice ",
+  "mathematics_mean" : "364",
+  "writing_mean" : "364"
+}
+, {
+  "dbn" : "16K594",
+  "school_name" : "Gotham Professional Arts Academy "
+}
+, {
+  "dbn" : "17K382",
+  "number_of_test_takers" : "50",
+  "critical_reading_mean" : "401",
+  "school_name" : "ACADEMY FOR COLLEGE PREPARATION CAREER ",
+  "mathematics_mean" : "412",
+  "writing_mean" : "404"
+}
+, {
+  "dbn" : "17K408",
+  "number_of_test_takers" : "31",
+  "critical_reading_mean" : "400",
+  "school_name" : "ACADEMY OF HOSPITALITY AND TOURISM ",
+  "mathematics_mean" : "405",
+  "writing_mean" : "399"
+}
+, {
+  "dbn" : "17K440",
+  "number_of_test_takers" : "12",
+  "critical_reading_mean" : "388",
+  "school_name" : "Prospect Heights High School ",
+  "mathematics_mean" : "373",
+  "writing_mean" : "374"
+}
+, {
+  "dbn" : "17K467",
+  "school_name" : "YABC AT ERASMUS CAMPUS "
+}
+, {
+  "dbn" : "17K469",
+  "school_name" : "Campus School of the Humanities at Erasmus Hall "
+}
+, {
+  "dbn" : "17K470",
+  "school_name" : "George Wood Wingate High School "
+}
+, {
+  "dbn" : "17K489",
+  "number_of_test_takers" : "17",
+  "critical_reading_mean" : "381",
+  "school_name" : "W E B DUBOIS HIGH SCHOOL ",
+  "mathematics_mean" : "344",
+  "writing_mean" : "360"
+}
+, {
+  "dbn" : "17K524",
+  "number_of_test_takers" : "32",
+  "critical_reading_mean" : "302",
+  "school_name" : "International High School @Prospect Hgt ",
+  "mathematics_mean" : "339",
+  "writing_mean" : "325"
+}
+, {
+  "dbn" : "17K528",
+  "number_of_test_takers" : "81",
+  "critical_reading_mean" : "382",
+  "school_name" : "HIGH SCHOOL FOR GLOBAL CITIZENSHIP ",
+  "mathematics_mean" : "387",
+  "writing_mean" : "381"
+}
+, {
+  "dbn" : "17K531",
+  "number_of_test_takers" : "21",
+  "critical_reading_mean" : "357",
+  "school_name" : "SCHOOL FOR HUMAN RIGHTS ",
+  "mathematics_mean" : "391",
+  "writing_mean" : "343"
+}
+, {
+  "dbn" : "17K533",
+  "number_of_test_takers" : "25",
+  "critical_reading_mean" : "358",
+  "school_name" : "SCHOOL FOR DEMOCRACY AND LEADERSHIP ",
+  "mathematics_mean" : "378",
+  "writing_mean" : "372"
+}
+, {
+  "dbn" : "17K537",
+  "number_of_test_takers" : "71",
+  "critical_reading_mean" : "361",
+  "school_name" : "HS FOR YOUTH CMMTY DEVLPMT AT ERASMUS ",
+  "mathematics_mean" : "376",
+  "writing_mean" : "365"
+}
+, {
+  "dbn" : "17K539",
+  "number_of_test_takers" : "54",
+  "critical_reading_mean" : "371",
+  "school_name" : "HS FOR SERVICE AND LEARNING AT ERASMUS ",
+  "mathematics_mean" : "366",
+  "writing_mean" : "381"
+}
+, {
+  "dbn" : "17K543",
+  "number_of_test_takers" : "68",
+  "critical_reading_mean" : "445",
+  "school_name" : "SCIENCE TECH RESEARCH HS AT ERASMUS ",
+  "mathematics_mean" : "425",
+  "writing_mean" : "415"
+}
+, {
+  "dbn" : "17K544",
+  "number_of_test_takers" : "49",
+  "critical_reading_mean" : "392",
+  "school_name" : "INTERNATIONAL ARTS BUSINESS HS ",
+  "mathematics_mean" : "390",
+  "writing_mean" : "381"
+}
+, {
+  "dbn" : "17K546",
+  "number_of_test_takers" : "83",
+  "critical_reading_mean" : "412",
+  "school_name" : "HIGH SCHOOL FOR PUBLIC SERVICE ",
+  "mathematics_mean" : "427",
+  "writing_mean" : "420"
+}
+, {
+  "dbn" : "17K547",
+  "number_of_test_takers" : "45",
+  "critical_reading_mean" : "391",
+  "school_name" : "Brooklyn High School for Science and the Environ ",
+  "mathematics_mean" : "396",
+  "writing_mean" : "388"
+}
+, {
+  "dbn" : "17K548",
+  "number_of_test_takers" : "37",
+  "critical_reading_mean" : "385",
+  "school_name" : "BROOKLYN HS MUSIC AND THEATER ",
+  "mathematics_mean" : "351",
+  "writing_mean" : "381"
+}
+, {
+  "dbn" : "17K568",
+  "number_of_test_takers" : "20",
+  "critical_reading_mean" : "356",
+  "school_name" : "BROWNSVILLE ACADEMY HIGH SCHOOL ",
+  "mathematics_mean" : "358",
+  "writing_mean" : "366"
+}
+, {
+  "dbn" : "17K590",
+  "number_of_test_takers" : "113",
+  "critical_reading_mean" : "459",
+  "school_name" : "Medgar Evers College Preparatory High School ",
+  "mathematics_mean" : "482",
+  "writing_mean" : "452"
+}
+, {
+  "dbn" : "17K600",
+  "number_of_test_takers" : "282",
+  "critical_reading_mean" : "419",
+  "school_name" : "Clara Barton High School ",
+  "mathematics_mean" : "413",
+  "writing_mean" : "411"
+}
+, {
+  "dbn" : "17K625",
+  "number_of_test_takers" : "121",
+  "critical_reading_mean" : "355",
+  "school_name" : "Paul Robeson High School ",
+  "mathematics_mean" : "358",
+  "writing_mean" : "348"
+}
+, {
+  "dbn" : "18K415",
+  "number_of_test_takers" : "42",
+  "critical_reading_mean" : "328",
+  "school_name" : "SAMUEL J TILDEN HIGH SCHOOL ",
+  "mathematics_mean" : "341",
+  "writing_mean" : "338"
+}
+, {
+  "dbn" : "18K500",
+  "number_of_test_takers" : "128",
+  "critical_reading_mean" : "372",
+  "school_name" : "CANARSIE HIGH SCHOOL ",
+  "mathematics_mean" : "373",
+  "writing_mean" : "364"
+}
+, {
+  "dbn" : "18K501",
+  "school_name" : "YABC AT CANARSIE HIGH SCHOOL "
+}
+, {
+  "dbn" : "18K515",
+  "number_of_test_takers" : "29",
+  "critical_reading_mean" : "365",
+  "school_name" : "SOUTH SHORE HIGH SCHOOL ",
+  "mathematics_mean" : "352",
+  "writing_mean" : "336"
+}
+, {
+  "dbn" : "18K563",
+  "school_name" : "IT TAKES A VILLAGE ACADEMY "
+}
+, {
+  "dbn" : "18K566",
+  "school_name" : "BROOKLYN GENERATION SCHOOL "
+}
+, {
+  "dbn" : "18K567",
+  "school_name" : "BROOKLYN THEATRE ARTS HIGH SCHOOL "
+}
+, {
+  "dbn" : "18K569",
+  "school_name" : "Kurt Hahn Expeditionary Learning School "
+}
+, {
+  "dbn" : "18K576",
+  "school_name" : "VICTORY COLLEGIATE HIGH SCHOOL "
+}
+, {
+  "dbn" : "18K578",
+  "number_of_test_takers" : "20",
+  "critical_reading_mean" : "389",
+  "school_name" : "BROOKLYN BRIDGE ACADEMY OF S SHORE ED CO ",
+  "mathematics_mean" : "358",
+  "writing_mean" : "369"
+}
+, {
+  "dbn" : "18K589",
+  "school_name" : "ARTS & MEDIA PREPARATORY ACADEMY "
+}
+, {
+  "dbn" : "18K617",
+  "school_name" : "High School for Innovation in Advertising and Media "
+}
+, {
+  "dbn" : "18K629",
+  "school_name" : "Cultural Academy for the Arts and Sciences "
+}
+, {
+  "dbn" : "18K633",
+  "school_name" : "High School for Medical Professions "
+}
+, {
+  "dbn" : "18K635",
+  "number_of_test_takers" : "24",
+  "critical_reading_mean" : "361",
+  "school_name" : "OLYMPUS ACADEMY ",
+  "mathematics_mean" : "365",
+  "writing_mean" : "365"
+}
+, {
+  "dbn" : "18K642",
+  "school_name" : "Urban Action Academy "
+}
+, {
+  "dbn" : "18K673",
+  "school_name" : "East Brooklyn Community High School "
+}
+, {
+  "dbn" : "19K409",
+  "number_of_test_takers" : "61",
+  "critical_reading_mean" : "435",
+  "school_name" : "EAST NEW YORK FAMILY ACADEMY ",
+  "mathematics_mean" : "428",
+  "writing_mean" : "414"
+}
+, {
+  "dbn" : "19K420",
+  "number_of_test_takers" : "140",
+  "critical_reading_mean" : "353",
+  "school_name" : "FRANKLIN K LANE HIGH SCHOOL ",
+  "mathematics_mean" : "379",
+  "writing_mean" : "341"
+}
+, {
+  "dbn" : "19K431",
+  "school_name" : "YOUNG ADULT BOROUGH CTR, THOMAS JEFFERS "
+}
+, {
+  "dbn" : "19K435",
+  "school_name" : "THOMAS JEFFERSON HIGH SCHOOL "
+}
+, {
+  "dbn" : "19K502",
+  "number_of_test_takers" : "29",
+  "critical_reading_mean" : "376",
+  "school_name" : "FDNY HIGH SCH DOR FIRE & LIFE ",
+  "mathematics_mean" : "375",
+  "writing_mean" : "363"
+}
+, {
+  "dbn" : "19K504",
+  "number_of_test_takers" : "23",
+  "critical_reading_mean" : "369",
+  "school_name" : "HIGH SCHOOL FOR CIVIL RIGHTS ",
+  "mathematics_mean" : "372",
+  "writing_mean" : "380"
+}
+, {
+  "dbn" : "19K507",
+  "number_of_test_takers" : "49",
+  "critical_reading_mean" : "371",
+  "school_name" : "PERFORMING ARTS & TECH HIGH SCHOOL ",
+  "mathematics_mean" : "363",
+  "writing_mean" : "356"
+}
+, {
+  "dbn" : "19K510",
+  "number_of_test_takers" : "28",
+  "critical_reading_mean" : "370",
+  "school_name" : "World Acad for Total Community Health ",
+  "mathematics_mean" : "371",
+  "writing_mean" : "376"
+}
+, {
+  "dbn" : "19K583",
+  "school_name" : "Multicultural High School "
+}
+, {
+  "dbn" : "19K615",
+  "number_of_test_takers" : "184",
+  "critical_reading_mean" : "413",
+  "school_name" : "East New York High School of Transit Technology ",
+  "mathematics_mean" : "419",
+  "writing_mean" : "403"
+}
+, {
+  "dbn" : "19K618",
+  "school_name" : "Academy of Innovative Technology High School "
+}
+, {
+  "dbn" : "19K639",
+  "school_name" : "Brooklyn Lab School "
+}
+, {
+  "dbn" : "19K659",
+  "number_of_test_takers" : "50",
+  "critical_reading_mean" : "398",
+  "school_name" : "CYPRESS HILLS COLLEGIATE PREPARATORY SCH ",
+  "mathematics_mean" : "402",
+  "writing_mean" : "378"
+}
+, {
+  "dbn" : "19K660",
+  "number_of_test_takers" : "49",
+  "critical_reading_mean" : "355",
+  "school_name" : "William H Maxwell Voc High School ",
+  "mathematics_mean" : "367",
+  "writing_mean" : "355"
+}
+, {
+  "dbn" : "19K683",
+  "school_name" : "SCHOOL FOR CLASSICS "
+}
+, {
+  "dbn" : "20K445",
+  "number_of_test_takers" : "317",
+  "critical_reading_mean" : "409",
+  "school_name" : "NEW UTRECHT HIGH SCHOOL ",
+  "mathematics_mean" : "471",
+  "writing_mean" : "407"
+}
+, {
+  "dbn" : "20K485",
+  "number_of_test_takers" : "221",
+  "critical_reading_mean" : "450",
+  "school_name" : "High School of Telecommunication Arts ",
+  "mathematics_mean" : "471",
+  "writing_mean" : "440"
+}
+, {
+  "dbn" : "20K490",
+  "number_of_test_takers" : "581",
+  "critical_reading_mean" : "416",
+  "school_name" : "FORT HAMILTON HIGH SCHOOL ",
+  "mathematics_mean" : "486",
+  "writing_mean" : "409"
+}
+, {
+  "dbn" : "20K505",
+  "number_of_test_takers" : "385",
+  "critical_reading_mean" : "387",
+  "school_name" : "Franklin D Roosevelt High School ",
+  "mathematics_mean" : "492",
+  "writing_mean" : "377"
+}
+, {
+  "dbn" : "20K658",
+  "number_of_test_takers" : "33",
+  "critical_reading_mean" : "363",
+  "school_name" : "YABC at Franklin D. Roosevelt High School ",
+  "mathematics_mean" : "443",
+  "writing_mean" : "369"
+}
+, {
+  "dbn" : "21K337",
+  "number_of_test_takers" : "35",
+  "critical_reading_mean" : "355",
+  "school_name" : "International High School at LaFayette ",
+  "mathematics_mean" : "395",
+  "writing_mean" : "355"
+}
+, {
+  "dbn" : "21K344",
+  "number_of_test_takers" : "66",
+  "critical_reading_mean" : "422",
+  "school_name" : "Rachel Carson High School for Coastal Studies ",
+  "mathematics_mean" : "459",
+  "writing_mean" : "418"
+}
+, {
+  "dbn" : "21K348",
+  "number_of_test_takers" : "33",
+  "critical_reading_mean" : "370",
+  "school_name" : "HIGH SCHOOL OF SPORTS MANAGEMENT ",
+  "mathematics_mean" : "427",
+  "writing_mean" : "381"
+}
+, {
+  "dbn" : "21K400",
+  "number_of_test_takers" : "40",
+  "critical_reading_mean" : "327",
+  "school_name" : "LAFAYETTE HIGH SCHOOL ",
+  "mathematics_mean" : "367",
+  "writing_mean" : "315"
+}
+, {
+  "dbn" : "21K410",
+  "number_of_test_takers" : "379",
+  "critical_reading_mean" : "386",
+  "school_name" : "ABRAHAM LINCOLN HIGH SCHOOL ",
+  "mathematics_mean" : "429",
+  "writing_mean" : "385"
+}
+, {
+  "dbn" : "21K412/21K411",
+  "school_name" : "YABC AT ABRAHAM LINCOLN HIGH SCHOOL "
+}
+, {
+  "dbn" : "21K525",
+  "number_of_test_takers" : "686",
+  "critical_reading_mean" : "472",
+  "school_name" : "EDWARD R MURROW HIGH SCHOOL ",
+  "mathematics_mean" : "503",
+  "writing_mean" : "468"
+}
+, {
+  "dbn" : "21K540",
+  "number_of_test_takers" : "349",
+  "critical_reading_mean" : "414",
+  "school_name" : "JOHN DEWEY HIGH SCHOOL ",
+  "mathematics_mean" : "465",
+  "writing_mean" : "396"
+}
+, {
+  "dbn" : "21K559",
+  "school_name" : "LIFE ACADEMY HIGH SCHOOL FOR FILM AND MUS "
+}
+, {
+  "dbn" : "21K572",
+  "school_name" : "Expeditionary Learning Sch for Community Leaders "
+}
+, {
+  "dbn" : "21K620",
+  "number_of_test_takers" : "56",
+  "critical_reading_mean" : "385",
+  "school_name" : "William E. Grady Vocational Technical High School ",
+  "mathematics_mean" : "393",
+  "writing_mean" : "361"
+}
+, {
+  "dbn" : "21K690",
+  "number_of_test_takers" : "86",
+  "critical_reading_mean" : "426",
+  "school_name" : "BROOKLYN STUDIO SECONDARY SCH ",
+  "mathematics_mean" : "419",
+  "writing_mean" : "418"
+}
+, {
+  "dbn" : "21K728",
+  "number_of_test_takers" : "13",
+  "critical_reading_mean" : "402",
+  "school_name" : "Liberation Diploma Plus High School ",
+  "mathematics_mean" : "351",
+  "writing_mean" : "380"
+}
+, {
+  "dbn" : "22K405",
+  "number_of_test_takers" : "725",
+  "critical_reading_mean" : "493",
+  "school_name" : "Midwood High School at Brooklyn College ",
+  "mathematics_mean" : "543",
+  "writing_mean" : "491"
+}
+, {
+  "dbn" : "22K425",
+  "number_of_test_takers" : "641",
+  "critical_reading_mean" : "449",
+  "school_name" : "JAMES MADISON HIGH SCHOOL ",
+  "mathematics_mean" : "478",
+  "writing_mean" : "445"
+}
+, {
+  "dbn" : "22K495",
+  "number_of_test_takers" : "192",
+  "critical_reading_mean" : "380",
+  "school_name" : "SHEEPSHEAD BAY HIGH SCHOOL ",
+  "mathematics_mean" : "416",
+  "writing_mean" : "380"
+}
+, {
+  "dbn" : "22K535",
+  "number_of_test_takers" : "239",
+  "critical_reading_mean" : "543",
+  "school_name" : "LEON M GOLDSTEIN HIGH SCHOOL ",
+  "mathematics_mean" : "578",
+  "writing_mean" : "559"
+}
+, {
+  "dbn" : "22K555",
+  "number_of_test_takers" : "109",
+  "critical_reading_mean" : "459",
+  "school_name" : "Brooklyn College Academy High School ",
+  "mathematics_mean" : "460",
+  "writing_mean" : "446"
+}
+, {
+  "dbn" : "23K493",
+  "number_of_test_takers" : "37",
+  "critical_reading_mean" : "394",
+  "school_name" : "BROOKLYN COLLEGIATE ",
+  "mathematics_mean" : "372",
+  "writing_mean" : "375"
+}
+, {
+  "dbn" : "23K514",
+  "number_of_test_takers" : "50",
+  "critical_reading_mean" : "416",
+  "school_name" : "Frederick Douglass Academy VII High School ",
+  "mathematics_mean" : "396",
+  "writing_mean" : "414"
+}
+, {
+  "dbn" : "23K643",
+  "number_of_test_takers" : "18",
+  "critical_reading_mean" : "347",
+  "school_name" : "Brooklyn Democracy Academy ",
+  "mathematics_mean" : "371",
+  "writing_mean" : "323"
+}
+, {
+  "dbn" : "23K645",
+  "number_of_test_takers" : "24",
+  "critical_reading_mean" : "376",
+  "school_name" : "EBC High School for Public Service - East New York ",
+  "mathematics_mean" : "358",
+  "writing_mean" : "368"
+}
+, {
+  "dbn" : "23K646",
+  "number_of_test_takers" : "35",
+  "critical_reading_mean" : "349",
+  "school_name" : "ASPIRATIONS DIPLOMA PLUS HIGH SCHOOL ",
+  "mathematics_mean" : "329",
+  "writing_mean" : "341"
+}
+, {
+  "dbn" : "23K647",
+  "number_of_test_takers" : "12",
+  "critical_reading_mean" : "385",
+  "school_name" : "METROPOLITAN DIPLOMA PLUS HIGH SCHOOL ",
+  "mathematics_mean" : "378",
+  "writing_mean" : "391"
+}
+, {
+  "dbn" : "23K697",
+  "number_of_test_takers" : "59",
+  "critical_reading_mean" : "396",
+  "school_name" : "TEACHERS PREPARATORY SCHOOL ",
+  "mathematics_mean" : "389",
+  "writing_mean" : "389"
+}
+, {
+  "dbn" : "24Q264",
+  "number_of_test_takers" : "65",
+  "critical_reading_mean" : "407",
+  "school_name" : "ACADEMY OF FINANCE AND ENTERPRISE ",
+  "mathematics_mean" : "432",
+  "writing_mean" : "417"
+}
+, {
+  "dbn" : "24Q267",
+  "number_of_test_takers" : "67",
+  "critical_reading_mean" : "411",
+  "school_name" : "High School of Applied Communication ",
+  "mathematics_mean" : "420",
+  "writing_mean" : "407"
+}
+, {
+  "dbn" : "24Q293",
+  "school_name" : "Civic Leadership Academy "
+}
+, {
+  "dbn" : "24Q296",
+  "school_name" : "Pan American International High School "
+}
+, {
+  "dbn" : "24Q299",
+  "number_of_test_takers" : "42",
+  "critical_reading_mean" : "545",
+  "school_name" : "BARD HIGH SCHOOL EARLY COLLEGE II ",
+  "mathematics_mean" : "548",
+  "writing_mean" : "541"
+}
+, {
+  "dbn" : "24Q455",
+  "number_of_test_takers" : "251",
+  "critical_reading_mean" : "379",
+  "school_name" : "NEWTOWN HIGH SCHOOL ",
+  "mathematics_mean" : "427",
+  "writing_mean" : "372"
+}
+, {
+  "dbn" : "24Q485",
+  "number_of_test_takers" : "269",
+  "critical_reading_mean" : "398",
+  "school_name" : "GROVER CLEVELAND HIGH SCHOOL ",
+  "mathematics_mean" : "431",
+  "writing_mean" : "391"
+}
+, {
+  "dbn" : "24Q520",
+  "number_of_test_takers" : "32",
+  "critical_reading_mean" : "386",
+  "school_name" : "MIDDLE COLLEGE HIGH SCHOOL ",
+  "mathematics_mean" : "402",
+  "writing_mean" : "373"
+}
+, {
+  "dbn" : "24Q530",
+  "number_of_test_takers" : "75",
+  "critical_reading_mean" : "355",
+  "school_name" : "INTERNATL HS@LA GUARDIA COMM C ",
+  "mathematics_mean" : "428",
+  "writing_mean" : "359"
+}
+, {
+  "dbn" : "24Q550",
+  "number_of_test_takers" : "127",
+  "critical_reading_mean" : "363",
+  "school_name" : "HIGH SCHOOL FOR ARTS/BUSINESS ",
+  "mathematics_mean" : "372",
+  "writing_mean" : "363"
+}
+, {
+  "dbn" : "24Q560",
+  "number_of_test_takers" : "49",
+  "critical_reading_mean" : "420",
+  "school_name" : "ROBERT F WAGNER JR SECONDARY ",
+  "mathematics_mean" : "440",
+  "writing_mean" : "421"
+}
+, {
+  "dbn" : "24Q600",
+  "number_of_test_takers" : "130",
+  "critical_reading_mean" : "415",
+  "school_name" : "Queens Vocational & Tech High School ",
+  "mathematics_mean" : "428",
+  "writing_mean" : "401"
+}
+, {
+  "dbn" : "24Q610",
+  "number_of_test_takers" : "289",
+  "critical_reading_mean" : "444",
+  "school_name" : "Aviation Career & Technical Education High School ",
+  "mathematics_mean" : "494",
+  "writing_mean" : "427"
+}
+, {
+  "dbn" : "24Q744",
+  "number_of_test_takers" : "7",
+  "critical_reading_mean" : "416",
+  "school_name" : "VOYAGES PREPARATORY HIGH SCHOOL ",
+  "mathematics_mean" : "413",
+  "writing_mean" : "364"
+}
+, {
+  "dbn" : "25Q252",
+  "school_name" : "Queens School of Inquiry "
+}
+, {
+  "dbn" : "25Q263",
+  "number_of_test_takers" : "57",
+  "critical_reading_mean" : "325",
+  "school_name" : "FLUSHING INTERNATIONAL HIGH SCHOOL ",
+  "mathematics_mean" : "415",
+  "writing_mean" : "311"
+}
+, {
+  "dbn" : "25Q281",
+  "number_of_test_takers" : "50",
+  "critical_reading_mean" : "438",
+  "school_name" : "EAST WEST SCHOOL OF INTERNATIONAL STUDIE ",
+  "mathematics_mean" : "485",
+  "writing_mean" : "442"
+}
+, {
+  "dbn" : "25Q285",
+  "number_of_test_takers" : "56",
+  "critical_reading_mean" : "429",
+  "school_name" : "WORLD JOURNALISM PREPARATORY SCHOOL ",
+  "mathematics_mean" : "425",
+  "writing_mean" : "421"
+}
+, {
+  "dbn" : "25Q425",
+  "number_of_test_takers" : "302",
+  "critical_reading_mean" : "391",
+  "school_name" : "JOHN BOWNE HIGH SCHOOL ",
+  "mathematics_mean" : "423",
+  "writing_mean" : "389"
+}
+, {
+  "dbn" : "25Q460",
+  "number_of_test_takers" : "278",
+  "critical_reading_mean" : "372",
+  "school_name" : "FLUSHING HIGH SCHOOL ",
+  "mathematics_mean" : "398",
+  "writing_mean" : "366"
+}
+, {
+  "dbn" : "25Q467",
+  "school_name" : "YABC AT FLUSHING HIGH SCHOOL "
+}
+, {
+  "dbn" : "25Q525",
+  "number_of_test_takers" : "273",
+  "critical_reading_mean" : "637",
+  "school_name" : "Townsend Harris High School at Queens College ",
+  "mathematics_mean" : "644",
+  "writing_mean" : "642"
+}
+, {
+  "dbn" : "25Q540",
+  "number_of_test_takers" : "22",
+  "critical_reading_mean" : "400",
+  "school_name" : "QUEENS ACADEMY ",
+  "mathematics_mean" : "395",
+  "writing_mean" : "391"
+}
+, {
+  "dbn" : "25Q670",
+  "number_of_test_takers" : "61",
+  "critical_reading_mean" : "449",
+  "school_name" : "Robert F Kennedy Community High School ",
+  "mathematics_mean" : "471",
+  "writing_mean" : "462"
+}
+, {
+  "dbn" : "25Q792",
+  "number_of_test_takers" : "22",
+  "critical_reading_mean" : "434",
+  "school_name" : "North Queens Community High School ",
+  "mathematics_mean" : "422",
+  "writing_mean" : "422"
+}
+, {
+  "dbn" : "26Q415",
+  "number_of_test_takers" : "697",
+  "critical_reading_mean" : "486",
+  "school_name" : "BENJAMIN CARDOZO HIGH SCHOOL ",
+  "mathematics_mean" : "551",
+  "writing_mean" : "492"
+}
+, {
+  "dbn" : "26Q430",
+  "number_of_test_takers" : "808",
+  "critical_reading_mean" : "457",
+  "school_name" : "FRANCIS LEWIS HIGH SCHOOL ",
+  "mathematics_mean" : "530",
+  "writing_mean" : "454"
+}
+, {
+  "dbn" : "26Q435",
+  "number_of_test_takers" : "343",
+  "critical_reading_mean" : "402",
+  "school_name" : "MARTIN VAN BUREN HIGH SCHOOL ",
+  "mathematics_mean" : "411",
+  "writing_mean" : "398"
+}
+, {
+  "dbn" : "26Q495",
+  "number_of_test_takers" : "732",
+  "critical_reading_mean" : "472",
+  "school_name" : "BAYSIDE HIGH SCHOOL ",
+  "mathematics_mean" : "531",
+  "writing_mean" : "467"
+}
+, {
+  "dbn" : "26Q566",
+  "number_of_test_takers" : "144",
+  "critical_reading_mean" : "438",
+  "school_name" : "Queens High School-Teaching Liberal Arts Sciences ",
+  "mathematics_mean" : "455",
+  "writing_mean" : "433"
+}
+, {
+  "dbn" : "27Q260",
+  "number_of_test_takers" : "65",
+  "critical_reading_mean" : "393",
+  "school_name" : "FREDERICK DOUGLASS ACADEMY VI ",
+  "mathematics_mean" : "390",
+  "writing_mean" : "387"
+}
+, {
+  "dbn" : "27Q262",
+  "number_of_test_takers" : "63",
+  "critical_reading_mean" : "455",
+  "school_name" : "CHANNEL VIEW SCHOOL FOR RESEARCH ",
+  "mathematics_mean" : "423",
+  "writing_mean" : "420"
+}
+, {
+  "dbn" : "27Q302",
+  "school_name" : "Queens High School for Information, Research, and Te "
+}
+, {
+  "dbn" : "27Q308",
+  "school_name" : "Robert H. Goddard High School for Communication Art "
+}
+, {
+  "dbn" : "27Q309",
+  "school_name" : "ACADEMY OF MEDICAL TECHNOLOGY "
+}
+, {
+  "dbn" : "27Q323",
+  "school_name" : "Region Five Scholars' Academy "
+}
+, {
+  "dbn" : "27Q400",
+  "number_of_test_takers" : "102",
+  "critical_reading_mean" : "377",
+  "school_name" : "AUGUST MARTIN HIGH SCHOOL ",
+  "mathematics_mean" : "372",
+  "writing_mean" : "362"
+}
+, {
+  "dbn" : "27Q410",
+  "number_of_test_takers" : "114",
+  "critical_reading_mean" : "393",
+  "school_name" : "BEACH CHANNEL HIGH SCHOOL ",
+  "mathematics_mean" : "390",
+  "writing_mean" : "380"
+}
+, {
+  "dbn" : "27Q465",
+  "number_of_test_takers" : "31",
+  "critical_reading_mean" : "350",
+  "school_name" : "FAR ROCKAWAY HIGH SCHOOL ",
+  "mathematics_mean" : "369",
+  "writing_mean" : "360"
+}
+, {
+  "dbn" : "27Q475",
+  "number_of_test_takers" : "397",
+  "critical_reading_mean" : "380",
+  "school_name" : "RICHMOND HILL HIGH SCHOOL ",
+  "mathematics_mean" : "401",
+  "writing_mean" : "380"
+}
+, {
+  "dbn" : "27Q480",
+  "number_of_test_takers" : "302",
+  "critical_reading_mean" : "399",
+  "school_name" : "JOHN ADAMS HIGH SCHOOL ",
+  "mathematics_mean" : "424",
+  "writing_mean" : "404"
+}
+, {
+  "dbn" : "27Q487/27Q481",
+  "school_name" : "YABC AT JOHN ADAMS HIGH SCHOOL "
+}
+, {
+  "dbn" : "27Q650",
+  "number_of_test_takers" : "87",
+  "critical_reading_mean" : "421",
+  "school_name" : "HS for Construction Trades, Engineering and Arch ",
+  "mathematics_mean" : "464",
+  "writing_mean" : "424"
+}
+, {
+  "dbn" : "28Q310",
+  "school_name" : "Queens Collegiate: A College Board School "
+}
+, {
+  "dbn" : "28Q338",
+  "number_of_test_takers" : "22",
+  "critical_reading_mean" : "346",
+  "school_name" : "SATELLITE ACADEMY ",
+  "mathematics_mean" : "351",
+  "writing_mean" : "338"
+}
+, {
+  "dbn" : "28Q440",
+  "number_of_test_takers" : "627",
+  "critical_reading_mean" : "468",
+  "school_name" : "FOREST HILLS HIGH SCHOOL ",
+  "mathematics_mean" : "491",
+  "writing_mean" : "462"
+}
+, {
+  "dbn" : "28Q470",
+  "number_of_test_takers" : "153",
+  "critical_reading_mean" : "393",
+  "school_name" : "JAMAICA HIGH SCHOOL ",
+  "mathematics_mean" : "400",
+  "writing_mean" : "391"
+}
+, {
+  "dbn" : "28Q505",
+  "number_of_test_takers" : "498",
+  "critical_reading_mean" : "385",
+  "school_name" : "HILLCREST HIGH SCHOOL ",
+  "mathematics_mean" : "400",
+  "writing_mean" : "385"
+}
+, {
+  "dbn" : "28Q620",
+  "number_of_test_takers" : "529",
+  "critical_reading_mean" : "455",
+  "school_name" : "Thomas Edison Vocational-Technical High School ",
+  "mathematics_mean" : "490",
+  "writing_mean" : "439"
+}
+, {
+  "dbn" : "28Q680",
+  "number_of_test_takers" : "89",
+  "critical_reading_mean" : "525",
+  "school_name" : "Queens Gateway to Health Sciences Secondary Schoo ",
+  "mathematics_mean" : "532",
+  "writing_mean" : "515"
+}
+, {
+  "dbn" : "28Q687",
+  "number_of_test_takers" : "99",
+  "critical_reading_mean" : "613",
+  "school_name" : "QUEENS HS FOR SCIENCE YORK COL ",
+  "mathematics_mean" : "650",
+  "writing_mean" : "612"
+}
+, {
+  "dbn" : "28Q690",
+  "number_of_test_takers" : "62",
+  "critical_reading_mean" : "408",
+  "school_name" : "High School For Law Enforcement And Public Safety ",
+  "mathematics_mean" : "429",
+  "writing_mean" : "412"
+}
+, {
+  "dbn" : "28Q896",
+  "school_name" : "Young Women's Leadership High School "
+}
+, {
+  "dbn" : "29Q248",
+  "number_of_test_takers" : "46",
+  "critical_reading_mean" : "372",
+  "school_name" : "QUEENS PREPARATORY ACADEMY ",
+  "mathematics_mean" : "388",
+  "writing_mean" : "381"
+}
+, {
+  "dbn" : "29Q259",
+  "number_of_test_takers" : "42",
+  "critical_reading_mean" : "406",
+  "school_name" : "PATHWAYS COLLEGE PREPARATORY SCHOOL ",
+  "mathematics_mean" : "415",
+  "writing_mean" : "394"
+}
+, {
+  "dbn" : "29Q265",
+  "number_of_test_takers" : "55",
+  "critical_reading_mean" : "394",
+  "school_name" : "EXCELSIOR PREPARATORY HIGH SCHOOL ",
+  "mathematics_mean" : "358",
+  "writing_mean" : "388"
+}
+, {
+  "dbn" : "29Q272",
+  "number_of_test_takers" : "68",
+  "critical_reading_mean" : "425",
+  "school_name" : "GEORGE WASHINGTON CARVER HS ",
+  "mathematics_mean" : "435",
+  "writing_mean" : "418"
+}
+, {
+  "dbn" : "29Q283",
+  "number_of_test_takers" : "18",
+  "critical_reading_mean" : "413",
+  "school_name" : "PREPARATORY ACADEMY FOR WRITERS ",
+  "mathematics_mean" : "402",
+  "writing_mean" : "388"
+}
+, {
+  "dbn" : "29Q420",
+  "number_of_test_takers" : "20",
+  "critical_reading_mean" : "429",
+  "school_name" : "Springfield Gardens High School ",
+  "mathematics_mean" : "402",
+  "writing_mean" : "403"
+}
+, {
+  "dbn" : "29Q492",
+  "number_of_test_takers" : "59",
+  "critical_reading_mean" : "405",
+  "school_name" : "MATH SCIENCE RESEARCH TECH MAG ",
+  "mathematics_mean" : "430",
+  "writing_mean" : "405"
+}
+, {
+  "dbn" : "29Q494",
+  "number_of_test_takers" : "60",
+  "critical_reading_mean" : "406",
+  "school_name" : "LAW GOVERNMENT SERVICE MAGNET ",
+  "mathematics_mean" : "412",
+  "writing_mean" : "391"
+}
+, {
+  "dbn" : "29Q496",
+  "number_of_test_takers" : "52",
+  "critical_reading_mean" : "388",
+  "school_name" : "BUSINESS COMPUTER APPLICATION ",
+  "mathematics_mean" : "389",
+  "writing_mean" : "380"
+}
+, {
+  "dbn" : "29Q498",
+  "number_of_test_takers" : "45",
+  "critical_reading_mean" : "383",
+  "school_name" : "Humanities and Arts Magnet High School ",
+  "mathematics_mean" : "371",
+  "writing_mean" : "370"
+}
+, {
+  "dbn" : "30Q301",
+  "school_name" : "Academy for Careers in Television and Film "
+}
+, {
+  "dbn" : "30Q445",
+  "number_of_test_takers" : "322",
+  "critical_reading_mean" : "405",
+  "school_name" : "WILLIAM C BRYANT HIGH SCHOOL ",
+  "mathematics_mean" : "456",
+  "writing_mean" : "408"
+}
+, {
+  "dbn" : "30Q450",
+  "number_of_test_takers" : "296",
+  "critical_reading_mean" : "418",
+  "school_name" : "LONG ISLAND CITY HIGH SCHOOL ",
+  "mathematics_mean" : "434",
+  "writing_mean" : "408"
+}
+, {
+  "dbn" : "30Q501",
+  "number_of_test_takers" : "153",
+  "critical_reading_mean" : "506",
+  "school_name" : "Frank Sinatra School of the Arts ",
+  "mathematics_mean" : "495",
+  "writing_mean" : "499"
+}
+, {
+  "dbn" : "30Q502",
+  "number_of_test_takers" : "140",
+  "critical_reading_mean" : "440",
+  "school_name" : "INFORMATION TECHNOLOGY HIGH SCHOOL ",
+  "mathematics_mean" : "452",
+  "writing_mean" : "424"
+}
+, {
+  "dbn" : "30Q555",
+  "number_of_test_takers" : "147",
+  "critical_reading_mean" : "343",
+  "school_name" : "NEWCOMERS HIGH SCHOOL ",
+  "mathematics_mean" : "447",
+  "writing_mean" : "346"
+}
+, {
+  "dbn" : "30Q575",
+  "number_of_test_takers" : "120",
+  "critical_reading_mean" : "502",
+  "school_name" : "ACADEMY OF AMERICAN STUDIES ",
+  "mathematics_mean" : "505",
+  "writing_mean" : "515"
+}
+, {
+  "dbn" : "30Q580",
+  "number_of_test_takers" : "64",
+  "critical_reading_mean" : "560",
+  "school_name" : "BACCALAUREATE SCH GLOBAL EDUC ",
+  "mathematics_mean" : "587",
+  "writing_mean" : "570"
+}
+, {
+  "dbn" : "31R064",
+  "school_name" : "Gaynor McCown Expeditionary Learning School "
+}
+, {
+  "dbn" : "31R080",
+  "number_of_test_takers" : "86",
+  "critical_reading_mean" : "508",
+  "school_name" : "MICHAEL J PETRIDES SCHOOL ",
+  "mathematics_mean" : "523",
+  "writing_mean" : "502"
+}
+, {
+  "dbn" : "31R440",
+  "number_of_test_takers" : "282",
+  "critical_reading_mean" : "431",
+  "school_name" : "NEW DORP HIGH SCHOOL ",
+  "mathematics_mean" : "446",
+  "writing_mean" : "434"
+}
+, {
+  "dbn" : "31R445",
+  "number_of_test_takers" : "237",
+  "critical_reading_mean" : "437",
+  "school_name" : "PORT RICHMOND HIGH SCHOOL ",
+  "mathematics_mean" : "442",
+  "writing_mean" : "425"
+}
+, {
+  "dbn" : "31R450",
+  "number_of_test_takers" : "373",
+  "critical_reading_mean" : "439",
+  "school_name" : "CURTIS HIGH SCHOOL ",
+  "mathematics_mean" : "441",
+  "writing_mean" : "430"
+}
+, {
+  "dbn" : "31R455",
+  "number_of_test_takers" : "698",
+  "critical_reading_mean" : "459",
+  "school_name" : "TOTTENVILLE HIGH SCHOOL ",
+  "mathematics_mean" : "482",
+  "writing_mean" : "467"
+}
+, {
+  "dbn" : "31R460",
+  "number_of_test_takers" : "531",
+  "critical_reading_mean" : "463",
+  "school_name" : "SUSAN E WAGNER HIGH SCHOOL ",
+  "mathematics_mean" : "482",
+  "writing_mean" : "457"
+}
+, {
+  "dbn" : "31R470",
+  "number_of_test_takers" : "10",
+  "critical_reading_mean" : "474",
+  "school_name" : "CONCORD HIGH SCHOOL ",
+  "mathematics_mean" : "431",
+  "writing_mean" : "397"
+}
+, {
+  "dbn" : "31R600",
+  "number_of_test_takers" : "48",
+  "critical_reading_mean" : "411",
+  "school_name" : "RALPH MCKEE VOC-TECH HIGH SCH ",
+  "mathematics_mean" : "429",
+  "writing_mean" : "386"
+}
+, {
+  "dbn" : "31R605",
+  "number_of_test_takers" : "287",
+  "critical_reading_mean" : "638",
+  "school_name" : "STATEN ISLAND TECHNICAL HIGH SCHOOL ",
+  "mathematics_mean" : "673",
+  "writing_mean" : "617"
+}
+, {
+  "dbn" : "32K403",
+  "number_of_test_takers" : "36",
+  "critical_reading_mean" : "382",
+  "school_name" : "ACADEMY OF ENVIRONMENTAL LEADERSHIP ",
+  "mathematics_mean" : "369",
+  "writing_mean" : "374"
+}
+, {
+  "dbn" : "32K480",
+  "school_name" : "Bushwick High School "
+}
+, {
+  "dbn" : "32K545",
+  "number_of_test_takers" : "82",
+  "critical_reading_mean" : "389",
+  "school_name" : "EBC High School for Public Service - Bushwick ",
+  "mathematics_mean" : "390",
+  "writing_mean" : "376"
+}
+, {
+  "dbn" : "32K549",
+  "number_of_test_takers" : "72",
+  "critical_reading_mean" : "363",
+  "school_name" : "BUSHWICK HS FOR SOCIAL JUSTICE ",
+  "mathematics_mean" : "364",
+  "writing_mean" : "358"
+}
+, {
+  "dbn" : "32K552",
+  "number_of_test_takers" : "49",
+  "critical_reading_mean" : "355",
+  "school_name" : "Academy of Urban Planning ",
+  "mathematics_mean" : "361",
+  "writing_mean" : "353"
+}
+, {
+  "dbn" : "32K554",
+  "number_of_test_takers" : "29",
+  "critical_reading_mean" : "394",
+  "school_name" : "ALL CITY LEADERSHIP SECONDARY ",
+  "mathematics_mean" : "420",
+  "writing_mean" : "395"
+}
+, {
+  "dbn" : "32K556",
+  "number_of_test_takers" : "30",
+  "critical_reading_mean" : "357",
+  "school_name" : "Bushwick Leaders High School for Academic Excel ",
+  "mathematics_mean" : "345",
+  "writing_mean" : "351"
+}
+, {
+  "dbn" : "72X470",
+  "school_name" : "South Bronx High School "
+}
+, {
+  "dbn" : "75K371",
+  "school_name" : "LILLIAN L RASHKIS HS P371K "
+}
+, {
+  "dbn" : "75M035",
+  "school_name" : "MANHATTAN HIGH SCHOOL - P35M "
+}
+, {
+  "dbn" : "75Q004",
+  "school_name" : "P4Q SCHOOL (@ 179) "
+}
+, {
+  "dbn" : "75Q256",
+  "school_name" : "P256 QUEENS SCHOOL @ SAINT MARY'S "
+}
+, {
+  "dbn" : "75R025",
+  "number_of_test_takers" : "10",
+  "critical_reading_mean" : "407",
+  "school_name" : "South Richmond High School ",
+  "mathematics_mean" : "421",
+  "writing_mean" : "400"
+}
+, {
+  "dbn" : "75X012",
+  "school_name" : "PS12X LEWIS AND CLARK SCHOOL "
+}
+, {
+  "dbn" : "75X754",
+  "school_name" : "P754 X - Jeffrey M. Rapport School for Career Devt "
+}
+, {
+  "dbn" : "76K460",
+  "number_of_test_takers" : "9",
+  "critical_reading_mean" : "390",
+  "school_name" : "John Jay High School ",
+  "mathematics_mean" : "381",
+  "writing_mean" : "398"
+}
+, {
+  "dbn" : "79X490",
+  "number_of_test_takers" : "7",
+  "critical_reading_mean" : "404",
+  "school_name" : "PHOENIX SCHOOL ",
+  "mathematics_mean" : "423",
+  "writing_mean" : "416"
+}
+ ]

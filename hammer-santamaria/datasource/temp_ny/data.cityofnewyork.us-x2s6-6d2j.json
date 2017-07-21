@@ -1,0 +1,285 @@
+[ {
+  "site" : "NRR2CM",
+  "mean_l_1" : "0",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Upstream Reservoir Keypoints"
+}
+, {
+  "site" : "PRR2CM",
+  "mean_l_1" : "0",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Upstream Reservoir Keypoints"
+}
+, {
+  "site" : "RDRRCM",
+  "mean_l_1" : "0",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Upstream Reservoir Keypoints"
+}
+, {
+  "site" : "SRR2CM",
+  "mean_l_1" : "0.007",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Upstream Reservoir Keypoints"
+}
+, {
+  "site" : "WDTO",
+  "mean_l_1" : "0",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Upstream Reservoir Keypoints"
+}
+, {
+  "site" : "BG9  ",
+  "mean_l_1" : "0",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Kensico Perennial Streams"
+}
+, {
+  "site" : "E10  ",
+  "mean_l_1" : "0",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Kensico Perennial Streams"
+}
+, {
+  "site" : "E11  ",
+  "mean_l_1" : "0",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Kensico Perennial Streams"
+}
+, {
+  "site" : "E9 ",
+  "mean_l_1" : "0.007",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Kensico Perennial Streams"
+}
+, {
+  "site" : "MB-1  ",
+  "mean_l_1" : "0",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Kensico Perennial Streams"
+}
+, {
+  "site" : "N12  ",
+  "mean_l_1" : "0.003",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Kensico Perennial Streams"
+}
+, {
+  "site" : "N5-1  ",
+  "mean_l_1" : "0",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Kensico Perennial Streams"
+}
+, {
+  "site" : "WHIP  ",
+  "mean_l_1" : "0.003",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Kensico Perennial Streams"
+}
+, {
+  "site" : "ABCG   ",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "CDG1   ",
+  "mean_l_1" : "0.023",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "PMSB   ",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "PROXG   ",
+  "mean_l_1" : "0.051",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "S4   ",
+  "mean_l_1" : "0.007",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "S5i   ",
+  "mean_l_1" : "0.003",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "S7i   ",
+  "mean_l_1" : "0.003",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "S7iB   ",
+  "mean_l_1" : "0.013",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "S7iE   ",
+  "mean_l_1" : "0.005",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "S7iD1  ",
+  "mean_l_1" : "0.03",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "WDBN   ",
+  "mean_l_1" : "0.007",
+  "pathogen" : "Cryptosporidium ",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "NRR2CM",
+  "mean_l_1" : "0.172",
+  "pathogen" : "Giardia",
+  "objective" : "Upstream Reservoir Keypoints"
+}
+, {
+  "site" : "PRR2CM",
+  "mean_l_1" : "0.003",
+  "pathogen" : "Giardia",
+  "objective" : "Upstream Reservoir Keypoints"
+}
+, {
+  "site" : "RDRRCM",
+  "mean_l_1" : "0.018",
+  "pathogen" : "Giardia",
+  "objective" : "Upstream Reservoir Keypoints"
+}
+, {
+  "site" : "SRR2CM",
+  "mean_l_1" : "0.183",
+  "pathogen" : "Giardia",
+  "objective" : "Upstream Reservoir Keypoints"
+}
+, {
+  "site" : "WDTO",
+  "mean_l_1" : "0.012",
+  "pathogen" : "Giardia",
+  "objective" : "Upstream Reservoir Keypoints"
+}
+, {
+  "site" : "BG9  ",
+  "mean_l_1" : "0.182",
+  "pathogen" : "Giardia",
+  "objective" : "Kensico Perennial Streams"
+}
+, {
+  "site" : "E10  ",
+  "mean_l_1" : "0.087",
+  "pathogen" : "Giardia",
+  "objective" : "Kensico Perennial Streams"
+}
+, {
+  "site" : "E11  ",
+  "mean_l_1" : "0.649",
+  "pathogen" : "Giardia",
+  "objective" : "Kensico Perennial Streams"
+}
+, {
+  "site" : "E9  ",
+  "mean_l_1" : "1.396",
+  "pathogen" : "Giardia",
+  "objective" : "Kensico Perennial Streams"
+}
+, {
+  "site" : "MB-1  ",
+  "mean_l_1" : "0.227",
+  "pathogen" : "Giardia",
+  "objective" : "Kensico Perennial Streams"
+}
+, {
+  "site" : "N12  ",
+  "mean_l_1" : "0",
+  "pathogen" : "Giardia",
+  "objective" : "Kensico Perennial Streams"
+}
+, {
+  "site" : "N5-1  ",
+  "mean_l_1" : "0.581",
+  "pathogen" : "Giardia",
+  "objective" : "Kensico Perennial Streams"
+}
+, {
+  "site" : "WHIP  ",
+  "mean_l_1" : "0.14",
+  "pathogen" : "Giardia",
+  "objective" : "Kensico Perennial Streams"
+}
+, {
+  "site" : "ABCG   ",
+  "pathogen" : "Giardia",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "CDG1   ",
+  "mean_l_1" : "0.623",
+  "pathogen" : "Giardia",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "PMSB   ",
+  "pathogen" : "Giardia",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "PROXG   ",
+  "mean_l_1" : "1.795",
+  "pathogen" : "Giardia",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "S4   ",
+  "mean_l_1" : "0.814",
+  "pathogen" : "Giardia",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "S5i   ",
+  "mean_l_1" : "0.665",
+  "pathogen" : "Giardia",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "S7i   ",
+  "mean_l_1" : "0.641",
+  "pathogen" : "Giardia",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "S7iB   ",
+  "mean_l_1" : "0.467",
+  "pathogen" : "Giardia",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "S7iE   ",
+  "mean_l_1" : "0.075",
+  "pathogen" : "Giardia",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "S7iD1 ",
+  "mean_l_1" : "0.629",
+  "pathogen" : "Giardia",
+  "objective" : "Pathogen Source Origin "
+}
+, {
+  "site" : "WDBN   ",
+  "mean_l_1" : "0.257",
+  "pathogen" : "Giardia",
+  "objective" : "Pathogen Source Origin "
+}
+ ]

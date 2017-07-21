@@ -1,0 +1,661 @@
+[ {
+  "hcahps_answer_description" : "Room was \"always\" clean",
+  "hcahps_answer_percent" : "56",
+  "hcahps_question" : "How often were the patients rooms and bathrooms kept clean?",
+  "hospital_name" : "BELLEVUE HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Room was \"always\" clean",
+  "hcahps_answer_percent" : "64",
+  "hcahps_question" : "How often were the patients rooms and bathrooms kept clean?",
+  "hospital_name" : "CONEY ISLAND HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Room was \"always\" clean",
+  "hcahps_answer_percent" : "57",
+  "hcahps_question" : "How often were the patients rooms and bathrooms kept clean?",
+  "hospital_name" : "ELMHURST HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Room was \"always\" clean",
+  "hcahps_answer_percent" : "61",
+  "hcahps_question" : "How often were the patients rooms and bathrooms kept clean?",
+  "hospital_name" : "HARLEM HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Room was \"always\" clean",
+  "hcahps_answer_percent" : "63",
+  "hcahps_question" : "How often were the patients rooms and bathrooms kept clean?",
+  "hospital_name" : "JACOBI MEDICAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Room was \"always\" clean",
+  "hcahps_answer_percent" : "73",
+  "hcahps_question" : "How often were the patients rooms and bathrooms kept clean?",
+  "hospital_name" : "KINGS COUNTY HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Room was \"always\" clean",
+  "hcahps_answer_percent" : "65",
+  "hcahps_question" : "How often were the patients rooms and bathrooms kept clean?",
+  "hospital_name" : "LINCOLN MEDICAL & MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "Room was \"always\" clean",
+  "hcahps_answer_percent" : "63",
+  "hcahps_question" : "How often were the patients rooms and bathrooms kept clean?",
+  "hospital_name" : "METROPOLITAN HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Room was \"always\" clean",
+  "hcahps_answer_percent" : "62",
+  "hcahps_question" : "How often were the patients rooms and bathrooms kept clean?",
+  "hospital_name" : "NORTH CENTRAL BRONX HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Room was \"always\" clean",
+  "hcahps_answer_percent" : "68",
+  "hcahps_question" : "How often were the patients rooms and bathrooms kept clean?",
+  "hospital_name" : "QUEENS HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Room was \"always\" clean",
+  "hcahps_answer_percent" : "65",
+  "hcahps_question" : "How often were the patients rooms and bathrooms kept clean?",
+  "hospital_name" : "WOODHULL MEDICAL AND MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "Nurses \"always\" communicated well",
+  "hcahps_answer_percent" : "63",
+  "hcahps_question" : "How often did nurses communicate well with patients?",
+  "hospital_name" : "BELLEVUE HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Nurses \"always\" communicated well",
+  "hcahps_answer_percent" : "68",
+  "hcahps_question" : "How often did nurses communicate well with patients?",
+  "hospital_name" : "CONEY ISLAND HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Nurses \"always\" communicated well",
+  "hcahps_answer_percent" : "57",
+  "hcahps_question" : "How often did nurses communicate well with patients?",
+  "hospital_name" : "ELMHURST HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Nurses \"always\" communicated well",
+  "hcahps_answer_percent" : "64",
+  "hcahps_question" : "How often did nurses communicate well with patients?",
+  "hospital_name" : "HARLEM HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Nurses \"always\" communicated well",
+  "hcahps_answer_percent" : "63",
+  "hcahps_question" : "How often did nurses communicate well with patients?",
+  "hospital_name" : "JACOBI MEDICAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Nurses \"always\" communicated well",
+  "hcahps_answer_percent" : "67",
+  "hcahps_question" : "How often did nurses communicate well with patients?",
+  "hospital_name" : "KINGS COUNTY HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Nurses \"always\" communicated well",
+  "hcahps_answer_percent" : "66",
+  "hcahps_question" : "How often did nurses communicate well with patients?",
+  "hospital_name" : "LINCOLN MEDICAL & MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "Nurses \"always\" communicated well",
+  "hcahps_answer_percent" : "62",
+  "hcahps_question" : "How often did nurses communicate well with patients?",
+  "hospital_name" : "METROPOLITAN HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Nurses \"always\" communicated well",
+  "hcahps_answer_percent" : "67",
+  "hcahps_question" : "How often did nurses communicate well with patients?",
+  "hospital_name" : "NORTH CENTRAL BRONX HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Nurses \"always\" communicated well",
+  "hcahps_answer_percent" : "63",
+  "hcahps_question" : "How often did nurses communicate well with patients?",
+  "hospital_name" : "QUEENS HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Nurses \"always\" communicated well",
+  "hcahps_answer_percent" : "68",
+  "hcahps_question" : "How often did nurses communicate well with patients?",
+  "hospital_name" : "WOODHULL MEDICAL AND MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "Doctors \"always\" communicated well",
+  "hcahps_answer_percent" : "77",
+  "hcahps_question" : "How often did doctors communicate well with patients?",
+  "hospital_name" : "BELLEVUE HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Doctors \"always\" communicated well",
+  "hcahps_answer_percent" : "74",
+  "hcahps_question" : "How often did doctors communicate well with patients?",
+  "hospital_name" : "CONEY ISLAND HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Doctors \"always\" communicated well",
+  "hcahps_answer_percent" : "74",
+  "hcahps_question" : "How often did doctors communicate well with patients?",
+  "hospital_name" : "ELMHURST HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Doctors \"always\" communicated well",
+  "hcahps_answer_percent" : "78",
+  "hcahps_question" : "How often did doctors communicate well with patients?",
+  "hospital_name" : "HARLEM HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Doctors \"always\" communicated well",
+  "hcahps_answer_percent" : "75",
+  "hcahps_question" : "How often did doctors communicate well with patients?",
+  "hospital_name" : "JACOBI MEDICAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Doctors \"always\" communicated well",
+  "hcahps_answer_percent" : "76",
+  "hcahps_question" : "How often did doctors communicate well with patients?",
+  "hospital_name" : "KINGS COUNTY HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Doctors \"always\" communicated well",
+  "hcahps_answer_percent" : "79",
+  "hcahps_question" : "How often did doctors communicate well with patients?",
+  "hospital_name" : "LINCOLN MEDICAL & MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "Doctors \"always\" communicated well",
+  "hcahps_answer_percent" : "78",
+  "hcahps_question" : "How often did doctors communicate well with patients?",
+  "hospital_name" : "METROPOLITAN HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Doctors \"always\" communicated well",
+  "hcahps_answer_percent" : "79",
+  "hcahps_question" : "How often did doctors communicate well with patients?",
+  "hospital_name" : "NORTH CENTRAL BRONX HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Doctors \"always\" communicated well",
+  "hcahps_answer_percent" : "79",
+  "hcahps_question" : "How often did doctors communicate well with patients?",
+  "hospital_name" : "QUEENS HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Doctors \"always\" communicated well",
+  "hcahps_answer_percent" : "75",
+  "hcahps_question" : "How often did doctors communicate well with patients?",
+  "hospital_name" : "WOODHULL MEDICAL AND MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients \"always\" received help as soon as they wanted",
+  "hcahps_answer_percent" : "49",
+  "hcahps_question" : "How often did patients receive help quickly from hospital staff?",
+  "hospital_name" : "BELLEVUE HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients \"always\" received help as soon as they wanted",
+  "hcahps_answer_percent" : "57",
+  "hcahps_question" : "How often did patients receive help quickly from hospital staff?",
+  "hospital_name" : "CONEY ISLAND HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Patients \"always\" received help as soon as they wanted",
+  "hcahps_answer_percent" : "44",
+  "hcahps_question" : "How often did patients receive help quickly from hospital staff?",
+  "hospital_name" : "ELMHURST HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients \"always\" received help as soon as they wanted",
+  "hcahps_answer_percent" : "48",
+  "hcahps_question" : "How often did patients receive help quickly from hospital staff?",
+  "hospital_name" : "HARLEM HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients \"always\" received help as soon as they wanted",
+  "hcahps_answer_percent" : "47",
+  "hcahps_question" : "How often did patients receive help quickly from hospital staff?",
+  "hospital_name" : "JACOBI MEDICAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients \"always\" received help as soon as they wanted",
+  "hcahps_answer_percent" : "45",
+  "hcahps_question" : "How often did patients receive help quickly from hospital staff?",
+  "hospital_name" : "KINGS COUNTY HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients \"always\" received help as soon as they wanted",
+  "hcahps_answer_percent" : "52",
+  "hcahps_question" : "How often did patients receive help quickly from hospital staff?",
+  "hospital_name" : "LINCOLN MEDICAL & MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients \"always\" received help as soon as they wanted",
+  "hcahps_answer_percent" : "49",
+  "hcahps_question" : "How often did patients receive help quickly from hospital staff?",
+  "hospital_name" : "METROPOLITAN HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients \"always\" received help as soon as they wanted",
+  "hcahps_answer_percent" : "49",
+  "hcahps_question" : "How often did patients receive help quickly from hospital staff?",
+  "hospital_name" : "NORTH CENTRAL BRONX HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Patients \"always\" received help as soon as they wanted",
+  "hcahps_answer_percent" : "56",
+  "hcahps_question" : "How often did patients receive help quickly from hospital staff?",
+  "hospital_name" : "QUEENS HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients \"always\" received help as soon as they wanted",
+  "hcahps_answer_percent" : "48",
+  "hcahps_question" : "How often did patients receive help quickly from hospital staff?",
+  "hospital_name" : "WOODHULL MEDICAL AND MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "Pain was \"always\" well controlled",
+  "hcahps_answer_percent" : "55",
+  "hcahps_question" : "How often was patients pain well controlled?",
+  "hospital_name" : "BELLEVUE HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Pain was \"always\" well controlled",
+  "hcahps_answer_percent" : "64",
+  "hcahps_question" : "How often was patients pain well controlled?",
+  "hospital_name" : "CONEY ISLAND HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Pain was \"always\" well controlled",
+  "hcahps_answer_percent" : "59",
+  "hcahps_question" : "How often was patients pain well controlled?",
+  "hospital_name" : "ELMHURST HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Pain was \"always\" well controlled",
+  "hcahps_answer_percent" : "57",
+  "hcahps_question" : "How often was patients pain well controlled?",
+  "hospital_name" : "HARLEM HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Pain was \"always\" well controlled",
+  "hcahps_answer_percent" : "53",
+  "hcahps_question" : "How often was patients pain well controlled?",
+  "hospital_name" : "JACOBI MEDICAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Pain was \"always\" well controlled",
+  "hcahps_answer_percent" : "56",
+  "hcahps_question" : "How often was patients pain well controlled?",
+  "hospital_name" : "KINGS COUNTY HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Pain was \"always\" well controlled",
+  "hcahps_answer_percent" : "57",
+  "hcahps_question" : "How often was patients pain well controlled?",
+  "hospital_name" : "LINCOLN MEDICAL & MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "Pain was \"always\" well controlled",
+  "hcahps_answer_percent" : "55",
+  "hcahps_question" : "How often was patients pain well controlled?",
+  "hospital_name" : "METROPOLITAN HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Pain was \"always\" well controlled",
+  "hcahps_answer_percent" : "60",
+  "hcahps_question" : "How often was patients pain well controlled?",
+  "hospital_name" : "NORTH CENTRAL BRONX HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Pain was \"always\" well controlled",
+  "hcahps_answer_percent" : "60",
+  "hcahps_question" : "How often was patients pain well controlled?",
+  "hospital_name" : "QUEENS HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Pain was \"always\" well controlled",
+  "hcahps_answer_percent" : "58",
+  "hcahps_question" : "How often was patients pain well controlled?",
+  "hospital_name" : "WOODHULL MEDICAL AND MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "Staff \"always\" explained",
+  "hcahps_answer_percent" : "54",
+  "hcahps_question" : "How often did staff explain about medicines before giving them to patients?",
+  "hospital_name" : "BELLEVUE HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Staff \"always\" explained",
+  "hcahps_answer_percent" : "52",
+  "hcahps_question" : "How often did staff explain about medicines before giving them to patients?",
+  "hospital_name" : "CONEY ISLAND HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Staff \"always\" explained",
+  "hcahps_answer_percent" : "45",
+  "hcahps_question" : "How often did staff explain about medicines before giving them to patients?",
+  "hospital_name" : "ELMHURST HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Staff \"always\" explained",
+  "hcahps_answer_percent" : "51",
+  "hcahps_question" : "How often did staff explain about medicines before giving them to patients?",
+  "hospital_name" : "HARLEM HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Staff \"always\" explained",
+  "hcahps_answer_percent" : "51",
+  "hcahps_question" : "How often did staff explain about medicines before giving them to patients?",
+  "hospital_name" : "JACOBI MEDICAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Staff \"always\" explained",
+  "hcahps_answer_percent" : "59",
+  "hcahps_question" : "How often did staff explain about medicines before giving them to patients?",
+  "hospital_name" : "KINGS COUNTY HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Staff \"always\" explained",
+  "hcahps_answer_percent" : "53",
+  "hcahps_question" : "How often did staff explain about medicines before giving them to patients?",
+  "hospital_name" : "LINCOLN MEDICAL & MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "Staff \"always\" explained",
+  "hcahps_answer_percent" : "57",
+  "hcahps_question" : "How often did staff explain about medicines before giving them to patients?",
+  "hospital_name" : "METROPOLITAN HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Staff \"always\" explained",
+  "hcahps_answer_percent" : "53",
+  "hcahps_question" : "How often did staff explain about medicines before giving them to patients?",
+  "hospital_name" : "NORTH CENTRAL BRONX HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Staff \"always\" explained",
+  "hcahps_answer_percent" : "61",
+  "hcahps_question" : "How often did staff explain about medicines before giving them to patients?",
+  "hospital_name" : "QUEENS HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Staff \"always\" explained",
+  "hcahps_answer_percent" : "55",
+  "hcahps_question" : "How often did staff explain about medicines before giving them to patients?",
+  "hospital_name" : "WOODHULL MEDICAL AND MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "Yes, staff \"did\" give patients this information",
+  "hcahps_answer_percent" : "80",
+  "hcahps_question" : "Were patients given information about what to do during their recovery at home?",
+  "hospital_name" : "BELLEVUE HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Yes, staff \"did\" give patients this information",
+  "hcahps_answer_percent" : "79",
+  "hcahps_question" : "Were patients given information about what to do during their recovery at home?",
+  "hospital_name" : "CONEY ISLAND HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Yes, staff \"did\" give patients this information",
+  "hcahps_answer_percent" : "80",
+  "hcahps_question" : "Were patients given information about what to do during their recovery at home?",
+  "hospital_name" : "ELMHURST HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Yes, staff \"did\" give patients this information",
+  "hcahps_answer_percent" : "77",
+  "hcahps_question" : "Were patients given information about what to do during their recovery at home?",
+  "hospital_name" : "HARLEM HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Yes, staff \"did\" give patients this information",
+  "hcahps_answer_percent" : "76",
+  "hcahps_question" : "Were patients given information about what to do during their recovery at home?",
+  "hospital_name" : "JACOBI MEDICAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Yes, staff \"did\" give patients this information",
+  "hcahps_answer_percent" : "79",
+  "hcahps_question" : "Were patients given information about what to do during their recovery at home?",
+  "hospital_name" : "KINGS COUNTY HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Yes, staff \"did\" give patients this information",
+  "hcahps_answer_percent" : "75",
+  "hcahps_question" : "Were patients given information about what to do during their recovery at home?",
+  "hospital_name" : "LINCOLN MEDICAL & MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "Yes, staff \"did\" give patients this information",
+  "hcahps_answer_percent" : "82",
+  "hcahps_question" : "Were patients given information about what to do during their recovery at home?",
+  "hospital_name" : "METROPOLITAN HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Yes, staff \"did\" give patients this information",
+  "hcahps_answer_percent" : "75",
+  "hcahps_question" : "Were patients given information about what to do during their recovery at home?",
+  "hospital_name" : "NORTH CENTRAL BRONX HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Yes, staff \"did\" give patients this information",
+  "hcahps_answer_percent" : "80",
+  "hcahps_question" : "Were patients given information about what to do during their recovery at home?",
+  "hospital_name" : "QUEENS HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Yes, staff \"did\" give patients this information",
+  "hcahps_answer_percent" : "81",
+  "hcahps_question" : "Were patients given information about what to do during their recovery at home?",
+  "hospital_name" : "WOODHULL MEDICAL AND MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients who gave a rating of \"9\" or \"10\" (high)",
+  "hcahps_answer_percent" : "56",
+  "hcahps_question" : "How do patients rate the hospital overall?",
+  "hospital_name" : "BELLEVUE HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients who gave a rating of \"9\" or \"10\" (high)",
+  "hcahps_answer_percent" : "56",
+  "hcahps_question" : "How do patients rate the hospital overall?",
+  "hospital_name" : "CONEY ISLAND HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Patients who gave a rating of \"9\" or \"10\" (high)",
+  "hcahps_answer_percent" : "52",
+  "hcahps_question" : "How do patients rate the hospital overall?",
+  "hospital_name" : "ELMHURST HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients who gave a rating of \"9\" or \"10\" (high)",
+  "hcahps_answer_percent" : "42",
+  "hcahps_question" : "How do patients rate the hospital overall?",
+  "hospital_name" : "HARLEM HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients who gave a rating of \"9\" or \"10\" (high)",
+  "hcahps_answer_percent" : "50",
+  "hcahps_question" : "How do patients rate the hospital overall?",
+  "hospital_name" : "JACOBI MEDICAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients who gave a rating of \"9\" or \"10\" (high)",
+  "hcahps_answer_percent" : "59",
+  "hcahps_question" : "How do patients rate the hospital overall?",
+  "hospital_name" : "KINGS COUNTY HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients who gave a rating of \"9\" or \"10\" (high)",
+  "hcahps_answer_percent" : "51",
+  "hcahps_question" : "How do patients rate the hospital overall?",
+  "hospital_name" : "LINCOLN MEDICAL & MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients who gave a rating of \"9\" or \"10\" (high)",
+  "hcahps_answer_percent" : "58",
+  "hcahps_question" : "How do patients rate the hospital overall?",
+  "hospital_name" : "METROPOLITAN HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients who gave a rating of \"9\" or \"10\" (high)",
+  "hcahps_answer_percent" : "58",
+  "hcahps_question" : "How do patients rate the hospital overall?",
+  "hospital_name" : "NORTH CENTRAL BRONX HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Patients who gave a rating of \"9\" or \"10\" (high)",
+  "hcahps_answer_percent" : "58",
+  "hcahps_question" : "How do patients rate the hospital overall?",
+  "hospital_name" : "QUEENS HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Patients who gave a rating of \"9\" or \"10\" (high)",
+  "hcahps_answer_percent" : "54",
+  "hcahps_question" : "How do patients rate the hospital overall?",
+  "hospital_name" : "WOODHULL MEDICAL AND MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "Always quiet at night",
+  "hcahps_answer_percent" : "41",
+  "hcahps_question" : "How often was the area around patients rooms kept quiet at night?",
+  "hospital_name" : "BELLEVUE HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Always quiet at night",
+  "hcahps_answer_percent" : "51",
+  "hcahps_question" : "How often was the area around patients rooms kept quiet at night?",
+  "hospital_name" : "CONEY ISLAND HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Always quiet at night",
+  "hcahps_answer_percent" : "35",
+  "hcahps_question" : "How often was the area around patients rooms kept quiet at night?",
+  "hospital_name" : "ELMHURST HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Always quiet at night",
+  "hcahps_answer_percent" : "56",
+  "hcahps_question" : "How often was the area around patients rooms kept quiet at night?",
+  "hospital_name" : "HARLEM HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Always quiet at night",
+  "hcahps_answer_percent" : "49",
+  "hcahps_question" : "How often was the area around patients rooms kept quiet at night?",
+  "hospital_name" : "JACOBI MEDICAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Always quiet at night",
+  "hcahps_answer_percent" : "56",
+  "hcahps_question" : "How often was the area around patients rooms kept quiet at night?",
+  "hospital_name" : "KINGS COUNTY HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Always quiet at night",
+  "hcahps_answer_percent" : "53",
+  "hcahps_question" : "How often was the area around patients rooms kept quiet at night?",
+  "hospital_name" : "LINCOLN MEDICAL & MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "Always quiet at night",
+  "hcahps_answer_percent" : "50",
+  "hcahps_question" : "How often was the area around patients rooms kept quiet at night?",
+  "hospital_name" : "METROPOLITAN HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Always quiet at night",
+  "hcahps_answer_percent" : "53",
+  "hcahps_question" : "How often was the area around patients rooms kept quiet at night?",
+  "hospital_name" : "NORTH CENTRAL BRONX HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "Always quiet at night",
+  "hcahps_answer_percent" : "52",
+  "hcahps_question" : "How often was the area around patients rooms kept quiet at night?",
+  "hospital_name" : "QUEENS HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "Always quiet at night",
+  "hcahps_answer_percent" : "50",
+  "hcahps_question" : "How often was the area around patients rooms kept quiet at night?",
+  "hospital_name" : "WOODHULL MEDICAL AND MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "\"YES\", patients would definitely recommend the hospital",
+  "hcahps_answer_percent" : "63",
+  "hcahps_question" : "Would patients recommend the hospital to friends and family?",
+  "hospital_name" : "BELLEVUE HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "\"YES\", patients would definitely recommend the hospital",
+  "hcahps_answer_percent" : "54",
+  "hcahps_question" : "Would patients recommend the hospital to friends and family?",
+  "hospital_name" : "CONEY ISLAND HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "\"YES\", patients would definitely recommend the hospital",
+  "hcahps_answer_percent" : "58",
+  "hcahps_question" : "Would patients recommend the hospital to friends and family?",
+  "hospital_name" : "ELMHURST HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "\"YES\", patients would definitely recommend the hospital",
+  "hcahps_answer_percent" : "50",
+  "hcahps_question" : "Would patients recommend the hospital to friends and family?",
+  "hospital_name" : "HARLEM HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "\"YES\", patients would definitely recommend the hospital",
+  "hcahps_answer_percent" : "58",
+  "hcahps_question" : "Would patients recommend the hospital to friends and family?",
+  "hospital_name" : "JACOBI MEDICAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "\"YES\", patients would definitely recommend the hospital",
+  "hcahps_answer_percent" : "64",
+  "hcahps_question" : "Would patients recommend the hospital to friends and family?",
+  "hospital_name" : "KINGS COUNTY HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "\"YES\", patients would definitely recommend the hospital",
+  "hcahps_answer_percent" : "57",
+  "hcahps_question" : "Would patients recommend the hospital to friends and family?",
+  "hospital_name" : "LINCOLN MEDICAL & MENTAL HEALTH CENTER"
+}
+, {
+  "hcahps_answer_description" : "\"YES\", patients would definitely recommend the hospital",
+  "hcahps_answer_percent" : "56",
+  "hcahps_question" : "Would patients recommend the hospital to friends and family?",
+  "hospital_name" : "METROPOLITAN HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "\"YES\", patients would definitely recommend the hospital",
+  "hcahps_answer_percent" : "61",
+  "hcahps_question" : "Would patients recommend the hospital to friends and family?",
+  "hospital_name" : "NORTH CENTRAL BRONX HOSPITAL"
+}
+, {
+  "hcahps_answer_description" : "\"YES\", patients would definitely recommend the hospital",
+  "hcahps_answer_percent" : "71",
+  "hcahps_question" : "Would patients recommend the hospital to friends and family?",
+  "hospital_name" : "QUEENS HOSPITAL CENTER"
+}
+, {
+  "hcahps_answer_description" : "\"YES\", patients would definitely recommend the hospital",
+  "hcahps_answer_percent" : "59",
+  "hcahps_question" : "Would patients recommend the hospital to friends and family?",
+  "hospital_name" : "WOODHULL MEDICAL AND MENTAL HEALTH CENTER"
+}
+ ]

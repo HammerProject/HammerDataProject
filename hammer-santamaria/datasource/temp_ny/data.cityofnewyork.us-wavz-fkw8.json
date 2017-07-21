@@ -1,0 +1,9001 @@
+[ {
+  "area" : "702",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "26",
+  "room_number" : "101",
+  "org_code" : "K001",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "957",
+  "bldg_id" : "K001",
+  "length" : "29",
+  "width" : "33",
+  "room_number" : "102",
+  "org_code" : "K001",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "103",
+  "org_code" : "K001",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "702",
+  "bldg_id" : "K001",
+  "length" : "26",
+  "width" : "27",
+  "room_number" : "105",
+  "org_code" : "K001",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "928",
+  "bldg_id" : "K001",
+  "length" : "29",
+  "width" : "32",
+  "room_number" : "106",
+  "org_code" : "K001",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "702",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "26",
+  "room_number" : "107",
+  "org_code" : "K001",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "63",
+  "bldg_id" : "K001",
+  "length" : "9",
+  "width" : "7",
+  "room_number" : "110",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "64",
+  "bldg_id" : "K001",
+  "length" : "8",
+  "width" : "8",
+  "room_number" : "111",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "121",
+  "org_code" : "K001",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "123",
+  "org_code" : "K001",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "125",
+  "org_code" : "K001",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "380",
+  "bldg_id" : "K001",
+  "length" : "20",
+  "width" : "19",
+  "room_number" : "127",
+  "org_code" : "K001",
+  "room_function" : "SOCIAL WORKER/COUNSELOR"
+}
+, {
+  "area" : "49",
+  "bldg_id" : "K001",
+  "length" : "7",
+  "width" : "7",
+  "room_number" : "130",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "210",
+  "bldg_id" : "K001",
+  "length" : "15",
+  "width" : "14",
+  "room_number" : "131",
+  "org_code" : "KSBH",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "42",
+  "bldg_id" : "K001",
+  "length" : "6",
+  "width" : "7",
+  "room_number" : "132",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "377",
+  "bldg_id" : "K001",
+  "length" : "29",
+  "width" : "13",
+  "room_number" : "133",
+  "org_code" : "K001",
+  "room_function" : "PRINCIPAL'S OFFICE"
+}
+, {
+  "area" : "957",
+  "bldg_id" : "K001",
+  "length" : "29",
+  "width" : "33",
+  "room_number" : "134",
+  "org_code" : "K001",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "756",
+  "bldg_id" : "K001",
+  "length" : "28",
+  "width" : "27",
+  "room_number" : "135",
+  "org_code" : "K001",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "338",
+  "bldg_id" : "K001",
+  "length" : "26",
+  "width" : "13",
+  "room_number" : "135A",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "351",
+  "bldg_id" : "K001",
+  "length" : "13",
+  "width" : "27",
+  "room_number" : "137",
+  "org_code" : "K001",
+  "room_function" : "SOCIAL WORKER/COUNSELOR"
+}
+, {
+  "area" : "676",
+  "bldg_id" : "K001",
+  "length" : "26",
+  "width" : "26",
+  "room_number" : "138",
+  "org_code" : "K001",
+  "room_function" : "PRE-K HALF DAY"
+}
+, {
+  "area" : "364",
+  "bldg_id" : "K001",
+  "length" : "28",
+  "width" : "13",
+  "room_number" : "139",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "702",
+  "bldg_id" : "K001",
+  "length" : "26",
+  "width" : "27",
+  "room_number" : "201",
+  "org_code" : "K001",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "202",
+  "org_code" : "K001",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "702",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "26",
+  "room_number" : "203",
+  "org_code" : "K001",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "756",
+  "bldg_id" : "K001",
+  "length" : "28",
+  "width" : "27",
+  "room_number" : "204",
+  "org_code" : "K001",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "205",
+  "org_code" : "K001",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "206",
+  "org_code" : "K001",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "702",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "26",
+  "room_number" : "207",
+  "org_code" : "K001",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "63",
+  "bldg_id" : "K001",
+  "length" : "9",
+  "width" : "7",
+  "room_number" : "210",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "91",
+  "bldg_id" : "K001",
+  "length" : "13",
+  "width" : "7",
+  "room_number" : "212",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "196",
+  "bldg_id" : "K001",
+  "length" : "14",
+  "width" : "14",
+  "room_number" : "214",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "24",
+  "bldg_id" : "K001",
+  "length" : "6",
+  "width" : "4",
+  "room_number" : "217",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "325",
+  "bldg_id" : "K001",
+  "length" : "25",
+  "width" : "13",
+  "room_number" : "219",
+  "org_code" : "K001",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "338",
+  "bldg_id" : "K001",
+  "length" : "26",
+  "width" : "13",
+  "room_number" : "221",
+  "org_code" : "K001",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "702",
+  "bldg_id" : "K001",
+  "length" : "26",
+  "width" : "27",
+  "room_number" : "223",
+  "org_code" : "K001",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "225",
+  "org_code" : "K001",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "252",
+  "bldg_id" : "K001",
+  "length" : "21",
+  "width" : "12",
+  "room_number" : "227",
+  "org_code" : "K001",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "42",
+  "bldg_id" : "K001",
+  "length" : "6",
+  "width" : "7",
+  "room_number" : "230",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "231",
+  "org_code" : "K001",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "42",
+  "bldg_id" : "K001",
+  "length" : "6",
+  "width" : "7",
+  "room_number" : "232",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "233",
+  "org_code" : "K001",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "338",
+  "bldg_id" : "K001",
+  "length" : "26",
+  "width" : "13",
+  "room_number" : "234",
+  "org_code" : "K001",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "235",
+  "org_code" : "K001",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "1102",
+  "bldg_id" : "K001",
+  "length" : "38",
+  "width" : "29",
+  "room_number" : "236",
+  "org_code" : "K001",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "237",
+  "org_code" : "K001",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "702",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "26",
+  "room_number" : "301",
+  "org_code" : "K001",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "302",
+  "org_code" : "K001",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "303",
+  "org_code" : "K001",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "304",
+  "org_code" : "K001",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "305",
+  "org_code" : "K001",
+  "room_function" : "FUNDED - ESL"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "306",
+  "org_code" : "K001",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "728",
+  "bldg_id" : "K001",
+  "length" : "28",
+  "width" : "26",
+  "room_number" : "307",
+  "org_code" : "K001",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "63",
+  "bldg_id" : "K001",
+  "length" : "9",
+  "width" : "7",
+  "room_number" : "310",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "63",
+  "bldg_id" : "K001",
+  "length" : "9",
+  "width" : "7",
+  "room_number" : "312",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "196",
+  "bldg_id" : "K001",
+  "length" : "14",
+  "width" : "14",
+  "room_number" : "314",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "392",
+  "bldg_id" : "K001",
+  "length" : "28",
+  "width" : "14",
+  "room_number" : "319",
+  "org_code" : "K001",
+  "room_function" : "STAFF DEVELOPMENT"
+}
+, {
+  "area" : "338",
+  "bldg_id" : "K001",
+  "length" : "26",
+  "width" : "13",
+  "room_number" : "321",
+  "org_code" : "K001",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "676",
+  "bldg_id" : "K001",
+  "length" : "26",
+  "width" : "26",
+  "room_number" : "323",
+  "org_code" : "K001",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "325",
+  "org_code" : "K001",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "240",
+  "bldg_id" : "K001",
+  "length" : "20",
+  "width" : "12",
+  "room_number" : "327",
+  "org_code" : "K001",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "42",
+  "bldg_id" : "K001",
+  "length" : "7",
+  "width" : "6",
+  "room_number" : "330",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "331",
+  "org_code" : "K001",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "42",
+  "bldg_id" : "K001",
+  "length" : "6",
+  "width" : "7",
+  "room_number" : "332",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "333",
+  "org_code" : "K001",
+  "room_function" : "SPEECH"
+}
+, {
+  "area" : "702",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "26",
+  "room_number" : "334",
+  "org_code" : "K001",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "25",
+  "room_number" : "335",
+  "org_code" : "K001",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "336",
+  "org_code" : "K001",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "337",
+  "org_code" : "K001",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "728",
+  "bldg_id" : "K001",
+  "length" : "26",
+  "width" : "28",
+  "room_number" : "338",
+  "org_code" : "K001",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "4680",
+  "bldg_id" : "K001",
+  "length" : "78",
+  "width" : "60",
+  "room_number" : "AUD",
+  "org_code" : "K001",
+  "room_function" : "AUDITORIUM"
+}
+, {
+  "area" : "324",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "12",
+  "room_number" : "B1",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "351",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "13",
+  "room_number" : "B11",
+  "org_code" : "K001",
+  "room_function" : "MUSIC ROOM"
+}
+, {
+  "area" : "364",
+  "bldg_id" : "K001",
+  "length" : "13",
+  "width" : "28",
+  "room_number" : "B13",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "756",
+  "bldg_id" : "K001",
+  "length" : "28",
+  "width" : "27",
+  "room_number" : "B15",
+  "org_code" : "K001",
+  "room_function" : "ART ROOM"
+}
+, {
+  "area" : "308",
+  "bldg_id" : "K001",
+  "length" : "14",
+  "width" : "22",
+  "room_number" : "B2",
+  "org_code" : "K001",
+  "room_function" : "PARENT'S ROOM"
+}
+, {
+  "area" : "64",
+  "bldg_id" : "K001",
+  "length" : "8",
+  "width" : "8",
+  "room_number" : "B3",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "364",
+  "bldg_id" : "K001",
+  "length" : "28",
+  "width" : "13",
+  "room_number" : "B5",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "1701",
+  "bldg_id" : "K001",
+  "length" : "27",
+  "width" : "63",
+  "room_number" : "B6",
+  "org_code" : "K001",
+  "room_function" : "KITCHEN"
+}
+, {
+  "area" : "50",
+  "bldg_id" : "K001",
+  "length" : "5",
+  "width" : "10",
+  "room_number" : "B8",
+  "org_code" : "K001",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "3976",
+  "bldg_id" : "K001",
+  "length" : "71",
+  "width" : "56",
+  "room_number" : "GYM",
+  "org_code" : "K001",
+  "room_function" : "GYMNASIUM"
+}
+, {
+  "area" : "176",
+  "bldg_id" : "K001",
+  "length" : "22",
+  "width" : "8",
+  "room_number" : "GYM OFF",
+  "org_code" : "K001",
+  "room_function" : "COACH'S OFFICE"
+}
+, {
+  "area" : "100",
+  "bldg_id" : "K001",
+  "length" : "10",
+  "width" : "10",
+  "room_number" : "GYMOFFA",
+  "org_code" : "KSBH",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "100",
+  "bldg_id" : "K001",
+  "length" : "10",
+  "width" : "10",
+  "room_number" : "GYMOFFB",
+  "org_code" : "KCBO",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "5472",
+  "bldg_id" : "K001",
+  "length" : "96",
+  "width" : "57",
+  "room_number" : "ST CAF",
+  "org_code" : "K001",
+  "room_function" : "STUDENT CAFETERIA"
+}
+, {
+  "area" : "560",
+  "bldg_id" : "K002",
+  "length" : "35",
+  "width" : "16",
+  "room_number" : "A116",
+  "org_code" : "K002",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "400",
+  "bldg_id" : "K002",
+  "length" : "25",
+  "width" : "16",
+  "room_number" : "A120",
+  "org_code" : "K002",
+  "room_function" : "SBST"
+}
+, {
+  "area" : "475",
+  "bldg_id" : "K002",
+  "length" : "19",
+  "width" : "25",
+  "room_number" : "A122",
+  "org_code" : "K141",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "350",
+  "bldg_id" : "K002",
+  "length" : "25",
+  "width" : "14",
+  "room_number" : "A123",
+  "org_code" : "K002",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "266",
+  "bldg_id" : "K002",
+  "length" : "19",
+  "width" : "14",
+  "room_number" : "A124",
+  "org_code" : "K002",
+  "room_function" : "GUIDANCE OFFICE"
+}
+, {
+  "area" : "266",
+  "bldg_id" : "K002",
+  "length" : "19",
+  "width" : "14",
+  "room_number" : "A125",
+  "org_code" : "K141",
+  "room_function" : "CONFERENCE ROOM"
+}
+, {
+  "area" : "475",
+  "bldg_id" : "K002",
+  "length" : "25",
+  "width" : "19",
+  "room_number" : "A127",
+  "org_code" : "K002",
+  "room_function" : "NURSE/MEDICAL SUITE"
+}
+, {
+  "area" : "408",
+  "bldg_id" : "K002",
+  "length" : "24",
+  "width" : "17",
+  "room_number" : "A128",
+  "org_code" : "K141",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "456",
+  "bldg_id" : "K002",
+  "length" : "24",
+  "width" : "19",
+  "room_number" : "A129",
+  "org_code" : "K141",
+  "room_function" : "PRINCIPAL'S OFFICE"
+}
+, {
+  "area" : "754",
+  "bldg_id" : "K002",
+  "length" : "29",
+  "width" : "26",
+  "room_number" : "A131",
+  "org_code" : "K141",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "644",
+  "bldg_id" : "K002",
+  "length" : "28",
+  "width" : "23",
+  "room_number" : "A132",
+  "org_code" : "K141",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "700",
+  "bldg_id" : "K002",
+  "length" : "28",
+  "width" : "25",
+  "room_number" : "A133",
+  "org_code" : "K141",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "990",
+  "bldg_id" : "K002",
+  "length" : "33",
+  "width" : "30",
+  "room_number" : "A203",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "936",
+  "bldg_id" : "K002",
+  "length" : "36",
+  "width" : "26",
+  "room_number" : "A205",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "1485",
+  "bldg_id" : "K002",
+  "length" : "45",
+  "width" : "33",
+  "room_number" : "A207",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "1406",
+  "bldg_id" : "K002",
+  "length" : "38",
+  "width" : "37",
+  "room_number" : "A209",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "825",
+  "bldg_id" : "K002",
+  "length" : "25",
+  "width" : "33",
+  "room_number" : "A210A",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "825",
+  "bldg_id" : "K002",
+  "length" : "25",
+  "width" : "33",
+  "room_number" : "A210B",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "408",
+  "bldg_id" : "K002",
+  "length" : "24",
+  "width" : "17",
+  "room_number" : "A216",
+  "org_code" : "K002",
+  "room_function" : "DUPLICATING/COPY ROOM"
+}
+, {
+  "area" : "1190",
+  "bldg_id" : "K002",
+  "length" : "35",
+  "width" : "34",
+  "room_number" : "A220",
+  "org_code" : "K002",
+  "room_function" : "CONFERENCE ROOM"
+}
+, {
+  "area" : "702",
+  "bldg_id" : "K002",
+  "length" : "27",
+  "width" : "26",
+  "room_number" : "A229",
+  "org_code" : "K002",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "702",
+  "bldg_id" : "K002",
+  "length" : "27",
+  "width" : "26",
+  "room_number" : "A231",
+  "org_code" : "K002",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "700",
+  "bldg_id" : "K002",
+  "length" : "28",
+  "width" : "25",
+  "room_number" : "A233",
+  "org_code" : "K002",
+  "room_function" : "PARENT'S ROOM"
+}
+, {
+  "area" : "1023",
+  "bldg_id" : "K002",
+  "length" : "33",
+  "width" : "31",
+  "room_number" : "A320",
+  "org_code" : "K002",
+  "room_function" : "AUXILIARY EXERCISE ROOM"
+}
+, {
+  "area" : "495",
+  "bldg_id" : "K002",
+  "length" : "33",
+  "width" : "15",
+  "room_number" : "A410",
+  "org_code" : "K704",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "495",
+  "bldg_id" : "K002",
+  "length" : "33",
+  "width" : "15",
+  "room_number" : "A412",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "494",
+  "bldg_id" : "K002",
+  "length" : "26",
+  "width" : "19",
+  "room_number" : "A414",
+  "org_code" : "K704",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "575",
+  "bldg_id" : "K002",
+  "length" : "25",
+  "width" : "23",
+  "room_number" : "A416",
+  "org_code" : "K704",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "480",
+  "bldg_id" : "K002",
+  "length" : "24",
+  "width" : "20",
+  "room_number" : "A418",
+  "org_code" : "K704",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "5340",
+  "bldg_id" : "K002",
+  "length" : "89",
+  "width" : "60",
+  "room_number" : "AUD",
+  "org_code" : "K002",
+  "room_function" : "AUDITORIUM"
+}
+, {
+  "area" : "644",
+  "bldg_id" : "K002",
+  "length" : "28",
+  "width" : "23",
+  "room_number" : "B103",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K002",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "B105",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "900",
+  "bldg_id" : "K002",
+  "length" : "30",
+  "width" : "30",
+  "room_number" : "B107",
+  "org_code" : "K002",
+  "room_function" : "MEDIA CENTER"
+}
+, {
+  "area" : "840",
+  "bldg_id" : "K002",
+  "length" : "30",
+  "width" : "28",
+  "room_number" : "B110",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "840",
+  "bldg_id" : "K002",
+  "length" : "30",
+  "width" : "28",
+  "room_number" : "B112",
+  "org_code" : "K141",
+  "room_function" : "HOME ECONOMICS"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K002",
+  "length" : "26",
+  "width" : "25",
+  "room_number" : "B203",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "768",
+  "bldg_id" : "K002",
+  "length" : "32",
+  "width" : "24",
+  "room_number" : "B205",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "400",
+  "bldg_id" : "K002",
+  "length" : "25",
+  "width" : "16",
+  "room_number" : "B206",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "768",
+  "bldg_id" : "K002",
+  "length" : "32",
+  "width" : "24",
+  "room_number" : "B207",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "400",
+  "bldg_id" : "K002",
+  "length" : "25",
+  "width" : "16",
+  "room_number" : "B208",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "768",
+  "bldg_id" : "K002",
+  "length" : "32",
+  "width" : "24",
+  "room_number" : "B210",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "780",
+  "bldg_id" : "K002",
+  "length" : "30",
+  "width" : "26",
+  "room_number" : "B212",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "3286",
+  "bldg_id" : "K002",
+  "length" : "53",
+  "width" : "62",
+  "room_number" : "B225",
+  "org_code" : "K002",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "384",
+  "bldg_id" : "K002",
+  "length" : "24",
+  "width" : "16",
+  "room_number" : "B301",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "500",
+  "bldg_id" : "K002",
+  "length" : "25",
+  "width" : "20",
+  "room_number" : "B302",
+  "org_code" : "K002",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "368",
+  "bldg_id" : "K002",
+  "length" : "23",
+  "width" : "16",
+  "room_number" : "B303",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "475",
+  "bldg_id" : "K002",
+  "length" : "25",
+  "width" : "19",
+  "room_number" : "B305",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "900",
+  "bldg_id" : "K002",
+  "length" : "30",
+  "width" : "30",
+  "room_number" : "B307",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "304",
+  "bldg_id" : "K002",
+  "length" : "19",
+  "width" : "16",
+  "room_number" : "B310",
+  "org_code" : "K002",
+  "room_function" : "SCIENCE LAB"
+}
+, {
+  "area" : "930",
+  "bldg_id" : "K002",
+  "length" : "30",
+  "width" : "31",
+  "room_number" : "B312",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "450",
+  "bldg_id" : "K002",
+  "length" : "30",
+  "width" : "15",
+  "room_number" : "B402",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K002",
+  "length" : "25",
+  "width" : "26",
+  "room_number" : "B403",
+  "org_code" : "K704",
+  "room_function" : "EIGHTH GRADE"
+}
+, {
+  "area" : "768",
+  "bldg_id" : "K002",
+  "length" : "32",
+  "width" : "24",
+  "room_number" : "B405",
+  "org_code" : "K704",
+  "room_function" : "EIGHTH GRADE"
+}
+, {
+  "area" : "800",
+  "bldg_id" : "K002",
+  "length" : "32",
+  "width" : "25",
+  "room_number" : "B406",
+  "org_code" : "K704",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "768",
+  "bldg_id" : "K002",
+  "length" : "32",
+  "width" : "24",
+  "room_number" : "B407",
+  "org_code" : "K704",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "768",
+  "bldg_id" : "K002",
+  "length" : "32",
+  "width" : "24",
+  "room_number" : "B410",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "768",
+  "bldg_id" : "K002",
+  "length" : "32",
+  "width" : "24",
+  "room_number" : "B412",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "754",
+  "bldg_id" : "K002",
+  "length" : "29",
+  "width" : "26",
+  "room_number" : "C103",
+  "org_code" : "K141",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "754",
+  "bldg_id" : "K002",
+  "length" : "29",
+  "width" : "26",
+  "room_number" : "C105",
+  "org_code" : "K141",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "780",
+  "bldg_id" : "K002",
+  "length" : "30",
+  "width" : "26",
+  "room_number" : "C106",
+  "org_code" : "K141",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "780",
+  "bldg_id" : "K002",
+  "length" : "30",
+  "width" : "26",
+  "room_number" : "C107",
+  "org_code" : "K141",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "780",
+  "bldg_id" : "K002",
+  "length" : "30",
+  "width" : "26",
+  "room_number" : "C110",
+  "org_code" : "K141",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "780",
+  "bldg_id" : "K002",
+  "length" : "30",
+  "width" : "26",
+  "room_number" : "C112",
+  "org_code" : "K141",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K002",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "C119",
+  "org_code" : "K141",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "266",
+  "bldg_id" : "K002",
+  "length" : "19",
+  "width" : "14",
+  "room_number" : "C202",
+  "org_code" : "K002",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "768",
+  "bldg_id" : "K002",
+  "length" : "32",
+  "width" : "24",
+  "room_number" : "C203",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "768",
+  "bldg_id" : "K002",
+  "length" : "32",
+  "width" : "24",
+  "room_number" : "C205",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "400",
+  "bldg_id" : "K002",
+  "length" : "25",
+  "width" : "16",
+  "room_number" : "C206",
+  "org_code" : "K002",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K002",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "C207",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "400",
+  "bldg_id" : "K002",
+  "length" : "20",
+  "width" : "20",
+  "room_number" : "C208",
+  "org_code" : "K002",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "768",
+  "bldg_id" : "K002",
+  "length" : "32",
+  "width" : "24",
+  "room_number" : "C210",
+  "org_code" : "K002",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K002",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "C212",
+  "org_code" : "K002",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "475",
+  "bldg_id" : "K002",
+  "length" : "25",
+  "width" : "19",
+  "room_number" : "C305",
+  "org_code" : "K002",
+  "room_function" : "RESOURCE ROOM"
+}
+, {
+  "area" : "900",
+  "bldg_id" : "K002",
+  "length" : "30",
+  "width" : "30",
+  "room_number" : "C307",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "900",
+  "bldg_id" : "K002",
+  "length" : "30",
+  "width" : "30",
+  "room_number" : "C310",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "930",
+  "bldg_id" : "K002",
+  "length" : "30",
+  "width" : "31",
+  "room_number" : "C312",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "775",
+  "bldg_id" : "K002",
+  "length" : "25",
+  "width" : "31",
+  "room_number" : "C402",
+  "org_code" : "K704",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "448",
+  "bldg_id" : "K002",
+  "length" : "32",
+  "width" : "14",
+  "room_number" : "C403",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "600",
+  "bldg_id" : "K002",
+  "length" : "25",
+  "width" : "24",
+  "room_number" : "C405",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "768",
+  "bldg_id" : "K002",
+  "length" : "32",
+  "width" : "24",
+  "room_number" : "C406",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "800",
+  "bldg_id" : "K002",
+  "length" : "32",
+  "width" : "25",
+  "room_number" : "C407",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "800",
+  "bldg_id" : "K002",
+  "length" : "32",
+  "width" : "25",
+  "room_number" : "C410",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "800",
+  "bldg_id" : "K002",
+  "length" : "32",
+  "width" : "25",
+  "room_number" : "C412",
+  "org_code" : "K704",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "4950",
+  "bldg_id" : "K002",
+  "length" : "55",
+  "width" : "90",
+  "room_number" : "GYM",
+  "org_code" : "K002",
+  "room_function" : "GYMNASIUM"
+}
+, {
+  "area" : "920",
+  "bldg_id" : "K003",
+  "length" : "23",
+  "width" : "40",
+  "room_number" : "100",
+  "org_code" : "K003",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "770",
+  "bldg_id" : "K003",
+  "length" : "22",
+  "width" : "35",
+  "room_number" : "101",
+  "org_code" : "K003",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K003",
+  "length" : "21",
+  "width" : "32",
+  "room_number" : "102",
+  "org_code" : "K003",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "640",
+  "bldg_id" : "K003",
+  "length" : "20",
+  "width" : "32",
+  "room_number" : "103",
+  "org_code" : "K003",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "299",
+  "bldg_id" : "K003",
+  "length" : "23",
+  "width" : "13",
+  "room_number" : "104",
+  "org_code" : "K003",
+  "room_function" : "RESOURCE ROOM"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K003",
+  "length" : "20",
+  "width" : "36",
+  "room_number" : "105",
+  "org_code" : "K003",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "770",
+  "bldg_id" : "K003",
+  "length" : "35",
+  "width" : "22",
+  "room_number" : "107",
+  "org_code" : "K003",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "770",
+  "bldg_id" : "K003",
+  "length" : "35",
+  "width" : "22",
+  "room_number" : "109",
+  "org_code" : "K003",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "320",
+  "bldg_id" : "K003",
+  "length" : "20",
+  "width" : "16",
+  "room_number" : "113",
+  "org_code" : "K003",
+  "room_function" : "NURSE/MEDICAL SUITE"
+}
+, {
+  "area" : "140",
+  "bldg_id" : "K003",
+  "length" : "20",
+  "width" : "7",
+  "room_number" : "117A",
+  "org_code" : "K003",
+  "room_function" : "GUIDANCE OFFICE"
+}
+, {
+  "area" : "182",
+  "bldg_id" : "K003",
+  "length" : "14",
+  "width" : "13",
+  "room_number" : "117B",
+  "org_code" : "K003",
+  "room_function" : "DUPLICATING/COPY ROOM"
+}
+, {
+  "area" : "96",
+  "bldg_id" : "K003",
+  "length" : "12",
+  "width" : "8",
+  "room_number" : "117C",
+  "org_code" : "K003",
+  "room_function" : "PARENT'S ROOM"
+}
+, {
+  "area" : "286",
+  "bldg_id" : "K003",
+  "length" : "13",
+  "width" : "22",
+  "room_number" : "131",
+  "org_code" : "K003",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "4611",
+  "bldg_id" : "K003",
+  "length" : "53",
+  "width" : "87",
+  "room_number" : "135",
+  "org_code" : "K003",
+  "room_function" : "GYMNASIUM"
+}
+, {
+  "area" : "4125",
+  "bldg_id" : "K003",
+  "length" : "75",
+  "width" : "55",
+  "room_number" : "138",
+  "org_code" : "K003",
+  "room_function" : "AUDITORIUM"
+}
+, {
+  "area" : "324",
+  "bldg_id" : "K003",
+  "length" : "18",
+  "width" : "18",
+  "room_number" : "200A",
+  "org_code" : "K003",
+  "room_function" : "SBST"
+}
+, {
+  "area" : "324",
+  "bldg_id" : "K003",
+  "length" : "18",
+  "width" : "18",
+  "room_number" : "200B",
+  "org_code" : "K003",
+  "room_function" : "ACTIVITIES FOR DAILY LIVING"
+}
+, {
+  "area" : "286",
+  "bldg_id" : "K003",
+  "length" : "13",
+  "width" : "22",
+  "room_number" : "200C",
+  "org_code" : "K003",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "770",
+  "bldg_id" : "K003",
+  "length" : "22",
+  "width" : "35",
+  "room_number" : "201",
+  "org_code" : "K003",
+  "room_function" : "FUNDED - OTHER"
+}
+, {
+  "area" : "770",
+  "bldg_id" : "K003",
+  "length" : "22",
+  "width" : "35",
+  "room_number" : "202",
+  "org_code" : "K003",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "726",
+  "bldg_id" : "K003",
+  "length" : "22",
+  "width" : "33",
+  "room_number" : "203",
+  "org_code" : "K003",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "726",
+  "bldg_id" : "K003",
+  "length" : "22",
+  "width" : "33",
+  "room_number" : "204",
+  "org_code" : "K003",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K003",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "205",
+  "org_code" : "K003",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "192",
+  "bldg_id" : "K003",
+  "length" : "12",
+  "width" : "16",
+  "room_number" : "206",
+  "org_code" : "K003",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "726",
+  "bldg_id" : "K003",
+  "length" : "22",
+  "width" : "33",
+  "room_number" : "207",
+  "org_code" : "K003",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "748",
+  "bldg_id" : "K003",
+  "length" : "22",
+  "width" : "34",
+  "room_number" : "209",
+  "org_code" : "K003",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "832",
+  "bldg_id" : "K003",
+  "length" : "26",
+  "width" : "32",
+  "room_number" : "211",
+  "org_code" : "K003",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "324",
+  "bldg_id" : "K003",
+  "length" : "18",
+  "width" : "18",
+  "room_number" : "212",
+  "org_code" : "K003",
+  "room_function" : "TEACHER'S ROOM"
+}
+, {
+  "area" : "704",
+  "bldg_id" : "K003",
+  "length" : "22",
+  "width" : "32",
+  "room_number" : "214",
+  "org_code" : "K003",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "640",
+  "bldg_id" : "K003",
+  "length" : "20",
+  "width" : "32",
+  "room_number" : "216",
+  "org_code" : "K003",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "704",
+  "bldg_id" : "K003",
+  "length" : "22",
+  "width" : "32",
+  "room_number" : "219",
+  "org_code" : "K003",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "870",
+  "bldg_id" : "K003",
+  "length" : "30",
+  "width" : "29",
+  "room_number" : "220",
+  "org_code" : "K003",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "726",
+  "bldg_id" : "K003",
+  "length" : "22",
+  "width" : "33",
+  "room_number" : "221",
+  "org_code" : "K003",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "700",
+  "bldg_id" : "K003",
+  "length" : "20",
+  "width" : "35",
+  "room_number" : "222",
+  "org_code" : "K003",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "682",
+  "bldg_id" : "K003",
+  "length" : "22",
+  "width" : "31",
+  "room_number" : "224",
+  "org_code" : "K003",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "792",
+  "bldg_id" : "K003",
+  "length" : "22",
+  "width" : "36",
+  "room_number" : "226",
+  "org_code" : "K003",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "640",
+  "bldg_id" : "K003",
+  "length" : "20",
+  "width" : "32",
+  "room_number" : "228",
+  "org_code" : "K003",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "920",
+  "bldg_id" : "K003",
+  "length" : "23",
+  "width" : "40",
+  "room_number" : "300",
+  "org_code" : "K003",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "651",
+  "bldg_id" : "K003",
+  "length" : "21",
+  "width" : "31",
+  "room_number" : "301",
+  "org_code" : "K003",
+  "room_function" : "SCIENCE PREP ROOM"
+}
+, {
+  "area" : "528",
+  "bldg_id" : "K003",
+  "length" : "22",
+  "width" : "24",
+  "room_number" : "302",
+  "org_code" : "K003",
+  "room_function" : "DANCE ROOM"
+}
+, {
+  "area" : "850",
+  "bldg_id" : "K003",
+  "length" : "25",
+  "width" : "34",
+  "room_number" : "303",
+  "org_code" : "K003",
+  "room_function" : "FUNDED - ESL"
+}
+, {
+  "area" : "858",
+  "bldg_id" : "K003",
+  "length" : "26",
+  "width" : "33",
+  "room_number" : "304",
+  "org_code" : "K003",
+  "room_function" : "SCIENCE LAB"
+}
+, {
+  "area" : "816",
+  "bldg_id" : "K003",
+  "length" : "24",
+  "width" : "34",
+  "room_number" : "305",
+  "org_code" : "K003",
+  "room_function" : "MUSIC ROOM"
+}
+, {
+  "area" : "216",
+  "bldg_id" : "K003",
+  "length" : "18",
+  "width" : "12",
+  "room_number" : "306",
+  "org_code" : "K003",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "759",
+  "bldg_id" : "K003",
+  "length" : "23",
+  "width" : "33",
+  "room_number" : "307",
+  "org_code" : "K003",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "680",
+  "bldg_id" : "K003",
+  "length" : "20",
+  "width" : "34",
+  "room_number" : "309",
+  "org_code" : "K003",
+  "room_function" : "ART ROOM"
+}
+, {
+  "area" : "700",
+  "bldg_id" : "K003",
+  "length" : "20",
+  "width" : "35",
+  "room_number" : "310",
+  "org_code" : "K003",
+  "room_function" : "COMPUTER LAB"
+}
+, {
+  "area" : "660",
+  "bldg_id" : "K003",
+  "length" : "20",
+  "width" : "33",
+  "room_number" : "311",
+  "org_code" : "K003",
+  "room_function" : "THEATRE ARTS/DRAMA"
+}
+, {
+  "area" : "805",
+  "bldg_id" : "K003",
+  "length" : "23",
+  "width" : "35",
+  "room_number" : "312",
+  "org_code" : "K003",
+  "room_function" : "MUSIC ROOM"
+}
+, {
+  "area" : "651",
+  "bldg_id" : "K003",
+  "length" : "21",
+  "width" : "31",
+  "room_number" : "314",
+  "org_code" : "K003",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "726",
+  "bldg_id" : "K003",
+  "length" : "22",
+  "width" : "33",
+  "room_number" : "319",
+  "org_code" : "K003",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "899",
+  "bldg_id" : "K003",
+  "length" : "31",
+  "width" : "29",
+  "room_number" : "320",
+  "org_code" : "K003",
+  "room_function" : "RESOURCE ROOM"
+}
+, {
+  "area" : "660",
+  "bldg_id" : "K003",
+  "length" : "20",
+  "width" : "33",
+  "room_number" : "321",
+  "org_code" : "K003",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "700",
+  "bldg_id" : "K003",
+  "length" : "20",
+  "width" : "35",
+  "room_number" : "322",
+  "org_code" : "K003",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "651",
+  "bldg_id" : "K003",
+  "length" : "21",
+  "width" : "31",
+  "room_number" : "324",
+  "org_code" : "K003",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "660",
+  "bldg_id" : "K003",
+  "length" : "20",
+  "width" : "33",
+  "room_number" : "326",
+  "org_code" : "K003",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "704",
+  "bldg_id" : "K003",
+  "length" : "22",
+  "width" : "32",
+  "room_number" : "328",
+  "org_code" : "K003",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "792",
+  "bldg_id" : "K003",
+  "length" : "22",
+  "width" : "36",
+  "room_number" : "B-16",
+  "org_code" : "K003",
+  "room_function" : "ART ROOM"
+}
+, {
+  "area" : "2475",
+  "bldg_id" : "K003",
+  "length" : "55",
+  "width" : "45",
+  "room_number" : "CAFE",
+  "org_code" : "K003",
+  "room_function" : "STUDENT CAFETERIA"
+}
+, {
+  "area" : "875",
+  "bldg_id" : "K005",
+  "length" : "35",
+  "width" : "25",
+  "room_number" : "100",
+  "org_code" : "K005",
+  "room_function" : "TEACHER'S CAFETERIA"
+}
+, {
+  "area" : "864",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "36",
+  "room_number" : "101",
+  "org_code" : "K005",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "925",
+  "bldg_id" : "K005",
+  "length" : "25",
+  "width" : "37",
+  "room_number" : "103",
+  "org_code" : "K005",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "988",
+  "bldg_id" : "K005",
+  "length" : "26",
+  "width" : "38",
+  "room_number" : "104",
+  "org_code" : "K005",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "850",
+  "bldg_id" : "K005",
+  "length" : "34",
+  "width" : "25",
+  "room_number" : "105",
+  "org_code" : "K005",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "1575",
+  "bldg_id" : "K005",
+  "length" : "45",
+  "width" : "35",
+  "room_number" : "106",
+  "org_code" : "K005",
+  "room_function" : "MULTI-PURPOSE ROOM"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K005",
+  "length" : "25",
+  "width" : "30",
+  "room_number" : "108",
+  "org_code" : "K005",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "109",
+  "org_code" : "K005",
+  "room_function" : "MULTI-PURPOSE ROOM"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "111",
+  "org_code" : "K005",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "667",
+  "bldg_id" : "K005",
+  "length" : "23",
+  "width" : "29",
+  "room_number" : "113",
+  "org_code" : "K005",
+  "room_function" : "CONFERENCE ROOM"
+}
+, {
+  "area" : "225",
+  "bldg_id" : "K005",
+  "length" : "15",
+  "width" : "15",
+  "room_number" : "114",
+  "org_code" : "K005",
+  "room_function" : "ATTENDANCE OFFICE"
+}
+, {
+  "area" : "621",
+  "bldg_id" : "K005",
+  "length" : "27",
+  "width" : "23",
+  "room_number" : "116",
+  "org_code" : "K005",
+  "room_function" : "GUIDANCE OFFICE"
+}
+, {
+  "area" : "486",
+  "bldg_id" : "K005",
+  "length" : "27",
+  "width" : "18",
+  "room_number" : "123",
+  "org_code" : "K005",
+  "room_function" : "NURSE/MEDICAL SUITE"
+}
+, {
+  "area" : "782",
+  "bldg_id" : "K005",
+  "length" : "34",
+  "width" : "23",
+  "room_number" : "124",
+  "org_code" : "K005",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "1925",
+  "bldg_id" : "K005",
+  "length" : "55",
+  "width" : "35",
+  "room_number" : "125",
+  "org_code" : "K005",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "28",
+  "room_number" : "126",
+  "org_code" : "K005",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "667",
+  "bldg_id" : "K005",
+  "length" : "23",
+  "width" : "29",
+  "room_number" : "128",
+  "org_code" : "K005",
+  "room_function" : "CONFERENCE ROOM"
+}
+, {
+  "area" : "700",
+  "bldg_id" : "K005",
+  "length" : "35",
+  "width" : "20",
+  "room_number" : "129",
+  "org_code" : "K005",
+  "room_function" : "PRINCIPAL'S OFFICE"
+}
+, {
+  "area" : "925",
+  "bldg_id" : "K005",
+  "length" : "37",
+  "width" : "25",
+  "room_number" : "130",
+  "org_code" : "K005",
+  "room_function" : "MUSIC ROOM"
+}
+, {
+  "area" : "660",
+  "bldg_id" : "K005",
+  "length" : "22",
+  "width" : "30",
+  "room_number" : "200",
+  "org_code" : "K005",
+  "room_function" : "OT/PT"
+}
+, {
+  "area" : "660",
+  "bldg_id" : "K005",
+  "length" : "22",
+  "width" : "30",
+  "room_number" : "201",
+  "org_code" : "K005",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "690",
+  "bldg_id" : "K005",
+  "length" : "23",
+  "width" : "30",
+  "room_number" : "202",
+  "org_code" : "K005",
+  "room_function" : "SPEECH"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "203",
+  "org_code" : "K005",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "696",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "29",
+  "room_number" : "204",
+  "org_code" : "K005",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "205",
+  "org_code" : "K005",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "2100",
+  "bldg_id" : "K005",
+  "length" : "70",
+  "width" : "30",
+  "room_number" : "208",
+  "org_code" : "K005",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "690",
+  "bldg_id" : "K005",
+  "length" : "23",
+  "width" : "30",
+  "room_number" : "209",
+  "org_code" : "K005",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "690",
+  "bldg_id" : "K005",
+  "length" : "23",
+  "width" : "30",
+  "room_number" : "211",
+  "org_code" : "K005",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "690",
+  "bldg_id" : "K005",
+  "length" : "23",
+  "width" : "30",
+  "room_number" : "213",
+  "org_code" : "K005",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "456",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "19",
+  "room_number" : "223",
+  "org_code" : "K005",
+  "room_function" : "ATTENDANCE OFFICE"
+}
+, {
+  "area" : "294",
+  "bldg_id" : "K005",
+  "length" : "21",
+  "width" : "14",
+  "room_number" : "224",
+  "org_code" : "K005",
+  "room_function" : "PARENT'S ROOM"
+}
+, {
+  "area" : "456",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "19",
+  "room_number" : "225",
+  "org_code" : "K005",
+  "room_function" : "RESOURCE ROOM"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "226",
+  "org_code" : "K005",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "364",
+  "bldg_id" : "K005",
+  "length" : "14",
+  "width" : "26",
+  "room_number" : "227",
+  "org_code" : "K005",
+  "room_function" : "FUNDED - ESL"
+}
+, {
+  "area" : "696",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "29",
+  "room_number" : "228",
+  "org_code" : "K005",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "229",
+  "org_code" : "K005",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "682",
+  "bldg_id" : "K005",
+  "length" : "22",
+  "width" : "31",
+  "room_number" : "300",
+  "org_code" : "K005",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "667",
+  "bldg_id" : "K005",
+  "length" : "23",
+  "width" : "29",
+  "room_number" : "301",
+  "org_code" : "K005",
+  "room_function" : "MULTI-PURPOSE CLASSROOM"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "302",
+  "org_code" : "K005",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "1368",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "57",
+  "room_number" : "303",
+  "org_code" : "K005",
+  "room_function" : "MULTI-PURPOSE CLASSROOM"
+}
+, {
+  "area" : "1416",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "59",
+  "room_number" : "304",
+  "org_code" : "K005",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "305",
+  "org_code" : "K005",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "667",
+  "bldg_id" : "K005",
+  "length" : "23",
+  "width" : "29",
+  "room_number" : "306",
+  "org_code" : "K005",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "696",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "29",
+  "room_number" : "307/9",
+  "org_code" : "K005",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "308",
+  "bldg_id" : "K005",
+  "length" : "22",
+  "width" : "14",
+  "room_number" : "308",
+  "org_code" : "K005",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "690",
+  "bldg_id" : "K005",
+  "length" : "23",
+  "width" : "30",
+  "room_number" : "311",
+  "org_code" : "K005",
+  "room_function" : "COMPUTER LAB"
+}
+, {
+  "area" : "690",
+  "bldg_id" : "K005",
+  "length" : "23",
+  "width" : "30",
+  "room_number" : "313",
+  "org_code" : "K005",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "456",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "19",
+  "room_number" : "323",
+  "org_code" : "K005",
+  "room_function" : "SBST"
+}
+, {
+  "area" : "440",
+  "bldg_id" : "K005",
+  "length" : "22",
+  "width" : "20",
+  "room_number" : "324",
+  "org_code" : "K005",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "696",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "29",
+  "room_number" : "325",
+  "org_code" : "K005",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "326",
+  "org_code" : "K005",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "667",
+  "bldg_id" : "K005",
+  "length" : "23",
+  "width" : "29",
+  "room_number" : "327",
+  "org_code" : "K005",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "328",
+  "org_code" : "K005",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "638",
+  "bldg_id" : "K005",
+  "length" : "22",
+  "width" : "29",
+  "room_number" : "400",
+  "org_code" : "K369",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "667",
+  "bldg_id" : "K005",
+  "length" : "23",
+  "width" : "29",
+  "room_number" : "401",
+  "org_code" : "K369",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "402",
+  "org_code" : "K369",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "667",
+  "bldg_id" : "K005",
+  "length" : "23",
+  "width" : "29",
+  "room_number" : "403",
+  "org_code" : "K369",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "667",
+  "bldg_id" : "K005",
+  "length" : "23",
+  "width" : "29",
+  "room_number" : "404",
+  "org_code" : "K369",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "405",
+  "org_code" : "K369",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "667",
+  "bldg_id" : "K005",
+  "length" : "23",
+  "width" : "29",
+  "room_number" : "406",
+  "org_code" : "K369",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "407/9",
+  "org_code" : "K369",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "294",
+  "bldg_id" : "K005",
+  "length" : "21",
+  "width" : "14",
+  "room_number" : "408",
+  "org_code" : "K369",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "411",
+  "org_code" : "K369",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "690",
+  "bldg_id" : "K005",
+  "length" : "23",
+  "width" : "30",
+  "room_number" : "413",
+  "org_code" : "K005",
+  "room_function" : "COMPUTER LAB"
+}
+, {
+  "area" : "360",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "15",
+  "room_number" : "423",
+  "org_code" : "K369",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "440",
+  "bldg_id" : "K005",
+  "length" : "22",
+  "width" : "20",
+  "room_number" : "424",
+  "org_code" : "K369",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "696",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "29",
+  "room_number" : "425",
+  "org_code" : "K369",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "426",
+  "org_code" : "K369",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "667",
+  "bldg_id" : "K005",
+  "length" : "23",
+  "width" : "29",
+  "room_number" : "427",
+  "org_code" : "K369",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K005",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "428",
+  "org_code" : "K369",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "4200",
+  "bldg_id" : "K005",
+  "length" : "70",
+  "width" : "60",
+  "room_number" : "AUD",
+  "org_code" : "K005",
+  "room_function" : "AUDITORIUM"
+}
+, {
+  "area" : "3750",
+  "bldg_id" : "K005",
+  "length" : "75",
+  "width" : "50",
+  "room_number" : "CAF",
+  "org_code" : "K005",
+  "room_function" : "STUDENT CAFETERIA"
+}
+, {
+  "area" : "3550",
+  "bldg_id" : "K005",
+  "length" : "71",
+  "width" : "50",
+  "room_number" : "GYM",
+  "org_code" : "K005",
+  "room_function" : "GYMNASIUM"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K006",
+  "length" : "28",
+  "width" : "24",
+  "room_number" : "007",
+  "org_code" : "K006",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "782",
+  "bldg_id" : "K006",
+  "length" : "46",
+  "width" : "17",
+  "room_number" : "010",
+  "org_code" : "K006",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "378",
+  "bldg_id" : "K006",
+  "length" : "21",
+  "width" : "18",
+  "room_number" : "014",
+  "org_code" : "K006",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "520",
+  "bldg_id" : "K006",
+  "length" : "26",
+  "width" : "20",
+  "room_number" : "101",
+  "org_code" : "K006",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "975",
+  "bldg_id" : "K006",
+  "length" : "39",
+  "width" : "25",
+  "room_number" : "102",
+  "org_code" : "K006",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "975",
+  "bldg_id" : "K006",
+  "length" : "39",
+  "width" : "25",
+  "room_number" : "103",
+  "org_code" : "K006",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "660",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "22",
+  "room_number" : "104",
+  "org_code" : "K006",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "946",
+  "bldg_id" : "K006",
+  "length" : "43",
+  "width" : "22",
+  "room_number" : "105",
+  "org_code" : "K006",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "946",
+  "bldg_id" : "K006",
+  "length" : "43",
+  "width" : "22",
+  "room_number" : "106",
+  "org_code" : "K006",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "946",
+  "bldg_id" : "K006",
+  "length" : "43",
+  "width" : "22",
+  "room_number" : "107",
+  "org_code" : "K006",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "946",
+  "bldg_id" : "K006",
+  "length" : "43",
+  "width" : "22",
+  "room_number" : "108",
+  "org_code" : "K006",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K006",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "109",
+  "org_code" : "K006",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "275",
+  "bldg_id" : "K006",
+  "length" : "25",
+  "width" : "11",
+  "room_number" : "115",
+  "org_code" : "K006",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "500",
+  "bldg_id" : "K006",
+  "length" : "25",
+  "width" : "20",
+  "room_number" : "117",
+  "org_code" : "K006",
+  "room_function" : "PRINCIPAL'S OFFICE"
+}
+, {
+  "area" : "3000",
+  "bldg_id" : "K006",
+  "length" : "60",
+  "width" : "50",
+  "room_number" : "120",
+  "org_code" : "K006",
+  "room_function" : "GYMNASIUM"
+}
+, {
+  "area" : "3600",
+  "bldg_id" : "K006",
+  "length" : "60",
+  "width" : "60",
+  "room_number" : "121",
+  "org_code" : "K006",
+  "room_function" : "STUDENT CAFETERIA"
+}
+, {
+  "area" : "500",
+  "bldg_id" : "K006",
+  "length" : "25",
+  "width" : "20",
+  "room_number" : "122",
+  "org_code" : "K006",
+  "room_function" : "TEACHER'S CAFETERIA"
+}
+, {
+  "area" : "320",
+  "bldg_id" : "K006",
+  "length" : "16",
+  "width" : "20",
+  "room_number" : "124",
+  "org_code" : "K006",
+  "room_function" : "NURSE/MEDICAL SUITE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "201",
+  "org_code" : "K006",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "202",
+  "org_code" : "K006",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "203",
+  "org_code" : "K006",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "204",
+  "org_code" : "K006",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "205",
+  "org_code" : "K006",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "206",
+  "org_code" : "K006",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "207",
+  "org_code" : "K006",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "208",
+  "org_code" : "K006",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "576",
+  "bldg_id" : "K006",
+  "length" : "24",
+  "width" : "24",
+  "room_number" : "212",
+  "org_code" : "K006",
+  "room_function" : "GUIDANCE OFFICE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "213",
+  "org_code" : "K006",
+  "room_function" : "COMPUTER LAB"
+}
+, {
+  "area" : "299",
+  "bldg_id" : "K006",
+  "length" : "23",
+  "width" : "13",
+  "room_number" : "215",
+  "org_code" : "K006",
+  "room_function" : "RESOURCE ROOM"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K006",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "216A",
+  "org_code" : "K006",
+  "room_function" : "COACH'S OFFICE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K006",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "216B",
+  "org_code" : "K006",
+  "room_function" : "COACH'S OFFICE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K006",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "216C",
+  "org_code" : "K006",
+  "room_function" : "COACH'S OFFICE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K006",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "216D",
+  "org_code" : "K006",
+  "room_function" : "COACH'S OFFICE"
+}
+, {
+  "area" : "230",
+  "bldg_id" : "K006",
+  "length" : "23",
+  "width" : "10",
+  "room_number" : "218",
+  "org_code" : "K006",
+  "room_function" : "PARENT'S ROOM"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "301",
+  "org_code" : "K006",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "302",
+  "org_code" : "K006",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "303",
+  "org_code" : "K006",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "304",
+  "org_code" : "K006",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "305",
+  "org_code" : "K006",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "306",
+  "org_code" : "K006",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "307",
+  "org_code" : "K006",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K006",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "308",
+  "org_code" : "K006",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "165",
+  "bldg_id" : "K006",
+  "length" : "15",
+  "width" : "11",
+  "room_number" : "309",
+  "org_code" : "K006",
+  "room_function" : "FUNDED - ESL"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K006",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "310",
+  "org_code" : "K006",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "378",
+  "bldg_id" : "K006",
+  "length" : "27",
+  "width" : "14",
+  "room_number" : "315",
+  "org_code" : "K006",
+  "room_function" : "PHYSICAL THERAPY"
+}
+, {
+  "area" : "624",
+  "bldg_id" : "K006",
+  "length" : "26",
+  "width" : "24",
+  "room_number" : "316",
+  "org_code" : "K006",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "459",
+  "bldg_id" : "K006",
+  "length" : "27",
+  "width" : "17",
+  "room_number" : "317",
+  "org_code" : "K006",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "300",
+  "bldg_id" : "K006",
+  "length" : "20",
+  "width" : "15",
+  "room_number" : "318",
+  "org_code" : "K006",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "1496",
+  "bldg_id" : "K006",
+  "length" : "68",
+  "width" : "22",
+  "room_number" : "401",
+  "org_code" : "K006",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "1222",
+  "bldg_id" : "K006",
+  "length" : "47",
+  "width" : "26",
+  "room_number" : "403/404",
+  "org_code" : "K006",
+  "room_function" : "ART ROOM"
+}
+, {
+  "area" : "748",
+  "bldg_id" : "K006",
+  "length" : "34",
+  "width" : "22",
+  "room_number" : "405",
+  "org_code" : "K006",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "748",
+  "bldg_id" : "K006",
+  "length" : "34",
+  "width" : "22",
+  "room_number" : "406",
+  "org_code" : "K006",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "374",
+  "bldg_id" : "K006",
+  "length" : "17",
+  "width" : "22",
+  "room_number" : "407/408",
+  "org_code" : "K006",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "748",
+  "bldg_id" : "K006",
+  "length" : "34",
+  "width" : "22",
+  "room_number" : "409",
+  "org_code" : "K006",
+  "room_function" : "COMPUTER LAB"
+}
+, {
+  "area" : "165",
+  "bldg_id" : "K006",
+  "length" : "15",
+  "width" : "11",
+  "room_number" : "410",
+  "org_code" : "K006",
+  "room_function" : "RESOURCE ROOM"
+}
+, {
+  "area" : "702",
+  "bldg_id" : "K006",
+  "length" : "26",
+  "width" : "27",
+  "room_number" : "411",
+  "org_code" : "K006",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "315",
+  "bldg_id" : "K006",
+  "length" : "21",
+  "width" : "15",
+  "room_number" : "416",
+  "org_code" : "K006",
+  "room_function" : "FUNDED - ESL"
+}
+, {
+  "area" : "120",
+  "bldg_id" : "K006",
+  "length" : "10",
+  "width" : "12",
+  "room_number" : "419A",
+  "org_code" : "K006",
+  "room_function" : "SPECIAL ED SUPPORT"
+}
+, {
+  "area" : "352",
+  "bldg_id" : "K006",
+  "length" : "22",
+  "width" : "16",
+  "room_number" : "419B",
+  "org_code" : "K006",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "120",
+  "bldg_id" : "K006",
+  "length" : "10",
+  "width" : "12",
+  "room_number" : "419C",
+  "org_code" : "K006",
+  "room_function" : "SPECIAL ED SUPPORT"
+}
+, {
+  "area" : "352",
+  "bldg_id" : "K006",
+  "length" : "22",
+  "width" : "16",
+  "room_number" : "420",
+  "org_code" : "K006",
+  "room_function" : "SAVE/SUSPENSION ROOM"
+}
+, {
+  "area" : "352",
+  "bldg_id" : "K006",
+  "length" : "22",
+  "width" : "16",
+  "room_number" : "420B",
+  "org_code" : "K006",
+  "room_function" : "SPEECH"
+}
+, {
+  "area" : "3900",
+  "bldg_id" : "K006",
+  "length" : "60",
+  "width" : "65",
+  "room_number" : "AUD",
+  "org_code" : "K006",
+  "room_function" : "AUDITORIUM"
+}
+, {
+  "area" : "4661",
+  "bldg_id" : "K007",
+  "length" : "79",
+  "width" : "59",
+  "room_number" : "101",
+  "org_code" : "K007",
+  "room_function" : "STUDENT CAFETERIA"
+}
+, {
+  "area" : "456",
+  "bldg_id" : "K007",
+  "length" : "24",
+  "width" : "19",
+  "room_number" : "106",
+  "org_code" : "K007",
+  "room_function" : "TEACHER'S CAFETERIA"
+}
+, {
+  "area" : "280",
+  "bldg_id" : "K007",
+  "length" : "20",
+  "width" : "14",
+  "room_number" : "121",
+  "org_code" : "K007",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "432",
+  "bldg_id" : "K007",
+  "length" : "27",
+  "width" : "16",
+  "room_number" : "127",
+  "org_code" : "K007",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "930",
+  "bldg_id" : "K007",
+  "length" : "30",
+  "width" : "31",
+  "room_number" : "131",
+  "org_code" : "K007",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "360",
+  "bldg_id" : "K007",
+  "length" : "30",
+  "width" : "12",
+  "room_number" : "133",
+  "org_code" : "K007",
+  "room_function" : "PRINCIPAL'S OFFICE"
+}
+, {
+  "area" : "3536",
+  "bldg_id" : "K007",
+  "length" : "68",
+  "width" : "52",
+  "room_number" : "140",
+  "org_code" : "K007",
+  "room_function" : "AUDITORIUM"
+}
+, {
+  "area" : "156",
+  "bldg_id" : "K007",
+  "length" : "13",
+  "width" : "12",
+  "room_number" : "141",
+  "org_code" : "K007",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "832",
+  "bldg_id" : "K007",
+  "length" : "32",
+  "width" : "26",
+  "room_number" : "143",
+  "org_code" : "K007",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "156",
+  "bldg_id" : "K007",
+  "length" : "13",
+  "width" : "12",
+  "room_number" : "144",
+  "org_code" : "K007",
+  "room_function" : "STAFF DEVELOPMENT"
+}
+, {
+  "area" : "120",
+  "bldg_id" : "K007",
+  "length" : "12",
+  "width" : "10",
+  "room_number" : "146",
+  "org_code" : "K007",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "928",
+  "bldg_id" : "K007",
+  "length" : "32",
+  "width" : "29",
+  "room_number" : "149",
+  "org_code" : "K007",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "540",
+  "bldg_id" : "K007",
+  "length" : "30",
+  "width" : "18",
+  "room_number" : "150",
+  "org_code" : "K007",
+  "room_function" : "NURSE/MEDICAL SUITE"
+}
+, {
+  "area" : "928",
+  "bldg_id" : "K007",
+  "length" : "32",
+  "width" : "29",
+  "room_number" : "155",
+  "org_code" : "K007",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "1036",
+  "bldg_id" : "K007",
+  "length" : "37",
+  "width" : "28",
+  "room_number" : "158",
+  "org_code" : "K007",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K007",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "161",
+  "org_code" : "K007",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "896",
+  "bldg_id" : "K007",
+  "length" : "32",
+  "width" : "28",
+  "room_number" : "164",
+  "org_code" : "K007",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "975",
+  "bldg_id" : "K007",
+  "length" : "39",
+  "width" : "25",
+  "room_number" : "166",
+  "org_code" : "K007",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K007",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "170",
+  "org_code" : "K007",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "2310",
+  "bldg_id" : "K007",
+  "length" : "55",
+  "width" : "42",
+  "room_number" : "201",
+  "org_code" : "K007",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "300",
+  "bldg_id" : "K007",
+  "length" : "20",
+  "width" : "15",
+  "room_number" : "202",
+  "org_code" : "K007",
+  "room_function" : "COMPUTER LAB"
+}
+, {
+  "area" : "624",
+  "bldg_id" : "K007",
+  "length" : "24",
+  "width" : "26",
+  "room_number" : "203",
+  "org_code" : "K007",
+  "room_function" : "SCIENCE CLASSROOM FOR PS"
+}
+, {
+  "area" : "624",
+  "bldg_id" : "K007",
+  "length" : "24",
+  "width" : "26",
+  "room_number" : "204",
+  "org_code" : "K007",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "624",
+  "bldg_id" : "K007",
+  "length" : "24",
+  "width" : "26",
+  "room_number" : "206",
+  "org_code" : "K007",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "330",
+  "bldg_id" : "K007",
+  "length" : "15",
+  "width" : "22",
+  "room_number" : "208/214",
+  "org_code" : "K007",
+  "room_function" : "OCCUPATIONAL THERAPY"
+}
+, {
+  "area" : "374",
+  "bldg_id" : "K007",
+  "length" : "22",
+  "width" : "17",
+  "room_number" : "210",
+  "org_code" : "K007",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "999",
+  "bldg_id" : "K007",
+  "length" : "27",
+  "width" : "37",
+  "room_number" : "211",
+  "org_code" : "K007",
+  "room_function" : "SCIENCE CLASSROOM FOR PS"
+}
+, {
+  "area" : "600",
+  "bldg_id" : "K007",
+  "length" : "24",
+  "width" : "25",
+  "room_number" : "218",
+  "org_code" : "K007",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "676",
+  "bldg_id" : "K007",
+  "length" : "26",
+  "width" : "26",
+  "room_number" : "220",
+  "org_code" : "K007",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "377",
+  "bldg_id" : "K007",
+  "length" : "29",
+  "width" : "13",
+  "room_number" : "227",
+  "org_code" : "K007",
+  "room_function" : "RESOURCE ROOM"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K007",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "231",
+  "org_code" : "K007",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K007",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "233",
+  "org_code" : "K007",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K007",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "241",
+  "org_code" : "K007",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "594",
+  "bldg_id" : "K007",
+  "length" : "54",
+  "width" : "11",
+  "room_number" : "242",
+  "org_code" : "K007",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "676",
+  "bldg_id" : "K007",
+  "length" : "26",
+  "width" : "26",
+  "room_number" : "243",
+  "org_code" : "K007",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "754",
+  "bldg_id" : "K007",
+  "length" : "26",
+  "width" : "29",
+  "room_number" : "249",
+  "org_code" : "K007",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "754",
+  "bldg_id" : "K007",
+  "length" : "26",
+  "width" : "29",
+  "room_number" : "250",
+  "org_code" : "K007",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "754",
+  "bldg_id" : "K007",
+  "length" : "26",
+  "width" : "29",
+  "room_number" : "253",
+  "org_code" : "K007",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "702",
+  "bldg_id" : "K007",
+  "length" : "26",
+  "width" : "27",
+  "room_number" : "256",
+  "org_code" : "K007",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "319",
+  "bldg_id" : "K007",
+  "length" : "11",
+  "width" : "29",
+  "room_number" : "257",
+  "org_code" : "K007",
+  "room_function" : "SPEECH"
+}
+, {
+  "area" : "702",
+  "bldg_id" : "K007",
+  "length" : "26",
+  "width" : "27",
+  "room_number" : "258",
+  "org_code" : "K007",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "754",
+  "bldg_id" : "K007",
+  "length" : "26",
+  "width" : "29",
+  "room_number" : "264",
+  "org_code" : "K007",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "884",
+  "bldg_id" : "K007",
+  "length" : "34",
+  "width" : "26",
+  "room_number" : "311",
+  "org_code" : "K007",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "810",
+  "bldg_id" : "K007",
+  "length" : "27",
+  "width" : "30",
+  "room_number" : "318",
+  "org_code" : "K007",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "810",
+  "bldg_id" : "K007",
+  "length" : "27",
+  "width" : "30",
+  "room_number" : "320",
+  "org_code" : "K007",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "290",
+  "bldg_id" : "K007",
+  "length" : "29",
+  "width" : "10",
+  "room_number" : "327",
+  "org_code" : "K004",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "377",
+  "bldg_id" : "K007",
+  "length" : "29",
+  "width" : "13",
+  "room_number" : "329",
+  "org_code" : "K007",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "378",
+  "bldg_id" : "K007",
+  "length" : "27",
+  "width" : "14",
+  "room_number" : "331",
+  "org_code" : "K007",
+  "room_function" : "FUNDED - READING"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K007",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "333",
+  "org_code" : "K007",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K007",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "341",
+  "org_code" : "K007",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "713",
+  "bldg_id" : "K007",
+  "length" : "31",
+  "width" : "23",
+  "room_number" : "342",
+  "org_code" : "K007",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K007",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "343",
+  "org_code" : "K007",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K007",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "349",
+  "org_code" : "K007",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K007",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "350",
+  "org_code" : "K007",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K007",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "353",
+  "org_code" : "K007",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "598",
+  "bldg_id" : "K007",
+  "length" : "23",
+  "width" : "26",
+  "room_number" : "356",
+  "org_code" : "K007",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "319",
+  "bldg_id" : "K007",
+  "length" : "11",
+  "width" : "29",
+  "room_number" : "357",
+  "org_code" : "K007",
+  "room_function" : "FUNDED - ESL"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K007",
+  "length" : "27",
+  "width" : "25",
+  "room_number" : "358",
+  "org_code" : "K007",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K007",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "364",
+  "org_code" : "K007",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "3180",
+  "bldg_id" : "K007",
+  "length" : "60",
+  "width" : "53",
+  "room_number" : "GYM",
+  "org_code" : "K007",
+  "room_function" : "GYMNASIUM"
+}
+, {
+  "area" : "200",
+  "bldg_id" : "K008",
+  "length" : "20",
+  "width" : "10",
+  "room_number" : "100",
+  "org_code" : "K008",
+  "room_function" : "NURSE/MEDICAL SUITE"
+}
+, {
+  "area" : "725",
+  "bldg_id" : "K008",
+  "length" : "25",
+  "width" : "29",
+  "room_number" : "102",
+  "org_code" : "K008",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "648",
+  "bldg_id" : "K008",
+  "length" : "24",
+  "width" : "27",
+  "room_number" : "103",
+  "org_code" : "K008",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "2555",
+  "bldg_id" : "K008",
+  "length" : "35",
+  "width" : "73",
+  "room_number" : "104",
+  "org_code" : "K008",
+  "room_function" : "AUDITORIUM"
+}
+, {
+  "area" : "2555",
+  "bldg_id" : "K008",
+  "length" : "73",
+  "width" : "35",
+  "room_number" : "105",
+  "org_code" : "K008",
+  "room_function" : "AUDITORIUM"
+}
+, {
+  "area" : "165",
+  "bldg_id" : "K008",
+  "length" : "15",
+  "width" : "11",
+  "room_number" : "106",
+  "org_code" : "K008",
+  "room_function" : "PARENT'S ROOM"
+}
+, {
+  "area" : "598",
+  "bldg_id" : "K008",
+  "length" : "26",
+  "width" : "23",
+  "room_number" : "108",
+  "org_code" : "K008",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "220",
+  "bldg_id" : "K008",
+  "length" : "20",
+  "width" : "11",
+  "room_number" : "108A",
+  "org_code" : "K008",
+  "room_function" : "PRINCIPAL'S OFFICE"
+}
+, {
+  "area" : "704",
+  "bldg_id" : "K008",
+  "length" : "22",
+  "width" : "32",
+  "room_number" : "109",
+  "org_code" : "K008",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "775",
+  "bldg_id" : "K008",
+  "length" : "25",
+  "width" : "31",
+  "room_number" : "110",
+  "org_code" : "K008",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "240",
+  "bldg_id" : "K008",
+  "length" : "20",
+  "width" : "12",
+  "room_number" : "111",
+  "org_code" : "K008",
+  "room_function" : "GUIDANCE OFFICE"
+}
+, {
+  "area" : "918",
+  "bldg_id" : "K008",
+  "length" : "27",
+  "width" : "34",
+  "room_number" : "113",
+  "org_code" : "K008",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K008",
+  "length" : "24",
+  "width" : "28",
+  "room_number" : "114",
+  "org_code" : "K008",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "756",
+  "bldg_id" : "K008",
+  "length" : "21",
+  "width" : "36",
+  "room_number" : "116",
+  "org_code" : "K008",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "240",
+  "bldg_id" : "K008",
+  "length" : "20",
+  "width" : "12",
+  "room_number" : "200",
+  "org_code" : "K008",
+  "room_function" : "SBST"
+}
+, {
+  "area" : "725",
+  "bldg_id" : "K008",
+  "length" : "25",
+  "width" : "29",
+  "room_number" : "202",
+  "org_code" : "K008",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "660",
+  "bldg_id" : "K008",
+  "length" : "22",
+  "width" : "30",
+  "room_number" : "203",
+  "org_code" : "K008",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "594",
+  "bldg_id" : "K008",
+  "length" : "22",
+  "width" : "27",
+  "room_number" : "204",
+  "org_code" : "K008",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "638",
+  "bldg_id" : "K008",
+  "length" : "22",
+  "width" : "29",
+  "room_number" : "205",
+  "org_code" : "K008",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "759",
+  "bldg_id" : "K008",
+  "length" : "23",
+  "width" : "33",
+  "room_number" : "206",
+  "org_code" : "K008",
+  "room_function" : "ART ROOM"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K008",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "207",
+  "org_code" : "K008",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "638",
+  "bldg_id" : "K008",
+  "length" : "22",
+  "width" : "29",
+  "room_number" : "208",
+  "org_code" : "K008",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "609",
+  "bldg_id" : "K008",
+  "length" : "21",
+  "width" : "29",
+  "room_number" : "209",
+  "org_code" : "K008",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "725",
+  "bldg_id" : "K008",
+  "length" : "25",
+  "width" : "29",
+  "room_number" : "210",
+  "org_code" : "K008",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "360",
+  "bldg_id" : "K008",
+  "length" : "18",
+  "width" : "20",
+  "room_number" : "211",
+  "org_code" : "K008",
+  "room_function" : "FUNDED - ESL"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K008",
+  "length" : "24",
+  "width" : "28",
+  "room_number" : "213",
+  "org_code" : "K008",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "700",
+  "bldg_id" : "K008",
+  "length" : "25",
+  "width" : "28",
+  "room_number" : "214",
+  "org_code" : "K008",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "598",
+  "bldg_id" : "K008",
+  "length" : "26",
+  "width" : "23",
+  "room_number" : "219",
+  "org_code" : "K008",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "240",
+  "bldg_id" : "K008",
+  "length" : "20",
+  "width" : "12",
+  "room_number" : "300",
+  "org_code" : "K008",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "360",
+  "bldg_id" : "K008",
+  "length" : "18",
+  "width" : "20",
+  "room_number" : "301",
+  "org_code" : "K008",
+  "room_function" : "RESOURCE ROOM"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K008",
+  "length" : "25",
+  "width" : "30",
+  "room_number" : "302",
+  "org_code" : "K008",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "660",
+  "bldg_id" : "K008",
+  "length" : "22",
+  "width" : "30",
+  "room_number" : "303",
+  "org_code" : "K008",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "638",
+  "bldg_id" : "K008",
+  "length" : "22",
+  "width" : "29",
+  "room_number" : "304",
+  "org_code" : "K008",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "682",
+  "bldg_id" : "K008",
+  "length" : "22",
+  "width" : "31",
+  "room_number" : "305",
+  "org_code" : "K008",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "660",
+  "bldg_id" : "K008",
+  "length" : "22",
+  "width" : "30",
+  "room_number" : "306",
+  "org_code" : "K008",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "621",
+  "bldg_id" : "K008",
+  "length" : "23",
+  "width" : "27",
+  "room_number" : "307",
+  "org_code" : "K008",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "638",
+  "bldg_id" : "K008",
+  "length" : "22",
+  "width" : "29",
+  "room_number" : "308",
+  "org_code" : "K008",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K008",
+  "length" : "21",
+  "width" : "32",
+  "room_number" : "309",
+  "org_code" : "K008",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K008",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "310",
+  "org_code" : "K008",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "864",
+  "bldg_id" : "K008",
+  "length" : "27",
+  "width" : "32",
+  "room_number" : "313",
+  "org_code" : "K008",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K008",
+  "length" : "24",
+  "width" : "28",
+  "room_number" : "314",
+  "org_code" : "K008",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "621",
+  "bldg_id" : "K008",
+  "length" : "23",
+  "width" : "27",
+  "room_number" : "320",
+  "org_code" : "K008",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "2190",
+  "bldg_id" : "K008",
+  "length" : "73",
+  "width" : "30",
+  "room_number" : "C05",
+  "org_code" : "K008",
+  "room_function" : "MULTI-PURPOSE ROOM"
+}
+, {
+  "area" : "2528",
+  "bldg_id" : "K008",
+  "length" : "79",
+  "width" : "32",
+  "room_number" : "C07",
+  "org_code" : "K008",
+  "room_function" : "STUDENT CAFETERIA"
+}
+, {
+  "area" : "384",
+  "bldg_id" : "K008",
+  "length" : "24",
+  "width" : "16",
+  "room_number" : "C08",
+  "org_code" : "K008",
+  "room_function" : "TEACHER'S ROOM"
+}
+, {
+  "area" : "140",
+  "bldg_id" : "K008",
+  "length" : "14",
+  "width" : "10",
+  "room_number" : "C15",
+  "org_code" : "K008",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "2263",
+  "bldg_id" : "K008",
+  "length" : "73",
+  "width" : "31",
+  "room_number" : "GYM",
+  "org_code" : "K008",
+  "room_function" : "GYMNASIUM"
+}
+, {
+  "area" : "810",
+  "bldg_id" : "K009",
+  "length" : "27",
+  "width" : "30",
+  "room_number" : "101",
+  "org_code" : "K009",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "448",
+  "bldg_id" : "K009",
+  "length" : "16",
+  "width" : "28",
+  "room_number" : "101A",
+  "org_code" : "K009",
+  "room_function" : "OT/PT"
+}
+, {
+  "area" : "754",
+  "bldg_id" : "K009",
+  "length" : "26",
+  "width" : "29",
+  "room_number" : "102",
+  "org_code" : "K009",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "900",
+  "bldg_id" : "K009",
+  "length" : "30",
+  "width" : "30",
+  "room_number" : "102A",
+  "org_code" : "K009",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "780",
+  "bldg_id" : "K009",
+  "length" : "26",
+  "width" : "30",
+  "room_number" : "103",
+  "org_code" : "K009",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "598",
+  "bldg_id" : "K009",
+  "length" : "26",
+  "width" : "23",
+  "room_number" : "104",
+  "org_code" : "K009",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K009",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "105",
+  "org_code" : "K009",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "725",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "29",
+  "room_number" : "106",
+  "org_code" : "K009",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K009",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "107",
+  "org_code" : "K009",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "107A",
+  "org_code" : "K009",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "754",
+  "bldg_id" : "K009",
+  "length" : "26",
+  "width" : "29",
+  "room_number" : "108",
+  "org_code" : "K009",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "390",
+  "bldg_id" : "K009",
+  "length" : "26",
+  "width" : "15",
+  "room_number" : "109",
+  "org_code" : "K009",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K009",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "110",
+  "org_code" : "K009",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "720",
+  "bldg_id" : "K009",
+  "length" : "24",
+  "width" : "30",
+  "room_number" : "110A",
+  "org_code" : "K009",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "432",
+  "bldg_id" : "K009",
+  "length" : "18",
+  "width" : "24",
+  "room_number" : "112",
+  "org_code" : "K009",
+  "room_function" : "PARENT'S ROOM"
+}
+, {
+  "area" : "300",
+  "bldg_id" : "K009",
+  "length" : "15",
+  "width" : "20",
+  "room_number" : "112A",
+  "org_code" : "K009",
+  "room_function" : "FUNDED - ESL"
+}
+, {
+  "area" : "696",
+  "bldg_id" : "K009",
+  "length" : "24",
+  "width" : "29",
+  "room_number" : "113A",
+  "org_code" : "K009",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "600",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "24",
+  "room_number" : "114A",
+  "org_code" : "K009",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "696",
+  "bldg_id" : "K009",
+  "length" : "29",
+  "width" : "24",
+  "room_number" : "115A",
+  "org_code" : "K009",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "754",
+  "bldg_id" : "K009",
+  "length" : "26",
+  "width" : "29",
+  "room_number" : "119",
+  "org_code" : "K009",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "621",
+  "bldg_id" : "K009",
+  "length" : "27",
+  "width" : "23",
+  "room_number" : "121",
+  "org_code" : "K009",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "696",
+  "bldg_id" : "K009",
+  "length" : "24",
+  "width" : "29",
+  "room_number" : "121A",
+  "org_code" : "K009",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "384",
+  "bldg_id" : "K009",
+  "length" : "16",
+  "width" : "24",
+  "room_number" : "122",
+  "org_code" : "K009",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "432",
+  "bldg_id" : "K009",
+  "length" : "24",
+  "width" : "18",
+  "room_number" : "122A",
+  "org_code" : "K009",
+  "room_function" : "SAVE/SUSPENSION ROOM"
+}
+, {
+  "area" : "140",
+  "bldg_id" : "K009",
+  "length" : "10",
+  "width" : "14",
+  "room_number" : "123",
+  "org_code" : "K009",
+  "room_function" : "GUIDANCE OFFICE"
+}
+, {
+  "area" : "432",
+  "bldg_id" : "K009",
+  "length" : "27",
+  "width" : "16",
+  "room_number" : "124",
+  "org_code" : "K009",
+  "room_function" : "COACH'S OFFICE"
+}
+, {
+  "area" : "432",
+  "bldg_id" : "K009",
+  "length" : "24",
+  "width" : "18",
+  "room_number" : "124A",
+  "org_code" : "K009",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "288",
+  "bldg_id" : "K009",
+  "length" : "18",
+  "width" : "16",
+  "room_number" : "126",
+  "org_code" : "K009",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "324",
+  "bldg_id" : "K009",
+  "length" : "18",
+  "width" : "18",
+  "room_number" : "127",
+  "org_code" : "K009",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K009",
+  "length" : "28",
+  "width" : "24",
+  "room_number" : "128",
+  "org_code" : "K009",
+  "room_function" : "PRINCIPAL'S OFFICE"
+}
+, {
+  "area" : "700",
+  "bldg_id" : "K009",
+  "length" : "28",
+  "width" : "25",
+  "room_number" : "130",
+  "org_code" : "K009",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "432",
+  "bldg_id" : "K009",
+  "length" : "18",
+  "width" : "24",
+  "room_number" : "132",
+  "org_code" : "K009",
+  "room_function" : "NURSE/MEDICAL SUITE"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "134",
+  "org_code" : "K009",
+  "room_function" : "TEACHER'S ROOM"
+}
+, {
+  "area" : "728",
+  "bldg_id" : "K009",
+  "length" : "26",
+  "width" : "28",
+  "room_number" : "201",
+  "org_code" : "K780",
+  "room_function" : "EIGHTH GRADE"
+}
+, {
+  "area" : "324",
+  "bldg_id" : "K009",
+  "length" : "18",
+  "width" : "18",
+  "room_number" : "201A",
+  "org_code" : "K780",
+  "room_function" : "GUIDANCE OFFICE"
+}
+, {
+  "area" : "837",
+  "bldg_id" : "K009",
+  "length" : "27",
+  "width" : "31",
+  "room_number" : "202",
+  "org_code" : "K780",
+  "room_function" : "PRINCIPAL'S OFFICE"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "202A",
+  "org_code" : "K780",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "806",
+  "bldg_id" : "K009",
+  "length" : "26",
+  "width" : "31",
+  "room_number" : "203",
+  "org_code" : "K780",
+  "room_function" : "PRINCIPAL'S OFFICE"
+}
+, {
+  "area" : "754",
+  "bldg_id" : "K009",
+  "length" : "26",
+  "width" : "29",
+  "room_number" : "204",
+  "org_code" : "K780",
+  "room_function" : "EIGHTH GRADE"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K009",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "205",
+  "org_code" : "K780",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K009",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "206",
+  "org_code" : "K780",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "837",
+  "bldg_id" : "K009",
+  "length" : "27",
+  "width" : "31",
+  "room_number" : "207",
+  "org_code" : "K780",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "207A",
+  "org_code" : "K780",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K009",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "208",
+  "org_code" : "K780",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "812",
+  "bldg_id" : "K009",
+  "length" : "28",
+  "width" : "29",
+  "room_number" : "208A",
+  "org_code" : "K780",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "432",
+  "bldg_id" : "K009",
+  "length" : "18",
+  "width" : "24",
+  "room_number" : "209",
+  "org_code" : "K780",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K009",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "210",
+  "org_code" : "K780",
+  "room_function" : "COMPUTER LAB"
+}
+, {
+  "area" : "560",
+  "bldg_id" : "K009",
+  "length" : "28",
+  "width" : "20",
+  "room_number" : "210A",
+  "org_code" : "K780",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "336",
+  "bldg_id" : "K009",
+  "length" : "14",
+  "width" : "24",
+  "room_number" : "212",
+  "org_code" : "K780",
+  "room_function" : "SBST"
+}
+, {
+  "area" : "696",
+  "bldg_id" : "K009",
+  "length" : "29",
+  "width" : "24",
+  "room_number" : "213A",
+  "org_code" : "K780",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "696",
+  "bldg_id" : "K009",
+  "length" : "29",
+  "width" : "24",
+  "room_number" : "215A",
+  "org_code" : "K780",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "324",
+  "bldg_id" : "K009",
+  "length" : "18",
+  "width" : "18",
+  "room_number" : "218A",
+  "org_code" : "K780",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "219",
+  "org_code" : "K009",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "221",
+  "org_code" : "K009",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "696",
+  "bldg_id" : "K009",
+  "length" : "29",
+  "width" : "24",
+  "room_number" : "221A",
+  "org_code" : "K780",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "975",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "39",
+  "room_number" : "224",
+  "org_code" : "K780",
+  "room_function" : "SIXTH GRADE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K009",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "225",
+  "org_code" : "K780",
+  "room_function" : "DUPLICATING/COPY ROOM"
+}
+, {
+  "area" : "810",
+  "bldg_id" : "K009",
+  "length" : "27",
+  "width" : "30",
+  "room_number" : "228",
+  "org_code" : "K780",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "600",
+  "bldg_id" : "K009",
+  "length" : "30",
+  "width" : "20",
+  "room_number" : "229",
+  "org_code" : "K780",
+  "room_function" : "SOCIAL WORKER/COUNSELOR"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K009",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "230",
+  "org_code" : "K780",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "780",
+  "bldg_id" : "K009",
+  "length" : "26",
+  "width" : "30",
+  "room_number" : "232",
+  "org_code" : "K780",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "600",
+  "bldg_id" : "K009",
+  "length" : "30",
+  "width" : "20",
+  "room_number" : "233",
+  "org_code" : "K780",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "756",
+  "bldg_id" : "K009",
+  "length" : "27",
+  "width" : "28",
+  "room_number" : "234",
+  "org_code" : "K780",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "5950",
+  "bldg_id" : "K009",
+  "length" : "70",
+  "width" : "85",
+  "room_number" : "AUD",
+  "org_code" : "K009",
+  "room_function" : "AUDITORIUM"
+}
+, {
+  "area" : "870",
+  "bldg_id" : "K009",
+  "length" : "29",
+  "width" : "30",
+  "room_number" : "B1",
+  "org_code" : "K009",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K009",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "B10",
+  "org_code" : "K009",
+  "room_function" : "DANCE ROOM"
+}
+, {
+  "area" : "918",
+  "bldg_id" : "K009",
+  "length" : "27",
+  "width" : "34",
+  "room_number" : "B10A",
+  "org_code" : "K009",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "576",
+  "bldg_id" : "K009",
+  "length" : "24",
+  "width" : "24",
+  "room_number" : "B11A",
+  "org_code" : "K009",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "896",
+  "bldg_id" : "K009",
+  "length" : "32",
+  "width" : "28",
+  "room_number" : "B12A",
+  "org_code" : "K009",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "B17A",
+  "org_code" : "K009",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "874",
+  "bldg_id" : "K009",
+  "length" : "23",
+  "width" : "38",
+  "room_number" : "B18A",
+  "org_code" : "K009",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "700",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "28",
+  "room_number" : "B19",
+  "org_code" : "K009",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "B19A",
+  "org_code" : "K009",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "841",
+  "bldg_id" : "K009",
+  "length" : "29",
+  "width" : "29",
+  "room_number" : "B2",
+  "org_code" : "K009",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "725",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "29",
+  "room_number" : "B21",
+  "org_code" : "K009",
+  "room_function" : "SPEECH"
+}
+, {
+  "area" : "576",
+  "bldg_id" : "K009",
+  "length" : "24",
+  "width" : "24",
+  "room_number" : "B25A",
+  "org_code" : "K009",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "30",
+  "room_number" : "B3",
+  "org_code" : "K009",
+  "room_function" : "ART ROOM"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "B34",
+  "org_code" : "K009",
+  "room_function" : "MUSIC ROOM"
+}
+, {
+  "area" : "576",
+  "bldg_id" : "K009",
+  "length" : "24",
+  "width" : "24",
+  "room_number" : "B3A",
+  "org_code" : "K009",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "30",
+  "room_number" : "B4",
+  "org_code" : "K009",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "30",
+  "room_number" : "B5",
+  "org_code" : "K009",
+  "room_function" : "ART ROOM"
+}
+, {
+  "area" : "725",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "29",
+  "room_number" : "B6",
+  "org_code" : "K009",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "30",
+  "room_number" : "B7",
+  "org_code" : "K009",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K009",
+  "length" : "25",
+  "width" : "30",
+  "room_number" : "B8",
+  "org_code" : "K009",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "200",
+  "bldg_id" : "K009",
+  "length" : "20",
+  "width" : "10",
+  "room_number" : "B9",
+  "org_code" : "K009",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "3500",
+  "bldg_id" : "K009",
+  "length" : "50",
+  "width" : "70",
+  "room_number" : "GYM",
+  "org_code" : "K009",
+  "room_function" : "GYMNASIUM"
+}
+, {
+  "area" : "7200",
+  "bldg_id" : "K009",
+  "length" : "60",
+  "width" : "120",
+  "room_number" : "ST CAF",
+  "org_code" : "K009",
+  "room_function" : "STUDENT CAFETERIA"
+}
+, {
+  "area" : "588",
+  "bldg_id" : "K010",
+  "length" : "28",
+  "width" : "21",
+  "room_number" : "101",
+  "org_code" : "K010",
+  "room_function" : "MUSIC ROOM"
+}
+, {
+  "area" : "126",
+  "bldg_id" : "K010",
+  "length" : "14",
+  "width" : "9",
+  "room_number" : "102",
+  "org_code" : "K010",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "126",
+  "bldg_id" : "K010",
+  "length" : "14",
+  "width" : "9",
+  "room_number" : "103",
+  "org_code" : "K010",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "156",
+  "bldg_id" : "K010",
+  "length" : "13",
+  "width" : "12",
+  "room_number" : "107",
+  "org_code" : "K010",
+  "room_function" : "PARENT'S ROOM"
+}
+, {
+  "area" : "936",
+  "bldg_id" : "K010",
+  "length" : "24",
+  "width" : "39",
+  "room_number" : "108",
+  "org_code" : "K010",
+  "room_function" : "KITCHEN"
+}
+, {
+  "area" : "532",
+  "bldg_id" : "K010",
+  "length" : "19",
+  "width" : "28",
+  "room_number" : "114",
+  "org_code" : "K010",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "700",
+  "bldg_id" : "K010",
+  "length" : "28",
+  "width" : "25",
+  "room_number" : "115",
+  "org_code" : "K010",
+  "room_function" : "ART ROOM"
+}
+, {
+  "area" : "528",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "24",
+  "room_number" : "116",
+  "org_code" : "K010",
+  "room_function" : "TEACHER'S CAFETERIA"
+}
+, {
+  "area" : "24",
+  "bldg_id" : "K010",
+  "length" : "6",
+  "width" : "4",
+  "room_number" : "152",
+  "org_code" : "K010",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "4752",
+  "bldg_id" : "K010",
+  "length" : "88",
+  "width" : "54",
+  "room_number" : "153",
+  "org_code" : "K010",
+  "room_function" : "AUDITORIUM"
+}
+, {
+  "area" : "204",
+  "bldg_id" : "K010",
+  "length" : "17",
+  "width" : "12",
+  "room_number" : "155",
+  "org_code" : "K010",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "204",
+  "bldg_id" : "K010",
+  "length" : "17",
+  "width" : "12",
+  "room_number" : "156",
+  "org_code" : "K010",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "336",
+  "bldg_id" : "K010",
+  "length" : "24",
+  "width" : "14",
+  "room_number" : "161",
+  "org_code" : "K010",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "594",
+  "bldg_id" : "K010",
+  "length" : "27",
+  "width" : "22",
+  "room_number" : "201",
+  "org_code" : "K010",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "897",
+  "bldg_id" : "K010",
+  "length" : "23",
+  "width" : "39",
+  "room_number" : "203",
+  "org_code" : "K010",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "206",
+  "org_code" : "K010",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "888",
+  "bldg_id" : "K010",
+  "length" : "24",
+  "width" : "37",
+  "room_number" : "207",
+  "org_code" : "K010",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "648",
+  "bldg_id" : "K010",
+  "length" : "24",
+  "width" : "27",
+  "room_number" : "208",
+  "org_code" : "K010",
+  "room_function" : "SETSS"
+}
+, {
+  "area" : "888",
+  "bldg_id" : "K010",
+  "length" : "24",
+  "width" : "37",
+  "room_number" : "209",
+  "org_code" : "K010",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K010",
+  "length" : "28",
+  "width" : "24",
+  "room_number" : "210",
+  "org_code" : "K010",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K010",
+  "length" : "28",
+  "width" : "24",
+  "room_number" : "212",
+  "org_code" : "K010",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "912",
+  "bldg_id" : "K010",
+  "length" : "24",
+  "width" : "38",
+  "room_number" : "213",
+  "org_code" : "K010",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "207",
+  "bldg_id" : "K010",
+  "length" : "23",
+  "width" : "9",
+  "room_number" : "213A",
+  "org_code" : "K010",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "214",
+  "org_code" : "K010",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K010",
+  "length" : "25",
+  "width" : "30",
+  "room_number" : "215",
+  "org_code" : "K010",
+  "room_function" : "GUIDANCE OFFICE"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "216",
+  "org_code" : "K010",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "108",
+  "bldg_id" : "K010",
+  "length" : "12",
+  "width" : "9",
+  "room_number" : "255",
+  "org_code" : "K010",
+  "room_function" : "SETSS"
+}
+, {
+  "area" : "396",
+  "bldg_id" : "K010",
+  "length" : "18",
+  "width" : "22",
+  "room_number" : "257",
+  "org_code" : "K010",
+  "room_function" : "SPEECH"
+}
+, {
+  "area" : "250",
+  "bldg_id" : "K010",
+  "length" : "25",
+  "width" : "10",
+  "room_number" : "258",
+  "org_code" : "K010",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "312",
+  "bldg_id" : "K010",
+  "length" : "24",
+  "width" : "13",
+  "room_number" : "260",
+  "org_code" : "K010",
+  "room_function" : "PRINCIPAL'S OFFICE"
+}
+, {
+  "area" : "750",
+  "bldg_id" : "K010",
+  "length" : "30",
+  "width" : "25",
+  "room_number" : "261",
+  "org_code" : "KSBH",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "301",
+  "org_code" : "K010",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "303",
+  "org_code" : "K010",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "28",
+  "width" : "22",
+  "room_number" : "305",
+  "org_code" : "K010",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "1075",
+  "bldg_id" : "K010",
+  "length" : "43",
+  "width" : "25",
+  "room_number" : "306",
+  "org_code" : "K010",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "307",
+  "org_code" : "K010",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "308",
+  "org_code" : "K010",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "309",
+  "org_code" : "K010",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "310",
+  "org_code" : "K010",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "311",
+  "org_code" : "K010",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "312",
+  "org_code" : "K010",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "313",
+  "org_code" : "K010",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "314",
+  "org_code" : "K010",
+  "room_function" : "SCIENCE LAB"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "315",
+  "org_code" : "K010",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "316",
+  "org_code" : "K010",
+  "room_function" : "SCIENCE LAB"
+}
+, {
+  "area" : "325",
+  "bldg_id" : "K010",
+  "length" : "25",
+  "width" : "13",
+  "room_number" : "355",
+  "org_code" : "K010",
+  "room_function" : "SBST"
+}
+, {
+  "area" : "336",
+  "bldg_id" : "K010",
+  "length" : "24",
+  "width" : "14",
+  "room_number" : "360",
+  "org_code" : "K010",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "3534",
+  "bldg_id" : "K010",
+  "length" : "62",
+  "width" : "57",
+  "room_number" : "370",
+  "org_code" : "K010",
+  "room_function" : "GYMNASIUM"
+}
+, {
+  "area" : "180",
+  "bldg_id" : "K010",
+  "length" : "15",
+  "width" : "12",
+  "room_number" : "372",
+  "org_code" : "K010",
+  "room_function" : "SPECIAL ED SUPPORT"
+}
+, {
+  "area" : "156",
+  "bldg_id" : "K010",
+  "length" : "12",
+  "width" : "13",
+  "room_number" : "372A",
+  "org_code" : "K010",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "510",
+  "bldg_id" : "K010",
+  "length" : "30",
+  "width" : "17",
+  "room_number" : "372B",
+  "org_code" : "K010",
+  "room_function" : "OCCUPATIONAL THERAPY"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "28",
+  "width" : "22",
+  "room_number" : "401",
+  "org_code" : "K010",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "403",
+  "org_code" : "K010",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "404",
+  "org_code" : "K010",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "588",
+  "bldg_id" : "K010",
+  "length" : "21",
+  "width" : "28",
+  "room_number" : "405",
+  "org_code" : "K010",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "406",
+  "org_code" : "K010",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "407",
+  "org_code" : "K010",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "644",
+  "bldg_id" : "K010",
+  "length" : "23",
+  "width" : "28",
+  "room_number" : "408",
+  "org_code" : "K010",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "409",
+  "org_code" : "K010",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "410",
+  "org_code" : "K010",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "411",
+  "org_code" : "K010",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "644",
+  "bldg_id" : "K010",
+  "length" : "23",
+  "width" : "28",
+  "room_number" : "412",
+  "org_code" : "K010",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "413",
+  "org_code" : "K010",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "414",
+  "org_code" : "K010",
+  "room_function" : "COMPUTER LAB"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K010",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "415",
+  "org_code" : "K010",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "588",
+  "bldg_id" : "K010",
+  "length" : "21",
+  "width" : "28",
+  "room_number" : "416",
+  "org_code" : "K010",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "208",
+  "bldg_id" : "K010",
+  "length" : "16",
+  "width" : "13",
+  "room_number" : "455",
+  "org_code" : "K010",
+  "room_function" : "COACH'S OFFICE"
+}
+, {
+  "area" : "336",
+  "bldg_id" : "K010",
+  "length" : "24",
+  "width" : "14",
+  "room_number" : "460",
+  "org_code" : "K010",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "8700",
+  "bldg_id" : "K010",
+  "length" : "150",
+  "width" : "58",
+  "room_number" : "CAF",
+  "org_code" : "K010",
+  "room_function" : "STUDENT CAFETERIA"
+}
+, {
+  "area" : "324",
+  "bldg_id" : "K011",
+  "length" : "12",
+  "width" : "27",
+  "room_number" : "101",
+  "org_code" : "K011",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "102",
+  "org_code" : "K011",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "103",
+  "org_code" : "K011",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "104",
+  "org_code" : "K011",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "105",
+  "org_code" : "K011",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "106",
+  "org_code" : "K011",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "624",
+  "bldg_id" : "K011",
+  "length" : "24",
+  "width" : "26",
+  "room_number" : "108",
+  "org_code" : "K011",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "600",
+  "bldg_id" : "K011",
+  "length" : "24",
+  "width" : "25",
+  "room_number" : "110",
+  "org_code" : "K011",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "324",
+  "bldg_id" : "K011",
+  "length" : "12",
+  "width" : "27",
+  "room_number" : "112",
+  "org_code" : "K011",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "320",
+  "bldg_id" : "K011",
+  "length" : "16",
+  "width" : "20",
+  "room_number" : "114",
+  "org_code" : "K011",
+  "room_function" : "PRINCIPAL'S OFFICE"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K011",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "116",
+  "org_code" : "K011",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "754",
+  "bldg_id" : "K011",
+  "length" : "26",
+  "width" : "29",
+  "room_number" : "117",
+  "org_code" : "K011",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "240",
+  "bldg_id" : "K011",
+  "length" : "12",
+  "width" : "20",
+  "room_number" : "118",
+  "org_code" : "K011",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "702",
+  "bldg_id" : "K011",
+  "length" : "26",
+  "width" : "27",
+  "room_number" : "119",
+  "org_code" : "K011",
+  "room_function" : "NURSE/MEDICAL SUITE"
+}
+, {
+  "area" : "324",
+  "bldg_id" : "K011",
+  "length" : "12",
+  "width" : "27",
+  "room_number" : "201",
+  "org_code" : "K011",
+  "room_function" : "GUIDANCE OFFICE"
+}
+, {
+  "area" : "648",
+  "bldg_id" : "K011",
+  "length" : "24",
+  "width" : "27",
+  "room_number" : "202",
+  "org_code" : "K011",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "203",
+  "org_code" : "K011",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "204",
+  "org_code" : "K011",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "205",
+  "org_code" : "K011",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "648",
+  "bldg_id" : "K011",
+  "length" : "24",
+  "width" : "27",
+  "room_number" : "206",
+  "org_code" : "K011",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "918",
+  "bldg_id" : "K011",
+  "length" : "34",
+  "width" : "27",
+  "room_number" : "208",
+  "org_code" : "K011",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "648",
+  "bldg_id" : "K011",
+  "length" : "24",
+  "width" : "27",
+  "room_number" : "210",
+  "org_code" : "K011",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "648",
+  "bldg_id" : "K011",
+  "length" : "24",
+  "width" : "27",
+  "room_number" : "212",
+  "org_code" : "K011",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "728",
+  "bldg_id" : "K011",
+  "length" : "26",
+  "width" : "28",
+  "room_number" : "214",
+  "org_code" : "K011",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "700",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "28",
+  "room_number" : "217",
+  "org_code" : "K011",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "219",
+  "org_code" : "K011",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "276",
+  "bldg_id" : "K011",
+  "length" : "12",
+  "width" : "23",
+  "room_number" : "221",
+  "org_code" : "K011",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "324",
+  "bldg_id" : "K011",
+  "length" : "12",
+  "width" : "27",
+  "room_number" : "301",
+  "org_code" : "K011",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "302",
+  "org_code" : "K011",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "303",
+  "org_code" : "K011",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K011",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "304",
+  "org_code" : "K011",
+  "room_function" : "COMPUTER LAB"
+}
+, {
+  "area" : "702",
+  "bldg_id" : "K011",
+  "length" : "27",
+  "width" : "26",
+  "room_number" : "305",
+  "org_code" : "K011",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "624",
+  "bldg_id" : "K011",
+  "length" : "24",
+  "width" : "26",
+  "room_number" : "306",
+  "org_code" : "K011",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "648",
+  "bldg_id" : "K011",
+  "length" : "24",
+  "width" : "27",
+  "room_number" : "308",
+  "org_code" : "K011",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "243",
+  "bldg_id" : "K011",
+  "length" : "27",
+  "width" : "9",
+  "room_number" : "310",
+  "org_code" : "K011",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "648",
+  "bldg_id" : "K011",
+  "length" : "24",
+  "width" : "27",
+  "room_number" : "312",
+  "org_code" : "K011",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "648",
+  "bldg_id" : "K011",
+  "length" : "24",
+  "width" : "27",
+  "room_number" : "314",
+  "org_code" : "K011",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "624",
+  "bldg_id" : "K011",
+  "length" : "24",
+  "width" : "26",
+  "room_number" : "316",
+  "org_code" : "K011",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "700",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "28",
+  "room_number" : "317",
+  "org_code" : "K011",
+  "room_function" : "FUNDED - MATH"
+}
+, {
+  "area" : "648",
+  "bldg_id" : "K011",
+  "length" : "24",
+  "width" : "27",
+  "room_number" : "319",
+  "org_code" : "K011",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "324",
+  "bldg_id" : "K011",
+  "length" : "12",
+  "width" : "27",
+  "room_number" : "321",
+  "org_code" : "K011",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "5040",
+  "bldg_id" : "K011",
+  "length" : "90",
+  "width" : "56",
+  "room_number" : "AUD.",
+  "org_code" : "K011",
+  "room_function" : "AUDITORIUM"
+}
+, {
+  "area" : "3750",
+  "bldg_id" : "K011",
+  "length" : "75",
+  "width" : "50",
+  "room_number" : "CAF",
+  "org_code" : "K011",
+  "room_function" : "STUDENT CAFETERIA"
+}
+, {
+  "area" : "324",
+  "bldg_id" : "K011",
+  "length" : "12",
+  "width" : "27",
+  "room_number" : "G1",
+  "org_code" : "K011",
+  "room_function" : "SPEECH"
+}
+, {
+  "area" : "648",
+  "bldg_id" : "K011",
+  "length" : "24",
+  "width" : "27",
+  "room_number" : "G10",
+  "org_code" : "K011",
+  "room_function" : "ART ROOM"
+}
+, {
+  "area" : "168",
+  "bldg_id" : "K011",
+  "length" : "14",
+  "width" : "12",
+  "room_number" : "G12",
+  "org_code" : "K011",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "540",
+  "bldg_id" : "K011",
+  "length" : "20",
+  "width" : "27",
+  "room_number" : "G15",
+  "org_code" : "K011",
+  "room_function" : "TEACHER'S CAFETERIA"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "G17",
+  "org_code" : "K011",
+  "room_function" : "ART ROOM"
+}
+, {
+  "area" : "324",
+  "bldg_id" : "K011",
+  "length" : "12",
+  "width" : "27",
+  "room_number" : "G19",
+  "org_code" : "K011",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "648",
+  "bldg_id" : "K011",
+  "length" : "24",
+  "width" : "27",
+  "room_number" : "G2",
+  "org_code" : "K011",
+  "room_function" : "OCCUPATIONAL THERAPY"
+}
+, {
+  "area" : "60",
+  "bldg_id" : "K011",
+  "length" : "10",
+  "width" : "6",
+  "room_number" : "G24",
+  "org_code" : "K011",
+  "room_function" : "LOCKER ROOM"
+}
+, {
+  "area" : "729",
+  "bldg_id" : "K011",
+  "length" : "27",
+  "width" : "27",
+  "room_number" : "G26",
+  "org_code" : "K011",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "700",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "28",
+  "room_number" : "G28",
+  "org_code" : "K011",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "G3",
+  "org_code" : "K011",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "728",
+  "bldg_id" : "K011",
+  "length" : "26",
+  "width" : "28",
+  "room_number" : "G32",
+  "org_code" : "K011",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "702",
+  "bldg_id" : "K011",
+  "length" : "26",
+  "width" : "27",
+  "room_number" : "G34",
+  "org_code" : "K011",
+  "room_function" : "MUSIC ROOM"
+}
+, {
+  "area" : "378",
+  "bldg_id" : "K011",
+  "length" : "14",
+  "width" : "27",
+  "room_number" : "G36",
+  "org_code" : "K011",
+  "room_function" : "SPECIAL ED SUPPORT"
+}
+, {
+  "area" : "336",
+  "bldg_id" : "K011",
+  "length" : "24",
+  "width" : "14",
+  "room_number" : "G38",
+  "org_code" : "K011",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "G4",
+  "org_code" : "K011",
+  "room_function" : "SCIENCE CLASSROOM FOR PS"
+}
+, {
+  "area" : "288",
+  "bldg_id" : "K011",
+  "length" : "24",
+  "width" : "12",
+  "room_number" : "G49",
+  "org_code" : "K011",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "G5",
+  "org_code" : "K011",
+  "room_function" : "MUSIC ROOM"
+}
+, {
+  "area" : "272",
+  "bldg_id" : "K011",
+  "length" : "17",
+  "width" : "16",
+  "room_number" : "G50",
+  "org_code" : "K011",
+  "room_function" : "KITCHEN"
+}
+, {
+  "area" : "272",
+  "bldg_id" : "K011",
+  "length" : "17",
+  "width" : "16",
+  "room_number" : "G52",
+  "org_code" : "K011",
+  "room_function" : "DUPLICATING/COPY ROOM"
+}
+, {
+  "area" : "600",
+  "bldg_id" : "K011",
+  "length" : "25",
+  "width" : "24",
+  "room_number" : "G6",
+  "org_code" : "K011",
+  "room_function" : "SCIENCE CLASSROOM FOR PS"
+}
+, {
+  "area" : "648",
+  "bldg_id" : "K011",
+  "length" : "24",
+  "width" : "27",
+  "room_number" : "G8",
+  "org_code" : "K011",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "3380",
+  "bldg_id" : "K011",
+  "length" : "65",
+  "width" : "52",
+  "room_number" : "GYM.",
+  "org_code" : "K011",
+  "room_function" : "GYMNASIUM"
+}
+, {
+  "area" : "810",
+  "bldg_id" : "K012",
+  "length" : "30",
+  "width" : "27",
+  "room_number" : "102",
+  "org_code" : "K012",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "756",
+  "bldg_id" : "K012",
+  "length" : "27",
+  "width" : "28",
+  "room_number" : "105",
+  "org_code" : "K012",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "756",
+  "bldg_id" : "K012",
+  "length" : "27",
+  "width" : "28",
+  "room_number" : "107",
+  "org_code" : "K012",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "784",
+  "bldg_id" : "K012",
+  "length" : "28",
+  "width" : "28",
+  "room_number" : "108",
+  "org_code" : "K012",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "784",
+  "bldg_id" : "K012",
+  "length" : "28",
+  "width" : "28",
+  "room_number" : "110",
+  "org_code" : "K012",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "400",
+  "bldg_id" : "K012",
+  "length" : "20",
+  "width" : "20",
+  "room_number" : "113",
+  "org_code" : "K012",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "272",
+  "bldg_id" : "K012",
+  "length" : "17",
+  "width" : "16",
+  "room_number" : "113A",
+  "org_code" : "K012",
+  "room_function" : "SOCIAL WORKER/COUNSELOR"
+}
+, {
+  "area" : "810",
+  "bldg_id" : "K012",
+  "length" : "30",
+  "width" : "27",
+  "room_number" : "116",
+  "org_code" : "K012",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "288",
+  "bldg_id" : "K012",
+  "length" : "16",
+  "width" : "18",
+  "room_number" : "118",
+  "org_code" : "K012",
+  "room_function" : "NURSE/MEDICAL SUITE"
+}
+, {
+  "area" : "780",
+  "bldg_id" : "K012",
+  "length" : "30",
+  "width" : "26",
+  "room_number" : "119",
+  "org_code" : "K012",
+  "room_function" : "PRINCIPAL'S OFFICE"
+}
+, {
+  "area" : "441",
+  "bldg_id" : "K012",
+  "length" : "21",
+  "width" : "21",
+  "room_number" : "127",
+  "org_code" : "K012",
+  "room_function" : "TEACHER'S CAFETERIA"
+}
+, {
+  "area" : "300",
+  "bldg_id" : "K012",
+  "length" : "20",
+  "width" : "15",
+  "room_number" : "128",
+  "org_code" : "K012",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "240",
+  "bldg_id" : "K012",
+  "length" : "12",
+  "width" : "20",
+  "room_number" : "130",
+  "org_code" : "K012",
+  "room_function" : "PARENT'S ROOM"
+}
+, {
+  "area" : "462",
+  "bldg_id" : "K012",
+  "length" : "21",
+  "width" : "22",
+  "room_number" : "132",
+  "org_code" : "K012",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "810",
+  "bldg_id" : "K012",
+  "length" : "30",
+  "width" : "27",
+  "room_number" : "134",
+  "org_code" : "K012",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "136",
+  "org_code" : "K012",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "2809",
+  "bldg_id" : "K012",
+  "length" : "53",
+  "width" : "53",
+  "room_number" : "137",
+  "org_code" : "K012",
+  "room_function" : "GYMNASIUM"
+}
+, {
+  "area" : "810",
+  "bldg_id" : "K012",
+  "length" : "30",
+  "width" : "27",
+  "room_number" : "140",
+  "org_code" : "K012",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "202",
+  "org_code" : "K012",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "400",
+  "bldg_id" : "K012",
+  "length" : "20",
+  "width" : "20",
+  "room_number" : "203",
+  "org_code" : "K012",
+  "room_function" : "FUNDED - LITERACY"
+}
+, {
+  "area" : "441",
+  "bldg_id" : "K012",
+  "length" : "21",
+  "width" : "21",
+  "room_number" : "204",
+  "org_code" : "K012",
+  "room_function" : "GUIDANCE OFFICE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "205",
+  "org_code" : "K012",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "207",
+  "org_code" : "K012",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "208",
+  "org_code" : "K012",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "400",
+  "bldg_id" : "K012",
+  "length" : "20",
+  "width" : "20",
+  "room_number" : "209",
+  "org_code" : "K012",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "210",
+  "org_code" : "K012",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "441",
+  "bldg_id" : "K012",
+  "length" : "21",
+  "width" : "21",
+  "room_number" : "212",
+  "org_code" : "K012",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "180",
+  "bldg_id" : "K012",
+  "length" : "15",
+  "width" : "12",
+  "room_number" : "215",
+  "org_code" : "K012",
+  "room_function" : "GUIDANCE OFFICE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "216",
+  "org_code" : "K012",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "218",
+  "org_code" : "K012",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "219",
+  "org_code" : "K012",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "420",
+  "bldg_id" : "K012",
+  "length" : "21",
+  "width" : "20",
+  "room_number" : "221",
+  "org_code" : "K012",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "300",
+  "bldg_id" : "K012",
+  "length" : "20",
+  "width" : "15",
+  "room_number" : "228",
+  "org_code" : "K012",
+  "room_function" : "SCIENCE PREP ROOM"
+}
+, {
+  "area" : "1089",
+  "bldg_id" : "K012",
+  "length" : "33",
+  "width" : "33",
+  "room_number" : "230",
+  "org_code" : "K012",
+  "room_function" : "SCIENCE LAB"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "234",
+  "org_code" : "K012",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "441",
+  "bldg_id" : "K012",
+  "length" : "21",
+  "width" : "21",
+  "room_number" : "236",
+  "org_code" : "K012",
+  "room_function" : "FUNDED - ESL"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "240",
+  "org_code" : "K012",
+  "room_function" : "THEATRE ARTS/DRAMA"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "302",
+  "org_code" : "K012",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "462",
+  "bldg_id" : "K012",
+  "length" : "21",
+  "width" : "22",
+  "room_number" : "303",
+  "org_code" : "K012",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "305",
+  "org_code" : "K012",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "307",
+  "org_code" : "K012",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "308",
+  "org_code" : "K012",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "462",
+  "bldg_id" : "K012",
+  "length" : "21",
+  "width" : "22",
+  "room_number" : "309",
+  "org_code" : "K484",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "310",
+  "org_code" : "K012",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "506",
+  "bldg_id" : "K012",
+  "length" : "22",
+  "width" : "23",
+  "room_number" : "312",
+  "org_code" : "K012",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "313",
+  "org_code" : "K484",
+  "room_function" : "SIXTH GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "316",
+  "org_code" : "K012",
+  "room_function" : "DUPLICATING/COPY ROOM"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "318",
+  "org_code" : "K484",
+  "room_function" : "GUIDANCE OFFICE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "319",
+  "org_code" : "K484",
+  "room_function" : "SIXTH GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "321",
+  "org_code" : "K484",
+  "room_function" : "COMPUTER LAB"
+}
+, {
+  "area" : "1156",
+  "bldg_id" : "K012",
+  "length" : "34",
+  "width" : "34",
+  "room_number" : "330",
+  "org_code" : "K484",
+  "room_function" : "SCIENCE LAB"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "334",
+  "org_code" : "K484",
+  "room_function" : "SIXTH GRADE"
+}
+, {
+  "area" : "120",
+  "bldg_id" : "K012",
+  "length" : "10",
+  "width" : "12",
+  "room_number" : "336",
+  "org_code" : "K484",
+  "room_function" : "PARENT'S ROOM"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "340",
+  "org_code" : "K484",
+  "room_function" : "SIXTH GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "402",
+  "org_code" : "K484",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "405",
+  "org_code" : "K484",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "407",
+  "org_code" : "K484",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "408",
+  "org_code" : "K484",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "410",
+  "org_code" : "K484",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "506",
+  "bldg_id" : "K012",
+  "length" : "22",
+  "width" : "23",
+  "room_number" : "412",
+  "org_code" : "K484",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "340",
+  "bldg_id" : "K012",
+  "length" : "17",
+  "width" : "20",
+  "room_number" : "413",
+  "org_code" : "K484",
+  "room_function" : "DEAN'S OFFICE"
+}
+, {
+  "area" : "195",
+  "bldg_id" : "K012",
+  "length" : "13",
+  "width" : "15",
+  "room_number" : "415",
+  "org_code" : "K484",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "416",
+  "org_code" : "K484",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "300",
+  "bldg_id" : "K012",
+  "length" : "15",
+  "width" : "20",
+  "room_number" : "418",
+  "org_code" : "K484",
+  "room_function" : "PRINCIPAL'S OFFICE"
+}
+, {
+  "area" : "648",
+  "bldg_id" : "K012",
+  "length" : "24",
+  "width" : "27",
+  "room_number" : "419",
+  "org_code" : "K484",
+  "room_function" : "EIGHTH GRADE"
+}
+, {
+  "area" : "1925",
+  "bldg_id" : "K012",
+  "length" : "55",
+  "width" : "35",
+  "room_number" : "428A",
+  "org_code" : "K484",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "480",
+  "bldg_id" : "K012",
+  "length" : "20",
+  "width" : "24",
+  "room_number" : "434",
+  "org_code" : "K484",
+  "room_function" : "EIGHTH GRADE"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K012",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "440",
+  "org_code" : "K484",
+  "room_function" : "EIGHTH GRADE"
+}
+, {
+  "area" : "1936",
+  "bldg_id" : "K012",
+  "length" : "44",
+  "width" : "44",
+  "room_number" : "AUD",
+  "org_code" : "K012",
+  "room_function" : "AUDITORIUM"
+}
+, {
+  "area" : "350",
+  "bldg_id" : "K013",
+  "length" : "35",
+  "width" : "10",
+  "room_number" : "102",
+  "org_code" : "K358",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "325",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "13",
+  "room_number" : "105",
+  "org_code" : "K013",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "325",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "13",
+  "room_number" : "107",
+  "org_code" : "K013",
+  "room_function" : "PRINCIPAL'S OFFICE"
+}
+, {
+  "area" : "500",
+  "bldg_id" : "K013",
+  "length" : "20",
+  "width" : "25",
+  "room_number" : "109",
+  "org_code" : "K013",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "240",
+  "bldg_id" : "K013",
+  "length" : "10",
+  "width" : "24",
+  "room_number" : "110",
+  "org_code" : "K013",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "966",
+  "bldg_id" : "K013",
+  "length" : "42",
+  "width" : "23",
+  "room_number" : "112",
+  "org_code" : "K013",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "966",
+  "bldg_id" : "K013",
+  "length" : "42",
+  "width" : "23",
+  "room_number" : "113",
+  "org_code" : "K013",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "1025",
+  "bldg_id" : "K013",
+  "length" : "41",
+  "width" : "25",
+  "room_number" : "114",
+  "org_code" : "K013",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "920",
+  "bldg_id" : "K013",
+  "length" : "40",
+  "width" : "23",
+  "room_number" : "115",
+  "org_code" : "K013",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "25",
+  "room_number" : "118",
+  "org_code" : "K013",
+  "room_function" : "MULTI-PURPOSE CLASSROOM"
+}
+, {
+  "area" : "780",
+  "bldg_id" : "K013",
+  "length" : "30",
+  "width" : "26",
+  "room_number" : "119",
+  "org_code" : "K013",
+  "room_function" : "MULTI-PURPOSE CLASSROOM"
+}
+, {
+  "area" : "836",
+  "bldg_id" : "K013",
+  "length" : "38",
+  "width" : "22",
+  "room_number" : "126",
+  "org_code" : "K013",
+  "room_function" : "SCIENCE LAB"
+}
+, {
+  "area" : "575",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "23",
+  "room_number" : "127",
+  "org_code" : "K013",
+  "room_function" : "SBST"
+}
+, {
+  "area" : "840",
+  "bldg_id" : "K013",
+  "length" : "40",
+  "width" : "21",
+  "room_number" : "128",
+  "org_code" : "K013",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "325",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "13",
+  "room_number" : "129",
+  "org_code" : "K013",
+  "room_function" : "TEACHER'S ROOM"
+}
+, {
+  "area" : "735",
+  "bldg_id" : "K013",
+  "length" : "35",
+  "width" : "21",
+  "room_number" : "130",
+  "org_code" : "K013",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "240",
+  "bldg_id" : "K013",
+  "length" : "12",
+  "width" : "20",
+  "room_number" : "131",
+  "org_code" : "K013",
+  "room_function" : "GUIDANCE OFFICE"
+}
+, {
+  "area" : "726",
+  "bldg_id" : "K013",
+  "length" : "33",
+  "width" : "22",
+  "room_number" : "132",
+  "org_code" : "KCBO",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "26",
+  "room_number" : "135",
+  "org_code" : "K013",
+  "room_function" : "FUNDED - LITERACY"
+}
+, {
+  "area" : "1050",
+  "bldg_id" : "K013",
+  "length" : "42",
+  "width" : "25",
+  "room_number" : "138",
+  "org_code" : "K013",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "1100",
+  "bldg_id" : "K013",
+  "length" : "44",
+  "width" : "25",
+  "room_number" : "139",
+  "org_code" : "K013",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "1000",
+  "bldg_id" : "K013",
+  "length" : "40",
+  "width" : "25",
+  "room_number" : "140",
+  "org_code" : "K013",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "1050",
+  "bldg_id" : "K013",
+  "length" : "42",
+  "width" : "25",
+  "room_number" : "141",
+  "org_code" : "K013",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "567",
+  "bldg_id" : "K013",
+  "length" : "27",
+  "width" : "21",
+  "room_number" : "149",
+  "org_code" : "K013",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "693",
+  "bldg_id" : "K013",
+  "length" : "21",
+  "width" : "33",
+  "room_number" : "150",
+  "org_code" : "K013",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "736",
+  "bldg_id" : "K013",
+  "length" : "23",
+  "width" : "32",
+  "room_number" : "151",
+  "org_code" : "K013",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "806",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "31",
+  "room_number" : "152",
+  "org_code" : "K013",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "500",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "20",
+  "room_number" : "153",
+  "org_code" : "K013",
+  "room_function" : "OT/PT"
+}
+, {
+  "area" : "352",
+  "bldg_id" : "K013",
+  "length" : "22",
+  "width" : "16",
+  "room_number" : "153A",
+  "org_code" : "K013",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "325",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "13",
+  "room_number" : "155",
+  "org_code" : "K013",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "342",
+  "bldg_id" : "K013",
+  "length" : "19",
+  "width" : "18",
+  "room_number" : "156",
+  "org_code" : "K013",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "201",
+  "org_code" : "KCBO",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "202",
+  "org_code" : "KCBO",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "203",
+  "org_code" : "K013",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "204",
+  "org_code" : "K013",
+  "room_function" : "FUNDED - ESL"
+}
+, {
+  "area" : "195",
+  "bldg_id" : "K013",
+  "length" : "15",
+  "width" : "13",
+  "room_number" : "205",
+  "org_code" : "KCBO",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "206",
+  "org_code" : "KCBO",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "207",
+  "org_code" : "KCBO",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "208",
+  "org_code" : "KCBO",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "209",
+  "org_code" : "KCBO",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "212",
+  "org_code" : "K013",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "213",
+  "org_code" : "K013",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "214",
+  "org_code" : "K013",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "215",
+  "org_code" : "K013",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "218",
+  "org_code" : "K013",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "150",
+  "bldg_id" : "K013",
+  "length" : "15",
+  "width" : "10",
+  "room_number" : "219",
+  "org_code" : "K013",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "150",
+  "bldg_id" : "K013",
+  "length" : "15",
+  "width" : "10",
+  "room_number" : "220",
+  "org_code" : "K013",
+  "room_function" : "PARENT'S ROOM"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "221",
+  "org_code" : "K013",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "234",
+  "bldg_id" : "K013",
+  "length" : "18",
+  "width" : "13",
+  "room_number" : "222",
+  "org_code" : "K013",
+  "room_function" : "DEAN'S OFFICE"
+}
+, {
+  "area" : "120",
+  "bldg_id" : "K013",
+  "length" : "10",
+  "width" : "12",
+  "room_number" : "223",
+  "org_code" : "K013",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "700",
+  "bldg_id" : "K013",
+  "length" : "28",
+  "width" : "25",
+  "room_number" : "224",
+  "org_code" : "K013",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "600",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "24",
+  "room_number" : "226",
+  "org_code" : "K013",
+  "room_function" : "FIFTH GRADE"
+}
+, {
+  "area" : "1073",
+  "bldg_id" : "K013",
+  "length" : "29",
+  "width" : "37",
+  "room_number" : "227",
+  "org_code" : "K013",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "325",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "13",
+  "room_number" : "228",
+  "org_code" : "K013",
+  "room_function" : "FUNDED - OTHER"
+}
+, {
+  "area" : "319",
+  "bldg_id" : "K013",
+  "length" : "29",
+  "width" : "11",
+  "room_number" : "229",
+  "org_code" : "K013",
+  "room_function" : "SAVE/SUSPENSION ROOM"
+}
+, {
+  "area" : "600",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "24",
+  "room_number" : "230",
+  "org_code" : "K013",
+  "room_function" : "COMPUTER LAB"
+}
+, {
+  "area" : "600",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "24",
+  "room_number" : "232",
+  "org_code" : "K013",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "25",
+  "room_number" : "238",
+  "org_code" : "K013",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "25",
+  "room_number" : "239",
+  "org_code" : "K013",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "25",
+  "room_number" : "240",
+  "org_code" : "K013",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "676",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "26",
+  "room_number" : "241",
+  "org_code" : "K013",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "255",
+  "bldg_id" : "K013",
+  "length" : "17",
+  "width" : "15",
+  "room_number" : "242",
+  "org_code" : "K013",
+  "room_function" : "RESOURCE ROOM"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "243",
+  "org_code" : "K013",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "244",
+  "org_code" : "K013",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "245",
+  "org_code" : "K013",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "25",
+  "room_number" : "249",
+  "org_code" : "K013",
+  "room_function" : "OT/PT"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "25",
+  "room_number" : "250",
+  "org_code" : "K013",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "25",
+  "room_number" : "251",
+  "org_code" : "K013",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "25",
+  "room_number" : "252",
+  "org_code" : "K013",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "255",
+  "org_code" : "K013",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "256",
+  "org_code" : "K013",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "259",
+  "org_code" : "K013",
+  "room_function" : "FUNDED - OTHER"
+}
+, {
+  "area" : "325",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "13",
+  "room_number" : "260",
+  "org_code" : "K013",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "261",
+  "org_code" : "K013",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "456",
+  "bldg_id" : "K013",
+  "length" : "24",
+  "width" : "19",
+  "room_number" : "262",
+  "org_code" : "K013",
+  "room_function" : "RESOURCE ROOM"
+}
+, {
+  "area" : "300",
+  "bldg_id" : "K013",
+  "length" : "15",
+  "width" : "20",
+  "room_number" : "263",
+  "org_code" : "K013",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "301",
+  "org_code" : "K358",
+  "room_function" : "DANCE ROOM"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "302",
+  "org_code" : "K358",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "303",
+  "org_code" : "K358",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "304",
+  "org_code" : "K358",
+  "room_function" : "FIRST GRADE"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "305",
+  "org_code" : "K358",
+  "room_function" : "SOCIAL WORKER/COUNSELOR"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "306",
+  "org_code" : "K358",
+  "room_function" : "DEAN'S OFFICE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "308",
+  "org_code" : "K358",
+  "room_function" : "RESOURCE ROOM"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "309",
+  "org_code" : "K358",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "312",
+  "org_code" : "K358",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "313",
+  "org_code" : "K013",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "314",
+  "org_code" : "K358",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "625",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "25",
+  "room_number" : "315",
+  "org_code" : "K358",
+  "room_function" : "SECOND GRADE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "318",
+  "org_code" : "K358",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "325",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "13",
+  "room_number" : "319",
+  "org_code" : "K358",
+  "room_function" : "DEAN'S OFFICE"
+}
+, {
+  "area" : "325",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "13",
+  "room_number" : "320",
+  "org_code" : "K358",
+  "room_function" : "RESOURCE ROOM"
+}
+, {
+  "area" : "325",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "13",
+  "room_number" : "321",
+  "org_code" : "K358",
+  "room_function" : "PARENT'S ROOM"
+}
+, {
+  "area" : "325",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "13",
+  "room_number" : "322",
+  "org_code" : "K358",
+  "room_function" : "MUSIC ROOM"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "26",
+  "room_number" : "323",
+  "org_code" : "K358",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "459",
+  "bldg_id" : "K013",
+  "length" : "27",
+  "width" : "17",
+  "room_number" : "324",
+  "org_code" : "K358",
+  "room_function" : "DUPLICATING/COPY ROOM"
+}
+, {
+  "area" : "351",
+  "bldg_id" : "K013",
+  "length" : "27",
+  "width" : "13",
+  "room_number" : "325",
+  "org_code" : "K358",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "297",
+  "bldg_id" : "K013",
+  "length" : "27",
+  "width" : "11",
+  "room_number" : "326",
+  "org_code" : "K358",
+  "room_function" : "ART ROOM"
+}
+, {
+  "area" : "325",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "13",
+  "room_number" : "327",
+  "org_code" : "K358",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "420",
+  "bldg_id" : "K013",
+  "length" : "28",
+  "width" : "15",
+  "room_number" : "328",
+  "org_code" : "K358",
+  "room_function" : "MUSIC ROOM"
+}
+, {
+  "area" : "352",
+  "bldg_id" : "K013",
+  "length" : "22",
+  "width" : "16",
+  "room_number" : "329",
+  "org_code" : "K358",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "600",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "24",
+  "room_number" : "330",
+  "org_code" : "K358",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "364",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "14",
+  "room_number" : "332",
+  "org_code" : "K358",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "600",
+  "bldg_id" : "K013",
+  "length" : "25",
+  "width" : "24",
+  "room_number" : "334",
+  "org_code" : "K013",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "25",
+  "room_number" : "338",
+  "org_code" : "K358",
+  "room_function" : "MULTI-PURPOSE CLASSROOM"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "25",
+  "room_number" : "339",
+  "org_code" : "K358",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "2200",
+  "bldg_id" : "K013",
+  "length" : "50",
+  "width" : "44",
+  "room_number" : "340",
+  "org_code" : "K013",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "25",
+  "room_number" : "341",
+  "org_code" : "K358",
+  "room_function" : "FOURTH GRADE"
+}
+, {
+  "area" : "150",
+  "bldg_id" : "K013",
+  "length" : "15",
+  "width" : "10",
+  "room_number" : "342",
+  "org_code" : "K358",
+  "room_function" : "PRINCIPAL'S OFFICE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "10",
+  "width" : "8",
+  "room_number" : "345",
+  "org_code" : "K358",
+  "room_function" : "DEAN'S OFFICE"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "25",
+  "room_number" : "349",
+  "org_code" : "K358",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "25",
+  "room_number" : "350",
+  "org_code" : "K358",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "25",
+  "room_number" : "351",
+  "org_code" : "K358",
+  "room_function" : "MULTI-PURPOSE CLASSROOM"
+}
+, {
+  "area" : "650",
+  "bldg_id" : "K013",
+  "length" : "26",
+  "width" : "25",
+  "room_number" : "352",
+  "org_code" : "K358",
+  "room_function" : "THIRD GRADE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "357",
+  "org_code" : "K358",
+  "room_function" : "RESOURCE ROOM"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "358",
+  "org_code" : "K358",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K013",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "359",
+  "org_code" : "K358",
+  "room_function" : "DEAN'S OFFICE"
+}
+, {
+  "area" : "3213",
+  "bldg_id" : "K013",
+  "length" : "51",
+  "width" : "63",
+  "room_number" : "AUD",
+  "org_code" : "K013",
+  "room_function" : "AUDITORIUM"
+}
+, {
+  "area" : "2700",
+  "bldg_id" : "K013",
+  "length" : "60",
+  "width" : "45",
+  "room_number" : "CAF",
+  "org_code" : "K013",
+  "room_function" : "STUDENT CAFETERIA"
+}
+, {
+  "area" : "2914",
+  "bldg_id" : "K013",
+  "length" : "47",
+  "width" : "62",
+  "room_number" : "GYM",
+  "org_code" : "K013",
+  "room_function" : "GYMNASIUM"
+}
+, {
+  "area" : "714",
+  "bldg_id" : "K014",
+  "length" : "34",
+  "width" : "21",
+  "room_number" : "100",
+  "org_code" : "K014",
+  "room_function" : "SPECIAL ED SUPPORT"
+}
+, {
+  "area" : "714",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "34",
+  "room_number" : "101",
+  "org_code" : "K014",
+  "room_function" : "SIXTH GRADE"
+}
+, {
+  "area" : "693",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "33",
+  "room_number" : "102",
+  "org_code" : "K014",
+  "room_function" : "SIXTH GRADE"
+}
+, {
+  "area" : "253",
+  "bldg_id" : "K014",
+  "length" : "23",
+  "width" : "11",
+  "room_number" : "102A",
+  "org_code" : "K014",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "32",
+  "room_number" : "103",
+  "org_code" : "K014",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "506",
+  "bldg_id" : "K014",
+  "length" : "22",
+  "width" : "23",
+  "room_number" : "104",
+  "org_code" : "K014",
+  "room_function" : "TEACHER'S ROOM"
+}
+, {
+  "area" : "693",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "33",
+  "room_number" : "105",
+  "org_code" : "K014",
+  "room_function" : "SIXTH GRADE"
+}
+, {
+  "area" : "280",
+  "bldg_id" : "K014",
+  "length" : "20",
+  "width" : "14",
+  "room_number" : "106",
+  "org_code" : "K014",
+  "room_function" : "PRINCIPAL'S OFFICE"
+}
+, {
+  "area" : "546",
+  "bldg_id" : "K014",
+  "length" : "26",
+  "width" : "21",
+  "room_number" : "108",
+  "org_code" : "K014",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "143",
+  "bldg_id" : "K014",
+  "length" : "11",
+  "width" : "13",
+  "room_number" : "111",
+  "org_code" : "K014",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "299",
+  "bldg_id" : "K014",
+  "length" : "23",
+  "width" : "13",
+  "room_number" : "112",
+  "org_code" : "K014",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "154",
+  "bldg_id" : "K014",
+  "length" : "14",
+  "width" : "11",
+  "room_number" : "114A",
+  "org_code" : "K014",
+  "room_function" : "NURSE/MEDICAL SUITE"
+}
+, {
+  "area" : "112",
+  "bldg_id" : "K014",
+  "length" : "14",
+  "width" : "8",
+  "room_number" : "114B",
+  "org_code" : "K014",
+  "room_function" : "ATTENDANCE OFFICE"
+}
+, {
+  "area" : "6600",
+  "bldg_id" : "K014",
+  "length" : "100",
+  "width" : "66",
+  "room_number" : "118",
+  "org_code" : "K014",
+  "room_function" : "GYMNASIUM"
+}
+, {
+  "area" : "805",
+  "bldg_id" : "K014",
+  "length" : "35",
+  "width" : "23",
+  "room_number" : "122",
+  "org_code" : "K014",
+  "room_function" : "VACANT"
+}
+, {
+  "area" : "1012",
+  "bldg_id" : "K014",
+  "length" : "22",
+  "width" : "46",
+  "room_number" : "124",
+  "org_code" : "K014",
+  "room_function" : "SIXTH GRADE"
+}
+, {
+  "area" : "735",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "35",
+  "room_number" : "126",
+  "org_code" : "K014",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "91",
+  "bldg_id" : "K014",
+  "length" : "13",
+  "width" : "7",
+  "room_number" : "127",
+  "org_code" : "K014",
+  "room_function" : "DEAN'S OFFICE"
+}
+, {
+  "area" : "368",
+  "bldg_id" : "K014",
+  "length" : "23",
+  "width" : "16",
+  "room_number" : "130A",
+  "org_code" : "K014",
+  "room_function" : "GUIDANCE OFFICE"
+}
+, {
+  "area" : "408",
+  "bldg_id" : "K014",
+  "length" : "24",
+  "width" : "17",
+  "room_number" : "130B",
+  "org_code" : "K014",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "300",
+  "bldg_id" : "K014",
+  "length" : "20",
+  "width" : "15",
+  "room_number" : "132",
+  "org_code" : "K014",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "32",
+  "room_number" : "134",
+  "org_code" : "K014",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "903",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "43",
+  "room_number" : "135",
+  "org_code" : "K014",
+  "room_function" : "COURT ROOM"
+}
+, {
+  "area" : "315",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "15",
+  "room_number" : "136A",
+  "org_code" : "K014",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "357",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "17",
+  "room_number" : "136B",
+  "org_code" : "K014",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "735",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "35",
+  "room_number" : "138",
+  "org_code" : "K014",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "882",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "42",
+  "room_number" : "139",
+  "org_code" : "K014",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "714",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "34",
+  "room_number" : "200",
+  "org_code" : "K014",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "714",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "34",
+  "room_number" : "201",
+  "org_code" : "K014",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "693",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "33",
+  "room_number" : "202",
+  "org_code" : "K014",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "264",
+  "bldg_id" : "K014",
+  "length" : "22",
+  "width" : "12",
+  "room_number" : "202A",
+  "org_code" : "K014",
+  "room_function" : "PARENT'S ROOM"
+}
+, {
+  "area" : "736",
+  "bldg_id" : "K014",
+  "length" : "32",
+  "width" : "23",
+  "room_number" : "203",
+  "org_code" : "K014",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "552",
+  "bldg_id" : "K014",
+  "length" : "24",
+  "width" : "23",
+  "room_number" : "204A",
+  "org_code" : "K014",
+  "room_function" : "COACH'S OFFICE"
+}
+, {
+  "area" : "560",
+  "bldg_id" : "K014",
+  "length" : "20",
+  "width" : "28",
+  "room_number" : "204B",
+  "org_code" : "K014",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "253",
+  "bldg_id" : "K014",
+  "length" : "23",
+  "width" : "11",
+  "room_number" : "205",
+  "org_code" : "K014",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "308",
+  "bldg_id" : "K014",
+  "length" : "22",
+  "width" : "14",
+  "room_number" : "207",
+  "org_code" : "K014",
+  "room_function" : "TEACHER'S ROOM"
+}
+, {
+  "area" : "680",
+  "bldg_id" : "K014",
+  "length" : "20",
+  "width" : "34",
+  "room_number" : "210",
+  "org_code" : "K014",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "340",
+  "bldg_id" : "K014",
+  "length" : "20",
+  "width" : "17",
+  "room_number" : "212A",
+  "org_code" : "K014",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "340",
+  "bldg_id" : "K014",
+  "length" : "20",
+  "width" : "17",
+  "room_number" : "212B",
+  "org_code" : "K014",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "945",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "45",
+  "room_number" : "214",
+  "org_code" : "K014",
+  "room_function" : "STAFF DEVELOPMENT"
+}
+, {
+  "area" : "735",
+  "bldg_id" : "K014",
+  "length" : "35",
+  "width" : "21",
+  "room_number" : "216",
+  "org_code" : "K014",
+  "room_function" : "COMPUTER LAB"
+}
+, {
+  "area" : "777",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "37",
+  "room_number" : "222",
+  "org_code" : "K014",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "987",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "47",
+  "room_number" : "224",
+  "org_code" : "K014",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "735",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "35",
+  "room_number" : "226",
+  "org_code" : "K014",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "396",
+  "bldg_id" : "K014",
+  "length" : "22",
+  "width" : "18",
+  "room_number" : "228A",
+  "org_code" : "K014",
+  "room_function" : "SOCIAL WORKER/COUNSELOR"
+}
+, {
+  "area" : "322",
+  "bldg_id" : "K014",
+  "length" : "23",
+  "width" : "14",
+  "room_number" : "228B",
+  "org_code" : "K014",
+  "room_function" : "DEAN'S OFFICE"
+}
+, {
+  "area" : "924",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "44",
+  "room_number" : "234",
+  "org_code" : "K014",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "32",
+  "room_number" : "235",
+  "org_code" : "K014",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "903",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "43",
+  "room_number" : "236",
+  "org_code" : "K014",
+  "room_function" : "SIXTH GRADE"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "32",
+  "room_number" : "237",
+  "org_code" : "K014",
+  "room_function" : "SEVENTH GRADE"
+}
+, {
+  "area" : "714",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "34",
+  "room_number" : "238",
+  "org_code" : "K014",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "714",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "34",
+  "room_number" : "239",
+  "org_code" : "K014",
+  "room_function" : "EIGHTH GRADE"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "32",
+  "room_number" : "300",
+  "org_code" : "K014",
+  "room_function" : "EIGHTH GRADE"
+}
+, {
+  "area" : "588",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "28",
+  "room_number" : "301",
+  "org_code" : "K014",
+  "room_function" : "EIGHTH GRADE"
+}
+, {
+  "area" : "693",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "33",
+  "room_number" : "302",
+  "org_code" : "K014",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "736",
+  "bldg_id" : "K014",
+  "length" : "23",
+  "width" : "32",
+  "room_number" : "303",
+  "org_code" : "K014",
+  "room_function" : "EIGHTH GRADE"
+}
+, {
+  "area" : "286",
+  "bldg_id" : "K014",
+  "length" : "13",
+  "width" : "22",
+  "room_number" : "304",
+  "org_code" : "K014",
+  "room_function" : "GUIDANCE OFFICE"
+}
+, {
+  "area" : "966",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "46",
+  "room_number" : "305",
+  "org_code" : "K014",
+  "room_function" : "EIGHTH GRADE"
+}
+, {
+  "area" : "714",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "34",
+  "room_number" : "306",
+  "org_code" : "K014",
+  "room_function" : "STAFF DEVELOPMENT"
+}
+, {
+  "area" : "770",
+  "bldg_id" : "K014",
+  "length" : "22",
+  "width" : "35",
+  "room_number" : "310",
+  "org_code" : "K014",
+  "room_function" : "THEATRE ARTS/DRAMA"
+}
+, {
+  "area" : "693",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "33",
+  "room_number" : "312",
+  "org_code" : "K014",
+  "room_function" : "MULTI-PURPOSE CLASSROOM"
+}
+, {
+  "area" : "312",
+  "bldg_id" : "K014",
+  "length" : "13",
+  "width" : "24",
+  "room_number" : "313",
+  "org_code" : "K014",
+  "room_function" : "AP'S OFFICE"
+}
+, {
+  "area" : "966",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "46",
+  "room_number" : "314",
+  "org_code" : "K014",
+  "room_function" : "SCIENCE LAB"
+}
+, {
+  "area" : "735",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "35",
+  "room_number" : "316",
+  "org_code" : "K014",
+  "room_function" : "SCIENCE LAB"
+}
+, {
+  "area" : "840",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "40",
+  "room_number" : "317",
+  "org_code" : "K014",
+  "room_function" : "ART ROOM"
+}
+, {
+  "area" : "368",
+  "bldg_id" : "K014",
+  "length" : "23",
+  "width" : "16",
+  "room_number" : "319A",
+  "org_code" : "K014",
+  "room_function" : "SPEECH"
+}
+, {
+  "area" : "253",
+  "bldg_id" : "K014",
+  "length" : "23",
+  "width" : "11",
+  "room_number" : "319B",
+  "org_code" : "K014",
+  "room_function" : "SPEECH"
+}
+, {
+  "area" : "253",
+  "bldg_id" : "K014",
+  "length" : "23",
+  "width" : "11",
+  "room_number" : "319C",
+  "org_code" : "K014",
+  "room_function" : "SPEECH"
+}
+, {
+  "area" : "1518",
+  "bldg_id" : "K014",
+  "length" : "69",
+  "width" : "22",
+  "room_number" : "320",
+  "org_code" : "K014",
+  "room_function" : "LIBRARY"
+}
+, {
+  "area" : "651",
+  "bldg_id" : "K014",
+  "length" : "31",
+  "width" : "21",
+  "room_number" : "322",
+  "org_code" : "K014",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "987",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "47",
+  "room_number" : "324",
+  "org_code" : "K014",
+  "room_function" : "EIGHTH GRADE"
+}
+, {
+  "area" : "735",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "35",
+  "room_number" : "326",
+  "org_code" : "K811",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "288",
+  "bldg_id" : "K014",
+  "length" : "12",
+  "width" : "24",
+  "room_number" : "327",
+  "org_code" : "K014",
+  "room_function" : "SAVE/SUSPENSION ROOM"
+}
+, {
+  "area" : "396",
+  "bldg_id" : "K014",
+  "length" : "22",
+  "width" : "18",
+  "room_number" : "328A",
+  "org_code" : "K014",
+  "room_function" : "DEAN'S OFFICE"
+}
+, {
+  "area" : "336",
+  "bldg_id" : "K014",
+  "length" : "24",
+  "width" : "14",
+  "room_number" : "328B",
+  "org_code" : "K811",
+  "room_function" : "D75 SPED CLASSROOM"
+}
+, {
+  "area" : "740",
+  "bldg_id" : "K014",
+  "length" : "20",
+  "width" : "37",
+  "room_number" : "332",
+  "org_code" : "K014",
+  "room_function" : "EIGHTH GRADE"
+}
+, {
+  "area" : "714",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "34",
+  "room_number" : "333",
+  "org_code" : "K014",
+  "room_function" : "EIGHTH GRADE"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "32",
+  "room_number" : "335",
+  "org_code" : "K014",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "32",
+  "room_number" : "336",
+  "org_code" : "K014",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "672",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "32",
+  "room_number" : "337",
+  "org_code" : "K014",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "714",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "34",
+  "room_number" : "338",
+  "org_code" : "K014",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "714",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "34",
+  "room_number" : "339",
+  "org_code" : "K014",
+  "room_function" : "FUNDED - ESL"
+}
+, {
+  "area" : "4675",
+  "bldg_id" : "K014",
+  "length" : "85",
+  "width" : "55",
+  "room_number" : "AUD",
+  "org_code" : "K014",
+  "room_function" : "AUDITORIUM"
+}
+, {
+  "area" : "795",
+  "bldg_id" : "K014",
+  "length" : "15",
+  "width" : "53",
+  "room_number" : "B10",
+  "org_code" : "K014",
+  "room_function" : "PARENT'S ROOM"
+}
+, {
+  "area" : "805",
+  "bldg_id" : "K014",
+  "length" : "35",
+  "width" : "23",
+  "room_number" : "B16",
+  "org_code" : "K014",
+  "room_function" : "TEACHER'S CAFETERIA"
+}
+, {
+  "area" : "4187",
+  "bldg_id" : "K014",
+  "length" : "79",
+  "width" : "53",
+  "room_number" : "B20",
+  "org_code" : "K014",
+  "room_function" : "STUDENT CAFETERIA"
+}
+, {
+  "area" : "1485",
+  "bldg_id" : "K014",
+  "length" : "33",
+  "width" : "45",
+  "room_number" : "B22",
+  "org_code" : "K014",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "480",
+  "bldg_id" : "K014",
+  "length" : "40",
+  "width" : "12",
+  "room_number" : "B23",
+  "org_code" : "K014",
+  "room_function" : "RECORD ROOM"
+}
+, {
+  "area" : "441",
+  "bldg_id" : "K014",
+  "length" : "21",
+  "width" : "21",
+  "room_number" : "B24",
+  "org_code" : "K014",
+  "room_function" : "OTHER OFFICE"
+}
+, {
+  "area" : "560",
+  "bldg_id" : "K014",
+  "length" : "14",
+  "width" : "40",
+  "room_number" : "B28",
+  "org_code" : "K014",
+  "room_function" : "STORAGE ROOM"
+}
+, {
+  "area" : "380",
+  "bldg_id" : "K014",
+  "length" : "38",
+  "width" : "10",
+  "room_number" : "B4",
+  "org_code" : "K014",
+  "room_function" : "SAVE/SUSPENSION ROOM"
+}
+, {
+  "area" : "336",
+  "bldg_id" : "K015",
+  "length" : "24",
+  "width" : "14",
+  "room_number" : "101",
+  "org_code" : "K015",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K015",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "103A",
+  "org_code" : "K015",
+  "room_function" : "SBST"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K015",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "103B",
+  "org_code" : "K015",
+  "room_function" : "GUIDANCE OFFICE"
+}
+, {
+  "area" : "80",
+  "bldg_id" : "K015",
+  "length" : "8",
+  "width" : "10",
+  "room_number" : "103C",
+  "org_code" : "K015",
+  "room_function" : "GUIDANCE OFFICE"
+}
+, {
+  "area" : "667",
+  "bldg_id" : "K015",
+  "length" : "23",
+  "width" : "29",
+  "room_number" : "104",
+  "org_code" : "KSBH",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "360",
+  "bldg_id" : "K015",
+  "length" : "30",
+  "width" : "12",
+  "room_number" : "105",
+  "org_code" : "K015",
+  "room_function" : "GENERAL/MAIN OFFICE"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K015",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "106",
+  "org_code" : "K015",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "273",
+  "bldg_id" : "K015",
+  "length" : "21",
+  "width" : "13",
+  "room_number" : "107",
+  "org_code" : "K015",
+  "room_function" : "PRINCIPAL'S OFFICE"
+}
+, {
+  "area" : "325",
+  "bldg_id" : "K015",
+  "length" : "25",
+  "width" : "13",
+  "room_number" : "108",
+  "org_code" : "K015",
+  "room_function" : "SBST"
+}
+, {
+  "area" : "675",
+  "bldg_id" : "K015",
+  "length" : "25",
+  "width" : "27",
+  "room_number" : "108A",
+  "org_code" : "KSBH",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "812",
+  "bldg_id" : "K015",
+  "length" : "29",
+  "width" : "28",
+  "room_number" : "109",
+  "org_code" : "KCBO",
+  "room_function" : "OTHER ORGANIZATION"
+}
+, {
+  "area" : "384",
+  "bldg_id" : "K015",
+  "length" : "24",
+  "width" : "16",
+  "room_number" : "111",
+  "org_code" : "K015",
+  "room_function" : "ACADEMIC INTERVENTION SERVICES"
+}
+, {
+  "area" : "768",
+  "bldg_id" : "K015",
+  "length" : "32",
+  "width" : "24",
+  "room_number" : "113",
+  "org_code" : "K015",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "783",
+  "bldg_id" : "K015",
+  "length" : "27",
+  "width" : "29",
+  "room_number" : "115",
+  "org_code" : "K015",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "728",
+  "bldg_id" : "K015",
+  "length" : "26",
+  "width" : "28",
+  "room_number" : "117",
+  "org_code" : "K015",
+  "room_function" : "REGULAR CLASSROOM"
+}
+, {
+  "area" : "736",
+  "bldg_id" : "K015",
+  "length" : "23",
+  "width" : "32",
+  "room_number" : "118",
+  "org_code" : "K015",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "598",
+  "bldg_id" : "K015",
+  "length" : "23",
+  "width" : "26",
+  "room_number" : "119",
+  "org_code" : "K015",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "864",
+  "bldg_id" : "K015",
+  "length" : "27",
+  "width" : "32",
+  "room_number" : "120",
+  "org_code" : "K015",
+  "room_function" : "KINDERGARTEN"
+}
+, {
+  "area" : "644",
+  "bldg_id" : "K015",
+  "length" : "23",
+  "width" : "28",
+  "room_number" : "121",
+  "org_code" : "K015",
+  "room_function" : "NON-D75 SPED CLASSROOM"
+}
+, {
+  "area" : "400",
+  "bldg_id" : "K015",
+  "length" : "20",
+  "width" : "20",
+  "room_number" : "123",
+  "org_code" : "K015",
+  "room_function" : "PRE-K FULL DAY"
+}
+, {
+  "area" : "390",
+  "bldg_id" : "K015",
+  "length" : "26",
+  "width" : "15",
+  "room_number" : "124",
+  "org_code" : "K015",
+  "room_function" : "GENERAL BUILDING SUPPORT"
+}
+, {
+  "area" : "336",
+  "bldg_id" : "K015",
+  "length" : "14",
+  "width" : "24",
+  "room_number" : "125",
+  "org_code" : "K015",
+  "room_function" : "PARENT'S ROOM"
+}
+, {
+  "area" : "756",
+  "bldg_id" : "K015",
+  "length" : "27",
+  "width" : "28",
+  "room_number" : "126",
+  "org_code" : "K015",
+  "room_function" : "MUSIC ROOM"
+}
+, {
+  "area" : "588",
+  "bldg_id" : "K015",
+  "length" : "21",
+  "width" : "28",
+  "room_number" : "127",
+  "org_code" : "K015",
+  "room_function" : "CTT"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K015",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "128",
+  "org_code" : "K015",
+  "room_function" : "MUSIC ROOM"
+}
+, {
+  "area" : "756",
+  "bldg_id" : "K015",
+  "length" : "28",
+  "width" : "27",
+  "room_number" : "129",
+  "org_code" : "K015",
+  "room_function" : "OT/PT"
+}
+, {
+  "area" : "120",
+  "bldg_id" : "K015",
+  "length" : "10",
+  "width" : "12",
+  "room_number" : "130",
+  "org_code" : "K015",
+  "room_function" : "NURSE/MEDICAL SUITE"
+}
+, {
+  "area" : "616",
+  "bldg_id" : "K015",
+  "length" : "22",
+  "width" : "28",
+  "room_number" : "131",
+  "org_code" : "KCBO",
+  "room_function" : "OTHER ORGANIZATION"
+}
+ ]

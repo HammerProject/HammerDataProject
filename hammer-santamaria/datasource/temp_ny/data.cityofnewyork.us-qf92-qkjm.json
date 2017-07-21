@@ -1,0 +1,1321 @@
+[ {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "48",
+  "borough" : "Bronx",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "44",
+  "borough" : "Bronx",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "46",
+  "borough" : "Bronx",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "79",
+  "borough" : "Bronx",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "54",
+  "borough" : "Bronx",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "46",
+  "borough" : "Bronx",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "53",
+  "borough" : "Bronx",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "52",
+  "borough" : "Bronx",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "72",
+  "borough" : "Bronx",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "28",
+  "borough" : "Bronx",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "25",
+  "borough" : "Bronx",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "16",
+  "borough" : "Bronx",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "6",
+  "borough" : "Bronx",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "2",
+  "borough" : "Bronx",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "7",
+  "borough" : "Bronx",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "8",
+  "borough" : "Bronx",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "6",
+  "borough" : "Bronx",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "10",
+  "borough" : "Bronx",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "5",
+  "borough" : "Bronx",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "4",
+  "borough" : "Bronx",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "5",
+  "borough" : "Bronx",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "9",
+  "borough" : "Bronx",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "10",
+  "borough" : "Bronx",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "9",
+  "borough" : "Bronx",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "7",
+  "borough" : "Bronx",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "5",
+  "borough" : "Bronx",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "6",
+  "borough" : "Bronx",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "3",
+  "borough" : "Bronx",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "13",
+  "borough" : "Bronx",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "16",
+  "borough" : "Bronx",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "8",
+  "borough" : "Bronx",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "10",
+  "borough" : "Bronx",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "4",
+  "borough" : "Bronx",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "143",
+  "borough" : "Bronx",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "125",
+  "borough" : "Bronx",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "147",
+  "borough" : "Bronx",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "153",
+  "borough" : "Bronx",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "98",
+  "borough" : "Bronx",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "101",
+  "borough" : "Bronx",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "106",
+  "borough" : "Bronx",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "71",
+  "borough" : "Bronx",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "70",
+  "borough" : "Bronx",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "48",
+  "borough" : "Bronx",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "106",
+  "borough" : "Bronx",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "83",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "68",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "55",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "120",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "55",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "45",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "58",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "61",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "52",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "33",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "32",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "4",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "22",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "24",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "43",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "32",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "25",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "19",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "28",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "12",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "7",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "11",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "20",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "11",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "15",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "20",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "19",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "19",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "10",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "12",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "28",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "22",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "15",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "204",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "118",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "215",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "179",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "143",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "75",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "91",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "104",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "85",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "90",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "69",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "30",
+  "borough" : "Manhattan",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "22",
+  "borough" : "Manhattan",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "20",
+  "borough" : "Manhattan",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "37",
+  "borough" : "Manhattan",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "27",
+  "borough" : "Manhattan",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "26",
+  "borough" : "Manhattan",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "29",
+  "borough" : "Manhattan",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "24",
+  "borough" : "Manhattan",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "16",
+  "borough" : "Manhattan",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "16",
+  "borough" : "Manhattan",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "38",
+  "borough" : "Manhattan",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "5",
+  "borough" : "Manhattan",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "4",
+  "borough" : "Manhattan",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "1",
+  "borough" : "Manhattan",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "5",
+  "borough" : "Manhattan",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "6",
+  "borough" : "Manhattan",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "5",
+  "borough" : "Manhattan",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "12",
+  "borough" : "Manhattan",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "5",
+  "borough" : "Manhattan",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "6",
+  "borough" : "Manhattan",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "2",
+  "borough" : "Manhattan",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "0",
+  "borough" : "Manhattan",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "36",
+  "borough" : "Manhattan",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "11",
+  "borough" : "Manhattan",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "5",
+  "borough" : "Manhattan",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "16",
+  "borough" : "Manhattan",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "28",
+  "borough" : "Manhattan",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "23",
+  "borough" : "Manhattan",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "12",
+  "borough" : "Manhattan",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "7",
+  "borough" : "Manhattan",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "35",
+  "borough" : "Manhattan",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "17",
+  "borough" : "Manhattan",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "6",
+  "borough" : "Manhattan",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "96",
+  "borough" : "Manhattan",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "57",
+  "borough" : "Manhattan",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "57",
+  "borough" : "Manhattan",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "72",
+  "borough" : "Manhattan",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "72",
+  "borough" : "Manhattan",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "58",
+  "borough" : "Manhattan",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "62",
+  "borough" : "Manhattan",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "53",
+  "borough" : "Manhattan",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "46",
+  "borough" : "Manhattan",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "46",
+  "borough" : "Manhattan",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "34",
+  "borough" : "Manhattan",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "40",
+  "borough" : "Queens",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "27",
+  "borough" : "Queens",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "50",
+  "borough" : "Queens",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "75",
+  "borough" : "Queens",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "61",
+  "borough" : "Queens",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "63",
+  "borough" : "Queens",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "72",
+  "borough" : "Queens",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "96",
+  "borough" : "Queens",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "75",
+  "borough" : "Queens",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "62",
+  "borough" : "Queens",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "59",
+  "borough" : "Queens",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "5",
+  "borough" : "Queens",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "2",
+  "borough" : "Queens",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "8",
+  "borough" : "Queens",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "26",
+  "borough" : "Queens",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "2",
+  "borough" : "Queens",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "2",
+  "borough" : "Queens",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "1",
+  "borough" : "Queens",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "7",
+  "borough" : "Queens",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "8",
+  "borough" : "Queens",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "24",
+  "borough" : "Queens",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "5",
+  "borough" : "Queens",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "10",
+  "borough" : "Queens",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "8",
+  "borough" : "Queens",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "11",
+  "borough" : "Queens",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "9",
+  "borough" : "Queens",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "5",
+  "borough" : "Queens",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "13",
+  "borough" : "Queens",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "8",
+  "borough" : "Queens",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "19",
+  "borough" : "Queens",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "18",
+  "borough" : "Queens",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "23",
+  "borough" : "Queens",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "11",
+  "borough" : "Queens",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "105",
+  "borough" : "Queens",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "96",
+  "borough" : "Queens",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "200",
+  "borough" : "Queens",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "116",
+  "borough" : "Queens",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "142",
+  "borough" : "Queens",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "129",
+  "borough" : "Queens",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "125",
+  "borough" : "Queens",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "65",
+  "borough" : "Queens",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "67",
+  "borough" : "Queens",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "57",
+  "borough" : "Queens",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "54",
+  "borough" : "Queens",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "6",
+  "borough" : "Staten Island",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "13",
+  "borough" : "Staten Island",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "16",
+  "borough" : "Staten Island",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "31",
+  "borough" : "Staten Island",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "20",
+  "borough" : "Staten Island",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "31",
+  "borough" : "Staten Island",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "8",
+  "borough" : "Staten Island",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "16",
+  "borough" : "Staten Island",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "19",
+  "borough" : "Staten Island",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "7",
+  "borough" : "Staten Island",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Continued",
+  "disposed_violation_count" : "1",
+  "borough" : "Staten Island",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "0",
+  "borough" : "Staten Island",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "0",
+  "borough" : "Staten Island",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "3",
+  "borough" : "Staten Island",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "4",
+  "borough" : "Staten Island",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "3",
+  "borough" : "Staten Island",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "3",
+  "borough" : "Staten Island",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "5",
+  "borough" : "Staten Island",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "7",
+  "borough" : "Staten Island",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "7",
+  "borough" : "Staten Island",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "4",
+  "borough" : "Staten Island",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Discharged",
+  "disposed_violation_count" : "0",
+  "borough" : "Staten Island",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "7",
+  "borough" : "Staten Island",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "3",
+  "borough" : "Staten Island",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "2",
+  "borough" : "Staten Island",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "10",
+  "borough" : "Staten Island",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "7",
+  "borough" : "Staten Island",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "4",
+  "borough" : "Staten Island",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "10",
+  "borough" : "Staten Island",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "10",
+  "borough" : "Staten Island",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "6",
+  "borough" : "Staten Island",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "7",
+  "borough" : "Staten Island",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Dismissed",
+  "disposed_violation_count" : "0",
+  "borough" : "Staten Island",
+  "calendar_year" : "2016"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "11",
+  "borough" : "Staten Island",
+  "calendar_year" : "2006"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "19",
+  "borough" : "Staten Island",
+  "calendar_year" : "2007"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "28",
+  "borough" : "Staten Island",
+  "calendar_year" : "2008"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "27",
+  "borough" : "Staten Island",
+  "calendar_year" : "2009"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "39",
+  "borough" : "Staten Island",
+  "calendar_year" : "2010"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "15",
+  "borough" : "Staten Island",
+  "calendar_year" : "2011"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "38",
+  "borough" : "Staten Island",
+  "calendar_year" : "2012"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "28",
+  "borough" : "Staten Island",
+  "calendar_year" : "2013"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "23",
+  "borough" : "Staten Island",
+  "calendar_year" : "2014"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "6",
+  "borough" : "Staten Island",
+  "calendar_year" : "2015"
+}
+, {
+  "violation_type" : "Revoked",
+  "disposed_violation_count" : "22",
+  "borough" : "Staten Island",
+  "calendar_year" : "2016"
+}
+ ]

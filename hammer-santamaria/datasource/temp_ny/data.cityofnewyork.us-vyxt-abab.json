@@ -1,0 +1,2322 @@
+[ {
+  "canclass" : "CANCLASS",
+  "candname" : "CANDNAME",
+  "officeboro" : "OFFICEBORO"
+}
+, {
+  "officedist" : "33",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "1231",
+  "candname" : "Abraham, Isaac",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "17",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "42932.00",
+  "primarypay" : "20794.00",
+  "candid" : "838",
+  "candname" : "Arroyo, Maria C",
+  "generalpay" : "22138.00",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "51",
+  "candname" : "Avella, Tony",
+  "generalpay" : "0",
+  "officecd" : "1"
+}
+, {
+  "officedist" : "33",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "80646.00",
+  "primarypay" : "80646.00",
+  "candid" : "1206",
+  "candname" : "Baer, Kenneth J",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "14",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "70170.00",
+  "primarypay" : "70170.00",
+  "candid" : "591",
+  "candname" : "Baez, Maria",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "42",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "38700.00",
+  "primarypay" : "34128.00",
+  "candname" : "Barron, Charles",
+  "generalpay" : "4572.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "19",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "98557.00",
+  "primarypay" : "98557.00",
+  "candid" : "60",
+  "candname" : "Behar, Steven Anthony",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "46",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1404",
+  "candname" : "Berardelli, Gene R",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "9",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1273",
+  "candname" : "Berkley, Carlton",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "7",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "560",
+  "candname" : "Bernace, Victor A",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "33",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "1345",
+  "candname" : "Biviano, Douglas J",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "41",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "53642.00",
+  "primarypay" : "53642.00",
+  "candname" : "Boyland, Tracy L",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "6",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "399",
+  "candname" : "Brewer, Gale A",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "42",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "41160.00",
+  "primarypay" : "41160.00",
+  "candid" : "1162",
+  "candname" : "Bristol, Carlos A",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "37",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1371",
+  "candname" : "Brown, Melvin",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "14",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "90318.00",
+  "primarypay" : "85128.00",
+  "candid" : "1256",
+  "candname" : "Cabrera, Fernando",
+  "generalpay" : "5190.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "43",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "0",
+  "candid" : "709",
+  "candname" : "Capano, Robert P",
+  "generalpay" : "88550.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "36",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "33300.00",
+  "primarypay" : "33300.00",
+  "candid" : "1293",
+  "candname" : "Carrington, William A",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1372",
+  "candname" : "Casavis, David",
+  "generalpay" : "0",
+  "officeboro" : "M",
+  "officecd" : "4"
+}
+, {
+  "officedist" : "11",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "1171",
+  "candname" : "Cassino, Anthony P",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "10",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "75240.00",
+  "primarypay" : "75240.00",
+  "candname" : "Castellanos, Francesca M",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "4",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "84732.00",
+  "primarypay" : "45102.00",
+  "candid" : "1285",
+  "candname" : "Chandra, Ashok",
+  "generalpay" : "39630.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "1",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "110688.00",
+  "primarypay" : "88550.00",
+  "candid" : "98",
+  "candname" : "Chin, Margaret S",
+  "generalpay" : "22138.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "20",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "107333.00",
+  "primarypay" : "107333.00",
+  "candid" : "1376",
+  "candname" : "Choe, John",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "20",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "235",
+  "candname" : "Chou, Evergreen C",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "31",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "83478.00",
+  "primarypay" : "83478.00",
+  "candid" : "1229",
+  "candname" : "Claxton, Marquez",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "29",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "106795.00",
+  "primarypay" : "106795.00",
+  "candid" : "1394",
+  "candname" : "Cohen, Albert",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "29",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "80328.00",
+  "primarypay" : "80328.00",
+  "candid" : "1196",
+  "candname" : "Cohen, Michael L",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "27",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88330.00",
+  "primarypay" : "88330.00",
+  "candid" : "420",
+  "candname" : "Comrie, Leroy G",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "19",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "71157.00",
+  "primarypay" : "71157.00",
+  "candid" : "1297",
+  "candname" : "Cooke, Thomas E",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "36",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "87060.00",
+  "primarypay" : "87060.00",
+  "candid" : "1267",
+  "candname" : "Cornegy, Jr., Robert E",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "30",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "0",
+  "candid" : "530",
+  "candname" : "Crowley, Elizabeth S",
+  "generalpay" : "88550.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "4",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1369",
+  "candname" : "D'Alessio, Neal",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1408",
+  "candname" : "D'Ottavio, Marc L",
+  "generalpay" : "0",
+  "officeboro" : "K",
+  "officecd" : "4"
+}
+, {
+  "officedist" : "9",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "58260.00",
+  "primarypay" : "58260.00",
+  "candid" : "1333",
+  "candname" : "Dais, Landon C",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "34",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "177100.00",
+  "primarypay" : "88550.00",
+  "candid" : "1283",
+  "candname" : "Davila, Maritza",
+  "generalpay" : "88550.00",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "443431.00",
+  "totalpay" : "2246941.00",
+  "primarypay" : "1773722.00",
+  "candid" : "326",
+  "candname" : "de Blasio, Bill",
+  "generalpay" : "29788.00",
+  "officecd" : "2"
+}
+, {
+  "officedist" : "33",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "449",
+  "candname" : "Diamondstone, Kenneth A",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1160",
+  "candname" : "Diaz, Jr., Ruben",
+  "generalpay" : "0",
+  "officeboro" : "X",
+  "officecd" : "4"
+}
+, {
+  "officedist" : "9",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "110688.00",
+  "primarypay" : "88250.00",
+  "candid" : "867",
+  "candname" : "Dickens, Inez E",
+  "generalpay" : "22438.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "37",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "20794.00",
+  "primarypay" : "0",
+  "candid" : "444",
+  "candname" : "Dilan, Erik M",
+  "generalpay" : "20794.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "25",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "129471.00",
+  "primarypay" : "107333.00",
+  "candid" : "1075",
+  "candname" : "Dromm, Daniel P",
+  "generalpay" : "22138.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "31",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "74830.00",
+  "primarypay" : "74830.00",
+  "candid" : "1238",
+  "candname" : "Duncan, Michael R",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1266",
+  "candname" : "Eiland, Tyrrell L",
+  "generalpay" : "0",
+  "officecd" : "1"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1341",
+  "candname" : "Ejaz, Salim",
+  "generalpay" : "0",
+  "officecd" : "3"
+}
+, {
+  "officedist" : "16",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "41906.00",
+  "primarypay" : "41906.00",
+  "candid" : "1324",
+  "candname" : "Escoffery-Bey, Mark",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "34",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "85195.00",
+  "primarypay" : "85195.00",
+  "candid" : "1193",
+  "candname" : "Esposito, Gerald A",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "35",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1350",
+  "candname" : "Estiphanos, Medhanie",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "40",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "109742.00",
+  "primarypay" : "88550.00",
+  "candid" : "1086",
+  "candname" : "Eugene, Mathieu",
+  "generalpay" : "21192.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "26",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "1180",
+  "candname" : "Feerick, Deirdre A",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "21",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "72480.00",
+  "primarypay" : "72480.00",
+  "candid" : "1235",
+  "candname" : "Ferreras, Julissa",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "46",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "0",
+  "candid" : "527",
+  "candname" : "Fidler, Lewis A",
+  "generalpay" : "88550.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "16",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "93110.00",
+  "primarypay" : "88550.00",
+  "candid" : "325",
+  "candname" : "Foster, Helen Diane",
+  "generalpay" : "4560.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "23",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "157110.00",
+  "primarypay" : "88550.00",
+  "candid" : "1169",
+  "candname" : "Friedrich, Robert",
+  "generalpay" : "68560.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "29",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "43185.00",
+  "primarypay" : "43185.00",
+  "candid" : "1249",
+  "candname" : "Gagarin, Melquiades R",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "4",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "721",
+  "candname" : "Garodnick, Daniel R",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "24",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "283",
+  "candname" : "Gennaro, James F",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "43",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "0",
+  "candid" : "717",
+  "candname" : "Gentile, Vincent J",
+  "generalpay" : "88550.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "1",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "268",
+  "candname" : "Gerson, Alan J",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "1705890.00",
+  "primarypay" : "1705890.00",
+  "candid" : "418",
+  "candname" : "Gioia, Eric",
+  "generalpay" : "0",
+  "officecd" : "2"
+}
+, {
+  "officedist" : "21",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "87960.00",
+  "primarypay" : "87960.00",
+  "candid" : "1265",
+  "candname" : "Giraldo, Jose Eduardo",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "1",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "763",
+  "candname" : "Gleason, Peter J",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "38",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "110688.00",
+  "primarypay" : "88550.00",
+  "candid" : "711",
+  "candname" : "Gonzalez, Sara M",
+  "generalpay" : "22138.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "8",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1009",
+  "candname" : "Goodwin, Gwen E",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "49",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "68904.00",
+  "primarypay" : "68904.00",
+  "candid" : "1225",
+  "candname" : "Gowda, Rajiv S",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "239658.00",
+  "totalpay" : "1198290.00",
+  "primarypay" : "958632.00",
+  "candname" : "Green, Mark",
+  "generalpay" : "0",
+  "officecd" : "2"
+}
+, {
+  "officedist" : "1",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1396",
+  "candname" : "Gregory, Arthur",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "36",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "173894.00",
+  "primarypay" : "88550.00",
+  "candid" : "1202",
+  "candname" : "Griffith, Mark W",
+  "generalpay" : "85344.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "36",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "84122.00",
+  "primarypay" : "84122.00",
+  "candid" : "1154",
+  "candname" : "Grinage, David F",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "32",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88320.00",
+  "primarypay" : "0",
+  "candid" : "1158",
+  "candname" : "Gulluscio, Frank P",
+  "generalpay" : "88320.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "40",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "77136.00",
+  "primarypay" : "77136.00",
+  "candid" : "405",
+  "candname" : "Hackshaw, Rock H",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "19",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "102568.00",
+  "primarypay" : "0",
+  "candid" : "1309",
+  "candname" : "Halloran, Daniel J",
+  "generalpay" : "102568.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "41",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "738",
+  "candname" : "Herbert, Anthony L",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "39",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "1224",
+  "candname" : "Heyer, II, John L",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "28",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1367",
+  "candname" : "Hogan, Robert",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1094",
+  "candname" : "Hornak, Robert A",
+  "generalpay" : "0",
+  "officeboro" : "Q",
+  "officecd" : "4"
+}
+, {
+  "officedist" : "35",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "76890.00",
+  "primarypay" : "76890.00",
+  "candid" : "1325",
+  "candname" : "Hunley-Adossa, Delia M",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "36",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "44118.00",
+  "primarypay" : "0",
+  "candname" : "Hunter, Robert A",
+  "generalpay" : "44118.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "19",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "107333.00",
+  "primarypay" : "107333.00",
+  "candname" : "Iannece, Jerry M",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "38",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "39402.00",
+  "primarypay" : "39402.00",
+  "candid" : "1344",
+  "candname" : "Iglesias, Robinson",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "51",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88450.00",
+  "primarypay" : "0",
+  "candid" : "1078",
+  "candname" : "Ignizio, Vincent M",
+  "generalpay" : "88450.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "7",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "105032.00",
+  "primarypay" : "88550.00",
+  "candid" : "484",
+  "candname" : "Jackson, Robert",
+  "generalpay" : "16482.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "35",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "110688.00",
+  "primarypay" : "88550.00",
+  "candid" : "480",
+  "candname" : "James, Letitia",
+  "generalpay" : "22138.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "36",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "55320.00",
+  "primarypay" : "55320.00",
+  "candid" : "1262",
+  "candname" : "Jones, Saquan U",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "28",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "760",
+  "candname" : "Jones, Stephen S",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "20",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "107333.00",
+  "primarypay" : "107333.00",
+  "candid" : "1337",
+  "candname" : "Jung, S.J.",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "22",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "492",
+  "candname" : "Kann, Jerry",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "758410.00",
+  "primarypay" : "758410.00",
+  "candid" : "264",
+  "candname" : "Katz, Melinda R",
+  "generalpay" : "0",
+  "officecd" : "3"
+}
+, {
+  "officedist" : "5",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1399",
+  "candname" : "Kaufman, Stephen F",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "42",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1360",
+  "candname" : "Key, Winchester",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "1",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "1373",
+  "candname" : "Kim, PJ",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "41",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "76716.00",
+  "primarypay" : "76716.00",
+  "candid" : "1278",
+  "candname" : "Kinard, Tulani",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "12",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "79730.00",
+  "primarypay" : "79730.00",
+  "candid" : "1185",
+  "candname" : "King, Andy L",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "45",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "84122.00",
+  "primarypay" : "84122.00",
+  "candid" : "716",
+  "candname" : "King, Erlene J",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "11",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "459",
+  "candname" : "Koppell, G. Oliver",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "29",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "185855.00",
+  "primarypay" : "107333.00",
+  "candname" : "Koslowitz, Karen",
+  "generalpay" : "78522.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "49",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1413",
+  "candname" : "Kuhn, Timothy K",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "3",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "1240",
+  "candname" : "Kurland, Yetta G",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "39",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "177100.00",
+  "primarypay" : "88550.00",
+  "candid" : "1164",
+  "candname" : "Lander, Brad S",
+  "generalpay" : "88550.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "7",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "1316",
+  "candname" : "Lantigua, Manuel",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "5",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "805",
+  "candname" : "Lappin, Jessica S",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "31",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "1246",
+  "candname" : "Leandre, Jacques M",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "310722.00",
+  "primarypay" : "310722.00",
+  "candid" : "1352",
+  "candname" : "Leavitt, Marc C",
+  "generalpay" : "0",
+  "officeboro" : "Q",
+  "officecd" : "4"
+}
+, {
+  "officedist" : "33",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "110688.00",
+  "primarypay" : "88550.00",
+  "candid" : "1204",
+  "candname" : "Levin, Stephen T",
+  "generalpay" : "22138.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "31",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1097",
+  "candname" : "Lewis, Frederick A",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "42",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "574",
+  "candname" : "Lewis, Prince D",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "270044.00",
+  "totalpay" : "1355065.00",
+  "primarypay" : "1080176.00",
+  "candname" : "Liu, John C",
+  "generalpay" : "4845.00",
+  "officecd" : "3"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "239934.00",
+  "primarypay" : "0",
+  "candid" : "857",
+  "candname" : "Luisi, John",
+  "generalpay" : "239934.00",
+  "officeboro" : "S",
+  "officecd" : "4"
+}
+, {
+  "officedist" : "26",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "81060.00",
+  "primarypay" : "0",
+  "candid" : "1390",
+  "candname" : "Maragos, Angelo",
+  "generalpay" : "81060.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "8",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88275.00",
+  "primarypay" : "88275.00",
+  "candid" : "743",
+  "candname" : "Mark-Viverito, Melissa",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "19",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "96999.00",
+  "primarypay" : "96999.00",
+  "candname" : "Markell, Debra",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "226",
+  "candname" : "Markowitz, Marty",
+  "generalpay" : "0",
+  "officeboro" : "K",
+  "officecd" : "4"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "341128.00",
+  "primarypay" : "322288.00",
+  "candname" : "Marshall, Helen M",
+  "generalpay" : "18840.00",
+  "officeboro" : "Q",
+  "officecd" : "4"
+}
+, {
+  "officedist" : "7",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1398",
+  "candname" : "Masson, Fred",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "51",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "0",
+  "candid" : "1366",
+  "candname" : "Materna, Janine",
+  "generalpay" : "88550.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "45",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "73216.00",
+  "primarypay" : "73216.00",
+  "candid" : "1261",
+  "candname" : "McKenzie, Dexter A",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candname" : "McMillan, Jimmy",
+  "generalpay" : "0",
+  "officecd" : "1"
+}
+, {
+  "officedist" : "41",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "86435.00",
+  "primarypay" : "86135.00",
+  "candid" : "846",
+  "candname" : "Mealy, Darlene",
+  "generalpay" : "300.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "2",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "44276.00",
+  "primarypay" : "22138.00",
+  "candid" : "804",
+  "candname" : "Mendez, Rosie",
+  "generalpay" : "22138.00",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1323",
+  "candname" : "Mendola, Joseph A",
+  "generalpay" : "0",
+  "officecd" : "3"
+}
+, {
+  "officedist" : "49",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "1166",
+  "candname" : "Mitchell, Kenneth C",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "628248.00",
+  "primarypay" : "0",
+  "candid" : "419",
+  "candname" : "Molinaro, James P",
+  "generalpay" : "628248.00",
+  "officeboro" : "S",
+  "officecd" : "4"
+}
+, {
+  "officedist" : "31",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1353",
+  "candname" : "Murray, Scherie S",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "39",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1414",
+  "candname" : "Nardiello, Joseph A",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "48",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "22138.00",
+  "primarypay" : "0",
+  "candid" : "207",
+  "candname" : "Nelson, Michael C",
+  "generalpay" : "22138.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "18",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "38700.00",
+  "primarypay" : "0",
+  "candid" : "1342",
+  "candname" : "Nestler, Walter G",
+  "generalpay" : "38700.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "28",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "1192",
+  "candname" : "Nunes, Lynn",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "26",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "43398.00",
+  "primarypay" : "43398.00",
+  "candid" : "1247",
+  "candname" : "O'Leary, Brent M",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "50",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "0",
+  "candid" : "214",
+  "candname" : "Oddo, James S",
+  "generalpay" : "88550.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "30",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "0",
+  "candname" : "Ognibene, Thomas V",
+  "generalpay" : "88550.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "2",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1405",
+  "candname" : "Pagan, Juan",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "18",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "22138.00",
+  "primarypay" : "0",
+  "candid" : "767",
+  "candname" : "Palma, Annabel",
+  "generalpay" : "22138.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "3",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "1216",
+  "candname" : "Passannante-Derr, Maria",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "39",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "53160.00",
+  "primarypay" : "0",
+  "candid" : "1334",
+  "candname" : "Pechefsky, David J",
+  "generalpay" : "53160.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "50",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "0",
+  "candid" : "1212",
+  "candname" : "Pocchia, James M",
+  "generalpay" : "88550.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "42",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1364",
+  "candname" : "Powell, Regina",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "3",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "204",
+  "candname" : "Quinn, Christine C",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "25",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "39120.00",
+  "primarypay" : "0",
+  "candid" : "1255",
+  "candname" : "Rahman, Mujib U",
+  "generalpay" : "39120.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "10",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "38670.00",
+  "primarypay" : "38670.00",
+  "candid" : "1263",
+  "candname" : "Realmuto, Richard",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "47",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candname" : "Recchia, Domenic",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "39",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "44550.00",
+  "primarypay" : "44550.00",
+  "candid" : "1203",
+  "candname" : "Reilly, Gary G",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "34",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "172880.00",
+  "primarypay" : "88550.00",
+  "candid" : "452",
+  "candname" : "Reyna, Diana",
+  "generalpay" : "84330.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "12",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1232",
+  "candname" : "Rice, Jerome L",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "15",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "361",
+  "candname" : "Rivera, Joel",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "8",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "68562.00",
+  "primarypay" : "68562.00",
+  "candid" : "1343",
+  "candname" : "Rodriguez, Robert J",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "10",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "152696.00",
+  "primarypay" : "88550.00",
+  "candid" : "353",
+  "candname" : "Rodriguez, Ydanis A",
+  "generalpay" : "64146.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "9",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1386",
+  "candname" : "Rogers, Abbi L",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "26",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1215",
+  "candname" : "Rosasco, David J",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "49",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "177050.00",
+  "primarypay" : "88550.00",
+  "candid" : "292",
+  "candname" : "Rose, Deborah",
+  "generalpay" : "88500.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "46",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1385",
+  "candname" : "Sacerdote, Derek I",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "31",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "21888.00",
+  "primarypay" : "0",
+  "candid" : "286",
+  "candname" : "Sanders, Jr., James J",
+  "generalpay" : "21888.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "10",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1181",
+  "candname" : "Sarete, Cleofis",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "20",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "107333.00",
+  "primarypay" : "107333.00",
+  "candid" : "732",
+  "candname" : "Sasson, Isaac M",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "29",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "157865.00",
+  "primarypay" : "107333.00",
+  "candid" : "433",
+  "candname" : "Schulman, Lynn C",
+  "generalpay" : "50532.00",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1326",
+  "candname" : "Schwartz, Robert",
+  "generalpay" : "0",
+  "officeboro" : "Q",
+  "officecd" : "4"
+}
+, {
+  "officedist" : "12",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "105092.00",
+  "primarypay" : "88550.00",
+  "candname" : "Seabrook, Larry B",
+  "generalpay" : "16542.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "25",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "107333.00",
+  "primarypay" : "107333.00",
+  "candname" : "Sears, Helen",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "22",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "0",
+  "candid" : "1378",
+  "candname" : "Serpe, Lynne",
+  "generalpay" : "88550.00",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "820044.00",
+  "primarypay" : "820044.00",
+  "candid" : "310",
+  "candname" : "Siegel, Norman H",
+  "generalpay" : "0",
+  "officecd" : "2"
+}
+, {
+  "officedist" : "16",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "70890.00",
+  "primarypay" : "70890.00",
+  "candid" : "1271",
+  "candname" : "Sierra, Carlos",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "33",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "818",
+  "candname" : "Simon, Jo Anne",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "23",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "1222",
+  "candname" : "Singh, Swaranjit",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "39",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "1179",
+  "candname" : "Skaller, Josh",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "39",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1407",
+  "candname" : "Smith, George",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "8",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1351",
+  "candname" : "Solomon, Calvin C",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "10",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candname" : "Spies, Francisco A",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "45",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "136940.00",
+  "primarypay" : "83358.00",
+  "candname" : "Stewart, Kendall B",
+  "generalpay" : "53582.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "36",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "35550.00",
+  "primarypay" : "35550.00",
+  "candid" : "1311",
+  "candname" : "Straker, Adrian M",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "148",
+  "candname" : "Stringer, Scott M",
+  "generalpay" : "0",
+  "officeboro" : "M",
+  "officecd" : "4"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1340",
+  "candname" : "Syed, Imtiaz S",
+  "generalpay" : "0",
+  "officecd" : "2"
+}
+, {
+  "officedist" : "45",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "490",
+  "candname" : "Taitt, Samuel A",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1317",
+  "candname" : "Talen, Billy",
+  "generalpay" : "0",
+  "officecd" : "1"
+}
+, {
+  "officedist" : "14",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "78828.00",
+  "primarypay" : "78828.00",
+  "candid" : "619",
+  "candname" : "Tapia, Yudelka",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "33",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "1175",
+  "candname" : "Thies, Evan R",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "3265062.00",
+  "primarypay" : "1623554.00",
+  "candid" : "260",
+  "candname" : "Thompson, Jr., William C",
+  "generalpay" : "1641508.00",
+  "officecd" : "1"
+}
+, {
+  "officedist" : "40",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "1079",
+  "candname" : "Tulloch, Leithland R",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "12",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1189",
+  "candname" : "Ulanga, Sebastian D",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "32",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "0",
+  "candid" : "1068",
+  "candname" : "Ulrich, Eric A",
+  "generalpay" : "88550.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "13",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "821",
+  "candname" : "Vacca, James",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "22",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "240",
+  "candname" : "Vallone, Jr., Peter F",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "19",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "106733.00",
+  "primarypay" : "106733.00",
+  "candid" : "1176",
+  "candname" : "Vallone, Paul A",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "26",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "172672.00",
+  "primarypay" : "84122.00",
+  "candid" : "337",
+  "candname" : "Van Bramer, James G",
+  "generalpay" : "88550.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "27",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "70050.00",
+  "primarypay" : "70050.00",
+  "candid" : "1282",
+  "candname" : "Vanel, Clyde",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "36",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "168505.00",
+  "primarypay" : "88550.00",
+  "candid" : "202",
+  "candname" : "Vann, Albert",
+  "generalpay" : "79955.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "10",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "56310.00",
+  "primarypay" : "56310.00",
+  "candname" : "Vargas, Ruben Dario",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "10",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "55200.00",
+  "primarypay" : "55200.00",
+  "candid" : "1226",
+  "candname" : "Velazquez, Manny C",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "928771.00",
+  "primarypay" : "928771.00",
+  "candid" : "232",
+  "candname" : "Weprin, David I",
+  "generalpay" : "0",
+  "officecd" : "3"
+}
+, {
+  "officedist" : "23",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "177100.00",
+  "primarypay" : "88550.00",
+  "candid" : "1335",
+  "candname" : "Weprin, Mark S",
+  "generalpay" : "88550.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "28",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "112621.00",
+  "primarypay" : "88425.00",
+  "candname" : "White, Jr., Thomas",
+  "generalpay" : "24196.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "45",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "154740.00",
+  "primarypay" : "88550.00",
+  "candid" : "1227",
+  "candname" : "Williams, Jumaane D",
+  "generalpay" : "66190.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "28",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "139818.00",
+  "primarypay" : "71346.00",
+  "candid" : "1374",
+  "candname" : "Wills, Ruben W",
+  "generalpay" : "68472.00",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "36",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1313",
+  "candname" : "Wright, Tremaine S",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "officedist" : "20",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "101966.00",
+  "primarypay" : "101966.00",
+  "candid" : "1295",
+  "candname" : "Wu, James M",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "448503.00",
+  "totalpay" : "2242515.00",
+  "primarypay" : "1794012.00",
+  "candid" : "280",
+  "candname" : "Yassky, David",
+  "generalpay" : "0",
+  "officecd" : "3"
+}
+, {
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "0",
+  "primarypay" : "0",
+  "candid" : "1243",
+  "candname" : "Zablocki, Alex T",
+  "generalpay" : "0",
+  "officecd" : "2"
+}
+, {
+  "officedist" : "39",
+  "election" : "2009",
+  "canclass" : "P",
+  "runoffpay" : "0",
+  "totalpay" : "88550.00",
+  "primarypay" : "88550.00",
+  "candid" : "813",
+  "candname" : "Zuckerman, Bob",
+  "generalpay" : "0",
+  "officecd" : "5"
+}
+ ]

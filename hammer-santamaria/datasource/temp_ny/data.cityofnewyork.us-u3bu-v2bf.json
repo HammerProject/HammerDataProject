@@ -1,0 +1,101 @@
+[ {
+  "owner" : "Heights Inter-Neighborhood HDF",
+  "street_address" : "1694 Davidson Ave",
+  "location_1" : {
+    "latitude" : "40.84694407041451",
+    "human_address" : "{\"address\":\"1694 Davidson Ave\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91400146662433"
+  }
+}
+, {
+  "owner" : "1627-1635 Amsterdam Avenue LLC",
+  "street_address" : "476 West 141 Street",
+  "location_1" : {
+    "latitude" : "40.82240435307847",
+    "human_address" : "{\"address\":\"476 141 Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94885071508074"
+  }
+}
+, {
+  "owner" : "129-135 Ridge Street, HDFC",
+  "street_address" : "129 Ridge Street",
+  "location_1" : {
+    "latitude" : "40.71950537368474",
+    "human_address" : "{\"address\":\"129 Ridge Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98289508051067"
+  }
+}
+, {
+  "owner" : "Thermald Realty Associates LLP",
+  "street_address" : "91 East Third Street",
+  "location_1" : {
+    "latitude" : "40.756053999992105",
+    "human_address" : "{\"address\":\"91 Third Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9869510002884"
+  }
+}
+, {
+  "owner" : "941 Intervale Realty",
+  "street_address" : "941 Intervale Avenue",
+  "location_1" : {
+    "latitude" : "40.821035486559545",
+    "human_address" : "{\"address\":\"941 Intervale Avenue\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89692832141648"
+  }
+}
+, {
+  "owner" : "885 Third Owner LLC",
+  "street_address" : "885 Third Avenue",
+  "location_1" : {
+    "latitude" : "40.75800534975912",
+    "human_address" : "{\"address\":\"885 Third Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96916243312324"
+  }
+}
+, {
+  "owner" : "100 Audubon Holdings, LP",
+  "street_address" : "551 West 170th Street",
+  "location_1" : {
+    "latitude" : "40.8419275035329",
+    "human_address" : "{\"address\":\"551 170th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93800768357518"
+  }
+}
+, {
+  "owner" : "Tivoli Towers Housing Co.",
+  "street_address" : "49 Crown Street",
+  "location_1" : {
+    "latitude" : "40.667314293900304",
+    "human_address" : "{\"address\":\"49 Crown Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95991278165833"
+  }
+}
+, {
+  "owner" : "Fulton Park Site 4 Houses, Inc.",
+  "street_address" : "1711 Fulton Street",
+  "location_1" : {
+    "latitude" : "40.67936060442289",
+    "human_address" : "{\"address\":\"1711 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93017152973913"
+  }
+}
+, {
+  "owner" : "Harlem River Park Houses aka River Park Associates",
+  "street_address" : "10 Richman Plaza",
+  "location_1" : {
+    "latitude" : "40.82557699997852",
+    "human_address" : "{\"address\":\"10 Richman Plaza\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91844899972153"
+  }
+}
+ ]

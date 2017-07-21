@@ -1,0 +1,37 @@
+[ {
+  "tax_type_year" : "FY 2012 ($ in Millions) ",
+  "non_tax_revenue" : "5438",
+  "property_tax" : "17945",
+  "economically_sensitive_taxes" : "24166"
+}
+, {
+  "tax_type_year" : "FY 2013f ($ in Millions)",
+  "non_tax_revenue" : "4794",
+  "property_tax" : "18440",
+  "economically_sensitive_taxes" : "25631"
+}
+, {
+  "tax_type_year" : "FY 2014f ($ in Millions)",
+  "non_tax_revenue" : "5252",
+  "property_tax" : "19365",
+  "economically_sensitive_taxes" : "26077"
+}
+, {
+  "tax_type_year" : "FY 2015f ($ in Millions)",
+  "non_tax_revenue" : "5132",
+  "property_tax" : "20176",
+  "economically_sensitive_taxes" : "27348"
+}
+, {
+  "tax_type_year" : "FY 2016f ($ in Millions)",
+  "non_tax_revenue" : "5084",
+  "property_tax" : "21105",
+  "economically_sensitive_taxes" : "28428"
+}
+, {
+  "tax_type_year" : "FY 2017f ($ in Millions)",
+  "non_tax_revenue" : "4830",
+  "property_tax" : "21870",
+  "economically_sensitive_taxes" : "29724"
+}
+ ]

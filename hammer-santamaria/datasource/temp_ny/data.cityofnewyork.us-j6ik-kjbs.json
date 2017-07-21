@@ -1,0 +1,85 @@
+[ {
+  "reservation_courts" : "4",
+  "first_reservation" : "8-May",
+  "walk_on_courts" : "16",
+  "location" : "Alley Pond Park, Queens",
+  "last_reservation" : "9-Oct"
+}
+, {
+  "reservation_courts" : "2",
+  "first_reservation" : "1-May",
+  "walk_on_courts" : "8",
+  "location" : "Bensonhurst Park, Brooklyn",
+  "last_reservation" : "8-Oct"
+}
+, {
+  "reservation_courts" : "4",
+  "first_reservation" : "7-Apr",
+  "walk_on_courts" : "26",
+  "location" : "Central Park, Manhattan",
+  "last_reservation" : "4-Nov"
+}
+, {
+  "reservation_courts" : "4",
+  "first_reservation" : "1-May",
+  "walk_on_courts" : "20",
+  "location" : "Cunningham Park, Queens",
+  "last_reservation" : "9-Oct"
+}
+, {
+  "reservation_courts" : "3",
+  "first_reservation" : "7-Apr",
+  "walk_on_courts" : "12",
+  "location" : "East River Park, Manhattan",
+  "last_reservation" : "30-Sep"
+}
+, {
+  "reservation_courts" : "4",
+  "first_reservation" : "15-Apr",
+  "walk_on_courts" : "11",
+  "location" : "Flushing Meadows Corona Park, Queens",
+  "last_reservation" : "30-Oct"
+}
+, {
+  "reservation_courts" : "2",
+  "first_reservation" : "7-Apr",
+  "walk_on_courts" : "7",
+  "location" : "McCarren Park, Brooklyn",
+  "last_reservation" : "28-Oct"
+}
+, {
+  "reservation_courts" : "3",
+  "first_reservation" : "1-May",
+  "walk_on_courts" : "12",
+  "location" : "Mill Pond Park, Bronx",
+  "last_reservation" : "8-Oct"
+}
+, {
+  "reservation_courts" : "3",
+  "first_reservation" : "19-May",
+  "walk_on_courts" : "11",
+  "location" : "Prospect Park, Brooklyn",
+  "last_reservation" : "7-Oct"
+}
+, {
+  "reservation_courts" : "2",
+  "first_reservation" : "1-May",
+  "walk_on_courts" : "10",
+  "location" : "Randall's Island Park, Manhattan",
+  "last_reservation" : "7-Oct"
+}
+, {
+  "reservation_courts" : "2",
+  "first_reservation" : "11-Apr",
+  "walk_on_courts" : "10",
+  "location" : "Riverside Park (119th), Manhattan",
+  "last_reservation" : "15-Oct"
+}
+, {
+  "reservation_courts" : "2",
+  "first_reservation" : "7-Apr",
+  "walk_on_courts" : "10",
+  "location" : "Riverside Park (96th), Manhattan",
+  "last_reservation" : "17-Nov"
+}
+ ]

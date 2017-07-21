@@ -1,0 +1,41 @@
+[ {
+  "number_of_eitc_recipients" : "58511",
+  "total_eitc_dollars_in_millions" : "1.5",
+  "income_group" : "1st Decile "
+}
+, {
+  "number_of_eitc_recipients" : "198405",
+  "total_eitc_dollars_in_millions" : "11.7",
+  "income_group" : "2nd Decile"
+}
+, {
+  "number_of_eitc_recipients" : "216446",
+  "total_eitc_dollars_in_millions" : "27.4",
+  "income_group" : "3rd Decile"
+}
+, {
+  "number_of_eitc_recipients" : "147528",
+  "total_eitc_dollars_in_millions" : "27",
+  "income_group" : "4th Decile "
+}
+, {
+  "number_of_eitc_recipients" : "135940",
+  "total_eitc_dollars_in_millions" : "18.899999999999999",
+  "income_group" : "5th Decile "
+}
+, {
+  "number_of_eitc_recipients" : "105057",
+  "total_eitc_dollars_in_millions" : "7.6",
+  "income_group" : "6th Decile "
+}
+, {
+  "number_of_eitc_recipients" : "22975",
+  "total_eitc_dollars_in_millions" : "0.8",
+  "income_group" : "7th Decile "
+}
+, {
+  "number_of_eitc_recipients" : "0",
+  "total_eitc_dollars_in_millions" : "0",
+  "income_group" : "8th-10th Decile"
+}
+ ]

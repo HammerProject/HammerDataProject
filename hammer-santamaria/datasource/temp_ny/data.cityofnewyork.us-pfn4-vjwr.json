@@ -1,0 +1,253 @@
+[ {
+  "location_1" : {
+    "human_address" : "{\"address\":\"1980 Lafayette Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "Adlai Stevenson Campus YABC",
+  "phone_number" : "(718) 918-2700 x111",
+  "borough" : "Bronx",
+  "site_administrator" : "Gladys De la Cruz",
+  "email" : "gdelacruz@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"333 E. 151st Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "Alfred E. Smith Campus YABC",
+  "phone_number" : "(718) 993-1840",
+  "borough" : "Bronx",
+  "site_administrator" : "Arleen Milton",
+  "email" : "amilton2@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"925 Astor Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "Christopher Columbus YABC",
+  "phone_number" : "(718) 944-3400 x3558",
+  "borough" : "Bronx",
+  "site_administrator" : "Ruth Colton",
+  "email" : "rcolton@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"2474 Crotona Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "Grace Dodge YABC",
+  "phone_number" : "(718) 584-2700 ext.2131",
+  "borough" : "Bronx",
+  "site_administrator" : "Veronica Jackson",
+  "email" : "vjackso7@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"3000 E. Tremont Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "Herbert Lehman YABC",
+  "phone_number" : "(718) 904-4280",
+  "borough" : "Bronx",
+  "site_administrator" : "Martin Smallhorne",
+  "email" : "msmallh@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"1300 Boynton Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "James Monroe Educational Campus YABC",
+  "phone_number" : "(718) 860-8284",
+  "borough" : "Bronx",
+  "site_administrator" : "Carmel Belizaire",
+  "email" : "cbeliza@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"99 Terrace View Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "John F. Kennedy YABC",
+  "phone_number" : "(718) 817-7470",
+  "borough" : "Bronx",
+  "site_administrator" : "James Barron",
+  "email" : "jbarron4@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"2780 Reservoir Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "Walton Campus YABC",
+  "phone_number" : "(718) 329-7380 X 3211",
+  "borough" : "Bronx",
+  "site_administrator" : "Thomas Lopez",
+  "email" : "tlopez3@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"2800 Ocean Pkwy.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "Abraham Lincoln YABC",
+  "phone_number" : "(718) 333-7433",
+  "borough" : "Brooklyn",
+  "site_administrator" : "Neal Reich",
+  "email" : "nreich@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"50 Bedford Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "Automotive YABC",
+  "phone_number" : "(718) 218-9301 x1595",
+  "borough" : "Brooklyn",
+  "site_administrator" : "David Decamp",
+  "email" : "ddecamp@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"1700 Fulton Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "Boys and Girls High School YABC",
+  "phone_number" : "718 467 1700 x 3570",
+  "borough" : "Brooklyn",
+  "site_administrator" : "Tito Burrowes"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"105 Johnson Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "Downtown Brooklyn YABC",
+  "phone_number" : "(718) 222-0918 ",
+  "borough" : "Brooklyn",
+  "site_administrator" : "Michael Noto",
+  "email" : "mnoto@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"911 Flatbush Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "Erasmus Campus YABC",
+  "phone_number" : "(718) 564-2590",
+  "borough" : "Brooklyn",
+  "site_administrator" : "Angela Pugh-Roberson",
+  "email" : "apughro@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"5800 20 Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "Franklin D. Roosevelt YABC",
+  "phone_number" : "(718) 256-1346",
+  "borough" : "Brooklyn",
+  "site_administrator" : "Vincent Asaro",
+  "email" : "vasaro@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"999 Jamaica Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "Franklin K. Lane Campus YABC",
+  "phone_number" : "(718) 290-8611",
+  "borough" : "Brooklyn",
+  "site_administrator" : "Rosalie Marks",
+  "email" : "rmarks2@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"6565 Flatlands Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "South Shore Educational Complex YABC",
+  "phone_number" : "(718) 968-1689 x3018",
+  "borough" : "Brooklyn",
+  "site_administrator" : "Dawn Harris",
+  "email" : "dharris12@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"400 Pennsylvania Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "Thomas Jefferson Campus YABC",
+  "phone_number" : "(718) 922-0762 x132",
+  "borough" : "Brooklyn",
+  "site_administrator" : "Juan Batista",
+  "email" : "jbatist3@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"549 Audubon Ave\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "George Washington Educational Campus YABC",
+  "phone_number" : "(212) 927-1841 x189",
+  "borough" : "Manhattan",
+  "site_administrator" : "Samuel Akel",
+  "email" : "sakel@school.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"40 Irving Place\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "Washington Irving YABC",
+  "phone_number" : "(212) 674-5000 x1149",
+  "borough" : "Manhattan",
+  "site_administrator" : "Roger Bradley",
+  "email" : "rbradle@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"35-01 Union St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "Flushing YABC",
+  "phone_number" : "(718) 888-7500 x1281",
+  "borough" : "Queens",
+  "site_administrator" : "Andy Siu Hei Szeto",
+  "email" : "sszeto@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"105-25 Horace Harding Expressway\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "High School for Arts & Business YABC",
+  "phone_number" : "718-271-8383",
+  "borough" : "Queens",
+  "site_administrator" : "Jimmy Liu",
+  "email" : "jliu5@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"101-01 Rockaway Blvd.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "John Adams YABC",
+  "phone_number" : "(718) 322-0581",
+  "borough" : "Queens",
+  "site_administrator" : "Edita Volovodovskaya",
+  "email" : "evolovo@schools.nyc.gov"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"100 Luten Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "location" : "Tottenville YABC",
+  "phone_number" : "(718) 668-8800 x 22081",
+  "borough" : "Staten Island",
+  "site_administrator" : "Chris Anzalone",
+  "email" : "canzalone2@schools.nyc.gov"
+}
+ ]

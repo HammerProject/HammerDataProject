@@ -1,0 +1,576 @@
+[ {
+  "fiscal_year" : "FY 2012",
+  "statistic_type_name" : "Average Daily Inmate Population",
+  "statistic_type_count" : "12,287"
+}
+, {
+  "fiscal_year" : "FY 2011",
+  "statistic_type_name" : "Average Daily Inmate Population",
+  "statistic_type_count" : "12,789"
+}
+, {
+  "fiscal_year" : "FY 2010",
+  "statistic_type_name" : "Average Daily Inmate Population",
+  "statistic_type_count" : "13,049"
+}
+, {
+  "fiscal_year" : "FY 2009",
+  "statistic_type_name" : "Average Daily Inmate Population",
+  "statistic_type_count" : "13,362"
+}
+, {
+  "fiscal_year" : "FY 2008",
+  "statistic_type_name" : "Average Daily Inmate Population",
+  "statistic_type_count" : "13,850"
+}
+, {
+  "fiscal_year" : "FY 2007",
+  "statistic_type_name" : "Average Daily Inmate Population",
+  "statistic_type_count" : "13,987"
+}
+, {
+  "fiscal_year" : "FY 2006",
+  "statistic_type_name" : "Average Daily Inmate Population",
+  "statistic_type_count" : "13,497"
+}
+, {
+  "fiscal_year" : "FY 2005",
+  "statistic_type_name" : "Average Daily Inmate Population",
+  "statistic_type_count" : "13,576"
+}
+, {
+  "fiscal_year" : "FY 2004",
+  "statistic_type_name" : "Average Daily Inmate Population",
+  "statistic_type_count" : "13,751"
+}
+, {
+  "fiscal_year" : "FY 2003",
+  "statistic_type_name" : "Average Daily Inmate Population",
+  "statistic_type_count" : "14,533"
+}
+, {
+  "fiscal_year" : "FY 2002",
+  "statistic_type_name" : "Average Daily Inmate Population",
+  "statistic_type_count" : "13,934"
+}
+, {
+  "fiscal_year" : "FY 2001",
+  "statistic_type_name" : "Average Daily Inmate Population",
+  "statistic_type_count" : "14,490"
+}
+, {
+  "fiscal_year" : "FY 2012",
+  "statistic_type_name" : "Annual Inmate Admissions",
+  "statistic_type_count" : "84,754"
+}
+, {
+  "fiscal_year" : "FY 2011",
+  "statistic_type_name" : "Annual Inmate Admissions",
+  "statistic_type_count" : "87,515"
+}
+, {
+  "fiscal_year" : "FY 2010",
+  "statistic_type_name" : "Annual Inmate Admissions",
+  "statistic_type_count" : "95,385"
+}
+, {
+  "fiscal_year" : "FY 2009",
+  "statistic_type_name" : "Annual Inmate Admissions",
+  "statistic_type_count" : "99,939"
+}
+, {
+  "fiscal_year" : "FY 2008",
+  "statistic_type_name" : "Annual Inmate Admissions",
+  "statistic_type_count" : "107,516"
+}
+, {
+  "fiscal_year" : "FY 2007",
+  "statistic_type_name" : "Annual Inmate Admissions",
+  "statistic_type_count" : "108,767"
+}
+, {
+  "fiscal_year" : "FY 2006",
+  "statistic_type_name" : "Annual Inmate Admissions",
+  "statistic_type_count" : "103,813"
+}
+, {
+  "fiscal_year" : "FY 2005",
+  "statistic_type_name" : "Annual Inmate Admissions",
+  "statistic_type_count" : "102,772  "
+}
+, {
+  "fiscal_year" : "FY 2004",
+  "statistic_type_name" : "Annual Inmate Admissions",
+  "statistic_type_count" : "107,571"
+}
+, {
+  "fiscal_year" : "FY 2003",
+  "statistic_type_name" : "Annual Inmate Admissions",
+  "statistic_type_count" : "109,445"
+}
+, {
+  "fiscal_year" : "FY 2002",
+  "statistic_type_name" : "Annual Inmate Admissions",
+  "statistic_type_count" : "108,464"
+}
+, {
+  "fiscal_year" : "FY 2001",
+  "statistic_type_name" : "Annual Inmate Admissions",
+  "statistic_type_count" : "120,157"
+}
+, {
+  "fiscal_year" : "FY 2012",
+  "statistic_type_name" : "Average Length of Stay (Detainees)",
+  "statistic_type_count" : "53.0 days"
+}
+, {
+  "fiscal_year" : "FY 2011",
+  "statistic_type_name" : "Average Length of Stay (Detainees)",
+  "statistic_type_count" : "53.6 days"
+}
+, {
+  "fiscal_year" : "FY 2010",
+  "statistic_type_name" : "Average Length of Stay (Detainees)",
+  "statistic_type_count" : "50.6 days"
+}
+, {
+  "fiscal_year" : "FY 2009",
+  "statistic_type_name" : "Average Length of Stay (Detainees)",
+  "statistic_type_count" : "50.3 days"
+}
+, {
+  "fiscal_year" : "FY 2008",
+  "statistic_type_name" : "Average Length of Stay (Detainees)",
+  "statistic_type_count" : "48.5 days"
+}
+, {
+  "fiscal_year" : "FY 2007",
+  "statistic_type_name" : "Average Length of Stay (Detainees)",
+  "statistic_type_count" : "46.3 days"
+}
+, {
+  "fiscal_year" : "FY 2006",
+  "statistic_type_name" : "Average Length of Stay (Detainees)",
+  "statistic_type_count" : "46.7 days"
+}
+, {
+  "fiscal_year" : "FY 2005",
+  "statistic_type_name" : "Average Length of Stay (Detainees)",
+  "statistic_type_count" : "47.7 days"
+}
+, {
+  "fiscal_year" : "FY 2004",
+  "statistic_type_name" : "Average Length of Stay (Detainees)",
+  "statistic_type_count" : "44.1 days"
+}
+, {
+  "fiscal_year" : "FY 2003",
+  "statistic_type_name" : "Average Length of Stay (Detainees)",
+  "statistic_type_count" : "45.5 days"
+}
+, {
+  "fiscal_year" : "FY 2012",
+  "statistic_type_name" : "Average Length of Stay (Sentenced)",
+  "statistic_type_count" : "38.6 days"
+}
+, {
+  "fiscal_year" : "FY 2011",
+  "statistic_type_name" : "Average Length of Stay (Sentenced)",
+  "statistic_type_count" : "38.1 days"
+}
+, {
+  "fiscal_year" : "FY 2010",
+  "statistic_type_name" : "Average Length of Stay (Sentenced)",
+  "statistic_type_count" : "36.1 days"
+}
+, {
+  "fiscal_year" : "FY 2009",
+  "statistic_type_name" : "Average Length of Stay (Sentenced)",
+  "statistic_type_count" : "34.8 days"
+}
+, {
+  "fiscal_year" : "FY 2008",
+  "statistic_type_name" : "Average Length of Stay (Sentenced)",
+  "statistic_type_count" : "34.2 days"
+}
+, {
+  "fiscal_year" : "FY 2007",
+  "statistic_type_name" : "Average Length of Stay (Sentenced)",
+  "statistic_type_count" : "37.0 days"
+}
+, {
+  "fiscal_year" : "FY 2006",
+  "statistic_type_name" : "Average Length of Stay (Sentenced)",
+  "statistic_type_count" : "37.0 days"
+}
+, {
+  "fiscal_year" : "FY 2005",
+  "statistic_type_name" : "Average Length of Stay (Sentenced)",
+  "statistic_type_count" : "38.1 days"
+}
+, {
+  "fiscal_year" : "FY 2004",
+  "statistic_type_name" : "Average Length of Stay (Sentenced)",
+  "statistic_type_count" : "39.5 days"
+}
+, {
+  "fiscal_year" : "FY 2003",
+  "statistic_type_name" : "Average Length of Stay (Sentenced)",
+  "statistic_type_count" : "40.7 days"
+}
+, {
+  "fiscal_year" : "FY 2012",
+  "statistic_type_name" : "Inmate Stabbing/Slashing Incidents",
+  "statistic_type_count" : "55"
+}
+, {
+  "fiscal_year" : "FY 2011",
+  "statistic_type_name" : "Inmate Stabbing/Slashing Incidents",
+  "statistic_type_count" : "41"
+}
+, {
+  "fiscal_year" : "FY 2010",
+  "statistic_type_name" : "Inmate Stabbing/Slashing Incidents",
+  "statistic_type_count" : "34"
+}
+, {
+  "fiscal_year" : "FY 2009",
+  "statistic_type_name" : "Inmate Stabbing/Slashing Incidents",
+  "statistic_type_count" : "21"
+}
+, {
+  "fiscal_year" : "FY 2008",
+  "statistic_type_name" : "Inmate Stabbing/Slashing Incidents",
+  "statistic_type_count" : "19"
+}
+, {
+  "fiscal_year" : "FY 2007",
+  "statistic_type_name" : "Inmate Stabbing/Slashing Incidents",
+  "statistic_type_count" : "37"
+}
+, {
+  "fiscal_year" : "FY 2006",
+  "statistic_type_name" : "Inmate Stabbing/Slashing Incidents",
+  "statistic_type_count" : "37"
+}
+, {
+  "fiscal_year" : "FY 2005",
+  "statistic_type_name" : "Inmate Stabbing/Slashing Incidents",
+  "statistic_type_count" : "30"
+}
+, {
+  "fiscal_year" : "FY 2004",
+  "statistic_type_name" : "Inmate Stabbing/Slashing Incidents",
+  "statistic_type_count" : "40"
+}
+, {
+  "fiscal_year" : "FY 2003",
+  "statistic_type_name" : "Inmate Stabbing/Slashing Incidents",
+  "statistic_type_count" : "40"
+}
+, {
+  "fiscal_year" : "FY 2002",
+  "statistic_type_name" : "Inmate Stabbing/Slashing Incidents",
+  "statistic_type_count" : "29"
+}
+, {
+  "fiscal_year" : "FY 2001",
+  "statistic_type_name" : "Inmate Stabbing/Slashing Incidents",
+  "statistic_type_count" : "54"
+}
+, {
+  "fiscal_year" : "FY 2012",
+  "statistic_type_name" : "Use of Force Incidents Class A (resulting in injury)",
+  "statistic_type_count" : "147"
+}
+, {
+  "fiscal_year" : "FY 2011",
+  "statistic_type_name" : "Use of Force Incidents Class A (resulting in injury)",
+  "statistic_type_count" : "142"
+}
+, {
+  "fiscal_year" : "FY 2010",
+  "statistic_type_name" : "Use of Force Incidents Class A (resulting in injury)",
+  "statistic_type_count" : "128"
+}
+, {
+  "fiscal_year" : "FY 2009",
+  "statistic_type_name" : "Use of Force Incidents Class A (resulting in injury)",
+  "statistic_type_count" : "109"
+}
+, {
+  "fiscal_year" : "FY 2008",
+  "statistic_type_name" : "Use of Force Incidents Class A (resulting in injury)",
+  "statistic_type_count" : "88"
+}
+, {
+  "fiscal_year" : "FY 2007",
+  "statistic_type_name" : "Use of Force Incidents Class A (resulting in injury)",
+  "statistic_type_count" : "113"
+}
+, {
+  "fiscal_year" : "FY 2006",
+  "statistic_type_name" : "Use of Force Incidents Class A (resulting in injury)",
+  "statistic_type_count" : "89"
+}
+, {
+  "fiscal_year" : "FY 2005",
+  "statistic_type_name" : "Use of Force Incidents Class A (resulting in injury)",
+  "statistic_type_count" : "72"
+}
+, {
+  "fiscal_year" : "FY 2004",
+  "statistic_type_name" : "Use of Force Incidents Class A (resulting in injury)",
+  "statistic_type_count" : "86"
+}
+, {
+  "fiscal_year" : "FY 2003 ",
+  "statistic_type_name" : "Use of Force Incidents Class A (resulting in injury)",
+  "statistic_type_count" : "95"
+}
+, {
+  "fiscal_year" : "FY 2002 ",
+  "statistic_type_name" : "Use of Force Incidents Class A (resulting in injury)",
+  "statistic_type_count" : "101"
+}
+, {
+  "fiscal_year" : "FY 2001 ",
+  "statistic_type_name" : "Use of Force Incidents Class A (resulting in injury)",
+  "statistic_type_count" : "106"
+}
+, {
+  "fiscal_year" : "FY 2012",
+  "statistic_type_name" : "Inmate Assaults on Staff Class A ",
+  "statistic_type_count" : "87"
+}
+, {
+  "fiscal_year" : "FY 2011",
+  "statistic_type_name" : "Inmate Assaults on Staff Class A ",
+  "statistic_type_count" : "89"
+}
+, {
+  "fiscal_year" : "FY 2010",
+  "statistic_type_name" : "Inmate Assaults on Staff Class A ",
+  "statistic_type_count" : "84"
+}
+, {
+  "fiscal_year" : "FY 2009",
+  "statistic_type_name" : "Inmate Assaults on Staff Class A ",
+  "statistic_type_count" : "63"
+}
+, {
+  "fiscal_year" : "FY 2008",
+  "statistic_type_name" : "Inmate Assaults on Staff Class A ",
+  "statistic_type_count" : "53"
+}
+, {
+  "fiscal_year" : "FY 2007",
+  "statistic_type_name" : "Inmate Assaults on Staff Class A ",
+  "statistic_type_count" : "74"
+}
+, {
+  "fiscal_year" : "FY 2006",
+  "statistic_type_name" : "Inmate Assaults on Staff Class A ",
+  "statistic_type_count" : "54"
+}
+, {
+  "fiscal_year" : "FY 2005",
+  "statistic_type_name" : "Inmate Assaults on Staff Class A ",
+  "statistic_type_count" : "43"
+}
+, {
+  "fiscal_year" : "FY 2004",
+  "statistic_type_name" : "Inmate Assaults on Staff Class A ",
+  "statistic_type_count" : "57"
+}
+, {
+  "fiscal_year" : "FY 2003 ",
+  "statistic_type_name" : "Inmate Assaults on Staff Class A ",
+  "statistic_type_count" : "54"
+}
+, {
+  "fiscal_year" : "FY 2002 ",
+  "statistic_type_name" : "Inmate Assaults on Staff Class A ",
+  "statistic_type_count" : "66"
+}
+, {
+  "fiscal_year" : "FY 2001 ",
+  "statistic_type_name" : "Inmate Assaults on Staff Class A ",
+  "statistic_type_count" : "71"
+}
+, {
+  "fiscal_year" : "FY 2012",
+  "statistic_type_name" : "Inmate Arrests",
+  "statistic_type_count" : "650"
+}
+, {
+  "fiscal_year" : "FY 2011",
+  "statistic_type_name" : "Inmate Arrests",
+  "statistic_type_count" : "642"
+}
+, {
+  "fiscal_year" : "FY 2010",
+  "statistic_type_name" : "Inmate Arrests",
+  "statistic_type_count" : "526"
+}
+, {
+  "fiscal_year" : "FY 2009",
+  "statistic_type_name" : "Inmate Arrests",
+  "statistic_type_count" : "567"
+}
+, {
+  "fiscal_year" : "FY 2008",
+  "statistic_type_name" : "Inmate Arrests",
+  "statistic_type_count" : "751"
+}
+, {
+  "fiscal_year" : "FY 2007",
+  "statistic_type_name" : "Inmate Arrests",
+  "statistic_type_count" : "738"
+}
+, {
+  "fiscal_year" : "FY 2006",
+  "statistic_type_name" : "Inmate Arrests",
+  "statistic_type_count" : "654"
+}
+, {
+  "fiscal_year" : "FY 2005",
+  "statistic_type_name" : "Inmate Arrests",
+  "statistic_type_count" : "684"
+}
+, {
+  "fiscal_year" : "FY 2004",
+  "statistic_type_name" : "Inmate Arrests",
+  "statistic_type_count" : "628"
+}
+, {
+  "fiscal_year" : "FY 2003 ",
+  "statistic_type_name" : "Inmate Arrests",
+  "statistic_type_count" : "671"
+}
+, {
+  "fiscal_year" : "FY 2002 ",
+  "statistic_type_name" : "Inmate Arrests",
+  "statistic_type_count" : "576"
+}
+, {
+  "fiscal_year" : "FY 2001 ",
+  "statistic_type_name" : "Inmate Arrests",
+  "statistic_type_count" : "853"
+}
+, {
+  "fiscal_year" : "FY 2012",
+  "statistic_type_name" : "Visitor Arrests",
+  "statistic_type_count" : "355"
+}
+, {
+  "fiscal_year" : "FY 2011",
+  "statistic_type_name" : "Visitor Arrests",
+  "statistic_type_count" : "348"
+}
+, {
+  "fiscal_year" : "FY 2010",
+  "statistic_type_name" : "Visitor Arrests",
+  "statistic_type_count" : "292"
+}
+, {
+  "fiscal_year" : "FY 2009",
+  "statistic_type_name" : "Visitor Arrests",
+  "statistic_type_count" : "264"
+}
+, {
+  "fiscal_year" : "FY 2008",
+  "statistic_type_name" : "Visitor Arrests",
+  "statistic_type_count" : "201"
+}
+, {
+  "fiscal_year" : "FY 2007",
+  "statistic_type_name" : "Visitor Arrests",
+  "statistic_type_count" : "318"
+}
+, {
+  "fiscal_year" : "FY 2006",
+  "statistic_type_name" : "Visitor Arrests",
+  "statistic_type_count" : "295"
+}
+, {
+  "fiscal_year" : "FY 2005",
+  "statistic_type_name" : "Visitor Arrests",
+  "statistic_type_count" : "367"
+}
+, {
+  "fiscal_year" : "FY 2004",
+  "statistic_type_name" : "Visitor Arrests",
+  "statistic_type_count" : "360"
+}
+, {
+  "fiscal_year" : "FY 2003 ",
+  "statistic_type_name" : "Visitor Arrests",
+  "statistic_type_count" : "341"
+}
+, {
+  "fiscal_year" : "FY 2002 ",
+  "statistic_type_name" : "Visitor Arrests",
+  "statistic_type_count" : "313"
+}
+, {
+  "fiscal_year" : "FY 2001 ",
+  "statistic_type_name" : "Visitor Arrests",
+  "statistic_type_count" : "392"
+}
+, {
+  "fiscal_year" : "FY 2012",
+  "statistic_type_name" : "Inmates Delivered to Court",
+  "statistic_type_count" : "261,158"
+}
+, {
+  "fiscal_year" : "FY 2011",
+  "statistic_type_name" : "Inmates Delivered to Court",
+  "statistic_type_count" : "269,526"
+}
+, {
+  "fiscal_year" : "FY 2010",
+  "statistic_type_name" : "Inmates Delivered to Court",
+  "statistic_type_count" : "285,366"
+}
+, {
+  "fiscal_year" : "FY 2009",
+  "statistic_type_name" : "Inmates Delivered to Court",
+  "statistic_type_count" : "307,149"
+}
+, {
+  "fiscal_year" : "FY 2008",
+  "statistic_type_name" : "Inmates Delivered to Court",
+  "statistic_type_count" : "317,612"
+}
+, {
+  "fiscal_year" : "FY 2007",
+  "statistic_type_name" : "Inmates Delivered to Court",
+  "statistic_type_count" : "326,735"
+}
+, {
+  "fiscal_year" : "FY 2006",
+  "statistic_type_name" : "Inmates Delivered to Court",
+  "statistic_type_count" : "316,023"
+}
+, {
+  "fiscal_year" : "FY 2005",
+  "statistic_type_name" : "Inmates Delivered to Court",
+  "statistic_type_count" : "309,608"
+}
+, {
+  "fiscal_year" : "FY 2004",
+  "statistic_type_name" : "Inmates Delivered to Court",
+  "statistic_type_count" : "319,885"
+}
+, {
+  "fiscal_year" : "FY 2003 ",
+  "statistic_type_name" : "Inmates Delivered to Court",
+  "statistic_type_count" : "332,510"
+}
+, {
+  "fiscal_year" : "FY 2002 ",
+  "statistic_type_name" : "Inmates Delivered to Court",
+  "statistic_type_count" : "322,142"
+}
+ ]

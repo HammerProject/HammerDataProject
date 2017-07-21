@@ -1,0 +1,92 @@
+[ {
+  "drought_emergency_stage_ii" : "Same as Stage I",
+  "non_emergency_restrictions_including_normal_drought_watch_and_drought_warning_conditions" : "Prohibited",
+  "activity" : "Leaks and Waste",
+  "drought_emergency_stage_i" : "Prohibited, greater fines",
+  "drought_emergency_stage_iii" : "Same as Stage I"
+}
+, {
+  "drought_emergency_stage_ii" : "Same as Stage I",
+  "non_emergency_restrictions_including_normal_drought_watch_and_drought_warning_conditions" : "Non-commercial: Hose must have a self-closing nozzle.  Commercial: At least 75% of water must be recirculated or well water",
+  "activity" : "Vehicle Washing",
+  "drought_emergency_stage_i" : "Prohibited except where required by law or health and safety rules, or if well water is used",
+  "drought_emergency_stage_iii" : "Same as Stage I"
+}
+, {
+  "drought_emergency_stage_ii" : "Prohibited",
+  "non_emergency_restrictions_including_normal_drought_watch_and_drought_warning_conditions" : "Prohibited November 1 -  March 31, and also during other months from 11 am to 7 pm.",
+  "activity" : "Washing Sidewalks, Driveways, Streets",
+  "drought_emergency_stage_i" : "Prohibited, except as required by Code or health and safety rules",
+  "drought_emergency_stage_iii" : "Prohibited"
+}
+, {
+  "drought_emergency_stage_ii" : "Prohibited",
+  "non_emergency_restrictions_including_normal_drought_watch_and_drought_warning_conditions" : "Hoses and sprinklers prohibited November 1 -  March 31, and also during other months from 11 am to 7 pm. Automatic sprinklers must have a rain sensor.",
+  "activity" : "Watering Lawns/Turf",
+  "drought_emergency_stage_i" : "Further restricted to 7-9 am and 7-9 pm, even number addresses on even dates, odd number addresses on odd dates. Golf courses may water only tees and greens.",
+  "drought_emergency_stage_iii" : "Prohibited"
+}
+, {
+  "drought_emergency_stage_ii" : "Same as Stage I except use of hand-held containers is limited to recycled water or (if not feasible) to the minimum amount necessary to prevent permanent plant damage.",
+  "non_emergency_restrictions_including_normal_drought_watch_and_drought_warning_conditions" : "Hoses and sprinklers prohibited November 1 -  March 31, and also during other months from 11am to 7 pm. Automatic sprinklers must have a rain sensor.",
+  "activity" : "Watering Non-Turf Plants",
+  "drought_emergency_stage_i" : "Only hand-held watering containers, hoses restricted to less than 5 gpm, or low-pressure/low-flow irrigation can be used",
+  "drought_emergency_stage_iii" : "Same as Stage II except wherever possible use recycled or well water (before using City water) for watering all plant material."
+}
+, {
+  "drought_emergency_stage_ii" : "Prohibited",
+  "non_emergency_restrictions_including_normal_drought_watch_and_drought_warning_conditions" : "Water must be recirculated",
+  "activity" : "Ornamental Fountains",
+  "drought_emergency_stage_i" : "Prohibited",
+  "drought_emergency_stage_iii" : "Prohibited"
+}
+, {
+  "drought_emergency_stage_ii" : "DEP Commissioner may ask the New York City Water Board to consider a \"Drought Emergency Contingency Rate Plan\" to increase rates to encourage conservation during the Emergency.",
+  "non_emergency_restrictions_including_normal_drought_watch_and_drought_warning_conditions" : "none",
+  "activity" : "Water/Sewer Rates",
+  "drought_emergency_stage_i" : "DEP Commissioner may ask the New York City Water Board to consider a \"Drought Emergency Contingency Rate Plan\" to increase rates to encourage conservation during the Emergency.",
+  "drought_emergency_stage_iii" : "DEP Commissioner may ask the New York City Water Board to consider a \"Drought Emergency Contingency Rate Plan\" to increase rates to encourage conservation during the Emergency."
+}
+, {
+  "drought_emergency_stage_ii" : "same ",
+  "non_emergency_restrictions_including_normal_drought_watch_and_drought_warning_conditions" : "Only if requested by patron",
+  "activity" : "Water Served In Restaurants",
+  "drought_emergency_stage_i" : "same",
+  "drought_emergency_stage_iii" : "same"
+}
+, {
+  "drought_emergency_stage_ii" : "Only pools open to the public may be filled or maintained",
+  "non_emergency_restrictions_including_normal_drought_watch_and_drought_warning_conditions" : "none",
+  "activity" : "Swimming Pools",
+  "drought_emergency_stage_i" : "Must recirculate, fill 1 time per year, top off minimally as needed",
+  "drought_emergency_stage_iii" : "same"
+}
+, {
+  "drought_emergency_stage_ii" : "same",
+  "non_emergency_restrictions_including_normal_drought_watch_and_drought_warning_conditions" : "Sale or installation of products using more than 2.5 gpm is prohibited",
+  "activity" : "Showerheads",
+  "drought_emergency_stage_i" : "All showerheads in use must use 2.5 gpm or less",
+  "drought_emergency_stage_iii" : "same"
+}
+, {
+  "drought_emergency_stage_ii" : "same",
+  "non_emergency_restrictions_including_normal_drought_watch_and_drought_warning_conditions" : "Prohibited without DEP permit ",
+  "activity" : "Hydrant Use",
+  "drought_emergency_stage_i" : "same",
+  "drought_emergency_stage_iii" : "same"
+}
+, {
+  "drought_emergency_stage_ii" : "same",
+  "non_emergency_restrictions_including_normal_drought_watch_and_drought_warning_conditions" : "Over 6 tons of refrigeration or 2 tons of AC is prohibited",
+  "activity" : "Non-Recirc. Watercooled AC and Refrigeration",
+  "drought_emergency_stage_i" : "Over 2 tons of either is prohibited",
+  "drought_emergency_stage_iii" : "same"
+}
+, {
+  "drought_emergency_stage_ii" : "same",
+  "non_emergency_restrictions_including_normal_drought_watch_and_drought_warning_conditions" : "Properties with steam-source refrigeration must use some condensate for cooling tower make-up.",
+  "activity" : "Water-Cooled AC with Cooling Tower",
+  "drought_emergency_stage_i" : "same",
+  "drought_emergency_stage_iii" : "Indoor air dry-bulb temperature must be 79 degrees minimum. Health care facilities are exempt. EDP facilities are exempt but must provide proof of maximum temp. tolerated by equipment."
+}
+ ]

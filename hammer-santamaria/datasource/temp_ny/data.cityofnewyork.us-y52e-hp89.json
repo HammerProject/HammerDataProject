@@ -1,0 +1,4677 @@
+[ {
+  "naics_industry_description" : "Sector 11 – Agriculture, Forestry, Fishing and Hunting"
+}
+, { }
+, {
+  "naics_codes" : "111110",
+  "naics_industry_description" : "Soybean Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111120",
+  "naics_industry_description" : "Oilseed (except Soybean) Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111130",
+  "naics_industry_description" : "Dry Pea and Bean Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111140",
+  "naics_industry_description" : "Wheat Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111150",
+  "naics_industry_description" : "Corn Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111160",
+  "naics_industry_description" : "Rice Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111191",
+  "naics_industry_description" : "Oilseed and Grain Combination Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111199",
+  "naics_industry_description" : "All Other Grain Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111211",
+  "naics_industry_description" : "Potato Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111219",
+  "naics_industry_description" : "Other Vegetable (except Potato) and Melon Farming  ",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111310",
+  "naics_industry_description" : "Orange Groves",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111320",
+  "naics_industry_description" : "Citrus (except Orange) Groves",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111331",
+  "naics_industry_description" : "Apple Orchards",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111332",
+  "naics_industry_description" : "Grape Vineyards",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111333",
+  "naics_industry_description" : "Strawberry Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111334",
+  "naics_industry_description" : "Berry (except Strawberry) Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111335",
+  "naics_industry_description" : "Tree Nut Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111336",
+  "naics_industry_description" : "Fruit and Tree Nut Combination Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111339",
+  "naics_industry_description" : "Other Noncitrus Fruit Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111411",
+  "naics_industry_description" : "Mushroom Production",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111419",
+  "naics_industry_description" : "Other Food Crops Grown Under Cover",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111421",
+  "naics_industry_description" : "Nursery and Tree Production",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111422",
+  "naics_industry_description" : "Floriculture Production",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111910",
+  "naics_industry_description" : "Tobacco Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111920",
+  "naics_industry_description" : "Cotton Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111930",
+  "naics_industry_description" : "Sugarcane Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111940",
+  "naics_industry_description" : "Hay Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111991",
+  "naics_industry_description" : "Sugar Beet Farming  ",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111992",
+  "naics_industry_description" : "Peanut Farming  ",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "111998",
+  "naics_industry_description" : "All Other Miscellaneous Crop Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, { }
+, {
+  "naics_codes" : "112111",
+  "naics_industry_description" : "Beef Cattle Ranching and Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "112112",
+  "naics_industry_description" : "Cattle Feedlots",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "112120",
+  "naics_industry_description" : "Dairy Cattle and Milk Production",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "112210",
+  "naics_industry_description" : "Hog and Pig Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "112310",
+  "naics_industry_description" : "Chicken Egg Production",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "112320",
+  "naics_industry_description" : "Broilers and Other Meat Type Chicken Production  ",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "112330",
+  "naics_industry_description" : "Turkey Production",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "112340",
+  "naics_industry_description" : "Poultry Hatcheries",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "112390",
+  "naics_industry_description" : "Other Poultry Production",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "112410",
+  "naics_industry_description" : "Sheep Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "112420",
+  "naics_industry_description" : "Goat Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "112511",
+  "naics_industry_description" : "Finfish Farming and Fish Hatcheries",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "112512",
+  "naics_industry_description" : "Shellfish Farming",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "112519",
+  "naics_industry_description" : "Other  Aquaculture",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "112910",
+  "naics_industry_description" : "Apiculture",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "112920",
+  "naics_industry_description" : "Horses and Other Equine Production",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "112930",
+  "naics_industry_description" : "Fur‑Bearing Animal and Rabbit Production",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, {
+  "naics_codes" : "112990",
+  "naics_industry_description" : "All Other Animal Production",
+  "size_standards_in_millions_of_dollars" : "0.75"
+}
+, { }
+, {
+  "naics_codes" : "113110",
+  "naics_industry_description" : "Timber Tract Operations",
+  "size_standards_in_millions_of_dollars" : "11.0"
+}
+, {
+  "naics_codes" : "113210",
+  "naics_industry_description" : "Forest Nurseries and Gathering of Forest Products",
+  "size_standards_in_millions_of_dollars" : "11.0"
+}
+, {
+  "naics_codes" : "113310",
+  "naics_industry_description" : "Logging",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "114111",
+  "naics_industry_description" : "Finfish Fishing",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "114112",
+  "naics_industry_description" : "Shellfish Fishing",
+  "size_standards_in_millions_of_dollars" : "5.5"
+}
+, {
+  "naics_codes" : "114119",
+  "naics_industry_description" : "Other Marine Fishing",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "114210",
+  "naics_industry_description" : "Hunting and Trapping",
+  "size_standards_in_millions_of_dollars" : "5.5"
+}
+, { }
+, {
+  "naics_codes" : "115111",
+  "naics_industry_description" : "Cotton Ginning",
+  "size_standards_in_millions_of_dollars" : "11.0"
+}
+, {
+  "naics_codes" : "115112",
+  "naics_industry_description" : "Soil Preparation, Planting, and Cultivating",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "115113",
+  "naics_industry_description" : "Crop Harvesting, Primarily by Machine",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "115114",
+  "naics_industry_description" : "Postharvest Crop Activities (except Cotton Ginning)",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "115115",
+  "naics_industry_description" : "Farm Labor Contractors and Crew Leaders",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "115116",
+  "naics_industry_description" : "Farm Management Services",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "115210",
+  "naics_industry_description" : "Support Activities for Animal Production",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "115310",
+  "naics_industry_description" : "Support Activities for Forestry  ",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_industry_description" : "Forest Fire Suppression17",
+  "size_standards_in_millions_of_dollars" : "19.0",
+  "footnotes" : "See footnote 17"
+}
+, {
+  "naics_industry_description" : "Fuels Management Services17",
+  "size_standards_in_millions_of_dollars" : "19.0",
+  "footnotes" : "See footnote 17"
+}
+, {
+  "naics_industry_description" : "Sector 21 – Mining, Quarrying, and Oil and Gas Extraction"
+}
+, { }
+, {
+  "naics_codes" : "211111",
+  "naics_industry_description" : "Crude Petroleum and Natural Gas Extraction",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "211112",
+  "naics_industry_description" : "Natural Gas Liquid Extraction",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "212111",
+  "naics_industry_description" : "Bituminous Coal and Lignite Surface Mining",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212112",
+  "naics_industry_description" : "Bituminous Coal Underground Mining",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212113",
+  "naics_industry_description" : "Anthracite Mining",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212210",
+  "naics_industry_description" : "Iron Ore Mining",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212221",
+  "naics_industry_description" : "Gold Ore Mining",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212222",
+  "naics_industry_description" : "Silver Ore Mining",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212231",
+  "naics_industry_description" : "Lead Ore and Zinc Ore Mining",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212234",
+  "naics_industry_description" : "Copper Ore and Nickel Ore Mining",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212291",
+  "naics_industry_description" : "Uranium‑Radium‑Vanadium Ore Mining",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212299",
+  "naics_industry_description" : "All Other Metal Ore Mining",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212311",
+  "naics_industry_description" : "Dimension Stone Mining and Quarrying",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212312",
+  "naics_industry_description" : "Crushed and Broken Limestone Mining and Quarrying",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212313",
+  "naics_industry_description" : "Crushed and Broken Granite Mining and Quarrying",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212319",
+  "naics_industry_description" : "Other Crushed and Broken Stone Mining and Quarrying",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212321",
+  "naics_industry_description" : "Construction Sand and Gravel Mining",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212322",
+  "naics_industry_description" : "Industrial Sand Mining",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212324",
+  "naics_industry_description" : "Kaolin and Ball Clay Mining",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212325",
+  "naics_industry_description" : "Clay and Ceramic and Refractory Minerals Mining  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212391",
+  "naics_industry_description" : "Potash, Soda, and Borate Mineral Mining",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212392",
+  "naics_industry_description" : "Phosphate Rock Mining",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212393",
+  "naics_industry_description" : "Other Chemical and Fertilizer Mineral Mining",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "212399",
+  "naics_industry_description" : "All Other Nonmetallic Mineral Mining",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "213111",
+  "naics_industry_description" : "Drilling Oil and Gas Wells",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "213112",
+  "naics_industry_description" : "Support Activities for Oil and Gas Operations",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "213113",
+  "naics_industry_description" : "Support Activities for Coal Mining",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "213114",
+  "naics_industry_description" : "Support Activities for Metal Mining",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "213115",
+  "naics_industry_description" : "Support Activities for Nonmetallic Minerals (except Fuels)",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_industry_description" : "Sector 22 – Utilities"
+}
+, { }
+, {
+  "naics_codes" : "221111",
+  "naics_industry_description" : "Hydroelectric Power Generation",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "221112",
+  "naics_industry_description" : "Fossil Fuel Electric Power Generation",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "221113",
+  "naics_industry_description" : "Nuclear Electric Power Generation",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "221114",
+  "naics_industry_description" : "Solar Electric Power Generation",
+  "size_standards_in_number_of_employees" : "250"
+}
+, {
+  "naics_codes" : "221115",
+  "naics_industry_description" : "Wind Electric Power Generation",
+  "size_standards_in_number_of_employees" : "250"
+}
+, {
+  "naics_codes" : "221116",
+  "naics_industry_description" : "Geothermal Electric Power Generation",
+  "size_standards_in_number_of_employees" : "250"
+}
+, {
+  "naics_codes" : "221117",
+  "naics_industry_description" : "Biomass Electric Power Generation",
+  "size_standards_in_number_of_employees" : "250"
+}
+, {
+  "naics_codes" : "221118",
+  "naics_industry_description" : "Other Electric Power Generation",
+  "size_standards_in_number_of_employees" : "250"
+}
+, {
+  "naics_codes" : "221121",
+  "naics_industry_description" : "Electric Bulk Power Transmission and Control",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "221122",
+  "naics_industry_description" : "Electric Power Distribution",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "221210",
+  "naics_industry_description" : "Natural Gas Distribution",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "221310",
+  "naics_industry_description" : "Water Supply and Irrigation Systems",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "221320",
+  "naics_industry_description" : "Sewage Treatment Facilities",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "221330",
+  "naics_industry_description" : "Steam and Air‑Conditioning Supply",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_industry_description" : "Sector 23 – Construction"
+}
+, { }
+, {
+  "naics_codes" : "236115",
+  "naics_industry_description" : "New Single-family Housing Construction (Except For-Sale Builders)",
+  "size_standards_in_millions_of_dollars" : "36.5"
+}
+, {
+  "naics_codes" : "236116",
+  "naics_industry_description" : "New Multifamily Housing Construction (except For-Sale Builders)",
+  "size_standards_in_millions_of_dollars" : "36.5"
+}
+, {
+  "naics_codes" : "236117",
+  "naics_industry_description" : "New Housing For-Sale Builders",
+  "size_standards_in_millions_of_dollars" : "36.5"
+}
+, {
+  "naics_codes" : "236118",
+  "naics_industry_description" : "Residential Remodelers",
+  "size_standards_in_millions_of_dollars" : "36.5"
+}
+, {
+  "naics_codes" : "236210",
+  "naics_industry_description" : "Industrial Building Construction",
+  "size_standards_in_millions_of_dollars" : "36.5"
+}
+, {
+  "naics_codes" : "236220",
+  "naics_industry_description" : "Commercial and Institutional Building Construction",
+  "size_standards_in_millions_of_dollars" : "36.5"
+}
+, { }
+, {
+  "naics_codes" : "237110",
+  "naics_industry_description" : "Water and Sewer Line and Related Structures Construction",
+  "size_standards_in_millions_of_dollars" : "36.5"
+}
+, {
+  "naics_codes" : "237120",
+  "naics_industry_description" : "Oil and Gas Pipeline and Related Structures Construction",
+  "size_standards_in_millions_of_dollars" : "36.5"
+}
+, {
+  "naics_codes" : "237130",
+  "naics_industry_description" : "Power and Communication Line and Related Structures Construction",
+  "size_standards_in_millions_of_dollars" : "36.5"
+}
+, {
+  "naics_codes" : "237210",
+  "naics_industry_description" : "Land Subdivision",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "237310",
+  "naics_industry_description" : "Highway, Street, and Bridge Construction",
+  "size_standards_in_millions_of_dollars" : "36.5"
+}
+, {
+  "naics_codes" : "237990",
+  "naics_industry_description" : "Other Heavy and Civil Engineering Construction",
+  "size_standards_in_millions_of_dollars" : "36.5"
+}
+, {
+  "naics_industry_description" : "Dredging and Surface Cleanup Activities2",
+  "size_standards_in_millions_of_dollars" : "27.5",
+  "footnotes" : "See footnote 2"
+}
+, { }
+, {
+  "naics_codes" : "238110",
+  "naics_industry_description" : "Poured Concrete Foundation and Structure Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238120",
+  "naics_industry_description" : "Structural Steel and Precast Concrete Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238130",
+  "naics_industry_description" : "Framing Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238140",
+  "naics_industry_description" : "Masonry Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238150",
+  "naics_industry_description" : "Glass and Glazing Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238160",
+  "naics_industry_description" : "Roofing Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238170",
+  "naics_industry_description" : "Siding Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238190",
+  "naics_industry_description" : "Other Foundation, Structure, and Building Exterior Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238210",
+  "naics_industry_description" : "Electrical Contractors and Other Wiring Installation Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238220",
+  "naics_industry_description" : "Plumbing, Heating, and Air‑Conditioning Contractors   ",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238290",
+  "naics_industry_description" : "Other Building Equipment Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238310",
+  "naics_industry_description" : "Drywall and Insulation Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238320",
+  "naics_industry_description" : "Painting and Wall Covering Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238330",
+  "naics_industry_description" : "Flooring Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238340",
+  "naics_industry_description" : "Tile and Terrazzo Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238350",
+  "naics_industry_description" : "Finish Carpentry Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238390",
+  "naics_industry_description" : "Other Building Finishing Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238910",
+  "naics_industry_description" : "Site Preparation Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "238990",
+  "naics_industry_description" : "All Other Specialty Trade Contractors",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_industry_description" : "Building and Property Specialty Trade Services 13",
+  "size_standards_in_millions_of_dollars" : "15.0",
+  "footnotes" : "See footnote 13"
+}
+, {
+  "naics_industry_description" : "Sector 31 – 33 – Manufacturing"
+}
+, { }
+, {
+  "naics_codes" : "311111",
+  "naics_industry_description" : "Dog and Cat Food Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311119",
+  "naics_industry_description" : "Other Animal Food Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311211",
+  "naics_industry_description" : "Flour Milling",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311212",
+  "naics_industry_description" : "Rice Milling",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311213",
+  "naics_industry_description" : "Malt Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311221",
+  "naics_industry_description" : "Wet Corn Milling",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "311224",
+  "naics_industry_description" : "Soybean and Other Oilseed Processing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "311225",
+  "naics_industry_description" : "Fats and Oils Refining and Blending",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "311230",
+  "naics_industry_description" : "Breakfast Cereal Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "311313",
+  "naics_industry_description" : "Beet Sugar Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "311314",
+  "naics_industry_description" : "Cane Sugar Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "311340",
+  "naics_industry_description" : "Nonchocolate Confectionery Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311351",
+  "naics_industry_description" : "Chocolate and Confectionery Manufacturing from Cacao Beans",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311352",
+  "naics_industry_description" : "Confectionery Manufacturing from Purchased Chocolate",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311411",
+  "naics_industry_description" : "Frozen Fruit, Juice and Vegetable Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311412",
+  "naics_industry_description" : "Frozen Specialty Food Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311421",
+  "naics_industry_description" : "Fruit and Vegetable Canning3",
+  "footnotes" : "See footnote 3",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311422",
+  "naics_industry_description" : "Specialty Canning",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "311423",
+  "naics_industry_description" : "Dried and Dehydrated Food Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311511",
+  "naics_industry_description" : "Fluid Milk Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311512",
+  "naics_industry_description" : "Creamery Butter Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311513",
+  "naics_industry_description" : "Cheese Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311514",
+  "naics_industry_description" : "Dry, Condensed, and Evaporated Dairy Product Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311520",
+  "naics_industry_description" : "Ice Cream and Frozen Dessert Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311611",
+  "naics_industry_description" : "Animal (except Poultry) Slaughtering",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311612",
+  "naics_industry_description" : "Meat Processed from Carcasses",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311613",
+  "naics_industry_description" : "Rendering and Meat Byproduct Processing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311615",
+  "naics_industry_description" : "Poultry Processing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311710",
+  "naics_industry_description" : "Seafood Product Preparation and Packaging",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311811",
+  "naics_industry_description" : "Retail Bakeries",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311812",
+  "naics_industry_description" : "Commercial Bakeries",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311813",
+  "naics_industry_description" : "Frozen Cakes, Pies, and Other Pastries Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311821",
+  "naics_industry_description" : "Cookie and Cracker Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "311824",
+  "naics_industry_description" : "Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311830",
+  "naics_industry_description" : "Tortilla Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311911",
+  "naics_industry_description" : "Roasted Nuts and Peanut Butter Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311919",
+  "naics_industry_description" : "Other Snack Food Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311920",
+  "naics_industry_description" : "Coffee and Tea Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311930",
+  "naics_industry_description" : "Flavoring Syrup and Concentrate Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311941",
+  "naics_industry_description" : "Mayonnaise, Dressing and Other Prepared Sauce Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311942",
+  "naics_industry_description" : "Spice and Extract Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311991",
+  "naics_industry_description" : "Perishable Prepared Food Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "311999",
+  "naics_industry_description" : "All Other Miscellaneous Food Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "312111",
+  "naics_industry_description" : "Soft Drink Manufacturing  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "312112",
+  "naics_industry_description" : "Bottled Water Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "312113",
+  "naics_industry_description" : "Ice Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "312120",
+  "naics_industry_description" : "Breweries",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "312130",
+  "naics_industry_description" : "Wineries",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "312140",
+  "naics_industry_description" : "Distilleries",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "312230",
+  "naics_industry_description" : "Tobacco Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, { }
+, {
+  "naics_codes" : "313110",
+  "naics_industry_description" : "Fiber, Yarn, and Thread Mills",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "313210",
+  "naics_industry_description" : "Broadwoven Fabric Mills",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "313220",
+  "naics_industry_description" : "Narrow Fabric Mills and Schiffli Machine Embroidery",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "313230",
+  "naics_industry_description" : "Nonwoven Fabric Mills",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "313240",
+  "naics_industry_description" : "Knit Fabric Mills",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "313310",
+  "naics_industry_description" : "Textile and Fabric Finishing Mills",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "313320",
+  "naics_industry_description" : "Fabric Coating Mills",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, { }
+, {
+  "naics_codes" : "314110",
+  "naics_industry_description" : "Carpet and Rug Mills",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "314120",
+  "naics_industry_description" : "Curtain and Linen Mills",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "314910",
+  "naics_industry_description" : "Textile Bag and Canvas Mills",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "314994",
+  "naics_industry_description" : "Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "314999",
+  "naics_industry_description" : "All Other Miscellaneous Textile Product Mills",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "315110",
+  "naics_industry_description" : "Hosiery and Sock Mills",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "315190",
+  "naics_industry_description" : "Other Apparel Knitting Mills",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "315210",
+  "naics_industry_description" : "Cut and Sew Apparel Contractors",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "315220",
+  "naics_industry_description" : "Men's and Boys' Cut and Sew Apparel Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "315240",
+  "naics_industry_description" : "Women's, Girls', and Infants' Cut and Sew Apparel Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "315280",
+  "naics_industry_description" : "Other Cut and Sew Apparel Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "315990",
+  "naics_industry_description" : "Apparel Accessories and Other Apparel Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "316110",
+  "naics_industry_description" : "Leather and Hide Tanning and Finishing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "316210",
+  "naics_industry_description" : "Footwear Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "316992",
+  "naics_industry_description" : "Women’s Handbag and Purse Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "316998",
+  "naics_industry_description" : "All Other Leather Good and Allied Product Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "321113",
+  "naics_industry_description" : "Sawmills",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "321114",
+  "naics_industry_description" : "Wood Preservation  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "321211",
+  "naics_industry_description" : "Hardwood Veneer and Plywood Manufacturing  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "321212",
+  "naics_industry_description" : "Softwood Veneer and Plywood Manufacturing  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "321213",
+  "naics_industry_description" : "Engineered Wood Member (except Truss) Manufacturing  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "321214",
+  "naics_industry_description" : "Truss Manufacturing  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "321219",
+  "naics_industry_description" : "Reconstituted Wood Product Manufacturing  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "321911",
+  "naics_industry_description" : "Wood Window and Door Manufacturing  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "321912",
+  "naics_industry_description" : "Cut Stock, Resawing Lumber, and Planing  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "321918",
+  "naics_industry_description" : "Other Millwork (including Flooring)  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "321920",
+  "naics_industry_description" : "Wood Container and Pallet Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "321991",
+  "naics_industry_description" : "Manufactured Home (Mobile Home) Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "321992",
+  "naics_industry_description" : "Prefabricated Wood Building Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "321999",
+  "naics_industry_description" : "All Other Miscellaneous Wood Product Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "322110",
+  "naics_industry_description" : "Pulp Mills",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "322121",
+  "naics_industry_description" : "Paper (except Newsprint) Mills",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "322122",
+  "naics_industry_description" : "Newsprint Mills",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "322130",
+  "naics_industry_description" : "Paperboard Mills",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "322211",
+  "naics_industry_description" : "Corrugated and Solid Fiber Box Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "322212",
+  "naics_industry_description" : "Folding Paperboard Box Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "322219",
+  "naics_industry_description" : "Other Paperboard Container Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "322220",
+  "naics_industry_description" : "Paper Bag and Coated and Treated Paper Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "322230",
+  "naics_industry_description" : "Stationery Product Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "322291",
+  "naics_industry_description" : "Sanitary Paper Product Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "322299",
+  "naics_industry_description" : "All Other Converted Paper Product Manufacturing  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "323111",
+  "naics_industry_description" : "Commercial Printing (except Screen and Books)",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "323113",
+  "naics_industry_description" : "Commercial Screen Printing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "323117",
+  "naics_industry_description" : "Books Printing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "323120",
+  "naics_industry_description" : "Support Activities for Printing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "324110",
+  "naics_industry_description" : "Petroleum Refineries4",
+  "footnotes" : "See footnote 4",
+  "size_standards_in_number_of_employees" : "1500"
+}
+, {
+  "naics_codes" : "324121",
+  "naics_industry_description" : "Asphalt Paving Mixture and Block Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "324122",
+  "naics_industry_description" : "Asphalt Shingle and Coating Materials Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "324191",
+  "naics_industry_description" : "Petroleum Lubricating Oil and Grease Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "324199",
+  "naics_industry_description" : "All Other Petroleum and Coal Products Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "325110",
+  "naics_industry_description" : "Petrochemical Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "325120",
+  "naics_industry_description" : "Industrial Gas Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "325130",
+  "naics_industry_description" : "Synthetic Dye and Pigment Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "325180",
+  "naics_industry_description" : "Other Basic Inorganic Chemical Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "325193",
+  "naics_industry_description" : "Ethyl Alcohol Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "325194",
+  "naics_industry_description" : "Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "325199",
+  "naics_industry_description" : "All Other Basic Organic Chemical Manufacturing  ",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "325211",
+  "naics_industry_description" : "Plastics Material and Resin Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "325212",
+  "naics_industry_description" : "Synthetic Rubber Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "325220",
+  "naics_industry_description" : "Artificial and Synthetic Fibers and Filaments Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "325311",
+  "naics_industry_description" : "Nitrogenous Fertilizer Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "325312",
+  "naics_industry_description" : "Phosphatic Fertilizer Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "325314",
+  "naics_industry_description" : "Fertilizer (Mixing Only) Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "325320",
+  "naics_industry_description" : "Pesticide and Other Agricultural Chemical Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "325411",
+  "naics_industry_description" : "Medicinal and Botanical Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "325412",
+  "naics_industry_description" : "Pharmaceutical Preparation Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "325413",
+  "naics_industry_description" : "In‑Vitro Diagnostic Substance Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "325414",
+  "naics_industry_description" : "Biological Product (except Diagnostic) Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "325510",
+  "naics_industry_description" : "Paint and Coating Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "325520",
+  "naics_industry_description" : "Adhesive Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "325611",
+  "naics_industry_description" : "Soap and Other Detergent Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "325612",
+  "naics_industry_description" : "Polish and Other Sanitation Good Manufacturing  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "325613",
+  "naics_industry_description" : "Surface Active Agent Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "325620",
+  "naics_industry_description" : "Toilet Preparation Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "325910",
+  "naics_industry_description" : "Printing Ink Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "325920",
+  "naics_industry_description" : "Explosives Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "325991",
+  "naics_industry_description" : "Custom Compounding of Purchased Resins",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "325992",
+  "naics_industry_description" : "Photographic Film, Paper, Plate and Chemical Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "325998",
+  "naics_industry_description" : "All Other Miscellaneous Chemical Product and Preparation Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "326111",
+  "naics_industry_description" : "Plastic Bag and Pouch Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "326112",
+  "naics_industry_description" : "Plastics Packaging Film and Sheet (including Laminated) Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "326113",
+  "naics_industry_description" : "Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "326121",
+  "naics_industry_description" : "Unlaminated Plastics Profile Shape Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "326122",
+  "naics_industry_description" : "Plastics Pipe and Pipe Fitting Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "326130",
+  "naics_industry_description" : "Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "326140",
+  "naics_industry_description" : "Polystyrene Foam Product Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "326150",
+  "naics_industry_description" : "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "326160",
+  "naics_industry_description" : "Plastics Bottle Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "326191",
+  "naics_industry_description" : "Plastics Plumbing Fixture Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "326199",
+  "naics_industry_description" : "All Other Plastics Product Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "326211",
+  "naics_industry_description" : "Tire Manufacturing (except Retreading)5",
+  "footnotes" : "See footnote 5",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "326212",
+  "naics_industry_description" : "Tire Retreading",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "326220",
+  "naics_industry_description" : "Rubber and Plastics Hoses and Belting Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "326291",
+  "naics_industry_description" : "Rubber Product Manufacturing for Mechanical Use",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "326299",
+  "naics_industry_description" : "All Other Rubber Product Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "327110",
+  "naics_industry_description" : "Pottery, Ceramics, and Plumbing Fixture Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "327120",
+  "naics_industry_description" : "Clay Building Material and Refractories Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "327211",
+  "naics_industry_description" : "Flat Glass Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "327212",
+  "naics_industry_description" : "Other Pressed and Blown Glass and Glassware Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "327213",
+  "naics_industry_description" : "Glass Container Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "327215",
+  "naics_industry_description" : "Glass Product Manufacturing Made of Purchased Glass",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "327310",
+  "naics_industry_description" : "Cement Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "327320",
+  "naics_industry_description" : "Ready‑Mix Concrete Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "327331",
+  "naics_industry_description" : "Concrete Block and Brick Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "327332",
+  "naics_industry_description" : "Concrete Pipe Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "327390",
+  "naics_industry_description" : "Other Concrete Product Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "327410",
+  "naics_industry_description" : "Lime Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "327420",
+  "naics_industry_description" : "Gypsum Product Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "327910",
+  "naics_industry_description" : "Abrasive Product Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "327991",
+  "naics_industry_description" : "Cut Stone and Stone Product Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "327992",
+  "naics_industry_description" : "Ground or Treated Mineral and Earth Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "327993",
+  "naics_industry_description" : "Mineral Wool Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "327999",
+  "naics_industry_description" : "All Other Miscellaneous Nonmetallic Mineral Product Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "331110",
+  "naics_industry_description" : "Iron and Steel Mills and Ferroalloy Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "331210",
+  "naics_industry_description" : "Iron and Steel Pipe and Tube Manufacturing from Purchased Steel",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "331221",
+  "naics_industry_description" : "Rolled Steel Shape Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "331222",
+  "naics_industry_description" : "Steel Wire Drawing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "331313",
+  "naics_industry_description" : "Alumina Refining and Primary Aluminum Production",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "331314",
+  "naics_industry_description" : "Secondary Smelting and Alloying of Aluminum",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "331315",
+  "naics_industry_description" : "Aluminum Sheet, Plate and Foil Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "331318",
+  "naics_industry_description" : "Other Aluminum Rolling, Drawing, and Extruding",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "331410",
+  "naics_industry_description" : "Nonferrous Metal (except Aluminum) Smelting and Refining",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "331420",
+  "naics_industry_description" : "Copper Rolling, Drawing, Extruding, and Alloying",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "331491",
+  "naics_industry_description" : "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing and Extruding",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "331492",
+  "naics_industry_description" : "Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)  ",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "331511",
+  "naics_industry_description" : "Iron Foundries",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "331512",
+  "naics_industry_description" : "Steel Investment Foundries",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "331513",
+  "naics_industry_description" : "Steel Foundries (except Investment)",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "331523",
+  "naics_industry_description" : "Nonferrous Metal Die-Casting Foundries",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "331524",
+  "naics_industry_description" : "Aluminum Foundries (except Die‑Casting)",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "331529",
+  "naics_industry_description" : "Other Nonferrous Metal Foundries (except Die-Casting)",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "332111",
+  "naics_industry_description" : "Iron and Steel Forging",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332112",
+  "naics_industry_description" : "Nonferrous Forging",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332114",
+  "naics_industry_description" : "Custom Roll Forming",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332117",
+  "naics_industry_description" : "Powder Metallurgy Part Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332119",
+  "naics_industry_description" : "Metal Crown, Closure, and Other Metal Stamping (except Automotive)",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332215",
+  "naics_industry_description" : "Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332216",
+  "naics_industry_description" : "Saw Blade and Handtool Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332311",
+  "naics_industry_description" : "Prefabricated Metal Building and Component Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332312",
+  "naics_industry_description" : "Fabricated Structural Metal Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332313",
+  "naics_industry_description" : "Plate Work Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332321",
+  "naics_industry_description" : "Metal Window and Door Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332322",
+  "naics_industry_description" : "Sheet Metal Work Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332323",
+  "naics_industry_description" : "Ornamental and Architectural Metal Work Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332410",
+  "naics_industry_description" : "Power Boiler and Heat Exchanger Manufacturing  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332420",
+  "naics_industry_description" : "Metal Tank (Heavy Gauge) Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332431",
+  "naics_industry_description" : "Metal Can Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "332439",
+  "naics_industry_description" : "Other Metal Container Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332510",
+  "naics_industry_description" : "Hardware Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332613",
+  "naics_industry_description" : "Spring Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332618",
+  "naics_industry_description" : "Other Fabricated Wire Product Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332710",
+  "naics_industry_description" : "Machine Shops",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332721",
+  "naics_industry_description" : "Precision Turned Product Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332722",
+  "naics_industry_description" : "Bolt, Nut, Screw, Rivet and Washer Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332811",
+  "naics_industry_description" : "Metal Heat Treating",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "332812",
+  "naics_industry_description" : "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332813",
+  "naics_industry_description" : "Electroplating, Plating, Polishing, Anodizing and Coloring",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332911",
+  "naics_industry_description" : "Industrial Valve Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332912",
+  "naics_industry_description" : "Fluid Power Valve and Hose Fitting Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332913",
+  "naics_industry_description" : "Plumbing Fixture Fitting and Trim Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332919",
+  "naics_industry_description" : "Other Metal Valve and Pipe Fitting Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332991",
+  "naics_industry_description" : "Ball and Roller Bearing Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "332992",
+  "naics_industry_description" : "Small Arms Ammunition Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "332993",
+  "naics_industry_description" : "Ammunition (except Small Arms) Manufacturing",
+  "size_standards_in_number_of_employees" : "1500"
+}
+, {
+  "naics_codes" : "332994",
+  "naics_industry_description" : "Small Arms, Ordnance, and Ordnance Accessories Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "332996",
+  "naics_industry_description" : "Fabricated Pipe and Pipe Fitting Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "332999",
+  "naics_industry_description" : "All Other Miscellaneous Fabricated Metal Product Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "footnotes" : "See footnote 6"
+}
+, {
+  "naics_codes" : "333111",
+  "naics_industry_description" : "Farm Machinery and Equipment Manufacturing  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333112",
+  "naics_industry_description" : "Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333120",
+  "naics_industry_description" : "Construction Machinery Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "333131",
+  "naics_industry_description" : "Mining Machinery and Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333132",
+  "naics_industry_description" : "Oil and Gas Field Machinery and Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333241",
+  "naics_industry_description" : "Food Product Machinery Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333242",
+  "naics_industry_description" : "Semiconductor Machinery Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333243",
+  "naics_industry_description" : "Sawmill, Woodworking, and Paper Machinery Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333244",
+  "naics_industry_description" : "Printing Machinery and Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333249",
+  "naics_industry_description" : "Other Industrial Machinery Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333314",
+  "naics_industry_description" : "Optical Instrument and Lens Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333316",
+  "naics_industry_description" : "Photographic and Photocopying Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "333318",
+  "naics_industry_description" : "Other Commercial and Service Industry Machinery Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "333413",
+  "naics_industry_description" : "Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333414",
+  "naics_industry_description" : "Heating Equipment (except Warm Air Furnaces) Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333415",
+  "naics_industry_description" : "Air‑Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "333511",
+  "naics_industry_description" : "Industrial Mold Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333514",
+  "naics_industry_description" : "Special Die and Tool, Die Set, Jig and Fixture Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333515",
+  "naics_industry_description" : "Cutting Tool and Machine Tool Accessory Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333517",
+  "naics_industry_description" : "Machine Tool Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333519",
+  "naics_industry_description" : "Rolling Mill and Other Metalworking Machinery Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333611",
+  "naics_industry_description" : "Turbine and Turbine Generator Set Unit Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "333612",
+  "naics_industry_description" : "Speed Changer, Industrial High‑Speed Drive and Gear Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333613",
+  "naics_industry_description" : "Mechanical Power Transmission Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333618",
+  "naics_industry_description" : "Other Engine Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "333911",
+  "naics_industry_description" : "Pump and Pumping Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333912",
+  "naics_industry_description" : "Air and Gas Compressor Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333913",
+  "naics_industry_description" : "Measuring and Dispensing Pump Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333921",
+  "naics_industry_description" : "Elevator and Moving Stairway Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333922",
+  "naics_industry_description" : "Conveyor and Conveying Equipment Manufacturing  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333923",
+  "naics_industry_description" : "Overhead Traveling Crane, Hoist and Monorail System Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333924",
+  "naics_industry_description" : "Industrial Truck, Tractor, Trailer and Stacker Machinery Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "333991",
+  "naics_industry_description" : "Power‑Driven Hand Tool Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333992",
+  "naics_industry_description" : "Welding and Soldering Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333993",
+  "naics_industry_description" : "Packaging Machinery Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333994",
+  "naics_industry_description" : "Industrial Process Furnace and Oven Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333995",
+  "naics_industry_description" : "Fluid Power Cylinder and Actuator Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333996",
+  "naics_industry_description" : "Fluid Power Pump and Motor Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333997",
+  "naics_industry_description" : "Scale and Balance Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "333999",
+  "naics_industry_description" : "All Other Miscellaneous General Purpose Machinery Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "footnotes" : "See footnote 6"
+}
+, {
+  "naics_codes" : "334111",
+  "naics_industry_description" : "Electronic Computer Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "334112",
+  "naics_industry_description" : "Computer Storage Device Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "334118",
+  "naics_industry_description" : "Computer Terminal and Other Computer Peripheral Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "334210",
+  "naics_industry_description" : "Telephone Apparatus Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "334220",
+  "naics_industry_description" : "Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "334290",
+  "naics_industry_description" : "Other Communications Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "334310",
+  "naics_industry_description" : "Audio and Video Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "334412",
+  "naics_industry_description" : "Bare Printed Circuit Board Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "334413",
+  "naics_industry_description" : "Semiconductor and Related Device Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "334416",
+  "naics_industry_description" : "Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "334417",
+  "naics_industry_description" : "Electronic Connector Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "334418",
+  "naics_industry_description" : "Printed Circuit Assembly (Electronic Assembly) Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "334419",
+  "naics_industry_description" : "Other Electronic Component Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "334510",
+  "naics_industry_description" : "Electromedical and Electrotherapeutic Apparatus Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "334511",
+  "naics_industry_description" : "Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "334512",
+  "naics_industry_description" : "Automatic Environmental Control Manufacturing for Residential, Commercial and Appliance Use",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "334513",
+  "naics_industry_description" : "Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "334514",
+  "naics_industry_description" : "Totalizing Fluid Meter and Counting Device Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "334515",
+  "naics_industry_description" : "Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "334516",
+  "naics_industry_description" : "Analytical Laboratory Instrument Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "334517",
+  "naics_industry_description" : "Irradiation Apparatus Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "334519",
+  "naics_industry_description" : "Other Measuring and Controlling Device Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "334613",
+  "naics_industry_description" : "Blank Magnetic and Optical Recording Media Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "334614",
+  "naics_industry_description" : "Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "footnotes" : "See footnote 6"
+}
+, {
+  "naics_codes" : "335110",
+  "naics_industry_description" : "Electric Lamp Bulb and Part Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "335121",
+  "naics_industry_description" : "Residential Electric Lighting Fixture Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "335122",
+  "naics_industry_description" : "Commercial, Industrial and Institutional Electric Lighting Fixture Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "335129",
+  "naics_industry_description" : "Other Lighting Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "335210",
+  "naics_industry_description" : "Small Electrical Appliance Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "335221",
+  "naics_industry_description" : "Household Cooking Appliance Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "335222",
+  "naics_industry_description" : "Household Refrigerator and Home Freezer Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "335224",
+  "naics_industry_description" : "Household Laundry Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "335228",
+  "naics_industry_description" : "Other Major Household Appliance Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "335311",
+  "naics_industry_description" : "Power, Distribution and Specialty Transformer Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "335312",
+  "naics_industry_description" : "Motor and Generator Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "335313",
+  "naics_industry_description" : "Switchgear and Switchboard Apparatus Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "335314",
+  "naics_industry_description" : "Relay and Industrial Control Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "335911",
+  "naics_industry_description" : "Storage Battery Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "335912",
+  "naics_industry_description" : "Primary Battery Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "335921",
+  "naics_industry_description" : "Fiber Optic Cable Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "335929",
+  "naics_industry_description" : "Other Communication and Energy Wire Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "335931",
+  "naics_industry_description" : "Current‑Carrying Wiring Device Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "335932",
+  "naics_industry_description" : "Noncurrent‑Carrying Wiring Device Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "335991",
+  "naics_industry_description" : "Carbon and Graphite Product Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "335999",
+  "naics_industry_description" : "All Other Miscellaneous Electrical Equipment and Component Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "footnotes" : "See footnote 6"
+}
+, {
+  "naics_codes" : "336111",
+  "naics_industry_description" : "Automobile Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "336112",
+  "naics_industry_description" : "Light Truck and Utility Vehicle Manufacturing  ",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "336120",
+  "naics_industry_description" : "Heavy Duty Truck Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "336211",
+  "naics_industry_description" : "Motor Vehicle Body Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "336212",
+  "naics_industry_description" : "Truck Trailer Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "336213",
+  "naics_industry_description" : "Motor Home Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "336214",
+  "naics_industry_description" : "Travel Trailer and Camper Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "336310",
+  "naics_industry_description" : "Motor Vehicle Gasoline Engine and Engine Parts Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "336320",
+  "naics_industry_description" : "Motor Vehicle Electrical and Electronic Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "336330",
+  "naics_industry_description" : "Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "336340",
+  "naics_industry_description" : "Motor Vehicle Brake System Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "336350",
+  "naics_industry_description" : "Motor Vehicle Transmission and Power Train Parts Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "336360",
+  "naics_industry_description" : "Motor Vehicle Seating and Interior Trim Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "336370",
+  "naics_industry_description" : "Motor Vehicle Metal Stamping  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "336390",
+  "naics_industry_description" : "Other Motor Vehicle Parts Manufacturing",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "336411",
+  "naics_industry_description" : "Aircraft Manufacturing",
+  "size_standards_in_number_of_employees" : "1500"
+}
+, {
+  "naics_codes" : "336412",
+  "naics_industry_description" : "Aircraft Engine and Engine Parts Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "336413",
+  "naics_industry_description" : "Other Aircraft Part and Auxiliary Equipment Manufacturing7   ",
+  "footnotes" : "See footnote 7",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "336414",
+  "naics_industry_description" : "Guided Missile and Space Vehicle Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "336415",
+  "naics_industry_description" : "Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "336419",
+  "naics_industry_description" : "Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "336510",
+  "naics_industry_description" : "Railroad Rolling Stock Manufacturing  ",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "336611",
+  "naics_industry_description" : "Ship Building and Repairing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "336612",
+  "naics_industry_description" : "Boat Building",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "336991",
+  "naics_industry_description" : "Motorcycle, Bicycle and Parts Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "336992",
+  "naics_industry_description" : "Military Armored Vehicle, Tank and Tank Component Manufacturing",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "336999",
+  "naics_industry_description" : "All Other Transportation Equipment Manufacturing  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "337110",
+  "naics_industry_description" : "Wood Kitchen Cabinet and Counter Top Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "337121",
+  "naics_industry_description" : "Upholstered Household Furniture Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "337122",
+  "naics_industry_description" : "Nonupholstered Wood Household Furniture Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "337124",
+  "naics_industry_description" : "Metal Household Furniture Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "337125",
+  "naics_industry_description" : "Household Furniture (except Wood and Metal) Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "337127",
+  "naics_industry_description" : "Institutional Furniture Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "337211",
+  "naics_industry_description" : "Wood Office Furniture Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "337212",
+  "naics_industry_description" : "Custom Architectural Woodwork and Millwork Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "337214",
+  "naics_industry_description" : "Office Furniture (Except Wood) Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "337215",
+  "naics_industry_description" : "Showcase, Partition, Shelving, and Locker Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "337910",
+  "naics_industry_description" : "Mattress Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "337920",
+  "naics_industry_description" : "Blind and Shade Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "339112",
+  "naics_industry_description" : "Surgical and Medical Instrument Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "339113",
+  "naics_industry_description" : "Surgical Appliance and Supplies Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "339114",
+  "naics_industry_description" : "Dental Equipment and Supplies Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "339115",
+  "naics_industry_description" : "Ophthalmic Goods Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "339116",
+  "naics_industry_description" : "Dental Laboratories",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "339910",
+  "naics_industry_description" : "Jewelry and Silverware Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "339920",
+  "naics_industry_description" : "Sporting and Athletic Goods Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "339930",
+  "naics_industry_description" : "Doll, Toy, and Game Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "339940",
+  "naics_industry_description" : "Office Supplies (except Paper) Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "339950",
+  "naics_industry_description" : "Sign Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "339991",
+  "naics_industry_description" : "Gasket, Packing, and Sealing Device Manufacturing  ",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "339992",
+  "naics_industry_description" : "Musical Instrument Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "339993",
+  "naics_industry_description" : "Fastener, Button, Needle and Pin Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "339994",
+  "naics_industry_description" : "Broom, Brush and Mop Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "339995",
+  "naics_industry_description" : "Burial Casket Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "339999",
+  "naics_industry_description" : "All Other Miscellaneous Manufacturing",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_industry_description" : "Sector 42 – Wholesale Trade"
+}
+, {
+  "naics_industry_description" : "(These NAICS codes shall not be used to classify Government acquisitions for supplies.  They also shall not be used by Federal government contractors when subcontracting for the acquisition for supplies.  The applicable manufacturing NAICS code shall be used to classify acquisitions for supplies.  A Wholesale Trade or Retail Trade business concern submitting an offer or a quote on a supply acquisition is categorized as a nonmanufacturer and deemed small if it has 500 or fewer employees and meets the requirements of 13 CFR 121.406.)"
+}
+, { }
+, {
+  "naics_codes" : "423110",
+  "naics_industry_description" : "Automobile and Other Motor Vehicle Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423120",
+  "naics_industry_description" : "Motor Vehicle Supplies and New Parts Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423130",
+  "naics_industry_description" : "Tire and Tube Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423140",
+  "naics_industry_description" : "Motor Vehicle Parts (Used) Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423210",
+  "naics_industry_description" : "Furniture Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423220",
+  "naics_industry_description" : "Home Furnishing Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423310",
+  "naics_industry_description" : "Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423320",
+  "naics_industry_description" : "Brick, Stone, and Related Construction Material Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423330",
+  "naics_industry_description" : "Roofing, Siding, and Insulation Material Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423390",
+  "naics_industry_description" : "Other Construction Material Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423410",
+  "naics_industry_description" : "Photographic Equipment and Supplies Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423420",
+  "naics_industry_description" : "Office Equipment Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423430",
+  "naics_industry_description" : "Computer and Computer Peripheral Equipment and Software Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423440",
+  "naics_industry_description" : "Other Commercial Equipment Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423450",
+  "naics_industry_description" : "Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423460",
+  "naics_industry_description" : "Ophthalmic Goods Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423490",
+  "naics_industry_description" : "Other Professional Equipment and Supplies Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423510",
+  "naics_industry_description" : "Metal Service Centers and Other Metal Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423520",
+  "naics_industry_description" : "Coal and Other Mineral and Ore Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423610",
+  "naics_industry_description" : "Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423620",
+  "naics_industry_description" : "Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423690",
+  "naics_industry_description" : "Other Electronic Parts and Equipment Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423710",
+  "naics_industry_description" : "Hardware Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423720",
+  "naics_industry_description" : "Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423730",
+  "naics_industry_description" : "Warm Air Heating and Air‑Conditioning Equipment and Supplies Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423740",
+  "naics_industry_description" : "Refrigeration Equipment and Supplies Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423810",
+  "naics_industry_description" : "Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423820",
+  "naics_industry_description" : "Farm and Garden Machinery and Equipment Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423830",
+  "naics_industry_description" : "Industrial Machinery and Equipment Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423840",
+  "naics_industry_description" : "Industrial Supplies Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423850",
+  "naics_industry_description" : "Service Establishment Equipment and Supplies Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423860",
+  "naics_industry_description" : "Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423910",
+  "naics_industry_description" : "Sporting and Recreational Goods and Supplies Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423920",
+  "naics_industry_description" : "Toy and Hobby Goods and Supplies Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423930",
+  "naics_industry_description" : "Recyclable Material Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423940",
+  "naics_industry_description" : "Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "423990",
+  "naics_industry_description" : "Other Miscellaneous Durable Goods Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, { }
+, {
+  "naics_codes" : "424110",
+  "naics_industry_description" : "Printing and Writing Paper Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424120",
+  "naics_industry_description" : "Stationary and Office Supplies Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424130",
+  "naics_industry_description" : "Industrial and Personal Service Paper Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424210",
+  "naics_industry_description" : "Drugs and Druggists’ Sundries Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424310",
+  "naics_industry_description" : "Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424320",
+  "naics_industry_description" : "Men’s and Boys’ Clothing and Furnishings Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424330",
+  "naics_industry_description" : "Women’s, Children’s, and Infants’ Clothing and Accessories Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424340",
+  "naics_industry_description" : "Footwear Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424410",
+  "naics_industry_description" : "General Line Grocery Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424420",
+  "naics_industry_description" : "Packaged Frozen Food Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424430",
+  "naics_industry_description" : "Dairy Product (except Dried or Canned) Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424440",
+  "naics_industry_description" : "Poultry and Poultry Product Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424450",
+  "naics_industry_description" : "Confectionery Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424460",
+  "naics_industry_description" : "Fish and Seafood Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424470",
+  "naics_industry_description" : "Meat and Meat Product Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424480",
+  "naics_industry_description" : "Fresh Fruit and Vegetable Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424490",
+  "naics_industry_description" : "Other Grocery and Related Products Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424510",
+  "naics_industry_description" : "Grain and Field Bean Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424520",
+  "naics_industry_description" : "Livestock Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424590",
+  "naics_industry_description" : "Other Farm Product Raw Material Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424610",
+  "naics_industry_description" : "Plastics Materials and Basic Forms and Shapes Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424690",
+  "naics_industry_description" : "Other Chemical and Allied Products Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424710",
+  "naics_industry_description" : "Petroleum Bulk Stations and Terminals",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424720",
+  "naics_industry_description" : "Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424810",
+  "naics_industry_description" : "Beer and Ale Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424820",
+  "naics_industry_description" : "Wine and Distilled Alcoholic Beverage Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424910",
+  "naics_industry_description" : "Farm Supplies Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424920",
+  "naics_industry_description" : "Book, Periodical, and Newspaper Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424930",
+  "naics_industry_description" : "Flower, Nursery Stock, and Florists’ Supplies Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424940",
+  "naics_industry_description" : "Tobacco and Tobacco Product Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424950",
+  "naics_industry_description" : "Paint, Varnish, and Supplies Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "424990",
+  "naics_industry_description" : "Other Miscellaneous Nondurable Goods Merchant Wholesalers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, { }
+, {
+  "naics_codes" : "425110",
+  "naics_industry_description" : "Business to Business Electronic Markets",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_codes" : "425120",
+  "naics_industry_description" : "Wholesale Trade Agents and Brokers",
+  "size_standards_in_number_of_employees" : "100"
+}
+, {
+  "naics_industry_description" : "Sector 44 - 45 – Retail Trade"
+}
+, {
+  "naics_industry_description" : "(These NAICS codes shall not be used to classify Government acquisitions for supplies.  They also shall not be used by Federal government contractors when subcontracting for the acquisition for supplies.  The applicable manufacturing NAICS code shall be used to classify acquisitions for supplies.  A Wholesale Trade or Retail Trade business concern submitting an offer or a quote on a supply acquisition is categorized as a nonmanufacturer and deemed small if it has 500 or fewer employees and meets the requirements of 13 CFR 121.406.)"
+}
+, { }
+, {
+  "naics_codes" : "441110",
+  "naics_industry_description" : "New Car Dealers",
+  "size_standards_in_number_of_employees" : "200"
+}
+, {
+  "naics_codes" : "441120",
+  "naics_industry_description" : "Used Car Dealers",
+  "size_standards_in_millions_of_dollars" : "25.0"
+}
+, {
+  "naics_codes" : "441210",
+  "naics_industry_description" : "Recreational Vehicle Dealers  ",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "441222",
+  "naics_industry_description" : "Boat Dealers",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "441228",
+  "naics_industry_description" : "Motorcycle, ATV, and All Other Motor Vehicle Dealers",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "441310",
+  "naics_industry_description" : "Automotive Parts and Accessories Stores",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "441320",
+  "naics_industry_description" : "Tire Dealers",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, { }
+, {
+  "naics_codes" : "442110",
+  "naics_industry_description" : "Furniture Stores",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "442210",
+  "naics_industry_description" : "Floor Covering Stores",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "442291",
+  "naics_industry_description" : "Window Treatment Stores",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "442299",
+  "naics_industry_description" : "All Other Home Furnishings Stores",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, { }
+, {
+  "naics_codes" : "443141",
+  "naics_industry_description" : "Household Appliance Stores",
+  "size_standards_in_millions_of_dollars" : "11.0"
+}
+, {
+  "naics_codes" : "443142",
+  "naics_industry_description" : "Electronics Stores",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, { }
+, {
+  "naics_codes" : "444110",
+  "naics_industry_description" : "Home Centers",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "444120",
+  "naics_industry_description" : "Paint and Wallpaper Stores",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "444130",
+  "naics_industry_description" : "Hardware Stores",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "444190",
+  "naics_industry_description" : "Other Building Material Dealers",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "444210",
+  "naics_industry_description" : "Outdoor Power Equipment Stores",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "444220",
+  "naics_industry_description" : "Nursery and Garden Centers",
+  "size_standards_in_millions_of_dollars" : "11.0"
+}
+, { }
+, {
+  "naics_codes" : "445110",
+  "naics_industry_description" : "Supermarkets and Other Grocery (except Convenience) Stores",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "445120",
+  "naics_industry_description" : "Convenience Stores",
+  "size_standards_in_millions_of_dollars" : "29.5"
+}
+, {
+  "naics_codes" : "445210",
+  "naics_industry_description" : "Meat Markets",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "445220",
+  "naics_industry_description" : "Fish and Seafood Markets",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "445230",
+  "naics_industry_description" : "Fruit and Vegetable Markets",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "445291",
+  "naics_industry_description" : "Baked Goods Stores",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "445292",
+  "naics_industry_description" : "Confectionery and Nut Stores",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "445299",
+  "naics_industry_description" : "All Other Specialty Food Stores",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "445310",
+  "naics_industry_description" : "Beer, Wine and Liquor Stores",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, { }
+, {
+  "naics_codes" : "446110",
+  "naics_industry_description" : "Pharmacies and Drug Stores",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "446120",
+  "naics_industry_description" : "Cosmetics, Beauty Supplies and Perfume Stores",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "446130",
+  "naics_industry_description" : "Optical Goods Stores",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "446191",
+  "naics_industry_description" : "Food (Health) Supplement Stores",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "446199",
+  "naics_industry_description" : "All Other Health and Personal Care Stores",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, { }
+, {
+  "naics_codes" : "447110",
+  "naics_industry_description" : "Gasoline Stations with Convenience Stores",
+  "size_standards_in_millions_of_dollars" : "29.5"
+}
+, {
+  "naics_codes" : "447190",
+  "naics_industry_description" : "Other Gasoline Stations",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, { }
+, {
+  "naics_codes" : "448110",
+  "naics_industry_description" : "Men’s Clothing Stores",
+  "size_standards_in_millions_of_dollars" : "11.0"
+}
+, {
+  "naics_codes" : "448120",
+  "naics_industry_description" : "Women’s Clothing Stores",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "448130",
+  "naics_industry_description" : "Children’s and Infants’ Clothing Stores",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "448140",
+  "naics_industry_description" : "Family Clothing Stores",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "448150",
+  "naics_industry_description" : "Clothing Accessories Stores",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "448190",
+  "naics_industry_description" : "Other Clothing Stores",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "448210",
+  "naics_industry_description" : "Shoe Stores",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "448310",
+  "naics_industry_description" : "Jewelry Stores",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "448320",
+  "naics_industry_description" : "Luggage and Leather Goods Stores",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, { }
+, {
+  "naics_codes" : "451110",
+  "naics_industry_description" : "Sporting Goods Stores",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "451120",
+  "naics_industry_description" : "Hobby, Toy and Game Stores",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "451130",
+  "naics_industry_description" : "Sewing, Needlework and Piece Goods Stores",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "451140",
+  "naics_industry_description" : "Musical Instrument and Supplies Stores",
+  "size_standards_in_millions_of_dollars" : "11.0"
+}
+, {
+  "naics_codes" : "451211",
+  "naics_industry_description" : "Book Stores",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "451212",
+  "naics_industry_description" : "News Dealers and Newsstands",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, { }
+, {
+  "naics_codes" : "452111",
+  "naics_industry_description" : "Department Stores (except Discount Department Stores)",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "452112",
+  "naics_industry_description" : "Discount Department Stores",
+  "size_standards_in_millions_of_dollars" : "29.5"
+}
+, {
+  "naics_codes" : "452910",
+  "naics_industry_description" : "Warehouse Clubs and Superstores",
+  "size_standards_in_millions_of_dollars" : "29.5"
+}
+, {
+  "naics_codes" : "452990",
+  "naics_industry_description" : "All Other General Merchandise Stores",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, { }
+, {
+  "naics_codes" : "453110",
+  "naics_industry_description" : "Florists",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "453210",
+  "naics_industry_description" : "Office Supplies and Stationery Stores",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "453220",
+  "naics_industry_description" : "Gift, Novelty and Souvenir Stores",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "453310",
+  "naics_industry_description" : "Used Merchandise Stores",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "453910",
+  "naics_industry_description" : "Pet and Pet Supplies Stores",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "453920",
+  "naics_industry_description" : "Art Dealers",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "453930",
+  "naics_industry_description" : "Manufactured (Mobile) Home Dealers",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "453991",
+  "naics_industry_description" : "Tobacco Stores",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "453998",
+  "naics_industry_description" : "All Other Miscellaneous Store Retailers (except Tobacco Stores)",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, { }
+, {
+  "naics_codes" : "454111",
+  "naics_industry_description" : "Electronic Shopping",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "454112",
+  "naics_industry_description" : "Electronic Auctions",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "454113",
+  "naics_industry_description" : "Mail‑Order Houses",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "454210",
+  "naics_industry_description" : "Vending Machine Operators",
+  "size_standards_in_millions_of_dollars" : "11.0"
+}
+, {
+  "naics_codes" : "454310",
+  "naics_industry_description" : "Fuel Dealers",
+  "size_standards_in_number_of_employees" : "50"
+}
+, {
+  "naics_codes" : "454390",
+  "naics_industry_description" : "Other Direct Selling Establishments",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_industry_description" : "Sector 48 - 49 – Transportation and Warehousing"
+}
+, { }
+, {
+  "naics_codes" : "481111",
+  "naics_industry_description" : "Scheduled Passenger Air Transportation",
+  "size_standards_in_number_of_employees" : "1500"
+}
+, {
+  "naics_codes" : "481112",
+  "naics_industry_description" : "Scheduled Freight Air Transportation",
+  "size_standards_in_number_of_employees" : "1500"
+}
+, {
+  "naics_codes" : "481211",
+  "naics_industry_description" : "Nonscheduled Chartered Passenger Air Transportation",
+  "size_standards_in_number_of_employees" : "1500"
+}
+, {
+  "naics_industry_description" : "Offshore Marine Air Transportation Services",
+  "size_standards_in_millions_of_dollars" : "30.5"
+}
+, {
+  "naics_codes" : "481212",
+  "naics_industry_description" : "Nonscheduled Chartered Freight Air Transportation  ",
+  "size_standards_in_number_of_employees" : "1500"
+}
+, {
+  "naics_industry_description" : "Offshore Marine Air Transportation Services",
+  "size_standards_in_millions_of_dollars" : "30.5"
+}
+, {
+  "naics_codes" : "481219",
+  "naics_industry_description" : "Other Nonscheduled Air Transportation",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, { }
+, {
+  "naics_codes" : "482111",
+  "naics_industry_description" : "Line‑Haul Railroads",
+  "size_standards_in_number_of_employees" : "1500"
+}
+, {
+  "naics_codes" : "482112",
+  "naics_industry_description" : "Short Line Railroads",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "footnotes" : "See footnote 15"
+}
+, {
+  "naics_codes" : "483111",
+  "naics_industry_description" : "Deep Sea Freight Transportation",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "483112",
+  "naics_industry_description" : "Deep Sea Passenger Transportation",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "483113",
+  "naics_industry_description" : "Coastal and Great Lakes Freight Transportation",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "483114",
+  "naics_industry_description" : "Coastal and Great Lakes Passenger Transportation",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "483211",
+  "naics_industry_description" : "Inland Water Freight Transportation",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "483212",
+  "naics_industry_description" : "Inland Water Passenger Transportation",
+  "size_standards_in_number_of_employees" : "500"
+}
+, { }
+, {
+  "naics_codes" : "484110",
+  "naics_industry_description" : "General Freight Trucking, Local",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "484121",
+  "naics_industry_description" : "General Freight Trucking, Long‑Distance, Truckload  ",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "484122",
+  "naics_industry_description" : "General Freight Trucking, Long‑Distance, Less Than Truckload",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "484210",
+  "naics_industry_description" : "Used Household and Office Goods Moving",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "484220",
+  "naics_industry_description" : "Specialized Freight (except Used Goods) Trucking, Local",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "484230",
+  "naics_industry_description" : "Specialized Freight (except Used Goods) Trucking, Long‑Distance",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, { }
+, {
+  "naics_codes" : "485111",
+  "naics_industry_description" : "Mixed Mode Transit Systems",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "485112",
+  "naics_industry_description" : "Commuter Rail Systems",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "485113",
+  "naics_industry_description" : "Bus and Other Motor Vehicle Transit Systems",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "485119",
+  "naics_industry_description" : "Other Urban Transit Systems",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "485210",
+  "naics_industry_description" : "Interurban and Rural Bus Transportation",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "485310",
+  "naics_industry_description" : "Taxi Service",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "485320",
+  "naics_industry_description" : "Limousine Service",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "485410",
+  "naics_industry_description" : "School and Employee Bus Transportation",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "485510",
+  "naics_industry_description" : "Charter Bus Industry",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "485991",
+  "naics_industry_description" : "Special Needs Transportation",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "485999",
+  "naics_industry_description" : "All Other Transit and Ground Passenger Transportation",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, { }
+, {
+  "naics_codes" : "486110",
+  "naics_industry_description" : "Pipeline Transportation of Crude Oil",
+  "size_standards_in_number_of_employees" : "1500"
+}
+, {
+  "naics_codes" : "486210",
+  "naics_industry_description" : "Pipeline Transportation of Natural Gas",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "486910",
+  "naics_industry_description" : "Pipeline Transportation of Refined Petroleum Products",
+  "size_standards_in_number_of_employees" : "1500"
+}
+, {
+  "naics_codes" : "486990",
+  "naics_industry_description" : "All Other Pipeline Transportation",
+  "size_standards_in_millions_of_dollars" : "37.5"
+}
+, { }
+, {
+  "naics_codes" : "487110",
+  "naics_industry_description" : "Scenic and Sightseeing Transportation, Land",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "487210",
+  "naics_industry_description" : "Scenic and Sightseeing Transportation, Water",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "487990",
+  "naics_industry_description" : "Scenic and Sightseeing Transportation, Other",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, { }
+, {
+  "naics_codes" : "488111",
+  "naics_industry_description" : "Air Traffic Control",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "488119",
+  "naics_industry_description" : "Other Airport Operations",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "488190",
+  "naics_industry_description" : "Other Support Activities for Air Transportation",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "488210",
+  "naics_industry_description" : "Support Activities for Rail Transportation",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "488310",
+  "naics_industry_description" : "Port and Harbor Operations",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "488320",
+  "naics_industry_description" : "Marine Cargo Handling",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "488330",
+  "naics_industry_description" : "Navigational Services to Shipping",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "488390",
+  "naics_industry_description" : "Other Support Activities for Water Transportation",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "488410",
+  "naics_industry_description" : "Motor Vehicle Towing",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "488490",
+  "naics_industry_description" : "Other Support Activities for Road Transportation",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "488510",
+  "naics_industry_description" : "Freight Transportation Arrangement10",
+  "size_standards_in_millions_of_dollars" : "15.0",
+  "footnotes" : "See footnote 10"
+}
+, {
+  "naics_industry_description" : "Non‑Vessel Owning Common Carriers and Household Goods Forwarders",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "488991",
+  "naics_industry_description" : "Packing and Crating",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "488999",
+  "naics_industry_description" : "All Other Support Activities for Transportation",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, { }
+, {
+  "naics_codes" : "491110",
+  "naics_industry_description" : "Postal Service",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, { }
+, {
+  "naics_codes" : "492110",
+  "naics_industry_description" : "Couriers and Express Delivery Services",
+  "size_standards_in_number_of_employees" : "1500"
+}
+, {
+  "naics_codes" : "492210",
+  "naics_industry_description" : "Local Messengers and Local Delivery",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, { }
+, {
+  "naics_codes" : "493110",
+  "naics_industry_description" : "General Warehousing and Storage",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "493120",
+  "naics_industry_description" : "Refrigerated Warehousing and Storage",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "493130",
+  "naics_industry_description" : "Farm Product Warehousing and Storage",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "493190",
+  "naics_industry_description" : "Other Warehousing and Storage",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_industry_description" : "Sector 51 – Information"
+}
+, { }
+, {
+  "naics_codes" : "511110",
+  "naics_industry_description" : "Newspaper Publishers",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "511120",
+  "naics_industry_description" : "Periodical Publishers",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "511130",
+  "naics_industry_description" : "Book Publishers",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "511140",
+  "naics_industry_description" : "Directory and Mailing List Publishers",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "511191",
+  "naics_industry_description" : "Greeting Card Publishers",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "511199",
+  "naics_industry_description" : "All Other Publishers",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "511210",
+  "naics_industry_description" : "Software Publishers",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, { }
+, {
+  "naics_codes" : "512110",
+  "naics_industry_description" : "Motion Picture and Video Production",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "512120",
+  "naics_industry_description" : "Motion Picture and Video Distribution",
+  "size_standards_in_millions_of_dollars" : "32.0"
+}
+, {
+  "naics_codes" : "512131",
+  "naics_industry_description" : "Motion Picture Theaters (except Drive‑Ins)",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "512132",
+  "naics_industry_description" : "Drive‑In Motion Picture Theaters",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "512191",
+  "naics_industry_description" : "Teleproduction and Other Postproduction Services",
+  "size_standards_in_millions_of_dollars" : "32.0"
+}
+, {
+  "naics_codes" : "512199",
+  "naics_industry_description" : "Other Motion Picture and Video Industries",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "512210",
+  "naics_industry_description" : "Record Production",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "512220",
+  "naics_industry_description" : "Integrated Record Production/Distribution",
+  "size_standards_in_number_of_employees" : "750"
+}
+, {
+  "naics_codes" : "512230",
+  "naics_industry_description" : "Music Publishers",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "512240",
+  "naics_industry_description" : "Sound Recording Studios",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "512290",
+  "naics_industry_description" : "Other Sound Recording Industries",
+  "size_standards_in_millions_of_dollars" : "11.0"
+}
+, { }
+, {
+  "naics_codes" : "515111",
+  "naics_industry_description" : "Radio Networks",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "515112",
+  "naics_industry_description" : "Radio Stations",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "515120",
+  "naics_industry_description" : "Television Broadcasting",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "515210",
+  "naics_industry_description" : "Cable and Other Subscription Programming",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, { }
+, {
+  "naics_codes" : "517110",
+  "naics_industry_description" : "Wired Telecommunications Carriers",
+  "size_standards_in_number_of_employees" : "1500"
+}
+, {
+  "naics_codes" : "517210",
+  "naics_industry_description" : "Wireless Telecommunications Carriers (except Satellite)",
+  "size_standards_in_number_of_employees" : "1500"
+}
+, {
+  "naics_codes" : "517410",
+  "naics_industry_description" : "Satellite Telecommunications",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "517911",
+  "naics_industry_description" : "Telecommunications Resellers",
+  "size_standards_in_number_of_employees" : "1500"
+}
+, {
+  "naics_codes" : "517919",
+  "naics_industry_description" : "All Other Telecommunications",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, { }
+, {
+  "naics_codes" : "518210",
+  "naics_industry_description" : "Data Processing, Hosting, and Related Services",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, { }
+, {
+  "naics_codes" : "519110",
+  "naics_industry_description" : "News Syndicates",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "519120",
+  "naics_industry_description" : "Libraries and Archives",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "519130",
+  "naics_industry_description" : "Internet Publishing and Broadcasting and Web Search Portals",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "519190",
+  "naics_industry_description" : "All Other Information Services",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_industry_description" : "Sector 52 – Finance and Insurance"
+}
+, { }
+, {
+  "naics_codes" : "522110",
+  "naics_industry_description" : "Commercial Banking8",
+  "footnotes" : "See footnote 8"
+}
+, {
+  "naics_codes" : "522120",
+  "naics_industry_description" : "Savings Institutions8",
+  "footnotes" : "See footnote 8"
+}
+, {
+  "naics_codes" : "522130",
+  "naics_industry_description" : "Credit Unions8",
+  "footnotes" : "See footnote 8"
+}
+, {
+  "naics_codes" : "522190",
+  "naics_industry_description" : "Other Depository Credit Intermediation8",
+  "footnotes" : "See footnote 8"
+}
+, {
+  "naics_codes" : "522210",
+  "naics_industry_description" : "Credit Card Issuing8",
+  "footnotes" : "See footnote 8"
+}
+, {
+  "naics_codes" : "522220",
+  "naics_industry_description" : "Sales Financing",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "522291",
+  "naics_industry_description" : "Consumer Lending",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "522292",
+  "naics_industry_description" : "Real Estate Credit",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "522293",
+  "naics_industry_description" : "International Trade Financing",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "522294",
+  "naics_industry_description" : "Secondary Market Financing",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "522298",
+  "naics_industry_description" : "All Other Nondepository Credit Intermediation",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "522310",
+  "naics_industry_description" : "Mortgage and Nonmortgage Loan Brokers",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "522320",
+  "naics_industry_description" : "Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "522390",
+  "naics_industry_description" : "Other Activities Related to Credit Intermediation",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, { }
+, {
+  "naics_codes" : "523110",
+  "naics_industry_description" : "Investment Banking and Securities Dealing",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "523120",
+  "naics_industry_description" : "Securities Brokerage",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "523130",
+  "naics_industry_description" : "Commodity Contracts Dealing",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "523140",
+  "naics_industry_description" : "Commodity Contracts Brokerage",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "523210",
+  "naics_industry_description" : "Securities and Commodity Exchanges",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "523910",
+  "naics_industry_description" : "Miscellaneous Intermediation",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "523920",
+  "naics_industry_description" : "Portfolio Management",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "523930",
+  "naics_industry_description" : "Investment Advice",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "523991",
+  "naics_industry_description" : "Trust, Fiduciary and Custody Activities",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "523999",
+  "naics_industry_description" : "Miscellaneous Financial Investment Activities",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, { }
+, {
+  "naics_codes" : "524113",
+  "naics_industry_description" : "Direct Life Insurance Carriers",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "524114",
+  "naics_industry_description" : "Direct Health and Medical Insurance Carriers",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "524126",
+  "naics_industry_description" : "Direct Property and Casualty Insurance Carriers",
+  "size_standards_in_number_of_employees" : "1500"
+}
+, {
+  "naics_codes" : "524127",
+  "naics_industry_description" : "Direct Title Insurance Carriers",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "524128",
+  "naics_industry_description" : "Other Direct Insurance (except Life, Health and Medical) Carriers",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "524130",
+  "naics_industry_description" : "Reinsurance Carriers",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "524210",
+  "naics_industry_description" : "Insurance Agencies and Brokerages",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "524291",
+  "naics_industry_description" : "Claims Adjusting",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "524292",
+  "naics_industry_description" : "Third Party Administration of Insurance and Pension Funds",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "524298",
+  "naics_industry_description" : "All Other Insurance Related Activities",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, { }
+, {
+  "naics_codes" : "525110",
+  "naics_industry_description" : "Pension Funds",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "525120",
+  "naics_industry_description" : "Health and Welfare Funds",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "525190",
+  "naics_industry_description" : "Other Insurance Funds",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "525910",
+  "naics_industry_description" : "Open‑End Investment Funds",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "525920",
+  "naics_industry_description" : "Trusts, Estates, and Agency Accounts",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "525990",
+  "naics_industry_description" : "Other Financial Vehicles",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_industry_description" : "Sector 53 – Real Estate and Rental and Leasing"
+}
+, { }
+, {
+  "naics_codes" : "531110",
+  "naics_industry_description" : "Lessors of Residential Buildings and Dwellings9",
+  "size_standards_in_millions_of_dollars" : "27.5",
+  "footnotes" : "See footnote 9"
+}
+, {
+  "naics_codes" : "531120",
+  "naics_industry_description" : "Lessors of Nonresidential Buildings (except Miniwarehouses)9",
+  "size_standards_in_millions_of_dollars" : "27.5",
+  "footnotes" : "See footnote 9"
+}
+, {
+  "naics_codes" : "531130",
+  "naics_industry_description" : "Lessors of Miniwarehouses and Self Storage Units9",
+  "size_standards_in_millions_of_dollars" : "27.5",
+  "footnotes" : "See footnote 9"
+}
+, {
+  "naics_codes" : "531190",
+  "naics_industry_description" : "Lessors of Other Real Estate Property9",
+  "size_standards_in_millions_of_dollars" : "27.5",
+  "footnotes" : "See footnote 9"
+}
+, {
+  "naics_codes" : "531210",
+  "naics_industry_description" : "Offices of Real Estate Agents and Brokers10",
+  "size_standards_in_millions_of_dollars" : "7.5",
+  "footnotes" : "See footnote 10"
+}
+, {
+  "naics_codes" : "531311",
+  "naics_industry_description" : "Residential Property Managers",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "531312",
+  "naics_industry_description" : "Nonresidential Property Managers",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "531320",
+  "naics_industry_description" : "Offices of Real Estate Appraisers",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "531390",
+  "naics_industry_description" : "Other Activities Related to Real Estate",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, { }
+, {
+  "naics_codes" : "532111",
+  "naics_industry_description" : "Passenger Car Rental",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "532112",
+  "naics_industry_description" : "Passenger Car Leasing",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "532120",
+  "naics_industry_description" : "Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "532210",
+  "naics_industry_description" : "Consumer Electronics and Appliances Rental",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "532220",
+  "naics_industry_description" : "Formal Wear and Costume Rental",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "532230",
+  "naics_industry_description" : "Video Tape and Disc Rental",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "532291",
+  "naics_industry_description" : "Home Health Equipment Rental",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "532292",
+  "naics_industry_description" : "Recreational Goods Rental",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "532299",
+  "naics_industry_description" : "All Other Consumer Goods Rental",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "532310",
+  "naics_industry_description" : "General Rental Centers",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "532411",
+  "naics_industry_description" : "Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "532412",
+  "naics_industry_description" : "Construction, Mining and Forestry Machinery and Equipment Rental and Leasing",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "532420",
+  "naics_industry_description" : "Office Machinery and Equipment Rental and Leasing",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, {
+  "naics_codes" : "532490",
+  "naics_industry_description" : "Other Commercial and Industrial Machinery and Equipment Rental and Leasing",
+  "size_standards_in_millions_of_dollars" : "32.5"
+}
+, { }
+, {
+  "naics_codes" : "533110",
+  "naics_industry_description" : "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_industry_description" : "Sector 54 – Professional, Scientific and Technical Services"
+}
+, { }
+, {
+  "naics_codes" : "541110",
+  "naics_industry_description" : "Offices of Lawyers",
+  "size_standards_in_millions_of_dollars" : "11.0"
+}
+, {
+  "naics_codes" : "541191",
+  "naics_industry_description" : "Title Abstract and Settlement Offices",
+  "size_standards_in_millions_of_dollars" : "11.0"
+}
+, {
+  "naics_codes" : "541199",
+  "naics_industry_description" : "All Other Legal Services",
+  "size_standards_in_millions_of_dollars" : "11.0"
+}
+, {
+  "naics_codes" : "541211",
+  "naics_industry_description" : "Offices of Certified Public Accountants",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "541213",
+  "naics_industry_description" : "Tax Preparation Services",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "541214",
+  "naics_industry_description" : "Payroll Services",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "541219",
+  "naics_industry_description" : "Other Accounting Services",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "541310",
+  "naics_industry_description" : "Architectural Services",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "541320",
+  "naics_industry_description" : "Landscape Architectural Services",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "541330",
+  "naics_industry_description" : "Engineering Services",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_industry_description" : "Military and Aerospace Equipment and Military Weapons",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_industry_description" : "Contracts and Subcontracts for Engineering Services Awarded Under the National Energy Policy Act of 1992",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_industry_description" : "Marine Engineering and Naval Architecture",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "541340",
+  "naics_industry_description" : "Drafting Services",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "541350",
+  "naics_industry_description" : "Building Inspection Services",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "541360",
+  "naics_industry_description" : "Geophysical Surveying and Mapping Services",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541370",
+  "naics_industry_description" : "Surveying and Mapping (except Geophysical) Services",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541380",
+  "naics_industry_description" : "Testing Laboratories",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541410",
+  "naics_industry_description" : "Interior Design Services",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "541420",
+  "naics_industry_description" : "Industrial Design Services",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "541430",
+  "naics_industry_description" : "Graphic Design Services",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "541490",
+  "naics_industry_description" : "Other Specialized Design Services",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "541511",
+  "naics_industry_description" : "Custom Computer Programming Services",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "541512",
+  "naics_industry_description" : "Computer Systems Design Services",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "541513",
+  "naics_industry_description" : "Computer Facilities Management Services",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "541519",
+  "naics_industry_description" : "Other Computer Related Services",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_industry_description" : "Information Technology Value Added Resellers18",
+  "footnotes" : "See footnote 18",
+  "size_standards_in_number_of_employees" : "150"
+}
+, {
+  "naics_codes" : "541611",
+  "naics_industry_description" : "Administrative Management and General Management Consulting Services",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541612",
+  "naics_industry_description" : "Human Resources Consulting Services",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541613",
+  "naics_industry_description" : "Marketing Consulting Services",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541614",
+  "naics_industry_description" : "Process, Physical Distribution and Logistics Consulting Services",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541618",
+  "naics_industry_description" : "Other Management Consulting Services",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541620",
+  "naics_industry_description" : "Environmental Consulting Services",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541690",
+  "naics_industry_description" : "Other Scientific and Technical Consulting Services  ",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541711",
+  "naics_industry_description" : "Research and Development in Biotechnology11",
+  "footnotes" : "See footnote 11",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "541712",
+  "naics_industry_description" : "Research and Development in the Physical, Engineering, and Life Sciences (except Biotechnology) 11",
+  "footnotes" : "See footnote 11",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_industry_description" : "Aircraft",
+  "size_standards_in_number_of_employees" : "1500"
+}
+, {
+  "naics_industry_description" : "Aircraft Parts, and Auxiliary Equipment, and Aircraft Engine Parts",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_industry_description" : "Space Vehicles and Guided Missiles, their Propulsion Units, their Propulsion Units Parts, and their Auxiliary Equipment and Parts",
+  "size_standards_in_number_of_employees" : "1000"
+}
+, {
+  "naics_codes" : "541720",
+  "naics_industry_description" : "Research and Development in the Social Sciences and Humanities",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "541810",
+  "naics_industry_description" : "Advertising Agencies10",
+  "size_standards_in_millions_of_dollars" : "15.0",
+  "footnotes" : "See footnote 10"
+}
+, {
+  "naics_codes" : "541820",
+  "naics_industry_description" : "Public Relations Agencies",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541830",
+  "naics_industry_description" : "Media Buying Agencies",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541840",
+  "naics_industry_description" : "Media Representatives",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541850",
+  "naics_industry_description" : "Outdoor Advertising",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541860",
+  "naics_industry_description" : "Direct Mail Advertising",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541870",
+  "naics_industry_description" : "Advertising Material Distribution Services",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541890",
+  "naics_industry_description" : "Other Services Related to Advertising",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541910",
+  "naics_industry_description" : "Marketing Research and Public Opinion Polling",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "541921",
+  "naics_industry_description" : "Photography Studios, Portrait",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "541922",
+  "naics_industry_description" : "Commercial Photography",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "541930",
+  "naics_industry_description" : "Translation and Interpretation Services",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "541940",
+  "naics_industry_description" : "Veterinary Services",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "541990",
+  "naics_industry_description" : "All Other Professional, Scientific and Technical Services",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_industry_description" : "Sector 55 – Management of Companies and Enterprises"
+}
+, { }
+, {
+  "naics_codes" : "551111",
+  "naics_industry_description" : "Offices of Bank Holding Companies",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "551112",
+  "naics_industry_description" : "Offices of Other Holding Companies",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_industry_description" : "Sector 56 – Administrative and Support, Waste Management and Remediation Services"
+}
+, { }
+, {
+  "naics_codes" : "561110",
+  "naics_industry_description" : "Office Administrative Services",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "561210",
+  "naics_industry_description" : "Facilities Support Services12",
+  "size_standards_in_millions_of_dollars" : "38.5",
+  "footnotes" : "See footnote 12"
+}
+, {
+  "naics_codes" : "561311",
+  "naics_industry_description" : "Employment Placement Agencies",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "561312",
+  "naics_industry_description" : "Executive Search Services",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "561320",
+  "naics_industry_description" : "Temporary Help Services",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "561330",
+  "naics_industry_description" : "Professional Employer Organizations",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "561410",
+  "naics_industry_description" : "Document Preparation Services",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "561421",
+  "naics_industry_description" : "Telephone Answering Services",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "561422",
+  "naics_industry_description" : "Telemarketing Bureaus and Other contact Centers",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "561431",
+  "naics_industry_description" : "Private Mail Centers",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "561439",
+  "naics_industry_description" : "Other Business Service Centers (including Copy Shops)",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "561440",
+  "naics_industry_description" : "Collection Agencies",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "561450",
+  "naics_industry_description" : "Credit Bureaus",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "561491",
+  "naics_industry_description" : "Repossession Services",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "561492",
+  "naics_industry_description" : "Court Reporting and Stenotype Services",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "561499",
+  "naics_industry_description" : "All Other Business Support Services",
+  "size_standards_in_millions_of_dollars" : "15.0"
+}
+, {
+  "naics_codes" : "561510",
+  "naics_industry_description" : "Travel Agencies10",
+  "size_standards_in_millions_of_dollars" : "20.5",
+  "footnotes" : "See footnote 10"
+}
+, {
+  "naics_codes" : "561520",
+  "naics_industry_description" : "Tour Operators10",
+  "size_standards_in_millions_of_dollars" : "20.5",
+  "footnotes" : "See footnote 10"
+}
+, {
+  "naics_codes" : "561591",
+  "naics_industry_description" : "Convention and Visitors Bureaus",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "561599",
+  "naics_industry_description" : "All Other Travel Arrangement and Reservation Services",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "561611",
+  "naics_industry_description" : "Investigation Services",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "561612",
+  "naics_industry_description" : "Security Guards and Patrol Services",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "561613",
+  "naics_industry_description" : "Armored Car Services",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "561621",
+  "naics_industry_description" : "Security Systems Services (except Locksmiths)",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "561622",
+  "naics_industry_description" : "Locksmiths",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "561710",
+  "naics_industry_description" : "Exterminating and Pest Control Services",
+  "size_standards_in_millions_of_dollars" : "11.0"
+}
+, {
+  "naics_codes" : "561720",
+  "naics_industry_description" : "Janitorial Services",
+  "size_standards_in_millions_of_dollars" : "18.0"
+}
+, {
+  "naics_codes" : "561730",
+  "naics_industry_description" : "Landscaping Services",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "561740",
+  "naics_industry_description" : "Carpet and Upholstery Cleaning Services",
+  "size_standards_in_millions_of_dollars" : "5.5"
+}
+, {
+  "naics_codes" : "561790",
+  "naics_industry_description" : "Other Services to Buildings and Dwellings  ",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "561910",
+  "naics_industry_description" : "Packaging and Labeling Services",
+  "size_standards_in_millions_of_dollars" : "11.0"
+}
+, {
+  "naics_codes" : "561920",
+  "naics_industry_description" : "Convention and Trade Show Organizers10",
+  "size_standards_in_millions_of_dollars" : "11.0",
+  "footnotes" : "See footnote 10"
+}
+, {
+  "naics_codes" : "561990",
+  "naics_industry_description" : "All Other Support Services",
+  "size_standards_in_millions_of_dollars" : "11.0"
+}
+, { }
+, {
+  "naics_codes" : "562111",
+  "naics_industry_description" : "Solid Waste Collection",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "562112",
+  "naics_industry_description" : "Hazardous Waste Collection",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "562119",
+  "naics_industry_description" : "Other Waste Collection",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "562211",
+  "naics_industry_description" : "Hazardous Waste Treatment and Disposal",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "562212",
+  "naics_industry_description" : "Solid Waste Landfill",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "562213",
+  "naics_industry_description" : "Solid Waste Combustors and Incinerators",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "562219",
+  "naics_industry_description" : "Other Nonhazardous Waste Treatment and Disposal  ",
+  "size_standards_in_millions_of_dollars" : "38.5"
+}
+, {
+  "naics_codes" : "562910",
+  "naics_industry_description" : "Remediation Services",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_industry_description" : "Environmental Remediation Services14",
+  "footnotes" : "See footnote 14",
+  "size_standards_in_number_of_employees" : "500"
+}
+, {
+  "naics_codes" : "562920",
+  "naics_industry_description" : "Materials Recovery Facilities",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "562991",
+  "naics_industry_description" : "Septic Tank and Related Services",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_codes" : "562998",
+  "naics_industry_description" : "All Other Miscellaneous Waste Management Services",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+, {
+  "naics_industry_description" : "Sector 61 – Educational Services"
+}
+, { }
+, {
+  "naics_codes" : "611110",
+  "naics_industry_description" : "Elementary and Secondary Schools",
+  "size_standards_in_millions_of_dollars" : "11.0"
+}
+, {
+  "naics_codes" : "611210",
+  "naics_industry_description" : "Junior Colleges",
+  "size_standards_in_millions_of_dollars" : "20.5"
+}
+, {
+  "naics_codes" : "611310",
+  "naics_industry_description" : "Colleges, Universities and Professional Schools",
+  "size_standards_in_millions_of_dollars" : "27.5"
+}
+, {
+  "naics_codes" : "611410",
+  "naics_industry_description" : "Business and Secretarial Schools",
+  "size_standards_in_millions_of_dollars" : "7.5"
+}
+ ]

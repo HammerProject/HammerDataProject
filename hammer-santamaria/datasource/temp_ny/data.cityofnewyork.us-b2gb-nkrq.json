@@ -1,0 +1,377 @@
+[ {
+  "team_total" : "1",
+  "label_cd" : "Manhattan CD 1",
+  "borocd" : "101",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Manhattan 1"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Manhattan CD 2",
+  "borocd" : "102",
+  "cert_status" : "Active CERT team",
+  "updated" : "2011-09-21T00:00:00",
+  "team_name" : "Manhattan 2"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Manhattan CD 3",
+  "borocd" : "103",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Manhattan 3"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Manhattan CD 4 & 5",
+  "borocd" : "104/105",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Manhattan 4/5"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Manhattan CD 6",
+  "borocd" : "106",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Manhattan 6"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Manhattan CD 7",
+  "borocd" : "107",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Manhattan 7"
+}
+, {
+  "team_total" : "3",
+  "label_cd" : "Manhattan CD8",
+  "borocd" : "108",
+  "cert_status" : "Active CERT team",
+  "updated" : "2016-01-11T00:00:00",
+  "team_name" : "Manhattan 8"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Manhattan CD 9",
+  "borocd" : "109",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-07-28T00:00:00",
+  "team_name" : "Manhattan 9"
+}
+, {
+  "team_total" : "2",
+  "label_cd" : "Manhattan CD 10",
+  "borocd" : "110",
+  "cert_status" : "Active CERT team",
+  "updated" : "2016-01-11T00:00:00",
+  "team_name" : "Manhattan 10"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Manhattan CD 11",
+  "borocd" : "111",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Manhattan 11"
+}
+, {
+  "team_total" : "2",
+  "label_cd" : "Manhattan CD 12",
+  "borocd" : "112",
+  "cert_status" : "Active CERT team",
+  "updated" : "2016-01-11T00:00:00",
+  "team_name" : "Manhattan 12"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Bronx CD 1",
+  "borocd" : "201",
+  "cert_status" : "Active CERT team",
+  "updated" : "2015-06-16T00:00:00",
+  "team_name" : "Bronx 1"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Bronx CD 3",
+  "borocd" : "203",
+  "cert_status" : "Active CERT team",
+  "updated" : "2011-09-21T00:00:00",
+  "team_name" : "Bronx 3"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Bronx CD 4",
+  "borocd" : "204",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Bronx 4"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Bronx CD 5 and 6",
+  "borocd" : "205/206",
+  "cert_status" : "Active CERT team",
+  "updated" : "2016-01-11T00:00:00",
+  "team_name" : "Bronx 5/6"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Bronx CD 7",
+  "borocd" : "207",
+  "cert_status" : "Active CERT team",
+  "updated" : "2015-06-26T00:00:00",
+  "team_name" : "Bronx 7"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Bronx CD 8",
+  "borocd" : "208",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Bronx 8"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Bronx CD 10",
+  "borocd" : "210",
+  "cert_status" : "Active CERT team",
+  "updated" : "2011-09-21T00:00:00",
+  "team_name" : "Bronx 10 - Co-op City"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Bronx CD 11",
+  "borocd" : "211",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Bronx 11"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Bronx CD 12",
+  "borocd" : "212",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-07-28T00:00:00",
+  "team_name" : "Bronx 12"
+}
+, {
+  "team_total" : "2",
+  "label_cd" : "Brooklyn CD 1",
+  "borocd" : "301",
+  "cert_status" : "Active CERT team",
+  "updated" : "2015-06-16T00:00:00",
+  "team_name" : "Brooklyn 1"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Brooklyn CD 2",
+  "borocd" : "302",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Brooklyn 2"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Brooklyn CD 3 & 4",
+  "borocd" : "303/204",
+  "cert_status" : "Active CERT team",
+  "updated" : "2015-06-16T00:00:00",
+  "team_name" : "Brooklyn 3/4"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Brooklyn CD 5",
+  "borocd" : "305",
+  "cert_status" : "Active CERT team",
+  "updated" : "2015-06-26T00:00:00",
+  "team_name" : "Brooklyn 12"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Brooklyn CD 6",
+  "borocd" : "306",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Brooklyn 6"
+}
+, {
+  "team_total" : "2",
+  "label_cd" : "Brooklyn CD 7",
+  "borocd" : "307",
+  "cert_status" : "Active CERT team",
+  "updated" : "2015-06-16T00:00:00",
+  "team_name" : "Brooklyn 7"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Brooklyn CD 8",
+  "borocd" : "308",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Brooklyn 8"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Brooklyn CD 9",
+  "borocd" : "309",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Brooklyn 9"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Brooklyn CD 10 & 11",
+  "borocd" : "310/311",
+  "cert_status" : "Active CERT team",
+  "updated" : "2015-06-16T00:00:00",
+  "team_name" : "Brooklyn 10/11"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Brooklyn CD 12 and 5",
+  "borocd" : "312/305",
+  "cert_status" : "Active CERT team",
+  "updated" : "2016-01-11T00:00:00",
+  "team_name" : "Brooklyn 12"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Brooklyn CD 12",
+  "borocd" : "312",
+  "cert_status" : "Active CERT team",
+  "updated" : "2011-09-21T00:00:00",
+  "team_name" : "Brooklyn 12"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Brooklyn CD 13",
+  "borocd" : "313",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Brooklyn 13"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Brooklyn CD 14",
+  "borocd" : "314",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Brooklyn 14"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Brooklyn CD 15",
+  "borocd" : "315",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Brooklyn 15"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Brooklyn CD 16",
+  "borocd" : "316",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Brooklyn 16"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Brooklyn CD 18",
+  "borocd" : "318",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Brooklyn 18"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Queens CD 1 & 2",
+  "borocd" : "401/402",
+  "cert_status" : "Active CERT team",
+  "updated" : "2015-06-16T00:00:00",
+  "team_name" : "Queens 1/2"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Queens CD 3",
+  "borocd" : "403",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Queens 3"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Queens CD 4",
+  "borocd" : "404",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Queens 4"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Queens CD 5",
+  "borocd" : "405",
+  "cert_status" : "Active CERT team",
+  "updated" : "2015-06-16T00:00:00",
+  "team_name" : "Queens 5 - GVAC"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Queens CD 6",
+  "borocd" : "406",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Queens 6"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Queens CD 7 & 11",
+  "borocd" : "407/411",
+  "cert_status" : "Active CERT team",
+  "updated" : "2015-06-26T00:00:00",
+  "team_name" : "Queens 7/11"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Queens CD 8",
+  "borocd" : "408",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Queens 8"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Queens CD 9 and 10",
+  "borocd" : "409/410",
+  "cert_status" : "Active CERT team",
+  "updated" : "2016-01-11T00:00:00",
+  "team_name" : "Queens 9"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Queens CD 12 & 13",
+  "borocd" : "412/413",
+  "cert_status" : "Active CERT team",
+  "updated" : "2015-06-16T00:00:00",
+  "team_name" : "Queens 12/13"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Queens CD 14",
+  "borocd" : "414",
+  "cert_status" : "Active CERT team",
+  "updated" : "2010-05-19T00:00:00",
+  "team_name" : "Queens 14"
+}
+, {
+  "team_total" : "1",
+  "label_cd" : "Staten Island CD 1 & 2 & 3",
+  "borocd" : "501/502/503",
+  "cert_status" : "Active CERT team",
+  "updated" : "2015-06-16T00:00:00",
+  "team_name" : "Staten Island 1 - Port Richmond"
+}
+ ]

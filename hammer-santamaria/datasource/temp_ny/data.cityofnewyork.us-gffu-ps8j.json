@@ -1,0 +1,100 @@
+[ {
+  "dividends_and_interest_dollars_in_millions" : "918.9",
+  "percentage" : "0.5",
+  "business_income" : "-4832",
+  "wages_and_saleries_dollars_in_millions" : "830.7",
+  "percent" : "6.6",
+  "income_group" : "1st Decile",
+  "_" : "-16.7"
+}
+, {
+  "dividends_and_interest_dollars_in_millions" : "233.4",
+  "percentage" : "0.7",
+  "business_income" : "731.3",
+  "wages_and_saleries_dollars_in_millions" : "1202.5999999999999",
+  "percent" : "1.7",
+  "income_group" : "2nd Decile",
+  "_" : "2.5"
+}
+, {
+  "dividends_and_interest_dollars_in_millions" : "237.8",
+  "percentage" : "1.5",
+  "business_income" : "1011.4",
+  "wages_and_saleries_dollars_in_millions" : "2511.8000000000002",
+  "percent" : "1.7",
+  "income_group" : "3rd Decile",
+  "_" : "3.5"
+}
+, {
+  "dividends_and_interest_dollars_in_millions" : "237.1",
+  "percentage" : "2.7",
+  "business_income" : "722.6",
+  "wages_and_saleries_dollars_in_millions" : "4483.1000000000004",
+  "percent" : "1.7",
+  "income_group" : "4th Decile",
+  "_" : "2.5"
+}
+, {
+  "dividends_and_interest_dollars_in_millions" : "244.6",
+  "percentage" : "4.4000000000000004",
+  "business_income" : "506.2",
+  "wages_and_saleries_dollars_in_millions" : "7220.8",
+  "percent" : "1.8",
+  "income_group" : "5th Decile",
+  "_" : "1.8"
+}
+, {
+  "dividends_and_interest_dollars_in_millions" : "340.5",
+  "percentage" : "6.3",
+  "business_income" : "367.4",
+  "wages_and_saleries_dollars_in_millions" : "10346.299999999999",
+  "percent" : "2.4",
+  "income_group" : "6th Decile",
+  "_" : "1.3"
+}
+, {
+  "dividends_and_interest_dollars_in_millions" : "376.3",
+  "percentage" : "8.5",
+  "business_income" : "225.9",
+  "wages_and_saleries_dollars_in_millions" : "13983.3",
+  "percent" : "2.7",
+  "income_group" : "7th Decile",
+  "_" : "0.8"
+}
+, {
+  "dividends_and_interest_dollars_in_millions" : "529.70000000000005",
+  "percentage" : "11.2",
+  "business_income" : "493",
+  "wages_and_saleries_dollars_in_millions" : "18542.3",
+  "percent" : "3.8",
+  "income_group" : "8th Decile",
+  "_" : "1.7"
+}
+, {
+  "dividends_and_interest_dollars_in_millions" : "698.1",
+  "percentage" : "16.2",
+  "business_income" : "747.4",
+  "wages_and_saleries_dollars_in_millions" : "26864.7",
+  "percent" : "5",
+  "income_group" : "9th Decile",
+  "_" : "2.6"
+}
+, {
+  "dividends_and_interest_dollars_in_millions" : "10137.5",
+  "percentage" : "48",
+  "business_income" : "28920.5",
+  "wages_and_saleries_dollars_in_millions" : "79252.399999999994",
+  "percent" : "72.599999999999994",
+  "income_group" : "10th Decile",
+  "_" : "100.1"
+}
+, {
+  "dividends_and_interest_dollars_in_millions" : "13953.9",
+  "percentage" : "100",
+  "business_income" : "28893.4",
+  "wages_and_saleries_dollars_in_millions" : "165237.9",
+  "percent" : "100",
+  "income_group" : "Total",
+  "_" : "100"
+}
+ ]

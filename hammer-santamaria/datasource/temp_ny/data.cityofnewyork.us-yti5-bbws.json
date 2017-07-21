@@ -1,0 +1,372 @@
+[ {
+  "default" : "1000",
+  "code" : " W01",
+  "section_subdivision_description" : "WASTING OR NOT CONSERVING WATER FOR COMMERCIAL OR INDUSTRIAL USE; STAGE I",
+  "penalty" : "400",
+  "rcny" : "AC 24-337"
+}
+, {
+  "default" : "1000",
+  "code" : " W02",
+  "section_subdivision_description" : "ILLEGAL WASTE OF WATER DURING DROUGHT; (RESIDENTIAL);  STAGE I",
+  "penalty" : "250",
+  "rcny" : "AC 24-337"
+}
+, {
+  "default" : "1000",
+  "code" : " W03",
+  "section_subdivision_description" : "ALLOWING LEAK OR WASTE OF WATER FROM FAUCETS, W.C.'S, ETC.;  STAGE I",
+  "penalty" : "250",
+  "rcny" : "21-03 (a)"
+}
+, {
+  "default" : "1000",
+  "code" : " W04",
+  "section_subdivision_description" : " USING PUBLIC WATER TO WASH VEHICLES; STAGE I",
+  "penalty" : "250",
+  "rcny" : "21-03 (b)"
+}
+, {
+  "default" : "1000",
+  "code" : " W05",
+  "section_subdivision_description" : "USING WATER TO SPRAY OR WASH SIDEWALK, STREET;  STAGE I",
+  "penalty" : "250",
+  "rcny" : "21-03 (c)"
+}
+, {
+  "default" : "1000",
+  "code" : " W06",
+  "section_subdivision_description" : "USING ANY WATER FOR ORNAMENTAL PURPOSES; STAGE I",
+  "penalty" : "250",
+  "rcny" : "21-03 (d)"
+}
+, {
+  "default" : "1000",
+  "code" : " W07",
+  "section_subdivision_description" : "USING WATER FOR LAWNS, GOLF COURSE, PLANTS, TREES;  STAGE I",
+  "penalty" : "250",
+  "rcny" : "21-03 (e)"
+}
+, {
+  "default" : "1000",
+  "code" : " W08",
+  "section_subdivision_description" : "FAILURE TO POST PROPER IRRIGATION SYSTEM SIGN; STAGE I",
+  "penalty" : "100",
+  "rcny" : "21-03 (e) (3)"
+}
+, {
+  "default" : "1000",
+  "code" : " W09",
+  "section_subdivision_description" : "ILLEGAL USE OF FIRE HYDRANTS; STAGE I",
+  "penalty" : "750",
+  "rcny" : "21-03 (f)"
+}
+, {
+  "default" : "1000",
+  "code" : " W10",
+  "section_subdivision_description" : "SERVING WATER WITHOUT REQUEST; STAGE I",
+  "penalty" : "250",
+  "rcny" : " 21-03 (g)"
+}
+, {
+  "default" : "1000",
+  "code" : " W11",
+  "section_subdivision_description" : "A/C OR REFRIG. UNIT WITHOUT APPROVED WATER CONSERV. DEVICE; STAGE I",
+  "penalty" : "300",
+  "rcny" : "21-03 (h)"
+}
+, {
+  "default" : "1000",
+  "code" : " W12",
+  "section_subdivision_description" : "DUMPING COOLING TOWER  WATER; STAGE I",
+  "penalty" : "750",
+  "rcny" : "21-03 (h)"
+}
+, {
+  "default" : "1000",
+  "code" : " W13",
+  "section_subdivision_description" : "USE OF PUBLIC WATER FOR POOLS; STAGE I",
+  "penalty" : "250",
+  "rcny" : " 21-03 (i)"
+}
+, {
+  "default" : "1000",
+  "code" : " W14",
+  "section_subdivision_description" : "USE OF NONCOMPLYING SHOWERHEAD(S); STAGE I",
+  "penalty" : "250",
+  "rcny" : "21-03 (j)"
+}
+, {
+  "default" : "1000",
+  "code" : " W15",
+  "section_subdivision_description" : "FAILURE TO REDUCE WATER BY 15% FOR NON-RESIDENTIAL USE; STAGE I",
+  "penalty" : "300",
+  "rcny" : "21-04"
+}
+, {
+  "default" : "1000",
+  "code" : " W16",
+  "section_subdivision_description" : "FAILURE TO POST \"SAVE WATER\" SIGNS; STAGE I",
+  "penalty" : "100",
+  "rcny" : "21-05"
+}
+, {
+  "default" : "1000",
+  "code" : " W17",
+  "section_subdivision_description" : "WASTING OR NOT CONSERVING WATER FOR COMMERCIAL OR INDUSTRIAL USE; STAGE II",
+  "penalty" : "500",
+  "rcny" : "AC 24-337"
+}
+, {
+  "default" : "1000",
+  "code" : " W18",
+  "section_subdivision_description" : "ILLEGAL WASTE OF WATER DURING DROUGHT; (RES);  STAGE II",
+  "penalty" : "350",
+  "rcny" : "AC 24-337"
+}
+, {
+  "default" : "1000",
+  "code" : " W19",
+  "section_subdivision_description" : "ALLOWING LEAK OR WASTE OF WATER FROM FAUCETS, W.C.'S, ETC.;  STAGE II",
+  "penalty" : "350",
+  "rcny" : "21-23 (a)"
+}
+, {
+  "default" : "1000",
+  "code" : " W20",
+  "section_subdivision_description" : "USING PUBLIC WATER TO WASH VEHICLES; STAGE II",
+  "penalty" : "350",
+  "rcny" : "21-23 (b)"
+}
+, {
+  "default" : "1000",
+  "code" : " W21",
+  "section_subdivision_description" : "USING WATER TO SPRAY OR WASH SIDEWALK, STREET, BUILDING;   STAGE II",
+  "penalty" : "350",
+  "rcny" : "21-23 (c)"
+}
+, {
+  "default" : "1000",
+  "code" : " W22",
+  "section_subdivision_description" : "USING ANY WATER FOR ORNAMENTAL PURPOSES;  STAGE II",
+  "penalty" : "350",
+  "rcny" : "21-23 (d)"
+}
+, {
+  "default" : "1000",
+  "code" : " W23",
+  "section_subdivision_description" : "USING WATER FOR LAWNS, GOLF COURSE, PLANTS, TREES;  STAGE II",
+  "penalty" : "350",
+  "rcny" : "21-23 (e)"
+}
+, {
+  "default" : "1000",
+  "code" : " W24",
+  "section_subdivision_description" : "FAILURE TO POST PROPER IRRIGATION SYSTEM SIGN; STAGE II",
+  "penalty" : "200",
+  "rcny" : "21-23 (e) (1)"
+}
+, {
+  "default" : "1000",
+  "code" : " W25",
+  "section_subdivision_description" : "ILLEGAL USE OF FIRE HYDRANTS;  STAGE II",
+  "penalty" : "750",
+  "rcny" : "21-23 (f)"
+}
+, {
+  "default" : "1000",
+  "code" : " W26",
+  "section_subdivision_description" : "SERVING WATER WITHOUT REQUEST;  STAGE II",
+  "penalty" : "350",
+  "rcny" : "21-23 (g)"
+}
+, {
+  "default" : "1000",
+  "code" : " W27",
+  "section_subdivision_description" : "A/C OR REFRIG. UNIT WITHOUT APPROVED WATER CONSERVATION DEVICE;  STAGE II",
+  "penalty" : "400",
+  "rcny" : "21-23 (h)"
+}
+, {
+  "default" : "1000",
+  "code" : " W28",
+  "section_subdivision_description" : "DUMPING COOLING TOWER  WATER;  STAGE II",
+  "penalty" : "850",
+  "rcny" : "21-23 (h)"
+}
+, {
+  "default" : "1000",
+  "code" : " W29",
+  "section_subdivision_description" : "USE OF PUBLIC WATER FOR POOLS;  STAGE II",
+  "penalty" : "350",
+  "rcny" : " 21-23 (i)"
+}
+, {
+  "default" : "1000",
+  "code" : " W30",
+  "section_subdivision_description" : "USE OF NONCOMPLYING SHOWERHEAD(S);  STAGE II",
+  "penalty" : "350",
+  "rcny" : "21-23 (j)"
+}
+, {
+  "default" : "1000",
+  "code" : " W31",
+  "section_subdivision_description" : "FAILURE TO REDUCE WATER BY 20% (NON-RESIDENTIAL USE);  STAGE II",
+  "penalty" : "300",
+  "rcny" : "21-24"
+}
+, {
+  "default" : "1000",
+  "code" : " W32",
+  "section_subdivision_description" : "FAILURE TO POST \"SAVE WATER\" SIGNS;  STAGE II",
+  "penalty" : "200",
+  "rcny" : "21-25"
+}
+, {
+  "default" : "1000",
+  "code" : " W33",
+  "section_subdivision_description" : "WASTING OR NOT CONSERVING WATER FOR COMMERCIAL OR INDUSTRIAL USE; STAGE III",
+  "penalty" : "600",
+  "rcny" : "AC 24-337"
+}
+, {
+  "default" : "1000",
+  "code" : " W34",
+  "section_subdivision_description" : "ILLEGAL WASTE OF WATER DURING DROUGHT; (RESIDENTIAL); STAGE III",
+  "penalty" : "450",
+  "rcny" : "AC 24-337"
+}
+, {
+  "default" : "1000",
+  "code" : " W35",
+  "section_subdivision_description" : "ALLOWING LEAK OF WASTE OF WATER FROM FAUCETS, WC'S, ETC.;  STAGE III",
+  "penalty" : "550",
+  "rcny" : "21-43 (a)"
+}
+, {
+  "default" : "1000",
+  "code" : " W36",
+  "section_subdivision_description" : "USING PUBLIC WATER TO WASH VEHICLES;  STAGE III",
+  "penalty" : "550",
+  "rcny" : "21-43 (b)"
+}
+, {
+  "default" : "1000",
+  "code" : " W37",
+  "section_subdivision_description" : "USING WATER TO SPRAY OR WASH SIDEWALK, STREET, BUILDING;  STAGE III",
+  "penalty" : "550",
+  "rcny" : "21-43 (c)"
+}
+, {
+  "default" : "1000",
+  "code" : " W38",
+  "section_subdivision_description" : "USING ANY WATER FOR ORNAMENTAL PURPOSES;  STAGE III",
+  "penalty" : "550",
+  "rcny" : "21-43 (d)"
+}
+, {
+  "default" : "1000",
+  "code" : " W39",
+  "section_subdivision_description" : "USING WATER FOR LAWNS, GOLF COURSES, PLANTS, TREES;  STAGE III",
+  "penalty" : "550",
+  "rcny" : "21-43 (e) "
+}
+, {
+  "default" : "1000",
+  "code" : " W40",
+  "section_subdivision_description" : "FAILURE TO POST PROPER IRRIGATION SYSTEM SIGN; STAGE III",
+  "penalty" : "400",
+  "rcny" : "21-43 (e) (2)"
+}
+, {
+  "default" : "1000",
+  "code" : " W41",
+  "section_subdivision_description" : "ILLEGAL USE OF FIRE HYDRANT(S);  STAGE III",
+  "penalty" : "750",
+  "rcny" : "21-43 (f)"
+}
+, {
+  "default" : "1000",
+  "code" : " W42",
+  "section_subdivision_description" : "SERVING WATER WITHOUT REQUEST; STAGE III",
+  "penalty" : "550",
+  "rcny" : "21-43 (g)"
+}
+, {
+  "default" : "1000",
+  "code" : " W43",
+  "section_subdivision_description" : "A/C OR REFRIG. UNIT WITHOUT APPROVED WATER CONSERV. DEVICE; STAGE III",
+  "penalty" : "950",
+  "rcny" : "21-43 (h)"
+}
+, {
+  "default" : "1000",
+  "code" : " W44",
+  "section_subdivision_description" : "DUMPING COOLING TOWER  WATER;  STAGE III",
+  "penalty" : "950",
+  "rcny" : "21-43 (h)"
+}
+, {
+  "default" : "1000",
+  "code" : " W45",
+  "section_subdivision_description" : "USE OF PUBLIC WATER FOR POOLS;  STAGE III",
+  "penalty" : "950",
+  "rcny" : "21-43 (i)"
+}
+, {
+  "default" : "1000",
+  "code" : " W46",
+  "section_subdivision_description" : "USE OF NONCOMPLYING SHOWERHEAD(S); STAGE III",
+  "penalty" : "450",
+  "rcny" : "21-43 (j)"
+}
+, {
+  "default" : "1000",
+  "code" : " W47",
+  "section_subdivision_description" : "USE OF WATER COOLED A/C SYSTEM, BELOW 79 DEGREES F.;  STAGE III",
+  "penalty" : "400",
+  "rcny" : "21-43 (k)"
+}
+, {
+  "default" : "1000",
+  "code" : " W48",
+  "section_subdivision_description" : "FAILURE TO REDUCE USE OF WATER BY 25% (NON-RESIDENTIAL USE) ; STAGE III ",
+  "penalty" : "300",
+  "rcny" : "21-44"
+}
+, {
+  "default" : "1000",
+  "code" : " W49",
+  "section_subdivision_description" : "FAILURE TO POST \"SAVE WATER\" SIGNS;  STAGE III",
+  "penalty" : "300",
+  "rcny" : "21-45"
+}
+, {
+  "default" : "1000",
+  "code" : " W50",
+  "section_subdivision_description" : "USE OF WELLWATER WITHOUT PERMIT / SIGN / PROPER CONNECTION;  STAGE III",
+  "penalty" : "400",
+  "rcny" : "21-46"
+}
+, {
+  "default" : "1000",
+  "code" : " W-51",
+  "section_subdivision_description" : "ILLEGAL USE OF HYDRANT(S) - VIOLATION ALREADY ESTABLISHED",
+  "penalty" : "750",
+  "rcny" : "AC 24-308"
+}
+, {
+  "default" : "1000",
+  "code" : " W-52",
+  "section_subdivision_description" : "ILLEGAL WASTE OF WATER (RESIDENTIAL) - VIOLATION ALREADY ESTABLISHED",
+  "penalty" : "250",
+  "rcny" : "AC 24-337"
+}
+, {
+  "default" : "1000",
+  "code" : " W-53",
+  "section_subdivision_description" : "DISTRIBUTION/SALE/IMPORT/INSTALLATION OF WATER WASTING PLUMBING FIXTURES - VIOLATION ALREADY ESTABLISHED",
+  "penalty" : "475",
+  "rcny" : "AC 24-339"
+}
+ ]

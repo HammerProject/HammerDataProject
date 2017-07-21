@@ -1,0 +1,31 @@
+[ {
+  "street_address" : "350 Jay Street",
+  "comments" : "Walk-in Services are available",
+  "city" : "Brooklyn",
+  "telephone_number" : "718-250-5111",
+  "timings" : "M-F - 9 AM - 5 PM",
+  "borough" : "Brooklyn",
+  "state" : "NY",
+  "facility_name" : "Family Justice Center"
+}
+, {
+  "street_address" : "198 E. 161st Street",
+  "comments" : "Walk-in Services are available",
+  "city" : "Bronx",
+  "telephone_number" : "718-508-1222",
+  "timings" : "M-F - 9 AM - 5 PM",
+  "borough" : "Bronx",
+  "state" : "NY",
+  "facility_name" : "Family Justice Center"
+}
+, {
+  "street_address" : "126-02 82nd Avenue",
+  "comments" : "Walk-in Services are available",
+  "city" : "Queens",
+  "telephone_number" : "718-575-4500",
+  "timings" : "M-F - 9 AM - 5 PM",
+  "borough" : "Queens",
+  "state" : "NY",
+  "facility_name" : "Family Justice Center"
+}
+ ]

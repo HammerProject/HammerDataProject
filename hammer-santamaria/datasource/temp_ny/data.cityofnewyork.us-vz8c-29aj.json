@@ -1,0 +1,170 @@
+[ {
+  "location_1" : {
+    "latitude" : "40.86260132868841",
+    "human_address" : "{\"address\":\"1 Fordham Plaza\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10458\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88479001504714"
+  },
+  "hours" : "Monday-Friday, 8:00am-3:00pm",
+  "phone" : "718-935-2178",
+  "districts_served" : "7, 9, 10",
+  "borough" : "Bronx",
+  "zip_code" : "10458"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.83350254294294",
+    "human_address" : "{\"address\":\"1230 Zerega Avenue\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10462\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.84505192808636"
+  },
+  "hours" : "Monday-Friday, 8:00am-3:00pm",
+  "phone" : "718-935-2278",
+  "districts_served" : "8, 11, 12",
+  "borough" : "Bronx",
+  "zip_code" : "10462"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.61861566079161",
+    "human_address" : "{\"address\":\"1780 Ocean Avenue\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11230\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95514627992958"
+  },
+  "hours" : "Monday-Friday, 8:00am-3:00pm",
+  "phone" : "718-935-2313",
+  "districts_served" : "17, 18, 22",
+  "borough" : "Brooklyn",
+  "zip_code" : "11230"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.62041885015069",
+    "human_address" : "{\"address\":\"415 89th Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11209\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.02900947197249"
+  },
+  "hours" : "Monday-Friday, 8:00am-3:00pm",
+  "phone" : "718-935-2331",
+  "districts_served" : "20, 21",
+  "borough" : "Brooklyn",
+  "zip_code" : "11209"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.67315873575299",
+    "human_address" : "{\"address\":\"1665 St Mark's Avenue\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11233\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9119837092521"
+  },
+  "hours" : "Monday-Friday, 8:00am-3:00pm",
+  "phone" : "718-935-2340",
+  "districts_served" : "19, 23, 32",
+  "borough" : "Brooklyn",
+  "zip_code" : "11233"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68897153307231",
+    "human_address" : "{\"address\":\"29 Fort Greene Place\",\"city\":\"Brooklyn (Note: General Education Only\",\"state\":\"NY\",\"zip\":\"11217\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97689848785359"
+  },
+  "hours" : "Monday-Friday, 8:00am-3:00pm",
+  "phone" : "718-935-2371",
+  "districts_served" : "13, 14, 15, 16",
+  "borough" : "Brooklyn (Note: General Education Only)",
+  "zip_code" : "11217"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69077924928718",
+    "human_address" : "{\"address\":\"131 Livingston Street\",\"city\":\"Brooklyn (Note: Special Education Only\",\"state\":\"NY\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9886151753521"
+  },
+  "hours" : "Monday-Friday, 8:00am-3:00pm",
+  "phone" : "718-935-4908",
+  "districts_served" : "13, 14, 15, 16",
+  "borough" : "Brooklyn (Note: Special Education Only)",
+  "zip_code" : "11201"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.747492275236596",
+    "human_address" : "{\"address\":\"333 Seventh Avenue\",\"city\":\"Manhattan\",\"state\":\"NY\",\"zip\":\"10001\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99319231774615"
+  },
+  "hours" : "Monday-Friday, 8:00am-3:00pm",
+  "phone" : "718-935-2383",
+  "districts_served" : "1, 2, 4",
+  "borough" : "Manhattan",
+  "zip_code" : "10001"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.81124166756702",
+    "human_address" : "{\"address\":\"388 125th Street\",\"city\":\"Manhattan\",\"state\":\"NY\",\"zip\":\"10027\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9537766018919"
+  },
+  "hours" : "Monday-Friday, 8:00am-3:00pm",
+  "phone" : "718-935-2385",
+  "districts_served" : "3, 5, 6",
+  "borough" : "Manhattan",
+  "zip_code" : "10027"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"28 11 Queens Plaza\",\"city\":\"Queens\",\"state\":\"NY\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225"
+  },
+  "hours" : "Monday-Friday, 8:00am-3:00pm",
+  "phone" : "718-935-2386",
+  "districts_served" : "24, 30",
+  "borough" : "Queens",
+  "zip_code" : "11101"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.76862022064671",
+    "human_address" : "{\"address\":\"30 48 Linden Place\",\"city\":\"Queens\",\"state\":\"NY\",\"zip\":\"11354\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82719028070687"
+  },
+  "hours" : "Monday-Friday, 8:00am-3:00pm",
+  "phone" : "718-935-2391",
+  "districts_served" : "25, 26",
+  "borough" : "Queens",
+  "zip_code" : "11354"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.70119264912154",
+    "human_address" : "{\"address\":\"90 27 Sutphin Boulevard\",\"city\":\"Queens\",\"state\":\"NY\",\"zip\":\"11435\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.80979665579099"
+  },
+  "hours" : "Monday-Friday, 8:00am-3:00pm",
+  "phone" : "718-935-2393",
+  "districts_served" : "27, 28, 29",
+  "borough" : "Queens",
+  "zip_code" : "11435"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.60837741930288",
+    "human_address" : "{\"address\":\"718 Ocean Terrace\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10301\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.10186829020036"
+  },
+  "hours" : "Monday-Friday, 8:00am-3:00pm",
+  "phone" : "718-935-2402",
+  "districts_served" : "31",
+  "borough" : "Staten Island",
+  "zip_code" : "10301"
+}
+ ]

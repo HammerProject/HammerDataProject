@@ -1,0 +1,808 @@
+[ {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "year" : "2012",
+  "program_name" : "Community Development Block Grant (CDBG)",
+  "project_code" : "C-OMB-0000",
+  "amount_city_expects_to_receive" : "231486000"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "1377000",
+  "year" : "2012",
+  "program_name" : "7A Program",
+  "project_code" : "C-HPD-0085"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "2043000",
+  "year" : "2012",
+  "program_name" : "Adult Literacy Program",
+  "project_code" : "C-VARIOUS-0204"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "8236000",
+  "year" : "2012",
+  "program_name" : "Alternative Enforcement Program",
+  "project_code" : "C-HPD-0206"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "2035000",
+  "year" : "2012",
+  "program_name" : "Avenue NYC",
+  "project_code" : "C-SBS-0026"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "5949000",
+  "year" : "2012",
+  "program_name" : "Beacon School Program",
+  "project_code" : "C-DYCD-0142"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "198000",
+  "year" : "2012",
+  "program_name" : "Bronx River Project",
+  "project_code" : "C-DPR-0055"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "2326000",
+  "year" : "2012",
+  "program_name" : "CDBG Administration",
+  "project_code" : "C-VARIOUS-0063"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "4750000",
+  "year" : "2012",
+  "program_name" : "Code Violation Removal in Schools",
+  "project_code" : "C-DOEd-0165"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "1665000",
+  "year" : "2012",
+  "program_name" : "Commission on Human Rights Law Enforcement Program",
+  "project_code" : "C-CHR-0040"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "3747000",
+  "year" : "2012",
+  "program_name" : "Commission on Human Rights Neighborhood Human Rights Program",
+  "project_code" : "C-CHR-0051"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "220000",
+  "year" : "2012",
+  "program_name" : "Community Arts Development Program",
+  "project_code" : "C-DCA-0079"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "12758000",
+  "year" : "2012",
+  "program_name" : "DCP Comprehensive Planning",
+  "project_code" : "C-DCP-0062"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "3047000",
+  "year" : "2012",
+  "program_name" : "DCP Information Technology",
+  "project_code" : "C-DCP-0061"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "2045000",
+  "year" : "2012",
+  "program_name" : "DFTA Senior Center Improvements",
+  "project_code" : "C-DFA-0183"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "3773000",
+  "year" : "2012",
+  "program_name" : "DHS Homeless Services",
+  "project_code" : "C-DHS-0182"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "3128000",
+  "year" : "2012",
+  "program_name" : "Day Care Center Services",
+  "project_code" : "C-ACS-0042"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "362000",
+  "year" : "2012",
+  "program_name" : "Elderly Minor Home Repair Program",
+  "project_code" : "C-DFA-0049"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "225000",
+  "year" : "2012",
+  "program_name" : "Elderly Safe-At-Home",
+  "project_code" : "C-CHA-0039"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "4393000",
+  "year" : "2012",
+  "program_name" : "Emergency Demolition Program",
+  "project_code" : "C-HPD-0171"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "42608000",
+  "year" : "2012",
+  "program_name" : "Emergency Repair Program",
+  "project_code" : "C-HPD-0009"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "829000",
+  "year" : "2012",
+  "program_name" : "GreenThumb",
+  "project_code" : "C-DPR-0053"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "4507000",
+  "year" : "2012",
+  "program_name" : "HPD Administration",
+  "project_code" : "C-HPD-0092"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "10729000",
+  "year" : "2012",
+  "program_name" : "HPD Emergency Shelters",
+  "project_code" : "C-HPD-0198"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "473000",
+  "year" : "2012",
+  "program_name" : "HPD Fair Housing Services Program",
+  "project_code" : "C-HPD-0024"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "4414000",
+  "year" : "2012",
+  "program_name" : "HPD Housing Policy Analysis and Statistical Research",
+  "project_code" : "C-HPD-0060"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "4809000",
+  "year" : "2012",
+  "program_name" : "HPD Neighborhood Preservation Offices",
+  "project_code" : "C-HPD-0137"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "2319000",
+  "year" : "2012",
+  "program_name" : "HPD Program Planning",
+  "project_code" : "C-HPD-0166"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "553000",
+  "year" : "2012",
+  "program_name" : "Homeless Outreach and Housing Placement Services",
+  "project_code" : "C-DHS-0046"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "128000",
+  "year" : "2012",
+  "program_name" : "Housing Information and Education",
+  "project_code" : "C-MAY-0048"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "1021000",
+  "year" : "2012",
+  "program_name" : "In Rem Building Maintenance and Repair Program",
+  "project_code" : "C-HPD-0090"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "2069000",
+  "year" : "2012",
+  "program_name" : "In Rem Building Maintenance and Repair Project Support",
+  "project_code" : "C-HPD-0015"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "545000",
+  "year" : "2012",
+  "program_name" : "In Rem Material Management and Procurement",
+  "project_code" : "C-HPD-0013"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "4080000",
+  "year" : "2012",
+  "program_name" : "In Rem Property Management Program",
+  "project_code" : "C-HPD-0014"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "181000",
+  "year" : "2012",
+  "program_name" : "In Rem Superintendent Contract",
+  "project_code" : "C-HPD-0012"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "533000",
+  "year" : "2012",
+  "program_name" : "LPC Planning",
+  "project_code" : "C-LPC-0202"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "539000",
+  "year" : "2012",
+  "program_name" : "Land Restoration Program",
+  "project_code" : "C-DPR-0054"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "145000",
+  "year" : "2012",
+  "program_name" : "Landmarks Historic Preservation Grant Program",
+  "project_code" : "C-LPC-0052"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "7050000",
+  "year" : "2012",
+  "program_name" : "Litigation (formerly Housing Litigation Division)",
+  "project_code" : "C-HPD-0084"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "606000",
+  "year" : "2012",
+  "program_name" : "Minipools",
+  "project_code" : "C-DPR-0095"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "867000",
+  "year" : "2012",
+  "program_name" : "NYC Business Solutions",
+  "project_code" : "C-SBS-0200"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "698000",
+  "year" : "2012",
+  "program_name" : "Neighborhood Housing Services",
+  "project_code" : "C-HPD-0000"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "803000",
+  "year" : "2012",
+  "program_name" : "Neighborhood Preservation Consultants",
+  "project_code" : "C-HPD-0114"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "19678000",
+  "year" : "2012",
+  "program_name" : "Neighborhood Vacant Lot Clean-Up Program",
+  "project_code" : "C-DSNY-0031"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "232000",
+  "year" : "2012",
+  "program_name" : "Project Open House for Disabled Persons",
+  "project_code" : "C-MAY-0047"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "17590000",
+  "year" : "2012",
+  "program_name" : "Property Disposition and Finance (Formerly In Rem Alternative Management Program)",
+  "project_code" : "C-HPD-0207"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "510000",
+  "year" : "2012",
+  "program_name" : "Prospect Park Special Administrator's Office",
+  "project_code" : "C-DPR-0032"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "735000",
+  "year" : "2012",
+  "program_name" : "Rehabilitation Services",
+  "project_code" : "C-HPD-0209"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "505000",
+  "year" : "2012",
+  "program_name" : "Rent Guidelines Board Support Staff",
+  "project_code" : "C-HPD-0199"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "3430000",
+  "year" : "2012",
+  "program_name" : "Safe Horizon",
+  "project_code" : "C-MOCJC-0037"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "415000",
+  "year" : "2012",
+  "program_name" : "Scorecard Program",
+  "project_code" : "C-MAY-0203"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "450000",
+  "year" : "2012",
+  "program_name" : "Senior Resident Advisor Program",
+  "project_code" : "C-CHA-0041"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "34321000",
+  "year" : "2012",
+  "program_name" : "Targeted Code Enforcement",
+  "project_code" : "C-HPD-0010"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "462000",
+  "year" : "2012",
+  "program_name" : "Van Cortlandt/Pelham Bay Parks Special Administrator's Office",
+  "project_code" : "C-DPR-0033"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "375000",
+  "year" : "2012",
+  "program_name" : "Met Council Food Pantry Program",
+  "project_code" : "C-DYCD-0174"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "year" : "2012",
+  "program_name" : "HOME INVESTMENT PARTNERSHIPS",
+  "project_code" : "H-HPD-0000",
+  "amount_city_expects_to_receive" : "60338441"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "6033844",
+  "year" : "2012",
+  "program_name" : "HPD Administration",
+  "project_code" : "H-HPD-0001"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "210321",
+  "year" : "2012",
+  "program_name" : "Neighborhood Entrepreneurs Program",
+  "project_code" : "H-HPD-0002"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "1772573",
+  "year" : "2012",
+  "program_name" : "Neighborhood Redevelopment Program",
+  "project_code" : "H-HPD-0003"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "2771284",
+  "year" : "2012",
+  "program_name" : "Participation Loan Program (Gut/Mod)",
+  "project_code" : "H-HPD-0004"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "22020741",
+  "year" : "2012",
+  "program_name" : "The Supportive Housing Program",
+  "project_code" : "H-HPD-0006"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "3760521",
+  "year" : "2012",
+  "program_name" : "Third Party Transfer",
+  "project_code" : "H-HPD-0010"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "114635",
+  "year" : "2012",
+  "program_name" : "Multifamily Homeownership (formerly Cornerstone Program)",
+  "project_code" : "H-HPD-0011"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "2735441",
+  "year" : "2012",
+  "program_name" : "Article 8A Loan Program",
+  "project_code" : "H-HPD-0012"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "2239796",
+  "year" : "2012",
+  "program_name" : "HUD MultiFamily Program",
+  "project_code" : "H-HPD-0028"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "1426301",
+  "year" : "2012",
+  "program_name" : "Multifamily Rental Mixed Income",
+  "project_code" : "H-HPD-0029"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "8734179",
+  "year" : "2012",
+  "program_name" : "Low Income Rental Program (formerly New MIRP)",
+  "project_code" : "H-HPD-0031"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "4465855",
+  "year" : "2012",
+  "program_name" : "Senior Housing Program (formerly Section 202 Housing Program)",
+  "project_code" : "H-HPD-0033"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "2031843",
+  "year" : "2012",
+  "program_name" : "HOME Tenant-Based Rental Assistance",
+  "project_code" : "H-HPD-0035"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "600016",
+  "year" : "2012",
+  "program_name" : "Special Projects (formerly DAMP Special Projects)",
+  "project_code" : "H-HPD-0036"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "1421090",
+  "year" : "2012",
+  "program_name" : "HomeFirst Down Payment Assistance Program",
+  "project_code" : "H-HPD-0201"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "year" : "2012",
+  "program_name" : "EMERGENCY SOLUTIONS GRANT",
+  "project_code" : "E-DHS-0000",
+  "amount_city_expects_to_receive" : "14146420"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "7472947",
+  "year" : "2012",
+  "program_name" : "Services to the Homeless",
+  "project_code" : "E-DHS-0002"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "906151",
+  "year" : "2012",
+  "program_name" : "Shelter Operating Costs",
+  "project_code" : "E-DHS-0003"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "3313403",
+  "year" : "2012",
+  "program_name" : "Homelessness Prevention",
+  "project_code" : "E-DHS-0004"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "1962843",
+  "year" : "2012",
+  "program_name" : "Rapid Re-Housing: Housing Relocation and Stabilization Services",
+  "project_code" : "E-DHS-0005"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "430000",
+  "year" : "2012",
+  "program_name" : "HMIS",
+  "project_code" : "E-DHS-0006"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "160000",
+  "year" : "2012",
+  "program_name" : "ESG Administration",
+  "project_code" : "E-DHS-0007"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "year" : "2012",
+  "program_name" : "Housing Opportunities for Persons with AIDS",
+  "project_code" : "P-HOPWA-0000",
+  "amount_city_expects_to_receive" : "54245344"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "1000000",
+  "year" : "2012",
+  "program_name" : "HASA Case Management and Support Services-Personnel: Case Management and Support Services",
+  "project_code" : "P-HRA-0201"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "32176728",
+  "year" : "2012",
+  "program_name" : "HASA Housing Contracts",
+  "project_code" : "P-HRA-0204"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "17029914",
+  "year" : "2012",
+  "program_name" : "Department of Health and Mental Hygiene - Bureau of HIV/AIDS Prevention and Control",
+  "project_code" : "P-DOHMH-0206"
+}
+, {
+  "program_type" : "HUD Formula/Entitlement Program",
+  "amount" : "1552504",
+  "year" : "2012",
+  "program_name" : "Grantee General Program Administration",
+  "project_code" : "P-DOHMH-0301"
+}
+, {
+  "amount" : "360216205",
+  "year" : "2012",
+  "program_name" : "i. SUBTOTAL - FORMULA PROGRAMS"
+}
+, {
+  "program_type" : "New York City Housing Authority Funds",
+  "year" : "2012",
+  "program_name" : "Public Housing Capital Fund Program",
+  "amount_city_expects_to_receive" : "273059437"
+}
+, {
+  "program_type" : "New York City Housing Authority Funds",
+  "year" : "2012",
+  "program_name" : "Public Housing Capital Fund - American Recovery and Reinvestment Act",
+  "amount_city_expects_to_receive" : "0"
+}
+, {
+  "program_type" : "New York City Housing Authority Funds",
+  "year" : "2012",
+  "program_name" : "HOPE VI",
+  "amount_city_expects_to_receive" : "0"
+}
+, {
+  "program_type" : "New York City Housing Authority Funds",
+  "year" : "2012",
+  "program_name" : "Subtotal-New York City Housing Authority Funds",
+  "amount_city_expects_to_receive" : "273059437"
+}
+, {
+  "program_type" : "HUD Competitive Funds",
+  "year" : "2012",
+  "program_name" : "Homeless Continuum of Care SuperNOFA"
+}
+, {
+  "program_type" : "HUD Competitive Funds",
+  "year" : "2012",
+  "program_name" : "Supportive Housing Program"
+}
+, {
+  "program_type" : "HUD Competitive Funds",
+  "year" : "2012",
+  "program_name" : "Section 8 Moderate Rehabilitation SRO"
+}
+, {
+  "program_type" : "HUD Competitive Funds",
+  "year" : "2012",
+  "program_name" : "Shelter Plus Care Program"
+}
+, {
+  "program_type" : "HUD Competitive Funds",
+  "year" : "2012",
+  "program_name" : "Section 202 Supportive Housing for the Elderly"
+}
+, {
+  "program_type" : "HUD Competitive Funds",
+  "year" : "2012",
+  "program_name" : "Section 811 Supportive Housing for the Disabled"
+}
+, {
+  "program_type" : "HUD Competitive Funds",
+  "year" : "2012",
+  "program_name" : "Section 8 Vouchers",
+  "amount_city_expects_to_receive" : "0"
+}
+, {
+  "program_type" : "HUD Competitive Funds",
+  "year" : "2012",
+  "program_name" : "Housing Opportunities for Persons With AIDS (HOPWA Program)- SPNS",
+  "amount_city_expects_to_be_received_by_other_entities" : "0"
+}
+, {
+  "program_type" : "HUD Competitive Funds",
+  "year" : "2012",
+  "program_name" : "Lead Hazard Control Program",
+  "amount_city_expects_to_receive" : "0"
+}
+, {
+  "program_type" : "HUD Competitive Funds",
+  "year" : "2012",
+  "program_name" : "Lead Hazard Reduction Demonstration Grant Program",
+  "amount_city_expects_to_receive" : "0"
+}
+, {
+  "program_type" : "HUD Competitive Funds",
+  "year" : "2012",
+  "program_name" : "Subtotal-HUD Competitive funds"
+}
+, {
+  "program_type" : "State Funds",
+  "year" : "2012",
+  "program_name" : "Affordable Homeownership Development Program"
+}
+, {
+  "program_type" : "State Funds",
+  "year" : "2012",
+  "program_name" : "Homeless Housing and Assistance Program"
+}
+, {
+  "program_type" : "State Funds",
+  "year" : "2012",
+  "program_name" : "Low Income Housing Tax Credit",
+  "amount_city_expects_to_receive" : "14500000"
+}
+, {
+  "program_type" : "State Funds",
+  "year" : "2012",
+  "program_name" : "Low Income Housing Trust Fund Program"
+}
+, {
+  "program_type" : "State Funds",
+  "year" : "2012",
+  "program_name" : "RESTORE Program"
+}
+, {
+  "program_type" : "State Funds",
+  "year" : "2012",
+  "program_name" : "Subtotal-State Funds",
+  "amount_city_expects_to_receive" : "14500000"
+}
+, {
+  "program_type" : "City Funds",
+  "year" : "2012",
+  "program_name" : "DHS CITY FUNDS"
+}
+, {
+  "program_type" : "City Funds",
+  "year" : "2012",
+  "program_name" : "DHS City Capital in programs that receive no Federal Funds",
+  "amount_city_expects_to_receive" : "19777000"
+}
+, {
+  "program_type" : "City Funds",
+  "year" : "2012",
+  "program_name" : "DHS City Expense in programs that receive no Federal Funds",
+  "amount_city_expects_to_receive" : "278938061"
+}
+, {
+  "program_type" : "City Funds",
+  "year" : "2012",
+  "program_name" : "DHS City Expense Budget (matching ESG funds)",
+  "amount_city_expects_to_receive" : "14245344"
+}
+, {
+  "program_type" : "City Funds",
+  "year" : "2012",
+  "program_name" : "HPD CITY FUNDS"
+}
+, {
+  "program_type" : "City Funds",
+  "year" : "2012",
+  "program_name" : "HPD City Capital with Federal Funds",
+  "amount_city_expects_to_receive" : "186136000"
+}
+, {
+  "program_type" : "City Funds",
+  "year" : "2012",
+  "program_name" : "HPD City Capital in programs that receive no Federal Funds",
+  "amount_city_expects_to_receive" : "264212000"
+}
+, {
+  "program_type" : "City Funds",
+  "year" : "2012",
+  "program_name" : "HPD City Expense with Federal Funds",
+  "amount_city_expects_to_receive" : "35201062"
+}
+, {
+  "program_type" : "City Funds",
+  "year" : "2012",
+  "program_name" : "HPD City Expense in programs that receive no Federal Funds",
+  "amount_city_expects_to_receive" : "40278218"
+}
+, {
+  "program_type" : "City Funds",
+  "year" : "2012",
+  "program_name" : "HRA CITY FUNDS"
+}
+, {
+  "program_type" : "City Funds",
+  "year" : "2012",
+  "program_name" : "HRA City Expense with no Federal Funds",
+  "amount_city_expects_to_receive" : "941987685"
+}
+, {
+  "program_type" : "City Funds",
+  "year" : "2012",
+  "program_name" : "Subtotal-City Funds",
+  "amount_city_expects_to_receive" : "890842461"
+}
+, {
+  "program_type" : "Private Funds",
+  "year" : "2012",
+  "program_name" : "vi. Private Funds",
+  "amount_city_expects_to_be_received_by_other_entities" : "60442840"
+}
+, {
+  "program_type" : "Total Funding Sources",
+  "year" : "2012",
+  "program_name" : "Total Federal Sources",
+  "amount_city_expects_to_be_received_by_other_entities" : "273059437",
+  "amount_city_expects_to_receive" : "360216205"
+}
+, {
+  "program_type" : "Total Funding Sources",
+  "year" : "2012",
+  "program_name" : "Total State Sources",
+  "amount_city_expects_to_receive" : "14500000"
+}
+, {
+  "program_type" : "Total Funding Sources",
+  "year" : "2012",
+  "program_name" : "Total City Sources",
+  "amount_city_expects_to_receive" : "890842461"
+}
+, {
+  "program_type" : "Total Funding Sources",
+  "year" : "2012",
+  "program_name" : "Total Private Sources",
+  "amount_city_expects_to_be_received_by_other_entities" : "60442840"
+}
+, {
+  "year" : "2012",
+  "program_name" : "viii. TOTAL ALL SOURCES",
+  "amount_city_expects_to_be_received_by_other_entities" : "333502277",
+  "amount_city_expects_to_receive" : "1316703890"
+}
+ ]

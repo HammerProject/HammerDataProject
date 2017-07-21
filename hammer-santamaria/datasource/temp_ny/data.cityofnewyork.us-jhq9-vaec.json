@@ -1,0 +1,71 @@
+[ {
+  "_nypd_population_2009" : "82.50%",
+  "gender" : "Male",
+  "_number_of_officers_5" : "5653",
+  "_number_of_officers_1" : "5969",
+  "_nypd_population_2005" : "82.80%",
+  "_number_of_officers_2" : "6464",
+  "_nypd_population_2006" : "82.60%",
+  "_number_of_officers_3" : "6063",
+  "_nypd_population_2007" : "82.50%",
+  "_number_of_officers_4" : "5373",
+  "_nypd_population_2008" : "82.50%",
+  "_percent_of_subtotal_2" : "89.90%",
+  "_percent_of_subtotal_3" : "89.70%",
+  "_percent_of_subtotal_1" : "89.80%",
+  "_percent_of_subtotal_4" : "90.20%",
+  "_percent_of_subtotal_5" : "89.40%"
+}
+, {
+  "_nypd_population_2009" : "17.50%",
+  "gender" : "Female",
+  "_number_of_officers_5" : "673",
+  "_number_of_officers_1" : "676",
+  "_nypd_population_2005" : "17.20%",
+  "_number_of_officers_2" : "729",
+  "_nypd_population_2006" : "17.40%",
+  "_number_of_officers_3" : "695",
+  "_nypd_population_2007" : "17.50%",
+  "_number_of_officers_4" : "583",
+  "_nypd_population_2008" : "17.50%",
+  "_percent_of_subtotal_2" : "10.10%",
+  "_percent_of_subtotal_3" : "10.30%",
+  "_percent_of_subtotal_1" : "10.20%",
+  "_percent_of_subtotal_4" : "9.80%",
+  "_percent_of_subtotal_5" : "10.60%"
+}
+, {
+  "_nypd_population_2009" : "100.00%",
+  "gender" : "Subtotal",
+  "_number_of_officers_5" : "6326",
+  "_number_of_officers_1" : "6645",
+  "_nypd_population_2005" : "100.00%",
+  "_number_of_officers_2" : "7193",
+  "_nypd_population_2006" : "100.00%",
+  "_number_of_officers_3" : "6758",
+  "_nypd_population_2007" : "100.00%",
+  "_number_of_officers_4" : "5956",
+  "_nypd_population_2008" : "100.00%",
+  "_percent_of_subtotal_2" : "100.00%",
+  "_percent_of_subtotal_3" : "100.00%",
+  "_percent_of_subtotal_1" : "100.00%",
+  "_percent_of_subtotal_4" : "100.00%",
+  "_percent_of_subtotal_5" : "100.00%"
+}
+, {
+  "gender" : "Officer unidentified",
+  "_number_of_officers_5" : "6145",
+  "_number_of_officers_1" : "3919",
+  "_number_of_officers_2" : "4989",
+  "_number_of_officers_3" : "5454",
+  "_number_of_officers_4" : "5556"
+}
+, {
+  "gender" : "Total",
+  "_number_of_officers_5" : "12471",
+  "_number_of_officers_1" : "10564",
+  "_number_of_officers_2" : "12182",
+  "_number_of_officers_3" : "12212",
+  "_number_of_officers_4" : "11512"
+}
+ ]

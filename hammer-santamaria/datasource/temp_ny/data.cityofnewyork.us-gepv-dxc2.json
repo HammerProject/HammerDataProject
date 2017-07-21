@@ -1,0 +1,2422 @@
+[ {
+  "agy" : "003",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PERSONAL SERVICES                       ",
+  "fy_16_adopted" : "61723539",
+  "fy_15_exp" : "51391433",
+  "agy_name" : "BOARD OF ELECTIONS                      ",
+  "ua" : "001"
+}
+, {
+  "agy" : "003",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTHER THAN PERSONAL SERVICES            ",
+  "fy_16_adopted" : "78528690",
+  "fy_15_exp" : "55363698",
+  "agy_name" : "BOARD OF ELECTIONS                      ",
+  "ua" : "002"
+}
+, {
+  "agy" : "017",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PERSONAL SERVICES                       ",
+  "fy_16_adopted" : "6246590",
+  "fy_15_exp" : "11601381",
+  "agy_name" : "DEPARTMENT OF EMERGENCY MANAGEMENT      ",
+  "ua" : "001"
+}
+, {
+  "agy" : "017",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTHER THAN PERSONAL SERVICES            ",
+  "fy_16_adopted" : "9780548",
+  "fy_15_exp" : "23436956",
+  "agy_name" : "DEPARTMENT OF EMERGENCY MANAGEMENT      ",
+  "ua" : "002"
+}
+, {
+  "agy" : "025",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PERSONAL SERVICES                       ",
+  "fy_16_adopted" : "125701262",
+  "fy_15_exp" : "111055572",
+  "agy_name" : "LAW DEPARTMENT                          ",
+  "ua" : "001"
+}
+, {
+  "agy" : "025",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTHER THAN PERSONAL SERVICES            ",
+  "fy_16_adopted" : "60879415",
+  "fy_15_exp" : "64534069",
+  "agy_name" : "LAW DEPARTMENT                          ",
+  "ua" : "002"
+}
+, {
+  "agy" : "030",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PERSONAL SERVICES                       ",
+  "fy_16_adopted" : "22966676",
+  "fy_15_exp" : "19223316",
+  "agy_name" : "DEPARTMENT OF CITY PLANNING             ",
+  "ua" : "001"
+}
+, {
+  "agy" : "030",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "GEOGRAPHIC SYSTEMS                      ",
+  "fy_16_adopted" : "2229653",
+  "fy_15_exp" : "1956106",
+  "agy_name" : "DEPARTMENT OF CITY PLANNING             ",
+  "ua" : "003"
+}
+, {
+  "agy" : "030",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTHER THAN PERSONAL SERVICES            ",
+  "fy_16_adopted" : "12617720",
+  "fy_15_exp" : "3255798",
+  "agy_name" : "DEPARTMENT OF CITY PLANNING             ",
+  "ua" : "002"
+}
+, {
+  "agy" : "030",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "GEOGRAPHIC SYSTEMS                      ",
+  "fy_16_adopted" : "297688",
+  "fy_15_exp" : "282241",
+  "agy_name" : "DEPARTMENT OF CITY PLANNING             ",
+  "ua" : "004"
+}
+, {
+  "agy" : "032",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PERSONAL SERVICES                       ",
+  "fy_16_adopted" : "19087065",
+  "fy_15_exp" : "16872699",
+  "agy_name" : "DEPARTMENT OF INVESTIGATION             ",
+  "ua" : "001"
+}
+, {
+  "agy" : "032",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "INSPECTOR GENERAL-PS                    ",
+  "fy_16_adopted" : "4391943",
+  "fy_15_exp" : "2438441",
+  "agy_name" : "DEPARTMENT OF INVESTIGATION             ",
+  "ua" : "003"
+}
+, {
+  "agy" : "032",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTHER THAN PERSONAL SERVICES            ",
+  "fy_16_adopted" : "6744135",
+  "fy_15_exp" : "14496443",
+  "agy_name" : "DEPARTMENT OF INVESTIGATION             ",
+  "ua" : "002"
+}
+, {
+  "agy" : "032",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "INSPECTOR GENERAL-OTPS                  ",
+  "fy_16_adopted" : "774947",
+  "fy_15_exp" : "1175879",
+  "agy_name" : "DEPARTMENT OF INVESTIGATION             ",
+  "ua" : "004"
+}
+, {
+  "agy" : "035",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "LUMP SUM APPROPRIATION                  ",
+  "fy_16_adopted" : "26844888",
+  "fy_15_exp" : "24265693",
+  "agy_name" : "NEW YORK RESEARCH LIBRARIES             ",
+  "ua" : "001"
+}
+, {
+  "agy" : "037",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "LUMP SUM-BORO OF MANHATTAN              ",
+  "fy_16_adopted" : "26356086",
+  "fy_15_exp" : "26145265",
+  "agy_name" : "NEW YORK PUBLIC LIBRARY                 ",
+  "ua" : "003"
+}
+, {
+  "agy" : "037",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "LUMP SUM- BORO OF BRONX                 ",
+  "fy_16_adopted" : "24605664",
+  "fy_15_exp" : "24490819",
+  "agy_name" : "NEW YORK PUBLIC LIBRARY                 ",
+  "ua" : "004"
+}
+, {
+  "agy" : "037",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "LUMP SUM-BORO OF STATEN ISL             ",
+  "fy_16_adopted" : "10262310",
+  "fy_15_exp" : "10220762",
+  "agy_name" : "NEW YORK PUBLIC LIBRARY                 ",
+  "ua" : "005"
+}
+, {
+  "agy" : "037",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "SYSTEMWIDE SERVICES                     ",
+  "fy_16_adopted" : "69649508",
+  "fy_15_exp" : "57960423",
+  "agy_name" : "NEW YORK PUBLIC LIBRARY                 ",
+  "ua" : "006"
+}
+, {
+  "agy" : "037",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "CONSULTANT & ADVISORY SVCS              ",
+  "fy_16_adopted" : "1362128",
+  "fy_15_exp" : "1362128",
+  "agy_name" : "NEW YORK PUBLIC LIBRARY                 ",
+  "ua" : "007"
+}
+, {
+  "agy" : "038",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "LUMP SUM                                ",
+  "fy_16_adopted" : "98702298",
+  "fy_15_exp" : "91560194",
+  "agy_name" : "BROOKLYN PUBLIC LIBRARY                 ",
+  "ua" : "001"
+}
+, {
+  "agy" : "039",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "LUMP SUM                                ",
+  "fy_16_adopted" : "99948569",
+  "fy_15_exp" : "90326997",
+  "agy_name" : "QUEENS BOROUGH PUBLIC LIBRARY           ",
+  "ua" : "001"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "GE INSTR & SCH LEADERSHIP - PS          ",
+  "fy_16_adopted" : "5844620680",
+  "fy_15_exp" : "5713487721",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "401"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "SE INSTR & SCH LEADERSHIP - PS          ",
+  "fy_16_adopted" : "1404535490",
+  "fy_15_exp" : "1387735005",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "403"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "UNIVERSAL PRE-K - PS                    ",
+  "fy_16_adopted" : "385508464",
+  "fy_15_exp" : "0.0",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "407"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "SCHOOL SUPPORT ORGANIZATION             ",
+  "fy_16_adopted" : "258500838",
+  "fy_15_exp" : "231346187",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "415"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "CW SE INSTR & SCHL LEADERSHIP - PS      ",
+  "fy_16_adopted" : "956173266",
+  "fy_15_exp" : "875993814",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "421"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "SE INSTRUCTIONAL SUPPORT - PS           ",
+  "fy_16_adopted" : "276851652",
+  "fy_15_exp" : "252463496",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "423"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "SCHOOL FACILITIES - PS                  ",
+  "fy_16_adopted" : "445017030",
+  "fy_15_exp" : "433937385",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "435"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "SCHOOL FOOD SERVICES - PS               ",
+  "fy_16_adopted" : "211668288",
+  "fy_15_exp" : "214702793",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "439"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "CENTRAL ADMINISTRATION - PS             ",
+  "fy_16_adopted" : "174550820",
+  "fy_15_exp" : "163947287",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "453"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "FRINGE BENEFITS - PS                    ",
+  "fy_16_adopted" : "3043659644",
+  "fy_15_exp" : "2876580148",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "461"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "CATEGORICAL PROGRAMS - PS               ",
+  "fy_16_adopted" : "1011695696",
+  "fy_15_exp" : "1242412764",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "481"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "GE INSTR & SCH LEADERSHIP - OTPS        ",
+  "fy_16_adopted" : "761531373",
+  "fy_15_exp" : "660052109",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "402"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "SE INSTR & SCH LEADERSHIP -OTPS         ",
+  "fy_16_adopted" : "3976075",
+  "fy_15_exp" : "4181291",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "404"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "CHARTER SCHOOLS                         ",
+  "fy_16_adopted" : "1476587588",
+  "fy_15_exp" : "1308880192",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "406"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "UNIVERSAL PRE-K - OTPS                  ",
+  "fy_16_adopted" : "423370588",
+  "fy_15_exp" : "0.0",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "408"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "SCHOOL SUPPORT ORGANIZATION OTPS        ",
+  "fy_16_adopted" : "27679995",
+  "fy_15_exp" : "39739462",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "416"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "CW SE INSTR & SCHL LEADERSHIP - OTPS    ",
+  "fy_16_adopted" : "20979246",
+  "fy_15_exp" : "20439043",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "422"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "SE INSTRUCTIONAL SUPPORT -  OTPS        ",
+  "fy_16_adopted" : "230036818",
+  "fy_15_exp" : "230721270",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "424"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "SCHOOL FACILITIES - OTPS                ",
+  "fy_16_adopted" : "305148960",
+  "fy_15_exp" : "436291848",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "436"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "PUPIL TRANSPORTATION - OTPS             ",
+  "fy_16_adopted" : "1146455675",
+  "fy_15_exp" : "1143837837",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "438"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "SCHOOL FOOD SERVICES - OTPS             ",
+  "fy_16_adopted" : "274321108",
+  "fy_15_exp" : "231615306",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "440"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "SCHOOL SAFETY - OTPS                    ",
+  "fy_16_adopted" : "335713885",
+  "fy_15_exp" : "330580522",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "442"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "ENERGY AND LEASES - OTPS                ",
+  "fy_16_adopted" : "498066494",
+  "fy_15_exp" : "468100138",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "444"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "CENTRAL ADMINISTRATION - OTPS           ",
+  "fy_16_adopted" : "164375156",
+  "fy_15_exp" : "171357152",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "454"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "SE PRE-K CONTRACT PMTS - OTPS           ",
+  "fy_16_adopted" : "909861953",
+  "fy_15_exp" : "844399423",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "470"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "CONTRACT SCHOOLS/FOSTER/CH 683 PMTS     ",
+  "fy_16_adopted" : "652495759",
+  "fy_15_exp" : "641613308",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "472"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "NPS & FIT PMTS - OTPS                   ",
+  "fy_16_adopted" : "66690570",
+  "fy_15_exp" : "65085997",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "474"
+}
+, {
+  "agy" : "040",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "CATEGORICAL PROGRAMS - OTPS             ",
+  "fy_16_adopted" : "599635645",
+  "fy_15_exp" : "1009863897",
+  "agy_name" : "DEPARTMENT OF EDUCATION                 ",
+  "ua" : "482"
+}
+, {
+  "agy" : "042",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "COMMUNITY COLLEGE PS                    ",
+  "fy_16_adopted" : "685030740",
+  "fy_15_exp" : "657439011",
+  "agy_name" : "CITY UNIVERSITY OF NEW YORK             ",
+  "ua" : "002"
+}
+, {
+  "agy" : "042",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "HUNTER SCHOOLS-PS                       ",
+  "fy_16_adopted" : "14807238",
+  "fy_15_exp" : "15866417",
+  "agy_name" : "CITY UNIVERSITY OF NEW YORK             ",
+  "ua" : "004"
+}
+, {
+  "agy" : "042",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "COMMUNITY COLLEGE-OTPS                  ",
+  "fy_16_adopted" : "256989870",
+  "fy_15_exp" : "280474894",
+  "agy_name" : "CITY UNIVERSITY OF NEW YORK             ",
+  "ua" : "001"
+}
+, {
+  "agy" : "042",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "HUNTER SCHOOLS-OTPS                     ",
+  "fy_16_adopted" : "1373833",
+  "fy_15_exp" : "1344969",
+  "agy_name" : "CITY UNIVERSITY OF NEW YORK             ",
+  "ua" : "003"
+}
+, {
+  "agy" : "042",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "SENIOR COLLEGE OTPS                     ",
+  "fy_16_adopted" : "35000000",
+  "fy_15_exp" : "0.0",
+  "agy_name" : "CITY UNIVERSITY OF NEW YORK             ",
+  "ua" : "012"
+}
+, {
+  "agy" : "054",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "CCRB-PS                                 ",
+  "fy_16_adopted" : "11645742",
+  "fy_15_exp" : "9897911",
+  "agy_name" : "CIVILIAN COMPLAINT REVIEW BOARD         ",
+  "ua" : "001"
+}
+, {
+  "agy" : "054",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "CCRB-OTPS                               ",
+  "fy_16_adopted" : "3431013",
+  "fy_15_exp" : "2785668",
+  "agy_name" : "CIVILIAN COMPLAINT REVIEW BOARD         ",
+  "ua" : "002"
+}
+, {
+  "agy" : "056",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "OPERATIONS                              ",
+  "fy_16_adopted" : "3139355135",
+  "fy_15_exp" : "3121985133",
+  "agy_name" : "POLICE DEPARTMENT                       ",
+  "ua" : "001"
+}
+, {
+  "agy" : "056",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "EXECUTIVE MANAGEMENT                    ",
+  "fy_16_adopted" : "411940235",
+  "fy_15_exp" : "395439939",
+  "agy_name" : "POLICE DEPARTMENT                       ",
+  "ua" : "002"
+}
+, {
+  "agy" : "056",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "SCHOOL SAFETY- P.S.                     ",
+  "fy_16_adopted" : "258072206",
+  "fy_15_exp" : "273532719",
+  "agy_name" : "POLICE DEPARTMENT                       ",
+  "ua" : "003"
+}
+, {
+  "agy" : "056",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "ADMINISTRATION-PERSONNEL                ",
+  "fy_16_adopted" : "237237779",
+  "fy_15_exp" : "237273824",
+  "agy_name" : "POLICE DEPARTMENT                       ",
+  "ua" : "004"
+}
+, {
+  "agy" : "056",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "CRIMINAL JUSTICE                        ",
+  "fy_16_adopted" : "90002006",
+  "fy_15_exp" : "93157996",
+  "agy_name" : "POLICE DEPARTMENT                       ",
+  "ua" : "006"
+}
+, {
+  "agy" : "056",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "TRAFFIC ENFORCEMENT                     ",
+  "fy_16_adopted" : "124246046",
+  "fy_15_exp" : "131931208",
+  "agy_name" : "POLICE DEPARTMENT                       ",
+  "ua" : "007"
+}
+, {
+  "agy" : "056",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "TRANSIT POLICE-PS                       ",
+  "fy_16_adopted" : "222820979",
+  "fy_15_exp" : "217456411",
+  "agy_name" : "POLICE DEPARTMENT                       ",
+  "ua" : "008"
+}
+, {
+  "agy" : "056",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "HOUSING POLICE-PS                       ",
+  "fy_16_adopted" : "173719099",
+  "fy_15_exp" : "179526977",
+  "agy_name" : "POLICE DEPARTMENT                       ",
+  "ua" : "009"
+}
+, {
+  "agy" : "056",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OPERATIONS-OTPS                         ",
+  "fy_16_adopted" : "88542206",
+  "fy_15_exp" : "130079072",
+  "agy_name" : "POLICE DEPARTMENT                       ",
+  "ua" : "100"
+}
+, {
+  "agy" : "056",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "EXECUTIVE MANAGEMENT-OTPS               ",
+  "fy_16_adopted" : "13204991",
+  "fy_15_exp" : "101360005",
+  "agy_name" : "POLICE DEPARTMENT                       ",
+  "ua" : "200"
+}
+, {
+  "agy" : "056",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "SCHOOL SAFETY- OTPS                     ",
+  "fy_16_adopted" : "4903848",
+  "fy_15_exp" : "4735543",
+  "agy_name" : "POLICE DEPARTMENT                       ",
+  "ua" : "300"
+}
+, {
+  "agy" : "056",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "ADMINISTRATION-OTPS                     ",
+  "fy_16_adopted" : "294442784",
+  "fy_15_exp" : "255939040",
+  "agy_name" : "POLICE DEPARTMENT                       ",
+  "ua" : "400"
+}
+, {
+  "agy" : "056",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "CRIMINAL JUSTICE-OTPS                   ",
+  "fy_16_adopted" : "461925",
+  "fy_15_exp" : "289920",
+  "agy_name" : "POLICE DEPARTMENT                       ",
+  "ua" : "600"
+}
+, {
+  "agy" : "056",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "TRAFFIC ENFORCEMENT-OTPS                ",
+  "fy_16_adopted" : "10328033",
+  "fy_15_exp" : "8851540",
+  "agy_name" : "POLICE DEPARTMENT                       ",
+  "ua" : "700"
+}
+, {
+  "agy" : "057",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "EXECUTIVE ADMINISTRATIVE                ",
+  "fy_16_adopted" : "103973628",
+  "fy_15_exp" : "91260969",
+  "agy_name" : "FIRE DEPARTMENT                         ",
+  "ua" : "001"
+}
+, {
+  "agy" : "057",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "FIRE EXTING AND EMERG RESP              ",
+  "fy_16_adopted" : "1254624951",
+  "fy_15_exp" : "1298872680",
+  "agy_name" : "FIRE DEPARTMENT                         ",
+  "ua" : "002"
+}
+, {
+  "agy" : "057",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "FIRE INVESTIGATION                      ",
+  "fy_16_adopted" : "14307567",
+  "fy_15_exp" : "18726610",
+  "agy_name" : "FIRE DEPARTMENT                         ",
+  "ua" : "003"
+}
+, {
+  "agy" : "057",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "FIRE PREVENTION                         ",
+  "fy_16_adopted" : "34311521",
+  "fy_15_exp" : "35615260",
+  "agy_name" : "FIRE DEPARTMENT                         ",
+  "ua" : "004"
+}
+, {
+  "agy" : "057",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "EMERGENCY MEDICAL SERVICES-PS           ",
+  "fy_16_adopted" : "238619343",
+  "fy_15_exp" : "231519587",
+  "agy_name" : "FIRE DEPARTMENT                         ",
+  "ua" : "009"
+}
+, {
+  "agy" : "057",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "EXECUTIVE ADMIN-OTPS                    ",
+  "fy_16_adopted" : "124612618",
+  "fy_15_exp" : "163936075",
+  "agy_name" : "FIRE DEPARTMENT                         ",
+  "ua" : "005"
+}
+, {
+  "agy" : "057",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "FIRE EXTING & RESP-OTPS                 ",
+  "fy_16_adopted" : "28820492",
+  "fy_15_exp" : "26586558",
+  "agy_name" : "FIRE DEPARTMENT                         ",
+  "ua" : "006"
+}
+, {
+  "agy" : "057",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "FIRE INVESTIGATION-OTPS                 ",
+  "fy_16_adopted" : "150060",
+  "fy_15_exp" : "127201",
+  "agy_name" : "FIRE DEPARTMENT                         ",
+  "ua" : "007"
+}
+, {
+  "agy" : "057",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "FIRE PREVENTION-OTPS                    ",
+  "fy_16_adopted" : "704370",
+  "fy_15_exp" : "536633",
+  "agy_name" : "FIRE DEPARTMENT                         ",
+  "ua" : "008"
+}
+, {
+  "agy" : "057",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "EMERGENCY MEDICAL SERV-OTPS             ",
+  "fy_16_adopted" : "31137220",
+  "fy_15_exp" : "26469641",
+  "agy_name" : "FIRE DEPARTMENT                         ",
+  "ua" : "010"
+}
+, {
+  "agy" : "068",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PERSONAL SERVICES                       ",
+  "fy_16_adopted" : "350502326",
+  "fy_15_exp" : "289897272",
+  "agy_name" : "ADMIN FOR CHILDREN'S SERVICES           ",
+  "ua" : "001"
+}
+, {
+  "agy" : "068",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "HEADSTART and DAYCARE-PS                ",
+  "fy_16_adopted" : "24467812",
+  "fy_15_exp" : "17048319",
+  "agy_name" : "ADMIN FOR CHILDREN'S SERVICES           ",
+  "ua" : "003"
+}
+, {
+  "agy" : "068",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "ADMINISTRATIVE-PS                       ",
+  "fy_16_adopted" : "80412418",
+  "fy_15_exp" : "78556169",
+  "agy_name" : "ADMIN FOR CHILDREN'S SERVICES           ",
+  "ua" : "005"
+}
+, {
+  "agy" : "068",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "JUVENILE JUSTICE - PS                   ",
+  "fy_16_adopted" : "41007068",
+  "fy_15_exp" : "36543899",
+  "agy_name" : "ADMIN FOR CHILDREN'S SERVICES           ",
+  "ua" : "007"
+}
+, {
+  "agy" : "068",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTHER THAN PERSONAL SERVICES            ",
+  "fy_16_adopted" : "75695148",
+  "fy_15_exp" : "73427798",
+  "agy_name" : "ADMIN FOR CHILDREN'S SERVICES           ",
+  "ua" : "002"
+}
+, {
+  "agy" : "068",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "HEADSTART/DAYCARE-OTPS                  ",
+  "fy_16_adopted" : "1082550316",
+  "fy_15_exp" : "1038679669",
+  "agy_name" : "ADMIN FOR CHILDREN'S SERVICES           ",
+  "ua" : "004"
+}
+, {
+  "agy" : "068",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "CHILD WELFARE-OTPS                      ",
+  "fy_16_adopted" : "1145230884",
+  "fy_15_exp" : "1124752725",
+  "agy_name" : "ADMIN FOR CHILDREN'S SERVICES           ",
+  "ua" : "006"
+}
+, {
+  "agy" : "068",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "JUVENILE JUSTICE - OTPS                 ",
+  "fy_16_adopted" : "149056120",
+  "fy_15_exp" : "167788031",
+  "agy_name" : "ADMIN FOR CHILDREN'S SERVICES           ",
+  "ua" : "008"
+}
+, {
+  "agy" : "069",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "ADMINISTRATION                          ",
+  "fy_16_adopted" : "288711596",
+  "fy_15_exp" : "304062657",
+  "agy_name" : "DEPARTMENT OF SOCIAL SERVICES           ",
+  "ua" : "201"
+}
+, {
+  "agy" : "069",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PUBLIC ASSISTANCE                       ",
+  "fy_16_adopted" : "279502263",
+  "fy_15_exp" : "272714764",
+  "agy_name" : "DEPARTMENT OF SOCIAL SERVICES           ",
+  "ua" : "203"
+}
+, {
+  "agy" : "069",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "MEDICAL ASSISTANCE                      ",
+  "fy_16_adopted" : "120751597",
+  "fy_15_exp" : "101496991",
+  "agy_name" : "DEPARTMENT OF SOCIAL SERVICES           ",
+  "ua" : "204"
+}
+, {
+  "agy" : "069",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "ADULT SERVICES                          ",
+  "fy_16_adopted" : "112107919",
+  "fy_15_exp" : "106081128",
+  "agy_name" : "DEPARTMENT OF SOCIAL SERVICES           ",
+  "ua" : "205"
+}
+, {
+  "agy" : "069",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "ADMINISTRATION-OTPS                     ",
+  "fy_16_adopted" : "233816391",
+  "fy_15_exp" : "263805361",
+  "agy_name" : "DEPARTMENT OF SOCIAL SERVICES           ",
+  "ua" : "101"
+}
+, {
+  "agy" : "069",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "PUBLIC ASSISTANCE - OTPS                ",
+  "fy_16_adopted" : "2087793673",
+  "fy_15_exp" : "2047820240",
+  "agy_name" : "DEPARTMENT OF SOCIAL SERVICES           ",
+  "ua" : "103"
+}
+, {
+  "agy" : "069",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "MEDICAL ASSISTANCE - OTPS               ",
+  "fy_16_adopted" : "6351551470",
+  "fy_15_exp" : "6374319528",
+  "agy_name" : "DEPARTMENT OF SOCIAL SERVICES           ",
+  "ua" : "104"
+}
+, {
+  "agy" : "069",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "ADULT SERVICES - OTPS                   ",
+  "fy_16_adopted" : "312875971",
+  "fy_15_exp" : "300889195",
+  "agy_name" : "DEPARTMENT OF SOCIAL SERVICES           ",
+  "ua" : "105"
+}
+, {
+  "agy" : "071",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "DEPT OF HOMELESS SERVICES-PS            ",
+  "fy_16_adopted" : "150263319",
+  "fy_15_exp" : "125175623",
+  "agy_name" : "DEPARTMENT OF HOMELESS SERVICES         ",
+  "ua" : "100"
+}
+, {
+  "agy" : "071",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "DEPT OF HOMELESS SERVICES-OTPS          ",
+  "fy_16_adopted" : "930657548",
+  "fy_15_exp" : "1044650152",
+  "agy_name" : "DEPARTMENT OF HOMELESS SERVICES         ",
+  "ua" : "200"
+}
+, {
+  "agy" : "072",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "ADMINISTRATION                          ",
+  "fy_16_adopted" : "73721477",
+  "fy_15_exp" : "64934827",
+  "agy_name" : "DEPARTMENT OF CORRECTION                ",
+  "ua" : "001"
+}
+, {
+  "agy" : "072",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "OPERATIONS                              ",
+  "fy_16_adopted" : "970246011",
+  "fy_15_exp" : "958679137",
+  "agy_name" : "DEPARTMENT OF CORRECTION                ",
+  "ua" : "002"
+}
+, {
+  "agy" : "072",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OPERATIONS - OTPS                       ",
+  "fy_16_adopted" : "159203449",
+  "fy_15_exp" : "121742979",
+  "agy_name" : "DEPARTMENT OF CORRECTION                ",
+  "ua" : "003"
+}
+, {
+  "agy" : "072",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "ADMINISTRATION - OTPS                   ",
+  "fy_16_adopted" : "19361051",
+  "fy_15_exp" : "16764072",
+  "agy_name" : "DEPARTMENT OF CORRECTION                ",
+  "ua" : "004"
+}
+, {
+  "agy" : "125",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "EXECUTIVE & ADMIN MGMT - PS             ",
+  "fy_16_adopted" : "10949408",
+  "fy_15_exp" : "10211977",
+  "agy_name" : "DEPARTMENT FOR THE AGING                ",
+  "ua" : "001"
+}
+, {
+  "agy" : "125",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "COMMUNITY PROGRAMS - PS                 ",
+  "fy_16_adopted" : "14615521",
+  "fy_15_exp" : "13211856",
+  "agy_name" : "DEPARTMENT FOR THE AGING                ",
+  "ua" : "002"
+}
+, {
+  "agy" : "125",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "COMMUNITY PROGRAMS - OTPS               ",
+  "fy_16_adopted" : "282949135",
+  "fy_15_exp" : "260141161",
+  "agy_name" : "DEPARTMENT FOR THE AGING                ",
+  "ua" : "003"
+}
+, {
+  "agy" : "125",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "EXECUTIVE & ADMIN MGMT-OTPS             ",
+  "fy_16_adopted" : "1512064",
+  "fy_15_exp" : "1670609",
+  "agy_name" : "DEPARTMENT FOR THE AGING                ",
+  "ua" : "004"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "OFFICE OF COMMISSIONER-PS               ",
+  "fy_16_adopted" : "4554724",
+  "fy_15_exp" : "4404680",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "001"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OFFICE OF COMMISSIONER - OTPS           ",
+  "fy_16_adopted" : "1564115",
+  "fy_15_exp" : "1470961",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "002"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "CULTURAL PROGRAMS                       ",
+  "fy_16_adopted" : "48530288",
+  "fy_15_exp" : "42776173",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "003"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "METROPOLITAN MUSEUM OF ART              ",
+  "fy_16_adopted" : "27279921",
+  "fy_15_exp" : "26120141",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "004"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "NY BOTANICAL GARDEN                     ",
+  "fy_16_adopted" : "6508531",
+  "fy_15_exp" : "7804310",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "005"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "AMER MUSEUM NATURAL HISTORY             ",
+  "fy_16_adopted" : "16499575",
+  "fy_15_exp" : "16769048",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "006"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "THE WILDLIFE CONSERVATION SOC.          ",
+  "fy_16_adopted" : "15462401",
+  "fy_15_exp" : "14559588",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "007"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "BROOKLYN MUSEUM                         ",
+  "fy_16_adopted" : "7728186",
+  "fy_15_exp" : "8204153",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "008"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "BKLYN CHILDREN'S MUSEUM                 ",
+  "fy_16_adopted" : "1879911",
+  "fy_15_exp" : "1898806",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "009"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "BROOKLYN BOTANIC GARDEN                 ",
+  "fy_16_adopted" : "3585706",
+  "fy_15_exp" : "4497911",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "010"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "QUEENS BOTANICAL GARDEN                 ",
+  "fy_16_adopted" : "1089235",
+  "fy_15_exp" : "2139155",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "011"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "NY HALL OF SCIENCE                      ",
+  "fy_16_adopted" : "1789940",
+  "fy_15_exp" : "1838844",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "012"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "SI INSTITUTE ARTS & SCIENCES            ",
+  "fy_16_adopted" : "778089",
+  "fy_15_exp" : "919558",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "013"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "S.I. ZOOLOGICAL SOCIETY                 ",
+  "fy_16_adopted" : "1429363",
+  "fy_15_exp" : "1439418",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "014"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "S I HISTORICAL SOCIETY                  ",
+  "fy_16_adopted" : "771905",
+  "fy_15_exp" : "862986",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "015"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "MUSEUM OF THE CITY OF NY                ",
+  "fy_16_adopted" : "1635716",
+  "fy_15_exp" : "1607808",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "016"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "WAVE HILL                               ",
+  "fy_16_adopted" : "1219157",
+  "fy_15_exp" : "1169396",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "017"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "BROOKLYN ACADEMY OF MUSIC               ",
+  "fy_16_adopted" : "2731729",
+  "fy_15_exp" : "2740403",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "019"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "SNUG HARBOR CULTURAL CENTER             ",
+  "fy_16_adopted" : "1547652",
+  "fy_15_exp" : "2994679",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "020"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "STUDIO MUSEUM IN HARLEM                 ",
+  "fy_16_adopted" : "828240",
+  "fy_15_exp" : "849965",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "021"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTHER CULTURAL INSTITUTIONS             ",
+  "fy_16_adopted" : "17434750",
+  "fy_15_exp" : "17502156",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "022"
+}
+, {
+  "agy" : "126",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "N.Y.SHAKESPEARE FESTIVAL                ",
+  "fy_16_adopted" : "1167498",
+  "fy_15_exp" : "1118250",
+  "agy_name" : "DEPARTMENT OF CULTURAL AFFAIRS          ",
+  "ua" : "024"
+}
+, {
+  "agy" : "136",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PERSONAL SERVICES                       ",
+  "fy_16_adopted" : "5282826",
+  "fy_15_exp" : "4415456",
+  "agy_name" : "LANDMARKS PRESERVATION COMM.            ",
+  "ua" : "001"
+}
+, {
+  "agy" : "136",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTHER THAN PERSONAL SERVICES            ",
+  "fy_16_adopted" : "459951",
+  "fy_15_exp" : "366090",
+  "agy_name" : "LANDMARKS PRESERVATION COMM.            ",
+  "ua" : "002"
+}
+, {
+  "agy" : "156",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PERSONAL SERVICE                        ",
+  "fy_16_adopted" : "38888236",
+  "fy_15_exp" : "33083758",
+  "agy_name" : "NYC TAXI AND LIMOUSINE COMM             ",
+  "ua" : "001"
+}
+, {
+  "agy" : "156",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTHER THAN PERSONAL SERVICE             ",
+  "fy_16_adopted" : "29978243",
+  "fy_15_exp" : "19361764",
+  "agy_name" : "NYC TAXI AND LIMOUSINE COMM             ",
+  "ua" : "002"
+}
+, {
+  "agy" : "226",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PERSONAL SERVICES                       ",
+  "fy_16_adopted" : "4638935",
+  "fy_15_exp" : "1185191",
+  "agy_name" : "COMMISSION ON HUMAN RIGHTS              ",
+  "ua" : "001"
+}
+, {
+  "agy" : "226",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "COMMUNITY DEVELOP P.S.                  ",
+  "fy_16_adopted" : "3693173",
+  "fy_15_exp" : "3712601",
+  "agy_name" : "COMMISSION ON HUMAN RIGHTS              ",
+  "ua" : "003"
+}
+, {
+  "agy" : "226",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTHER THAN PERSONAL SERVICES            ",
+  "fy_16_adopted" : "1281061",
+  "fy_15_exp" : "400443",
+  "agy_name" : "COMMISSION ON HUMAN RIGHTS              ",
+  "ua" : "002"
+}
+, {
+  "agy" : "226",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "COMM DEVELOP OTPS                       ",
+  "fy_16_adopted" : "709637",
+  "fy_15_exp" : "497046",
+  "agy_name" : "COMMISSION ON HUMAN RIGHTS              ",
+  "ua" : "004"
+}
+, {
+  "agy" : "260",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "EXECUTIVE AND ADMINISTRATIVE MGMT PS    ",
+  "fy_16_adopted" : "14729466",
+  "fy_15_exp" : "15389013",
+  "agy_name" : "DEPARTMENT OF YOUTH & COMMUNITY DEV     ",
+  "ua" : "002"
+}
+, {
+  "agy" : "260",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PROGRAM SERVICES - PS                   ",
+  "fy_16_adopted" : "20178548",
+  "fy_15_exp" : "17447987",
+  "agy_name" : "DEPARTMENT OF YOUTH & COMMUNITY DEV     ",
+  "ua" : "311"
+}
+, {
+  "agy" : "260",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "COMMUNITY DEVELOPMENT OTPS              ",
+  "fy_16_adopted" : "60417032",
+  "fy_15_exp" : "64289760",
+  "agy_name" : "DEPARTMENT OF YOUTH & COMMUNITY DEV     ",
+  "ua" : "005"
+}
+, {
+  "agy" : "260",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTHER THAN PERSONAL SERVICES            ",
+  "fy_16_adopted" : "563090748",
+  "fy_15_exp" : "484758594",
+  "agy_name" : "DEPARTMENT OF YOUTH & COMMUNITY DEV     ",
+  "ua" : "312"
+}
+, {
+  "agy" : "781",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "EXECUTIVE MANAGEMENT                    ",
+  "fy_16_adopted" : "8392552",
+  "fy_15_exp" : "6935685",
+  "agy_name" : "DEPARTMENT OF PROBATION                 ",
+  "ua" : "001"
+}
+, {
+  "agy" : "781",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PROBATION SERVICES                      ",
+  "fy_16_adopted" : "61310480",
+  "fy_15_exp" : "56334040",
+  "agy_name" : "DEPARTMENT OF PROBATION                 ",
+  "ua" : "002"
+}
+, {
+  "agy" : "781",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "PROBATION SERVICES-OTPS                 ",
+  "fy_16_adopted" : "25701587",
+  "fy_15_exp" : "26634652",
+  "agy_name" : "DEPARTMENT OF PROBATION                 ",
+  "ua" : "003"
+}
+, {
+  "agy" : "781",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "EXECUTIVE MANAGEMENT - OTPS             ",
+  "fy_16_adopted" : "125553",
+  "fy_15_exp" : "37975",
+  "agy_name" : "DEPARTMENT OF PROBATION                 ",
+  "ua" : "004"
+}
+, {
+  "agy" : "801",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "DEPT. OF BUSINESS P.S.                  ",
+  "fy_16_adopted" : "15114707",
+  "fy_15_exp" : "13220943",
+  "agy_name" : "DEPARTMENT OF SMALL BUSINESS SERVICES   ",
+  "ua" : "001"
+}
+, {
+  "agy" : "801",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "CONTRACT COMP & BUS. OPP - PS           ",
+  "fy_16_adopted" : "2616069",
+  "fy_15_exp" : "1937033",
+  "agy_name" : "DEPARTMENT OF SMALL BUSINESS SERVICES   ",
+  "ua" : "004"
+}
+, {
+  "agy" : "801",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "WORKFORCE INVESTMENT ACT - PS           ",
+  "fy_16_adopted" : "5614366",
+  "fy_15_exp" : "4467907",
+  "agy_name" : "DEPARTMENT OF SMALL BUSINESS SERVICES   ",
+  "ua" : "010"
+}
+, {
+  "agy" : "801",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "DEPT. OF BUSINESS O.T.P.S.              ",
+  "fy_16_adopted" : "54901858",
+  "fy_15_exp" : "93157640",
+  "agy_name" : "DEPARTMENT OF SMALL BUSINESS SERVICES   ",
+  "ua" : "002"
+}
+, {
+  "agy" : "801",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "CONTRACT COMP & BUS OPP - OTPS          ",
+  "fy_16_adopted" : "4303370",
+  "fy_15_exp" : "1777984",
+  "agy_name" : "DEPARTMENT OF SMALL BUSINESS SERVICES   ",
+  "ua" : "005"
+}
+, {
+  "agy" : "801",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "ECONOMIC DEVELOPMENT CORP.              ",
+  "fy_16_adopted" : "127087808",
+  "fy_15_exp" : "104945159",
+  "agy_name" : "DEPARTMENT OF SMALL BUSINESS SERVICES   ",
+  "ua" : "006"
+}
+, {
+  "agy" : "801",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "WORKFORCE INVESTMENT ACT - OTPS         ",
+  "fy_16_adopted" : "52385074",
+  "fy_15_exp" : "53951782",
+  "agy_name" : "DEPARTMENT OF SMALL BUSINESS SERVICES   ",
+  "ua" : "011"
+}
+, {
+  "agy" : "806",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "OFFICE OF ADMINISTRATION                ",
+  "fy_16_adopted" : "31078898",
+  "fy_15_exp" : "28654543",
+  "agy_name" : "HOUSING PRESERVATION AND DEVELOPMENT    ",
+  "ua" : "001"
+}
+, {
+  "agy" : "806",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "OFFICE OF DEVELOPMENT                   ",
+  "fy_16_adopted" : "26485710",
+  "fy_15_exp" : "22815580",
+  "agy_name" : "HOUSING PRESERVATION AND DEVELOPMENT    ",
+  "ua" : "002"
+}
+, {
+  "agy" : "806",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "OFFICE OF HOUSING PRESERVATION          ",
+  "fy_16_adopted" : "62916902",
+  "fy_15_exp" : "57820047",
+  "agy_name" : "HOUSING PRESERVATION AND DEVELOPMENT    ",
+  "ua" : "004"
+}
+, {
+  "agy" : "806",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "HOUSING MAINTENANCE AND SALES           ",
+  "fy_16_adopted" : "33072234",
+  "fy_15_exp" : "32349650",
+  "agy_name" : "HOUSING PRESERVATION AND DEVELOPMENT    ",
+  "ua" : "006"
+}
+, {
+  "agy" : "806",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OFFICE OF ADMINISTRATION OTPS           ",
+  "fy_16_adopted" : "8979802",
+  "fy_15_exp" : "8876169",
+  "agy_name" : "HOUSING PRESERVATION AND DEVELOPMENT    ",
+  "ua" : "008"
+}
+, {
+  "agy" : "806",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OFFICE OF DEVELOPMENT OTPS              ",
+  "fy_16_adopted" : "508936784",
+  "fy_15_exp" : "502045508",
+  "agy_name" : "HOUSING PRESERVATION AND DEVELOPMENT    ",
+  "ua" : "009"
+}
+, {
+  "agy" : "806",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "HOUSING MANAGEMENT AND SALES            ",
+  "fy_16_adopted" : "14833479",
+  "fy_15_exp" : "12638705",
+  "agy_name" : "HOUSING PRESERVATION AND DEVELOPMENT    ",
+  "ua" : "010"
+}
+, {
+  "agy" : "806",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OFFICE OF HOUSING PRESERVATION          ",
+  "fy_16_adopted" : "66688952",
+  "fy_15_exp" : "53203213",
+  "agy_name" : "HOUSING PRESERVATION AND DEVELOPMENT    ",
+  "ua" : "011"
+}
+, {
+  "agy" : "810",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PERSONAL SERVICES                       ",
+  "fy_16_adopted" : "110980545",
+  "fy_15_exp" : "88164204",
+  "agy_name" : "DEPARTMENT OF BUILDINGS                 ",
+  "ua" : "001"
+}
+, {
+  "agy" : "810",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTHER THAN PERSONAL SERVICES            ",
+  "fy_16_adopted" : "43438687",
+  "fy_15_exp" : "20509204",
+  "agy_name" : "DEPARTMENT OF BUILDINGS                 ",
+  "ua" : "002"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "HEALTH ADMINISTRATION - PS              ",
+  "fy_16_adopted" : "37186205",
+  "fy_15_exp" : "43629559",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "101"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "DISEASE CONTROL - PS                    ",
+  "fy_16_adopted" : "83974782",
+  "fy_15_exp" : "77761058",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "102"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "FAMILY & CHILD HLTH AND HLTH EQUITY - PS",
+  "fy_16_adopted" : "93875176",
+  "fy_15_exp" : "92917819",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "103"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "ENVIRONMENTAL HEALTH - PS               ",
+  "fy_16_adopted" : "57807414",
+  "fy_15_exp" : "51765434",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "104"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "EARLY INTERVENTION - PS                 ",
+  "fy_16_adopted" : "15309609",
+  "fy_15_exp" : "0.0",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "105"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "OFFICE OF CHIEF MEDICAL EXAMINER - PS   ",
+  "fy_16_adopted" : "48949920",
+  "fy_15_exp" : "47103811",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "106"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PREVENTION & PRIMARY CARE - PS          ",
+  "fy_16_adopted" : "12242303",
+  "fy_15_exp" : "22903095",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "107"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "MENTAL HYGIENE MANAGEMENT SERVICES - PS ",
+  "fy_16_adopted" : "32556722",
+  "fy_15_exp" : "40245259",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "108"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "EPIDEMIOLOGY - PS                       ",
+  "fy_16_adopted" : "13566417",
+  "fy_15_exp" : "13636688",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "109"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "HEALTH ADMINISTRATION - OTPS            ",
+  "fy_16_adopted" : "88222902",
+  "fy_15_exp" : "103082319",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "111"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "DISEASE CONTROL - OTPS                  ",
+  "fy_16_adopted" : "178369674",
+  "fy_15_exp" : "172755193",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "112"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "FAMILY & CHILD HLTH AND HLTH EQUITY-OTPS",
+  "fy_16_adopted" : "41712000",
+  "fy_15_exp" : "46683424",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "113"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "ENVIRONMENTAL HEALTH - OTPS             ",
+  "fy_16_adopted" : "33268788",
+  "fy_15_exp" : "29248258",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "114"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "EARLY INTERVENTION - OTPS               ",
+  "fy_16_adopted" : "202350739",
+  "fy_15_exp" : "0.0",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "115"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OFFICE OF CHIEF MEDICAL EXAMINER - OTPS ",
+  "fy_16_adopted" : "15418823",
+  "fy_15_exp" : "19435586",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "116"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "PREVENTION & PRIMARY CARE - OTPS        ",
+  "fy_16_adopted" : "73472698",
+  "fy_15_exp" : "179133098",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "117"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "MENTAL HYGIENE MANAGEMENT SERVICES- OTPS",
+  "fy_16_adopted" : "10900252",
+  "fy_15_exp" : "9706198",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "118"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "EPIDEMIOLOGY - OTPS                     ",
+  "fy_16_adopted" : "5943841",
+  "fy_15_exp" : "5328984",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "119"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "MENTAL HEALTH                           ",
+  "fy_16_adopted" : "216072450",
+  "fy_15_exp" : "236930979",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "120"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "DEVELOPMENT DISABILITY - OTPS           ",
+  "fy_16_adopted" : "13037746",
+  "fy_15_exp" : "229631825",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "121"
+}
+, {
+  "agy" : "816",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "CHEMICAL DEPENDENCY AND HEALTH PROMOTION",
+  "fy_16_adopted" : "76009945",
+  "fy_15_exp" : "73648234",
+  "agy_name" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE ",
+  "ua" : "122"
+}
+, {
+  "agy" : "819",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "LUMP SUM                                ",
+  "fy_16_adopted" : "377999729",
+  "fy_15_exp" : "335141350",
+  "agy_name" : "HEALTH AND HOSPITALS CORP               ",
+  "ua" : "001"
+}
+, {
+  "agy" : "820",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "OFF OF ADM. TRIALS & HEARINGS           ",
+  "fy_16_adopted" : "29878688",
+  "fy_15_exp" : "27230718",
+  "agy_name" : "OFFICE OF ADMIN TRIALS & HEARINGS       ",
+  "ua" : "001"
+}
+, {
+  "agy" : "820",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OFFICE OF ADMIN. TRIALS & HEARINGS- OTPS",
+  "fy_16_adopted" : "9270809",
+  "fy_15_exp" : "7140569",
+  "agy_name" : "OFFICE OF ADMIN TRIALS & HEARINGS       ",
+  "ua" : "002"
+}
+, {
+  "agy" : "826",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "EXECUTIVE AND SUPPORT                   ",
+  "fy_16_adopted" : "32552287",
+  "fy_15_exp" : "30948257",
+  "agy_name" : "DEPARTMENT OF ENVIRONMENTAL PROTECT.    ",
+  "ua" : "001"
+}
+, {
+  "agy" : "826",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "ENVIRONMENTAL MANAGEMENT                ",
+  "fy_16_adopted" : "22752146",
+  "fy_15_exp" : "23250747",
+  "agy_name" : "DEPARTMENT OF ENVIRONMENTAL PROTECT.    ",
+  "ua" : "002"
+}
+, {
+  "agy" : "826",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "WATER SUP. & WASTEWATER COLL            ",
+  "fy_16_adopted" : "184270508",
+  "fy_15_exp" : "178113961",
+  "agy_name" : "DEPARTMENT OF ENVIRONMENTAL PROTECT.    ",
+  "ua" : "003"
+}
+, {
+  "agy" : "826",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "CENTRAL UTILITY                         ",
+  "fy_16_adopted" : "77273008",
+  "fy_15_exp" : "74196594",
+  "agy_name" : "DEPARTMENT OF ENVIRONMENTAL PROTECT.    ",
+  "ua" : "007"
+}
+, {
+  "agy" : "826",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "WASTEWATER TREATMENT                    ",
+  "fy_16_adopted" : "167950048",
+  "fy_15_exp" : "170706966",
+  "agy_name" : "DEPARTMENT OF ENVIRONMENTAL PROTECT.    ",
+  "ua" : "008"
+}
+, {
+  "agy" : "826",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "UTILITY - OTPS                          ",
+  "fy_16_adopted" : "638435396",
+  "fy_15_exp" : "577654430",
+  "agy_name" : "DEPARTMENT OF ENVIRONMENTAL PROTECT.    ",
+  "ua" : "004"
+}
+, {
+  "agy" : "826",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "ENVIRONMENTAL MANAGEMENT -OTPS          ",
+  "fy_16_adopted" : "62694811",
+  "fy_15_exp" : "105484035",
+  "agy_name" : "DEPARTMENT OF ENVIRONMENTAL PROTECT.    ",
+  "ua" : "005"
+}
+, {
+  "agy" : "826",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "EXECUTIVE & SUPPORT-OTPS                ",
+  "fy_16_adopted" : "67632349",
+  "fy_15_exp" : "55698875",
+  "agy_name" : "DEPARTMENT OF ENVIRONMENTAL PROTECT.    ",
+  "ua" : "006"
+}
+, {
+  "agy" : "827",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "EXECUTIVE ADMINISTRATIVE                ",
+  "fy_16_adopted" : "78993991",
+  "fy_15_exp" : "66068141",
+  "agy_name" : "DEPARTMENT OF SANITATION                ",
+  "ua" : "101"
+}
+, {
+  "agy" : "827",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "CLEANING & COLLECTION                   ",
+  "fy_16_adopted" : "672315426",
+  "fy_15_exp" : "650497429",
+  "agy_name" : "DEPARTMENT OF SANITATION                ",
+  "ua" : "102"
+}
+, {
+  "agy" : "827",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "WASTE DISPOSAL                          ",
+  "fy_16_adopted" : "26087272",
+  "fy_15_exp" : "18658698",
+  "agy_name" : "DEPARTMENT OF SANITATION                ",
+  "ua" : "103"
+}
+, {
+  "agy" : "827",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "BUILDING MANAGEMENT                     ",
+  "fy_16_adopted" : "22318467",
+  "fy_15_exp" : "18957539",
+  "agy_name" : "DEPARTMENT OF SANITATION                ",
+  "ua" : "104"
+}
+, {
+  "agy" : "827",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "BUREAU OF MOTOR EQUIP                   ",
+  "fy_16_adopted" : "62954486",
+  "fy_15_exp" : "60658234",
+  "agy_name" : "DEPARTMENT OF SANITATION                ",
+  "ua" : "105"
+}
+, {
+  "agy" : "827",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "SNOW BUDGET-PS                          ",
+  "fy_16_adopted" : "47499953",
+  "fy_15_exp" : "71927842",
+  "agy_name" : "DEPARTMENT OF SANITATION                ",
+  "ua" : "107"
+}
+, {
+  "agy" : "827",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "EXEC & ADMINISTRATIVE-OTPS              ",
+  "fy_16_adopted" : "91961227",
+  "fy_15_exp" : "88864697",
+  "agy_name" : "DEPARTMENT OF SANITATION                ",
+  "ua" : "106"
+}
+, {
+  "agy" : "827",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "CLEANING & COLLECTION-OTPS              ",
+  "fy_16_adopted" : "22092056",
+  "fy_15_exp" : "49155622",
+  "agy_name" : "DEPARTMENT OF SANITATION                ",
+  "ua" : "109"
+}
+, {
+  "agy" : "827",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "WASTE DISPOSAL-OTPS                     ",
+  "fy_16_adopted" : "484364113",
+  "fy_15_exp" : "372017161",
+  "agy_name" : "DEPARTMENT OF SANITATION                ",
+  "ua" : "110"
+}
+, {
+  "agy" : "827",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "BUILDING MANAGEMENT-OTPS                ",
+  "fy_16_adopted" : "4197942",
+  "fy_15_exp" : "4722904",
+  "agy_name" : "DEPARTMENT OF SANITATION                ",
+  "ua" : "111"
+}
+, {
+  "agy" : "827",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "MOTOR EQUIPMENT-OTPS                    ",
+  "fy_16_adopted" : "24396517",
+  "fy_15_exp" : "31191868",
+  "agy_name" : "DEPARTMENT OF SANITATION                ",
+  "ua" : "112"
+}
+, {
+  "agy" : "827",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "SNOW-OTPS                               ",
+  "fy_16_adopted" : "29963997",
+  "fy_15_exp" : "44691478",
+  "agy_name" : "DEPARTMENT OF SANITATION                ",
+  "ua" : "113"
+}
+, {
+  "agy" : "829",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PERSONAL SERVICES                       ",
+  "fy_16_adopted" : "5377211",
+  "fy_15_exp" : "5004058",
+  "agy_name" : "BUSINESS INTEGRITY COMMISSION           ",
+  "ua" : "001"
+}
+, {
+  "agy" : "829",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTHER THAN PERSONAL SERVICES            ",
+  "fy_16_adopted" : "2068623",
+  "fy_15_exp" : "3061338",
+  "agy_name" : "BUSINESS INTEGRITY COMMISSION           ",
+  "ua" : "002"
+}
+, {
+  "agy" : "836",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "ADMINISTRATION & PLANNING               ",
+  "fy_16_adopted" : "44129718",
+  "fy_15_exp" : "39525576",
+  "agy_name" : "DEPARTMENT OF FINANCE                   ",
+  "ua" : "001"
+}
+, {
+  "agy" : "836",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "OPERATIONS                              ",
+  "fy_16_adopted" : "30134528",
+  "fy_15_exp" : "27236068",
+  "agy_name" : "DEPARTMENT OF FINANCE                   ",
+  "ua" : "002"
+}
+, {
+  "agy" : "836",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PROPERTY                                ",
+  "fy_16_adopted" : "21956148",
+  "fy_15_exp" : "19018667",
+  "agy_name" : "DEPARTMENT OF FINANCE                   ",
+  "ua" : "003"
+}
+, {
+  "agy" : "836",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "AUDIT                                   ",
+  "fy_16_adopted" : "27519268",
+  "fy_15_exp" : "23768539",
+  "agy_name" : "DEPARTMENT OF FINANCE                   ",
+  "ua" : "004"
+}
+, {
+  "agy" : "836",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "LEGAL                                   ",
+  "fy_16_adopted" : "5740407",
+  "fy_15_exp" : "5751276",
+  "agy_name" : "DEPARTMENT OF FINANCE                   ",
+  "ua" : "005"
+}
+, {
+  "agy" : "836",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PARKING VIOLATIONS BUREAU               ",
+  "fy_16_adopted" : "9299827",
+  "fy_15_exp" : "8847447",
+  "agy_name" : "DEPARTMENT OF FINANCE                   ",
+  "ua" : "007"
+}
+, {
+  "agy" : "836",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "CITY SHERIFF                            ",
+  "fy_16_adopted" : "19658736",
+  "fy_15_exp" : "17127704",
+  "agy_name" : "DEPARTMENT OF FINANCE                   ",
+  "ua" : "009"
+}
+, {
+  "agy" : "836",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "ADMINISTRATION-OTPS                     ",
+  "fy_16_adopted" : "54284010",
+  "fy_15_exp" : "54309446",
+  "agy_name" : "DEPARTMENT OF FINANCE                   ",
+  "ua" : "011"
+}
+, {
+  "agy" : "836",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OPERATIONS-OTPS                         ",
+  "fy_16_adopted" : "32023701",
+  "fy_15_exp" : "33133689",
+  "agy_name" : "DEPARTMENT OF FINANCE                   ",
+  "ua" : "022"
+}
+, {
+  "agy" : "836",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "PROPERTY-OTPS                           ",
+  "fy_16_adopted" : "1942970",
+  "fy_15_exp" : "2154438",
+  "agy_name" : "DEPARTMENT OF FINANCE                   ",
+  "ua" : "033"
+}
+, {
+  "agy" : "836",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "AUDIT-OTPS                              ",
+  "fy_16_adopted" : "612080",
+  "fy_15_exp" : "950735",
+  "agy_name" : "DEPARTMENT OF FINANCE                   ",
+  "ua" : "044"
+}
+, {
+  "agy" : "836",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "LEGAL-OTPS                              ",
+  "fy_16_adopted" : "82790",
+  "fy_15_exp" : "68237",
+  "agy_name" : "DEPARTMENT OF FINANCE                   ",
+  "ua" : "055"
+}
+, {
+  "agy" : "836",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "PARKING VIOLATIONS BUREAU OTPS          ",
+  "fy_16_adopted" : "1453198",
+  "fy_15_exp" : "1223625",
+  "agy_name" : "DEPARTMENT OF FINANCE                   ",
+  "ua" : "077"
+}
+, {
+  "agy" : "836",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "CITY SHERIFF-OTPS                       ",
+  "fy_16_adopted" : "17173283",
+  "fy_15_exp" : "18639853",
+  "agy_name" : "DEPARTMENT OF FINANCE                   ",
+  "ua" : "099"
+}
+, {
+  "agy" : "841",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "EXEC ADM & PLANN MGT.                   ",
+  "fy_16_adopted" : "45152250",
+  "fy_15_exp" : "48608829",
+  "agy_name" : "DEPARTMENT OF TRANSPORTATION            ",
+  "ua" : "001"
+}
+, {
+  "agy" : "841",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "HIGHWAY OPERATIONS                      ",
+  "fy_16_adopted" : "141165540",
+  "fy_15_exp" : "143772226",
+  "agy_name" : "DEPARTMENT OF TRANSPORTATION            ",
+  "ua" : "002"
+}
+, {
+  "agy" : "841",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "TRANSIT OPERATIONS                      ",
+  "fy_16_adopted" : "60209774",
+  "fy_15_exp" : "57566215",
+  "agy_name" : "DEPARTMENT OF TRANSPORTATION            ",
+  "ua" : "003"
+}
+, {
+  "agy" : "841",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "TRAFFIC OPERATIONS                      ",
+  "fy_16_adopted" : "91997548",
+  "fy_15_exp" : "94277601",
+  "agy_name" : "DEPARTMENT OF TRANSPORTATION            ",
+  "ua" : "004"
+}
+, {
+  "agy" : "841",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "BUREAU OF BRIDGES                       ",
+  "fy_16_adopted" : "76287763",
+  "fy_15_exp" : "68590962",
+  "agy_name" : "DEPARTMENT OF TRANSPORTATION            ",
+  "ua" : "006"
+}
+, {
+  "agy" : "841",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "BUREAU OF BRIDGES - OTPS                ",
+  "fy_16_adopted" : "26834497",
+  "fy_15_exp" : "22318123",
+  "agy_name" : "DEPARTMENT OF TRANSPORTATION            ",
+  "ua" : "007"
+}
+, {
+  "agy" : "841",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTPS-EXEC AND ADMINISTRATION            ",
+  "fy_16_adopted" : "53799620",
+  "fy_15_exp" : "53774262",
+  "agy_name" : "DEPARTMENT OF TRANSPORTATION            ",
+  "ua" : "011"
+}
+, {
+  "agy" : "841",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTPS-HIGHWAY OPERATIONS                 ",
+  "fy_16_adopted" : "100101972",
+  "fy_15_exp" : "95904111",
+  "agy_name" : "DEPARTMENT OF TRANSPORTATION            ",
+  "ua" : "012"
+}
+, {
+  "agy" : "841",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTPS-TRANSIT OPERATIONS                 ",
+  "fy_16_adopted" : "35745820",
+  "fy_15_exp" : "51237772",
+  "agy_name" : "DEPARTMENT OF TRANSPORTATION            ",
+  "ua" : "013"
+}
+, {
+  "agy" : "841",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTPS-TRAFFIC OPERATIONS                 ",
+  "fy_16_adopted" : "248717059",
+  "fy_15_exp" : "248945805",
+  "agy_name" : "DEPARTMENT OF TRANSPORTATION            ",
+  "ua" : "014"
+}
+, {
+  "agy" : "846",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "EXEC MGMT & ADMIN                       ",
+  "fy_16_adopted" : "8141676",
+  "fy_15_exp" : "8196948",
+  "agy_name" : "DEPARTMENT OF PARKS AND RECREATION      ",
+  "ua" : "001"
+}
+, {
+  "agy" : "846",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "MAINTENANCE & OPERATIONS                ",
+  "fy_16_adopted" : "270690284",
+  "fy_15_exp" : "268746281",
+  "agy_name" : "DEPARTMENT OF PARKS AND RECREATION      ",
+  "ua" : "002"
+}
+, {
+  "agy" : "846",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "DESIGN & ENGINEERING                    ",
+  "fy_16_adopted" : "41581827",
+  "fy_15_exp" : "39040083",
+  "agy_name" : "DEPARTMENT OF PARKS AND RECREATION      ",
+  "ua" : "003"
+}
+, {
+  "agy" : "846",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "RECREATION SERVICES                     ",
+  "fy_16_adopted" : "24743430",
+  "fy_15_exp" : "26329216",
+  "agy_name" : "DEPARTMENT OF PARKS AND RECREATION      ",
+  "ua" : "004"
+}
+, {
+  "agy" : "846",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "MAINT & OPERATIONS - OTPS               ",
+  "fy_16_adopted" : "79718900",
+  "fy_15_exp" : "124541522",
+  "agy_name" : "DEPARTMENT OF PARKS AND RECREATION      ",
+  "ua" : "006"
+}
+, {
+  "agy" : "846",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "EXEC MGT/ADMIN SVCS-OTPS                ",
+  "fy_16_adopted" : "24017034",
+  "fy_15_exp" : "23727201",
+  "agy_name" : "DEPARTMENT OF PARKS AND RECREATION      ",
+  "ua" : "007"
+}
+, {
+  "agy" : "846",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "RECREATION SERVICES-OTPS                ",
+  "fy_16_adopted" : "1585906",
+  "fy_15_exp" : "1594839",
+  "agy_name" : "DEPARTMENT OF PARKS AND RECREATION      ",
+  "ua" : "009"
+}
+, {
+  "agy" : "846",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "DESIGN & ENGINEERING-OTPS               ",
+  "fy_16_adopted" : "4201478",
+  "fy_15_exp" : "4092361",
+  "agy_name" : "DEPARTMENT OF PARKS AND RECREATION      ",
+  "ua" : "010"
+}
+, {
+  "agy" : "850",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PERSONAL SERVICES                       ",
+  "fy_16_adopted" : "111318362",
+  "fy_15_exp" : "96878642",
+  "agy_name" : "DEPARTMENT OF DESIGN & CONSTRUCTION     ",
+  "ua" : "001"
+}
+, {
+  "agy" : "850",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTHER THAN PERSONAL SERVICES            ",
+  "fy_16_adopted" : "452855794",
+  "fy_15_exp" : "63399937",
+  "agy_name" : "DEPARTMENT OF DESIGN & CONSTRUCTION     ",
+  "ua" : "002"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "HUMAN CAPITAL                           ",
+  "fy_16_adopted" : "22344116",
+  "fy_15_exp" : "22221105",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "001"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "BD OF STANDARD & APPEALS PS             ",
+  "fy_16_adopted" : "1908159",
+  "fy_15_exp" : "1672223",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "005"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "EXECUTIVE AND OPERATIONS SUPPORT        ",
+  "fy_16_adopted" : "20264187",
+  "fy_15_exp" : "18783663",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "100"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "DIV OF ADMINISTRATION AND SECURITY - PS ",
+  "fy_16_adopted" : "9127697",
+  "fy_15_exp" : "9108906",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "200"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "ASSET MANAGEMENT-PUBLIC FACILITIES      ",
+  "fy_16_adopted" : "87953367",
+  "fy_15_exp" : "83721450",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "300"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "OFFICE OF CITYWIDE PURCHASING           ",
+  "fy_16_adopted" : "10842427",
+  "fy_15_exp" : "10069820",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "400"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "DIV OF REAL ESTATE SERVICES             ",
+  "fy_16_adopted" : "8105",
+  "fy_15_exp" : "5966",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "500"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "EXTERNAL PUBLICATIONS AND RETAIL        ",
+  "fy_16_adopted" : "1590505",
+  "fy_15_exp" : "1403462",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "600"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "ENERGY MANAGEMENT                       ",
+  "fy_16_adopted" : "4530631",
+  "fy_15_exp" : "2930798",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "700"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "CITYWIDE FLEET SERVICES                 ",
+  "fy_16_adopted" : "2494671",
+  "fy_15_exp" : "2548059",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "800"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "HUMAN CAPITAL                           ",
+  "fy_16_adopted" : "7648754",
+  "fy_15_exp" : "6121763",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "002"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "BD. OF STANDARD & APPEAL  OTPS          ",
+  "fy_16_adopted" : "733543",
+  "fy_15_exp" : "320441",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "006"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "EXECUTIVE AND OPERATIONS SUPPORT - OTPS ",
+  "fy_16_adopted" : "9484596",
+  "fy_15_exp" : "9732788",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "190"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "DIV OF ADMINISTRATION AND SECURITY- OTPS",
+  "fy_16_adopted" : "15487273",
+  "fy_15_exp" : "15045564",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "290"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "ASSET MANAGEMENT-PUBLIC FACILITIES-OTPS ",
+  "fy_16_adopted" : "900181839",
+  "fy_15_exp" : "883207502",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "390"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OFFICE OF CITYWIDE PURCHASING - OTPS    ",
+  "fy_16_adopted" : "27604023",
+  "fy_15_exp" : "29216883",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "490"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "EXTERNAL PUBLICATIONS AND RETAIL - OTPS ",
+  "fy_16_adopted" : "1195257",
+  "fy_15_exp" : "1077137",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "690"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "ENERGY MANAGEMENT - OTPS                ",
+  "fy_16_adopted" : "51067021",
+  "fy_15_exp" : "26718356",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "790"
+}
+, {
+  "agy" : "856",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "CITYWIDE FLEET SERVICES - OTPS          ",
+  "fy_16_adopted" : "8756814",
+  "fy_15_exp" : "33876582",
+  "agy_name" : "DEPARTMENT OF CITYWIDE ADMIN SERVICE    ",
+  "ua" : "890"
+}
+, {
+  "agy" : "858",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PERSONAL SERVICES                       ",
+  "fy_16_adopted" : "136728805",
+  "fy_15_exp" : "98851416",
+  "agy_name" : "DEPARTMENT OF INFO TECH & TELECOMM      ",
+  "ua" : "001"
+}
+, {
+  "agy" : "858",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTHER THAN PERSONAL SERVICES            ",
+  "fy_16_adopted" : "416341089",
+  "fy_15_exp" : "392864505",
+  "agy_name" : "DEPARTMENT OF INFO TECH & TELECOMM      ",
+  "ua" : "002"
+}
+, {
+  "agy" : "860",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "PERSONAL SERVICES                       ",
+  "fy_16_adopted" : "2785186",
+  "fy_15_exp" : "2751648",
+  "agy_name" : "DEPARTMENT OF RECORDS & INFORMATION SVS ",
+  "ua" : "100"
+}
+, {
+  "agy" : "860",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTHER THAN PERSONAL SERVICES            ",
+  "fy_16_adopted" : "3683669",
+  "fy_15_exp" : "3500177",
+  "agy_name" : "DEPARTMENT OF RECORDS & INFORMATION SVS ",
+  "ua" : "200"
+}
+, {
+  "agy" : "866",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "ADMINISTRATION                          ",
+  "fy_16_adopted" : "6832854",
+  "fy_15_exp" : "7002678",
+  "agy_name" : "DEPARTMENT OF CONSUMER AFFAIRS          ",
+  "ua" : "001"
+}
+, {
+  "agy" : "866",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "LICENSING/ENFORCEMENT                   ",
+  "fy_16_adopted" : "16143660",
+  "fy_15_exp" : "12848238",
+  "agy_name" : "DEPARTMENT OF CONSUMER AFFAIRS          ",
+  "ua" : "002"
+}
+, {
+  "agy" : "866",
+  "ps_otps_ind" : "Personal Services",
+  "ua_name" : "ADJUDICATION                            ",
+  "fy_16_adopted" : "3349985",
+  "fy_15_exp" : "2450671",
+  "agy_name" : "DEPARTMENT OF CONSUMER AFFAIRS          ",
+  "ua" : "004"
+}
+, {
+  "agy" : "866",
+  "ps_otps_ind" : "Other Than Personal Services",
+  "ua_name" : "OTHER THAN PERSONAL SERVICE             ",
+  "fy_16_adopted" : "14974494",
+  "fy_15_exp" : "15133071",
+  "agy_name" : "DEPARTMENT OF CONSUMER AFFAIRS          ",
+  "ua" : "003"
+}
+ ]

@@ -1,0 +1,2476 @@
+[ {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77846190585765",
+    "human_address" : "{\"address\":\"290 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97806907192204"
+  },
+  "telephone" : "212 769-0368",
+  "shop_name" : "A Tempo"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.779090781952604",
+    "human_address" : "{\"address\":\"310 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97761020669302"
+  },
+  "website" : "www.aerosoles.com",
+  "telephone" : "212 579-8659",
+  "shop_name" : "Aerosoles"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77899552592294",
+    "human_address" : "{\"address\":\"305 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97764303985957"
+  },
+  "website" : "www.agjeans.com",
+  "telephone" : "212 496-5692",
+  "shop_name" : "AG Adriano Goldschmied"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.776432066383855",
+    "human_address" : "{\"address\":\"228 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97954093116604"
+  },
+  "telephone" : "212 787-7066",
+  "shop_name" : "Alskling"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77617245619519",
+    "human_address" : "{\"address\":\"223 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97964499858017"
+  },
+  "telephone" : "212 877-3320",
+  "shop_name" : "Artiste Jewelers"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.78243093607489",
+    "human_address" : "{\"address\":\"410 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97514292461813"
+  },
+  "website" : "www.berkleygirl.com",
+  "telephone" : "212 877-4770",
+  "shop_name" : "Berkley Girl",
+  "store_type_category_2" : "Childrens Stores"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77705337167149",
+    "human_address" : "{\"address\":\"248 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97909413128633"
+  },
+  "website" : "www.betseyjohnson.com",
+  "telephone" : "212 362-3364",
+  "shop_name" : "Betsey Johnson"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.78243093607489",
+    "human_address" : "{\"address\":\"410 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97514292461813"
+  },
+  "website" : "www.bitzkidsnyc.com",
+  "telephone" : "212 724-1415",
+  "shop_name" : "Bit&#39;z Kids",
+  "store_type_category_2" : "Childrens Stores"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77670597399539",
+    "human_address" : "{\"address\":\"239 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97926176748427"
+  },
+  "telephone" : "212 496-5649",
+  "shop_name" : "Brief Encounters"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77580826174137",
+    "human_address" : "{\"address\":\"211 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97991642410558"
+  },
+  "website" : "www.clubmonaco.com",
+  "telephone" : "212 724-4076",
+  "shop_name" : "Club Monaco"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77500588971157",
+    "human_address" : "{\"address\":\"184 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9805735850231"
+  },
+  "website" : "www.mothers-and-daughters.com",
+  "telephone" : "212 874-0983",
+  "shop_name" : "Comptoirs des Cotonniers"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77780351096482",
+    "human_address" : "{\"address\":\"270 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97854767254084"
+  },
+  "website" : "www.crocs.com",
+  "telephone" : "212 362-1655",
+  "shop_name" : "Crocs",
+  "store_type_category_2" : " "
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.779970188713115",
+    "human_address" : "{\"address\":\"341 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97688786478378"
+  },
+  "website" : "www.eileenfisher.com",
+  "telephone" : "212 362-3000",
+  "shop_name" : "Eileen Fisher"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.778595285301975",
+    "human_address" : "{\"address\":\"294 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97797326415218"
+  },
+  "telephone" : "212 799-1994",
+  "shop_name" : "Footlights Shoes"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.78326468817583",
+    "human_address" : "{\"address\":\"440 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9745665882731"
+  },
+  "website" : "www.frankstellanyc.com",
+  "telephone" : "212 877-5566",
+  "shop_name" : "Frank Stella"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77511387603502",
+    "human_address" : "{\"address\":\"189B Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98041737397685"
+  },
+  "website" : "www.gasbijoux.com/en",
+  "telephone" : "212 799-0282",
+  "shop_name" : "Gas Bijoux "
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.78375781642727",
+    "human_address" : "{\"address\":\"454 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97421153593206"
+  },
+  "telephone" : "212 580-4322",
+  "shop_name" : "Greenstones & Cie.",
+  "store_type_category_2" : "Childrens Stores"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.775875942149526",
+    "human_address" : "{\"address\":\"210 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97994877355256"
+  },
+  "website" : "www.intermixonline.com",
+  "telephone" : "212 769-9116",
+  "shop_name" : "Intermix"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77540602804455",
+    "human_address" : "{\"address\":\"196 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98029743321584"
+  },
+  "website" : "www.kangol.com",
+  "telephone" : "212 724-1172",
+  "shop_name" : "Kangol"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77716802197478",
+    "human_address" : "{\"address\":\"253 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97892912498052"
+  },
+  "website" : "www.lailarowe.com",
+  "telephone" : "212 579-5254",
+  "shop_name" : "Laila Rowe"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77959071965942",
+    "human_address" : "{\"address\":\"326 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97724444473214"
+  },
+  "telephone" : "212 873-8746",
+  "shop_name" : "Liana"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77619198337491",
+    "human_address" : "{\"address\":\"220 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97971338515838"
+  },
+  "website" : "www.maliamills.com",
+  "telephone" : "212 874-7200",
+  "shop_name" : "Malia Mills"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.78272481315315",
+    "human_address" : "{\"address\":\"420 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97496695403454"
+  },
+  "website" : "www.medicishoes.com",
+  "telephone" : "212 712-9342",
+  "shop_name" : "Medici"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77917539032882",
+    "human_address" : "{\"address\":\"313 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97750814155518"
+  },
+  "website" : "www.michalgolan.com",
+  "telephone" : "212 362-6690 ",
+  "shop_name" : "Michal Golan"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.783546475734255",
+    "human_address" : "{\"address\":\"448 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97436370123103"
+  },
+  "website" : "www.mintnyc.com",
+  "telephone" : "212 362-6250",
+  "shop_name" : "Mint"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.78375781642727",
+    "human_address" : "{\"address\":\"454 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97421153593206"
+  },
+  "website" : "www.naturino.com",
+  "telephone" : "212 580-4322",
+  "shop_name" : "Naturino",
+  "store_type_category_2" : "Childrens Stores"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77719426545071",
+    "human_address" : "{\"address\":\"252 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97899268776528"
+  },
+  "website" : "www.oliveandbettes.com",
+  "telephone" : "212 579-2178",
+  "shop_name" : "Olive & Bette&#39;s"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.7816125530282",
+    "human_address" : "{\"address\":\"386 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97572748393713"
+  },
+  "website" : "www.onlyhearts.com",
+  "telephone" : "212 724-5608",
+  "shop_name" : "Only Hearts"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.776886234416345",
+    "human_address" : "{\"address\":\"245 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9791320120226"
+  },
+  "website" : "www.paigeusa.com",
+  "telephone" : "212 769-1500",
+  "shop_name" : "Paige"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.78288959030982",
+    "human_address" : "{\"address\":\"426 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97480118224695"
+  },
+  "telephone" : "917 441-0011",
+  "shop_name" : "Patagonia"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77954411236084",
+    "human_address" : "{\"address\":\"322 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97723834494639"
+  },
+  "website" : "www.pookieandsebastian.com",
+  "telephone" : "212 580-5844",
+  "shop_name" : "Pookie & Sebastian"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77500588971157",
+    "human_address" : "{\"address\":\"184 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9805735850231"
+  },
+  "website" : "www.rag-bone.com",
+  "telephone" : "212 362-7138",
+  "shop_name" : "Rag & Bone"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.778261836668264",
+    "human_address" : "{\"address\":\"284A Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97821278359328"
+  },
+  "telephone" : "212 787-5354",
+  "shop_name" : "Really Great Things"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.7788336479577",
+    "human_address" : "{\"address\":\"300 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97775995172339"
+  },
+  "telephone" : "212 787-5868",
+  "shop_name" : "Really GreatThings (expansion)"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77544732466873",
+    "human_address" : "{\"address\":\"199 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.980187247455"
+  },
+  "website" : "www.reissonline.com",
+  "telephone" : "212 874-0245",
+  "shop_name" : "Reiss"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77801766948471",
+    "human_address" : "{\"address\":\"276 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97838987152618"
+  },
+  "website" : "www.roslynjewelryny.com",
+  "telephone" : "212 496-5050",
+  "shop_name" : "Roslyn"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77631202487938",
+    "human_address" : "{\"address\":\"224 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97962715816222"
+  },
+  "website" : "www.seanstore.com",
+  "telephone" : "212 769-1489",
+  "shop_name" : "Sean"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77755661067607",
+    "human_address" : "{\"address\":\"100 72nd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97912692120792"
+  },
+  "website" : "www.swatch.com",
+  "telephone" : "212 595-9640",
+  "shop_name" : "Swatch"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77756263971731",
+    "human_address" : "{\"address\":\"265 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97864225192535"
+  },
+  "website" : "shopteddy.com",
+  "telephone" : "212 875-0500",
+  "shop_name" : "Teddy&#39;s"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77649208713609",
+    "human_address" : "{\"address\":\"230 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97949781766796"
+  },
+  "website" : "www.helmutlangjournal.com",
+  "telephone" : "212 877-3450",
+  "shop_name" : "Helut Lang"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77899919531656",
+    "human_address" : "{\"address\":\"309 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97759493404348"
+  },
+  "website" : "www.therapieny.com",
+  "telephone" : "212 877-3307",
+  "shop_name" : "Th&#233;rapie NY",
+  "store_type_category_3" : "Childrens Stores",
+  "store_type_category_2" : "Services"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.7795230906454",
+    "human_address" : "{\"address\":\"324 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97729328790894"
+  },
+  "website" : "thinkcloset.com",
+  "telephone" : "212 877-9777",
+  "shop_name" : "Think Closet"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.780021533610444",
+    "human_address" : "{\"address\":\"282 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97693301084871"
+  },
+  "website" : "www.vervenyc.com",
+  "telephone" : "212 580-7150",
+  "shop_name" : "Verve"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.7751392691559",
+    "human_address" : "{\"address\":\"188 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98048153442068"
+  },
+  "website" : "www.winknyc.com",
+  "telephone" : "212 877-7727",
+  "shop_name" : "Wink"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77755661067607",
+    "human_address" : "{\"address\":\"100 72nd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97912692120792"
+  },
+  "website" : "www.zbabycompany.com",
+  "telephone" : "212 579-2229",
+  "shop_name" : "Z Baby",
+  "store_type_category_2" : "Childrens Stores"
+}
+, {
+  "store_type_category_1" : "Coffee & Tea",
+  "location_1" : {
+    "latitude" : "40.7757056246949",
+    "human_address" : "{\"address\":\"66 70th St\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97887822679047"
+  },
+  "website" : "www.sensuousbean.com",
+  "telephone" : "212 724-7725",
+  "shop_name" : "Sensuous Bean"
+}
+, {
+  "store_type_category_1" : "Coffee & Tea",
+  "location_1" : {
+    "latitude" : "40.77999649376677",
+    "human_address" : "{\"address\":\"338 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97695138565459"
+  },
+  "website" : "www.starbucks.com",
+  "telephone" : "646 505-1106",
+  "shop_name" : "Starbucks"
+}
+, {
+  "store_type_category_1" : "Coffee & Tea",
+  "location_1" : {
+    "latitude" : "40.778024258131325",
+    "human_address" : "{\"address\":\"48 73 Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97811068731482"
+  },
+  "website" : "www.starbucks.com",
+  "telephone" : "212 579-7834",
+  "shop_name" : "Starbucks"
+}
+, {
+  "store_type_category_1" : "Coffee & Tea",
+  "location_1" : {
+    "latitude" : "40.78340558195504",
+    "human_address" : "{\"address\":\"444 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97446514475206"
+  },
+  "website" : "www.starbucks.com",
+  "telephone" : "212 769-2296",
+  "shop_name" : "Starbucks "
+}
+, {
+  "store_type_category_1" : "Coffee & Tea",
+  "location_1" : {
+    "latitude" : "40.78263404590875",
+    "human_address" : "{\"address\":\"416 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97503413204005"
+  },
+  "telephone" : "212 874-1936",
+  "shop_name" : "World Coffee"
+}
+, {
+  "store_type_category_1" : "Food Shops",
+  "location_1" : {
+    "latitude" : "40.782116173364614",
+    "human_address" : "{\"address\":\"102 79th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97588036868211"
+  },
+  "telephone" : "212 724-5425",
+  "shop_name" : "79 CP Deli"
+}
+, {
+  "store_type_category_1" : "Food Shops",
+  "location_1" : {
+    "latitude" : "40.78274569878516",
+    "human_address" : "{\"address\":\"418 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9749091008905"
+  },
+  "telephone" : "212 799-3355",
+  "shop_name" : "Andy&#39;s Deli"
+}
+, {
+  "store_type_category_1" : "Food Shops",
+  "location_1" : {
+    "latitude" : "40.775047186312854",
+    "human_address" : "{\"address\":\"187 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98046339927807"
+  },
+  "website" : "www.bomboloni.com",
+  "telephone" : "212 877-3080",
+  "shop_name" : "Bomboloni"
+}
+, {
+  "store_type_category_1" : "Food Shops",
+  "location_1" : {
+    "latitude" : "40.7766721493928",
+    "human_address" : "{\"address\":\"236 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97936847717371"
+  },
+  "telephone" : "212 579-5973",
+  "shop_name" : "Columbus Farm"
+}
+, {
+  "store_type_category_1" : "Food Shops",
+  "location_1" : {
+    "latitude" : "40.77741986735438",
+    "human_address" : "{\"address\":\"261 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97874745261385"
+  },
+  "website" : "www.columbusgourmetnyc.com",
+  "telephone" : "212 721-7800",
+  "shop_name" : "Columbus Gourmet Deli"
+}
+, {
+  "store_type_category_1" : "Food Shops",
+  "location_1" : {
+    "latitude" : "40.778102261681816",
+    "human_address" : "{\"address\":\"281 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97824499282405"
+  },
+  "telephone" : "212 877-0837",
+  "shop_name" : "CP Yang Grocery"
+}
+, {
+  "store_type_category_1" : "Food Shops",
+  "location_1" : {
+    "latitude" : "40.774277986590484",
+    "human_address" : "{\"address\":\"159 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98103709720698"
+  },
+  "website" : "www.gnc.com",
+  "telephone" : "212 721-1876",
+  "shop_name" : "General Nutrition Center"
+}
+, {
+  "store_type_category_1" : "Food Shops",
+  "location_1" : {
+    "latitude" : "40.77784818444318",
+    "human_address" : "{\"address\":\"273 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97843185054839"
+  },
+  "telephone" : "212 595-0010",
+  "shop_name" : "Gotham Food"
+}
+, {
+  "store_type_category_1" : "Food Shops",
+  "location_1" : {
+    "latitude" : "40.774847117146365",
+    "human_address" : "{\"address\":\"181 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98060147518169"
+  },
+  "telephone" : "212 580-4781",
+  "shop_name" : "Great Farm"
+}
+, {
+  "store_type_category_1" : "Food Shops",
+  "location_1" : {
+    "latitude" : "40.77884264117796",
+    "human_address" : "{\"address\":\"302 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97775095850307"
+  },
+  "website" : "www.lennysnyc.com",
+  "telephone" : "212 580-8300",
+  "shop_name" : "Lenny&#39;s Caf&#233"
+}
+, {
+  "store_type_category_1" : "Food Shops",
+  "location_1" : {
+    "latitude" : "40.78129544775672",
+    "human_address" : "{\"address\":\"378 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9759877042884"
+  },
+  "shop_name" : "Museum Deli & Grocery"
+}
+, {
+  "store_type_category_1" : "Food Shops",
+  "location_1" : {
+    "latitude" : "40.77928521534567",
+    "human_address" : "{\"address\":\"316 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97746649505467"
+  },
+  "telephone" : "212 595-7996",
+  "shop_name" : "Pappardella Gelato & Sorbetto "
+}
+, {
+  "store_type_category_1" : "Food Shops",
+  "location_1" : {
+    "latitude" : "40.77917539032882",
+    "human_address" : "{\"address\":\"313 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97750814155518"
+  },
+  "website" : "www.pinkberry.com/frozen-yogurt-store/us/ny/new-york/74/columbus-ave",
+  "telephone" : "212 874-1280",
+  "shop_name" : "Pinkberry"
+}
+, {
+  "store_type_category_1" : "Food Shops",
+  "location_1" : {
+    "latitude" : "40.77836902057047",
+    "human_address" : "{\"address\":\"289 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97805337728433"
+  },
+  "website" : "www.pioneersupermarkets.com",
+  "telephone" : "212 874-9506",
+  "shop_name" : "Pioneer Market"
+}
+, {
+  "store_type_category_1" : "Food Shops",
+  "location_1" : {
+    "latitude" : "40.77756263971731",
+    "human_address" : "{\"address\":\"265 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97864225192535"
+  },
+  "telephone" : "212 362-6076",
+  "shop_name" : "Super Sandwich"
+}
+, {
+  "store_type_category_1" : "Hotels & Entertainment",
+  "location_1" : {
+    "latitude" : "40.774224959293875",
+    "human_address" : "{\"address\":\"157 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"12023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98107782831886"
+  },
+  "telephone" : "212 456-7777",
+  "shop_name" : "ABC TV"
+}
+, {
+  "store_type_category_1" : "Hotels & Entertainment",
+  "location_1" : {
+    "latitude" : "40.776099708988625",
+    "human_address" : "{\"address\":\"31 71st Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97779592460455"
+  },
+  "website" : "www.comfortinn.com/",
+  "telephone" : "212 721-4770",
+  "shop_name" : "Comfort Inn"
+}
+, {
+  "store_type_category_1" : "Hotels & Entertainment",
+  "location_1" : {
+    "latitude" : "40.78295254285189",
+    "human_address" : "{\"address\":\"45 81st Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97388387377708"
+  },
+  "website" : "www.excelsiorhotelny.com",
+  "telephone" : "212 362-9200",
+  "shop_name" : "Excelsior Hotel"
+}
+, {
+  "store_type_category_1" : "Hotels & Entertainment",
+  "location_1" : {
+    "latitude" : "40.77496232773095",
+    "human_address" : "{\"address\":\"129 67th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98278656009595"
+  },
+  "website" : "kaufman-center.org/",
+  "telephone" : "212 501-3300",
+  "shop_name" : "Kaufman Center & Merkin Concert Hall"
+}
+, {
+  "store_type_category_1" : "Hotels & Entertainment",
+  "location_1" : {
+    "latitude" : "40.78320260973434",
+    "human_address" : "{\"address\":\"201 79th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97835560138569"
+  },
+  "website" : "www.thelucernehotel.com/",
+  "telephone" : "212 875-1000",
+  "shop_name" : "Lucerne Hotel"
+}
+, {
+  "store_type_category_1" : "Hotels & Entertainment",
+  "location_1" : {
+    "latitude" : "40.782242078448746",
+    "human_address" : "{\"address\":\"117 79th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97616815173149"
+  },
+  "website" : "www.park79.com/",
+  "telephone" : "212 787-3300",
+  "shop_name" : "Park 79 Hotel "
+}
+, {
+  "store_type_category_1" : "Hotels & Entertainment",
+  "location_1" : {
+    "latitude" : "40.77540903365787",
+    "human_address" : "{\"address\":\"1998 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98201490231912"
+  },
+  "website" : "www.amctheatres.com/LincolnSquare/",
+  "telephone" : "212 336-5020",
+  "shop_name" : "Lowes Lincoln Sq."
+}
+, {
+  "store_type_category_1" : "Hotels & Entertainment",
+  "location_1" : {
+    "latitude" : "40.78168315095149",
+    "human_address" : "{\"address\":\"2178 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9809333763634"
+  },
+  "website" : "www.ontheave-nyc.com/",
+  "telephone" : "212 362-1100",
+  "shop_name" : "On the Ave"
+}
+, {
+  "store_type_category_1" : "Museums & Cultural Institutions",
+  "location_1" : {
+    "latitude" : "40.604795381251094",
+    "human_address" : "{\"address\":\"2 Lincoln Square\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.06876264257916"
+  },
+  "website" : "folkartmuseum.org/branch",
+  "telephone" : "(212) 595-9533",
+  "shop_name" : "American Folk Art Museum"
+}
+, {
+  "store_type_category_1" : "Museums & Cultural Institutions",
+  "location_1" : {
+    "latitude" : "40.77947967410975",
+    "human_address" : "{\"address\":\"2 77th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97363676705098"
+  },
+  "website" : "www.nyhistory.org",
+  "telephone" : "212 873-3400",
+  "shop_name" : "New York Historical Society"
+}
+, {
+  "store_type_category_1" : "Museums & Cultural Institutions",
+  "location_1" : {
+    "latitude" : "40.78243093607489",
+    "human_address" : "{\"address\":\"410 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97514292461813"
+  },
+  "website" : "www.culturecenterny.org",
+  "telephone" : "212 769-1600",
+  "shop_name" : "The Culture Center"
+}
+, {
+  "store_type_category_1" : "Museums & Cultural Institutions",
+  "website" : "new.lincolncenter.org/",
+  "telephone" : "212.875.5456",
+  "shop_name" : "Lincoln Center for the Preforming Arts"
+}
+, {
+  "store_type_category_1" : "Museums & Cultural Institutions",
+  "location_1" : {
+    "latitude" : "40.773806432136304",
+    "human_address" : "{\"address\":\"165 65th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98397578271218"
+  },
+  "website" : "www.filmlinc.com/",
+  "telephone" : "212 875-5610",
+  "shop_name" : "Film Society of Lincoln Center "
+}
+, {
+  "store_type_category_1" : "Museums & Cultural Institutions",
+  "location_1" : {
+    "latitude" : "40.77263282256568",
+    "human_address" : "{\"address\":\"1941 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98235571039955"
+  },
+  "website" : "new.lincolncenter.org/",
+  "telephone" : "212 671-4050",
+  "shop_name" : "Allice Tully Hall"
+}
+, {
+  "store_type_category_1" : "Museums & Cultural Institutions",
+  "location_1" : {
+    "latitude" : "40.774536138232236",
+    "human_address" : "{\"address\":\"10 Lincoln Center Plaza\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97994335610099"
+  },
+  "website" : "www.metoperafamily.org",
+  "telephone" : "212-362-6000",
+  "shop_name" : "Metropolitan Opera House"
+}
+, {
+  "store_type_category_1" : "Museums & Cultural Institutions",
+  "location_1" : {
+    "latitude" : "40.774536138232236",
+    "human_address" : "{\"address\":\"10 Lincoln Center Plaza\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97994335610099"
+  },
+  "website" : "new.lincolncenter.org/",
+  "telephone" : "212.875.5030",
+  "shop_name" : "Avery Fisher Hall"
+}
+, {
+  "store_type_category_1" : "Museums & Cultural Institutions",
+  "location_1" : {
+    "latitude" : "40.774536138232236",
+    "human_address" : "{\"address\":\"50 Lincoln Center Plaza\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97994335610099"
+  },
+  "website" : "www.lct.org/",
+  "telephone" : "212 239-6200",
+  "shop_name" : "Beaumont & Newhouse Theaters"
+}
+, {
+  "store_type_category_1" : "Museums & Cultural Institutions",
+  "location_1" : {
+    "latitude" : "40.785299773348356",
+    "human_address" : "{\"address\":\"Central Park\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96934229752912"
+  },
+  "website" : "www.amnh.org",
+  "telephone" : "212 769-5100",
+  "shop_name" : "American Museum of Natural History"
+}
+, {
+  "store_type_category_1" : "Museums & Cultural Institutions",
+  "location_1" : {
+    "latitude" : "40.78514798756913",
+    "human_address" : "{\"address\":\"81st Street between Columbus\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97900343384845"
+  },
+  "website" : "www.amnh.org/rose",
+  "telephone" : "212 769-5200",
+  "shop_name" : "Rose Center for Earth & Space"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77824009541837",
+    "human_address" : "{\"address\":\"102 73rd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9786233008715"
+  },
+  "website" : "www.alicesteacup.com",
+  "telephone" : "212 799-3006",
+  "shop_name" : "Alice&#39;s Tea Cup",
+  "store_type_category_2" : "Coffee & Tea"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.7762525937336",
+    "human_address" : "{\"address\":\"221 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97963054154434"
+  },
+  "website" : "www.amberwestside.com",
+  "telephone" : "212 799-8100",
+  "shop_name" : "Amber"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77794628332776",
+    "human_address" : "{\"address\":\"274 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97844247185236"
+  },
+  "website" : "www.artearoundthecorner.com",
+  "telephone" : "212 875-2195",
+  "shop_name" : "Arte Around the Corner"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.776398051403035",
+    "human_address" : "{\"address\":\"71 71 Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97842710595285"
+  },
+  "website" : "ww.bellogiardino.com",
+  "telephone" : "212 875-1512",
+  "shop_name" : "Bello Giardino"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77657259455106",
+    "human_address" : "{\"address\":\"235 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97935757525414"
+  },
+  "website" : "www.bin71.com",
+  "telephone" : "212 362-5446",
+  "shop_name" : "Bin 71"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77634252593651",
+    "human_address" : "{\"address\":\"225 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97956758900227"
+  },
+  "website" : "www.bistrocassis.com",
+  "telephone" : "212 579-3966",
+  "shop_name" : "Bistro Cassis"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.781023467294595",
+    "human_address" : "{\"address\":\"368 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97619160700835"
+  },
+  "website" : "www.cafefrida.com",
+  "telephone" : "212 712-2929",
+  "shop_name" : "Caf&#233; Frida"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77702712819556",
+    "human_address" : "{\"address\":\"249 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97903056850157"
+  },
+  "website" : "www.caferonda.com",
+  "telephone" : "212 579-9929",
+  "shop_name" : "Caf&#233; Ronda"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77561407509279",
+    "human_address" : "{\"address\":\"106 69th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98053885679388"
+  },
+  "telephone" : "(212) 362-0819",
+  "shop_name" : "Caf&#233; Sonatina",
+  "store_type_category_2" : "Coffee & Tea"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77698292478188",
+    "human_address" : "{\"address\":\"246 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97914485304685"
+  },
+  "website" : "www.chinafun-ny.com",
+  "telephone" : "212 580-1516",
+  "shop_name" : "China Fun"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.777705412080245",
+    "human_address" : "{\"address\":\"269 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97853705123687"
+  },
+  "telephone" : "212 873-9400",
+  "shop_name" : "Columbus Tavern"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77698292478188",
+    "human_address" : "{\"address\":\"246 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97914485304685"
+  },
+  "website" : "www.columbus72.com",
+  "telephone" : "212 362-6244",
+  "shop_name" : "Columbus 72",
+  "store_type_category_2" : "Hotels & Entertainment"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.783918261498606",
+    "human_address" : "{\"address\":\"100 82 Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9741662532992"
+  },
+  "website" : "www.ditch-plains.com",
+  "telephone" : "212.362.4815",
+  "shop_name" : "Ditch Plains"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77941532401009",
+    "human_address" : "{\"address\":\"101 75th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9774408114314"
+  },
+  "website" : "www.divebarnyc.com",
+  "telephone" : "212 362-7518",
+  "shop_name" : "Dive 75"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.63128563185635",
+    "human_address" : "{\"address\":\"103 77th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.03359970885501"
+  },
+  "website" : "www.dovetailnyc.com",
+  "telephone" : "212 362-3800",
+  "shop_name" : "Dovetail"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77734077338903",
+    "human_address" : "{\"address\":\"53 72nd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97863229409177"
+  },
+  "website" : "www.earthenoven.com",
+  "telephone" : "212 579-8888",
+  "shop_name" : "Earthen Oven"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77561382830379",
+    "human_address" : "{\"address\":\"205 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98006295365273"
+  },
+  "telephone" : "212 874-8840",
+  "shop_name" : "Emerald Inn"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77524725547934",
+    "human_address" : "{\"address\":\"193 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98032532337443"
+  },
+  "telephone" : "212 496-8778",
+  "shop_name" : "Empire Szechuan Kyoto"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77621662085244",
+    "human_address" : "{\"address\":\"103 70th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98001725001694"
+  },
+  "telephone" : "212 579-5904",
+  "shop_name" : "Epices"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77511045475637",
+    "human_address" : "{\"address\":\"186 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98046691103156"
+  },
+  "website" : "www.francescospizzanyc.com",
+  "telephone" : "212 721-0066",
+  "shop_name" : "Francesco Pizzeria"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.78104598014977",
+    "human_address" : "{\"address\":\"370 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97613217885032"
+  },
+  "website" : "www.sushiofgari.com",
+  "telephone" : "212 362-4816",
+  "shop_name" : "Gari"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.7816860053276",
+    "human_address" : "{\"address\":\"390 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97571380677114"
+  },
+  "website" : "gazalaplace.com",
+  "telephone" : "212 873-8880",
+  "shop_name" : "Gazala"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.776745340637135",
+    "human_address" : "{\"address\":\"241 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97923345554365"
+  },
+  "website" : "www.harrysburritos.com",
+  "telephone" : "212 580-9494",
+  "shop_name" : "Harry&#39;s Burrito"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77493958357081",
+    "human_address" : "{\"address\":\"180 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98058382289537"
+  },
+  "website" : "www.ilviolinorestaurant.com",
+  "telephone" : "212 873-2500",
+  "shop_name" : "Il Violino"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.778168951403984",
+    "human_address" : "{\"address\":\"283 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97819708893911"
+  },
+  "website" : "www.indigoindian.com",
+  "telephone" : "212 579-3900",
+  "shop_name" : "Indigo"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.779970188713115",
+    "human_address" : "{\"address\":\"359 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97688786478378"
+  },
+  "website" : "www.isabellas.com",
+  "telephone" : "212 724-2100",
+  "shop_name" : "Isabella&#39;s"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77498049659069",
+    "human_address" : "{\"address\":\"185 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98050942457927"
+  },
+  "website" : "jalapenonyc.com",
+  "telephone" : "212 877-7800",
+  "shop_name" : "Jalapeno"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77473273950409",
+    "human_address" : "{\"address\":\"75 68th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98037697882864"
+  },
+  "website" : "www.laboitenyc.com",
+  "telephone" : "212 874-2705",
+  "shop_name" : "La Boite en Bois"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77657259455106",
+    "human_address" : "{\"address\":\"235 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97935757525414"
+  },
+  "website" : "www.lanskysnyc.com",
+  "telephone" : "212 787-0400",
+  "shop_name" : "Lansky&#39;s "
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77551137948189",
+    "human_address" : "{\"address\":\"200 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98022351643253"
+  },
+  "website" : "www.magnoliabakery.com",
+  "telephone" : "212 724-8101",
+  "shop_name" : "Magnolia Bakery",
+  "store_type_category_2" : "Food Shops"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77759258355724",
+    "human_address" : "{\"address\":\"103 72nd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97922584663115"
+  },
+  "telephone" : "212 874-4268",
+  "shop_name" : "Malachy&#39;s Donegal Inn"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.776252004127144",
+    "human_address" : "{\"address\":\"222 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9796702716603"
+  },
+  "telephone" : "212 875-1173",
+  "shop_name" : "Muffins Caf&#233;",
+  "store_type_category_2" : "Coffee & Tea"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77944518693761",
+    "human_address" : "{\"address\":\"320 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97731029070872"
+  },
+  "website" : "www.mughlainyc.com",
+  "telephone" : "212 724-6363",
+  "shop_name" : "Mughlai"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.78149072654216",
+    "human_address" : "{\"address\":\"384 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97585075552976"
+  },
+  "website" : "www.oceangrill.com",
+  "telephone" : "212 579-2300",
+  "shop_name" : "Ocean Grill"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77928521534567",
+    "human_address" : "{\"address\":\"316 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97746649505467"
+  },
+  "website" : "www.pappardella.com",
+  "telephone" : "213 595-7996",
+  "shop_name" : "Pappardella"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.776343478608986",
+    "human_address" : "{\"address\":\"70 71st Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97844644206104"
+  },
+  "website" : "www.pashanewyork.com",
+  "telephone" : "212 579-8751",
+  "shop_name" : "Pasha"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.776343478608986",
+    "human_address" : "{\"address\":\"70 71st Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97844644206104"
+  },
+  "telephone" : "212 799-4444",
+  "shop_name" : "Pizza Joint Too"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77645943780033",
+    "human_address" : "{\"address\":\"229 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97947765679936"
+  },
+  "website" : "www.pomodororossonyc.com",
+  "telephone" : "212 721-3009",
+  "shop_name" : "Pomodoro"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77989484795228",
+    "human_address" : "{\"address\":\"57 76th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97666277884764"
+  },
+  "website" : "rakuupperwest.com",
+  "telephone" : "212 873-1220",
+  "shop_name" : "Raku"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.775803029616",
+    "human_address" : "{\"address\":\"208 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98000372212856"
+  },
+  "telephone" : "212 721-2929",
+  "shop_name" : "Rigoletto&#39;s Pizza"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77642080487959",
+    "human_address" : "{\"address\":\"73 71st Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97848125079985"
+  },
+  "website" : "www.santafe71.com",
+  "telephone" : "212 724-0822",
+  "shop_name" : "Santa Fe"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.78096513726777",
+    "human_address" : "{\"address\":\"366 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97623556586913"
+  },
+  "website" : "www.shakeshack.com",
+  "telephone" : "646 747-8770",
+  "shop_name" : "Shake Shack",
+  "store_type_category_2" : "Food Shops"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.77763402589878",
+    "human_address" : "{\"address\":\"267 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97858965158112"
+  },
+  "website" : "sidofalafelnyc.com",
+  "telephone" : "212 496-2803",
+  "shop_name" : "Sido"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.778235641126145",
+    "human_address" : "{\"address\":\"285 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97814918505418"
+  },
+  "website" : "www.tenzanrestaurants.com",
+  "telephone" : "212 580-7300",
+  "shop_name" : "Tenzan"
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.783059576785334",
+    "human_address" : "{\"address\":\"432 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97471841739853"
+  },
+  "website" : "308.unotogo.com/zgrid/proc/site/start.jsp",
+  "telephone" : "212 595-4700",
+  "shop_name" : "Uno Chicago Grill "
+}
+, {
+  "store_type_category_1" : "Restaurants, Cafes & Drinking Establishments",
+  "location_1" : {
+    "latitude" : "40.778328526390425",
+    "human_address" : "{\"address\":\"286 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97816487970836"
+  },
+  "website" : "wineandrosesbar.com",
+  "telephone" : "212 579-9463",
+  "shop_name" : "Wine and Roses"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77637529792648",
+    "human_address" : "{\"address\":\"69 71st Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97837296110586"
+  },
+  "telephone" : "212 712-9887",
+  "shop_name" : "Absolute Lock & Hardware"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.775803029616",
+    "human_address" : "{\"address\":\"208A Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98000372212856"
+  },
+  "telephone" : "718 427-0078",
+  "shop_name" : "Amazing Store & Smoke Shop"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.776018770005976",
+    "human_address" : "{\"address\":\"219 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9798014127299"
+  },
+  "telephone" : "212 799-0199",
+  "shop_name" : "Anel French Cleaners"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.776432066383855",
+    "human_address" : "{\"address\":\"228 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97954093116604"
+  },
+  "telephone" : "no phone",
+  "shop_name" : "Angelo&#39;s Shoe Repair"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77986123573872",
+    "human_address" : "{\"address\":\"334 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97704907200819"
+  },
+  "website" : "www.bankofamerica.com",
+  "telephone" : "no phone",
+  "shop_name" : "Bank of America"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77527264860022",
+    "human_address" : "{\"address\":\"192 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98038948381826"
+  },
+  "website" : "www.bankofamerica.com",
+  "telephone" : "no phone",
+  "shop_name" : "Bank of America"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.782826637767755",
+    "human_address" : "{\"address\":\"424 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97484614834843"
+  },
+  "website" : "www.bellmarc.com",
+  "telephone" : "212 874-0100",
+  "shop_name" : "Bellmarc"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.775205958900955",
+    "human_address" : "{\"address\":\"190 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98043550910367"
+  },
+  "telephone" : "212 874-2310",
+  "shop_name" : "Billy & I Shoe Repair"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.7834291835274",
+    "human_address" : "{\"address\":\"441 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97440548055408"
+  },
+  "website" : "www.citibank.com",
+  "telephone" : "212 501-8890",
+  "shop_name" : "Citibank"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.775730117082475",
+    "human_address" : "{\"address\":\"206 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98005867070455"
+  },
+  "telephone" : "212 362-3341",
+  "shop_name" : "City French Dry Cleaners"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77899552592294",
+    "human_address" : "{\"address\":\"305 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97764303985957"
+  },
+  "website" : "www.dramaticsnyc.com/74",
+  "telephone" : "212 496-6430",
+  "shop_name" : "Dramatics NYC"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.7795531055811",
+    "human_address" : "{\"address\":\"321 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97722935172607"
+  },
+  "website" : "www.duanereade.com",
+  "telephone" : "212 580-2017",
+  "shop_name" : "Duane Reade"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.78337934045659",
+    "human_address" : "{\"address\":\"445 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9744015743297"
+  },
+  "website" : "ellenscouture.com",
+  "telephone" : "212 496-8800",
+  "shop_name" : "Ellen&#39;s Couture",
+  "store_type_category_2" : "Services"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.779220404229484",
+    "human_address" : "{\"address\":\"314 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97751439892316"
+  },
+  "website" : "www.waxcenter.com",
+  "telephone" : "212 799-5999",
+  "shop_name" : "European Wax Center"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.78333513506543",
+    "human_address" : "{\"address\":\"442 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97451586651258"
+  },
+  "website" : "photoopnyc.com",
+  "telephone" : "212-362-1911",
+  "shop_name" : "Photo Op",
+  "store_type_category_2" : "Childrens Stores"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.779193628754136",
+    "human_address" : "{\"address\":\"315 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97745122237224"
+  },
+  "website" : "www.gowireless.net",
+  "telephone" : "212 877-7723",
+  "shop_name" : "Go Wireless"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77975095642756",
+    "human_address" : "{\"address\":\"328A Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97708546020141"
+  },
+  "telephone" : "212 580-0066",
+  "shop_name" : "Golden Key Locksmith"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.78227899354451",
+    "human_address" : "{\"address\":\"408 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97529337662345"
+  },
+  "website" : "www.halstead.com",
+  "telephone" : "212 769-3000",
+  "shop_name" : "Halstead Property Company"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77886062761854",
+    "human_address" : "{\"address\":\"301 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9777419652828"
+  },
+  "website" : "www.us.hsbc.com",
+  "telephone" : "212 874-4101",
+  "shop_name" : "HSBC"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77712381858529",
+    "human_address" : "{\"address\":\"250 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97904340950839"
+  },
+  "website" : "www.jeffreysteinsalon.net",
+  "telephone" : "212 580-6000",
+  "shop_name" : "Jeffrey Stein Salon"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77885752917574",
+    "human_address" : "{\"address\":\"60 75 Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97625162126306"
+  },
+  "website" : "www.xinclinic.com",
+  "telephone" : "212 721-5381",
+  "shop_name" : "L.AcXin He"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77533933834528",
+    "human_address" : "{\"address\":\"194 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98034345850125"
+  },
+  "telephone" : "212 595-4299",
+  "shop_name" : "La Mode Cleaners"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77684614627293",
+    "human_address" : "{\"address\":\"102 71st Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97956758900227"
+  },
+  "telephone" : "212 877-6821",
+  "shop_name" : "Laundromat"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.7795230906454",
+    "human_address" : "{\"address\":\"324 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97729328790894"
+  },
+  "website" : "www.msalon.us",
+  "telephone" : "212 873-5255",
+  "shop_name" : "M Salon"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.78387246870803",
+    "human_address" : "{\"address\":\"459 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97404652198865"
+  },
+  "website" : "www.manhattanmailroom.com",
+  "telephone" : "212 724-1600",
+  "shop_name" : "Manhattan Maliroom"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.782116173364614",
+    "human_address" : "{\"address\":\"102 79th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97588036868211"
+  },
+  "telephone" : "212 724-9140",
+  "shop_name" : "Merit Cleaners"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77756263971731",
+    "human_address" : "{\"address\":\"265 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97864225192535"
+  },
+  "website" : "www.wirelesssolutionsny.com",
+  "telephone" : "212 799-6500",
+  "shop_name" : "Mobile Gallery"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77763402589878",
+    "human_address" : "{\"address\":\"267 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97858965158112"
+  },
+  "telephone" : "212 787-2444",
+  "shop_name" : "Nails & More"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77915559306879",
+    "human_address" : "{\"address\":\"312 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97756230282454"
+  },
+  "telephone" : "212 787-0390",
+  "shop_name" : "Pinky New York"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77734077338903",
+    "human_address" : "{\"address\":\"53 72nd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97863229409177"
+  },
+  "website" : "www.prosmile1.com",
+  "telephone" : "212 799-8040",
+  "shop_name" : "Pro Smile"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77880476190124",
+    "human_address" : "{\"address\":\"303A Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97773864569827"
+  },
+  "website" : "www.reamir.com",
+  "telephone" : "212 877-4255",
+  "shop_name" : "Reamir Barber Shop"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.776252004127144",
+    "human_address" : "{\"address\":\"222 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9796702716603"
+  },
+  "telephone" : "212 501-8276",
+  "shop_name" : "Salon Gabor"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.777308915754",
+    "human_address" : "{\"address\":\"257 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97882768145949"
+  },
+  "website" : "www.scottj.com",
+  "telephone" : "212 769-0107",
+  "shop_name" : "Scott J.  Aveda Salon & Spa"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77686413271351",
+    "human_address" : "{\"address\":\"103 71st Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97961255510376"
+  },
+  "telephone" : "212 874-0227",
+  "shop_name" : "Starlight Laundry"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.78243093607489",
+    "human_address" : "{\"address\":\"410 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97514292461813"
+  },
+  "website" : "www.supercuts.com",
+  "telephone" : "212 724-4343",
+  "shop_name" : "Supercuts"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77800627169074",
+    "human_address" : "{\"address\":\"65 73rd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97806572121334"
+  },
+  "telephone" : "212 362-3555",
+  "shop_name" : "Supreme Hardware"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77459615037567",
+    "human_address" : "{\"address\":\"171 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9807927105314"
+  },
+  "telephone" : "212 877-7340",
+  "shop_name" : "Thomas Drugs"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.782116173364614",
+    "human_address" : "{\"address\":\"102 79th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97588036868211"
+  },
+  "website" : "twentyonespa.com",
+  "telephone" : "212 362-2867",
+  "shop_name" : "Twenty One"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77954411236084",
+    "human_address" : "{\"address\":\"322 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97723834494639"
+  },
+  "telephone" : "212 579-7880",
+  "shop_name" : "Verde Garment Care"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77618064797127",
+    "human_address" : "{\"address\":\"101 70th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97994530425456"
+  },
+  "website" : "www.walkermalloy.com",
+  "telephone" : "212 712-6180",
+  "shop_name" : "Walker Malloy & Co."
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.77723846888858",
+    "human_address" : "{\"address\":\"255 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9788784032026"
+  },
+  "telephone" : "212 362-9170",
+  "shop_name" : "West Side Pharmacy"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.78414884983976",
+    "human_address" : "{\"address\":\"120 82nd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97470855576265"
+  },
+  "website" : "www.nyc.gov/html/nypd/html/precincts/precinct_020.shtml",
+  "telephone" : "212 580-6411",
+  "shop_name" : "NYPD 20th Precict"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.77972597771068",
+    "human_address" : "{\"address\":\"330 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97714675836178"
+  },
+  "website" : "www.bang-olufsen.com",
+  "telephone" : "212 501-0926",
+  "shop_name" : "Bang & Olufson"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.783006502173635",
+    "human_address" : "{\"address\":\"430 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97472024326436"
+  },
+  "website" : "bicyclerenaissance.com",
+  "telephone" : "212 724-2350",
+  "shop_name" : "Bicycle Renaissance"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.78368736951347",
+    "human_address" : "{\"address\":\"452A Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97426225770998"
+  },
+  "website" : "spotdogsrule.com",
+  "telephone" : "212 787-7387",
+  "shop_name" : "Spot"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.778102261681816",
+    "human_address" : "{\"address\":\"281B Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97824499282405"
+  },
+  "telephone" : "212 496-7172",
+  "shop_name" : "Central Art Gallery"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.777446580032986",
+    "human_address" : "{\"address\":\"260 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97881067428011"
+  },
+  "website" : "www.chase.com",
+  "telephone" : "212 769-0400",
+  "shop_name" : "Chase Manhattan Bank"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.77983493068507",
+    "human_address" : "{\"address\":\"335 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97698555113737"
+  },
+  "website" : "www.chase.com",
+  "telephone" : "212 873-1207",
+  "shop_name" : "Chase Manhattan Bank"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.776956681305954",
+    "human_address" : "{\"address\":\"247 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97908129026209"
+  },
+  "website" : "us.clarins.com",
+  "telephone" : "212 362-0190",
+  "shop_name" : "Clarins"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.779970188713115",
+    "human_address" : "{\"address\":\"341 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97688786478378"
+  },
+  "website" : "www.dwr.com",
+  "telephone" : "212 799-5900",
+  "shop_name" : "Design Within Reach"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.77839521611259",
+    "human_address" : "{\"address\":\"288 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97811697582343"
+  },
+  "website" : "eurooptikany.com",
+  "telephone" : "212 501-7070",
+  "shop_name" : "Euro Optika"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.774277986590484",
+    "human_address" : "{\"address\":\"159A Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98103709720698"
+  },
+  "website" : "www.fresh.com",
+  "telephone" : "212 787-3505",
+  "shop_name" : "Fresh"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.78245651972663",
+    "human_address" : "{\"address\":\"412 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97516375433176"
+  },
+  "website" : "www.hombomtoys.com",
+  "telephone" : "212 362-1039",
+  "shop_name" : "Hom Bom Toys",
+  "store_type_category_2" : "Childrens Stores"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.77912143100707",
+    "human_address" : "{\"address\":\"306 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97754411443634"
+  },
+  "website" : "www.shophousingworks.com",
+  "telephone" : "212 579-7566",
+  "shop_name" : "Housing Works"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.778905593720026",
+    "human_address" : "{\"address\":\"304 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97770599240164"
+  },
+  "website" : "www.jonathanadler.com",
+  "telephone" : "212 787-0017",
+  "shop_name" : "Jonathan Adler"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.778128457223936",
+    "human_address" : "{\"address\":\"280 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97830859136315"
+  },
+  "website" : "www.laterrinedirect.com",
+  "telephone" : "212 362-2122",
+  "shop_name" : "La Terrine"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77569501407544",
+    "human_address" : "{\"address\":\"201 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98004422967779"
+  },
+  "website" : "www.theory.com",
+  "shop_name" : "Theory"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.77547271778961",
+    "human_address" : "{\"address\":\"198 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98025140789883"
+  },
+  "website" : "www.loccitane.com",
+  "telephone" : "212 874-4326",
+  "shop_name" : "L&#39;Occitane"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.779632043619785",
+    "human_address" : "{\"address\":\"329 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97713208068453"
+  },
+  "website" : "www.makemeaning.com",
+  "telephone" : "212 362-0350",
+  "shop_name" : "Make Meaning",
+  "store_type_category_2" : "Childrens Stores"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.78361692264805",
+    "human_address" : "{\"address\":\"450 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97431297945309"
+  },
+  "website" : "www.ogtstore.com",
+  "telephone" : "212 362-8025",
+  "shop_name" : "Olde Good Things"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.77574345058067",
+    "human_address" : "{\"address\":\"209 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97996526729914"
+  },
+  "website" : "www.papyrusonline.com",
+  "telephone" : "212 362-2386",
+  "shop_name" : "Papyrus"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.7834497873462",
+    "human_address" : "{\"address\":\"447 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97435085256919"
+  },
+  "telephone" : "212 787-4790",
+  "shop_name" : "Quality Florists"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.775205958900955",
+    "human_address" : "{\"address\":\"190 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98043550910367"
+  },
+  "website" : "www.robertmarc.com",
+  "telephone" : "212 799-4600",
+  "shop_name" : "Robert Marc"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.78366112801503",
+    "human_address" : "{\"address\":\"453 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97419868728763"
+  },
+  "website" : "www.royalopticiansny.com",
+  "telephone" : "212 873-4499",
+  "shop_name" : "Royal Opticians"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.783802021794244",
+    "human_address" : "{\"address\":\"457 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9740972437666"
+  },
+  "website" : "www.schweitzerlinen.com",
+  "telephone" : "212 799-9629",
+  "shop_name" : "Schweitzer Linen"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.77567863944223",
+    "human_address" : "{\"address\":\"207 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98001411047593"
+  },
+  "website" : "www.seeeyewear.com",
+  "telephone" : "212 335-4203",
+  "shop_name" : "See Eyewear"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.77600269513444",
+    "human_address" : "{\"address\":\"217 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97976989459195"
+  },
+  "website" : "www.spacenk.co.uk",
+  "telephone" : "212 362-2840",
+  "shop_name" : "Space.NK Apothecary",
+  "store_type_category_2" : "Services"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.774277986590484",
+    "human_address" : "{\"address\":\"159 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98103709720698"
+  },
+  "website" : "unleashedby.petco.com",
+  "telephone" : "212 579-4560",
+  "shop_name" : "Unleashed (Petco)"
+}
+, {
+  "store_type_category_1" : "Specialty Shops",
+  "location_1" : {
+    "latitude" : "40.775180565780076",
+    "human_address" : "{\"address\":\"191 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98037134865984"
+  },
+  "website" : "www.wademaxx.com",
+  "telephone" : "212 799-6771",
+  "shop_name" : "Wade Maxx Gallery"
+}
+, {
+  "store_type_category_1" : "Wine & Liquors",
+  "location_1" : {
+    "latitude" : "40.77480825956209",
+    "human_address" : "{\"address\":\"179 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98062978608388"
+  },
+  "website" : "www.67wine.com",
+  "telephone" : "212 724-6767",
+  "shop_name" : "67 Wines & Spirits"
+}
+, {
+  "store_type_category_1" : "Wine & Liquors",
+  "location_1" : {
+    "latitude" : "40.77640547847858",
+    "human_address" : "{\"address\":\"227 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97952262290079"
+  },
+  "telephone" : "212 787-4465",
+  "shop_name" : "Central Wines & Liquors"
+}
+, {
+  "store_type_category_1" : "Wine & Liquors",
+  "location_1" : {
+    "latitude" : "40.77917539032882",
+    "human_address" : "{\"address\":\"313 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97750814155518"
+  },
+  "telephone" : "212 877-4040",
+  "shop_name" : "Nancy&#39;s Wines "
+}
+, {
+  "store_type_category_1" : "Wine & Liquors",
+  "location_1" : {
+    "latitude" : "40.78352023423581",
+    "human_address" : "{\"address\":\"449 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97430013080867"
+  },
+  "telephone" : "212 877-6900",
+  "shop_name" : "Rose Wines & Liquors"
+}
+, {
+  "store_type_category_1" : "Services",
+  "location_1" : {
+    "latitude" : "40.776634557912345",
+    "human_address" : "{\"address\":\"199 Amsterdam Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98304718937652"
+  },
+  "website" : "www.urgentcaremanhattan.com",
+  "telephone" : "212 721-4200",
+  "shop_name" : "Urgent Care Manhattan"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77609467975011",
+    "human_address" : "{\"address\":\"216 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97978392782458"
+  },
+  "website" : "www.athleta.com",
+  "telephone" : "212 787-5602",
+  "shop_name" : "Athleta"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.77999371225902",
+    "human_address" : "{\"address\":\"311 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97687062643729"
+  },
+  "website" : "www.oska.us",
+  "telephone" : "212 799-3757",
+  "shop_name" : "OSKA"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.78038988613842",
+    "human_address" : "{\"address\":\"353 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97657700566174"
+  },
+  "website" : "www.babettesf.com",
+  "telephone" : "212 780-0930",
+  "shop_name" : "Babette"
+}
+, {
+  "store_type_category_1" : "Clothing Shops, Shoes & Accessories",
+  "location_1" : {
+    "latitude" : "40.78294354963157",
+    "human_address" : "{\"address\":\"428 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97475621614552"
+  },
+  "website" : "www.polarnopyretusa.com/",
+  "shop_name" : "Polarn O. Pyret"
+}
+, {
+  "store_type_category_1" : "Specialty Shop",
+  "location_1" : {
+    "latitude" : "40.77954411236084",
+    "human_address" : "{\"address\":\"322 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97723834494639"
+  },
+  "website" : "www.farrow-ball.com",
+  "shop_name" : "Farrow & Ball Ltd."
+}
+, {
+  "store_type_category_1" : "Food Shops",
+  "location_1" : {
+    "latitude" : "40.77511387603502",
+    "human_address" : "{\"address\":\"189 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98041737397685"
+  },
+  "website" : "www.vivelacrepe.fr",
+  "shop_name" : "Vive La Crepe"
+}
+ ]

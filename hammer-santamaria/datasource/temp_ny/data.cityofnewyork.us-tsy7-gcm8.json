@@ -1,0 +1,67 @@
+[ {
+  "address" : "900 Sheridan Avenue",
+  "notes" : "Room6B19",
+  "city" : "Bronx",
+  "phone" : "718-681-5999",
+  "contact" : "Deborah Rice-Tarrant",
+  "state" : "New York",
+  "region" : "Bronx Family Court",
+  "zip_code" : "10451",
+  "email" : "dricetarrant@schools.nyc.gov"
+}
+, {
+  "address" : "120 Schermerhorn Street",
+  "notes" : "Room 811",
+  "city" : "Brooklyn",
+  "phone" : "347-404-9561",
+  "contact" : "Kristen Murphy",
+  "state" : "New York",
+  "region" : "Brooklyn Criminal Court",
+  "zip_code" : "11201",
+  "email" : "kharty@schools.nyc.gov"
+}
+, {
+  "address" : "330 Jay Street",
+  "notes" : "11th floor, cubicle #55",
+  "city" : "Brooklyn",
+  "phone" : "718-802-2622",
+  "contact" : "Shah Noralez",
+  "state" : "New York",
+  "region" : "Brooklyn Family Court",
+  "zip_code" : "11201",
+  "email" : "spowell112@schools.nyc.gov"
+}
+, {
+  "address" : "60 Lafayette Street",
+  "notes" : "Room 3C7",
+  "city" : "New York",
+  "phone" : "212-442-8548",
+  "contact" : "Michelle Augustine",
+  "state" : "New York",
+  "region" : "Manhattan Family Court",
+  "zip_code" : "10013",
+  "email" : "aaugustine3@schools.nyc.gov"
+}
+, {
+  "address" : "151-20 Jamaica Avenue",
+  "notes" : "Lower Level, Room B103",
+  "city" : "Queens",
+  "phone" : "718-291-8613",
+  "contact" : "Cathy Sevos",
+  "state" : "New York",
+  "region" : "Queens Family Court",
+  "zip_code" : "11432",
+  "email" : "csevos@schools.nyc.gov"
+}
+, {
+  "address" : "125-01 Queens Blvd",
+  "notes" : "Room 322.02 Annex",
+  "city" : "Kew Gardens",
+  "phone" : "718-298-1379",
+  "contact" : "Pat Faraglia",
+  "state" : "New York",
+  "region" : "Queens Supreme Court",
+  "zip_code" : "11415",
+  "email" : "PFaraglia@schools.nyc.gov"
+}
+ ]

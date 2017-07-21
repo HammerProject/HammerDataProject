@@ -1,0 +1,365 @@
+[ {
+  "total_january_2016_identified_need" : "1970",
+  "sub_district" : "Tribeca / Village",
+  "number_of_seats_in_scope_design" : "1492",
+  "district" : "2",
+  "additional_need_unfunded" : "42",
+  "january_2016_funded_need" : "1928"
+}
+, {
+  "total_january_2016_identified_need" : "1262",
+  "sub_district" : "Chelsea/ Midtown West *",
+  "district" : "2",
+  "additional_need_unfunded" : "0",
+  "january_2016_funded_need" : "1262"
+}
+, {
+  "total_january_2016_identified_need" : "692",
+  "sub_district" : "Upper West Side",
+  "number_of_seats_in_scope_design" : "692",
+  "district" : "3",
+  "additional_need_unfunded" : "0",
+  "january_2016_funded_need" : "692"
+}
+, {
+  "total_january_2016_identified_need" : "456",
+  "sub_district" : "Concourse",
+  "district" : "7",
+  "additional_need_unfunded" : "0",
+  "january_2016_funded_need" : "456"
+}
+, {
+  "total_january_2016_identified_need" : "572",
+  "sub_district" : "Melrose",
+  "district" : "7",
+  "additional_need_unfunded" : "572",
+  "january_2016_funded_need" : "0"
+}
+, {
+  "total_january_2016_identified_need" : "572",
+  "sub_district" : "Soundview",
+  "district" : "8",
+  "additional_need_unfunded" : "572",
+  "january_2016_funded_need" : "0"
+}
+, {
+  "total_january_2016_identified_need" : "456",
+  "sub_district" : "Throgs Neck",
+  "number_of_seats_in_scope_design" : "344",
+  "district" : "8",
+  "additional_need_unfunded" : "0",
+  "january_2016_funded_need" : "456"
+}
+, {
+  "total_january_2016_identified_need" : "572",
+  "sub_district" : "Highbridge South",
+  "district" : "9",
+  "additional_need_unfunded" : "572",
+  "january_2016_funded_need" : "0"
+}
+, {
+  "total_january_2016_identified_need" : "456",
+  "sub_district" : "Spuyten Duyvil / Riverdale / Fieldston / North Riverdale",
+  "district" : "10",
+  "additional_need_unfunded" : "0",
+  "january_2016_funded_need" : "456"
+}
+, {
+  "total_january_2016_identified_need" : "3384",
+  "sub_district" : "Kingsbridge / Norwood / Bedford Park",
+  "number_of_seats_in_scope_design" : "500",
+  "district" : "10",
+  "additional_need_unfunded" : "1280",
+  "january_2016_funded_need" : "2104"
+}
+, {
+  "total_january_2016_identified_need" : "572",
+  "sub_district" : "Fordham / Belmont",
+  "district" : "10",
+  "additional_need_unfunded" : "572",
+  "january_2016_funded_need" : "0"
+}
+, {
+  "total_january_2016_identified_need" : "1280",
+  "sub_district" : "University Heights",
+  "district" : "10",
+  "additional_need_unfunded" : "824",
+  "january_2016_funded_need" : "456"
+}
+, {
+  "total_january_2016_identified_need" : "1920",
+  "sub_district" : "Van Nest / Pelham Parkway",
+  "district" : "11",
+  "additional_need_unfunded" : "1280",
+  "january_2016_funded_need" : "640"
+}
+, {
+  "total_january_2016_identified_need" : "572",
+  "sub_district" : "Woodlawn / Williamsbridge",
+  "district" : "11",
+  "additional_need_unfunded" : "572",
+  "january_2016_funded_need" : "0"
+}
+, {
+  "total_january_2016_identified_need" : "1484",
+  "sub_district" : "Tremont / West Farms *",
+  "district" : "12",
+  "additional_need_unfunded" : "572",
+  "january_2016_funded_need" : "912"
+}
+, {
+  "total_january_2016_identified_need" : "640",
+  "sub_district" : "Park Slope / Prospect Heights",
+  "number_of_seats_in_scope_design" : "640",
+  "district" : "13",
+  "additional_need_unfunded" : "0",
+  "january_2016_funded_need" : "640"
+}
+, {
+  "total_january_2016_identified_need" : "2777",
+  "sub_district" : "DUMBO/ Navy Yard / Fort Greene",
+  "number_of_seats_in_scope_design" : "333",
+  "district" : "13",
+  "additional_need_unfunded" : "824",
+  "january_2016_funded_need" : "1953"
+}
+, {
+  "total_january_2016_identified_need" : "1563",
+  "sub_district" : "Williamsburg / Greenpoint *",
+  "district" : "14",
+  "additional_need_unfunded" : "572",
+  "january_2016_funded_need" : "991"
+}
+, {
+  "total_january_2016_identified_need" : "2610",
+  "sub_district" : "Sunset Park",
+  "number_of_seats_in_scope_design" : "113",
+  "district" : "15",
+  "additional_need_unfunded" : "1514",
+  "january_2016_funded_need" : "1096"
+}
+, {
+  "total_january_2016_identified_need" : "2744",
+  "sub_district" : "Park Slope",
+  "district" : "15",
+  "additional_need_unfunded" : "1280",
+  "january_2016_funded_need" : "1464"
+}
+, {
+  "total_january_2016_identified_need" : "2192",
+  "sub_district" : "Carroll Gardens / Gowanus / Red Hook",
+  "number_of_seats_in_scope_design" : "436",
+  "district" : "15",
+  "additional_need_unfunded" : "912",
+  "january_2016_funded_need" : "1280"
+}
+, {
+  "total_january_2016_identified_need" : "1000",
+  "sub_district" : "Cypress Hills / East New York",
+  "district" : "19",
+  "additional_need_unfunded" : "0",
+  "january_2016_funded_need" : "1000"
+}
+, {
+  "total_january_2016_identified_need" : "3337",
+  "sub_district" : "Owls Head Park / Bay Ridge",
+  "number_of_seats_in_scope_design" : "976",
+  "district" : "20",
+  "additional_need_unfunded" : "1300",
+  "january_2016_funded_need" : "2037"
+}
+, {
+  "total_january_2016_identified_need" : "4647",
+  "sub_district" : "Dyker Heights",
+  "district" : "20",
+  "additional_need_unfunded" : "2727",
+  "january_2016_funded_need" : "1920"
+}
+, {
+  "total_january_2016_identified_need" : "2338",
+  "sub_district" : "Borough Park / Kensington, Bensonhurst",
+  "district" : "20",
+  "additional_need_unfunded" : "1426",
+  "january_2016_funded_need" : "912"
+}
+, {
+  "total_january_2016_identified_need" : "476",
+  "sub_district" : "Coney Island",
+  "district" : "21",
+  "additional_need_unfunded" : "476",
+  "january_2016_funded_need" : "0"
+}
+, {
+  "total_january_2016_identified_need" : "1504",
+  "sub_district" : "Gravesend",
+  "number_of_seats_in_scope_design" : "456",
+  "district" : "21",
+  "additional_need_unfunded" : "1048",
+  "january_2016_funded_need" : "456"
+}
+, {
+  "total_january_2016_identified_need" : "456",
+  "sub_district" : "Gravesend/Ocean Parkway",
+  "district" : "21",
+  "additional_need_unfunded" : "0",
+  "january_2016_funded_need" : "456"
+}
+, {
+  "total_january_2016_identified_need" : "476",
+  "sub_district" : "Flatlands / Midwood",
+  "district" : "22",
+  "additional_need_unfunded" : "476",
+  "january_2016_funded_need" : "0"
+}
+, {
+  "total_january_2016_identified_need" : "824",
+  "sub_district" : "Mill Basin",
+  "district" : "22",
+  "additional_need_unfunded" : "368",
+  "january_2016_funded_need" : "456"
+}
+, {
+  "total_january_2016_identified_need" : "5288",
+  "sub_district" : "North Corona / South Corona / Lefrak City / Elmhurst",
+  "number_of_seats_in_scope_design" : "1831",
+  "district" : "24",
+  "additional_need_unfunded" : "2088",
+  "january_2016_funded_need" : "3200"
+}
+, {
+  "total_january_2016_identified_need" : "1853",
+  "sub_district" : "Maspeth / South of Woodside",
+  "number_of_seats_in_scope_design" : "728",
+  "district" : "24",
+  "additional_need_unfunded" : "941",
+  "january_2016_funded_need" : "912"
+}
+, {
+  "total_january_2016_identified_need" : "1786",
+  "sub_district" : "Middle Village",
+  "number_of_seats_in_scope_design" : "333",
+  "district" : "24",
+  "additional_need_unfunded" : "1029",
+  "january_2016_funded_need" : "757"
+}
+, {
+  "total_january_2016_identified_need" : "476",
+  "sub_district" : "Glendale, Ridgewood",
+  "district" : "24",
+  "additional_need_unfunded" : "476",
+  "january_2016_funded_need" : "0"
+}
+, {
+  "total_january_2016_identified_need" : "3066",
+  "sub_district" : "Beechhurst / College Point / Whitestone",
+  "district" : "25",
+  "additional_need_unfunded" : "1602",
+  "january_2016_funded_need" : "1464"
+}
+, {
+  "total_january_2016_identified_need" : "2057",
+  "sub_district" : "Flushing / Murray Hill / Willets Point",
+  "number_of_seats_in_scope_design" : "600",
+  "district" : "25",
+  "additional_need_unfunded" : "1300",
+  "january_2016_funded_need" : "757"
+}
+, {
+  "total_january_2016_identified_need" : "1464",
+  "sub_district" : "Oakland Gardens / Fresh Meadows",
+  "district" : "26",
+  "additional_need_unfunded" : "1008",
+  "january_2016_funded_need" : "456"
+}
+, {
+  "total_january_2016_identified_need" : "1040",
+  "sub_district" : "Bayside / Auburndale",
+  "number_of_seats_in_scope_design" : "468",
+  "district" : "26",
+  "additional_need_unfunded" : "572",
+  "january_2016_funded_need" : "468"
+}
+, {
+  "total_january_2016_identified_need" : "640",
+  "sub_district" : "Howard Beach / Lindenwood",
+  "number_of_seats_in_scope_design" : "516",
+  "district" : "27",
+  "additional_need_unfunded" : "124",
+  "january_2016_funded_need" : "516"
+}
+, {
+  "total_january_2016_identified_need" : "1096",
+  "sub_district" : "Ozone Park / South Ozone Park / Richmond Hill / Woodhaven",
+  "number_of_seats_in_scope_design" : "124",
+  "district" : "27",
+  "additional_need_unfunded" : "640",
+  "january_2016_funded_need" : "456"
+}
+, {
+  "total_january_2016_identified_need" : "476",
+  "sub_district" : "South Jamaica / Rochdale / Kew Gardens",
+  "district" : "28",
+  "additional_need_unfunded" : "476",
+  "january_2016_funded_need" : "0"
+}
+, {
+  "total_january_2016_identified_need" : "3162",
+  "sub_district" : "Rego Park / Forest Hills / Kew Gardens / Jamaica",
+  "number_of_seats_in_scope_design" : "850",
+  "district" : "28",
+  "additional_need_unfunded" : "1242",
+  "january_2016_funded_need" : "1920"
+}
+, {
+  "total_january_2016_identified_need" : "1397",
+  "sub_district" : "East Elmhurst / Jackson Heights",
+  "number_of_seats_in_scope_design" : "476",
+  "district" : "30",
+  "additional_need_unfunded" : "485",
+  "january_2016_funded_need" : "912"
+}
+, {
+  "total_january_2016_identified_need" : "1550",
+  "sub_district" : "Woodside / Sunnyside",
+  "district" : "30",
+  "additional_need_unfunded" : "726",
+  "january_2016_funded_need" : "824"
+}
+, {
+  "total_january_2016_identified_need" : "2028",
+  "sub_district" : "Long Island City / Ravenswood",
+  "number_of_seats_in_scope_design" : "572",
+  "district" : "30",
+  "additional_need_unfunded" : "228",
+  "january_2016_funded_need" : "1800"
+}
+, {
+  "total_january_2016_identified_need" : "1000",
+  "sub_district" : "Astoria / Steinway (Design-only projects)",
+  "district" : "30",
+  "additional_need_unfunded" : "0",
+  "january_2016_funded_need" : "1000"
+}
+, {
+  "total_january_2016_identified_need" : "456",
+  "sub_district" : "West Shore",
+  "district" : "31",
+  "additional_need_unfunded" : "0",
+  "january_2016_funded_need" : "456"
+}
+, {
+  "total_january_2016_identified_need" : "476",
+  "sub_district" : "New Dorp",
+  "district" : "31",
+  "additional_need_unfunded" : "476",
+  "january_2016_funded_need" : "0"
+}
+, {
+  "total_january_2016_identified_need" : "2416",
+  "sub_district" : "North Shore",
+  "number_of_seats_in_scope_design" : "224",
+  "district" : "31",
+  "additional_need_unfunded" : "1136",
+  "january_2016_funded_need" : "1280"
+}
+ ]

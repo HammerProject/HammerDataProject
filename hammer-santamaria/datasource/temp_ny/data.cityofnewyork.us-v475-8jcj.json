@@ -1,0 +1,3591 @@
+[ {
+  "dataset_description" : "Placements by Community District (CD)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Social-Services/Placements-by-Community-District-CD-/xg3x-h3g7"
+  },
+  "update_frequency" : "Number of children placed in foster care by their CD of origin",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Administration for Children's Services (ACS)",
+  "priority_classification" : "2014-03-31T00:00:00"
+}
+, {
+  "dataset_description" : "Abuse/Neglect by CD",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Social-Services/Abuse-Neglect-by-CD/rnjn-x48k"
+  },
+  "update_frequency" : "Abuse/neglect investigations by CD of family",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Administration for Children's Services (ACS)",
+  "priority_classification" : "2014-03-31T00:00:00"
+}
+, {
+  "dataset_description" : "Child Welfare Indicators -Annual and quarterly report indicators",
+  "update_frequency" : "Select Child Welfare indicators reported in compliance with Introduction 15 passed by the New York City Council in 2006",
+  "type" : "Quarterly",
+  "dataset" : "Administration for Children's Services (ACS)",
+  "priority_classification" : "2014-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "Detention and Placement Incident reports",
+  "update_frequency" : "Detention and Placement incident statistics reported in compliance with Introduction 153-A and 37-A passed by the New York City Council",
+  "type" : "Quarterly",
+  "dataset" : "Administration for Children's Services (ACS)",
+  "priority_classification" : "2017-10-30T00:00:00"
+}
+, {
+  "dataset_description" : "Detention and Placement  Demographic reports",
+  "update_frequency" : "Detention demographic statistics reported in compliance with Introduction 153-A and 37-A passed by the New York City Council",
+  "type" : "Annually",
+  "dataset" : "Administration for Children's Services (ACS)",
+  "priority_classification" : "2017-10-30T00:00:00"
+}
+, {
+  "dataset_description" : "Detention and Placement Abuse/neglect reports",
+  "update_frequency" : "Detention abuse/neglect statistics reported in compliance with Introduction 153-A and 37-A passed by the New York City Council",
+  "type" : "Annually",
+  "dataset" : "Administration for Children's Services (ACS)",
+  "priority_classification" : "2017-10-30T00:00:00"
+}
+, {
+  "dataset_description" : "Community Snapshots",
+  "update_frequency" : "Select child welfare, child care and youth justice statistics for each CD",
+  "type" : "Annually",
+  "dataset" : "Administration for Children's Services (ACS)",
+  "priority_classification" : "2018-10-29T00:00:00"
+}
+, {
+  "dataset_description" : "Monthly Flash Report indicators",
+  "update_frequency" : "Monthly trends in select child welfare, child care and youth justice statistics",
+  "type" : "Monthly",
+  "dataset" : "Administration for Children's Services (ACS)",
+  "priority_classification" : "2018-10-29T00:00:00"
+}
+, {
+  "dataset_description" : "Constituent Requests ",
+  "update_frequency" : "The number of constituent requests for assistance separated by issues/sub-issues",
+  "type" : "Monthly",
+  "dataset" : "Brooklyn Borough President (BBP)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Principals",
+  "update_frequency" : "Information on all principals and key employees of a trade waste licensee/registrant applicant.  Includes employment history, work/home address and contact information",
+  "type" : "Monthly",
+  "dataset" : "Business Integrity Commission (BIC)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Vehicles",
+  "update_frequency" : "Information on all vehicles used by a trade waste licensee/registrant for the removal of trade waste.  Includes vehicle make, model, year, VIN # and DMV plate information",
+  "type" : "Monthly",
+  "dataset" : "Business Integrity Commission (BIC)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Certificates of Inspection",
+  "update_frequency" : "Information on inspections of regulated companies vehicles/establishments performed by BIC enforcement staff.  Includes inspection location, company, vehicle and driver  information, as well as specifics of inspection and any resulting violations",
+  "type" : "Weekly",
+  "dataset" : "Business Integrity Commission (BIC)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Complaints",
+  "update_frequency" : "Information on complaints submitted to BIC for investigation.  Includes nature of complaint, complaint location, complainant details, agency response data and resolution",
+  "type" : "Daily",
+  "dataset" : "Business Integrity Commission (BIC)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Violation Issuance",
+  "update_frequency" : "Information on violations issued by BIC including Rule/Regulation, Respondent, Location, and Fine",
+  "type" : "Daily",
+  "dataset" : "Business Integrity Commission (BIC)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Approved Operating Companies",
+  "update_frequency" : "This list contains a list of all approved and operating companies within BIC's regulated industries",
+  "type" : "Monthly",
+  "dataset" : "Business Integrity Commission (BIC)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Appeals filed with the Civil Service Commission",
+  "available" : false,
+  "update_frequency" : "Number of appeals filed within a pre-determined time (Monthly or quarterly)",
+  "behind_schedule" : "Yes",
+  "type" : "Monthly",
+  "dataset" : "Civil Service Commission (CSC)",
+  "priority_classification" : "2014-01-02T00:00:00"
+}
+, {
+  "dataset_description" : "Annual Report Statistics",
+  "update_frequency" : "This list contains the year-end summaries of activities of all COIB units.",
+  "type" : "Annually",
+  "dataset" : "Conflict of Interest Board (COIB)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "List of policy makers",
+  "update_frequency" : "This list contains information of those designated as policy makers at their respective agencies.",
+  "type" : "Annually",
+  "dataset" : "Conflict of Interest Board (COIB)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Enforcement Fines",
+  "update_frequency" : "This list contains information on the fines collected by the Enforcement Unit.",
+  "type" : "Monthly",
+  "dataset" : "Conflict of Interest Board (COIB)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Contract Expenditures",
+  "update_frequency" : "Tracks contractors expenditures by funding source to claim to oversight for claiming",
+  "type" : "Monthly",
+  "dataset" : "Department for the Aging (DFTA)",
+  "priority_classification" : "2014-09-01T00:00:00"
+}
+, {
+  "dataset_description" : "Aging Services",
+  "update_frequency" : "Provides a listing of DFTA's core services by provider type",
+  "type" : "Daily",
+  "dataset" : "Department for the Aging (DFTA)",
+  "priority_classification" : "2014-09-01T00:00:00"
+}
+, {
+  "dataset_description" : "Development Report",
+  "update_frequency" : "Will contain development data such as job filings, development inspection results, etc.",
+  "type" : "Monthly",
+  "dataset" : "Department of Buildings (DOB)",
+  "priority_classification" : "2014-12-01T00:00:00"
+}
+, {
+  "dataset_description" : "Enforcement Report",
+  "update_frequency" : "Will contain safety and enforcement data such as enforcement inspection results (e.g. violations), disciplinary actions, citywide devices, etc.",
+  "type" : "Monthly",
+  "dataset" : "Department of Buildings (DOB)",
+  "priority_classification" : "2015-12-01T00:00:00"
+}
+, {
+  "dataset_description" : "Licensing Report",
+  "update_frequency" : "Will contain licensing data such as licensee name, license type, etc.",
+  "type" : "Monthly",
+  "dataset" : "Department of Buildings (DOB)",
+  "priority_classification" : "2016-12-01T00:00:00"
+}
+, {
+  "dataset_description" : "Census Demographics at the Neighborhood Tabulation Area (NTA) level",
+  "update_frequency" : "Table of Census Demographics represented at the NTA level. NTAs are aggregations of census tracts that are subsets of New York City's 55 Public Use Micro data Areas (PUMAs)",
+  "type" : " TBD",
+  "dataset" : "Department of City Planning (DCP)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Census Demographics at the NYC City Council district (CNCLD) level",
+  "update_frequency" : "Table of Census Demographics represented at the NYC City Council district level",
+  "type" : " TBD",
+  "dataset" : "Department of City Planning (DCP)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Census Demographics at the NYC Community District (CD) level",
+  "update_frequency" : "Table of Census Demographics represented at the NYC Community District level",
+  "type" : " TBD",
+  "dataset" : "Department of City Planning (DCP)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Demographics and profiles at the Neighborhood Tabulation Area (NTA) level",
+  "update_frequency" : "Table of ACS Demographics and profile represented at the NTA level. NTAs are aggregations of census tracts that are subsets of New York City's 55 Public Use Microdata Areas (PUMAs)",
+  "type" : " TBD",
+  "dataset" : "Department of City Planning (DCP)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Demographics and profiles at the Public Use Microdata Area (PUMA ) subarea level",
+  "update_frequency" : "Tables of ACS Demographics and profiles represented at the PUMA sub area level. (PUMA sub areas are similar to NYC Community Districts but not coterminous)",
+  "type" : " TBD",
+  "dataset" : "Department of City Planning (DCP)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Bike Counts",
+  "update_frequency" : "Bicycle traffic counts collected at 16 locations (11 on-street, 5 greenway).",
+  "type" : "Annually",
+  "dataset" : "Department of City Planning (DCP)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Gazetteer of City Owned Property ",
+  "update_frequency" : "List of city-owned properties and uses",
+  "type" : "Annually",
+  "dataset" : "Department of City Planning (DCP)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "2010 Census Tract to Neighborhood Tabulation Area Equivalency table",
+  "update_frequency" : "Excel table of census data created to project populations at the Neighborhood Tabulation Area, a small area level, from 2000 to 2030 for PlaNYC, the long-term sustainability plan for New York City",
+  "type" : " TBD",
+  "dataset" : "Department of City Planning (DCP)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Special Natural Waterfront Areas (SNWA) boundaries",
+  "update_frequency" : "Shape file of SNWA boundaries that define the geographic scope of New York City's Waterfront Revitalization Program (WRP)",
+  "type" : " TBD",
+  "dataset" : "Department of City Planning (DCP)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Significant Maritime and Industrial Areas (SMIA) boundaries",
+  "update_frequency" : "Shape file of SMIA boundaries that define the geographic scope of New York City's Waterfront Revitalization Program (WRP)",
+  "type" : " TBD",
+  "dataset" : "Department of City Planning (DCP)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "City Store - The Official Store of the City of New York   ",
+  "update_frequency" : "Information on City Store – the Official Story of the City of New York",
+  "type" : "Weekly",
+  "dataset" : "Department of Citywide Administrative Services (DCAS)",
+  "priority_classification" : "2014-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "Green Book Online ",
+  "update_frequency" : "The Green Book Online is a fully searchable database. It currently includes 3 sections from the print directory - listings for New York City, County and New York State government organizations  ",
+  "type" : "Weekly",
+  "dataset" : "Department of Citywide Administrative Services (DCAS)",
+  "priority_classification" : "2014-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "100 Year Association - College Scholar Award ",
+  "update_frequency" : "The Hundred Year Association of New York honors outstanding civil servants and provides college scholarships for the children of City employees",
+  "type" : "Annually",
+  "dataset" : "Department of Citywide Administrative Services (DCAS)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "City Record Online",
+  "update_frequency" : "The City Record Online (CROL) is a fully searchable database of procurement notices - bid solicitations and awards - from New York City agencies. ",
+  "type" : "Daily",
+  "dataset" : "Department of Citywide Administrative Services (DCAS)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Urban Agriculture dataset",
+  "update_frequency" : "City Property Data",
+  "type" : "Annually",
+  "dataset" : "Department of Citywide Administrative Services (DCAS)",
+  "priority_classification" : "2015-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Building Fuel Usage Data",
+  "update_frequency" : "City Building Fuel Usage Data",
+  "type" : "Annually",
+  "dataset" : "Department of Citywide Administrative Services (DCAS)",
+  "priority_classification" : "2015-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Building Energy Usage Data",
+  "update_frequency" : "City Building Energy Usage Data",
+  "type" : "Annually",
+  "dataset" : "Department of Citywide Administrative Services (DCAS)",
+  "priority_classification" : "2015-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Current Solicitations",
+  "update_frequency" : "The Office of Citywide Purchasing (OCP) solicits and awards contracts for a wide variety of goods and services on behalf of all City agencies",
+  "type" : "Weekly",
+  "dataset" : "Department of Citywide Administrative Services (DCAS)",
+  "priority_classification" : "2015-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Recent Contract Awards",
+  "update_frequency" : "The Office of Citywide Purchasing (OCP) solicits and awards contracts for a wide variety of goods and services on behalf of all City agencies ",
+  "type" : "Weekly",
+  "dataset" : "Department of Citywide Administrative Services (DCAS)",
+  "priority_classification" : "2016-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "Recent Bid Tabulations",
+  "update_frequency" : "The Office of Citywide Purchasing (OCP) solicits and awards contracts for a wide variety of goods and services on behalf of all City agencies ",
+  "type" : "Weekly",
+  "dataset" : "Department of Citywide Administrative Services (DCAS)",
+  "priority_classification" : "2016-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "OASys: NYC Online Application System ",
+  "update_frequency" : "Civil Service Exam Information ",
+  "type" : "Monthly",
+  "dataset" : "Department of Citywide Administrative Services (DCAS)",
+  "priority_classification" : "2017-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Charges",
+  "update_frequency" : "Charges issued as a result of DCA enforcement efforts to ensure compliance with license regulations, weights and measures regulations, and provisions of the New York City Consumer Protection Law",
+  "type" : "Weekly",
+  "dataset" : "Department of Consumer Affairs (DCA)",
+  "priority_classification" : "2015-01-31T00:00:00"
+}
+, {
+  "dataset_description" : "Consumer Services Complaint Mediation",
+  "update_frequency" : "Complaints docketed by DCA and mediation outcomes",
+  "type" : "Weekly",
+  "dataset" : "Department of Consumer Affairs (DCA)",
+  "priority_classification" : "2015-01-31T00:00:00"
+}
+, {
+  "dataset_description" : "Revocations and Suspensions",
+  "update_frequency" : "All revocations and suspensions ordered by DCA tribunal",
+  "type" : "Weekly",
+  "dataset" : "Department of Consumer Affairs (DCA)",
+  "priority_classification" : "2015-01-31T00:00:00"
+}
+, {
+  "dataset_description" : "Trust Fund Invasions and  Repayments",
+  "update_frequency" : "Consumer restitution and DCA fines paid out of DCA-administered Home Improvement Contractor and Tow Truck Trust funds for trust fund participants that are delinquent on their debts",
+  "type" : "Weekly",
+  "dataset" : "Department of Consumer Affairs (DCA)",
+  "priority_classification" : "2015-01-31T00:00:00"
+}
+, {
+  "dataset_description" : "Consumer Restitution Awarded through DCA Tribunal",
+  "update_frequency" : "Restitution awarded to consumers through DCA's Administrative Tribunal",
+  "type" : "Weekly",
+  "dataset" : "Department of Consumer Affairs (DCA)",
+  "priority_classification" : "2015-01-31T00:00:00"
+}
+, {
+  "dataset_description" : "Case Workflow",
+  "update_frequency" : "Status of cases in DCA's Administrative Tribunal",
+  "type" : "Weekly",
+  "dataset" : "Department of Consumer Affairs (DCA)",
+  "priority_classification" : "2015-01-31T00:00:00"
+}
+, {
+  "dataset_description" : "Inspections",
+  "update_frequency" : "DCA inspections of over 80 business categories to ensure compliance with license regulations, weights and measures regulations, and provisions of the New York City Consumer Protection Law",
+  "type" : "Weekly",
+  "dataset" : "Department of Consumer Affairs (DCA)",
+  "priority_classification" : "2015-01-31T00:00:00"
+}
+, {
+  "dataset_description" : "Waiting List for General Vendor Licenses",
+  "update_frequency" : "Applicants placed on waiting list for General Vendor licenses after annual lottery. (Lottery not always held each year.)",
+  "type" : "Annually",
+  "dataset" : "Department of Consumer Affairs (DCA)",
+  "priority_classification" : "2015-01-31T00:00:00"
+}
+, {
+  "dataset_description" : "License Applications",
+  "update_frequency" : "License applications submitted to DCA.",
+  "type" : "Monthly",
+  "dataset" : "Department of Consumer Affairs (DCA)",
+  "priority_classification" : "2015-01-31T00:00:00"
+}
+, {
+  "dataset_description" : "Licensing Fees Rate Table",
+  "update_frequency" : "Fee table for DCA license applications",
+  "type" : "Monthly",
+  "dataset" : "Department of Consumer Affairs (DCA)",
+  "priority_classification" : "2015-01-31T00:00:00"
+}
+, {
+  "dataset_description" : "Receivables and Receipts",
+  "update_frequency" : "Fees and fines owed to DCA and payments thereon",
+  "type" : "Weekly",
+  "dataset" : "Department of Consumer Affairs (DCA)",
+  "priority_classification" : "2015-01-31T00:00:00"
+}
+, {
+  "dataset_description" : "Financial Empowerment Center Client Outcomes",
+  "update_frequency" : "Aggregate data on outcomes achieved by clients using DCA's financial counseling services",
+  "type" : "Monthly",
+  "dataset" : "Department of Consumer Affairs (DCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Licensing Center Customer Information",
+  "update_frequency" : "Licensing center customer volume and customer experience information",
+  "type" : "Monthly",
+  "dataset" : "Department of Consumer Affairs (DCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Hart Island Burial Records",
+  "update_frequency" : "Individuals buried on Hart Island with date and place of death when available",
+  "type" : "Quarterly",
+  "dataset" : "Department of Correction (DOC)",
+  "priority_classification" : "2014-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "Aggregate Visits/Visitors",
+  "update_frequency" : "Numbers of visitors by day, visits with children ",
+  "type" : "Quarterly",
+  "dataset" : "Department of Correction (DOC)",
+  "priority_classification" : "2014-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "Aggregate Employee Statistics",
+  "update_frequency" : "Quarterly sums of staff attributes (status, rank, title, average salary, gender)",
+  "type" : "Quarterly",
+  "dataset" : "Department of Correction (DOC)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Aggregate Population Statistics",
+  "update_frequency" : "Quarterly sums of inmate attributes (custody level, gang membership, institutional conduct, mental health diagnosis)",
+  "type" : "Quarterly",
+  "dataset" : "Department of Correction (DOC)",
+  "priority_classification" : "2015-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "Inmates in Custody",
+  "update_frequency" : "List of inmates in custody with demographics, charge data, and status",
+  "type" : "Daily",
+  "dataset" : "Department of Correction (DOC)",
+  "priority_classification" : "2015-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "Inmate Admissions",
+  "update_frequency" : "List of monthly inmate admissions with demographics and charge at admissions data",
+  "type" : "Monthly",
+  "dataset" : "Department of Correction (DOC)",
+  "priority_classification" : "2015-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "Inmate Discharges",
+  "update_frequency" : "List of monthly inmate discharges with demographics and charge at admissions data",
+  "type" : "Monthly",
+  "dataset" : "Department of Correction (DOC)",
+  "priority_classification" : "2015-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "Jail Population Profiles",
+  "update_frequency" : "Average inmate population, inmate profiles, staff profiles, incidents by facility",
+  "type" : "Monthly",
+  "dataset" : "Department of Correction (DOC)",
+  "priority_classification" : "2015-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "Cultural Institutions",
+  "update_frequency" : "Data regarding the 33 organizations that comprise the Cultural Institutions Group",
+  "type" : "Annually",
+  "dataset" : "Department of Cultural Affairs (DCLA)",
+  "priority_classification" : "2014-09-08T00:00:00"
+}
+, {
+  "dataset_description" : "Materials for the Arts",
+  "update_frequency" : "Data regarding donations processed through MFTA",
+  "type" : "Annually",
+  "dataset" : "Department of Cultural Affairs (DCLA)",
+  "priority_classification" : "2014-09-08T00:00:00"
+}
+, {
+  "dataset_description" : "Capital Projects",
+  "update_frequency" : "Organizations awarded Capital Projects funding",
+  "type" : "Annually",
+  "dataset" : "Department of Cultural Affairs (DCLA)",
+  "priority_classification" : "2014-09-08T00:00:00"
+}
+, {
+  "dataset_description" : "Project Information",
+  "update_frequency" : "Consolidated information on project status ",
+  "type" : "Quarterly",
+  "dataset" : "Department of Design and Construction (DDC)",
+  "priority_classification" : "2017-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Underutilized Space Report",
+  "update_frequency" : "The DOE has previously identified 594 schools located in 330 buildings as “under-utilized” based upon the 2010-2011 Enrollment-Capacity-Utilization Report (The Blue Book). The DOE is also identifying 25 school buildings (listed below) which contain schools proposed for full phase-out, grade truncation or immediate closure due to poor performance. These proposals are scheduled to be voted on by the Panel for Education Policy on February 9, 2012. Should these proposals be approved, there will be excess space available in the buildings. In many cases, the DOE has already made companion proposals on how to use this additional space",
+  "type" : "Annually",
+  "dataset" : "Department of Education (DOE)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Daily School-wide Attendance",
+  "update_frequency" : "Daily school-wide attendance for all schools",
+  "type" : "Daily",
+  "dataset" : "Department of Education (DOE)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Attendance by School and Year ",
+  "update_frequency" : "Attendance data reflect what has been reported via our Period Attendance Reporting (PAR) process. As additional data is reported, it will be reflected in subsequent postings. Monthly data can change as new data is reported, and overall register numbers are expected to decrease each year once audited numbers are finalized. CBOs not included. Register statistics are unaudited and unofficial",
+  "type" : "Annually",
+  "dataset" : "Department of Education (DOE)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "School Bus Delays and Breakdowns ",
+  "update_frequency" : "List of school bus delay for the day. The Office of Pupil Transportation (OPT) provides service to over 600,000 NYC students attending both public and non-public schools located within the five boroughs and neighboring counties in New York, New Jersey and Connecticut",
+  "type" : "Daily",
+  "dataset" : "Department of Education (DOE)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Bus Route Status",
+  "update_frequency" : "Bus Route Status for the day. Information coming from the Bus Route Status System 2.0. The Office of Pupil Transportation (OPT) provides service to over 600,000 NYC students attending both public and non-public schools located within the five boroughs and neighboring counties in New York, New Jersey and Connecticut",
+  "type" : "Daily",
+  "dataset" : "Department of Education (DOE)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "School Facilities Summary",
+  "update_frequency" : "School Facilities Summary includes: Architectural, Mechanical, and Electrical survey details, capacity and utilization data, capacity plan, active capital projects",
+  "type" : "Annually",
+  "dataset" : "Department of Education (DOE)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Annual Arts in School Reports Raw Data ",
+  "update_frequency" : "The Annual Arts in Schools Report includes data about arts teachers, arts budgeting, space for the arts, partnerships with arts and cultural organizations, and parent involvement for elementary, middle, and high schools. These reports help school administrators, parents, and students understand how their schools are progressing towards offering universal arts education to all students",
+  "type" : "Annually",
+  "dataset" : "Department of Education (DOE)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Audited Register Data",
+  "update_frequency" : "Official audited register by school",
+  "type" : "Annually",
+  "dataset" : "Department of Education (DOE)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Location Information Report ",
+  "update_frequency" : "Report of all DOE School Information including Principal and Superintendent names, Cluster, Network, addresses & phone numbers",
+  "type" : "Daily",
+  "dataset" : "Department of Education (DOE)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Regents  Exams results, by School",
+  "update_frequency" : "Regents results by School for all subjects, by Year",
+  "type" : "Annually",
+  "dataset" : "Department of Education (DOE)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "School Budget Overviews",
+  "update_frequency" : "Report that shows individual school budget allocation by year. Fair Student Funding Details feature also available",
+  "type" : "Annually",
+  "dataset" : "Department of Education (DOE)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "School Allocation Memorandums (SAM)",
+  "update_frequency" : "School Allocation Memorandums (SAM) by category. Categories: Fair Student Funding, Children First Network Support, Externally Restricted Funds, Internally Restricted Funds, Other Special Education Funds, Budget and Technical Adjustments",
+  "type" : "Annually",
+  "dataset" : "Department of Education (DOE)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Acceptable Reduced Pressure Detector Assemblies",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Environment/Acceptable-Reduced-Pressure-Detector-Assemblies/4fif-5bmt"
+  },
+  "update_frequency" : "List of acceptable reduced pressure detector assemblies",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Cryptosporidium and Giardia Data Set",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Environment/DEP-Cryptosporidium-And-Giardia-Data-Set/x2s6-6d2j"
+  },
+  "update_frequency" : "Cryptosporidium and Giardia Background Information and Monitoring Program",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Reservoir Provisional Data",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Environment/Water-Resevoir-Levels/zkky-n5j3"
+  },
+  "update_frequency" : "The data tables provides current reservoir storage levels along with release, diversion, and spill rates",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Water Report",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Environment/Water-Resevoir-Levels/zkky-n5j3"
+  },
+  "update_frequency" : "The data tables provides current precipitation and reservoir capacity data",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Wastewater Treatment Plant Performance Data",
+  "available" : true,
+  "update_frequency" : "The data tables provides a monthly roll up of key parameters at Wastewater treatment plants including SPEDES permit requirements",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "DEP Cross Connection Control Risk Assessment",
+  "update_frequency" : "This is a guideline for Professional Engineers/Registered Architects for filing Backflow Prevention Device Plans for all property types.",
+  "behind_schedule" : "N/A",
+  "type" : "Annually",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Acceptable Double Check Valve Assemblies",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Environment/Acceptable-Double-Check-Valve-Assemblies/5e35-afph"
+  },
+  "update_frequency" : "List of acceptable double check valve assemblies",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Acceptable Reduced Pressure Zone Devices",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Environment/Acceptable-Reduced-Pressure-Zone-Devices/iftc-eqzb"
+  },
+  "update_frequency" : "List of acceptable reduced pressure zone devices",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Acceptable Double Check Detector Assemblies",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Environment/Acceptable-Double-Check-Detector-Assemblies/muaz-gc29"
+  },
+  "update_frequency" : "List of acceptable double detector assemblies",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Sewer Design Standards",
+  "update_frequency" : "Standards for sewers, manholes, catch basins, precast manholes, precast catch basins and sewer appurtenances. Those standards are used in the design of capital & private sewer projects",
+  "behind_schedule" : "N/A",
+  "type" : "Annually",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Hydraulic Computation Worksheet Templates",
+  "update_frequency" : "This is an example worksheet for developing and submitting a Hydraulic Study for DEP approval. A Hydraulic Study is used to analyze the adequacy of an existing sewer to receive sanitary and storm flows generated from an area tributary to the sewer.",
+  "behind_schedule" : "N/A",
+  "type" : "Annually",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "CSO BMP Report Appendices",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Environment/CSO-BMP-Report-Catch-Basin-Survey-And-Cleaning/ppzj-4i42"
+  },
+  "update_frequency" : "Data from tables and charts included in DEP's Combined Sewer Overflow Best Management Practices Annual Report",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Recreational Boating Permits",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/dataset/Recreational-Boating-Permits/idfb-y78n"
+  },
+  "update_frequency" : "The data tables provides a number of permits issued by type of boat and by basin",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-04-01T00:00:00"
+}
+, {
+  "dataset_description" : "Land Acquisition Statistics",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/dataset/Land-Acquisition-Statistics/csj2-grh9"
+  },
+  "update_frequency" : "The data tables provides annual statics on how much land we own, acquired, and total protected lands in the water shed",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-04-01T00:00:00"
+}
+, {
+  "dataset_description" : "CCR Annual Report",
+  "update_frequency" : "The data tables published as part of the Annual NYC Drinking Water Supply and Quality Report  ",
+  "type" : "Annually",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-05-30T00:00:00"
+}
+, {
+  "dataset_description" : "Water Quality ",
+  "update_frequency" : "Weekly /YTD Water quality data",
+  "type" : "Weekly",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "Monthly Operating Efficiency",
+  "update_frequency" : "Average monthly performance data for 14 NYC WWTPs.",
+  "type" : "Monthly",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "Customer Service Module",
+  "update_frequency" : "The DEP Customer Service dataset will contain information about the different types of complaints received /processed on a regular basis. The dataset will include complaint information such as complaint type, caller information, location, status, or resolution code. ",
+  "type" : "Daily",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-07-01T00:00:00"
+}
+, {
+  "dataset_description" : "LIMS and SAS databases",
+  "update_frequency" : "Water Quality data for watershed streams and reservoirs",
+  "type" : "Annually",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-07-31T00:00:00"
+}
+, {
+  "dataset_description" : "Work Order  Management Module",
+  "update_frequency" : "Work orders associated with a CSR complaints",
+  "type" : "Daily",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-12-01T00:00:00"
+}
+, {
+  "dataset_description" : "Sewer Connection Permit",
+  "update_frequency" : "Sewer Connection Permit",
+  "type" : "Daily",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-12-01T00:00:00"
+}
+, {
+  "dataset_description" : "Sewer Plug Permit ",
+  "update_frequency" : "Sewer Plug Permit ",
+  "type" : "Daily",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-12-01T00:00:00"
+}
+, {
+  "dataset_description" : "Water Service Plug Permit",
+  "update_frequency" : "Water Service Plug Permit",
+  "type" : "Daily",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-12-01T00:00:00"
+}
+, {
+  "dataset_description" : "CATS Permits",
+  "update_frequency" : "Contains information on current boiler and industrial operation permits in New York City registered with  DEP",
+  "type" : "Daily",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "LCR 90th percentile dataset",
+  "update_frequency" : "At-the-tap LCR compliance and free residential 1st draw 90th percentile data. ",
+  "type" : "Quarterly",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Daily Source Water Turbidity Data",
+  "update_frequency" : "The data table summarizes the daily source water turbidity data for DEL18DT  ",
+  "type" : "Monthly",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Lead Kit Requests",
+  "update_frequency" : "This is a running list of 311 requests for lead testing kits which are logged in Hansen. ",
+  "type" : "Quarterly",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Water Quality complaints",
+  "update_frequency" : "This is a running list of all water quality complaint types logged in Hansen. ",
+  "type" : "Monthly",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Distribution Sites LCR Monitoring Results",
+  "update_frequency" : "Monthly results from the distribution sites for orthophosphate, pH, temperature, conductivity and monthly alkalinity, calcium, lead and copper - Bi annually updated",
+  "type" : "Annually",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Entry Point LCR Monitoring Results",
+  "update_frequency" : "Daily results from the entry points for orthophosphate, pH, temperature, conductivity and monthly alkalinity, calcium, lead and copper - Bi annually updated",
+  "type" : "Annually",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Summary of DBP Quarterly Report",
+  "update_frequency" : "The data tables summarizes the disinfection by-product results for TTHM and HAA5 from distribution sites and calculated compliance values for each quarter",
+  "type" : "Quarterly",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Summary of Turbidity of Distribution Samples",
+  "update_frequency" : "The data tables summarizes the turbidity values found at sites in distribution each month  ",
+  "type" : "Monthly",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Compliance Coliform Samples",
+  "update_frequency" : "This list contains information on the analytical results of samples collected for compliance with the Total Coliform Rule",
+  "type" : "Monthly",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Summary of Fluoride Levels of Distribution Samples ",
+  "update_frequency" : "The data tables summarizes the fluoride values found at sites in distribution each month  ",
+  "type" : "Monthly",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Summary of FCR of Distribution Samples ",
+  "update_frequency" : "The data tables summarizes the chlorine residual values found at sites in distribution each month  ",
+  "type" : "Monthly",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Source Water Fecal Coliform Data",
+  "update_frequency" : "The data table summarizes the daily source water fecal coliform data and SWTR compliance (% samples >20 FC/100 mL over previous 6 months) for DEL18DT  ",
+  "type" : "Monthly",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Private Sewer Construction Permit",
+  "update_frequency" : "Private Sewer Construction Permit",
+  "type" : "Daily",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2016-09-01T00:00:00"
+}
+, {
+  "dataset_description" : "Manhole Permit",
+  "update_frequency" : " Manhole Permit",
+  "type" : "Daily",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2016-09-01T00:00:00"
+}
+, {
+  "dataset_description" : "Private Water Main Construction Permit",
+  "update_frequency" : "Private Water Main Construction Permit",
+  "type" : "Daily",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2016-09-01T00:00:00"
+}
+, {
+  "dataset_description" : "Seepage Basins Permit",
+  "update_frequency" : "Seepage Basins Permit",
+  "type" : "Daily",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2016-09-01T00:00:00"
+}
+, {
+  "dataset_description" : "Catch Basin Permit ",
+  "update_frequency" : "The DEP Application and Permit data will contain information about the different types of applications approved and permits issued on a regular basis. The Data will include application information such as development details, location, results, and status information.",
+  "type" : "Daily",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2016-12-01T00:00:00"
+}
+, {
+  "dataset_description" : "ARTSACP7",
+  "update_frequency" : "Contains information on asbestos abatement  projects taking place in New York City",
+  "type" : "Daily",
+  "dataset" : "Department of Environmental Protection (DEP)",
+  "priority_classification" : "2017-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "ACRIS - Personal Property - Lot Record",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/ACRIS-Personal-Property-Legals/uqqa-hym2"
+  },
+  "update_frequency" : "This dataset contains property information with one record for each property (BBL) on the document.",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2013-09-23T00:00:00"
+}
+, {
+  "dataset_description" : "ACRIS - Real Property - Master Records",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/ACRIS-Real-Property-Master/bnx9-e6tj"
+  },
+  "update_frequency" : "This dataset contains one record for each recorded real property document. The unique key (which is the link to the other records for the document) is the Document ID.",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2013-09-23T00:00:00"
+}
+, {
+  "dataset_description" : "ACRIS -Real Property - Lot Record",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/ACRIS-Real-Property-Legals/8h5j-fqxa"
+  },
+  "update_frequency" : "This dataset contains property information with one record for each property (BBL) on the document.",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2013-09-23T00:00:00"
+}
+, {
+  "dataset_description" : "ACRIS - Personal Property - Cross References Record",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/ACRIS-Personal-Property-References/6y3e-jcrc"
+  },
+  "update_frequency" : "This dataset contains cross reference information (if any) for recorded documents.",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2013-09-23T00:00:00"
+}
+, {
+  "dataset_description" : "ACRIS - Real Property -Party Record",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/ACRIS-Real-Property-Parties/636b-3b5g"
+  },
+  "update_frequency" : "This dataset contains party information with one record for each party on the document.",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2013-09-23T00:00:00"
+}
+, {
+  "dataset_description" : "ACRIS - Personal Property - Party Record",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/ACRIS-Personal-Property-Parties/nbbg-wtuz"
+  },
+  "update_frequency" : "This dataset contains party information with one record for each party on the document.",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2013-09-23T00:00:00"
+}
+, {
+  "dataset_description" : "ACRIS - Real Property -Cross References Record",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/ACRIS-Real-Property-References/pwkr-dpni"
+  },
+  "update_frequency" : "This dataset contains cross reference information (if any) for recorded documents.",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2013-09-23T00:00:00"
+}
+, {
+  "dataset_description" : "ACRIS - Real Property -Remarks Record",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/ACRIS-Real-Property-Remarks/9p4w-7npp"
+  },
+  "update_frequency" : "This dataset contains remarks information (if any) for recorded documents.",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2013-09-23T00:00:00"
+}
+, {
+  "dataset_description" : "ACRIS - Personal Property - Master Record",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/ACRIS-Personal-Property-Master/sv7x-dduq"
+  },
+  "update_frequency" : "This dataset contains one record for each recorded personal property document. The unique key (which is the link to the other records for the document) is the Document ID.",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2013-09-23T00:00:00"
+}
+, {
+  "dataset_description" : "Scofftow",
+  "update_frequency" : "Information on vehicles towed or booted, and potentially auctioned as a result of parking ticket non-payment enforcement",
+  "type" : " TBD",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "NYCServ Payments",
+  "update_frequency" : "Payments received for DOF Parking Tickets, Property and Business Taxes, DEP Water Charges, ECB, DOH, DCA Violations",
+  "type" : " TBD",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "CPRR Remittances ",
+  "update_frequency" : "Payments received via web pages for various agencies such as DOF Parking Tickets and Property Taxes, DCAS Rents, DOHMH Dog Licenses, HPD Heat and Hot Water Repairs, DSNY Abandoned Vehicle Towing, FDNY Inspections, DOB Electrical Permits, ECB violations",
+  "type" : " TBD",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "CPRR Receivables ",
+  "update_frequency" : "Amounts owed for various agencies such as DOF Parking and Property Taxes, DCAS Rents, DSNY Abandoned Vehicle Towing, FDNY Inspections, DOB Electrical Permits, ECB violations, SAPO Street Activity Permits. ",
+  "type" : " TBD",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Personal Property - Remarks Record",
+  "update_frequency" : "This dataset contains remarks information (if any) for recorded documents.",
+  "type" : "Monthly",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Banking Corporation Tax Issuer Allocation Percentage Reports",
+  "update_frequency" : "IAP for all corporations subject to the tax for 1997 - Current.",
+  "type" : "Annually",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "General Corporation Tax Issuer Allocation Percentage Reports",
+  "update_frequency" : "IAP for all corporations subject to the tax for 1998 - Current.",
+  "type" : "Annually",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Cigarette tax enforcement data ",
+  "update_frequency" : "Amount billed and collected from vendors or untaxed cigarettes, including number of NYC customers for each vendor.",
+  "type" : "Monthly",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Public Improvement lien (mechanics liens) docket",
+  "update_frequency" : "Details about claims of non-payment for labor or materials provided to a government contractor or subcontractor.",
+  "type" : "Monthly",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Real Property Income and Expense Form non-compliance lists",
+  "update_frequency" : "Properties required to file RPIE-2010 which did not do so.",
+  "type" : "Annually",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Property tax rates by tax class",
+  "update_frequency" : "Table of tax rates by year ",
+  "type" : "Annually",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Properties that received Revised Notice of Value",
+  "update_frequency" : "Original and revised assessment figures for each parcel of property related to a particular mailing.  (Register as an Excel spread sheet)",
+  "type" : "Semi-annually",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Property Abatements",
+  "update_frequency" : "Benefits which reduce property tax liability and related details.  Abatement detail files (mainframe files)",
+  "type" : "Quarterly",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Tax lien sale lists",
+  "update_frequency" : "Properties with tax and/or water liens that are potentially eligible to be included in the next lien sale.   ",
+  "type" : "Monthly",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Vending machine operators                                             ",
+  "update_frequency" : "Mainframe file ",
+  "type" : "Semi-annually",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Stamping agents                              ",
+  "update_frequency" : "Mainframe file ",
+  "type" : "Semi-annually",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Licensed cigarette wholesale dealers                           ",
+  "update_frequency" : "Mainframe file ",
+  "type" : "Semi-annually",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Open Balance Detail",
+  "update_frequency" : "Mainframe text file.",
+  "type" : "Quarterly",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Annualized Calendar Sales Update",
+  "update_frequency" : "Sales data for the calendar year",
+  "type" : "Annually",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Exemption Classification Codes",
+  "update_frequency" : "Table of codes and the corresponding description",
+  "type" : "Semi-annually",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Refund list - real property tax",
+  "update_frequency" : "Details about refund checks for overpaid Property Tax accounts, with amounts broken down by specific charge. Available for calendars years 2011-Current.",
+  "type" : "Monthly",
+  "dataset" : "Department of Finance (DOF)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Child Care Inspections",
+  "update_frequency" : "Dataset contains information on center-based child care and summer camp sites and inspections related to the sites",
+  "type" : "Annually",
+  "dataset" : "Department of Health and Mental Hygiene (DOHMH)",
+  "priority_classification" : "2016-06-01T00:00:00"
+}
+, {
+  "dataset_description" : " Pool Inspections",
+  "update_frequency" : "Dataset contains information on inspections of pools",
+  "type" : "Annually",
+  "dataset" : "Department of Health and Mental Hygiene (DOHMH)",
+  "priority_classification" : "2017-06-01T00:00:00"
+}
+, {
+  "dataset_description" : "Beach Water Quality",
+  "update_frequency" : "Dataset contains information on beach water quality",
+  "type" : "Annually",
+  "dataset" : "Department of Health and Mental Hygiene (DOHMH)",
+  "priority_classification" : "2018-06-01T00:00:00"
+}
+, {
+  "dataset_description" : "Air Quality",
+  "update_frequency" : "Dataset contains information on New York City air quality surveillance data",
+  "type" : "Annually",
+  "dataset" : "Department of Health and Mental Hygiene (DOHMH)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Radiation Producing Equipment",
+  "update_frequency" : "Dataset contains information on Department inspections of radiation-producing equipment",
+  "type" : "Annually",
+  "dataset" : "Department of Health and Mental Hygiene (DOHMH)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Rodent Inspection",
+  "update_frequency" : "Dataset contains information on rat inspections",
+  "type" : "Annually",
+  "dataset" : "Department of Health and Mental Hygiene (DOHMH)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Mobile Vending Permitting",
+  "update_frequency" : "Dataset contains information on mobile food vending permits and inspections",
+  "type" : "Annually",
+  "dataset" : "Department of Health and Mental Hygiene (DOHMH)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Daily Report",
+  "update_frequency" : "The Daily Report dataset includes the daily number of families and individuals residing in the Department of Homeless Services (DHS) shelter system and the daily number of families applying to the DHS shelter system",
+  "type" : "Daily",
+  "dataset" : "Department of Homeless Services (DHS)",
+  "priority_classification" : "2014-08-23T00:00:00"
+}
+, {
+  "dataset_description" : "Local Law 37 report",
+  "update_frequency" : "The DHS Local Law 37 report provides aggregate information on individuals and families that utilize DHS services including data on length of stay and shelter applications",
+  "type" : "Monthly",
+  "dataset" : "Department of Homeless Services (DHS)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Local Law 19, Section 612 Report",
+  "update_frequency" : "The DHS Local Law 19, Section 612 report provides aggregate data on outreach services, permanent housing placements and shelter length of stay ",
+  "type" : "Quarterly",
+  "dataset" : "Department of Homeless Services (DHS)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Data Dashboard",
+  "update_frequency" : "The DHS Data Dashboard provides aggregate information on individuals and families by case type; the ethnicity of shelter clients; the number of shelter entrants by borough; the number of shelter exits; how many school aged children are in shelter; the placements of chronically street homeless individuals; and prevention enrollments",
+  "type" : "Quarterly",
+  "dataset" : "Department of Homeless Services (DHS)",
+  "priority_classification" : "2015-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Local Law 44",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Housing-Development/Local-Law-44/cdft-tpfc"
+  },
+  "update_frequency" : "Per Local Law 44 of 2013, HPD is required to publish building location, affordability, development team and cost information for all housing development projects. The data set includes all required elements of Local Law 44",
+  "type" : "Semi-Annually",
+  "dataset" : "Department of Housing Preservation and Development (HPD)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Building",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Housing-Development/Buildings-Subject-to-HPD-Jurisdiction/kj4p-ruqc"
+  },
+  "update_frequency" : "Pursuant to New York City's Housing Maintenance Code, HPD collects information on multiple dwellings in New York City, and other buildings that fall under its jurisdiction. The list contains building location information, multiple registration numbers and the number of dwelling units by type ",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Housing Preservation and Development (HPD)",
+  "priority_classification" : "2014-02-01T00:00:00"
+}
+, {
+  "dataset_description" : "Charges ",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Housing-Development/Fee-Charges/cp6j-7bjj"
+  },
+  "update_frequency" : "The data set contains information on work orders created through HPD's Emergency Repair Program, Alternative Enforcement Program and Demolition programs and fees assessed against properties by HPD pursuant the Housing Manteca Code.  The work orders are created to conduct emergency repair work when an owner fails to address a hazardous condition pursuant to the requirements of an HPD-issued violation, a Department of Buildings Declaration of Emergency, a Department of Health Commissioner's Order to Abate or an emergency violation issued by another City Agency",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Housing Preservation and Development (HPD)",
+  "priority_classification" : "2014-02-01T00:00:00"
+}
+, {
+  "dataset_description" : "Violations",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5"
+  },
+  "update_frequency" : "HPD issues violations against conditions in rental dwelling units that been verified to violate the NYC Housing Maintenance Code (HMC) or the NY State Multiple Dwelling Law (MDL). Violations are issued when an inspection verifies that a violation of the HMC or MDL exists.  It is closed when a violation is corrected",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Housing Preservation and Development (HPD)",
+  "priority_classification" : "2014-02-01T00:00:00"
+}
+, {
+  "dataset_description" : "Complaints",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Complaints/uwyv-629c"
+  },
+  "update_frequency" : "HPD records complaints that are made by the public through the 311 City Services Center, Code Enforcement Borough Offices or the internet for conditions which violate the NYC Housing Maintenance Code or the NY State Multiple Dwelling Law (MDL).  Each complaint is associated with one or more problems reported by the complainant",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Housing Preservation and Development (HPD)",
+  "priority_classification" : "2014-02-01T00:00:00"
+}
+, {
+  "dataset_description" : "Litigation",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Housing-Development/Housing-Litigations/59kj-x8nc"
+  },
+  "update_frequency" : "HPD Housing Litigation Division (HLD) initiates action into the Housing Court against owners of privately-owned buildings to enforce compliance with the housing quality standards contained in the NY State Multiple Dwelling Law and NYC Housing Maintenance Code",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Housing Preservation and Development (HPD)",
+  "priority_classification" : "2014-02-01T00:00:00"
+}
+, {
+  "dataset_description" : "Registration",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Housing-Development/Multiple-Dwelling-Registrations/tesw-yqqr"
+  },
+  "update_frequency" : "HPD collected registration information from owners of residential rental units.  Owners are required to register if they own residential buildings with 3 or more units or if they own one- or two- family homes and neither they nor members of their immediate family live there",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Department of Housing Preservation and Development (HPD)",
+  "priority_classification" : "2014-02-01T00:00:00"
+}
+, {
+  "dataset_description" : "Additional Housing Development Information",
+  "update_frequency" : "Additional descriptive data for housing development projects not prescribed by Local Law 44 of 2013",
+  "type" : "Semi-Annually",
+  "dataset" : "Department of Housing Preservation and Development (HPD)",
+  "priority_classification" : "2018-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Hi-Caps",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Hi-Caps/6wve-ubwx"
+  },
+  "update_frequency" : "Data on DoITT's high-capacity/telecommunications services franchise agreements",
+  "behind_schedule" : "No",
+  "type" : "Quarterly",
+  "dataset" : "Department of Information Technology and Telecommunications (DoITT)",
+  "priority_classification" : "2014-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Public Pay Telephone locations and Wi-Fi pilot usage. (PPT complaints included in 311/Siebel data",
+  "update_frequency" : "Details on Public Pay Telephone locations and Wi-Fi pilot usage.",
+  "type" : "Weekly",
+  "dataset" : "Department of Information Technology and Telecommunications (DoITT)",
+  "priority_classification" : "2014-07-15T00:00:00"
+}
+, {
+  "dataset_description" : "Cable Complaints",
+  "update_frequency" : "Details on complaints made to DoITT’s cable franchising center",
+  "type" : "Quarterly",
+  "dataset" : "Department of Information Technology and Telecommunications (DoITT)",
+  "priority_classification" : "2017-06-01T00:00:00"
+}
+, {
+  "dataset_description" : "MTF/Pole top Reservations",
+  "update_frequency" : "Pole tops reserved as part of DoITT's Mobile Telecommunications Franchises (MTF) agreements.",
+  "type" : "Annually",
+  "dataset" : "Department of Information Technology and Telecommunications (DoITT)",
+  "priority_classification" : "2018-05-01T00:00:00"
+}
+, {
+  "dataset_description" : "Mayor's Management Report Performance Statistics",
+  "update_frequency" : "This dataset contains information provided to the Mayor's Office for inclusion in the Mayor's Management Report",
+  "type" : "Annually",
+  "dataset" : "Department of Investigation (DOI)",
+  "priority_classification" : "2014-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Work orders; Asset Inventory; Maintenance Schedules",
+  "update_frequency" : "Work order - Work orders generated for both general maintenance, and those used to address issues discovered during inspections; Inventory - inventory maintained on-hand at Parks storehouses; Maintenance Schedules - schedules used to assign field crews",
+  "type" : "Quarterly",
+  "dataset" : "Department of Parks and Recreation (DPR)",
+  "priority_classification" : "2017-12-29T00:00:00"
+}
+, {
+  "dataset_description" : "Street Tree Inventory and related information",
+  "update_frequency" : "Comprehensive data on Street Trees under Parks Department jurisdiction",
+  "type" : "Quarterly",
+  "dataset" : "Department of Parks and Recreation (DPR)",
+  "priority_classification" : "2017-12-29T00:00:00"
+}
+, {
+  "dataset_description" : "Inspection Information; Found Conditions",
+  "update_frequency" : "Inspection Info - ratings for inspections of all city parks; Found Conditions - issues discovered during inspections which require attention by staff",
+  "type" : "Quarterly",
+  "dataset" : "Department of Parks and Recreation (DPR)",
+  "priority_classification" : "2017-12-29T00:00:00"
+}
+, {
+  "dataset_description" : "Juvenile Operations - Investigations (Fiscal Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Public-Safety/DOP-Juvenile-Investigations-by-Fiscal-Year/3mji-gpg5"
+  },
+  "update_frequency" : "This table contains the number of presentence investigations completed by the Department during a fiscal year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Adult Early Discharges (EDs) (Calendar Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Adult-Early-Discharges-EDs-Calendar-Year-/detb-8mb2"
+  },
+  "update_frequency" : "This table provides a breakdown of early discharges during a calendar year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Adult Early Discharges (EDs) (Fiscal Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Early-Discharges-FY-/ubg5-sup6"
+  },
+  "update_frequency" : "This table provides a breakdown of early discharges during a fiscal year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Adult Operations - End-of-Year Probationer Count (Calendar Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/End-Of-Year-Probation-Count-CY-/iiqn-v6br"
+  },
+  "update_frequency" : "This table contains the number of probationers under supervision on the last day of a calendar year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Adult Operations - Investigations (Calendar Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Public-Safety/DOP-Adult-Investigations-by-Calendar-Year/k659-gwja"
+  },
+  "update_frequency" : "This table contains the number of presentence investigations completed by the Department during a calendar year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Adult Operations - End-of-Year Probationer Count (Fiscal Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Adult-Operations-End-of-Year-Probationer-Count-Fis/8bbg-txxj"
+  },
+  "update_frequency" : "This table contains the number of probationers under supervision on the last day of a fiscal year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Adult Operations - Total Cases Supervised (Calendar Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Adult-Total-Cases-Supervised-CY-/pswb-yh7w"
+  },
+  "update_frequency" : "This table contains the number of adult probation supervision cases serviced by the Department during a calendar year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Adult Operations - Total Cases Supervised (Fiscal Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Adult-Total-Cases-Supervised-FY-/xd6a-r5au"
+  },
+  "update_frequency" : "This table contains the number of adult probation supervision cases serviced by the Department during a fiscal year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Adult Violations of Probation Disposed (Calendar Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/DOP-Adult-Violations-of-Probation-Disposed-by-Cale/f2cz-q2ik"
+  },
+  "update_frequency" : "This table contains the number of violation proceedings disposed for adult probationers during a calendar year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Adult Violations of Probation Disposed (Fiscal Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/DOP-Adult-Violations-of-Probation-Disposed-by-Fisc/9sys-2i9y"
+  },
+  "update_frequency" : "This table contains the number of violation proceedings disposed for adult probationers during a fiscal year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Adult Violations of Probation Filed (Calendar Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/DOP-Adult-Violations-of-Probation-Filed-by-Calenda/k2ye-5mmh"
+  },
+  "update_frequency" : "This table contains the number of \"Violation of Probation” proceedings filed in court against adult probationers during a calendar year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Adult Violations of Probation Filed (Fiscal Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/DOP-Adult-Violations-of-Probation-Filed-by-Fiscal-/fve3-eee8"
+  },
+  "update_frequency" : "This table contains the number of \"Violation of Probation” proceedings filed in court against adult probationers during a fiscal year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Adult Operations - Intake (Calendar Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/DOP-Adult-Supervision-Intakes-by-Calendar-Year/az65-9z36"
+  },
+  "update_frequency" : "This table contains the number of probation supervision intakes completed by the Department during a calendar year ",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Adult Operations - Intake (Fiscal Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/DOP-Adult-Supervision-Intakes-by-Fiscal-Year/4fsz-s7id"
+  },
+  "update_frequency" : "This table contains the number of probation supervision intakes completed by the Department during a fiscal year ",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Juvenile Operations - End-of-Year Probationer Count (Calendar Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Juvenile-Ops-End-Of-Year-Count-CY-/4rz9-u93e"
+  },
+  "update_frequency" : "This table contains the number of probationers under supervision on the last day of a calendar year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Juvenile Operations - End-of-Year Probationer Count (Fiscal Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Juvenile-Ops-End-Of-Year-Count-FY-/tf3a-834b"
+  },
+  "update_frequency" : "This table contains the number of probationers under supervision on the last day of a fiscal year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Juvenile Operations - Total Cases Supervised (Calendar Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Juvenile-Operations-Total-Cases-Supervised-Calenda/pv5v-s3s6"
+  },
+  "update_frequency" : "This table contains the number of probation cases serviced by the Department during a calendar year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Juvenile Operations - Total Cases Supervised (Fiscal Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Juvenile-Total-Cases-Supervised-FY-/qzh9-chaf"
+  },
+  "update_frequency" : "This table contains the number of probation cases serviced by the Department during a fiscal year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Juvenile Violations of Probation Disposed (Fiscal Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/DOP-Juvenile-Violations-of-Probation-Disposed-by-F/gi3h-3i8t"
+  },
+  "update_frequency" : "This table contains the number of violation proceedings disposed for juvenile probationers during a fiscal year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Juvenile Violations of Probation Disposed (Calendar Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/DOP-Juvenile-Violations-of-Probation-Disposed-by-C/qf92-qkjm"
+  },
+  "update_frequency" : "This table contains the number of violation proceedings disposed for juvenile probationers during a calendar year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Juvenile Violations of Probation Filed (Calendar Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/DOP-Juvenile-Violations-of-Probation-Filed-by-Cale/vbgf-ket3"
+  },
+  "update_frequency" : "This table contains the number of \"Violation of Probation\" proceedings filed in court against juvenile probationers during a calendar year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Juvenile Violations of Probation Filed (Fiscal Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/DOP-Juvenile-Violations-of-Probation-Filed-by-Fisc/mzy5-smmw"
+  },
+  "update_frequency" : "This table contains the number of \"Violation of Probation\" proceedings filed in court against juvenile probationers during a fiscal year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Juvenile Operations - Intake Adjustments (Calendar Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/DOP-Juvenile-Supervision-Intakes-by-Calendar-Year/tgqn-na2n"
+  },
+  "update_frequency" : "This table contains juvenile delinquency Intake cases open for adjustment services during a calendar year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Adult Operations - Investigations (Fiscal Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Public-Safety/DOP-Adult-Investigations-by-Fiscal-Year/vvym-pu7g"
+  },
+  "update_frequency" : "This table contains the number of presentence investigations completed by the Department during a fiscal year  ",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Juvenile Operations - Intake Adjustments (Fiscal Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/DOP-Juvenile-Supervision-Intakes-by-Fiscal-Year/xdqu-utzq"
+  },
+  "update_frequency" : "This table contains juvenile delinquency Intake cases open for adjustment services during a fiscal year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Juvenile Operations - Intake (Calendar Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/DOP-Juvenile-Intakes-by-Calendar-Year/7ree-jtaa"
+  },
+  "update_frequency" : "This table contains the number of intakes by the Department during a calendar year ",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Juvenile Operations - Intake (Fiscal Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/DOP-Juvenile-Intakes-by-Fiscal-Year/ff9v-9yzg"
+  },
+  "update_frequency" : "This table contains the number of intakes by the Department during a fiscal year ",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "Juvenile Operations - Investigations (Calendar Year)",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Public-Safety/DOP-Juvenile-Investigations-by-Calendar-Year/fsis-j6x5"
+  },
+  "update_frequency" : "This table contains the number of presentence investigations completed by the Department during a calendar year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Department of Probation (DOP)",
+  "priority_classification" : "2013-09-30T00:00:00"
+}
+, {
+  "dataset_description" : "DORIS Performance Indicators",
+  "update_frequency" : "Monthly performance statistics for DORIS Archives and City Hall Library operations",
+  "type" : "Monthly",
+  "dataset" : "Department of Records (DOR)",
+  "priority_classification" : "2014-07-01T00:00:00"
+}
+, {
+  "dataset_description" : "Derelict Vehicle Dispositions",
+  "update_frequency" : "Gives disposition (disposal, tow, other) of derelict vehicles reported to DSNY",
+  "type" : "Monthly",
+  "dataset" : "Department of Sanitation (DSNY)",
+  "priority_classification" : "2015-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Events and clean-up costs",
+  "update_frequency" : "Names, locations and dates of events permitted by Street Activity Permit Office and the DSNY cost of clean-up efforts billed to event organizers",
+  "type" : "Monthly",
+  "dataset" : "Department of Sanitation (DSNY)",
+  "priority_classification" : "2015-07-01T00:00:00"
+}
+, {
+  "dataset_description" : "Resource Plans",
+  "update_frequency" : "Planned number of personnel to be assigned to Cleaning and Collection functions, by Sanitation District, date, and function",
+  "type" : "Quarterly",
+  "dataset" : "Department of Sanitation (DSNY)",
+  "priority_classification" : "2015-07-01T00:00:00"
+}
+, {
+  "dataset_description" : "Resource Utilization",
+  "update_frequency" : "Actual number of personnel assigned to Cleaning and Collection functions, by Sanitation District, date, and function. Also number of personnel not available by category and personnel detached to/attached from other districts",
+  "type" : "Quarterly",
+  "dataset" : "Department of Sanitation (DSNY)",
+  "priority_classification" : "2015-07-01T00:00:00"
+}
+, {
+  "dataset_description" : "Litter Basket Inventory",
+  "update_frequency" : "Tracks locations and type of Litter Baskets ",
+  "type" : "Quarterly",
+  "dataset" : "Department of Sanitation (DSNY)",
+  "priority_classification" : "2016-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Lot Cleaning Dispositions",
+  "update_frequency" : "Dispositions of Lots for which cleaning requests were received, with DSNY clean-up cost where applicable",
+  "type" : "Monthly",
+  "dataset" : "Department of Sanitation (DSNY)",
+  "priority_classification" : "2016-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Inspections",
+  "update_frequency" : "Tracks location, date and outcome of inspections of permitted, privately operated Municipal Solid Waste disposal locations",
+  "type" : "Monthly",
+  "dataset" : "Department of Sanitation (DSNY)",
+  "priority_classification" : "2016-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "NYC Business Solutions Business Courses",
+  "update_frequency" : "Schedule of business education courses provided by NYC Business Solutions",
+  "type" : "Weekly",
+  "dataset" : "Department of Small Business Services (SBS)",
+  "priority_classification" : "2014-06-01T00:00:00"
+}
+, {
+  "dataset_description" : "Courses/Training Provider Listing",
+  "update_frequency" : "Listing of vocational training courses eligible for Individual Training Grants ",
+  "type" : "Weekly",
+  "dataset" : "Department of Small Business Services (SBS)",
+  "priority_classification" : "2014-06-02T00:00:00"
+}
+, {
+  "dataset_description" : "Workforce1 Job Listing",
+  "update_frequency" : "Listing of job openings registered through Workforce1 Center",
+  "type" : "Weekly",
+  "dataset" : "Department of Small Business Services (SBS)",
+  "priority_classification" : "2014-06-03T00:00:00"
+}
+, {
+  "dataset_description" : "Workforce1 Recruitment Events",
+  "update_frequency" : "Schedule of recruitment events offered by Workforce1 Center",
+  "type" : "Weekly",
+  "dataset" : "Department of Small Business Services (SBS)",
+  "priority_classification" : "2014-06-04T00:00:00"
+}
+, {
+  "dataset_description" : "Manhattan River Crossings Screen line Traffic Flow",
+  "update_frequency" : "Presents vehicular volumes, classification and trends for all bridge and tunnel facilities serving Manhattan River Crossings",
+  "type" : "Annually",
+  "dataset" : "Department of Transportation (DOT)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Weekly Resurfacing Schedule (Manhattan milling and paving)",
+  "update_frequency" : "Manhattan Milling and Paving Schedule",
+  "type" : "Weekly",
+  "dataset" : "Department of Transportation (DOT)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Weekly Resurfacing Schedule (Bronx milling and paving)",
+  "update_frequency" : "Bronx Milling and Paving Schedule",
+  "type" : "Weekly",
+  "dataset" : "Department of Transportation (DOT)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Weekly Resurfacing Schedule (Brooklyn milling and paving)",
+  "update_frequency" : "Brooklyn Milling and Paving Schedule",
+  "type" : "Weekly",
+  "dataset" : "Department of Transportation (DOT)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Weekly Resurfacing Schedule (Queens milling and paving)",
+  "update_frequency" : "Queens Milling and Paving Schedule",
+  "type" : "Weekly",
+  "dataset" : "Department of Transportation (DOT)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Bike Routes",
+  "update_frequency" : "Locations of bike lanes and routes throughout the City",
+  "type" : "Annually",
+  "dataset" : "Department of Transportation (DOT)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Citywide Low Bridges",
+  "update_frequency" : "Contains the locations with low vertical clearances on the limited access highway system.",
+  "type" : "Annually",
+  "dataset" : "Department of Transportation (DOT)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Weekly Resurfacing Schedule (Staten Island milling and paving)",
+  "update_frequency" : "Staten Island Milling and Paving Schedule",
+  "type" : "Weekly",
+  "dataset" : "Department of Transportation (DOT)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Bridge Traffic Volumes",
+  "update_frequency" : "Summarizes vehicular volumes, classification data and trends for the 47 bridges that cross over water as well as 9 bridges and tunnels operated by the MTA and the 6 bridges and tunnels operated by PANYNJ",
+  "type" : "Annually",
+  "dataset" : "Department of Transportation (DOT)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Protected Streets",
+  "update_frequency" : "List of Protected Streets for segments and intersections, current and future.",
+  "type" : "Daily",
+  "dataset" : "Department of Transportation (DOT)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Sidewalk Weekly Resurfacing Schedule",
+  "update_frequency" : "Sidewalk schedule to repair, replace and/or install sidewalks and curbs",
+  "type" : "Weekly",
+  "dataset" : "Department of Transportation (DOT)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Concrete Weekly Resurfacing Schedule",
+  "update_frequency" : "Concrete schedule for installation or repair of concrete facilities (pedestrian, islands)",
+  "type" : "Weekly",
+  "dataset" : "Department of Transportation (DOT)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Screen line Traffic Flow",
+  "update_frequency" : "Vehicular volumes and historical comparisons across the Bronx-Westchester, Queens-Nassau, Manhattan-New Jersey and Brooklyn-Queens screen lines",
+  "type" : "Annually",
+  "dataset" : "Department of Transportation (DOT)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Bridge Inventory",
+  "update_frequency" : "An index of DOT’s bridge structures",
+  "type" : "Annually",
+  "dataset" : "Department of Transportation (DOT)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Capital Projects Plan",
+  "update_frequency" : "Data related to proposed capital projects in DOT’s 10 year Capital Plan",
+  "type" : "Annually",
+  "dataset" : "Department of Transportation (DOT)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Street Assessment",
+  "update_frequency" : "Current ratings of the conditions of streets throughout the 5 boroughs",
+  "type" : "Monthly",
+  "dataset" : "Department of Transportation (DOT)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Fire incident dispatch information",
+  "update_frequency" : "This database contains information on the dispatch and response of FDNY units.  No information will be included regarding responses to medical incidents",
+  "type" : "Monthly",
+  "dataset" : "Fire Department of New York (FDNY)",
+  "priority_classification" : "2015-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Medical incident dispatch information",
+  "update_frequency" : "This database contains information relating to the dispatch of units in response to EMS incidents throughout the city.  Data released will be limited to operational data only",
+  "type" : "Monthly",
+  "dataset" : "Fire Department of New York (FDNY)",
+  "priority_classification" : "2015-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Fire incident information by incident type",
+  "update_frequency" : "This database contains detailed information on individual Fire Incidents as completed by the Fire Officer.  No information will be included regarding medical incidents",
+  "type" : "Quarterly",
+  "dataset" : "Fire Department of New York (FDNY)",
+  "priority_classification" : "2016-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Building inspections completed by inspection type/Number of risk buildings inspected",
+  "update_frequency" : "Provides the number of Fire Operation inspections conducted for both mandatory building inspection types and risk buildings (as identified by the risk model)",
+  "type" : "Monthly",
+  "dataset" : "Fire Department of New York (FDNY)",
+  "priority_classification" : "2017-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Total HomeCare Cases",
+  "update_frequency" : "Total number of HomeCare cases",
+  "type" : "Monthly",
+  "dataset" : "Human Resource Administration (HRA)",
+  "priority_classification" : "2015-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Total HASA Cases",
+  "update_frequency" : "Total number of HASA cases",
+  "type" : "Monthly",
+  "dataset" : "Human Resource Administration (HRA)",
+  "priority_classification" : "2015-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Total Cases on Cash Assistance",
+  "update_frequency" : "Total number of cases on Cash Assistance, including breakdown by major categories",
+  "type" : "Monthly",
+  "dataset" : "Human Resource Administration (HRA)",
+  "priority_classification" : "2015-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Total Medicaid Cases",
+  "update_frequency" : "Total number of enrollees in Medicaid",
+  "type" : "Monthly",
+  "dataset" : "Human Resource Administration (HRA)",
+  "priority_classification" : "2015-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Cash Assistance Youth Engagement",
+  "update_frequency" : "Local Law 51 mandated report for youth in Cash Assistance program",
+  "type" : "Monthly",
+  "dataset" : "Human Resource Administration (HRA)",
+  "priority_classification" : "2015-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Local Law 49 Reporting",
+  "update_frequency" : "Detailed summary statistics regarding HASA program",
+  "type" : "Quarterly",
+  "dataset" : "Human Resource Administration (HRA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Local Law 37 Reporting",
+  "update_frequency" : "Emergency placements",
+  "type" : "Monthly",
+  "dataset" : "Human Resource Administration (HRA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "District Resource Statement",
+  "update_frequency" : "Program receipt by borough and community district",
+  "type" : "Annually",
+  "dataset" : "Human Resource Administration (HRA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Borough/Community District Report",
+  "update_frequency" : "Program receipt by borough and community district",
+  "type" : "Quarterly",
+  "dataset" : "Human Resource Administration (HRA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Office of Child Support Enforcement Fact Sheet",
+  "update_frequency" : "Summary statistics regarding OCSE",
+  "type" : "Monthly",
+  "dataset" : "Human Resource Administration (HRA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "HASA Fact Sheet",
+  "update_frequency" : "Summary statistics regarding HASA Program",
+  "type" : "Monthly",
+  "dataset" : "Human Resource Administration (HRA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "CA Application Report",
+  "update_frequency" : "Local Law 51 mandated report on youth cash assistance applications",
+  "type" : "Annually",
+  "dataset" : "Human Resource Administration (HRA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Cash Assistance Engagement",
+  "update_frequency" : "Report with engagement status for cases in Cash Assistance program",
+  "type" : "Monthly",
+  "dataset" : "Human Resource Administration (HRA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "JobStat",
+  "update_frequency" : "Monthly report of performance indicators for HRA Job Center operations",
+  "type" : "Monthly",
+  "dataset" : "Human Resource Administration (HRA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Archaeology Reports",
+  "update_frequency" : "Spreadsheet containing descriptive information for archaeological reports filed with LPC including abstracts for each report, the name of the author, date of publication, and borough location; powers the LPC website \"Archaeology Reports\" search engine",
+  "behind_schedule" : "N/A",
+  "type" : "Quarterly",
+  "dataset" : "Landmarks Preservation Commission (LPC)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Scenic Landmark Boundaries",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Recreation/LPC-Landmark-Districts/zypt-a7kw"
+  },
+  "update_frequency" : "GIS-based dataset (polygons) containing boundaries of scenic sites (e.g. parks) proposed or designated as New York City scenic landmarks from the moment of calendaring through designation or later actions, including relevant dates and other descriptive fields",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Landmarks Preservation Commission (LPC)",
+  "priority_classification" : "2014-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Landmark List",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Recreation/LPC-Landmark-Points/nzdu-c6a8"
+  },
+  "update_frequency" : "GIS-based dataset (points) containing properties proposed or designated as New York City Landmarks from the moment of calendaring through designation or later actions, including relevant dates and other descriptive fields",
+  "behind_schedule" : "No",
+  "type" : "Quarterly",
+  "dataset" : "Landmarks Preservation Commission (LPC)",
+  "priority_classification" : "2014-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Historic District Boundaries",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Recreation/Historic-district-maps/d4dh-78mx"
+  },
+  "update_frequency" : "GIS-based dataset (polygons) containing boundaries of areas proposed or designated as New York City historic districts from the moment of calendaring through designation or later actions, including relevant dates and other descriptive fields",
+  "behind_schedule" : "No",
+  "type" : "Quarterly",
+  "dataset" : "Landmarks Preservation Commission (LPC)",
+  "priority_classification" : "2014-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Demolition / Not a Landmark Letter Request Log",
+  "update_frequency" : "Spreadsheet containing information pertaining to requests for \"not a landmark\" letters from the public (usually for assistance in applying for DOB demolition permits); used primarily for mail merge purposes (for producing the letters)",
+  "behind_schedule" : "N/A",
+  "type" : "Quarterly",
+  "dataset" : "Landmarks Preservation Commission (LPC)",
+  "priority_classification" : "2014-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Complaint Log",
+  "update_frequency" : "Contains information related to violation complaints received by LPC",
+  "type" : "Quarterly",
+  "dataset" : "Landmarks Preservation Commission (LPC)",
+  "priority_classification" : "2014-07-01T00:00:00"
+}
+, {
+  "dataset_description" : "Applications Tracking Table",
+  "update_frequency" : "This table tracks grant applications received by LPC and their outcomes",
+  "type" : "Annually",
+  "dataset" : "Landmarks Preservation Commission (LPC)",
+  "priority_classification" : "2014-07-01T00:00:00"
+}
+, {
+  "dataset_description" : "Requests for Evaluation",
+  "update_frequency" : "Tabular dataset containing property information, request dates, determinations and determination dates, beginning in 2001",
+  "type" : "TBD",
+  "dataset" : "Landmarks Preservation Commission (LPC)",
+  "priority_classification" : "2016-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "Permit Application Information",
+  "update_frequency" : "Contains information pertaining to permit applications for work to landmark sites submitted to and processed by LPC",
+  "type" : "TBD",
+  "dataset" : "Landmarks Preservation Commission (LPC)",
+  "priority_classification" : "2016-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "Case information",
+  "update_frequency" : "Case-related information, such as parties to litigation",
+  "type" : "Semi-Annually",
+  "dataset" : "Law Department (LAW)",
+  "priority_classification" : "2015-09-01T00:00:00"
+}
+, {
+  "dataset_description" : "Tourism Grants",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Tourism-Grants/x4ud-jhxu"
+  },
+  "update_frequency" : "This list contains information on tourism grants",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Manhattan Borough President (MBP)",
+  "priority_classification" : "2013-10-15T00:00:00"
+}
+, {
+  "dataset_description" : "Topographical Bureau Maps",
+  "update_frequency" : "This list contains information on maps maintained by the topographical bureau",
+  "behind_schedule" : "N/A",
+  "type" : "Annually",
+  "dataset" : "Manhattan Borough President (MBP)",
+  "priority_classification" : "2013-10-15T00:00:00"
+}
+, {
+  "dataset_description" : "Constituent Services",
+  "available" : false,
+  "update_frequency" : "This list contains information on the number and nature of constituent services handled by the Borough President's Office.",
+  "behind_schedule" : "Yes",
+  "type" : "Daily",
+  "dataset" : "Manhattan Borough President (MBP)",
+  "priority_classification" : "2013-10-15T00:00:00"
+}
+, {
+  "dataset_description" : "Community Board Appointments",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Community-Board-Appointments/3gkd-ddzn"
+  },
+  "update_frequency" : "This list contains information on community board appointments.",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Manhattan Borough President (MBP)",
+  "priority_classification" : "2013-10-15T00:00:00"
+}
+, {
+  "dataset_description" : "Community Board Applications",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Community-Board-Applications/a2rn-4ju4"
+  },
+  "update_frequency" : "This list contains information on community board applications.",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Manhattan Borough President (MBP)",
+  "priority_classification" : "2013-10-15T00:00:00"
+}
+, {
+  "dataset_description" : "Capital Grants",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Capital-Grants/9umc-3b2y"
+  },
+  "update_frequency" : "This list contains information on capital grants",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Manhattan Borough President (MBP)",
+  "priority_classification" : "2013-10-15T00:00:00"
+}
+, {
+  "dataset_description" : "Manhattan Community Grants",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Manhattan-Community-Grants/rsnd-bbih"
+  },
+  "update_frequency" : "This list contains information on Manhattan Community Grants",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Manhattan Borough President (MBP)",
+  "priority_classification" : "2013-10-15T00:00:00"
+}
+, {
+  "dataset_description" : "Council Members",
+  "update_frequency" : "This list contains information on Council Members",
+  "type" : "Monthly",
+  "dataset" : "New York City Council (NYCC)",
+  "priority_classification" : "2015-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Legislative items",
+  "update_frequency" : "This list contains information on the legislative items introduced and enacted by the Council",
+  "type" : "Monthly",
+  "dataset" : "New York City Council (NYCC)",
+  "priority_classification" : "2015-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Committees and Council meetings",
+  "update_frequency" : "This list contains information on committee and full Council meetings",
+  "type" : "Monthly",
+  "dataset" : "New York City Council (NYCC)",
+  "priority_classification" : "2015-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Land use items",
+  "update_frequency" : "This list contains information related to land use items before the Council",
+  "type" : "Monthly",
+  "dataset" : "New York City Council (NYCC)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Stop, Question and Frisk Reports",
+  "update_frequency" : "Statistical breakdown by citywide, borough, and precinct",
+  "type" : "Annually",
+  "dataset" : "New York Police Department (NYPD)",
+  "priority_classification" : "2014-07-01T00:00:00"
+}
+, {
+  "dataset_description" : "Firearms Discharge Report ",
+  "update_frequency" : "Report detailing NYPD occurrence of firearm discharge",
+  "type" : "Annually",
+  "dataset" : "New York Police Department (NYPD)",
+  "priority_classification" : "2014-09-01T00:00:00"
+}
+, {
+  "dataset_description" : "Reasonable Suspicion Stops",
+  "update_frequency" : "Precinct based comparison by stop and suspect description. 87 page report with tables and charts ",
+  "type" : "Annually",
+  "dataset" : "New York Police Department (NYPD)",
+  "priority_classification" : "2014-11-01T00:00:00"
+}
+, {
+  "dataset_description" : "Murder in NYC",
+  "update_frequency" : "Written 11 page report",
+  "type" : "Annually",
+  "dataset" : "New York Police Department (NYPD)",
+  "priority_classification" : "2015-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Crime Enforcement Activity",
+  "update_frequency" : "Breakdown of enforcement by crime and select indicators (shootings, firearms, juveniles)",
+  "type" : "Annually",
+  "dataset" : "New York Police Department (NYPD)",
+  "priority_classification" : "2016-02-01T00:00:00"
+}
+, {
+  "dataset_description" : "Citywide Crime Statistics ",
+  "update_frequency" : "Statistical breakdown by citywide, borough, and precinct",
+  "type" : "Weekly",
+  "dataset" : "New York Police Department (NYPD)",
+  "priority_classification" : "2017-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Benefit Log ",
+  "update_frequency" : "Tracking of Educational Activities by the Community Relations Bureau, and income of the recipients",
+  "type" : "Monthly",
+  "dataset" : "NYC Commission on Human Rights (CCHR)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Inquiries",
+  "update_frequency" : "Tracking of Inquiries made to Agency Human Rights Specialist, and other staff",
+  "type" : "Monthly",
+  "dataset" : "NYC Commission on Human Rights (CCHR)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Office of Meditation and Conflict Resolution Listings",
+  "update_frequency" : "Office of Mediation and Conflict Resolution - Listing of cases processed by OMCR",
+  "type" : "Monthly",
+  "dataset" : "NYC Commission on Human Rights (CCHR)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Appeals",
+  "update_frequency" : "Law Enforcement Bureau - Listing of cases appealed",
+  "type" : "Monthly",
+  "dataset" : "NYC Commission on Human Rights (CCHR)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Historical Attorney",
+  "update_frequency" : "Law Enforcement Bureau - Attorney info for the complaints",
+  "type" : "Monthly",
+  "dataset" : "NYC Commission on Human Rights (CCHR)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Historical Amendments",
+  "update_frequency" : "Law Enforcement Bureau - Amendments for the complaints",
+  "type" : "Monthly",
+  "dataset" : "NYC Commission on Human Rights (CCHR)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Historical Necessary Parties ",
+  "update_frequency" : "Law Enforcement Bureau Case Tracking System - Additional respondents for the complaints",
+  "type" : "Monthly",
+  "dataset" : "NYC Commission on Human Rights (CCHR)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Historical Allegations",
+  "update_frequency" : "Law Enforcement Bureau Case - Allegations for the complaints",
+  "type" : "Monthly",
+  "dataset" : "NYC Commission on Human Rights (CCHR)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Historical Events",
+  "update_frequency" : "Law Enforcement Bureau Case -  Events for complaint ",
+  "type" : "Monthly",
+  "dataset" : "NYC Commission on Human Rights (CCHR)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Historical Complaints",
+  "update_frequency" : "Law Enforcement Bureau Case - Complaints record",
+  "type" : "Monthly",
+  "dataset" : "NYC Commission on Human Rights (CCHR)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Agency Expenditures",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/NYC-Independent-Budget-Office-IBO-Agency-Expenditu/cwjy-rrh3"
+  },
+  "update_frequency" : "Annual spending for personal services and OTPS within each agency",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "NYC Independent Budget Office (IBO)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Revenue and Spending Summary",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/NYC-Independent-Budget-Office-IBO-Revenue-And-Spen/7zhs-43jt"
+  },
+  "update_frequency" : "Annual revenue and spending data by major areas of the budget",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "NYC Independent Budget Office (IBO)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Actual Full-time Positions by Agency",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/NYC-Independent-Budget-Office-IBO-Full-Time-Positi/uaj7-9szf"
+  },
+  "update_frequency" : "Actual full-time positions as of June 30 of each year by agency",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "NYC Independent Budget Office (IBO)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Tax Revenues",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/NYC-Independent-Budget-Office-IBO-Tax-Revenue-FY-1/hdnu-nbrh"
+  },
+  "update_frequency" : "Annual tax revenue from major tax sources",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "NYC Independent Budget Office (IBO)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Non-tax Revenues",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/NYC-Independent-Budget-Office-IBO-Non-Tax-Revenues/ypbd-r4kg"
+  },
+  "update_frequency" : "Annual non-tax revenue from major revenue sources",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "NYC Independent Budget Office (IBO)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "State and Federal Categorical Aid",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/NYC-Independent-Budget-Office-IBO-State-And-Federa/fu34-wamz"
+  },
+  "update_frequency" : "Annual state and federal categorical aid by purpose of grant",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "NYC Independent Budget Office (IBO)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Capital Expenditures Since 1985",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/NYC-Independent-Budget-Office-IBO-Capital-Expendit/hukm-snmq"
+  },
+  "update_frequency" : "Annual capital expenditures, by capital budget area and agency",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "NYC Independent Budget Office (IBO)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "School Spending Since 1990",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/dataset/School-Spending-Since-1990/p26e-k6k9"
+  },
+  "update_frequency" : "Annual spending by and behalf of the Department of Education since 1990, adjusted for inflation",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "NYC Independent Budget Office (IBO)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Debt Service since 2000",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/NYC-Independent-Budget-Office-IBO-Debt-Service-Sin/6ggx-itps"
+  },
+  "update_frequency" : "Annual spending on debt service",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "NYC Independent Budget Office (IBO)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Debt Outstanding since 2000",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/NYC-Independent-Budget-Office-IBO-Debt-Outstanding/5i9t-mvdt"
+  },
+  "update_frequency" : "Amount of debt outstanding as of June 30 of each year",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "NYC Independent Budget Office (IBO)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Personal income by AGI range",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Personal-Income-By-AGI-Range/ipc3-2nbm"
+  },
+  "update_frequency" : "Number of tax filers/payers and total income by income ranges",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "NYC Independent Budget Office (IBO)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Income by type of income and AGI range",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Income-By-Type-Of-Income-And-AGI-Range/gffu-ps8j"
+  },
+  "update_frequency" : "Number of tax filers/payers and income from various types of income by income ranges",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "NYC Independent Budget Office (IBO)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Tax liability by AGI range",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/dataset/Tax-Liability-By-AGI-Range/3vvi-fwjs"
+  },
+  "update_frequency" : "Number of tax filers/payers and total city tax liability by income ranges",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "NYC Independent Budget Office (IBO)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Tax credits used by AGI ranges",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/dataset/Tax-Credits-By-Agi-Range/nwet-nc6h"
+  },
+  "update_frequency" : "Number of tax filers/payers using various tax credits and amount of credit, by income ranges",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "NYC Independent Budget Office (IBO)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Annual tax effort in NYC since 1960",
+  "available" : false,
+  "update_frequency" : "Annual tax effort (revenue per $100 of taxable resources) with back-up tables for major tax sources, taxable resources",
+  "behind_schedule" : "Yes",
+  "type" : "Annually",
+  "dataset" : "NYC Independent Budget Office (IBO)",
+  "priority_classification" : "2014-01-01T00:00:00"
+}
+, {
+  "dataset_description" : "Current RFP",
+  "update_frequency" : "List of active Requests For Proposals",
+  "type" : "Weekly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Art in DOE buildings",
+  "update_frequency" : "List of art, artist, medium and DOE building that the art is located in schools. ",
+  "type" : "Monthly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Anticipated RFP",
+  "update_frequency" : "List of upcoming Requests for Proposals",
+  "type" : "Weekly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "MWBE Vendors",
+  "update_frequency" : "List of MWBE certified vendors ",
+  "type" : "Monthly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2015-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Application for State Aid",
+  "update_frequency" : "List of project in construction that SCA is applying for aid - these dollars are estimated",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2015-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Update to submitted state aid projects.",
+  "update_frequency" : "List of projects in substantial completion with the final aid amount requested",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2015-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Capital project schedules and budgets",
+  "update_frequency" : "List of capital projects with managing organization, phase status and project costs",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2016-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "DOE building space usage",
+  "update_frequency" : "List of DOE buildings schools housed within the building and with listing of rooms by size, usage.",
+  "type" : "Monthly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Inspection Observations",
+  "update_frequency" : "List of observations and status for construction project inspections",
+  "type" : "Monthly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Inspections",
+  "update_frequency" : "List of Inspections requested for construction projects",
+  "type" : "Monthly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Funded Capacity Seats and Additional needs",
+  "update_frequency" : "Funded capacity seats and additional needs by district for elementary, middle school, by borough for high school ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "New Capacity Program By Borough",
+  "update_frequency" : "Number of seats and cost by borough and district ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Five Year Plan Summary by Capital Categories",
+  "update_frequency" : "Five year plan summary cost by capital categories",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Five Year Plan Summary by Citywide Category",
+  "update_frequency" : "Five year plan summary cost by capital category ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Accessibility Programs",
+  "update_frequency" : "Accessibility programs for schools ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Lighting Replacement Program",
+  "update_frequency" : "Lighting fixture replacement for schools ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Science Lab Programs",
+  "update_frequency" : "Science Lab programs for schools ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Ansul Systems",
+  "update_frequency" : "Ansul Systems for schools ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Freezer Replacement Program",
+  "update_frequency" : "Freezer Replacement for schools ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Classroom Connectivity Program ",
+  "update_frequency" : "Classroom Connectivity for schools ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Telephone/Intercom Systems",
+  "update_frequency" : "New/retrofit telephone/intercom systems for schools ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "IP Surveillance Systems",
+  "update_frequency" : "Internet Protocol Surveillance System for schools ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Capacity Projects  by schools",
+  "update_frequency" : "Capacity project detail by school ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Replacement Projects by school",
+  "update_frequency" : "Replacement project detail by school ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Capacity Project Site Location",
+  "update_frequency" : "New or replacement capacity sites  ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Advanced Projects",
+  "update_frequency" : "Projects Advanced ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Added Projects",
+  "update_frequency" : "Projects added to the plan ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Cancelled Projects ",
+  "update_frequency" : "Projects removed from the plan ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Five Year Plan Summary by Borough and Capital Categories",
+  "update_frequency" : "Five year plan summary cost by borough and  capital category ",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "School based programs by Borough",
+  "update_frequency" : "School based programs by borough with cost",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Capacity Projects by Borough",
+  "update_frequency" : "Capacity project detail by borough",
+  "type" : "Quarterly",
+  "dataset" : "NYC School Construction Authority (SCA)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Taxi & Limousine Case History",
+  "update_frequency" : "This dataset contains case tracking information on the status of each notice of violation received and processed by the Taxi and Limousine Tribunal",
+  "type" : "Daily",
+  "dataset" : "Office of Administrative Trials and Hearings (OATH)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Health Tribunal Case History",
+  "update_frequency" : "This dataset contains case tracking information on the status of each notice of violation received and processed by the Health Tribunal",
+  "type" : "Daily",
+  "dataset" : "Office of Administrative Trials and Hearings (OATH)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Today's Scheduled Hearings",
+  "update_frequency" : "This dataset contains a list of dockets scheduled to be heard on each calendar day and includes additional data not contained in Case History",
+  "type" : "Daily",
+  "dataset" : "Office of Administrative Trials and Hearings (OATH)",
+  "priority_classification" : "2018-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Evidence submissions received for DNA analysis",
+  "update_frequency" : "Number of cases received by the OCME for DNA analysis",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Cases Where Medical Examiner Takes Jurisdiction",
+  "update_frequency" : "Number of cases where OCME took jurisdiction",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Scene investigations",
+  "update_frequency" : "Cases where a Scene Investigation was conducted by the OCME",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "MLI Scene Arrivals in Median time (hours)",
+  "update_frequency" : "Time to arrive at the Scene",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Cremation Requests",
+  "update_frequency" : "Number of Cremation Requests received by the OCME",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Cremation Requests Processed in Median time (minutes)",
+  "update_frequency" : "Cremation request processing time",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Autopsies Performed",
+  "update_frequency" : "Number of Autopsies performed by the OCME",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "External Examinations",
+  "update_frequency" : "Number of External Exams (No-Autopsy) performed by the OCME",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Autopsy Reports Completed in Median time (median time in calendar days)",
+  "update_frequency" : "Time to finalize autopsy report",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Toxicology Cases Received",
+  "update_frequency" : "Number of Toxicology cases received by the OCME (Medical Examiner Cases)",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Toxicology Cases Completed (median time in calendar days)",
+  "update_frequency" : "Toxicology report completed (Medical Examiner Cases)",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Toxicology DUI Cases Received",
+  "update_frequency" : "Number of Toxicology cases received by the OCME from NYPD (Driving Under the Influence Cases)",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Toxicology DUI Cases Completed (median time in calendar days)",
+  "update_frequency" : "Toxicology report completed (Driving Under the Influence Cases)",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Toxicology Sexual Assault Cases Received",
+  "update_frequency" : "Number of Toxicology cases received by the OCME from NYPD (Sexual Assault Cases)",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Toxicology Sexual Assault Cases Completed (median time in calendar days)",
+  "update_frequency" : "Toxicology report completed (Sexual Assault Cases)",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Deaths Reported to Medical Examiner's Office",
+  "update_frequency" : "Number of Deaths reported to the OCME",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "DNA matches with profiles in CODIS",
+  "update_frequency" : "DNA matches with profiles in CODIS (FBI DNA Database)",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Average days to complete analysis of DNA cases",
+  "update_frequency" : "Average days to complete analysis of DNA cases",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "DNA Homicide Cases Completed, from Evidence Submission to Report in median time",
+  "update_frequency" : "DNA Homicide Cases Completed, from Evidence Submission to Report in median time",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "DNA Sexual Assault Cases Completed, from Evidence Submission to Report in median time",
+  "update_frequency" : "DNA Sexual Assault Cases Completed, from Evidence Submission to Report in median time",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "DNA Property Crime Cases Completed, from Evidence Submission to Report in median time",
+  "update_frequency" : "DNA Property Crime Cases Completed, from Evidence Submission to Report in median time",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Number of decedent's remains transported and stored by OCME",
+  "update_frequency" : "Number of decedent's remains transported and stored by OCME",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Decedents removed from scene (non-hospital) after investigation in median time (minutes)",
+  "update_frequency" : "Decedents removed from scene (non-hospital) after investigation in median time (minutes)",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of Chief Medical Examiner (OCME)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Emergency response incidents",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/dataset/Emergency-Response-Incidents/pasr-j7fb"
+  },
+  "update_frequency" : "Type and address of emergency incident to which OEM responded",
+  "behind_schedule" : "No",
+  "type" : "Quarterly",
+  "dataset" : "Office of Emergency Management (OEM)",
+  "priority_classification" : "2013-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "ReadyNY events",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Public-Safety/Ready-NY-Events/hyur-qpyf"
+  },
+  "update_frequency" : "Events held to increase public preparedness",
+  "behind_schedule" : "No",
+  "type" : "Quarterly",
+  "dataset" : "Office of Emergency Management (OEM)",
+  "priority_classification" : "2013-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Partners in Preparedness",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Social-Services/OEM-Partners-in-Preparedness/h4jn-x3ty"
+  },
+  "update_frequency" : "Organizations that have completed specified emergency preparedness tasks",
+  "behind_schedule" : "No",
+  "type" : "Quarterly",
+  "dataset" : "Office of Emergency Management (OEM)",
+  "priority_classification" : "2013-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Incident based distribution of RNY guides",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Public-Safety/Incident-based-distribution-of-ReadyNY-guides/mqd6-mvf7"
+  },
+  "update_frequency" : "Areas targeted for ReadyNY guide distribution following a nearby incident, such as a large fire or water main break",
+  "behind_schedule" : "No",
+  "type" : "Quarterly",
+  "dataset" : "Office of Emergency Management (OEM)",
+  "priority_classification" : "2013-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Emergency notifications",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Public-Safety/Emergency-Notifications/5gke-dir7"
+  },
+  "update_frequency" : "Messages sent with information about emergency events and important City services",
+  "behind_schedule" : "No",
+  "type" : "Quarterly",
+  "dataset" : "Office of Emergency Management (OEM)",
+  "priority_classification" : "2013-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "NYC Budget Expense All Funds",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/NYC-Budget-Expense-All-Funds/fseq-viud"
+  },
+  "update_frequency" : "Data set contains expense budgets by agency for actual fiscal years and five financial plan fiscal years in All funds.",
+  "behind_schedule" : "No",
+  "type" : "Quarterly",
+  "dataset" : "Office of Management and Budget (OMB)",
+  "priority_classification" : "2013-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "NYC Budget Expense City Funds",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/NYC-Budget-Expense-City-Funds/vum2-yjuc"
+  },
+  "update_frequency" : "Data set contains expense budgets by agency for actual fiscal years and five financial plan fiscal years in City funds.",
+  "behind_schedule" : "No",
+  "type" : "Quarterly",
+  "dataset" : "Office of Management and Budget (OMB)",
+  "priority_classification" : "2013-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "NYC Budget Revenue",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/NYC-Budget-Revenue/2und-rhm4"
+  },
+  "update_frequency" : "Data set contains revenue for actual fiscal years and five financial plan fiscal years. Revenue includes Taxes, Miscellaneous Revenues, Unrestricted Intergovernmental Aid, Disallowance of Categorical Grants, Federal Grants, State Grants, Other Categorical Grants, and Capital IFA.",
+  "behind_schedule" : "No",
+  "type" : "Quarterly",
+  "dataset" : "Office of Management and Budget (OMB)",
+  "priority_classification" : "2013-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "NYC Budget Revenue Additional",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/NYC-Budget-Revenue-Additional/nmvf-yk7h"
+  },
+  "update_frequency" : "Data set contains revenue for actual fiscal years and five financial plan fiscal years. Revenue includes Taxes, Miscellaneous Revenues, Unrestricted Intergovernmental Aid, Disallowance of Categorical Grants, Federal Grants, State Grants, Other Categorical Grants, and Capital IFA. Additional revenue subcategories provided for Miscellaneous Revenues, Federal Grants, and State Grants.",
+  "behind_schedule" : "No",
+  "type" : "Quarterly",
+  "dataset" : "Office of Management and Budget (OMB)",
+  "priority_classification" : "2013-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "NYC Capital All Funds",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/NYC-Capital-All-Funds/afp8-vmvy"
+  },
+  "update_frequency" : "Data set contains capital commitments for actual fiscal years and five financial plan fiscal years in All funds.",
+  "behind_schedule" : "No",
+  "type" : "Quarterly",
+  "dataset" : "Office of Management and Budget (OMB)",
+  "priority_classification" : "2013-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "NYC Capital City Funds",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/NYC-Capital-City-Funds/bej7-zmzt"
+  },
+  "update_frequency" : "Data set contains capital commitments for actual fiscal years and five financial plan fiscal years in City funds.",
+  "behind_schedule" : "No",
+  "type" : "Quarterly",
+  "dataset" : "Office of Management and Budget (OMB)",
+  "priority_classification" : "2013-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Checkbook 2.0",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Checkbook-NYC-2-0/mxwn-eh3b"
+  },
+  "update_frequency" : "Financial Transparency System - Includes information on Budget, Revenue, Spending, Contracts and Payroll",
+  "behind_schedule" : "No",
+  "type" : "Daily",
+  "dataset" : "Office of the Comptroller (COMPTROLLER)",
+  "priority_classification" : "2013-11-30T00:00:00"
+}
+, {
+  "dataset_description" : "Annual Report (Audit)",
+  "update_frequency" : "Annual report on the operations of the Audit Bureau of the New York City Comptroller's Office",
+  "behind_schedule" : "N/A",
+  "type" : "Annually",
+  "dataset" : "Office of the Comptroller (COMPTROLLER)",
+  "priority_classification" : "2013-11-30T00:00:00"
+}
+, {
+  "dataset_description" : "Cash Flow",
+  "update_frequency" : "Cash letters, cash flow analysis - Projects and documents daily cash balances in the City general fund",
+  "behind_schedule" : "N/A",
+  "type" : "Daily",
+  "dataset" : "Office of the Comptroller (COMPTROLLER)",
+  "priority_classification" : "2013-11-30T00:00:00"
+}
+, {
+  "dataset_description" : "Labor Law Prevailing Wage (LLPW)",
+  "update_frequency" : "Constructs and amends prevailing wage schedules",
+  "behind_schedule" : "N/A",
+  "type" : "Annually",
+  "dataset" : "Office of the Comptroller (COMPTROLLER)",
+  "priority_classification" : "2013-11-30T00:00:00"
+}
+, {
+  "dataset_description" : "Annual Claims Report",
+  "update_frequency" : "Aggregate report of Claims information",
+  "behind_schedule" : "N/A",
+  "type" : "Annually",
+  "dataset" : "Office of the Comptroller (COMPTROLLER)",
+  "priority_classification" : "2013-11-30T00:00:00"
+}
+, {
+  "dataset_description" : "People's Budget",
+  "update_frequency" : "Online voting platform and idea generation",
+  "behind_schedule" : "N/A",
+  "type" : " TBD",
+  "dataset" : "Office of the Comptroller (COMPTROLLER)",
+  "priority_classification" : "2013-11-30T00:00:00"
+}
+, {
+  "dataset_description" : "Minority & Women-Owned Business Enterprise (MWBE)",
+  "update_frequency" : "Transparency data which provides information on MWBE vendor statistics",
+  "behind_schedule" : "N/A",
+  "type" : "Daily",
+  "dataset" : "Office of the Comptroller (COMPTROLLER)",
+  "priority_classification" : "2013-11-30T00:00:00"
+}
+, {
+  "dataset_description" : "Audit Reports",
+  "update_frequency" : "Audits of the operations and programs of City agencies and private entities doing business with the City",
+  "behind_schedule" : "N/A",
+  "type" : "Monthly",
+  "dataset" : "Office of the Comptroller (COMPTROLLER)",
+  "priority_classification" : "2013-11-30T00:00:00"
+}
+, {
+  "dataset_description" : "Trust for Governors Island Approved Event Applications",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Recreation/NYC-Street-Activities-Calendar/xenu-5qjw"
+  },
+  "update_frequency" : "This list contains information on approved event applications.",
+  "behind_schedule" : "No",
+  "type" : "Daily",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "Brooklyn Bridge Park Approved Event Applications",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Recreation/NYC-Street-Activities-Calendar/xenu-5qjw"
+  },
+  "update_frequency" : "This list contains information on approved event applications",
+  "behind_schedule" : "No",
+  "type" : "Daily",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "DPR Approved Event Applications",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Recreation/NYC-Street-Activities-Calendar/xenu-5qjw"
+  },
+  "update_frequency" : "This list contains information on approved event applications",
+  "behind_schedule" : "No",
+  "type" : "Daily",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2013-10-01T00:00:00"
+}
+, {
+  "dataset_description" : "NYC Service Initiatives by Impact area",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Social-Services/NYC-Service-Volunteer-Opportunities/bquu-z2ht"
+  },
+  "update_frequency" : "A listing of NYC Service Initiatives by Impact area",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2013-11-15T00:00:00"
+}
+, {
+  "dataset_description" : "OSE Inspections",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/OSE-Inspections/pkwi-pymk"
+  },
+  "update_frequency" : "This list contains information on the complaints to and inspections of locations inspected by Office of Special Enforcement.",
+  "behind_schedule" : "No",
+  "type" : "Daily",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2013-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Scorecard Ratings",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/Scorecard-Ratings/rqhp-hivt"
+  },
+  "update_frequency" : "Street and sidewalk cleanliness ratings.",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2013-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "CORE Ratings",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/CORE-Ratings/wazg-3r49"
+  },
+  "update_frequency" : "Program reports on the quality of customer service and the physical conditions of the City's walk-in centers. ",
+  "behind_schedule" : "No",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2013-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "SCOUT Conditions",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/City-Government/SCOUT-Conditions/kjxa-7ccf"
+  },
+  "update_frequency" : "Quality of life conditions reported by city inspectors.",
+  "behind_schedule" : "No",
+  "type" : "Monthly",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2013-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Citywide Performance Reporting",
+  "update_frequency" : "Performance indicators for all city agencies",
+  "type" : "Monthly",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "Judicial Appointments and Reappointments",
+  "update_frequency" : "This list contains names and biographical information for judicial appointments and reappointments to date",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-06-30T00:00:00"
+}
+, {
+  "dataset_description" : "LL63 Plan",
+  "update_frequency" : "Listing of planned procurements relevant to Local Law 63 of 2011",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-07-01T00:00:00"
+}
+, {
+  "dataset_description" : "Construction Pipeline",
+  "update_frequency" : "Listing of upcoming construction opportunities",
+  "type" : "Quarterly",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-07-01T00:00:00"
+}
+, {
+  "dataset_description" : "LL1 Plan",
+  "update_frequency" : "Listing of planned procurements relevant to Local Law 1 of 2013",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-07-01T00:00:00"
+}
+, {
+  "dataset_description" : "Human Services Annual Plan",
+  "update_frequency" : "Listing of planned actions to continue provision of human/client services",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-07-01T00:00:00"
+}
+, {
+  "dataset_description" : "Resiliency data",
+  "update_frequency" : " Resiliency metrics that monitor the success of agencies in meeting their resiliency objectives.  ",
+  "type" : "Monthly",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Benchmarking Data LL84",
+  "update_frequency" : "Energy and water benchmarking results for non-residential properties covered under the benchmarking ordinance (Local Law 84). The list was updated on September 24th to account for discrepancies in building identification.",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : " NYC Clean Heat dataset",
+  "update_frequency" : " NYC Clean Heat dataset",
+  "type" : "Monthly ",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "City GHG Reduction projects",
+  "update_frequency" : " The City’s Long-Term Sustainability Plan, PlaNYC, calls for City government to reduce greenhouse gas emissions produced by municipal operations 30% by 2017. A large part of this effort is retrofitting municipal buildings to become more energy efficient. This dataset lists energy efficiency projects at City buildings that are complete or in progress. Projects are listed by address, building name, and agency, and the dataset includes the estimated reduction in tons of GHG emissions associated with the project.",
+  "type" : "Quarterly",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Sustainability Indicators",
+  "update_frequency" : " The sustainability indicators are used by the Mayor's Office of Long-Term Planning and Sustainability to track the progress of the PlaNYC program.",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-08-01T00:00:00"
+}
+, {
+  "dataset_description" : "Procurements by Industry",
+  "update_frequency" : "Summary table of procurements in the fiscal year grouped by agency and industry",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-09-17T00:00:00"
+}
+, {
+  "dataset_description" : "Procurements by Size",
+  "update_frequency" : "Summary table of procurements in the fiscal year grouped by agency and size",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-09-17T00:00:00"
+}
+, {
+  "dataset_description" : "Procurements by Method",
+  "update_frequency" : "Summary table of procurements in the fiscal year grouped by agency and method of award",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-09-17T00:00:00"
+}
+, {
+  "dataset_description" : "Competitiveness",
+  "update_frequency" : "Summary table of agency procurements categorized by level of competition",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-09-17T00:00:00"
+}
+, {
+  "dataset_description" : "Environmentally Preferable Procurements",
+  "update_frequency" : "Summary of environmentally preferable procurements",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-09-17T00:00:00"
+}
+, {
+  "dataset_description" : "Franchise and Concession Review Committee",
+  "update_frequency" : "Summary table of franchises and concessions",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-09-17T00:00:00"
+}
+, {
+  "dataset_description" : "MWBE Utilization by Agency",
+  "update_frequency" : "Minority and women owned business utilization by agency",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-09-17T00:00:00"
+}
+, {
+  "dataset_description" : "Vendor Disputes",
+  "update_frequency" : "Summary of vendor disputes",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-09-17T00:00:00"
+}
+, {
+  "dataset_description" : "NYS Food Purchasing",
+  "update_frequency" : "Summary of NYS food purchasing survey",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-09-17T00:00:00"
+}
+, {
+  "dataset_description" : "Apprenticeship Primes",
+  "update_frequency" : "Summary of prime contracts subject to apprenticeship requirements",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-09-17T00:00:00"
+}
+, {
+  "dataset_description" : "MWBE Modifications",
+  "update_frequency" : "Summary of MWBE goals modifications required by LL1",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-09-17T00:00:00"
+}
+, {
+  "dataset_description" : "MWBE Utilization By Industry",
+  "update_frequency" : "Minority and women owned business utilization by industry",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-09-17T00:00:00"
+}
+, {
+  "dataset_description" : "MWBE Participation Goals",
+  "update_frequency" : "Contracts subject to local law 1 (MWBE)",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-09-17T00:00:00"
+}
+, {
+  "dataset_description" : "MWBE Large Scale Procurements",
+  "update_frequency" : "Summary of large scale procurement reviews required by LL1",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-09-17T00:00:00"
+}
+, {
+  "dataset_description" : "MWBE Waivers",
+  "update_frequency" : "Summary of waivers of MWBE goals required by LL1",
+  "type" : "Annually",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-09-17T00:00:00"
+}
+, {
+  "dataset_description" : "NBAT Jobs created stats",
+  "update_frequency" : "This list tracks the number of jobs New Business Acceleration Team helped create by assisting clients/businesses in opening",
+  "type" : "Monthly",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "NBAT Time to Open",
+  "update_frequency" : "This list contains information on the time it takes a client to open its doors once engaging New Business Acceleration Team",
+  "type" : "Quarterly",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "NBAT Client List",
+  "update_frequency" : "This list contains information on businesses assisted in opening by New Business Acceleration Team in New York City.",
+  "type" : "Weekly",
+  "dataset" : "Office of the Mayor (OTM)",
+  "priority_classification" : "2014-12-31T00:00:00"
+}
+, {
+  "dataset_description" : "Total House Number File",
+  "update_frequency" : "This file contains aggregate information of total new house numbers assigned in Staten Island",
+  "type" : "Annually",
+  "dataset" : "Staten Island Borough President (BPSI)",
+  "priority_classification" : "2018-08-30T00:00:00"
+}
+, {
+  "dataset_description" : "Category Master File",
+  "update_frequency" : "This reference table contains category id and descriptions",
+  "type" : "Annually",
+  "dataset" : "Staten Island Borough President (BPSI)",
+  "priority_classification" : "2018-08-30T00:00:00"
+}
+, {
+  "dataset_description" : "Helpline Cases by Category",
+  "update_frequency" : "This file contains aggregate information of Helpline Cases by Category",
+  "type" : "Annually",
+  "dataset" : "Staten Island Borough President (BPSI)",
+  "priority_classification" : "2018-08-30T00:00:00"
+}
+, {
+  "dataset_description" : "SHL Drivers - Trained",
+  "available" : false,
+  "update_frequency" : "This list contains information on the status of current SHL drivers who had completed Passenger Assistance Training.",
+  "behind_schedule" : "Yes",
+  "type" : "Daily",
+  "dataset" : "Taxi and Limousine Commission (TLC)",
+  "priority_classification" : "2014-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "SHL Vehicles – Authorized",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Transportation/SHL-Vehicles-Authorized/btfj-je3i"
+  },
+  "update_frequency" : "This list contains information on the status of current SHL vehicles authorized to operate in New York City.",
+  "behind_schedule" : "No",
+  "type" : "Daily",
+  "dataset" : "Taxi and Limousine Commission (TLC)",
+  "priority_classification" : "2014-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "SHL Vehicles - Inactive",
+  "available" : false,
+  "update_frequency" : "This list contains information on SHL vehicles that are currently inactive.",
+  "behind_schedule" : "Yes",
+  "type" : "Daily",
+  "dataset" : "Taxi and Limousine Commission (TLC)",
+  "priority_classification" : "2014-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "SHL Vehicles – Endorsed Bases",
+  "available" : true,
+  "link" : {
+    "url" : "https://data.cityofnewyork.us/Transportation/SHL-Vehicle-Endorsed-bases/rvyk-uci3"
+  },
+  "update_frequency" : "This list contains information on SHL endorsed bases",
+  "behind_schedule" : "No",
+  "type" : "Weekly",
+  "dataset" : "Taxi and Limousine Commission (TLC)",
+  "priority_classification" : "2014-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "SHL Vehicles – Make and Model",
+  "update_frequency" : "This list contains information on authorized make and model for use as TLC SHL vehicles",
+  "type" : "Weekly",
+  "dataset" : "Taxi and Limousine Commission (TLC)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "SHL Vehicles – Permits",
+  "update_frequency" : "This list contains information on current SHL permits ",
+  "type" : "Daily",
+  "dataset" : "Taxi and Limousine Commission (TLC)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "SHL Vehicles – Brokers",
+  "update_frequency" : "This list contains information on taxicab brokers",
+  "type" : "Weekly",
+  "dataset" : "Taxi and Limousine Commission (TLC)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "SHL Vehicles – Meter-shops",
+  "update_frequency" : "This list contains information on authorized SHL meter-shops",
+  "type" : "Weekly",
+  "dataset" : "Taxi and Limousine Commission (TLC)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "SHL Vehicles – Agents",
+  "update_frequency" : "This list contains information on authorized SHL agents",
+  "type" : "Weekly",
+  "dataset" : "Taxi and Limousine Commission (TLC)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "SHL – LPEP Provider",
+  "update_frequency" : "This list contains information on LPEP providers that are authorized for NYC TLC licensed SHL vehicles",
+  "type" : "Monthly",
+  "dataset" : "Taxi and Limousine Commission (TLC)",
+  "priority_classification" : "2015-03-01T00:00:00"
+}
+, {
+  "dataset_description" : "Black Car – Authorized Vehicles",
+  "update_frequency" : "This list contains information on black car vehicles",
+  "type" : "Daily",
+  "dataset" : "Taxi and Limousine Commission (TLC)",
+  "priority_classification" : "2016-03-01T00:00:00"
+}
+ ]

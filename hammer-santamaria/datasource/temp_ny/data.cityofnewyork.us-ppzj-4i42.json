@@ -1,0 +1,43 @@
+[ {
+  "total_cb_surveyed" : "3524",
+  "complaint_based_cb_cleaned" : "1403",
+  "total_cb_cleaned" : "3451",
+  "borough" : "Bronx",
+  "scheduled_cb_cleaned" : "2048"
+}
+, {
+  "total_cb_surveyed" : "11170",
+  "complaint_based_cb_cleaned" : "3792",
+  "total_cb_cleaned" : "9546",
+  "borough" : "Brooklyn",
+  "scheduled_cb_cleaned" : "5754"
+}
+, {
+  "total_cb_surveyed" : "3254",
+  "complaint_based_cb_cleaned" : "948",
+  "total_cb_cleaned" : "2675",
+  "borough" : "Manhattan",
+  "scheduled_cb_cleaned" : "1727"
+}
+, {
+  "total_cb_surveyed" : "13794",
+  "complaint_based_cb_cleaned" : "5576",
+  "total_cb_cleaned" : "13562",
+  "borough" : "Queens",
+  "scheduled_cb_cleaned" : "7986"
+}
+, {
+  "total_cb_surveyed" : "4394",
+  "complaint_based_cb_cleaned" : "979",
+  "total_cb_cleaned" : "2625",
+  "borough" : "Staten Island",
+  "scheduled_cb_cleaned" : "1646"
+}
+, {
+  "total_cb_surveyed" : "36136",
+  "complaint_based_cb_cleaned" : "12698",
+  "total_cb_cleaned" : "31859",
+  "borough" : "Total",
+  "scheduled_cb_cleaned" : "19161"
+}
+ ]

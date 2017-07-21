@@ -1,0 +1,937 @@
+[ {
+  "reference_code_section_number" : "2609.3, 2703.2.2.1, 3003.2.3, 3403.5.2",
+  "standard_name" : "American National Standards Institute",
+  "standard_code" : "ANSI",
+  "standard_agency_address" : "25 West 43rd Street, Fourth Floor\nNew York, NY 10036",
+  "standard_title" : "Scheme for the Identification of Piping Systems",
+  "standard_reference_number" : "A13.1—96"
+}
+, {
+  "reference_code_section_number" : "2703.2.2.2",
+  "standard_name" : "American National Standards Institute",
+  "standard_code" : "ANSI",
+  "standard_agency_address" : "26 West 43rd Street, Fourth Floor\nNew York, NY 10036",
+  "standard_title" : "Process Piping, including addendum",
+  "standard_reference_number" : "B31.3—99"
+}
+, {
+  "reference_code_section_number" : "3403.6.2.1, 3403.6.3, 3403.6.11",
+  "standard_name" : "American National Standards Institute",
+  "standard_code" : "ANSI",
+  "standard_agency_address" : "27 West 43rd Street, Fourth Floor\nNew York, NY 10036",
+  "standard_title" : "Building Services Piping Code for Pressure Piping",
+  "standard_reference_number" : "B31.9—96"
+}
+, {
+  "reference_code_section_number" : "3406.8.3",
+  "standard_name" : "American Petroleum Institute",
+  "standard_code" : "API",
+  "standard_agency_address" : "1220 L Street, Northwest\nWashington, DC 20005",
+  "standard_title" : "Welded Steel Tanks for Oil Storage",
+  "standard_reference_number" : "650—1998"
+}
+, {
+  "reference_code_section_number" : "3404.2.13",
+  "standard_name" : "American Petroleum Institute",
+  "standard_code" : "API",
+  "standard_agency_address" : "1221 L Street, Northwest\nWashington, DC 20005",
+  "standard_title" : "Closure of Underground Petroleum Storage Tanks",
+  "standard_reference_number" : "RP 1604—1996"
+}
+, {
+  "reference_code_section_number" : "3404.2.7.3.6",
+  "standard_name" : "American Petroleum Institute",
+  "standard_code" : "API",
+  "standard_agency_address" : "1222 L Street, Northwest\nWashington, DC 20005",
+  "standard_title" : "Venting Atmosphere and Low Pressure Storage Tanks: Nonrefrigerated and Refrigerated",
+  "standard_reference_number" : "Std 2000—1998"
+}
+, {
+  "reference_code_section_number" : "3404.2.7.3.2",
+  "standard_name" : "American Petroleum Institute",
+  "standard_code" : "API",
+  "standard_agency_address" : "1223 L Street, Northwest\nWashington, DC 20005",
+  "standard_title" : "Flame Arrestors in Piping Systems",
+  "standard_reference_number" : "Publ 2028—1991"
+}
+, {
+  "reference_code_section_number" : "3406.4.6",
+  "standard_name" : "American Petroleum Institute",
+  "standard_code" : "API",
+  "standard_agency_address" : "1224 L Street, Northwest\nWashington, DC 20005",
+  "standard_title" : "Overfill Protection for Storage Tanks in Petroleum Facilities",
+  "standard_reference_number" : "RP 2350—1996"
+}
+, {
+  "reference_code_section_number" : "607.1",
+  "standard_name" : "The American Society of Mechanical Engineers",
+  "standard_code" : "ASME",
+  "standard_agency_address" : "Three Park Avenue\nNew York, NY 10016-5990",
+  "standard_title" : "Safety Code for Elevators and Escalators",
+  "standard_reference_number" : "A17.1—2000"
+}
+, {
+  "reference_code_section_number" : "607.1",
+  "standard_name" : "The American Society of Mechanical Engineers",
+  "standard_code" : "ASME",
+  "standard_agency_address" : "Three Park Avenue\nNew York, NY 10016-5991",
+  "standard_title" : "Safety Code for Existing Elevators and Escalators with A17.3a-2000 Addenda",
+  "standard_reference_number" : "A17.3—1996"
+}
+, {
+  "reference_code_section_number" : "3003.1, 3003.9, 3203.1, 3203.4.3, 3203.8, 3406.8.1, 3406.8.3",
+  "standard_name" : "The American Society of Mechanical Engineers",
+  "standard_code" : "ASME",
+  "standard_agency_address" : "Three Park Avenue\nNew York, NY 10016-5992",
+  "standard_title" : "ASME Boiler and Pressure Vessel Code, 2001 Edition of",
+  "standard_reference_number" : "BPVC-2001"
+}
+, {
+  "reference_code_section_number" : "3402.1",
+  "standard_name" : "ASTM International",
+  "standard_code" : "ASTM",
+  "standard_agency_address" : "100 Barr Harbor Drive\nWest Conshohocken, PA 19428-2959",
+  "standard_title" : "Test Method for Flash Point by Tag Closed Tester",
+  "standard_reference_number" : "D 56—01"
+}
+, {
+  "reference_code_section_number" : "2702.1",
+  "standard_name" : "ASTM International",
+  "standard_code" : "ASTM",
+  "standard_agency_address" : "101 Barr Harbor Drive\nWest Conshohocken, PA 19428-2959",
+  "standard_title" : "Test Method for Distillation of Petroleum Products at Atmospheric Pressure",
+  "standard_reference_number" : "D 86—01e01"
+}
+, {
+  "reference_code_section_number" : "3401.1, 3402.1",
+  "standard_name" : "ASTM International",
+  "standard_code" : "ASTM",
+  "standard_agency_address" : "102 Barr Harbor Drive\nWest Conshohocken, PA 19428-2959",
+  "standard_title" : "Test Method for Flash and Fire Points by Cleveland Open Cup",
+  "standard_reference_number" : "D 92—01"
+}
+, {
+  "reference_code_section_number" : "3402.1",
+  "standard_name" : "ASTM International",
+  "standard_code" : "ASTM",
+  "standard_agency_address" : "103 Barr Harbor Drive\nWest Conshohocken, PA 19428-2959",
+  "standard_title" : "Test Method for Flash Point by Pensky-Martens Closed Up Tester",
+  "standard_reference_number" : "D 93—00"
+}
+, {
+  "reference_code_section_number" : "2702.1",
+  "standard_name" : "ASTM International",
+  "standard_code" : "ASTM",
+  "standard_agency_address" : "104 Barr Harbor Drive\nWest Conshohocken, PA 19428-2959",
+  "standard_title" : "Test Method for Vapor Pressure of Petroleum Products (Reid Method)",
+  "standard_reference_number" : "D 323—99a"
+}
+, {
+  "reference_code_section_number" : "3402.1",
+  "standard_name" : "ASTM International",
+  "standard_code" : "ASTM",
+  "standard_agency_address" : "105 Barr Harbor Drive\nWest Conshohocken, PA 19428-2959",
+  "standard_title" : "Test Methods for Flash Point of Liquids by Small Scale Closed-Cup Apparatus",
+  "standard_reference_number" : "D 3278—96e01"
+}
+, {
+  "reference_code_section_number" : "3502.1",
+  "standard_name" : "ASTM International",
+  "standard_code" : "ASTM",
+  "standard_agency_address" : "106 Barr Harbor Drive\nWest Conshohocken, PA 19428-2959",
+  "standard_title" : "Test Method for Concentration Limits of Flammability of Chemicals (Vapors and Gases)",
+  "standard_reference_number" : "E 681—01"
+}
+, {
+  "reference_code_section_number" : "3404.2.9.1.3",
+  "standard_name" : "ASTM International",
+  "standard_code" : "ASTM",
+  "standard_agency_address" : "107 Barr Harbor Drive\nWest Conshohocken, PA 19428-2959",
+  "standard_title" : "Test Method for Determining Effects of Large Hydrocarbon Pool Fires on Structural Members and Assemblies",
+  "standard_reference_number" : "E 1529—00"
+}
+, {
+  "reference_code_section_number" : "803.5.2",
+  "standard_name" : "ASTM International",
+  "standard_code" : "ASTM",
+  "standard_agency_address" : "108 Barr Harbor Drive\nWest Conshohocken, PA 19428-2959",
+  "standard_title" : "Test Method for Fire Testing of Upholstered Furniture",
+  "standard_reference_number" : "E 1537—01"
+}
+, {
+  "reference_code_section_number" : "803.5.3, 803.6.3, 803.7.4",
+  "standard_name" : "ASTM International",
+  "standard_code" : "ASTM",
+  "standard_agency_address" : "109 Barr Harbor Drive\nWest Conshohocken, PA 19428-2959",
+  "standard_title" : "Test Method for Fire Testing of Mattresses",
+  "standard_reference_number" : "E 1590—01"
+}
+, {
+  "reference_code_section_number" : "3003.2.2, 3203.4.2",
+  "standard_name" : "Compressed Gas Association",
+  "standard_code" : "CGA",
+  "standard_agency_address" : "1725 Jefferson Davis Highway\n5th Floor\nArlington, VA 22202-4102",
+  "standard_title" : "Guide to the Preparation of Precautionary Labeling and Marking of Compressed Gas Containers",
+  "standard_reference_number" : "C-7—(2000)"
+}
+, {
+  "reference_code_section_number" : "4001.1.4",
+  "standard_name" : "Compressed Gas Association",
+  "standard_code" : "CGA",
+  "standard_agency_address" : "1726 Jefferson Davis Highway\n5th Floor\nArlington, VA 22202-4102",
+  "standard_title" : "Nitrous Oxide Systems at Consumer Sites",
+  "standard_reference_number" : "G-8.1—(1990)"
+}
+, {
+  "reference_code_section_number" : "3005.7",
+  "standard_name" : "Compressed Gas Association",
+  "standard_code" : "CGA",
+  "standard_agency_address" : "1727 Jefferson Davis Highway\n5th Floor\nArlington, VA 22202-4102",
+  "standard_title" : "Safe Handling of Compressed Gases in Containers",
+  "standard_reference_number" : "P-1—(2000)"
+}
+, {
+  "reference_code_section_number" : "3201.1.3",
+  "standard_name" : "Compressed Gas Association",
+  "standard_code" : "CGA",
+  "standard_agency_address" : "1728 Jefferson Davis Highway\n5th Floor\nArlington, VA 22202-4102",
+  "standard_title" : "Standard for Bulk Inert Gas Systems at Consumer Sites",
+  "standard_reference_number" : "P-18—(1992)"
+}
+, {
+  "reference_code_section_number" : "3203.2",
+  "standard_name" : "Compressed Gas Association",
+  "standard_code" : "CGA",
+  "standard_agency_address" : "1729 Jefferson Davis Highway\n5th Floor\nArlington, VA 22202-4102",
+  "standard_title" : "Pressure Relief Device Standards—Part 1—Cylinders for Compressed Gases",
+  "standard_reference_number" : "S-1.1—(1994)"
+}
+, {
+  "reference_code_section_number" : "3203.2",
+  "standard_name" : "Compressed Gas Association",
+  "standard_code" : "CGA",
+  "standard_agency_address" : "1730 Jefferson Davis Highway\n5th Floor\nArlington, VA 22202-4102",
+  "standard_title" : "Pressure Relief Device Standards—Part 2—Cargo and Portable Tanks for Compressed Gases",
+  "standard_reference_number" : "S-1.2—(1995)"
+}
+, {
+  "reference_code_section_number" : "3203.2",
+  "standard_name" : "Compressed Gas Association",
+  "standard_code" : "CGA",
+  "standard_agency_address" : "1731 Jefferson Davis Highway\n5th Floor\nArlington, VA 22202-4102",
+  "standard_title" : "Pressure Relief Device Standards—Part 3—Stationary Storage Containers for Compressed Gases",
+  "standard_reference_number" : "S-1.3—(1995)"
+}
+, {
+  "reference_code_section_number" : "4106.1.3",
+  "standard_name" : "Compressed Gas Association",
+  "standard_code" : "CGA",
+  "standard_agency_address" : "1732 Jefferson Davis Highway\n5th Floor\nArlington, VA 22202-4102",
+  "standard_title" : "Compressed Gas Association Standard Compressed Gas Cylinder Valve Outlet and Inlet Connections",
+  "standard_reference_number" : "V-1—(2001)"
+}
+, {
+  "reference_code_section_number" : "202",
+  "standard_name" : "Consumer Product Safety Commission",
+  "standard_code" : "CPSC",
+  "standard_agency_address" : "4330 East West Highway\nBethesda, MD 20814",
+  "standard_title" : "Method for Testing Primary Irritant Substances",
+  "standard_reference_number" : "16 CFR Section 1500.41"
+}
+, {
+  "reference_code_section_number" : "202",
+  "standard_name" : "Consumer Product Safety Commission",
+  "standard_code" : "CPSC",
+  "standard_agency_address" : "4331 East West Highway\nBethesda, MD 20814",
+  "standard_title" : "Test for Eye Irritants",
+  "standard_reference_number" : "16 CFR Section 1500.42"
+}
+, {
+  "reference_code_section_number" : "3602.1",
+  "standard_name" : "Consumer Product Safety Commission",
+  "standard_code" : "CPSC",
+  "standard_agency_address" : "4332 East West Highway\nBethesda, MD 20814",
+  "standard_title" : "Method for Testing Extremely Flammable and Flammable Solids",
+  "standard_reference_number" : "16 CFR Section 1500.44"
+}
+, {
+  "reference_code_section_number" : "803.6.2, 803.7.3",
+  "standard_name" : "U.S. Department of Commerce",
+  "standard_code" : "DOC",
+  "standard_agency_address" : "100 Bureau Drive, Stop 3460\nGaithersburg, MD 20899",
+  "standard_title" : "Standard for the Flammability of Mattress and Mattress Pads (FF 4—72, Amended)",
+  "standard_reference_number" : "16 CFR Part 1632"
+}
+, {
+  "reference_code_section_number" : "3302.1, Table 3304.5.2(1), 3304.6.5.3",
+  "standard_name" : "U.S. Department of Justice",
+  "standard_code" : "DOJ",
+  "standard_agency_address" : "Bureau of Alcohol, Tobacco, Firearms and Explosives\nc/o Superintendent of Documents\nU.S. Government Printing Office\nWashington, DC 20402-9325",
+  "standard_title" : "Commerce in Explosives",
+  "standard_reference_number" : "27 CFR Part 555"
+}
+, {
+  "reference_code_section_number" : "1204.2.1, 2702.1",
+  "standard_name" : "U.S. Department of Labor",
+  "standard_code" : "DOL",
+  "standard_agency_address" : "c/o Superintendent of Documents\nU.S. Government Printing Office\nWashington, DC 20402-9325",
+  "standard_title" : "Air Contaminants",
+  "standard_reference_number" : "29 CFR Section 1910.1000"
+}
+, {
+  "reference_code_section_number" : "2702.1, 3303.6",
+  "standard_name" : "U.S. Department of Labor",
+  "standard_code" : "DOL",
+  "standard_agency_address" : "c/o Superintendent of Documents\nU.S. Government Printing Office\nWashington, DC 20402-9326",
+  "standard_title" : "Hazard Communication",
+  "standard_reference_number" : "29 CFR Section 1910.1200"
+}
+, {
+  "reference_code_section_number" : "2605.4",
+  "standard_name" : "U.S. Department of Transportation",
+  "standard_code" : "DOTn",
+  "standard_agency_address" : "Office of Hazardous Material Standards\n400 7th Street, Southwes\ntWashington, DC 20590",
+  "standard_title" : "Transportation",
+  "standard_reference_number" : "49 CFR"
+}
+, {
+  "reference_code_section_number" : "3302.1",
+  "standard_name" : "U.S. Department of Transportation",
+  "standard_code" : "DOTn",
+  "standard_agency_address" : "Office of Hazardous Material Standards\n400 7th Street, Southwes\ntWashington, DC 20591",
+  "standard_title" : "Transportation",
+  "standard_reference_number" : "49 CFR Section 173.52"
+}
+, {
+  "reference_code_section_number" : "3203.4.3, 3203.8",
+  "standard_name" : "U.S. Department of Transportation",
+  "standard_code" : "DOTn",
+  "standard_agency_address" : "Office of Hazardous Material Standards\n400 7th Street, Southwes\ntWashington, DC 20592",
+  "standard_title" : "Transportation",
+  "standard_reference_number" : "49 CFR Part 178"
+}
+, {
+  "reference_code_section_number" : "3304.6.5.3",
+  "standard_name" : "U.S. Department of Transportation",
+  "standard_code" : "DOTn",
+  "standard_agency_address" : "Office of Hazardous Material Standards\n400 7th Street, Southwes\ntWashington, DC 20593",
+  "standard_title" : "Hazardous Materials Tables, Special Provisions, Hazardous Materials Communications, Emergency Response Information and Training Requirements",
+  "standard_reference_number" : "49 CFR Part 172"
+}
+, {
+  "reference_code_section_number" : "3102.1",
+  "standard_name" : "U.S. Department of Transportation",
+  "standard_code" : "DOTn",
+  "standard_agency_address" : "Office of Hazardous Material Standards\n400 7th Street, Southwes\ntWashington, DC 20594",
+  "standard_title" : "Shippers — General Requirements for Shipments and Packagings: Class 8 — Assignment of Packing Group",
+  "standard_reference_number" : "49 CFR Sections 173.136 & 137"
+}
+, {
+  "reference_code_section_number" : "3301.3, 3406.5.1.15",
+  "standard_name" : "U.S. Department of Transportation",
+  "standard_code" : "DOTn",
+  "standard_agency_address" : "Office of Hazardous Material Standards\n400 7th Street, Southwes\ntWashington, DC 20595",
+  "standard_title" : "Hazardous Materials Regulations",
+  "standard_reference_number" : "49 CFR Parts 100-178"
+}
+, {
+  "reference_code_section_number" : "3705.2",
+  "standard_name" : "National Electrical Manufacturer’s Association",
+  "standard_code" : "NEMA",
+  "standard_agency_address" : "1300 N. 17th Street\nSuite 1847\nRosslyn, VA 22209",
+  "standard_title" : "Enclosures for Electrical Equipment (1,000 Volt Maximum)",
+  "standard_reference_number" : "250—1997"
+}
+, {
+  "reference_code_section_number" : "Table 901.6.1, 906.2, 906.2.1.2, 906.2.1.3, 906.3, Table 906.3(1), Table 906.3(2), 2106.3",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02269",
+  "standard_title" : "Portable Fire Extinguishers",
+  "standard_reference_number" : "10—07"
+}
+, {
+  "reference_code_section_number" : "904.7, Table 901.6.1, 3404.2.9.1.2",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02270",
+  "standard_title" : "Low Expansion Foam",
+  "standard_reference_number" : "11—02"
+}
+, {
+  "reference_code_section_number" : "904.7, 3404.2.9.1.2",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02271",
+  "standard_title" : "Medium- and High-Expansion Foam Systems",
+  "standard_reference_number" : "11A—99"
+}
+, {
+  "reference_code_section_number" : "Table 901.6.1, 904.8",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02272",
+  "standard_title" : "Carbon Dioxide Extinguishing Systems.",
+  "standard_reference_number" : "12—02"
+}
+, {
+  "reference_code_section_number" : "Table 901.6.1, 904.9",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02273",
+  "standard_title" : "Halon 1301 Fire Extinguishing Systems",
+  "standard_reference_number" : "12A—97"
+}
+, {
+  "reference_code_section_number" : "314.5.1, 2301.1, 2304.2, Table 2306.2, 2306.9, 2307.2, 2307.2.1, 2308.2, 2308.2.2, 2308.2.2.1, 2308.4, 2310.1, 2804.1, 3404.3.3.9, Table 3404.3.6.3(7), 3404.3.7.5.1, 3404.3.8.4",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02274",
+  "standard_title" : "Installation of Sprinkler Systems.",
+  "standard_reference_number" : "13—02"
+}
+, {
+  "reference_code_section_number" : "903.4, 903.6",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02275",
+  "standard_title" : "Installation of Sprinkler Systems in Residential Occupancies up to and Including Four Stories in Height",
+  "standard_reference_number" : "13R—02"
+}
+, {
+  "reference_code_section_number" : "904.7",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02276",
+  "standard_title" : "Installation of Foam-Water Sprinkler and Foam-Water Spray Systems",
+  "standard_reference_number" : "16—03"
+}
+, {
+  "reference_code_section_number" : "Table 901.6.1, 904.6",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02277",
+  "standard_title" : "Dry Chemical Extinguishing Systems",
+  "standard_reference_number" : "17—02"
+}
+, {
+  "reference_code_section_number" : "Table 901.6.1, 904.5",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02278",
+  "standard_title" : "Wet Chemical Extinguishing Systems",
+  "standard_reference_number" : "17A—02"
+}
+, {
+  "reference_code_section_number" : "913.1, 913.2, 913.5.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02279",
+  "standard_title" : "Installation of Stationary Pumps for Fire Protection",
+  "standard_reference_number" : "20—99"
+}
+, {
+  "reference_code_section_number" : "508.2.2",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02280",
+  "standard_title" : "Water Tanks for Private Fire Protection.",
+  "standard_reference_number" : "22—98"
+}
+, {
+  "reference_code_section_number" : "508.2.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02281",
+  "standard_title" : "Installation of Private Fire Service Mains and their Appurtenances",
+  "standard_reference_number" : "24—07"
+}
+, {
+  "reference_code_section_number" : "508.5.3, Table 901.6.1, 901.6.2.1, 905.12, 912.6, 913.5, 914.2",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02282",
+  "standard_title" : "Inspection, Testing and Maintenance of Water-Based Fire Protection Systems",
+  "standard_reference_number" : "25—02"
+}
+, {
+  "reference_code_section_number" : "3403.6.2, 3404.2.7, 3404.2.7.1, 3404.2.7.2, 3404.2.7.3.6, 3404.2.7.4, 3404.2.7.6, 3404.2.7.7, 3404.2.7.8, 3404.2.7.9, 3404.2.9.2, 3404.2.9.3, 3404.2.9.5.1.1, 3404.2.9.5.1.2, 3404.2.9.5.1.3, 3404.2.9.5.1.4, 3404.2.9.5.1.5, 3404.2.9.5.2, 3404.2.9.6.4, 3404.2.10.2, 3404.2.11.4, 3404.2.11.5.2, 3404.2.12.1, 3404.3.1, 3404.3.6, 3404.3.8.4, 3406.8.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02283",
+  "standard_title" : "Flammable and Combustible Liquids Code",
+  "standard_reference_number" : "30—00"
+}
+, {
+  "reference_code_section_number" : "2201.4, 2201.5, 2201.6, 2206.6.3, 2210.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02284",
+  "standard_title" : "Code for Motor Fuel-Dispensing Facilities and Repair Garages",
+  "standard_reference_number" : "30A—00"
+}
+, {
+  "reference_code_section_number" : "2801.4, 2804.1, 2804.3, Table 2804.3.1, Table 2804.3.2, Table 2804.3.2.2, 2804.4.1, 2804.5.2, 2804.6, Table 2806.2, Table 2806.3, 2806.5, 2806.8, Table 2804.3.2, Table 2804.3.2.2, 2804.4.1, 2804.5.2, 2804.6, Table 2806.2, Table 2806.3",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02285",
+  "standard_title" : "Manufacture and Storage of Aerosol Products",
+  "standard_reference_number" : "30B—02"
+}
+, {
+  "reference_code_section_number" : "1207.0999999999999",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02286",
+  "standard_title" : "Drycleaning Plants",
+  "standard_reference_number" : "32—00"
+}
+, {
+  "reference_code_section_number" : "1504.1.2",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02287",
+  "standard_title" : "Spray Application Using Flammable or Combustible Materials",
+  "standard_reference_number" : "33—00"
+}
+, {
+  "reference_code_section_number" : "1505.3, 1505.6.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02288",
+  "standard_title" : "Dipping and Coating Processes Using Flammable or Combustible Liquids",
+  "standard_reference_number" : "34—00"
+}
+, {
+  "reference_code_section_number" : "2001.3, 2005.4",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02289",
+  "standard_title" : "Manufacture of Organic Coatings",
+  "standard_reference_number" : "35—99"
+}
+, {
+  "reference_code_section_number" : "306.2",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02290",
+  "standard_title" : "Storage and Handling of Cellulose Nitrate [Motion Picture]Film",
+  "standard_reference_number" : "40—01"
+}
+, {
+  "reference_code_section_number" : "2706.2, 2706.6.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02291",
+  "standard_title" : "Fire Protection for Laboratories Using Chemicals",
+  "standard_reference_number" : "45—04"
+}
+, {
+  "reference_code_section_number" : "1406.2.2.5, 3201.1.1, Table 3504.2.1, Table 3809.12, 4001.1.4",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02292",
+  "standard_title" : "Bulk Oxygen Systems at Consumer Sites",
+  "standard_reference_number" : "50—01"
+}
+, {
+  "reference_code_section_number" : "2209.2.1, 3501.1.2",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02293",
+  "standard_title" : "Gaseous Hydrogen Systems at Consumer Sites",
+  "standard_reference_number" : "50A—99"
+}
+, {
+  "reference_code_section_number" : "2209.2.1, 3201.1.2",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02294",
+  "standard_title" : "Liquefied Hydrogen Systems at Consumer Sites.",
+  "standard_reference_number" : "50B—99"
+}
+, {
+  "reference_code_section_number" : "601.5, 2609.1, Table 3504.2.1, Table 3809.12",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02295",
+  "standard_title" : "Design and Installation of Oxygen-Fuel Gas Systems for Welding, Cutting, and Allied Processes",
+  "standard_reference_number" : "51—02"
+}
+, {
+  "reference_code_section_number" : "3001.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02296",
+  "standard_title" : "Compressed Natural Gas (CNG) Vehicular Fuel Systems",
+  "standard_reference_number" : "52—98"
+}
+, {
+  "reference_code_section_number" : "3801.1.1, 3803.1, 3803.2.1, 3803.2.1.2, 3803.2.2, 3807.2, 3808.2",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02297",
+  "standard_title" : "Liquefied Petroleum Gas Code",
+  "standard_reference_number" : "58—01"
+}
+, {
+  "reference_code_section_number" : "Table 1304.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02298",
+  "standard_title" : "Prevention of Fires and Dust Explosions in Agricultural and Food Products Facilities",
+  "standard_reference_number" : "61—99"
+}
+, {
+  "reference_code_section_number" : "911.1, 911.3, Table 1304.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02299",
+  "standard_title" : "Explosion Prevention Systems",
+  "standard_reference_number" : "69—97"
+}
+, {
+  "reference_code_section_number" : "509.1, Table 901.6.1, 907.2, 907.15, 907.17, 907.18, 907.20, 907.20.2, 907.20.3, 907.20.5, 908.10, 908.10.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02300",
+  "standard_title" : "National Fire Alarm Code",
+  "standard_reference_number" : "72—02"
+}
+, {
+  "reference_code_section_number" : "3406.8.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02301",
+  "standard_title" : "Static Electricity",
+  "standard_reference_number" : "77—00"
+}
+, {
+  "reference_code_section_number" : "703.2",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02302",
+  "standard_title" : "Fire Doors and Fire Windows",
+  "standard_reference_number" : "80—99"
+}
+, {
+  "reference_code_section_number" : "Table 1304.1 (Note: NFPA 8503 has been incorporated into NFPA 85)",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02303",
+  "standard_title" : "Boiler and Combustion System Hazards Code",
+  "standard_reference_number" : "85—01"
+}
+, {
+  "reference_code_section_number" : "2101.3000000000002",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02304",
+  "standard_title" : "Ovens and Furnaces",
+  "standard_reference_number" : "86—99"
+}
+, {
+  "reference_code_section_number" : "3005.7, 3006.4",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02305",
+  "standard_title" : "Health Care Facilities",
+  "standard_reference_number" : "99—05"
+}
+, {
+  "reference_code_section_number" : "604.4",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02306",
+  "standard_title" : "Emergency and Standby Power Systems",
+  "standard_reference_number" : "110—99"
+}
+, {
+  "reference_code_section_number" : "604.4",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02307",
+  "standard_title" : "Stored Electrical Energy Emergency and Standby Power systems",
+  "standard_reference_number" : "111—01"
+}
+, {
+  "reference_code_section_number" : "Table 1304.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02308",
+  "standard_title" : "Coal Preparation Plants",
+  "standard_reference_number" : "120—99"
+}
+, {
+  "reference_code_section_number" : "308.3.6, 3309.17",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02309",
+  "standard_title" : "Flame Effects Before an Audience",
+  "standard_reference_number" : "160—01"
+}
+, {
+  "reference_code_section_number" : "2501.1.1, 2505.3",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02310",
+  "standard_title" : "Storage of Rubber Tires.",
+  "standard_reference_number" : "231D—98"
+}
+, {
+  "reference_code_section_number" : "1401.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02311",
+  "standard_title" : "Safeguarding Construction, Alteration, and Demolition Operations",
+  "standard_reference_number" : "241—00"
+}
+, {
+  "reference_code_section_number" : "803.6.1, 803.7.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02312",
+  "standard_title" : "Methods of Tests and Classification System for Cigarette Ignition Resistance of Components of Upholstered Furniture",
+  "standard_reference_number" : "260—98"
+}
+, {
+  "reference_code_section_number" : "803.5.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02313",
+  "standard_title" : "Method of Test for Determining Resistance of Mock-Up Upholstered Furniture Material Assemblies to Ignition by Smoldering Cigarettes",
+  "standard_reference_number" : "261—98"
+}
+, {
+  "reference_code_section_number" : "803.5.2",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02314",
+  "standard_title" : "Method of Test for Fire Characteristics of Upholstered Furniture Exposed to Flaming Ignition Source",
+  "standard_reference_number" : "266—98"
+}
+, {
+  "reference_code_section_number" : "803.5.3, 803.6.3, 803.7.4",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02315",
+  "standard_title" : "Method of Test for Fire Characteristics of Mattresses and Bedding Assemblies Exposed to Flaming Ignition Source.",
+  "standard_reference_number" : "267—98"
+}
+, {
+  "reference_code_section_number" : "1106.2, 1106.3",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02316",
+  "standard_title" : "Aircraft Fuel Servicing",
+  "standard_reference_number" : "407—96"
+}
+, {
+  "reference_code_section_number" : "4004.1.4",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02317",
+  "standard_title" : "Storage of Liquid and Solid Oxidizers ",
+  "standard_reference_number" : "430---00"
+}
+, {
+  "reference_code_section_number" : "Table 1304.1, 3603.2, 3604.1, 3604.2, 3605.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02318",
+  "standard_title" : "Combustible Metals, Metal Powders, and Metal Dusts",
+  "standard_reference_number" : "484—02"
+}
+, {
+  "reference_code_section_number" : "4001.1.3, 3301.1.5",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02319",
+  "standard_title" : "Storage of Ammonium Nitrate",
+  "standard_reference_number" : "490—98"
+}
+, {
+  "reference_code_section_number" : "911.1, 911.4, 3302.1, 3304.3, 3304.6.2, 3304.6.3, 3304.7.1, 3306.1, 3307.1, 3307.11",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02320",
+  "standard_title" : "Explosive Materials Code",
+  "standard_reference_number" : "495—96"
+}
+, {
+  "reference_code_section_number" : "3301.3.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02321",
+  "standard_title" : "Safe Havens and Interchange Lots for Vehicles Transporting Explosives",
+  "standard_reference_number" : "498—96"
+}
+, {
+  "reference_code_section_number" : "309.1.1, 2703.7.3",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02322",
+  "standard_title" : "Powered Industrial Trucks, Including Type Designations, Areas of Use, Maintenance, and Operation",
+  "standard_reference_number" : "505—99"
+}
+, {
+  "reference_code_section_number" : "Table 1304.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02323",
+  "standard_title" : "Prevention of Fire and Dust Explosions from the Manufacturing, Processing and Handling of Combustible Particulate Solids",
+  "standard_reference_number" : "654—00"
+}
+, {
+  "reference_code_section_number" : "Table 1304.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02324",
+  "standard_title" : "Prevention of Sulfur Fires and Explosions",
+  "standard_reference_number" : "655—93"
+}
+, {
+  "reference_code_section_number" : "202, 306.3, 802.1,.803.2.2, 805.1, 805.1.3, 2404.2",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02325",
+  "standard_title" : "Standard Methods of Fire Tests for Flame-Propagation of Textiles and Films",
+  "standard_reference_number" : "701—99"
+}
+, {
+  "reference_code_section_number" : "606.9.3.4, 1802.1, 2702.1, 2703.2.2.1, 2703.2.2.2, 2703.5, 2703.10.2, 2703.10.4, 2705.1.10, 2705.2.1.1, 3203.4.1, 3404.2.3.2",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02326",
+  "standard_title" : "Identification of the Hazards of Materials for Emergency Response",
+  "standard_reference_number" : "704—96"
+}
+, {
+  "reference_code_section_number" : "Table 901.6.1, 904.12",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02327",
+  "standard_title" : "Standard on Water Mist Fire Protection Systems",
+  "standard_reference_number" : "750—00"
+}
+, {
+  "reference_code_section_number" : "3406.8.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02328",
+  "standard_title" : "Installation of Lightning Protection Systems",
+  "standard_reference_number" : "780—00"
+}
+, {
+  "reference_code_section_number" : "3301.3.6",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02329",
+  "standard_title" : "Model Rocketry",
+  "standard_reference_number" : "1122—97"
+}
+, {
+  "reference_code_section_number" : "3302.1, 3308.1, 3308.5, 3308.6.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02330",
+  "standard_title" : "Fireworks Display",
+  "standard_reference_number" : "1123—00"
+}
+, {
+  "reference_code_section_number" : "3302.1, 3304.3",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02331",
+  "standard_title" : "Manufacture, Transportation, and Storage of Fireworks and Pyrotechnic Articles",
+  "standard_reference_number" : "1124—98"
+}
+, {
+  "reference_code_section_number" : "3301.1.4",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02332",
+  "standard_title" : "Manufacture of Model Rocket and High Power Rocket Motors",
+  "standard_reference_number" : "1125—95"
+}
+, {
+  "reference_code_section_number" : "3309.1",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02333",
+  "standard_title" : "Use of Pyrotechnics Before a Proximate Audience",
+  "standard_reference_number" : "1126—01"
+}
+, {
+  "reference_code_section_number" : "3301.1.4",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02334",
+  "standard_title" : "High Power Rocketry",
+  "standard_reference_number" : "1127—98"
+}
+, {
+  "reference_code_section_number" : "Table 901.6.1, 904.10, 904.10.7",
+  "standard_name" : "National Fire Protection Association",
+  "standard_code" : "NFPA",
+  "standard_agency_address" : "Batterymarch Park\nQuincy, MA 02335",
+  "standard_title" : "Clean Agent Fire Extinguishing Systems",
+  "standard_reference_number" : "2001—04"
+}
+, {
+  "reference_code_section_number" : "2703.8.7.1, 2705.1.10, 3405.2.4",
+  "standard_name" : "Underwriters Laboratories, Inc.",
+  "standard_code" : "UL",
+  "standard_agency_address" : "333 Pfingsten Road\nNorthbrook, IL 60062",
+  "standard_title" : "Metal Safety Cans—with Revisions through 2000",
+  "standard_reference_number" : "30—95"
+}
+, {
+  "reference_code_section_number" : "904.11",
+  "standard_name" : "Underwriters Laboratories, Inc.",
+  "standard_code" : "UL",
+  "standard_agency_address" : "334 Pfingsten Road\nNorthbrook, IL 60062",
+  "standard_title" : "Fire Testing of Fire Extinguishing Systems for Protection of Restaurant Cooking Areas—with Revisions through December 1998",
+  "standard_reference_number" : "300—96"
+}
+, {
+  "reference_code_section_number" : "1504.3",
+  "standard_name" : "Underwriters Laboratories, Inc.",
+  "standard_code" : "UL",
+  "standard_agency_address" : "335 Pfingsten Road\nNorthbrook, IL 60062",
+  "standard_title" : "Air Filter Units—with Revisions through October 1999",
+  "standard_reference_number" : "900—94"
+}
+, {
+  "reference_code_section_number" : "805.2.1, 2703.8.7.1, 3404.3.2.1.1",
+  "standard_name" : "Underwriters Laboratories, Inc.",
+  "standard_code" : "UL",
+  "standard_agency_address" : "336 Pfingsten Road\nNorthbrook, IL 60062",
+  "standard_title" : "Flammable Liquid Storage Cabinets—with Revisions through March 1997",
+  "standard_reference_number" : "1275—94"
+}
+, {
+  "reference_code_section_number" : "803.2.1, 805.2.1",
+  "standard_name" : "Underwriters Laboratories, Inc.",
+  "standard_code" : "UL",
+  "standard_agency_address" : "337 Pfingsten Road\nNorthbrook, IL 60062",
+  "standard_title" : "Fire Tests for Foamed Plastics Used for Decorative Purpose",
+  "standard_reference_number" : "1975—96"
+}
+, {
+  "reference_code_section_number" : "2202.1, 3402.1, 3404.2.9.1.3, 3404.2.9.6.5, 3405.3.8.2",
+  "standard_name" : "Underwriters Laboratories, Inc.",
+  "standard_code" : "UL",
+  "standard_agency_address" : "338 Pfingsten Road\nNorthbrook, IL 60062",
+  "standard_title" : "Protected Aboveground Tanks for Flammable and Combustible Liquids—with Revisions through December 1999",
+  "standard_reference_number" : "2085—97"
+}
+, {
+  "reference_code_section_number" : "3405.4.1",
+  "standard_name" : "Underwriters Laboratories, Inc.",
+  "standard_code" : "UL",
+  "standard_agency_address" : "339 Pfingsten Road\nNorthbrook, IL 60062",
+  "standard_title" : "Solvent Distillation Units—with Revisions through March 1999",
+  "standard_reference_number" : "2208—96"
+}
+ ]

@@ -1,0 +1,514 @@
+[ {
+  "lowest_sale_price" : "3200000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "3275000",
+  "average_sale_price" : "3275000",
+  "highest_sale_price" : "3350000",
+  "number_of_sales" : "2",
+  "neighborhood" : "ALPHABET CITY            "
+}
+, {
+  "lowest_sale_price" : "3800000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "3800000",
+  "average_sale_price" : "3800000",
+  "highest_sale_price" : "3800000",
+  "number_of_sales" : "1",
+  "neighborhood" : "CHELSEA                  "
+}
+, {
+  "lowest_sale_price" : "4388888",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "4388888",
+  "average_sale_price" : "4388888",
+  "highest_sale_price" : "4388888",
+  "number_of_sales" : "1",
+  "neighborhood" : "CHELSEA                  "
+}
+, {
+  "lowest_sale_price" : "4280000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "4640000",
+  "average_sale_price" : "4640000",
+  "highest_sale_price" : "5000000",
+  "number_of_sales" : "2",
+  "neighborhood" : "CHELSEA                  "
+}
+, {
+  "lowest_sale_price" : "9425000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "9425000",
+  "average_sale_price" : "9425000",
+  "highest_sale_price" : "9425000",
+  "number_of_sales" : "1",
+  "neighborhood" : "CHINATOWN                "
+}
+, {
+  "lowest_sale_price" : "5300000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "5300000",
+  "average_sale_price" : "5300000",
+  "highest_sale_price" : "5300000",
+  "number_of_sales" : "1",
+  "neighborhood" : "EAST VILLAGE             "
+}
+, {
+  "lowest_sale_price" : "3300000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "3300000",
+  "average_sale_price" : "3300000",
+  "highest_sale_price" : "3300000",
+  "number_of_sales" : "1",
+  "neighborhood" : "EAST VILLAGE             "
+}
+, {
+  "lowest_sale_price" : "4125000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "4125000",
+  "average_sale_price" : "4125000",
+  "highest_sale_price" : "4125000",
+  "number_of_sales" : "1",
+  "neighborhood" : "FASHION                  "
+}
+, {
+  "lowest_sale_price" : "3450000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "6240000",
+  "average_sale_price" : "7630000",
+  "highest_sale_price" : "13200000",
+  "number_of_sales" : "3",
+  "neighborhood" : "GRAMERCY                 "
+}
+, {
+  "lowest_sale_price" : "5529097",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "5529097",
+  "average_sale_price" : "5529097",
+  "highest_sale_price" : "5529097",
+  "number_of_sales" : "1",
+  "neighborhood" : "GREENWICH VILLAGE-CENTRAL"
+}
+, {
+  "lowest_sale_price" : "4575000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "5687500",
+  "average_sale_price" : "5687500",
+  "highest_sale_price" : "6800000",
+  "number_of_sales" : "2",
+  "neighborhood" : "GREENWICH VILLAGE-CENTRAL"
+}
+, {
+  "lowest_sale_price" : "3054750",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "5500000",
+  "average_sale_price" : "6888688",
+  "highest_sale_price" : "13500000",
+  "number_of_sales" : "4",
+  "neighborhood" : "GREENWICH VILLAGE-CENTRAL"
+}
+, {
+  "lowest_sale_price" : "3525000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "13825000",
+  "average_sale_price" : "10583333",
+  "highest_sale_price" : "14400000",
+  "number_of_sales" : "3",
+  "neighborhood" : "GREENWICH VILLAGE-WEST   "
+}
+, {
+  "lowest_sale_price" : "4600000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "6500000",
+  "average_sale_price" : "8665000",
+  "highest_sale_price" : "17000000",
+  "number_of_sales" : "9",
+  "neighborhood" : "GREENWICH VILLAGE-WEST   "
+}
+, {
+  "lowest_sale_price" : "3975000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "4525000",
+  "average_sale_price" : "6140000",
+  "highest_sale_price" : "9500000",
+  "number_of_sales" : "5",
+  "neighborhood" : "GREENWICH VILLAGE-WEST   "
+}
+, {
+  "lowest_sale_price" : "850000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "1368500",
+  "average_sale_price" : "1459250",
+  "highest_sale_price" : "2250000",
+  "number_of_sales" : "4",
+  "neighborhood" : "HARLEM-CENTRAL           "
+}
+, {
+  "lowest_sale_price" : "271500",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "955500",
+  "average_sale_price" : "1149048",
+  "highest_sale_price" : "2200000",
+  "number_of_sales" : "12",
+  "neighborhood" : "HARLEM-CENTRAL           "
+}
+, {
+  "lowest_sale_price" : "175000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "746180",
+  "average_sale_price" : "858420",
+  "highest_sale_price" : "1750000",
+  "number_of_sales" : "8",
+  "neighborhood" : "HARLEM-CENTRAL           "
+}
+, {
+  "lowest_sale_price" : "1250000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "1250000",
+  "average_sale_price" : "1250000",
+  "highest_sale_price" : "1250000",
+  "number_of_sales" : "1",
+  "neighborhood" : "HARLEM-EAST              "
+}
+, {
+  "lowest_sale_price" : "589915",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "1100000",
+  "average_sale_price" : "1036638",
+  "highest_sale_price" : "1420000",
+  "number_of_sales" : "3",
+  "neighborhood" : "HARLEM-EAST              "
+}
+, {
+  "lowest_sale_price" : "2325000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "2325000",
+  "average_sale_price" : "2325000",
+  "highest_sale_price" : "2325000",
+  "number_of_sales" : "1",
+  "neighborhood" : "HARLEM-UPPER             "
+}
+, {
+  "lowest_sale_price" : "700000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "977520",
+  "average_sale_price" : "1201754",
+  "highest_sale_price" : "2331250",
+  "number_of_sales" : "5",
+  "neighborhood" : "HARLEM-UPPER             "
+}
+, {
+  "lowest_sale_price" : "661862",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "874470",
+  "average_sale_price" : "874470",
+  "highest_sale_price" : "1087078",
+  "number_of_sales" : "2",
+  "neighborhood" : "HARLEM-UPPER             "
+}
+, {
+  "lowest_sale_price" : "604761",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "604761",
+  "average_sale_price" : "604761",
+  "highest_sale_price" : "604761",
+  "number_of_sales" : "1",
+  "neighborhood" : "HARLEM-WEST              "
+}
+, {
+  "lowest_sale_price" : "331500",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "422000",
+  "average_sale_price" : "428500",
+  "highest_sale_price" : "532000",
+  "number_of_sales" : "3",
+  "neighborhood" : "INWOOD                   "
+}
+, {
+  "lowest_sale_price" : "1000000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "1000000",
+  "average_sale_price" : "1000000",
+  "highest_sale_price" : "1000000",
+  "number_of_sales" : "1",
+  "neighborhood" : "KIPS BAY                 "
+}
+, {
+  "lowest_sale_price" : "3500000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "3500000",
+  "average_sale_price" : "3500000",
+  "highest_sale_price" : "3500000",
+  "number_of_sales" : "1",
+  "neighborhood" : "KIPS BAY                 "
+}
+, {
+  "lowest_sale_price" : "3950000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "3950000",
+  "average_sale_price" : "3950000",
+  "highest_sale_price" : "3950000",
+  "number_of_sales" : "1",
+  "neighborhood" : "LITTLE ITALY             "
+}
+, {
+  "lowest_sale_price" : "3280000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "3280000",
+  "average_sale_price" : "3280000",
+  "highest_sale_price" : "3280000",
+  "number_of_sales" : "1",
+  "neighborhood" : "LOWER EAST SIDE          "
+}
+, {
+  "lowest_sale_price" : "2750000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "2750000",
+  "average_sale_price" : "2750000",
+  "highest_sale_price" : "2750000",
+  "number_of_sales" : "1",
+  "neighborhood" : "MANHATTAN VALLEY         "
+}
+, {
+  "lowest_sale_price" : "3800000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "11875000",
+  "average_sale_price" : "15655000",
+  "highest_sale_price" : "32500000",
+  "number_of_sales" : "6",
+  "neighborhood" : "MIDTOWN EAST             "
+}
+, {
+  "lowest_sale_price" : "8750000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "10625000",
+  "average_sale_price" : "10625000",
+  "highest_sale_price" : "12500000",
+  "number_of_sales" : "2",
+  "neighborhood" : "MIDTOWN EAST             "
+}
+, {
+  "lowest_sale_price" : "13350000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "13350000",
+  "average_sale_price" : "13350000",
+  "highest_sale_price" : "13350000",
+  "number_of_sales" : "1",
+  "neighborhood" : "MIDTOWN EAST             "
+}
+, {
+  "lowest_sale_price" : "1802400",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "2306200",
+  "average_sale_price" : "2306200",
+  "highest_sale_price" : "2810000",
+  "number_of_sales" : "2",
+  "neighborhood" : "MURRAY HILL              "
+}
+, {
+  "lowest_sale_price" : "4160000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "4455000",
+  "average_sale_price" : "4455000",
+  "highest_sale_price" : "4750000",
+  "number_of_sales" : "2",
+  "neighborhood" : "MURRAY HILL              "
+}
+, {
+  "lowest_sale_price" : "999000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "999000",
+  "average_sale_price" : "999000",
+  "highest_sale_price" : "999000",
+  "number_of_sales" : "1",
+  "neighborhood" : "MURRAY HILL              "
+}
+, {
+  "lowest_sale_price" : "3550000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "3550000",
+  "average_sale_price" : "3550000",
+  "highest_sale_price" : "3550000",
+  "number_of_sales" : "1",
+  "neighborhood" : "SOHO                     "
+}
+, {
+  "lowest_sale_price" : "4900000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "5450000",
+  "average_sale_price" : "5450000",
+  "highest_sale_price" : "6000000",
+  "number_of_sales" : "2",
+  "neighborhood" : "SOHO                     "
+}
+, {
+  "lowest_sale_price" : "4750000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "5770000",
+  "average_sale_price" : "5770000",
+  "highest_sale_price" : "6790000",
+  "number_of_sales" : "2",
+  "neighborhood" : "TRIBECA                  "
+}
+, {
+  "lowest_sale_price" : "1512500",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "9382700",
+  "average_sale_price" : "13968557",
+  "highest_sale_price" : "49000000",
+  "number_of_sales" : "21",
+  "neighborhood" : "UPPER EAST SIDE (59-79)  "
+}
+, {
+  "lowest_sale_price" : "3100000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "9500000",
+  "average_sale_price" : "8425000",
+  "highest_sale_price" : "12350000",
+  "number_of_sales" : "6",
+  "neighborhood" : "UPPER EAST SIDE (59-79)  "
+}
+, {
+  "lowest_sale_price" : "13500000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "13500000",
+  "average_sale_price" : "13500000",
+  "highest_sale_price" : "13500000",
+  "number_of_sales" : "1",
+  "neighborhood" : "UPPER EAST SIDE (59-79)  "
+}
+, {
+  "lowest_sale_price" : "2300000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "8013570",
+  "average_sale_price" : "9103345",
+  "highest_sale_price" : "27000000",
+  "number_of_sales" : "12",
+  "neighborhood" : "UPPER EAST SIDE (79-96)  "
+}
+, {
+  "lowest_sale_price" : "4150000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "4725000",
+  "average_sale_price" : "4725000",
+  "highest_sale_price" : "5300000",
+  "number_of_sales" : "2",
+  "neighborhood" : "UPPER EAST SIDE (79-96)  "
+}
+, {
+  "lowest_sale_price" : "4400000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "5150000",
+  "average_sale_price" : "5150000",
+  "highest_sale_price" : "5900000",
+  "number_of_sales" : "2",
+  "neighborhood" : "UPPER EAST SIDE (79-96)  "
+}
+, {
+  "lowest_sale_price" : "7733300",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "7733300",
+  "average_sale_price" : "7733300",
+  "highest_sale_price" : "7733300",
+  "number_of_sales" : "1",
+  "neighborhood" : "UPPER WEST SIDE (59-79)  "
+}
+, {
+  "lowest_sale_price" : "8210800",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "8210800",
+  "average_sale_price" : "8210800",
+  "highest_sale_price" : "8210800",
+  "number_of_sales" : "1",
+  "neighborhood" : "UPPER WEST SIDE (59-79)  "
+}
+, {
+  "lowest_sale_price" : "4800000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "5500000",
+  "average_sale_price" : "5500000",
+  "highest_sale_price" : "6200000",
+  "number_of_sales" : "2",
+  "neighborhood" : "UPPER WEST SIDE (59-79)  "
+}
+, {
+  "lowest_sale_price" : "4775000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "6250000",
+  "average_sale_price" : "6291667",
+  "highest_sale_price" : "7850000",
+  "number_of_sales" : "3",
+  "neighborhood" : "UPPER WEST SIDE (79-96)  "
+}
+, {
+  "lowest_sale_price" : "2400000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "5180000",
+  "average_sale_price" : "4576667",
+  "highest_sale_price" : "6150000",
+  "number_of_sales" : "3",
+  "neighborhood" : "UPPER WEST SIDE (79-96)  "
+}
+, {
+  "lowest_sale_price" : "4200000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "4817500",
+  "average_sale_price" : "5446250",
+  "highest_sale_price" : "7950000",
+  "number_of_sales" : "4",
+  "neighborhood" : "UPPER WEST SIDE (79-96)  "
+}
+, {
+  "lowest_sale_price" : "499000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "499000",
+  "average_sale_price" : "499000",
+  "highest_sale_price" : "499000",
+  "number_of_sales" : "1",
+  "neighborhood" : "UPPER WEST SIDE (96-116) "
+}
+, {
+  "lowest_sale_price" : "500000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "533333",
+  "average_sale_price" : "572917",
+  "highest_sale_price" : "725000",
+  "number_of_sales" : "4",
+  "neighborhood" : "WASHINGTON HEIGHTS LOWER "
+}
+, {
+  "lowest_sale_price" : "437000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "587213",
+  "average_sale_price" : "587213",
+  "highest_sale_price" : "737425",
+  "number_of_sales" : "2",
+  "neighborhood" : "WASHINGTON HEIGHTS LOWER "
+}
+, {
+  "lowest_sale_price" : "456176",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "795000",
+  "average_sale_price" : "683725",
+  "highest_sale_price" : "800000",
+  "number_of_sales" : "3",
+  "neighborhood" : "WASHINGTON HEIGHTS LOWER "
+}
+, {
+  "lowest_sale_price" : "200000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "200000",
+  "average_sale_price" : "200000",
+  "highest_sale_price" : "200000",
+  "number_of_sales" : "1",
+  "neighborhood" : "WASHINGTON HEIGHTS UPPER "
+}
+, {
+  "lowest_sale_price" : "200000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "200000",
+  "average_sale_price" : "200000",
+  "highest_sale_price" : "200000",
+  "number_of_sales" : "1",
+  "neighborhood" : "WASHINGTON HEIGHTS UPPER "
+}
+ ]

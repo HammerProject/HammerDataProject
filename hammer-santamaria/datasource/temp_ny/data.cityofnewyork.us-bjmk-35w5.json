@@ -1,0 +1,8202 @@
+[ {
+  "building_id" : "M112",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "4",
+  "school_name" : "P.S. 112 (TANDEM M206)",
+  "description" : "Electrical Systems",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M112",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "4",
+  "school_name" : "P.S. 112 (TANDEM M206)",
+  "description" : "Flood Elimination",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M112",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "4",
+  "school_name" : "P.S. 112 (TANDEM M206)",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M112",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "4",
+  "school_name" : "P.S. 112 (TANDEM M206)",
+  "description" : "Interior Spaces",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "K015",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "15",
+  "school_name" : "P.S. 15",
+  "description" : "Domestic Piping",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K015",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "15",
+  "school_name" : "P.S. 15",
+  "description" : "Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K015",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "15",
+  "school_name" : "P.S. 15",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K015",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "15",
+  "school_name" : "P.S. 15",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K015",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "15",
+  "school_name" : "P.S. 15",
+  "description" : "Interior Spaces",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K015",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "15",
+  "school_name" : "P.S. 15",
+  "description" : "Ventilation",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K211",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "I.S. 211",
+  "description" : "Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K211",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "I.S. 211",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K211",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "I.S. 211",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K211",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "I.S. 211",
+  "description" : "Interior Spaces",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K276",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "P.S. 276",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K276",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "P.S. 276",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K276",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "P.S. 276",
+  "description" : "Interior Spaces",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K276",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "P.S. 276",
+  "description" : "Low-Voltage Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K276",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "P.S. 276",
+  "description" : "Paved Area-Blacktop",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K279",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "P.S. 279",
+  "description" : "Domestic Piping",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K279",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "P.S. 279",
+  "description" : "Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K279",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "P.S. 279",
+  "description" : "Elevators and Escalators",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K279",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "P.S. 279",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K279",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "P.S. 279",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K279",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "P.S. 279",
+  "description" : "Interior Spaces",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K279",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "P.S. 279",
+  "description" : "Low-Voltage Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K279",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "P.S. 279",
+  "description" : "Playground Redevelopment",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K279",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "18",
+  "school_name" : "P.S. 279",
+  "description" : "Ventilation",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K043",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 98",
+  "description" : "Auditorium  Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K043",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 98",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K043",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 98",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K043",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 98",
+  "description" : "Interior Spaces",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K043",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 98",
+  "description" : "Low-Voltage Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K090",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 90",
+  "description" : "Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K090",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 90",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K090",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 90",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K090",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 90",
+  "description" : "Interior Spaces",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K090",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 90",
+  "description" : "Roofs",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K090",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 90",
+  "description" : "Ventilation",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K188",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 188",
+  "description" : "Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K188",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 188",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K188",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 188",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K188",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 188",
+  "description" : "Interior Spaces",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K188",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 188",
+  "description" : "Low-Voltage Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K188",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 188",
+  "description" : "Ventilation",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K239",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 239",
+  "description" : "Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K239",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 239",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K239",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 239",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K239",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 239",
+  "description" : "Interior Spaces",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K239",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 239",
+  "description" : "Low-Voltage Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K239",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 239",
+  "description" : "Reinforcing Cinder Concrete Slabs",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K253",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 253",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K253",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 253",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K253",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 253",
+  "description" : "Paved Area-Blacktop",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K281",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 281",
+  "description" : "Elevators and Escalators",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K281",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 281",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K281",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 281",
+  "description" : "Low-Voltage Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K288",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 288",
+  "description" : "Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K288",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 288",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K288",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 288",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K288",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 288",
+  "description" : "Interior Spaces",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K303",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 303",
+  "description" : "Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K303",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 303",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K303",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 303",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K303",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 303",
+  "description" : "Interior Spaces",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K303",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "I.S. 303",
+  "description" : "Ventilation",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K329",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 329",
+  "description" : "Air Conditioning Retrofit",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K329",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 329",
+  "description" : "Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K329",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 329",
+  "description" : "Elevators and Escalators",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K329",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 329",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K329",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 329",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K329",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 329",
+  "description" : "Interior Spaces",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K329",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 329",
+  "description" : "Playground Redevelopment",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K329",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 329",
+  "description" : "Ventilation",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K329",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "21",
+  "school_name" : "P.S. 329",
+  "description" : "Waste System",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K195",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "22",
+  "school_name" : "P.S. 195",
+  "description" : "Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K195",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "22",
+  "school_name" : "P.S. 195",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K195",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "22",
+  "school_name" : "P.S. 195",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K195",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "22",
+  "school_name" : "P.S. 195",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K195",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "22",
+  "school_name" : "P.S. 195",
+  "description" : "Interior Spaces",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K254",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "22",
+  "school_name" : "P.S. 254",
+  "description" : "Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K254",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "22",
+  "school_name" : "P.S. 254",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K254",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "22",
+  "school_name" : "P.S. 254",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K849",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "22",
+  "school_name" : "P.S. 134",
+  "description" : "Roofs",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "Q042",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 42",
+  "description" : "Electrical Systems",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q042",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 42",
+  "description" : "Flood Elimination",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q042",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 42",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q042",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 42",
+  "description" : "Interior Spaces",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q042",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 42",
+  "description" : "Ventilation",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q042",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 42",
+  "description" : "Waste System",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q043",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 43",
+  "description" : "Elevators and Escalators",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q043",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 43",
+  "description" : "Flood Elimination",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q043",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 43",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q043",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 43",
+  "description" : "Interior Spaces",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q043",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 43",
+  "description" : "Roofs",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q047",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 47",
+  "description" : "Electrical Systems",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q047",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 47",
+  "description" : "Flood Elimination",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q047",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 47",
+  "description" : "Interior Spaces",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q047",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 47",
+  "description" : "Ventilation",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q105",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 105",
+  "description" : "Auditorium  Upgrade",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q105",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 105",
+  "description" : "Domestic Piping",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q105",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 105",
+  "description" : "Electrical Systems",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q105",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 105",
+  "description" : "Flood Elimination",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q105",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 105",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q105",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 105",
+  "description" : "Interior Spaces",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q105",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 105",
+  "description" : "Paved Area-Blacktop",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q105",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 105",
+  "description" : "Ventilation",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q106",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 106",
+  "description" : "Flood Elimination",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q106",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 106",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q106",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 106",
+  "description" : "Interior Spaces",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q114",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 114",
+  "description" : "Domestic Piping",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q114",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 114",
+  "description" : "Electrical Systems",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q114",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 114",
+  "description" : "Flood Elimination",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q114",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 114",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q114",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 114",
+  "description" : "Interior Spaces",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q114",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 114",
+  "description" : "Playground Redevelopment",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q114",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 114",
+  "description" : "Ventilation",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q146",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 146",
+  "description" : "Electrical Systems",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q146",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 146",
+  "description" : "Flood Elimination",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q146",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 146",
+  "description" : "Interior Spaces",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q146",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 146",
+  "description" : "Playgrounds",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q146",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 146",
+  "description" : "Ventilation",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q180",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "I.S. 323 (OLD IS 180)",
+  "description" : "Air Conditioning Retrofit",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q180",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "I.S. 323 (OLD IS 180)",
+  "description" : "Electrical Systems",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q180",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "I.S. 323 (OLD IS 180)",
+  "description" : "Flood Elimination",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q180",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "I.S. 323 (OLD IS 180)",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q180",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "I.S. 323 (OLD IS 180)",
+  "description" : "Interior Spaces",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q183",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 183",
+  "description" : "Electrical Systems",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q183",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 183",
+  "description" : "Flood Elimination",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q183",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 183",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q183",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 183",
+  "description" : "Interior Spaces",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q198",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "I.S. 198",
+  "description" : "Electrical Systems",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q198",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "I.S. 198",
+  "description" : "Flood Elimination",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q198",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "I.S. 198",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q198",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "I.S. 198",
+  "description" : "Reinforcing Cinder Concrete Slabs",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q207",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 207",
+  "description" : "Flood Elimination",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q207",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 207",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q207",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 207",
+  "description" : "Interior Spaces",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q207",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 207",
+  "description" : "Low-Voltage Electrical Systems",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q207",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 207",
+  "description" : "Paved Area-Blacktop",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q225",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 225",
+  "description" : "Electrical Systems",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q225",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 225",
+  "description" : "Flood Elimination",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q225",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 225",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q225",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 225",
+  "description" : "Interior Spaces",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q806",
+  "constr_start_fy" : "2017",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 106 MINISCHOOL",
+  "description" : "Paved Area-Blacktop",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q907",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 43 ANNEX",
+  "description" : "Flood Elimination",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q907",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "27",
+  "school_name" : "P.S. 43 ANNEX",
+  "description" : "Interior Spaces",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q195",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "29",
+  "school_name" : "P.S. 195",
+  "description" : "Electrical Systems",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q195",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "29",
+  "school_name" : "P.S. 195",
+  "description" : "Flood Elimination",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q195",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "29",
+  "school_name" : "P.S. 195",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q195",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "29",
+  "school_name" : "P.S. 195",
+  "description" : "Interior Spaces",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q195",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "29",
+  "school_name" : "P.S. 195",
+  "description" : "Reinforcing Support Elements",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "R002",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "31",
+  "school_name" : "I.S. 2",
+  "description" : "Electrical Systems",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R002",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "31",
+  "school_name" : "I.S. 2",
+  "description" : "Flood Elimination",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R002",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "31",
+  "school_name" : "I.S. 2",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R002",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "31",
+  "school_name" : "I.S. 2",
+  "description" : "Interior Spaces",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R052",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "31",
+  "school_name" : "P.S. 52",
+  "description" : "Electrical Systems",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R052",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "31",
+  "school_name" : "P.S. 52",
+  "description" : "Flood Elimination",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R052",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "31",
+  "school_name" : "P.S. 52",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R052",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "31",
+  "school_name" : "P.S. 52",
+  "description" : "Interior Spaces",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R052",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "31",
+  "school_name" : "P.S. 52",
+  "description" : "Playground Redevelopment",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R052",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "31",
+  "school_name" : "P.S. 52",
+  "description" : "Ventilation",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "Q801",
+  "constr_start_fy" : "2017",
+  "program_name" : "Sandy Storm",
+  "district" : "33Q",
+  "school_name" : "OSSS / DSF",
+  "description" : "Electrical Systems",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q801",
+  "constr_start_fy" : "2017",
+  "program_name" : "Sandy Storm",
+  "district" : "33Q",
+  "school_name" : "OSSS / DSF",
+  "description" : "Elevators and Escalators",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q801",
+  "constr_start_fy" : "2017",
+  "program_name" : "Sandy Storm",
+  "district" : "33Q",
+  "school_name" : "OSSS / DSF",
+  "description" : "Fire System Sprinklers",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q801",
+  "constr_start_fy" : "2017",
+  "program_name" : "Sandy Storm",
+  "district" : "33Q",
+  "school_name" : "OSSS / DSF",
+  "description" : "Flood Elimination",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q801",
+  "constr_start_fy" : "2017",
+  "program_name" : "Sandy Storm",
+  "district" : "33Q",
+  "school_name" : "OSSS / DSF",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q801",
+  "constr_start_fy" : "2017",
+  "program_name" : "Sandy Storm",
+  "district" : "33Q",
+  "school_name" : "OSSS / DSF",
+  "description" : "Interior Spaces",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q801",
+  "constr_start_fy" : "2017",
+  "program_name" : "Sandy Storm",
+  "district" : "33Q",
+  "school_name" : "OSSS / DSF",
+  "description" : "Low-Voltage Electrical Systems",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q816",
+  "constr_start_fy" : "2018",
+  "program_name" : "Sandy Storm",
+  "district" : "75Q",
+  "school_name" : "P.S. 256 ANNEX",
+  "description" : "Replacements - New",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "K400",
+  "constr_start_fy" : "2016",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "LAFAYETTE EDUCATIONAL CAMPUS",
+  "description" : "Domestic Piping",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K400",
+  "constr_start_fy" : "2016",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "LAFAYETTE EDUCATIONAL CAMPUS",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K400",
+  "constr_start_fy" : "2016",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "LAFAYETTE EDUCATIONAL CAMPUS",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K400",
+  "constr_start_fy" : "2016",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "LAFAYETTE EDUCATIONAL CAMPUS",
+  "description" : "Interior Spaces",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K410",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "ABRAHAM LINCOLN HS",
+  "description" : "Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K410",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "ABRAHAM LINCOLN HS",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K410",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "ABRAHAM LINCOLN HS",
+  "description" : "Interior Spaces",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K410",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "ABRAHAM LINCOLN HS",
+  "description" : "Ventilation",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K411",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "LINCOLN HS AF",
+  "description" : "Athletic Fields",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K411",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "LINCOLN HS AF",
+  "description" : "Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K411",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "LINCOLN HS AF",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K411",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "LINCOLN HS AF",
+  "description" : "Interior Spaces",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K540",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "JOHN DEWEY HS",
+  "description" : "Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K540",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "JOHN DEWEY HS",
+  "description" : "Interior Spaces",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K620",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "WILLIAM E. GRADY VOC HS",
+  "description" : "Athletic Fields",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K620",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "WILLIAM E. GRADY VOC HS",
+  "description" : "Domestic Piping",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K620",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "WILLIAM E. GRADY VOC HS",
+  "description" : "Electrical Systems",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K620",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "WILLIAM E. GRADY VOC HS",
+  "description" : "Flood Elimination",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K620",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78K",
+  "school_name" : "WILLIAM E. GRADY VOC HS",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "M097",
+  "constr_start_fy" : "2016",
+  "program_name" : "Sandy Storm",
+  "district" : "78M",
+  "school_name" : "BARD COLLEGE HS (OLD M097)",
+  "description" : "Exterior Masonry",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M097",
+  "constr_start_fy" : "2016",
+  "program_name" : "Sandy Storm",
+  "district" : "78M",
+  "school_name" : "BARD COLLEGE HS (OLD M097)",
+  "description" : "Flood Elimination",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "Q410",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78Q",
+  "school_name" : "BEACH CHANNEL EDUCATIONAL CAMPUS",
+  "description" : "Domestic Piping",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q410",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78Q",
+  "school_name" : "BEACH CHANNEL EDUCATIONAL CAMPUS",
+  "description" : "Electrical Systems",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q410",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78Q",
+  "school_name" : "BEACH CHANNEL EDUCATIONAL CAMPUS",
+  "description" : "Flood Elimination",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q410",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78Q",
+  "school_name" : "BEACH CHANNEL EDUCATIONAL CAMPUS",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q410",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78Q",
+  "school_name" : "BEACH CHANNEL EDUCATIONAL CAMPUS",
+  "description" : "Interior Spaces",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "X405",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78X",
+  "school_name" : "HERBERT H. LEHMAN HS",
+  "description" : "Electrical Systems",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X405",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78X",
+  "school_name" : "HERBERT H. LEHMAN HS",
+  "description" : "Flood Elimination",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X405",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78X",
+  "school_name" : "HERBERT H. LEHMAN HS",
+  "description" : "Heating Plant Upgrade",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X405",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78X",
+  "school_name" : "HERBERT H. LEHMAN HS",
+  "description" : "Paved Area-Blacktop",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X405",
+  "constr_start_fy" : "2015",
+  "program_name" : "Sandy Storm",
+  "district" : "78X",
+  "school_name" : "HERBERT H. LEHMAN HS",
+  "description" : "Waste System",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "M015",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "1",
+  "school_name" : "P.S. 15",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M019",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "1",
+  "school_name" : "P.S. 19",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M060",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "1",
+  "school_name" : "J.H.S. 60",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M061",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "1",
+  "school_name" : "P.S. 61",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M063",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "1",
+  "school_name" : "P.S. 63",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M064",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "1",
+  "school_name" : "P.S. 64 (OLD 71)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M064",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "1",
+  "school_name" : "P.S. 64 (OLD 71)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M110",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "1",
+  "school_name" : "P.S. 110",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M110",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "1",
+  "school_name" : "P.S. 110",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M134",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "1",
+  "school_name" : "P.S. 134",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M137",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "1",
+  "school_name" : "P.S. 137",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M137",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "1",
+  "school_name" : "P.S. 137",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M188",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "1",
+  "school_name" : "P.S. 188",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M001",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "P.S. 1",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M002",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "P.S. 2",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M003",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "P.S. 3",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M011",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "P.S. 11",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M017",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "I.S. 17",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M017",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "I.S. 17",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M033",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "P.S. 33",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M033",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "P.S. 33",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M040",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "P.S. 40",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M041",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "P.S. 41",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M042",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "P.S. 42",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M042",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "P.S. 42",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M047",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "J.H.S. 47 (SCH FOR THE DEAF)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M047",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "J.H.S. 47 (SCH FOR THE DEAF)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M070",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "I.S. 70",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M104",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "I.S. 104",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M111",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "P.S. 111",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M116",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "P.S. 116",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M131",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "I.S. 131",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M167",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "I.S. 167",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M167",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "I.S. 167",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M660",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "SCHL OF THE FUTURE (OLD BACON)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M660",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "2",
+  "school_name" : "SCHL OF THE FUTURE (OLD BACON)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M044",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "3",
+  "school_name" : "I.S. 44",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M075",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "3",
+  "school_name" : "P.S. 75",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M076",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "3",
+  "school_name" : "P.S. 76",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M076",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "3",
+  "school_name" : "P.S. 76",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M087",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "3",
+  "school_name" : "P.S. 87",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M113",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "3",
+  "school_name" : "P.S. 241",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M149",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "3",
+  "school_name" : "P.S. 149 (TANDEM M207)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M149",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "3",
+  "school_name" : "P.S. 149 (TANDEM M207)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M165",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "3",
+  "school_name" : "P.S. 165",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M185",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "3",
+  "school_name" : "P.S. 185 (TANDEM M208)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M007",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "4",
+  "school_name" : "P.S. 7",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M045",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "4",
+  "school_name" : "I.S. 45",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M050",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "4",
+  "school_name" : "P.S. 50 (UDC & ECF)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M083",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "4",
+  "school_name" : "P.S. 83",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M096",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "4",
+  "school_name" : "P.S. 96",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M099",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "4",
+  "school_name" : "I.S. 99",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M121",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "4",
+  "school_name" : "P.S. 38 (OLD M121)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M146",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "4",
+  "school_name" : "P.S. 146",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M146",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "4",
+  "school_name" : "P.S. 146",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M155",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "4",
+  "school_name" : "P.S. 155",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M171",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "4",
+  "school_name" : "P.S. 171",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M171",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "4",
+  "school_name" : "P.S. 171",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M036",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "5",
+  "school_name" : "P.S. 36",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M092",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "5",
+  "school_name" : "P.S. 92",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M123",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "5",
+  "school_name" : "P.S. 123",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M129",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "5",
+  "school_name" : "P.S. 129",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M133",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "5",
+  "school_name" : "P.S. 133",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M194",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "5",
+  "school_name" : "P.S. 194",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M197",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "5",
+  "school_name" : "P.S. 197",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M200",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "5",
+  "school_name" : "P.S. 200 (TANDEM M010)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M052",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "6",
+  "school_name" : "I.S. 52",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M090",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "6",
+  "school_name" : "I.S. 90",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M115",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "6",
+  "school_name" : "P.S. 115",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M128",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "6",
+  "school_name" : "P.S. 128",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M132",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "6",
+  "school_name" : "P.S. 132",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M143",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "6",
+  "school_name" : "I.S. 143",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M152",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "6",
+  "school_name" : "P.S. 152",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M164",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "6",
+  "school_name" : "I.S. 164",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M187",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "6",
+  "school_name" : "P.S./I.S. 187",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M189",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "6",
+  "school_name" : "P.S. 189",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M848",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "6",
+  "school_name" : "P.S. 192 MINISCHOOL",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M859",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "6",
+  "school_name" : "I.S. 143 MINISCHOOL",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M898",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "6",
+  "school_name" : "P.S. 18",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "X018",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "7",
+  "school_name" : "P.S. 18",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X025",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "7",
+  "school_name" : "P.S. 25",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X027",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "7",
+  "school_name" : "P.S. 277",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X027",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "7",
+  "school_name" : "P.S. 277",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X049",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "7",
+  "school_name" : "P.S. 49",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X065",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "7",
+  "school_name" : "P.S. 65",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X139",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "7",
+  "school_name" : "J.H.S. 222",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X151",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "7",
+  "school_name" : "I.S. 151",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X156",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "7",
+  "school_name" : "P.S. 156",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X157",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "7",
+  "school_name" : "P.S. 157",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X184",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "7",
+  "school_name" : "I.S. 184",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X062",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "8",
+  "school_name" : "P.S. 62",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X062",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "8",
+  "school_name" : "P.S. 62",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X071",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "8",
+  "school_name" : "P.S. 71",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X101",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "8",
+  "school_name" : "I.S. 101",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X107",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "8",
+  "school_name" : "P.S. 107",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X107",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "8",
+  "school_name" : "P.S. 107",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X125",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "8",
+  "school_name" : "I.S. 125",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X131",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "8",
+  "school_name" : "I.S. 131",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X174",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "8",
+  "school_name" : "I.S. 174",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X192",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "8",
+  "school_name" : "I.S. 192",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X011",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "9",
+  "school_name" : "P.S. 11",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X022",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "9",
+  "school_name" : "I.S. 22",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X028",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "9",
+  "school_name" : "P.S. 28",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X035",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "9",
+  "school_name" : "P.S. 35",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X035",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "9",
+  "school_name" : "P.S. 35",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X055",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "9",
+  "school_name" : "P.S. 55",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X058",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "9",
+  "school_name" : "P.S. 58",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X063",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "9",
+  "school_name" : "P.S. 63",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X073",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "9",
+  "school_name" : "P.S. 73",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X082",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "9",
+  "school_name" : "I.S. 232",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X082",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "9",
+  "school_name" : "I.S. 232",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X109",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "9",
+  "school_name" : "P.S. 109",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X109",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "9",
+  "school_name" : "P.S. 109",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X114",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "9",
+  "school_name" : "P.S. 114",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X117",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "9",
+  "school_name" : "I.S. 117",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X132",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "9",
+  "school_name" : "P.S. 132",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X147",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "9",
+  "school_name" : "I.S. 339 (OLD 147)",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X026",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "10",
+  "school_name" : "P.S. 396",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X045",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "10",
+  "school_name" : "I.S. 45",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X046",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "10",
+  "school_name" : "P.S. 46 ADDITION",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X059",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "10",
+  "school_name" : "P.S. 59",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X081",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "10",
+  "school_name" : "P.S. 81",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X085",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "10",
+  "school_name" : "P.S. 85",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X086",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "10",
+  "school_name" : "P.S. 86",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X091",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "10",
+  "school_name" : "P.S. 91",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X094",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "10",
+  "school_name" : "P.S. 94",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X143",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "10",
+  "school_name" : "I.S. 143",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X206",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "10",
+  "school_name" : "I.S. 206B",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X016",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "11",
+  "school_name" : "P.S. 16",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X016",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "11",
+  "school_name" : "P.S. 16",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X041",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "11",
+  "school_name" : "P.S. 41",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X068",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "11",
+  "school_name" : "P.S. 68",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X078",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "11",
+  "school_name" : "P.S. 78",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X087",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "11",
+  "school_name" : "P.S. 87",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X105",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "11",
+  "school_name" : "P.S. 105",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X113",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "11",
+  "school_name" : "I.S. 113",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X121",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "11",
+  "school_name" : "P.S. 121",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X135",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "11",
+  "school_name" : "I.S. 135",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X050",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "12",
+  "school_name" : "P.S. 50",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X057",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "12",
+  "school_name" : "P.S. 57",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X067",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "12",
+  "school_name" : "P.S. 67",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X098",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "12",
+  "school_name" : "I.S. 98",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X098",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "12",
+  "school_name" : "I.S. 98",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X098",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "12",
+  "school_name" : "I.S. 98",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X158",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "12",
+  "school_name" : "I.S. 158",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X167",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "12",
+  "school_name" : "P.S. 214",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "K003",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "13",
+  "school_name" : "P.S. 3",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K003",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "13",
+  "school_name" : "P.S. 3",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K020",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "13",
+  "school_name" : "P.S. 20",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K067",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "13",
+  "school_name" : "P.S. 67",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K113",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "13",
+  "school_name" : "I.S. 113",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K113",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "13",
+  "school_name" : "I.S. 113",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K282",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "13",
+  "school_name" : "P.S. 282",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K305",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "13",
+  "school_name" : "P.S. 305",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K307",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "13",
+  "school_name" : "P.S. 307",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K016",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "14",
+  "school_name" : "P.S. 16",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K017",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "14",
+  "school_name" : "P.S. 17",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K018",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "14",
+  "school_name" : "P.S. 18",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K031",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "14",
+  "school_name" : "P.S. 31 (OLD 126)",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K033",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "14",
+  "school_name" : "I.S. 33",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K034",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "14",
+  "school_name" : "P.S. 34",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K049",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "14",
+  "school_name" : "I.S. 49",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K071",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "14",
+  "school_name" : "I.S. 71",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K071",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "14",
+  "school_name" : "I.S. 71",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K120",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "14",
+  "school_name" : "P.S. 120",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K147",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "14",
+  "school_name" : "P.S. 147",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K157",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "14",
+  "school_name" : "P.S. 157",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K196",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "14",
+  "school_name" : "P.S. 196",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K250",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "14",
+  "school_name" : "P.S. 250",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K257",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "14",
+  "school_name" : "P.S. 257",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K297",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "14",
+  "school_name" : "P.S. 297",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K015",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "15",
+  "school_name" : "P.S. 15",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K027",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "15",
+  "school_name" : "P.S. 27",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K029",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "15",
+  "school_name" : "P.S. 29",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K032",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "15",
+  "school_name" : "P.S. 32 ADDITION",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K038",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "15",
+  "school_name" : "P.S. 38",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K051",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "15",
+  "school_name" : "I.S. 51",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K088",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "15",
+  "school_name" : "I.S. 88",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K088",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "15",
+  "school_name" : "I.S. 88",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K107",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "15",
+  "school_name" : "P.S. 107",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K124",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "15",
+  "school_name" : "P.S. 124",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K124",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "15",
+  "school_name" : "P.S. 124",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K130",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "15",
+  "school_name" : "P.S. 130",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K154",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "15",
+  "school_name" : "P.S. 154",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K293",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "15",
+  "school_name" : "J.H.S. 293",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K321",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "15",
+  "school_name" : "P.S. 321",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K005",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "16",
+  "school_name" : "P.S. 5",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K021",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "16",
+  "school_name" : "P.S. 21",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K081",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "16",
+  "school_name" : "P.S. 81",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K262",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "16",
+  "school_name" : "P.S. 262",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K304",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "16",
+  "school_name" : "P.S. 304",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K308",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "16",
+  "school_name" : "P.S. 308",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K324",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "16",
+  "school_name" : "I.S. 324",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K335",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "16",
+  "school_name" : "P.S. 335",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K061",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "17",
+  "school_name" : "I.S. 61",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K061",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "17",
+  "school_name" : "I.S. 61",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K138",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "17",
+  "school_name" : "P.S. 138",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K189",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "17",
+  "school_name" : "P.S. 189",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K191",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "17",
+  "school_name" : "P.S. 191",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K210",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "17",
+  "school_name" : "I.S. 394",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K241",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "17",
+  "school_name" : "P.S. 241",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K246",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "17",
+  "school_name" : "I.S. 246",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K249",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "17",
+  "school_name" : "P.S. 249",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K391",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "17",
+  "school_name" : "I.S. 391",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K398",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "17",
+  "school_name" : "P.S. 398 (UDC)",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K114",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "18",
+  "school_name" : "P.S. 114",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K115",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "18",
+  "school_name" : "P.S. 115",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K135",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "18",
+  "school_name" : "P.S. 135",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K208",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "18",
+  "school_name" : "P.S. 208",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K211",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "18",
+  "school_name" : "I.S. 211",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K232",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "18",
+  "school_name" : "I.S. 232",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K233",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "18",
+  "school_name" : "P.S. 233",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K235",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "18",
+  "school_name" : "P.S. 235",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K242",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "18",
+  "school_name" : "P.S. 235 ANNEX",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K252",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "18",
+  "school_name" : "I.S. 252",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K272",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "18",
+  "school_name" : "P.S. 272",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K279",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "18",
+  "school_name" : "P.S. 279",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K072",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "19",
+  "school_name" : "P.S. 72",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K158",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "19",
+  "school_name" : "P.S. 158",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K159",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "19",
+  "school_name" : "P.S. 159",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K166",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "19",
+  "school_name" : "I.S. 166",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K171",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "19",
+  "school_name" : "I.S. 171",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K174",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "19",
+  "school_name" : "P.S. 174",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K202",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "19",
+  "school_name" : "P.S. 202",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K202",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "19",
+  "school_name" : "P.S. 202",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K218",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "19",
+  "school_name" : "I.S. 218",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K306",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "19",
+  "school_name" : "P.S. 306",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K345",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "19",
+  "school_name" : "P.S. 345",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K048",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "20",
+  "school_name" : "P.S. 48",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K102",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "20",
+  "school_name" : "P.S. 102",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K163",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "20",
+  "school_name" : "P.S. 163",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K179",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "20",
+  "school_name" : "P.S. 179",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K180",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "20",
+  "school_name" : "P.S. 180",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K192",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "20",
+  "school_name" : "P.S. 192",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K247",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "20",
+  "school_name" : "P.S. 247",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K259",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "20",
+  "school_name" : "I.S. 259",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K314",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "20",
+  "school_name" : "P.S. 314",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K486",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "20",
+  "school_name" : "I.S. 187",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K043",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "I.S. 98",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K090",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "P.S. 90",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K095",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "P.S. 95",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K095",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "P.S. 95",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K097",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "P.S. 97 ADDITION",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K099",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "P.S. 99",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K100",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "P.S. 100",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K153",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "P.S. 153",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K209",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "P.S. 209",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K216",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "P.S. 216",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K225",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "P.S. 225",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K228",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "I.S. 228",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K228",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "I.S. 228",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K238",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "P.S. 238",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K239",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "I.S. 239",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K288",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "P.S. 288",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K303",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "I.S. 303",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K329",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "21",
+  "school_name" : "P.S. 329",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K014",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "22",
+  "school_name" : "I.S. 14",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K052",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "22",
+  "school_name" : "P.S. 52",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K078",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "22",
+  "school_name" : "I.S. 78",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K119",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "22",
+  "school_name" : "P.S. 119",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K139",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "22",
+  "school_name" : "P.S. 139",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K193",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "22",
+  "school_name" : "P.S. 193",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K197",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "22",
+  "school_name" : "P.S. 197",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K207",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "22",
+  "school_name" : "P.S. 207",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K217",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "22",
+  "school_name" : "P.S. 217",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K222",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "22",
+  "school_name" : "P.S. 222",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K849",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "22",
+  "school_name" : "P.S. 134",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K852",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "22",
+  "school_name" : "P.S. 326",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K864",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "22",
+  "school_name" : "P.S. 361  (OLD 89)",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K041",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "23",
+  "school_name" : "P.S. 41",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K073",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "23",
+  "school_name" : "P.S. 73",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K137",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "23",
+  "school_name" : "P.S. 137",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K150",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "23",
+  "school_name" : "P.S. 150",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K150",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "23",
+  "school_name" : "P.S. 150",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K155",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "23",
+  "school_name" : "P.S. 155",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K165",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "23",
+  "school_name" : "P.S. 165",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K165",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "23",
+  "school_name" : "P.S. 165",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K275",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "23",
+  "school_name" : "I.S. 275",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K327",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "23",
+  "school_name" : "P.S. 327 (TANDEM K396-D75)",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "Q012",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "24",
+  "school_name" : "P.S. 12",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q014",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "24",
+  "school_name" : "P.S. 14",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q014",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "24",
+  "school_name" : "P.S. 14",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q049",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "24",
+  "school_name" : "P.S. 49 ADDITION",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q058",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "24",
+  "school_name" : "P.S. 58",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q071",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "24",
+  "school_name" : "P.S. 71",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q073",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "24",
+  "school_name" : "I.S. 73",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q081",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "24",
+  "school_name" : "P.S. 81",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q087",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "24",
+  "school_name" : "P.S. 87",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q089",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "24",
+  "school_name" : "P.S. 89",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q091",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "24",
+  "school_name" : "P.S. 91",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q119",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "24",
+  "school_name" : "I.S. 119",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q143",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "24",
+  "school_name" : "P.S. 143 ADDITION",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q229",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "24",
+  "school_name" : "P.S. 229",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q721",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "24",
+  "school_name" : "P.S. 16 (OLD Q721 SPED)",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q848",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "24",
+  "school_name" : "P.S. 81 ANNEX (OLD 75)",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q022",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "25",
+  "school_name" : "P.S. 22",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q025",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "25",
+  "school_name" : "J.H.S. 25",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q025",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "25",
+  "school_name" : "J.H.S. 25",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q032",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "25",
+  "school_name" : "P.S. 32",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q107",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "25",
+  "school_name" : "P.S. 107",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q129",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "25",
+  "school_name" : "P.S. 129 ADDITION",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q130",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "25",
+  "school_name" : "P.S. 130",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q164",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "25",
+  "school_name" : "P.S. 164",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q169",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "25",
+  "school_name" : "P.S. 169",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q185",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "25",
+  "school_name" : "J.H.S. 185",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q237",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "25",
+  "school_name" : "J.H.S. 237",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q041",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "26",
+  "school_name" : "P.S. 41",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q046",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "26",
+  "school_name" : "P.S. 46",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q067",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "26",
+  "school_name" : "J.H.S. 67",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q074",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "26",
+  "school_name" : "I.S. 74",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q094",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "26",
+  "school_name" : "P.S. 94",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q094",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "26",
+  "school_name" : "P.S. 94",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q098",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "26",
+  "school_name" : "P.S. 98",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q115",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "26",
+  "school_name" : "THE JAMES J. AMBROSE SCHOOL",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q133",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "26",
+  "school_name" : "P.S. 133",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q158",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "26",
+  "school_name" : "J.H.S. 158",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q159",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "26",
+  "school_name" : "P.S. 159",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q173",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "26",
+  "school_name" : "P.S. 173",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q216",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "26",
+  "school_name" : "J.H.S. 216",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q045",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 45",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q056",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 56 (OLD R HILL AX)",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q060",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 60",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q063",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 63",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q063",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 63",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q064",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 64",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q066",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 66 ADDITION",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q090",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 90",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q100",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 100",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q100",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 100",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q105",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 105",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q106",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 106",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q108",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 108",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q123",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 123",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q124",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 124",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q146",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 146",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q155",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 155",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q180",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "I.S. 323 (OLD IS 180)",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q180",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "I.S. 323 (OLD IS 180)",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q183",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 183",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q197",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 197",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q210",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "I.S. 210",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q215",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 215",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q232",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "27",
+  "school_name" : "P.S. 232",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q030",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "28",
+  "school_name" : "P.S. 30",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q040",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "28",
+  "school_name" : "P.S. 40",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q054",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "28",
+  "school_name" : "P.S. 54",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q080",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "28",
+  "school_name" : "P.S. 80",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q140",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "28",
+  "school_name" : "P.S. 140",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q140",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "28",
+  "school_name" : "P.S. 140",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q144",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "28",
+  "school_name" : "P.S. 144 ADDITION",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q157",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "28",
+  "school_name" : "J.H.S. 157",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q217",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "28",
+  "school_name" : "I.S. 217",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q220",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "28",
+  "school_name" : "P.S. 220",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q034",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "29",
+  "school_name" : "P.S. 34",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q036",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "29",
+  "school_name" : "P.S. 36",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q052",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "29",
+  "school_name" : "P.S. 52",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q095",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "29",
+  "school_name" : "P.S. 95",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q116",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "29",
+  "school_name" : "P.S. 116",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q118",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "29",
+  "school_name" : "P.S. 118",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q131",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "29",
+  "school_name" : "P.S. 131",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q136",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "29",
+  "school_name" : "P.S. 136",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q138",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "29",
+  "school_name" : "P.S. 138",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q147",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "29",
+  "school_name" : "P.S. 147",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q195",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "29",
+  "school_name" : "P.S. 195",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q238",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "29",
+  "school_name" : "I.S. 238",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q002",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "30",
+  "school_name" : "P.S. 2",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q076",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "30",
+  "school_name" : "P.S. 76",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q084",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "30",
+  "school_name" : "P.S. 84",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q084",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "30",
+  "school_name" : "P.S. 84",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q085",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "30",
+  "school_name" : "P.S. 85",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q111",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "30",
+  "school_name" : "P.S. 111",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q111",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "30",
+  "school_name" : "P.S. 111",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q112",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "30",
+  "school_name" : "P.S. 112",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q126",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "30",
+  "school_name" : "I.S. 126",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q127",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "30",
+  "school_name" : "P.S. 127",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q141",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "30",
+  "school_name" : "I.S. 141",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q148",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "30",
+  "school_name" : "P.S. 148",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q150",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "30",
+  "school_name" : "P.S. 150",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q151",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "30",
+  "school_name" : "P.S. 151",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q152",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "30",
+  "school_name" : "P.S. 152",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q204",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "30",
+  "school_name" : "I.S. 204",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "R002",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "I.S. 2",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R008",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "P.S. 8",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R011",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "P.S. 11",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R014",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "P.S. 14",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R016",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "P.S. 16",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R018",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "P.S. 18",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R021",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "P.S. 21",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R022",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "P.S. 22",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R026",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "P.S. 26",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R027",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "I.S. 27",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R032",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "P.S. 32",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R035",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "P.S. 35",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R041",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "P.S. 41",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R046",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "P.S. 46",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R049",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "I.S. 49",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R054",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "P.S. 54",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R057",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "P.S. 57",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R059",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "THE HARBOR VIEW SCHOOL",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R061",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "I.S. 61",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R072",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "I.S. 72",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R848",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "P.S. 42 ANNEX",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R880",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "31",
+  "school_name" : "P.S. 80 (PETR COMPL-BLDG B)",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "K045",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "32",
+  "school_name" : "P.S. 45",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K045",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "32",
+  "school_name" : "P.S. 45",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K086",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "32",
+  "school_name" : "P.S. 86",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K106",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "32",
+  "school_name" : "P.S. 106",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K145",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "32",
+  "school_name" : "P.S. 145",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K145",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "32",
+  "school_name" : "P.S. 145",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K151",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "32",
+  "school_name" : "P.S. 151",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K291",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "32",
+  "school_name" : "I.S. 291",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K148",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "75K",
+  "school_name" : "P.S. 373 (OLD P148)",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K371",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "75K",
+  "school_name" : "P.S. 371 (OLD 615)",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K722",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "75K",
+  "school_name" : "P.S. 721 OTC",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K834",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "75K",
+  "school_name" : "P.S. 372 (OUR LADY OF PEACE)",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "M058",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "75M",
+  "school_name" : "P.S. 35 (OLD 58/MNHT HS)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "Q177",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "75Q",
+  "school_name" : "P.S. 177",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "R025",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "75R",
+  "school_name" : "P.S. 25 ANNEX (OLD 4)",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R040",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "75R",
+  "school_name" : "P.S. 373 (OLD P40)",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "X136",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "75X",
+  "school_name" : "P.S. 186 (OLD J136)",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "K430",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78K",
+  "school_name" : "BROOKLYN TECH HS",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K460",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78K",
+  "school_name" : "JOHN JAY EDUCATIONAL CAMPUS",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K465",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "78K",
+  "school_name" : "ERASMUS HALL CAMPUS",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K470",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "78K",
+  "school_name" : "GEORGE W. WINGATE HS",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K490",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78K",
+  "school_name" : "FORT HAMILTON HS",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K505",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "78K",
+  "school_name" : "FRANKLIN D. ROOSEVELT HS",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K615",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "78K",
+  "school_name" : "E NY VOC HS OF TRANSIT TECH.",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K804",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78K",
+  "school_name" : "COBBLE HILL SCL OF AMR STD (OL6)",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K805",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "78K",
+  "school_name" : "WATERS EDGE EDUCATIONAL COMPLEX",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K806",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78K",
+  "school_name" : "METROPOLITAN CORPORATE ACAD.",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K932",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78K",
+  "school_name" : "HIGH SCHOOL SUSPENSION CENTER",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "M097",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78M",
+  "school_name" : "BARD COLLEGE HS (OLD M097)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M107",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "78M",
+  "school_name" : "THE HERITAGE SCHOOL",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M136",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "78M",
+  "school_name" : "I.S. 136",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M435",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "78M",
+  "school_name" : "MANHTN CT FOR MATH & SCI. HS",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M440",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "78M",
+  "school_name" : "BAYARD RUSTIN EDUCATIONAL COMP",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M446",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "78M",
+  "school_name" : "UNIVERSITY NEIGHBORHOOD",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M465",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "78M",
+  "school_name" : "G. WASHINGTON HS EDUC. CAMPUS",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M501",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "78M",
+  "school_name" : "ARTHUR SCHOMBURG HS (IS 201)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M510",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "78M",
+  "school_name" : "FORSYTH HS (AUXSVC-OLD 91)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "K420",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "78Q",
+  "school_name" : "FRANKLIN K. LANE HS",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q400",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78Q",
+  "school_name" : "AUGUST MARTIN HS",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q410",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "78Q",
+  "school_name" : "BEACH CHANNEL EDUCATIONAL CAMPUS",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q445",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78Q",
+  "school_name" : "WILLIAM C. BRYANT HS",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q445",
+  "constr_start_fy" : "2015",
+  "program_name" : "Student Bathrooms",
+  "district" : "78Q",
+  "school_name" : "WILLIAM C. BRYANT HS",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q445",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "78Q",
+  "school_name" : "WILLIAM C. BRYANT HS",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q455",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78Q",
+  "school_name" : "NEWTOWN HS",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q455",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "78Q",
+  "school_name" : "NEWTOWN HS",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q460",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78Q",
+  "school_name" : "FLUSHING HS",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q465",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78Q",
+  "school_name" : "FAR ROCKAWAY HS",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q470",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78Q",
+  "school_name" : "JAMAICA HS",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q475",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78Q",
+  "school_name" : "RICHMOND HILL HS",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q595",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78Q",
+  "school_name" : "AUX. SERV. - JAMAICA LEARN CT",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "R435",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "78R",
+  "school_name" : "NEW DORP HS (NEW)",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R440",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "78R",
+  "school_name" : "STATEN ISLAND TECHNICAL HS",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R450",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "78R",
+  "school_name" : "CURTIS HS",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "R455",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78R",
+  "school_name" : "TOTTENVILLE HS",
+  "borough" : "Staten Island"
+}
+, {
+  "building_id" : "X039",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "78X",
+  "school_name" : "NEW SCH FOR ARTS AND SCIENCE",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X400",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78X",
+  "school_name" : "MORRIS HS",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X401",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78X",
+  "school_name" : "BRONX REGIONAL HS (OLD 133)",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X405",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "78X",
+  "school_name" : "HERBERT H. LEHMAN HS",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X410",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "78X",
+  "school_name" : "WILLIAM H. TAFT HS",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X415",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78X",
+  "school_name" : "CHRISTOPHER COLUMBUS HS",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X425",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "78X",
+  "school_name" : "EVANDER CHILDS HS",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X425",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78X",
+  "school_name" : "EVANDER CHILDS HS",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X435",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78X",
+  "school_name" : "THEODORE ROOSEVELT EDUCATIONAL CAMPUS",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X440",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78X",
+  "school_name" : "DEWITT CLINTON HS",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X440",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "78X",
+  "school_name" : "DEWITT CLINTON HS",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X450",
+  "constr_start_fy" : "2017",
+  "program_name" : "Student Bathrooms",
+  "district" : "78X",
+  "school_name" : "ADLAI E. STEVENSON EDUCATIONAL CAMPUS",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X455",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78X",
+  "school_name" : "HARRY S. TRUMAN HS",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X470",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78X",
+  "school_name" : "SOUTH BRONX EDUCATIONAL CAMPUS (OLD 38)",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X475",
+  "constr_start_fy" : "2018",
+  "program_name" : "Student Bathrooms",
+  "district" : "78X",
+  "school_name" : "JOHN F. KENNEDY HS",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X475",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78X",
+  "school_name" : "JOHN F. KENNEDY HS",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X600",
+  "constr_start_fy" : "2016",
+  "program_name" : "Student Bathrooms",
+  "district" : "78X",
+  "school_name" : "ALFRED E. SMITH HS",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "M015",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "1",
+  "school_name" : "P.S. 15",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M019",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "1",
+  "school_name" : "P.S. 19",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M025",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "1",
+  "school_name" : "J.H.S. 25",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M056",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "1",
+  "school_name" : "J.H.S. 56",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M061",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "1",
+  "school_name" : "P.S. 61",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M134",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "1",
+  "school_name" : "P.S. 134",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M140",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "1",
+  "school_name" : "P.S. 140",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M142",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "1",
+  "school_name" : "P.S. 142",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M188",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "1",
+  "school_name" : "P.S. 188",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M001",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "2",
+  "school_name" : "P.S. 1",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M002",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "2",
+  "school_name" : "P.S. 2",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M003",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "2",
+  "school_name" : "P.S. 3",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M006",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "2",
+  "school_name" : "P.S. 6",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M017",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "2",
+  "school_name" : "I.S. 17",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M040",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "2",
+  "school_name" : "P.S. 40",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M047",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "2",
+  "school_name" : "J.H.S. 47 (SCH FOR THE DEAF)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M070",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "2",
+  "school_name" : "I.S. 70",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M104",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "2",
+  "school_name" : "I.S. 104",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M116",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "2",
+  "school_name" : "P.S. 116",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M124",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "2",
+  "school_name" : "P.S. 124 (ECF)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M183",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "2",
+  "school_name" : "P.S. 183",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M183",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "2",
+  "school_name" : "P.S. 183",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M777",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "2",
+  "school_name" : "FIT",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M009",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "3",
+  "school_name" : "P.S. 9",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M044",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "3",
+  "school_name" : "I.S. 44",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M054",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "3",
+  "school_name" : "I.S. 54",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M075",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "3",
+  "school_name" : "P.S. 75",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M088",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "3",
+  "school_name" : "I.S. 88",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M113",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "3",
+  "school_name" : "P.S. 241",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M118",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "3",
+  "school_name" : "I.S. 118",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M149",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "3",
+  "school_name" : "P.S. 149 (TANDEM M207)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M163",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "3",
+  "school_name" : "P.S. 163",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M166",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "3",
+  "school_name" : "P.S. 166",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M166",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "3",
+  "school_name" : "P.S. 166",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M199",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "3",
+  "school_name" : "P.S. 199",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M207",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "3",
+  "school_name" : "P.S. 207 (TANDEM M149)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M045",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "4",
+  "school_name" : "I.S. 45",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M050",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "4",
+  "school_name" : "P.S. 50 (UDC & ECF)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M072",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "4",
+  "school_name" : "P.S. 72",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M102",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "4",
+  "school_name" : "P.S. 102",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M117",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "4",
+  "school_name" : "J.H.S. 117",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M121",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "4",
+  "school_name" : "P.S. 38 (OLD M121)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M010",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "5",
+  "school_name" : "I.S. 10 (TANDEM M200)",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M030",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "5",
+  "school_name" : "P.S. 30",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M036",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "5",
+  "school_name" : "P.S. 36",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M046",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "5",
+  "school_name" : "P.S. 46",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M125",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "5",
+  "school_name" : "P.S. 125",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M175",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "5",
+  "school_name" : "P.S. 175",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M194",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "5",
+  "school_name" : "P.S. 194",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M197",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "5",
+  "school_name" : "P.S. 197",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M028",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "6",
+  "school_name" : "P.S. 28",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M052",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "6",
+  "school_name" : "I.S. 52",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M098",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "6",
+  "school_name" : "P.S. 98",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M115",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "6",
+  "school_name" : "P.S. 115",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M143",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "6",
+  "school_name" : "I.S. 143",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M152",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "6",
+  "school_name" : "P.S. 152",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M153",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "6",
+  "school_name" : "P.S. 153",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M164",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "6",
+  "school_name" : "I.S. 164",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M187",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "6",
+  "school_name" : "P.S./I.S. 187",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M192",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "6",
+  "school_name" : "P.S. 192",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "M898",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "6",
+  "school_name" : "P.S. 18",
+  "borough" : "Manhattan"
+}
+, {
+  "building_id" : "X001",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "7",
+  "school_name" : "P.S. 1",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X025",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "7",
+  "school_name" : "P.S. 25",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X027",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "7",
+  "school_name" : "P.S. 277",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X043",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "7",
+  "school_name" : "P.S. 43",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X065",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "7",
+  "school_name" : "P.S. 65",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X139",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "7",
+  "school_name" : "J.H.S. 222",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X149",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "7",
+  "school_name" : "J.H.S. 149",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X151",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "7",
+  "school_name" : "I.S. 151",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X154",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "7",
+  "school_name" : "P.S. 154",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X156",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "7",
+  "school_name" : "P.S. 156",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X157",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "7",
+  "school_name" : "P.S. 157",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X161",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "7",
+  "school_name" : "P.S. 161",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X184",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "7",
+  "school_name" : "I.S. 184",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X052",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "8",
+  "school_name" : "I.S. 302",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X071",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "8",
+  "school_name" : "P.S. 71",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X072",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "8",
+  "school_name" : "P.S. 72",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X074",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "8",
+  "school_name" : "I.S. 201",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X075",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "8",
+  "school_name" : "P.S. 75",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X093",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "8",
+  "school_name" : "P.S. 93",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X101",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "8",
+  "school_name" : "I.S. 101",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X107",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "8",
+  "school_name" : "P.S. 107",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X119",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "8",
+  "school_name" : "P.S. 119",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X125",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "8",
+  "school_name" : "I.S. 125",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X130",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "8",
+  "school_name" : "P.S. 130",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X146",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "8",
+  "school_name" : "P.S. 146",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X174",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "8",
+  "school_name" : "I.S. 174",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X182",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "8",
+  "school_name" : "P.S. 182",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X848",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "8",
+  "school_name" : "P.S. 48 AX (HNTS PNT ECC1)",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X004",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "P.S. 4",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X022",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "I.S. 22",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X035",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "P.S. 35",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X055",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "P.S. 55",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X058",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "P.S. 58",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X064",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "P.S. 64",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X073",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "P.S. 73",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X082",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "I.S. 232",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X090",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "P.S. 90",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X109",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "P.S. 109",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X114",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "P.S. 114",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X126",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "P.S. 126 (ECF)",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X132",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "P.S. 132",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X145",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "I.S. 145",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X147",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "I.S. 339 (OLD 147)",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X163",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "P.S. 163",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X166",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "I.S. 166",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X229",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "P.S. 230/I.S. 229 (UDC)",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X235",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "P.S./I.S. 218",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X236",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "P.S. 236 ANNEX (P173 ECC)",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X824",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "9",
+  "school_name" : "P.S. 204",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X007",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "10",
+  "school_name" : "P.S. 7",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X009",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "10",
+  "school_name" : "P.S. 9 (OLD 115)",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X024",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "10",
+  "school_name" : "P.S. 24",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X033",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "10",
+  "school_name" : "P.S. 33",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X045",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "10",
+  "school_name" : "I.S. 45",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X079",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "10",
+  "school_name" : "P.S. 79",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X080",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "10",
+  "school_name" : "I.S. 80/P.S. 280",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X081",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "10",
+  "school_name" : "P.S. 81",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X085",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "10",
+  "school_name" : "P.S. 85",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X086",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "10",
+  "school_name" : "P.S. 86",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X091",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "10",
+  "school_name" : "P.S. 91",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X115",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "10",
+  "school_name" : "I.S. 399 (OLD X HS/115)",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X122",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "10",
+  "school_name" : "P.S. 310",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X137",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "10",
+  "school_name" : "I.S. 391 (UDC)",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X143",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "10",
+  "school_name" : "I.S. 143",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X016",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "11",
+  "school_name" : "P.S. 16",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X019",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "11",
+  "school_name" : "P.S. 19",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X041",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "11",
+  "school_name" : "P.S. 41",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X083",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "11",
+  "school_name" : "P.S. 83",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X087",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "11",
+  "school_name" : "P.S. 87",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X089",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "11",
+  "school_name" : "P.S. 89",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X103",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "11",
+  "school_name" : "P.S. 103",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X105",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "11",
+  "school_name" : "P.S. 105",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X111",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "11",
+  "school_name" : "P.S. 111",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X112",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "11",
+  "school_name" : "P.S. 112",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X113",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "11",
+  "school_name" : "I.S. 113",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X121",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "11",
+  "school_name" : "P.S. 121",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X127",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "11",
+  "school_name" : "I.S. 127",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X160",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "11",
+  "school_name" : "P.S. 160",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X175",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "11",
+  "school_name" : "P.S. 175",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X047",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "12",
+  "school_name" : "P.S. 47",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X061",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "12",
+  "school_name" : "P.S. 61",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X077",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "12",
+  "school_name" : "P.S. 195",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X092",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "12",
+  "school_name" : "P.S. 92",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X102",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "12",
+  "school_name" : "P.S. 102",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X116",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "12",
+  "school_name" : "I.S. 216",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X158",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "12",
+  "school_name" : "I.S. 158",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X167",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "12",
+  "school_name" : "P.S. 214",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X193",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "12",
+  "school_name" : "P.S. 211",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "X198",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "12",
+  "school_name" : "P.S. 198",
+  "borough" : "Bronx"
+}
+, {
+  "building_id" : "K003",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "13",
+  "school_name" : "P.S. 3",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K008",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "13",
+  "school_name" : "P.S. 8",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K011",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "13",
+  "school_name" : "P.S. 11",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K044",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "13",
+  "school_name" : "P.S. 44",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K056",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "13",
+  "school_name" : "P.S. 56",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K067",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "13",
+  "school_name" : "P.S. 67",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K093",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "13",
+  "school_name" : "P.S. 93",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K270",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "13",
+  "school_name" : "P.S. 270",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K270",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "13",
+  "school_name" : "P.S. 270",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K287",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "13",
+  "school_name" : "P.S. 287",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K017",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "14",
+  "school_name" : "P.S. 17",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K017",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "14",
+  "school_name" : "P.S. 17",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K031",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "14",
+  "school_name" : "P.S. 31 (OLD 126)",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K071",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "14",
+  "school_name" : "I.S. 71",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K084",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "14",
+  "school_name" : "P.S. 84",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K110",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "14",
+  "school_name" : "P.S. 110",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K196",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "14",
+  "school_name" : "P.S. 196",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K318",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "14",
+  "school_name" : "I.S. 318",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K319",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "14",
+  "school_name" : "P.S. 319",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K010",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "15",
+  "school_name" : "P.S. 10",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K027",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "15",
+  "school_name" : "P.S. 27",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K038",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "15",
+  "school_name" : "P.S. 38",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K039",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "15",
+  "school_name" : "P.S. 39",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K088",
+  "constr_start_fy" : "2017",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "15",
+  "school_name" : "I.S. 88",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K094",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "15",
+  "school_name" : "P.S. 94",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K131",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "15",
+  "school_name" : "P.S. 131",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K154",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "15",
+  "school_name" : "P.S. 154",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K169",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "15",
+  "school_name" : "P.S. 169",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K172",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "15",
+  "school_name" : "P.S. 172",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K230",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "15",
+  "school_name" : "P.S. 230",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K321",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "15",
+  "school_name" : "P.S. 321",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K763",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "15",
+  "school_name" : "P.S. 118 MAURICE SENDAK COMMUNITY SCHOOL",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K845",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "15",
+  "school_name" : "P.S. 295",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K908",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "15",
+  "school_name" : "P.S. 230 ANNEX",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K025",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "16",
+  "school_name" : "P.S. 25",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K035",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "16",
+  "school_name" : "I.S. 35",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K040",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "16",
+  "school_name" : "P.S. 40",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K057",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "16",
+  "school_name" : "J.H.S. 57",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K057",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "16",
+  "school_name" : "J.H.S. 57",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K243",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "16",
+  "school_name" : "P.S. 243",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K309",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "16",
+  "school_name" : "P.S. 309",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K309",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "16",
+  "school_name" : "P.S. 309",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K092",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "17",
+  "school_name" : "P.S. 92",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K191",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "17",
+  "school_name" : "P.S. 191",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K210",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "17",
+  "school_name" : "I.S. 394",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K241",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "17",
+  "school_name" : "P.S. 241",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K241",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "17",
+  "school_name" : "P.S. 241",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K246",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "17",
+  "school_name" : "I.S. 246",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K289",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "17",
+  "school_name" : "P.S. 289",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K289",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "17",
+  "school_name" : "P.S. 289",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K390",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "17",
+  "school_name" : "I.S. 390",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K391",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "17",
+  "school_name" : "I.S. 391",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K397",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "17",
+  "school_name" : "P.S. 397",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K398",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "17",
+  "school_name" : "P.S. 398 (UDC)",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K874",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "17",
+  "school_name" : "I.S. 340 (OLD 249 AX)",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K208",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "18",
+  "school_name" : "P.S. 208",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K211",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "18",
+  "school_name" : "I.S. 211",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K233",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "18",
+  "school_name" : "P.S. 233",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K233",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "18",
+  "school_name" : "P.S. 233",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K244",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "18",
+  "school_name" : "P.S. 244",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K252",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "18",
+  "school_name" : "I.S. 252",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K268",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "18",
+  "school_name" : "P.S. 268",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K268",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "18",
+  "school_name" : "P.S. 268",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K272",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "18",
+  "school_name" : "P.S. 272",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K276",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "18",
+  "school_name" : "P.S. 276",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K279",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "18",
+  "school_name" : "P.S. 279",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K285",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "18",
+  "school_name" : "I.S. 285",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K007",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "P.S. 7",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K013",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "P.S. 13",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K013",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "P.S. 13",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K158",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "P.S. 158",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K174",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "P.S. 174",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K190",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "P.S. 190",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K202",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "P.S. 202",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K214",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "P.S. 214",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K224",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "P.S. 224",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K224",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "P.S. 224",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K260",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "P.S. 260",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K273",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "P.S. 273",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K290",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "P.S. 290",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K292",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "I.S. 292",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K292",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "I.S. 292",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K306",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "P.S. 306",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K346",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "P.S. 346",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K798",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "CESIAH TORO MULLANE SCHOOL",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K814",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "CYPRESS HILLS COMMUNITY SCHOOL",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K848",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "19",
+  "school_name" : "P.S. 149 ANNEX",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K048",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "P.S. 48",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K104",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "P.S. 104",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K105",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "P.S. 105",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K112",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "P.S. 112",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K164",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "P.S. 164",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K176",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "P.S. 176",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K180",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "P.S. 180",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K192",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "P.S. 192",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K200",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "P.S. 200",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K201",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "I.S. 201",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K204",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "P.S. 204",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K204",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "P.S. 204",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K205",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "P.S. 205",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K227",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "I.S. 227",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K229",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "P.S. 229",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K229",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "P.S. 229",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K247",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "P.S. 247",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K259",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "I.S. 259",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K314",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "P.S. 314",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K486",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "I.S. 187",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K940",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "I.S. 30",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K971",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "20",
+  "school_name" : "P.S. 971",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K043",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "21",
+  "school_name" : "I.S. 98",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K100",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "21",
+  "school_name" : "P.S. 100",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K101",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "21",
+  "school_name" : "P.S. 101 ADDITION",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K121",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "21",
+  "school_name" : "P.S. 121",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K199",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "21",
+  "school_name" : "P.S. 199",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K215",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "21",
+  "school_name" : "P.S. 215",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K225",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "21",
+  "school_name" : "P.S. 225",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K281",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "21",
+  "school_name" : "I.S. 281",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K303",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "21",
+  "school_name" : "I.S. 303",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K329",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "21",
+  "school_name" : "P.S. 329",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K014",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "22",
+  "school_name" : "I.S. 14",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K139",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "22",
+  "school_name" : "P.S. 139",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K152",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "22",
+  "school_name" : "P.S. 152",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K195",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "22",
+  "school_name" : "P.S. 195",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K197",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "22",
+  "school_name" : "P.S. 197",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K203",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "22",
+  "school_name" : "P.S. 203",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K217",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "22",
+  "school_name" : "P.S. 217",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K240",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "22",
+  "school_name" : "I.S. 240",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K251",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "22",
+  "school_name" : "P.S. 251",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K255",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "22",
+  "school_name" : "P.S. 255",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K269",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "22",
+  "school_name" : "P.S. 269",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K395",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "22",
+  "school_name" : "P.S./I.S. 395",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K776",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "22",
+  "school_name" : "PS 152 ANNEX",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K849",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "22",
+  "school_name" : "P.S. 134",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K137",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "23",
+  "school_name" : "P.S. 137",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K178",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "23",
+  "school_name" : "P.S. 178",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "K284",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "23",
+  "school_name" : "P.S. 284",
+  "borough" : "Brooklyn"
+}
+, {
+  "building_id" : "Q013",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "24",
+  "school_name" : "P.S. 13",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q049",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "24",
+  "school_name" : "P.S. 49 ADDITION",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q068",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "24",
+  "school_name" : "P.S. 68",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q073",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "24",
+  "school_name" : "I.S. 73",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q087",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "24",
+  "school_name" : "P.S. 87",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q091",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "24",
+  "school_name" : "P.S. 91",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q119",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "24",
+  "school_name" : "I.S. 119",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q125",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "24",
+  "school_name" : "I.S. 125 ADDITION",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q143",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "24",
+  "school_name" : "P.S. 143 ADDITION",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q153",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "24",
+  "school_name" : "P.S. 153",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q229",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "24",
+  "school_name" : "P.S. 229",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q721",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "24",
+  "school_name" : "P.S. 16 (OLD Q721 SPED)",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q849",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "24",
+  "school_name" : "I.S. 77",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q877",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "24",
+  "school_name" : "51ST AVENUE ACADEMY",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q022",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "25",
+  "school_name" : "P.S. 22",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q024",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "25",
+  "school_name" : "P.S. 24 ADDITION",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q025",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "25",
+  "school_name" : "J.H.S. 25",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q029",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "25",
+  "school_name" : "P.S. 29",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q032",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "25",
+  "school_name" : "P.S. 32",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q079",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "25",
+  "school_name" : "P.S. 79",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q107",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "25",
+  "school_name" : "P.S. 107",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q120",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "25",
+  "school_name" : "P.S. 120",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q129",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "25",
+  "school_name" : "P.S. 129 ADDITION",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q130",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "25",
+  "school_name" : "P.S. 130",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q154",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "25",
+  "school_name" : "P.S. 154",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q164",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "25",
+  "school_name" : "P.S. 164",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q184",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "25",
+  "school_name" : "P.S. 184",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q185",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "25",
+  "school_name" : "J.H.S. 185",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q193",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "25",
+  "school_name" : "P.S. 193",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q201",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "25",
+  "school_name" : "P.S. 201",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q219",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "25",
+  "school_name" : "P.S. 219",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q026",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "26",
+  "school_name" : "P.S. 26",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q041",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "26",
+  "school_name" : "P.S. 41",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q046",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "26",
+  "school_name" : "P.S. 46",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q074",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "26",
+  "school_name" : "I.S. 74",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q094",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "26",
+  "school_name" : "P.S. 94",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q133",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "26",
+  "school_name" : "P.S. 133",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q159",
+  "constr_start_fy" : "2015",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "26",
+  "school_name" : "P.S. 159",
+  "borough" : "Queens"
+}
+, {
+  "building_id" : "Q173",
+  "constr_start_fy" : "2016",
+  "program_name" : "Lighting Fixture Replacement",
+  "district" : "26",
+  "school_name" : "P.S. 173",
+  "borough" : "Queens"
+}
+ ]

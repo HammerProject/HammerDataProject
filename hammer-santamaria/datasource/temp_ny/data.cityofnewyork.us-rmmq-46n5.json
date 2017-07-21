@@ -1,0 +1,876 @@
+[ {
+  "location_1" : {
+    "latitude" : "40.68338860098805",
+    "human_address" : "{\"address\":\"462 Halsey Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11223&nbsp;&nbsp;&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9357346332942"
+  },
+  "hours" : "whenever the garden is open",
+  "requirements" : "check website regularly for drop off schedule updates",
+  "website" : {
+    "url" : "http://462halsey.com/composting/"
+  },
+  "months_of_operation" : "whenever the garden is open",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=1002094,188192&c=GISBasic&s=a:462,HALSEY+STREET,BROOKLYN"
+  },
+  "organizer" : "462 Halsey Community Garden  ",
+  "composted_by" : "462 Halsey Community Garden  ",
+  "materials_accepted" : "food scraps",
+  "days" : "whenever the garden is open",
+  "location" : "462 Halsey Community Garden",
+  "borough" : "BK"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.62450999973686",
+    "human_address" : "{\"address\":\"3rd Ave &amp; 95th Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11209&nbsp;&nbsp;&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.03007000033011"
+  },
+  "hours" : "8 am – 1:00 pm",
+  "requirements" : "check website regularly for drop off schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "months_of_operation" : "May 12-Nov 17, 2012",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=974925,164169&c=GISBasic&s=i:3+AVENUE,95+STREET,N,BROOKLYN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "NYC Department of Sanitation",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "Bay Ridge Greenmarket",
+  "borough" : "BK"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69373999970139",
+    "human_address" : "{\"address\":\"Court St &amp; Montague St\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99130999985647"
+  },
+  "hours" : "8 am – 4 pm",
+  "requirements" : "check website regularly for drop off schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "months_of_operation" : "Year Round",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=9&p=986952,192125&c=GISBasic&s=i:COURT+STREET,MONTAGUE+STREET,BROOKLYN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "GrowNYC community partners",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "Brooklyn Borough Hall Greenmarket",
+  "borough" : "BK"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.680220000352904",
+    "human_address" : "{\"address\":\"Carroll St, b/t Smith &amp; Court\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11231&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.0006699998205"
+  },
+  "hours" : "8 am – 1 pm",
+  "requirements" : "check website regularly for drop off schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=985667,187092&c=GISBasic&s=i:SMITH+STREET,CARROLL+STREET,S,BROOKLYN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "NYC Department of Sanitation",
+  "materials_accepted" : "food scraps",
+  "days" : "Sundays",
+  "location" : "Carrol Gardens Greenmarket",
+  "borough" : "BK"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.62294000018102",
+    "human_address" : "{\"address\":\"Newkirk Ave &amp; East 8th St\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11230&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96349999982499"
+  },
+  "hours" : "Sat: 10 am– 1 pm; Sun  1 – 4 pm; Thur  4:30 to 6:30 PM",
+  "requirements" : "check website regularly for drop off schedule updates",
+  "website" : {
+    "url" : "http://compostforbrooklyn.org/"
+  },
+  "months_of_operation" : "Year Round",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=993880,172748&c=GISBasic&s=i:CORTELYOU+ROAD,RUGBY+ROAD,BROOKLYN"
+  },
+  "organizer" : "Compost For Brooklyn ",
+  "composted_by" : "Compost For Brooklyn ",
+  "materials_accepted" : "food scraps, leaves, garden trimmings",
+  "days" : "Saturdays, Sundays, Thursdays",
+  "location" : "Compost For Brooklyn",
+  "borough" : "BK"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.64728000027196",
+    "human_address" : "{\"address\":\"Courtelyou Rd b/t Argyle &amp; Rugby Rd\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11226&nbsp;&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9573199999179"
+  },
+  "hours" : "8 am – 1 pm",
+  "requirements" : "check website regularly for drop off schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=993880,172748&c=GISBasic&s=i:CORTELYOU+ROAD,RUGBY+ROAD,BROOKLYN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "NYC Department of Sanitation",
+  "materials_accepted" : "food scraps, leaves, garden trimmings",
+  "days" : "Sundays",
+  "location" : "Cortelyou Greenmarket",
+  "borough" : "BK"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69373999970139",
+    "human_address" : "{\"address\":\"Washington Park b/t Dekalb Ave &amp; Willoughby Ave\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99130999985647"
+  },
+  "hours" : "8 am – 3 pm",
+  "requirements" : "check website for specific food scrap drop-off requirements and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "months_of_operation" : "Year Round",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=991703,190525&c=GISBasic&s=i:DEKALB+AVENUE,WASHINGTON+PARK,BROOKLYN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "GrowNYC community partners",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "Fort Greene Greenmarket ",
+  "borough" : "BK"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.679380000286926",
+    "human_address" : "{\"address\":\"Prospect Park West &amp; Plaza St West\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11238&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9635700003551"
+  },
+  "hours" : "8 am – 3:30 pm",
+  "requirements" : "check website for specific food scrap drop-off requirements and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "months_of_operation" : "Year Round",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=7&p=991952,182827&c=GISBasic&s=i:PROSPECT+PARK+WEST,PLAZA+ST+WEST,BROOKLYN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "GrowNYC community partners",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "Grand Army Plaza Greenmarket",
+  "borough" : "BK"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.71978151369627",
+    "human_address" : "{\"address\":\"229 North 12th St\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11211&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95335566994004"
+  },
+  "hours" : "8 am – 2 pm",
+  "requirements" : "check website for specific food scrap drop-off requirements and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "months_of_operation" : "Year Round",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=997287,201419&c=GISBasic&s=a:229,NORTH+12+STREET,BROOKLYN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "GrowNYC community partners",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "McCarren Park Greenmarket",
+  "borough" : "BK"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.71978151369627",
+    "human_address" : "{\"address\":\"229 North 12th St\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11211&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95335566994004"
+  },
+  "hours" : "9 am – 12 pm",
+  "requirements" : "must assist with maintenance of compost site",
+  "website" : {
+    "url" : "http://northbrooklyncompostproject.wordpress.com/"
+  },
+  "months_of_operation" : "Year Round",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=997287,201419&c=GISBasic&s=a:229,NORTH+12+STREET,BROOKLYN"
+  },
+  "organizer" : "North Brooklyn Compost Project ",
+  "composted_by" : "North Brooklyn Compost Project ",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "North Brooklyn Compost Project @ McCarren Park",
+  "borough" : "BK"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.67829843830225",
+    "human_address" : "{\"address\":\"252 St. Marks Ave\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11238&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96765157211405"
+  },
+  "hours" : "check garden for open hours",
+  "requirements" : "garden membership or drop-off during garden's open hours",
+  "website" : {
+    "url" : "http://www.phcfarm.com/welcome/"
+  },
+  "months_of_operation" : "Year Round",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=7&p=992727,184796&c=GISBasic&s=a:252,ST+MARKS+AVENUE,BROOKLYN"
+  },
+  "organizer" : "Prospect Heights Community Farm ",
+  "composted_by" : "Prospect Heights Community Farm ",
+  "materials_accepted" : "food scraps",
+  "days" : "check garden for open hours",
+  "location" : "Prospect Heights Community Farm",
+  "borough" : "BK"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.680220000352904",
+    "human_address" : "{\"address\":\"580 Columbia St b/t Halleck St &amp; Sigourney St\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11231&nbsp;&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.0006699998205"
+  },
+  "hours" : "10 am to 3 pm ",
+  "requirements" : "bring compostables to \"compost row\" on the southwest edge of the farm and follow easy self-help composting instructions",
+  "website" : {
+    "url" : "http://www.added-value.org/"
+  },
+  "months_of_operation" : "(April - November) Check the calendar on home page for winter  “community composting” times.",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=981522,184276&c=GISBasic&s=a:580,COLUMBIA+STREET,BROOKLYN"
+  },
+  "organizer" : "Red Hook Community Farm ",
+  "composted_by" : "Red Hook Community Farm ",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "Red Hook Community Farm",
+  "borough" : "BK"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.64135999976435",
+    "human_address" : "{\"address\":\"4th Avenue b/t 59th &amp; 60th Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11220&nbsp;&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.01363999988592"
+  },
+  "hours" : "8 am – 1 pm",
+  "requirements" : "check website for specific food scrap drop-off requirements and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "months_of_operation" : "(June 23-Nov 17, 2012)",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=979306,172969&c=GISBasic&s=i:4+AVENUE,59+STREET,BROOKLYN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "NYC Department of Sanitation",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "Sunset Park Greenmarket",
+  "borough" : "BK"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.66783000005461",
+    "human_address" : "{\"address\":\"11th Ave b/t Sherman &amp; Windsor Pl.\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11215&nbsp;&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9829100000963"
+  },
+  "hours" : "8 am – 1:00 pm",
+  "requirements" : "check website for specific food scrap drop-off requirements and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "months_of_operation" : "(July 8-Nov 18, 2012)",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=990877,178667&c=GISBasic&s=a:1625,11+AVENUE,BROOKLYN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "NYC Department of Sanitation",
+  "materials_accepted" : "food scraps",
+  "days" : "Sundays",
+  "location" : "Windsor Terrace - PS 154 Greenmarket @PS 154",
+  "borough" : "BK"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.76489999963542",
+    "human_address" : "{\"address\":\"57th St &amp; 9th Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10019&nbsp;&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98420000022969"
+  },
+  "hours" : "8 am – 1 pm",
+  "requirements" : "check website for specific food scrap drop-off requirements and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "months_of_operation" : "(through Dec 22, 2012)",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=988207,219050&c=GISBasic&s=i:WEST+57+STREET,9+AVENUE,MANHATTAN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "NYC Department of Sanitation",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "57th Street Greenmarket",
+  "borough" : "MN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.786299999945186",
+    "human_address" : "{\"address\":\"79th St &amp; Columbus Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024&nbsp;&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9752700003101"
+  },
+  "hours" : "9 am – 1:00 pm",
+  "requirements" : "check website for specific food scrap drop-off requirements and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=991040,224164&c=GISBasic&s=i:WEST+79+STREET,COLUMBUS+AVENUE,MANHATTAN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "NYC Department of Sanitation",
+  "materials_accepted" : "food scraps",
+  "days" : "Sundays",
+  "location" : "79th Street Greenmarket",
+  "borough" : "MN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.77601999982329",
+    "human_address" : "{\"address\":\"East 82nd St &amp; York Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10028&nbsp;&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95274999961265"
+  },
+  "hours" : "9 am – 1 pm",
+  "requirements" : "check website for specific food scrap drop-off requirements and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=997935,221182&c=GISBasic&s=l:MANHATTAN,1561,37,PLUTO"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "NYC Department of Sanitation",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "82nd Street Greenmarket",
+  "borough" : "MN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.7813999997104",
+    "human_address" : "{\"address\":\"92nd St &amp; 1st Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10128&nbsp;&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95056999980551"
+  },
+  "hours" : "9 am – 1 pm ",
+  "requirements" : "check website for specific food scrap drop-off requirements and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "months_of_operation" : "(June 17-Dec 23, 2012)",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=999041,223708&c=GISBasic&s=i:EAST+92+STREET,1+AVENUE,MANHATTAN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "NYC Department of Sanitation",
+  "materials_accepted" : "food scraps",
+  "days" : "Sundays",
+  "location" : "92nd Street Greenmarket",
+  "borough" : "MN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.733929999569966",
+    "human_address" : "{\"address\":\"West 12 St &amp; 8th Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10014&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00501000031113"
+  },
+  "hours" : "8 am – 1 pm",
+  "requirements" : "check website for specific food scrap drop-off requirements and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=982912,207985&c=GISBasic&s=i:WEST+12+STREET,8+AVENUE,MANHATTAN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "NYC Department of Sanitation",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "Abingdon Square Greenmarket",
+  "borough" : "MN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.798120000038125",
+    "human_address" : "{\"address\":\"Broadway b/t 114 &amp; 115 St\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10025&nbsp;&nbsp;&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96729000013323"
+  },
+  "hours" : "8 am – 1 pm",
+  "requirements" : "check website for specific food scrap drop-off requirements and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=993981,233184&c=GISBasic&s=i:BROADWAY,WEST+114+STREET,MANHATTAN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "NYC Department of Sanitation",
+  "materials_accepted" : "food scraps",
+  "days" : "Sundays",
+  "location" : "Columbia University Greenmarket",
+  "borough" : "MN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.70139752462481",
+    "human_address" : "{\"address\":\"Governors Island\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10004&nbsp;&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.0116374125671"
+  },
+  "hours" : "whenever Governors Island is open to the public",
+  "requirements" : "check Trust for Governors Island   website for specific food scrap drop-off sites on Governors Island and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=980605,190782&c=GISBasic&s=a:1,GOVERNORS+ISLAND,MANHATTAN"
+  },
+  "organizer" : "NYC Compost Project Local Organics Recovery Program ",
+  "composted_by" : "Earth Matter NY  through the NYC Compost Project Local Organics Recovery Program ",
+  "materials_accepted" : "food scraps",
+  "days" : "whenever Governors Island is open to the public",
+  "location" : "Governor's Island Public Food Scrap Drop-Off Sites",
+  "borough" : "MN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.86663999963645",
+    "human_address" : "{\"address\":\"Isham St between Seaman Ave &amp; Cooper St\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10034&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92150000012475"
+  },
+  "hours" : "8 am – 12 pm",
+  "requirements" : "check website for specific food scrap drop-off requirements and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=1006208,256266&c=GISBasic&s=i:ISHAM+STREET,SEAMAN+AVENUE,MANHATTAN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "New York Restoration Project ",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "Inwood Greenmarket",
+  "borough" : "MN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.72638999989874",
+    "human_address" : "{\"address\":\"North side of East 7th St between Ave B &amp; Ave C\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10009&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9809699996656"
+  },
+  "hours" : "8 am – 5 pm",
+  "requirements" : "households only; no businesses or other commercial generators may drop off organic waste",
+  "website" : {
+    "url" : "http://www.lesecologycenter.org/"
+  },
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=1006208,256266&c=GISBasic&s=i:ISHAM+STREET,SEAMAN+AVENUE,MANHATTAN"
+  },
+  "organizer" : "Lower East Side Ecology Center ",
+  "composted_by" : "Lower East Side Ecology Center ",
+  "materials_accepted" : "food scraps",
+  "days" : "Sundays",
+  "location" : "Lower East Side Ecology Center Community Garden",
+  "borough" : "MN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.70904999975784",
+    "human_address" : "{\"address\":\"South Street b/t Beekman St. &amp; Peck Slip\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10038&nbsp;&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00542999989443"
+  },
+  "hours" : "8 am – 5 pm",
+  "requirements" : "households only; no businesses or other commercial generators may drop off organic waste",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "months_of_operation" : "Year Round",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=983762,196866&c=GISBasic&s=k:SOUTH+STREET,BEEKMAN+STREET,PECK+SLIP,MANHATTAN"
+  },
+  "organizer" : "NYC Compost Project Local Organics Recovery Program ",
+  "composted_by" : "Earth Matter NY  through the NYC Compost Project Local Organics Recovery Program ",
+  "materials_accepted" : "food scraps",
+  "days" : "Sundays",
+  "location" : "New Amsterdam Market ",
+  "borough" : "MN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.86663999963645",
+    "human_address" : "{\"address\":\"3725 10th Ave (between Dyckman St &amp; 201st St)\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10034&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92150000012475"
+  },
+  "hours" : "8 am – 4 pm",
+  "requirements" : "Drop off food scraps in the green metal containers within the large operations yard on the east side of the street. Do not include any metal, plastic, meat, oils, cooked foods, or highly invasive weeds. Contact jsmith@nyrp.org with any questions.",
+  "website" : {
+    "url" : "http://www.nyrp.org/"
+  },
+  "months_of_operation" : "Year Round",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=1006138,252047&c=GISBasic&s=a:3725,10+AVENUE,MANHATTAN"
+  },
+  "organizer" : "New York Restoration Project ",
+  "composted_by" : "New York Restoration Project ",
+  "materials_accepted" : "food scraps, leaves, garden trimmings",
+  "days" : "Monday – Friday",
+  "location" : "Sherman Creek Center ",
+  "borough" : "MN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.72638999989874",
+    "human_address" : "{\"address\":\"East 7th St. &amp; Ave. A\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10009&nbsp;&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9809699996656"
+  },
+  "hours" : "8 am – 1 pm",
+  "requirements" : "check website for specific food scrap drop-off requirements and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=988814,203798&c=GISBasic&s=i:EAST+7+STREET,AVENUE+A,MANHATTAN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "NYC Department of Sanitation",
+  "materials_accepted" : "food scraps",
+  "days" : "Sundays",
+  "location" : "Tompkins Square Greenmarket",
+  "borough" : "MN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.71370000015503",
+    "human_address" : "{\"address\":\"Greenwich St &amp; Chambers St\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10007&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00789999958516"
+  },
+  "hours" : "8 am – 1 pm",
+  "requirements" : "check website for specific food scrap drop-off requirements and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=9&p=981187,200258&c=GISBasic&s=i:GREENWICH+STREET,CHAMBERS+STREET,MANHATTAN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "NYC Department of Sanitation",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "Tribeca Greenmarket",
+  "borough" : "MN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.77696000000418",
+    "human_address" : "{\"address\":\"66th St. &amp; Columbus Ave.\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023&nbsp;&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98186000023867"
+  },
+  "hours" : "8 am – 1:00 pm",
+  "requirements" : "check website for specific food scrap drop-off requirements and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=989354,221121&c=GISBasic&s=i:WEST+66+STREET,COLUMBUS+AVENUE,MANHATTAN"
+  },
+  "organizer" : "DSNY & GrowNYC Food Waste Drop-Off Program ",
+  "composted_by" : "NYC Department of Sanitation",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "Tucker Square Greenmarket",
+  "borough" : "MN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.73692524139233",
+    "human_address" : "{\"address\":\"39 Union Square West\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10003&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99048535843798"
+  },
+  "hours" : "8 am – 5 pm",
+  "requirements" : "households only; no businesses or other commercial generators may drop off organic waste",
+  "website" : {
+    "url" : "http://www.lesecologycenter.org/"
+  },
+  "months_of_operation" : "Year Round",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?searchType=AddressSearch&addressNumber=39&street=union+sq+west&borough=Manhattan&Submit=Go"
+  },
+  "organizer" : "Lower East Side Ecology Center ",
+  "composted_by" : "Lower East Side Ecology Center ",
+  "materials_accepted" : "food scraps",
+  "days" : "Mondays, Wednesdays, Fridays, Saturdays",
+  "location" : "Union Square Greenmarket",
+  "borough" : "MN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.75616679371618",
+    "human_address" : "{\"address\":\"35-30 35th St\",\"city\":\"Astoria\",\"state\":\"NY\",\"zip\":\"11106&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92576690882862"
+  },
+  "hours" : "4:30 - 7:30 PM",
+  "requirements" : "food scrap drop-off when CSA is in operation",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "months_of_operation" : "(May 31 to Nov 29)(skip November 22)",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=1004640,214672&c=GISBasic&s=a:35-30,35+STREET,QUEENS"
+  },
+  "organizer" : "NYC Compost Project Local Organics Recovery Program ",
+  "composted_by" : "Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ",
+  "materials_accepted" : "food scraps",
+  "days" : "Thursday",
+  "location" : "Astoria Arrow Community Supported Agriculture",
+  "borough" : "QN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.752350000052616",
+    "human_address" : "{\"address\":\"34th Ave at 77th St\",\"city\":\"Jackson Heights\",\"state\":\"NY\",\"zip\":\"11372&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88213999986095"
+  },
+  "hours" : "9 am – 12 pm",
+  "requirements" : "food scrap drop off when farmers market is in operation",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "months_of_operation" : "Year round",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=1014814,213723&c=GISBasic&s=i:34+AVENUE,77+STREET,QUEENS"
+  },
+  "organizer" : "Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ",
+  "composted_by" : "Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ",
+  "materials_accepted" : "food scraps",
+  "days" : "Sundays",
+  "location" : "Jackson Heights Greenmarket",
+  "borough" : "QN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.74828999988375",
+    "human_address" : "{\"address\":\"49th Ave between Vernon Blvd and 5th St\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"11101&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94114000021068"
+  },
+  "requirements" : "food scrap drop off during designated collection times only; email licgardencompost@gmail.com for info",
+  "months_of_operation" : "Year Round",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=10&p=996849,210135&c=GISBasic&s=i:49+AVENUE,VERNON+BOULEVARD,QUEENS"
+  },
+  "organizer" : "Long Island City Community Garden",
+  "composted_by" : "Long Island City Community Garden",
+  "materials_accepted" : "food scraps",
+  "days" : "email licgardencompost@gmail.com for info",
+  "location" : "Long Island City Community Garden",
+  "borough" : "QN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.748013882013595",
+    "human_address" : "{\"address\":\"73-50 Little Neck Parkway\",\"city\":\"Floral Park\",\"state\":\"NY\",\"zip\":\"11004-1129&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.71942969880695"
+  },
+  "hours" : "10 am – 4:30 pm",
+  "requirements" : "food scrap drop off only when farm stand in operation; look for the bin and the \"What to Compost\" sign",
+  "website" : {
+    "url" : "http://www.queensfarm.org/"
+  },
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=1060277,211062&c=GISBasic&s=a:73-50,LITTLE+NECK+PARKWAY,QUEENS2"
+  },
+  "organizer" : "Queens County Farm Museum ",
+  "composted_by" : "Queens County Farm Museum ",
+  "materials_accepted" : "food scraps",
+  "days" : "Monday - Sunday",
+  "location" : "Queens County Farm Museum",
+  "borough" : "QN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.76764885342166",
+    "human_address" : "{\"address\":\"32-01 Vernon Boulevard\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"11106&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93609480317753"
+  },
+  "hours" : "9 am – 12 pm",
+  "requirements" : "food scrap drop off only when farmers market is in operation",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=1001742,218692&c=GISBasic&s=a:32-01,VERNON+BOULEVARD,QUEENS"
+  },
+  "organizer" : "Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ",
+  "composted_by" : "Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "Socrates Sculpture Park Greenmarket",
+  "borough" : "QN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.77617000044535",
+    "human_address" : "{\"address\":\"21-45 31 Street\",\"city\":\"Astoria\",\"state\":\"NY\",\"zip\":\"11105&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90902999973457"
+  },
+  "hours" : "4 pm – 5 pm",
+  "requirements" : "for most current information, please email wqnscompost@gmail.com",
+  "website" : {
+    "url" : "http://bignyc.org/western-queens-compost-initiative"
+  },
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=9&p=1009579,223079&c=GISBasic&s=a:21-45,31+STREET,QUEENS"
+  },
+  "organizer" : "Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ",
+  "composted_by" : "Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ",
+  "materials_accepted" : "food scraps",
+  "days" : "Tuesdays",
+  "location" : "Steinway Library",
+  "borough" : "QN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.743759999624444",
+    "human_address" : "{\"address\":\"43rd St &amp; Skillman Ave\",\"city\":\"Sunnyside\",\"state\":\"NY\",\"zip\":\"11104&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9216400002856"
+  },
+  "hours" : "9 am – 12 pm",
+  "requirements" : "food scrap drop off only when farmers market is in operation",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?searchType=IntersectionSearch&crossStreetOne=43rd+St&crossStreetTwo=Skillman+Ave&borough=Queens&Submit4=Go"
+  },
+  "organizer" : "Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ",
+  "composted_by" : "Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "Sunnyside Greenmarket",
+  "borough" : "QN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.77205438915846",
+    "human_address" : "{\"address\":\"11-01 30th Avenue\",\"city\":\"Astoria\",\"state\":\"NY\",\"zip\":\"11104&nbsp;&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93211351051998"
+  },
+  "requirements" : "for most current information, please email wqnscompost@gmail.com",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=1002982,220679&c=GISBasic&s=l:QUEENS,508,20,PLUTO"
+  },
+  "organizer" : "NYC Compost Project Local Organics Recovery Program ",
+  "composted_by" : "Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ",
+  "materials_accepted" : "food scraps",
+  "days" : "garden open hours",
+  "location" : "Two Coves Community Garden",
+  "borough" : "QN"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.631469999640956",
+    "human_address" : "{\"address\":\"St. Mark Place &amp; Hyatt St.\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10301&nbsp;&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.09150999988645"
+  },
+  "hours" : "8 am – 1:00 pm",
+  "requirements" : "check website for specific food scrap drop-off requirements and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "months_of_operation" : "(May 12-Nov 17 2012)",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=962631,173033&c=GISBasic&s=i:ST+MARK+PLACE,HYATT+STREET,STATEN+ISLAND"
+  },
+  "organizer" : "DSNY & GrowNYC Food Scrap Drop-Off Program ",
+  "composted_by" : "NYC Department of Sanitation",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "St. George Greenmarket",
+  "borough" : "SI"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.64244000010609",
+    "human_address" : "{\"address\":\"2655 Richmond Ave (Parking lot)&nbsp;\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10315&nbsp;\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.07527999967209"
+  },
+  "hours" : "9 am – 1 pm",
+  "requirements" : "check website for specific food scrap drop-off requirements and schedule updates",
+  "website" : {
+    "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+  },
+  "months_of_operation" : "(June 23-Dec 22 2012)",
+  "citymap_location" : {
+    "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=938176,151310&c=GISBasic&s=a:2655,RICHMOND+AVENUE,STATEN+ISLAND"
+  },
+  "organizer" : "DSNY & GrowNYC Food Scrap Drop-Off Program ",
+  "composted_by" : "NYC Department of Sanitation",
+  "materials_accepted" : "food scraps",
+  "days" : "Saturdays",
+  "location" : "Staten Island Mall Greenmarket",
+  "borough" : "SI"
+}
+ ]

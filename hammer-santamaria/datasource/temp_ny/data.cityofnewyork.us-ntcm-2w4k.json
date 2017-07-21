@@ -1,0 +1,177 @@
+[ {
+  "community_district" : "Manhattan",
+  "homebase_office" : "SUS",
+  "address" : "2276 Third Avenue",
+  "phone_number" : "917-492-1019",
+  "neighborhood" : "East Harlem",
+  "borough" : "Manhattan"
+}
+, {
+  "community_district" : "Manhattan",
+  "homebase_office" : "SUS",
+  "address" : "265 Henry Street",
+  "phone_number" : "917-492-1019",
+  "neighborhood" : "Lower East Side",
+  "borough" : "Manhattan"
+}
+, {
+  "community_district" : "203, 206",
+  "homebase_office" : "Help USA I",
+  "address" : "775 Crotona Park North",
+  "phone_number" : "718-299-8473",
+  "neighborhood" : "Crotona",
+  "borough" : "Bronx"
+}
+, {
+  "community_district" : "203, 206",
+  "homebase_office" : "Help USA I",
+  "address" : "3593 East 169th Street",
+  "phone_number" : "917-801-4512",
+  "neighborhood" : "Claremont",
+  "borough" : "Bronx"
+}
+, {
+  "community_district" : "201, 204",
+  "homebase_office" : "Bronxworks",
+  "address" : "1130 Grand Concourse",
+  "phone_number" : "718-508-3100",
+  "neighborhood" : "Grand Concourse",
+  "borough" : "Bronx"
+}
+, {
+  "community_district" : "201, 204",
+  "homebase_office" : "Bronxworks",
+  "address" : "630 Jackson Avenue",
+  "phone_number" : "718-993-2032",
+  "neighborhood" : "Mott Haven",
+  "borough" : "Bronx"
+}
+, {
+  "community_district" : "205, 207, 208",
+  "homebase_office" : "Help USA II",
+  "address" : "1780 Grand Concourse, Level I",
+  "phone_number" : "347-226-4540",
+  "neighborhood" : "Mount Hope",
+  "borough" : "Bronx"
+}
+, {
+  "community_district" : "205, 207, 208",
+  "homebase_office" : "Help USA II",
+  "address" : "1981 Sedgwick Avenue",
+  "phone_number" : "718-215-6453",
+  "neighborhood" : "Morris Heights",
+  "borough" : "Bronx"
+}
+, {
+  "community_district" : "202, 209",
+  "homebase_office" : "ARCHNY I",
+  "address" : "2155 Blackrock Avenue",
+  "phone_number" : "718-414-1050",
+  "neighborhood" : "Unionport",
+  "borough" : "Bronx"
+}
+, {
+  "community_district" : "202, 209",
+  "homebase_office" : "ARCHNY I",
+  "address" : "890 Garrison Avenue",
+  "phone_number" : "929-259-9430",
+  "neighborhood" : "Hunts Point",
+  "borough" : "Bronx"
+}
+, {
+  "community_district" : "210, 211, 212",
+  "homebase_office" : "ARCHNY II",
+  "address" : "2901 White Plains Road",
+  "phone_number" : "347-913-4694",
+  "neighborhood" : "Bronxdale",
+  "borough" : "Bronx"
+}
+, {
+  "community_district" : "210, 211, 212",
+  "homebase_office" : "ARCHNY II",
+  "address" : "4377 Bronx Boulevard",
+  "phone_number" : "347-947-3920",
+  "neighborhood" : "Woodlawn",
+  "borough" : "Bronx"
+}
+, {
+  "community_district" : "303, 308, 309, 317",
+  "homebase_office" : "CAMBA I",
+  "address" : "1117 Eastern Parkway",
+  "phone_number" : "718-622-7323",
+  "neighborhood" : "Crown Heights",
+  "borough" : "Brooklyn"
+}
+, {
+  "community_district" : "303, 308, 309, 317",
+  "homebase_office" : "CAMBA I",
+  "address" : "1958 Fulton Street",
+  "phone_number" : "718-408-5756",
+  "neighborhood" : "Bedford Stuyvesant",
+  "borough" : "Brooklyn"
+}
+, {
+  "community_district" : "301",
+  "homebase_office" : "RBSCC",
+  "address" : "90 Beaver Street",
+  "phone_number" : "718-366-4300",
+  "neighborhood" : "Bushwick",
+  "borough" : "Brooklyn"
+}
+, {
+  "community_district" : "304",
+  "homebase_office" : "RBSCC",
+  "address" : "1475 Myrtle Avenue",
+  "phone_number" : "347-295-3738",
+  "neighborhood" : "Bushwick North",
+  "borough" : "Brooklyn"
+}
+, {
+  "community_district" : "316",
+  "homebase_office" : "RBSCC",
+  "address" : "145 East 98th Street",
+  "phone_number" : "917-819-3200",
+  "neighborhood" : "Brownsville",
+  "borough" : "Brooklyn"
+}
+, {
+  "community_district" : "305, 318",
+  "homebase_office" : "CNS II",
+  "address" : "3060 Fulton Street",
+  "phone_number" : "929-234-3036",
+  "neighborhood" : "East New York",
+  "borough" : "Brooklyn"
+}
+, {
+  "community_district" : "302, 306, 307, 310, 311, 312, 313, 314, 315",
+  "homebase_office" : "CAMBA II",
+  "address" : "2211 Church Ave.",
+  "phone_number" : "718-940-6311",
+  "neighborhood" : "Flatbush",
+  "borough" : "Brooklyn"
+}
+, {
+  "community_district" : "Staten Island",
+  "homebase_office" : "CAMBA II",
+  "address" : "120 Stuyvesant Place, Suite 413",
+  "phone_number" : "718-282-6473, EX. 75007",
+  "neighborhood" : "Staten Island",
+  "borough" : "Staten Island"
+}
+, {
+  "community_district" : "Queens",
+  "homebase_office" : "CNS I",
+  "address" : "87-80 Merrick Boulevard",
+  "phone_number" : "718-674-1000",
+  "neighborhood" : "Jamaica",
+  "borough" : "Queens"
+}
+, {
+  "community_district" : "Queens",
+  "homebase_office" : "CNS I",
+  "address" : "Rockaways",
+  "phone_number" : "718-647-1015",
+  "neighborhood" : "Rockaways",
+  "borough" : "Queens"
+}
+ ]

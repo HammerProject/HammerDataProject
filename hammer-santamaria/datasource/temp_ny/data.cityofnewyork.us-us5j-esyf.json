@@ -1,0 +1,105 @@
+[ {
+  "_percent_of_total_1" : "60.30",
+  "type_of_offensive_language_allegation" : "Race",
+  "_number_3" : "388",
+  "_number_4" : "345",
+  "_number_5" : "369",
+  "_percent_of_total_2" : "62.40",
+  "_percent_of_total_3" : "59.00",
+  "_number_1" : "328",
+  "_percent_of_total_4" : "53.40",
+  "_number_2" : "393",
+  "_percent_of_total_5" : "54.00"
+}
+, {
+  "_percent_of_total_1" : "18.80",
+  "type_of_offensive_language_allegation" : "Ethnicity",
+  "_number_3" : "102",
+  "_number_4" : "108",
+  "_number_5" : "97",
+  "_percent_of_total_2" : "18.30",
+  "_percent_of_total_3" : "15.50",
+  "_number_1" : "102",
+  "_percent_of_total_4" : "16.70",
+  "_number_2" : "115",
+  "_percent_of_total_5" : "14.20"
+}
+, {
+  "_percent_of_total_1" : "3.90",
+  "type_of_offensive_language_allegation" : "Religion",
+  "_number_3" : "32",
+  "_number_4" : "14",
+  "_number_5" : "13",
+  "_percent_of_total_2" : "4.60",
+  "_percent_of_total_3" : "4.90",
+  "_number_1" : "21",
+  "_percent_of_total_4" : "2.20",
+  "_number_2" : "29",
+  "_percent_of_total_5" : "1.90"
+}
+, {
+  "_percent_of_total_1" : "3.90",
+  "type_of_offensive_language_allegation" : "Sex",
+  "_number_3" : "59",
+  "_number_4" : "95",
+  "_number_5" : "92",
+  "_percent_of_total_2" : "3.80",
+  "_percent_of_total_3" : "9.00",
+  "_number_1" : "21",
+  "_percent_of_total_4" : "14.70",
+  "_number_2" : "24",
+  "_percent_of_total_5" : "13.50"
+}
+, {
+  "_percent_of_total_1" : "1.10",
+  "type_of_offensive_language_allegation" : "Sexual orientation",
+  "_number_3" : "6",
+  "_number_4" : "8",
+  "_number_5" : "7",
+  "_percent_of_total_2" : "1.00",
+  "_percent_of_total_3" : "0.90",
+  "_number_1" : "6",
+  "_percent_of_total_4" : "1.20",
+  "_number_2" : "6",
+  "_percent_of_total_5" : "1.00"
+}
+, {
+  "_percent_of_total_1" : "10.10",
+  "type_of_offensive_language_allegation" : "Physical disability",
+  "_number_3" : "62",
+  "_number_4" : "61",
+  "_number_5" : "83",
+  "_percent_of_total_2" : "9.00",
+  "_percent_of_total_3" : "9.40",
+  "_number_1" : "55",
+  "_percent_of_total_4" : "9.40",
+  "_number_2" : "57",
+  "_percent_of_total_5" : "12.20"
+}
+, {
+  "_percent_of_total_1" : "2.00",
+  "type_of_offensive_language_allegation" : "Other",
+  "_number_3" : "9",
+  "_number_4" : "15",
+  "_number_5" : "22",
+  "_percent_of_total_2" : "1.00",
+  "_percent_of_total_3" : "1.40",
+  "_number_1" : "11",
+  "_percent_of_total_4" : "2.30",
+  "_number_2" : "6",
+  "_percent_of_total_5" : "3.20"
+}
+, {
+  "_percent_of_total_1" : "100.00",
+  "type_of_offensive_language_allegation" : "Total",
+  "_number_3" : "658",
+  "_number_4" : "646",
+  "_number_5" : "683",
+  "_percent_of_total_2" : "100.00",
+  "_percent_of_total_3" : "100.00",
+  "_number_1" : "544",
+  "_percent_of_total_4" : "100.00",
+  "_number_2" : "630",
+  "_percent_of_total_5" : "100.00"
+}
+ ]

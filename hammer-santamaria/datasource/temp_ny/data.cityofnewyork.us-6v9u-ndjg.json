@@ -1,0 +1,641 @@
+[ {
+  "disposition" : "BUILDINGS VIOLATION(S) SERVED",
+  "code" : "A1"
+}
+, {
+  "disposition" : "CRIMINAL COURT SUMMONS SERVED",
+  "code" : "A2"
+}
+, {
+  "disposition" : "FULL STOP WORK ORDER SERVED F",
+  "code" : "A3"
+}
+, {
+  "disposition" : "BUILDINGS VIOLATION(S) & CRIMINAL COURT SUMMONS SERVED",
+  "code" : "A4"
+}
+, {
+  "disposition" : "BUILDINGS VIOLATION(S) & CRIMINAL COURT SUMMONS SERVED",
+  "code" : "A5"
+}
+, {
+  "disposition" : "VACANT/OPEN/UNGUARDED STRUCTURE - VIOLATION(S) ISSUED",
+  "code" : "A6"
+}
+, {
+  "disposition" : "COMPLAINT ACCEPTED BY PADLOCK UNIT",
+  "code" : "A7"
+}
+, {
+  "disposition" : "ECB VIOLATION SERVED",
+  "code" : "A8"
+}
+, {
+  "disposition" : "ECB & BUILDINGS VIOLATIONS SERVED",
+  "code" : "A9"
+}
+, {
+  "disposition" : "BUILDINGS VIOLATION(S) PREPARED & ATTEMPT TO SERVE WILL BE MADE",
+  "code" : "B1"
+}
+, {
+  "disposition" : "ECB VIOLATION(S) PREPARED & ATTEMPT TO SERVE WILL BE MADE",
+  "code" : "B2"
+}
+, {
+  "disposition" : "INSPECTOR UNABLE TO GAIN ACCESS - 1ST ATTEMPT",
+  "code" : "C1"
+}
+, {
+  "disposition" : "INSPECTOR UNABLE TO GAIN ACCESS - 2ND ATTEMPT",
+  "code" : "C2"
+}
+, {
+  "disposition" : "ACCESS DENIED - 1ST ATTEMPT",
+  "code" : "C3"
+}
+, {
+  "disposition" : "ACCESS DENIED - 2ND ATTEMPT",
+  "code" : "C4"
+}
+, {
+  "disposition" : "AW: NO ACCESS - 1ST ATTEMPT",
+  "code" : "C5"
+}
+, {
+  "disposition" : "AW: ACCESS DENIED - 1ST ATTEMPT",
+  "code" : "C6"
+}
+, {
+  "disposition" : "AW: NO ACCESS - 2ND ATTEMPT",
+  "code" : "C7"
+}
+, {
+  "disposition" : "AW: ACCESS DENIED - 2ND ATTEMPT",
+  "code" : "C8"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO CONSTRUCTION UNIT",
+  "code" : "D1"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO PLUMBING UNIT",
+  "code" : "D2"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO ELEVATOR UNIT",
+  "code" : "D3"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO BEST SQUAD",
+  "code" : "D4"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO EMERGENCY RESPONSE TEAM",
+  "code" : "D5"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO BOILER UNIT",
+  "code" : "D6"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO CRANES AND DERRICKS UNIT",
+  "code" : "D7"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO EXECUTIVE INSPECTIONS",
+  "code" : "D8"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO ELECTRICAL UNIT",
+  "code" : "D9"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO BUILDING MARSHAL'S OFFICE",
+  "code" : "E1"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO LEGAL AFFAIRS/PADLOCK UNIT",
+  "code" : "E2"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO BORO OFFICE FOR FINAL INSPECTION",
+  "code" : "E3"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO LL58/87 UNIT (HANDICAP ACCESS)",
+  "code" : "E4"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO CENTER FOR RE-EVALUATION",
+  "code" : "E5"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO SPECIAL OPERATIONS UNIT",
+  "code" : "E6"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO SCAFFOLD SAFETY TEAM",
+  "code" : "E7"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO EXCAVATION INSPECTION & AUDITS TEAM",
+  "code" : "E8"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO STALLED SITES UNIT",
+  "code" : "E9"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO INTERIOR DEMOLITION UNIT",
+  "code" : "EA"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO FACADE INSPECTION SAFETY PROGRAM",
+  "code" : "EB"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO STRUCT COMPROMISED BUILDINGS UNIT",
+  "code" : "EC"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO RETAINING WALLS UNIT",
+  "code" : "ED"
+}
+, {
+  "disposition" : "COMPLAINT REASSIGNED FOR REVIEW",
+  "code" : "EE"
+}
+, {
+  "disposition" : "COMPLAINT ASSIGNED TO DEPT. OF INVESTIGATION",
+  "code" : "EZ"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED TO DEPARTMENT OF ENVIRONMENTAL PROTECTION(DEP)",
+  "code" : "F1"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED TO NYS DIV. OF HOUSING & COMMUNITY RENEWAL (DHCR)",
+  "code" : "F2"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED TO DEPARTMENT OF HEALTH",
+  "code" : "F3"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED FOR REVIEW",
+  "code" : "F4"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED TO DEPARTMENT OF SANITATION (DOS)",
+  "code" : "F5"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED TO DEPARTMENT OF TRANSPORTATION (DOT)",
+  "code" : "F6"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED TO NYS OFFICE OF REAL PROPERTIES SERVICES",
+  "code" : "F7"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED TO HOUSING PRESERVATION AND DEVELOPMENT (HPD)",
+  "code" : "F8"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED TO HOUSING AND URBAN DEVELOPMENT - FEDERAL (HUD)",
+  "code" : "F9"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED TO INSPECTOR GENERAL'S OFFICE (IGO)",
+  "code" : "G1"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED TO DEPARTMENT OF PARKS AND RECREATION",
+  "code" : "G2"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED TO TAXI AND LIMOUSINE COMMISSION (TLC)",
+  "code" : "G3"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED TO DEPARTMENT OF CONSUMER AFFAIRS",
+  "code" : "G4"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED TO NEW YORK POLICE DEPARTMENT",
+  "code" : "G5"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED TO FIRE DEPARTMENT OF NEW YORK (FDNY)",
+  "code" : "G6"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED TO MAYOR'S OFFICE OF SPECIAL ENFORCEMENT",
+  "code" : "G7"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED TO NYC HOUSING AUTHORITY (NYCHA)",
+  "code" : "G8"
+}
+, {
+  "disposition" : "COMPLAINT REFERRED TO DEPT CITYWIDE ADMINISTRATIVE SERVICES",
+  "code" : "G9"
+}
+, {
+  "disposition" : "PLEASE SEE COMPLAINT NUMBER",
+  "code" : "H1"
+}
+, {
+  "disposition" : "PREVIOUSLY INSPECTED COMPLAINT - PRE-BIS COMPLAINT NUMBER",
+  "code" : "H2"
+}
+, {
+  "disposition" : "BUILDING VIOLATION ISSUED FOR FAILURE TO OBEY STOP WORK ORDER",
+  "code" : "H3"
+}
+, {
+  "disposition" : "CRIMINAL COURT SUMMONS SERVED DUE TO FAILURE TO OBEY SWO",
+  "code" : "H4"
+}
+, {
+  "disposition" : "STOP ALL WORK / NO TCAO ISSUED",
+  "code" : "H5"
+}
+, {
+  "disposition" : "COMPLAINT UNSUBSTANTIATED BASED ON DEPARTMENT RECORDS",
+  "code" : "I1"
+}
+, {
+  "disposition" : "NO VIOLATION WARRANTED FOR COMPLAINT AT TIME OF INSPECTION",
+  "code" : "I2"
+}
+, {
+  "disposition" : "COMPLIANCE INSPECTION PERFORMED",
+  "code" : "I3"
+}
+, {
+  "disposition" : "FOLLOW-UP INSPECTION TO BE SCHEDULED UPON FURTHER RESEARCH",
+  "code" : "J1"
+}
+, {
+  "disposition" : "COMPLAINT RESOLVED BY PERIODIC INSPECTION",
+  "code" : "J2"
+}
+, {
+  "disposition" : "REVIEWED - INSPECTION TO BE SCHEDULED",
+  "code" : "J3"
+}
+, {
+  "disposition" : "FOLLOW-UP INSPECTION SCHEDULED FOR HAZARDOUS CONDITION",
+  "code" : "J4"
+}
+, {
+  "disposition" : "INSUFFICIENT INFORMATION/UNABLE TO LOCATE ADDRESS",
+  "code" : "K1"
+}
+, {
+  "disposition" : "ADDRESS INVALID - PENDING BUILDINGS VERIFICATION",
+  "code" : "K2"
+}
+, {
+  "disposition" : "CRANES & DERRICKS - NO ADDRESS - SEE COMMENTS",
+  "code" : "K3"
+}
+, {
+  "disposition" : "CRANES & DERRICKS - STOP WORK ORDER - NO ASSOCIATED ADDRESS P",
+  "code" : "K4"
+}
+, {
+  "disposition" : "LETTER OF DEFICIENCY ISSUED",
+  "code" : "K5"
+}
+, {
+  "disposition" : "LETTER OF DEFICIENCY ISSUED WITH PARTIAL SWO",
+  "code" : "K6"
+}
+, {
+  "disposition" : "NOTIFICATION OF CORRECTION RECEIVED",
+  "code" : "K7"
+}
+, {
+  "disposition" : "CORRECTION VERIFIED BY DOB",
+  "code" : "K8"
+}
+, {
+  "disposition" : "PARTIAL STOP WORK ORDER P",
+  "code" : "L1"
+}
+, {
+  "disposition" : "STOP WORK ORDER FULLY RESCINDED N",
+  "code" : "L2"
+}
+, {
+  "disposition" : "STOP WORK ORDER PARTIALLY RESCINDED P",
+  "code" : "L3"
+}
+, {
+  "disposition" : "BICYCLE ACCESS PLAN: ELEVATOR USE ACCEPTABLE",
+  "code" : "M1"
+}
+, {
+  "disposition" : "BICYCLE ACCESS PLAN: ALTERNATE USE PARKING REQUIREMENT MET",
+  "code" : "M3"
+}
+, {
+  "disposition" : "BICYCLE ACCESS PLAN: ALTERNATE USE PARKING REQUIREMENT NOT MET",
+  "code" : "M4"
+}
+, {
+  "disposition" : "MARCH: NO ENFORCEMENT ACTION TAKEN",
+  "code" : "MA"
+}
+, {
+  "disposition" : "MARCH: FAILURE TO MAINTAIN BLDG/ECB NOV ISSUED",
+  "code" : "MB"
+}
+, {
+  "disposition" : "MARCH: CONTRARY TO APPROVED PLANS/ECB NOV ISSUED",
+  "code" : "MC"
+}
+, {
+  "disposition" : "MARCH: EXIT PASSAGE OBSTRUCTED/ECB NOV ISSUED",
+  "code" : "MD"
+}
+, {
+  "disposition" : "MARCH: EXIT PASSAGE OBSTRUCTED/ECB NOV & FULL VACATE ISSUED F",
+  "code" : "ME"
+}
+, {
+  "disposition" : "MARCH: EXIT PASSAGE OBSTRUCTED/ECB NOV & PARTIAL VACATE ISSUED P",
+  "code" : "MF"
+}
+, {
+  "disposition" : "MARCH: OCCUPANCY CONTRARY TO C OF O/NONE/ECB NOV ISSUED",
+  "code" : "MG"
+}
+, {
+  "disposition" : "MARCH: NO PA PERMIT/ECB NOV & FULL VACATE ISSUED F",
+  "code" : "MH"
+}
+, {
+  "disposition" : "MARCH: NO PA PERMIT/ECB NOV & PARTIAL VACATE ISSUED P",
+  "code" : "MI"
+}
+, {
+  "disposition" : "MARCH: WORK WITHOUT PERMIT/ECB NOV ISSUED",
+  "code" : "MJ"
+}
+, {
+  "disposition" : "MARCH: NO PA PERMIT/ECB NOV ISSUED",
+  "code" : "MK"
+}
+, {
+  "disposition" : "NOTICE OF DEFICIENCY ISSUED",
+  "code" : "ND"
+}
+, {
+  "disposition" : "JOB VESTED",
+  "code" : "P1"
+}
+, {
+  "disposition" : "FOLLOW UP INSPECTION REQUIRED PENDING ADOPTION",
+  "code" : "P2"
+}
+, {
+  "disposition" : "CLOSURE/PADLOCK ORDER ISSUED",
+  "code" : "P3"
+}
+, {
+  "disposition" : "CLOSURE/PADLOCK ORDER RESCINDED",
+  "code" : "P4"
+}
+, {
+  "disposition" : "POTENTIAL ORDINARY PLUMBING WORK",
+  "code" : "P5"
+}
+, {
+  "disposition" : "INITIAL NOTIFICATION ACCEPTED",
+  "code" : "P6"
+}
+, {
+  "disposition" : "COMPROMISED STRUCTURE: OWNER PROF REPORT REQUIRED",
+  "code" : "Q1"
+}
+, {
+  "disposition" : "COMPROMISED STRUCTURE: CONDITION REMEDIED",
+  "code" : "Q4"
+}
+, {
+  "disposition" : "INSPECTION - NO IMMEDIATE ACTION/NO FOLLOW-UP REQUIRED",
+  "code" : "R1"
+}
+, {
+  "disposition" : "INSPECTION - NO IMMEDIATE ACTION/MONTHLY INSPECTION",
+  "code" : "R3"
+}
+, {
+  "disposition" : "INSPECTION - ENGINEERING ASSESSMENT REQUIRED",
+  "code" : "R4"
+}
+, {
+  "disposition" : "INSPECTION - CLASS 1 ECB(S) WRITTEN/ORDER TO CORRECT",
+  "code" : "R5"
+}
+, {
+  "disposition" : "ENGINEERING - NO IMMEDIATE ACTION/NO FOLLOW-UP REQUIRED",
+  "code" : "R6"
+}
+, {
+  "disposition" : "ENGINEERING - NO IMMEDIATE ACTION/WEEKLY ASSESSMENT",
+  "code" : "R7"
+}
+, {
+  "disposition" : "ENGINEERING - NO IMMEDIATE ACTION/MONTHLY ASSESSMENT",
+  "code" : "R8"
+}
+, {
+  "disposition" : "BUILDING AT RISK PROGRAM - NO IMMEDIATE DANGER",
+  "code" : "R9"
+}
+, {
+  "disposition" : "COMMISSIONER'S ORDER - ISSUED TO OWNER",
+  "code" : "RA"
+}
+, {
+  "disposition" : "COMMISSIONER'S ORDER - OWNER REMEDIATION PLANS ACCEPTED",
+  "code" : "RB"
+}
+, {
+  "disposition" : "COMMISSIONER'S ORDER - WEEKLY MONITORING",
+  "code" : "RE"
+}
+, {
+  "disposition" : "COMMISSIONER'S ORDER - OWNER REMEDIATION COMPLETED",
+  "code" : "RG"
+}
+, {
+  "disposition" : "EMERGENCY DECLARATION - ISSUED",
+  "code" : "RH"
+}
+, {
+  "disposition" : "IMMEDIATE EMERGENCY DECLARATION - ISSUED",
+  "code" : "RI"
+}
+, {
+  "disposition" : "IMMEDIATE/EMERGENCY DECLARATION - ACTION COMPLETED",
+  "code" : "RJ"
+}
+, {
+  "disposition" : "UNSAFE BUILDING - VIOLATION ISSUED",
+  "code" : "RK"
+}
+, {
+  "disposition" : "UNSAFE BUILDING - ACTION COMPLETED",
+  "code" : "RL"
+}
+, {
+  "disposition" : "STRUCTURAL MONITORING: OWNER PROFESSIONAL REPORT REQUIRED",
+  "code" : "RM"
+}
+, {
+  "disposition" : "STRUCTURAL MONITORING: OWNER PROFESSIONAL REPORT DEADLINE PASSED",
+  "code" : "RN"
+}
+, {
+  "disposition" : "COMPROMISED STRUCTURE: ACTION COMPLETED",
+  "code" : "RT"
+}
+, {
+  "disposition" : "LL11 UNSAFE - INITIATED",
+  "code" : "RU"
+}
+, {
+  "disposition" : "LL11 UNSAFE - ACTION COMPLETED",
+  "code" : "RV"
+}
+, {
+  "disposition" : "IMMEDIATE/EMERGENCY DEC - PREVIOUSLY ISSUED/UNDERWAY",
+  "code" : "RW"
+}
+, {
+  "disposition" : "UNSAFE BUILDING - PRECEPT PREVIOUSLY ISSUED/UNDERWAY",
+  "code" : "RX"
+}
+, {
+  "disposition" : "FACADE REPORT - PREVIOUSLY ISSUED/UNDERWAY",
+  "code" : "RY"
+}
+, {
+  "disposition" : "VACATE - PREVIOUSLY ISSUED/UNDERWAY",
+  "code" : "RZ"
+}
+, {
+  "disposition" : "STALLED: ALL WORK COMPLETED",
+  "code" : "S0"
+}
+, {
+  "disposition" : "STALLED: EXCAVATION - NO IMMEDIATE THREAT",
+  "code" : "S1"
+}
+, {
+  "disposition" : "STALLED: EXCAVATION DETERIORATING - NO IMMEDIATE THREAT",
+  "code" : "S2"
+}
+, {
+  "disposition" : "STALLED: EXCAVATION - UNSAFE",
+  "code" : "S3"
+}
+, {
+  "disposition" : "STALLED: SUPERSTRUCTURE - NO IMMEDIATE THREAT",
+  "code" : "S4"
+}
+, {
+  "disposition" : "STALLED: SUPERSTRUCTURE DETERIORATING - NO IMMEDIATE THREAT",
+  "code" : "S5"
+}
+, {
+  "disposition" : "STALLED: SUPERSTRUCTURE - UNSAFE",
+  "code" : "S6"
+}
+, {
+  "disposition" : "STALLED: NO IMMEDIATE THREAT - GRADED & FENCED",
+  "code" : "S7"
+}
+, {
+  "disposition" : "STALLED: CONSTRUCTION IN PROGRESS",
+  "code" : "S8"
+}
+, {
+  "disposition" : "STALLED: EMERGENCY DECLARATION FILED",
+  "code" : "S9"
+}
+, {
+  "disposition" : "STOP WORK ORDER VIOLATION SERVED FOR NON-COMPLIANT AFTER HOURS WORK",
+  "code" : "V3"
+}
+, {
+  "disposition" : "VIOLATION SERVED FOR DISOBEYING VACATE ORDER",
+  "code" : "W1"
+}
+, {
+  "disposition" : "WEATHER RELATED: NO ACTION NECESSARY",
+  "code" : "WA"
+}
+, {
+  "disposition" : "WEATHER RELATED: NO ACCESS",
+  "code" : "WB"
+}
+, {
+  "disposition" : "WEATHER RLT: NOD ISSUED/UNSAFE/RED TAG REMAINS/ENG.EVALUATION REQUIRED",
+  "code" : "WC"
+}
+, {
+  "disposition" : "WEATHER RLT: NOD ISSUED/RESTRICTED/YLW TAG REMAINS/ENG.EVALUATION REQD",
+  "code" : "WD"
+}
+, {
+  "disposition" : "WEATHER RLT: NOD ISSUED/DWNGRD TO YLW/RESTRICTED/ENG.EVALUATION REQUIRED",
+  "code" : "WE"
+}
+, {
+  "disposition" : "WEATHER RELATED: NO FURTHER ACTION NECESSARY/DOWNGRADED TO GREEN",
+  "code" : "WF"
+}
+, {
+  "disposition" : "WEATHER RELATED: GREEN TAG RESCINDED/NO OCCUPANCY RESTRICTIONS",
+  "code" : "WG"
+}
+, {
+  "disposition" : "WEATHER RLT: GREEN TAG RESCINDED/STRUCTURALLY SOUND/UTILITIES UNRESOLVED",
+  "code" : "WH"
+}
+, {
+  "disposition" : "WEATHER RLT: NO ACTION WARRANTED BY DOB/REFER TO OTHER AGENCY/CALL 311",
+  "code" : "WI"
+}
+, {
+  "disposition" : "WEATHER RELATED: ENFORCEMENT ORDER TO BE ISSUED/SEE REFERENCED COMPLAINT",
+  "code" : "WJ"
+}
+, {
+  "disposition" : "ADMINISTRATIVE CLOSURE NN",
+  "code" : "XX"
+}
+, {
+  "disposition" : "FULL VACATE ORDER ISSUED F",
+  "code" : "Y1"
+}
+, {
+  "disposition" : "VACATE ORDER FULLY RESCINDED N",
+  "code" : "Y2"
+}
+, {
+  "disposition" : "PARTIAL VACATE ORDER ISSUED P",
+  "code" : "Y3"
+}
+, {
+  "disposition" : "VACATE ORDER PARTIALLY RESCINDED P",
+  "code" : "Y4"
+}
+ ]

@@ -1,0 +1,91 @@
+[ {
+  "retiree_health_benefits_trust" : "-$672.00",
+  "medicaid" : "6217.00",
+  "fmap_federal_matching_percent_for_medicaid" : "-$124.00",
+  "non_controllable_agency_expenses" : "FY 2012",
+  "general_reserve" : " $ - - - ",
+  "fringe_benefits" : "6226.00",
+  "all_other" : "2241.00",
+  "total_non_controllable_and_debt_service" : "26447.00",
+  "pensions" : "7798.00",
+  "employee_related_costs" : "13352.00",
+  "subtotal_non_controllable_expenses" : "21471.00",
+  "reserve_for_claims_from_past_periods" : "-$215.00",
+  "debt_service" : "4976.00"
+}
+, {
+  "retiree_health_benefits_trust" : "-$1,000.00",
+  "medicaid" : "6223.00",
+  "fmap_federal_matching_percent_for_medicaid" : "-$32.00",
+  "non_controllable_agency_expenses" : " FY 2013",
+  "general_reserve" : "$100.00",
+  "fringe_benefits" : "6523.00",
+  "all_other" : "2398.00",
+  "total_non_controllable_and_debt_service" : "27261.00",
+  "pensions" : "7905.00",
+  "employee_related_costs" : "13428.00",
+  "subtotal_non_controllable_expenses" : "21617.00",
+  "reserve_for_claims_from_past_periods" : "-$500.00",
+  "debt_service" : "5644.00"
+}
+, {
+  "retiree_health_benefits_trust" : "-$1,000.00",
+  "medicaid" : "6273.00",
+  "fmap_federal_matching_percent_for_medicaid" : " $ - - - ",
+  "non_controllable_agency_expenses" : "FY 2014 ",
+  "general_reserve" : "$300.00",
+  "fringe_benefits" : "7009.00",
+  "all_other" : "2447.00",
+  "total_non_controllable_and_debt_service" : "29105.00",
+  "pensions" : "8055.00",
+  "employee_related_costs" : "14064.00",
+  "subtotal_non_controllable_expenses" : "23084.00",
+  "reserve_for_claims_from_past_periods" : "$ - - - ",
+  "debt_service" : "6021.00"
+}
+, {
+  "retiree_health_benefits_trust" : "$ - - - ",
+  "medicaid" : "6354.00",
+  "fmap_federal_matching_percent_for_medicaid" : "$ - - - ",
+  "non_controllable_agency_expenses" : "FY 2015",
+  "general_reserve" : "$300.00",
+  "fringe_benefits" : "7788.00",
+  "all_other" : "2630.00",
+  "total_non_controllable_and_debt_service" : "31998.00",
+  "pensions" : "8047.00",
+  "employee_related_costs" : "15835.00",
+  "subtotal_non_controllable_expenses" : "25119.00",
+  "reserve_for_claims_from_past_periods" : "$ - - - ",
+  "debt_service" : "6879.00"
+}
+, {
+  "retiree_health_benefits_trust" : "$ - - -",
+  "medicaid" : "6323.00",
+  "fmap_federal_matching_percent_for_medicaid" : "$ - - - ",
+  "non_controllable_agency_expenses" : "FY 2016 ",
+  "general_reserve" : "$300.00",
+  "fringe_benefits" : "8444.00",
+  "all_other" : "2690.00",
+  "total_non_controllable_and_debt_service" : "33199.00",
+  "pensions" : "8242.00",
+  "employee_related_costs" : "16686.00",
+  "subtotal_non_controllable_expenses" : "25999.00",
+  "reserve_for_claims_from_past_periods" : "$ - - - ",
+  "debt_service" : "7200.00"
+}
+, {
+  "retiree_health_benefits_trust" : " $ - - -",
+  "medicaid" : "6323.00",
+  "fmap_federal_matching_percent_for_medicaid" : "$ - - -",
+  "non_controllable_agency_expenses" : "FY 2017",
+  "general_reserve" : "$300.00",
+  "fringe_benefits" : "9131.00",
+  "all_other" : "2813.00",
+  "total_non_controllable_and_debt_service" : "34475.00",
+  "pensions" : "8495.00",
+  "employee_related_costs" : "17626.00",
+  "subtotal_non_controllable_expenses" : "27062.00",
+  "reserve_for_claims_from_past_periods" : "$ - - -",
+  "debt_service" : "7413.00"
+}
+ ]

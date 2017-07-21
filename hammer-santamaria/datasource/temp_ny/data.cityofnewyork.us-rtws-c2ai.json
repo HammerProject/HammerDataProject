@@ -1,0 +1,5001 @@
+[ {
+  "dbn" : "15K001",
+  "school_name" : "P.S. 001 THE BERGEN",
+  "school_pupil_teacher_ratio" : "13.4"
+}
+, {
+  "dbn" : "12X691",
+  "school_name" : "BRONX LITTLE SCHOOL",
+  "school_pupil_teacher_ratio" : "12"
+}
+, {
+  "dbn" : "11X567",
+  "school_name" : "LINDEN TREE ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "16.9"
+}
+, {
+  "dbn" : "09X555",
+  "school_name" : "MOUNT EDEN CHILDREN'S ACADEMY",
+  "school_pupil_teacher_ratio" : "18.1"
+}
+, {
+  "dbn" : "12X536",
+  "school_name" : "PS 536",
+  "school_pupil_teacher_ratio" : "14.8"
+}
+, {
+  "dbn" : "12X531",
+  "school_name" : "ARCHER ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "11X483",
+  "school_name" : "P.S. 483",
+  "school_pupil_teacher_ratio" : "14.3"
+}
+, {
+  "dbn" : "11X481",
+  "school_name" : "P.S. 481",
+  "school_pupil_teacher_ratio" : "14.1"
+}
+, {
+  "dbn" : "12X463",
+  "school_name" : "URBAN SCHOLARS COMMUNITY SCHOOL",
+  "school_pupil_teacher_ratio" : "13.8"
+}
+, {
+  "dbn" : "12X458",
+  "school_name" : "SAMARA COMMUNITY SCHOOL",
+  "school_pupil_teacher_ratio" : "19"
+}
+, {
+  "dbn" : "09X457",
+  "school_name" : "SHERIDAN ACADEMY FOR YOUNG LEADERS",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "09X449",
+  "school_name" : "GRANT AVENUE ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "12.8"
+}
+, {
+  "dbn" : "09X443",
+  "school_name" : "THE FAMILY SCHOOL",
+  "school_pupil_teacher_ratio" : "11.3"
+}
+, {
+  "dbn" : "10X396",
+  "school_name" : "P.S. 396",
+  "school_pupil_teacher_ratio" : "6"
+}
+, {
+  "dbn" : "08X392",
+  "school_name" : "BRONX DELTA SCHOOL",
+  "school_pupil_teacher_ratio" : "13.1"
+}
+, {
+  "dbn" : "10X386",
+  "school_name" : "SCHOOL FOR ENVIRONMENTAL CITIZENSHIP",
+  "school_pupil_teacher_ratio" : "14.1"
+}
+, {
+  "dbn" : "07X385",
+  "school_name" : "PERFORMANCE SCHOOL",
+  "school_pupil_teacher_ratio" : "7.4"
+}
+, {
+  "dbn" : "10X382",
+  "school_name" : "ELEMENTARY SCHOOL FOR MATH, SCIENCE, AND TECHNOLOGY",
+  "school_pupil_teacher_ratio" : "14.1"
+}
+, {
+  "dbn" : "07X369",
+  "school_name" : "YOUNG LEADERS ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "9.8"
+}
+, {
+  "dbn" : "10X360",
+  "school_name" : "P.S. 360",
+  "school_pupil_teacher_ratio" : "14"
+}
+, {
+  "dbn" : "07X359",
+  "school_name" : "CONCOURSE VILLAGE ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "9.8"
+}
+, {
+  "dbn" : "11X357",
+  "school_name" : "YOUNG VOICES ACADEMY OF THE BRONX",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "10X344",
+  "school_name" : "AMPARK NEIGHBORHOOD",
+  "school_pupil_teacher_ratio" : "18.5"
+}
+, {
+  "dbn" : "10X340",
+  "school_name" : "P.S. 340",
+  "school_pupil_teacher_ratio" : "12.3"
+}
+, {
+  "dbn" : "08X335",
+  "school_name" : "THE ACADEMY OF THE ARTS",
+  "school_pupil_teacher_ratio" : "13"
+}
+, {
+  "dbn" : "08X333",
+  "school_name" : "P.S. 333 - THE MUSEUM SCHOOL",
+  "school_pupil_teacher_ratio" : "14.1"
+}
+, {
+  "dbn" : "12X314",
+  "school_name" : "FAIRMONT NEIGHBORHOOD SCHOOL",
+  "school_pupil_teacher_ratio" : "10.3"
+}
+, {
+  "dbn" : "09X311",
+  "school_name" : "LUCERO ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "13.1"
+}
+, {
+  "dbn" : "10X310",
+  "school_name" : "P.S. 310 MARBLE HILL",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "10X307",
+  "school_name" : "LUISA PINEIRO FUENTES SCHOOL OF SCIENCE AND DISCOVERY",
+  "school_pupil_teacher_ratio" : "13.5"
+}
+, {
+  "dbn" : "10X306",
+  "school_name" : "P.S. 306",
+  "school_pupil_teacher_ratio" : "13.5"
+}
+, {
+  "dbn" : "08X304",
+  "school_name" : "P.S. 304 EARLY CHILDHOOD SCHOOL",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "12X300",
+  "school_name" : "THE SCHOOL OF SCIENCE AND APPLIED LEARNING",
+  "school_pupil_teacher_ratio" : "12.9"
+}
+, {
+  "dbn" : "09X294",
+  "school_name" : "THE WALTON AVENUE SCHOOL",
+  "school_pupil_teacher_ratio" : "12.9"
+}
+, {
+  "dbn" : "10X291",
+  "school_name" : "P.S. 291",
+  "school_pupil_teacher_ratio" : "15.2"
+}
+, {
+  "dbn" : "07X277",
+  "school_name" : "P.S. 277",
+  "school_pupil_teacher_ratio" : "12.3"
+}
+, {
+  "dbn" : "09X274",
+  "school_name" : "THE NEW AMERICAN ACADEMY AT ROBERTO CLEMENTE STATE PARK",
+  "school_pupil_teacher_ratio" : "17.3"
+}
+, {
+  "dbn" : "10X246",
+  "school_name" : "P.S. 246 POE CENTER",
+  "school_pupil_teacher_ratio" : "13.1"
+}
+, {
+  "dbn" : "09X236",
+  "school_name" : "P.S. 236 LANGSTON HUGHES",
+  "school_pupil_teacher_ratio" : "12.1"
+}
+, {
+  "dbn" : "09X230",
+  "school_name" : "P.S. 230 DR ROLAND N. PATTERSON",
+  "school_pupil_teacher_ratio" : "7.4"
+}
+, {
+  "dbn" : "10X226",
+  "school_name" : "P.S. 226",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "10X209",
+  "school_name" : "P.S. 209",
+  "school_pupil_teacher_ratio" : "11.3"
+}
+, {
+  "dbn" : "10X207",
+  "school_name" : "P.S. 207",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "10X205",
+  "school_name" : "P.S. 205 FIORELLO LAGUARDIA",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "09X204",
+  "school_name" : "P.S. 204 MORRIS HEIGHTS",
+  "school_pupil_teacher_ratio" : "15.9"
+}
+, {
+  "dbn" : "09X199",
+  "school_name" : "P.S. 199X - THE SHAKESPEARE SCHOOL",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "12X196",
+  "school_name" : "P.S. 196",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "12X195",
+  "school_name" : "P.S. 195",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "11X189",
+  "school_name" : "CORNERSTONE ACADEMY FOR SOCIAL ACTION",
+  "school_pupil_teacher_ratio" : "12.7"
+}
+, {
+  "dbn" : "08X182",
+  "school_name" : "P.S. 182",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "07X179",
+  "school_name" : "P.S. 179",
+  "school_pupil_teacher_ratio" : "12.4"
+}
+, {
+  "dbn" : "11X178",
+  "school_name" : "P.S. 178 - DR. SELMAN WAKSMAN",
+  "school_pupil_teacher_ratio" : "13"
+}
+, {
+  "dbn" : "09X170",
+  "school_name" : "P.S. 170",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "11X169",
+  "school_name" : "BAYCHESTER ACADEMY",
+  "school_pupil_teacher_ratio" : "17.6"
+}
+, {
+  "dbn" : "09X163",
+  "school_name" : "P.S. 163 ARTHUR A. SCHOMBURG",
+  "school_pupil_teacher_ratio" : "13.3"
+}
+, {
+  "dbn" : "07X161",
+  "school_name" : "P.S. 161 PONCE DE LEON",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "11X160",
+  "school_name" : "P.S. 160 WALT DISNEY",
+  "school_pupil_teacher_ratio" : "11.5"
+}
+, {
+  "dbn" : "10X159",
+  "school_name" : "P.S. 159 LUIS MUNOZ MARIN BILING",
+  "school_pupil_teacher_ratio" : "11.8"
+}
+, {
+  "dbn" : "07X157",
+  "school_name" : "P.S. 157 GROVE HILL",
+  "school_pupil_teacher_ratio" : "12.7"
+}
+, {
+  "dbn" : "07X154",
+  "school_name" : "P.S. 154 JONATHAN D. HYATT",
+  "school_pupil_teacher_ratio" : "11.3"
+}
+, {
+  "dbn" : "11X153",
+  "school_name" : "P.S. 153 HELEN KELLER",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "08X152",
+  "school_name" : "P.S. 152 EVERGREEN",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "12X150",
+  "school_name" : "P.S. 150 CHARLES JAMES FOX",
+  "school_pupil_teacher_ratio" : "15.4"
+}
+, {
+  "dbn" : "08X146",
+  "school_name" : "P.S. 146 EDWARD COLLINS",
+  "school_pupil_teacher_ratio" : "13.4"
+}
+, {
+  "dbn" : "08X140",
+  "school_name" : "P.S. X140 THE EAGLE SCHOOL",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "08X138",
+  "school_name" : "P.S. 138 SAMUEL RANDALL",
+  "school_pupil_teacher_ratio" : "15.7"
+}
+, {
+  "dbn" : "12X134",
+  "school_name" : "P.S. 134 GEORGE F. BRISTOW",
+  "school_pupil_teacher_ratio" : "17.5"
+}
+, {
+  "dbn" : "09X132",
+  "school_name" : "P.S. 132 GARRET A. MORGAN",
+  "school_pupil_teacher_ratio" : "11.6"
+}
+, {
+  "dbn" : "08X130",
+  "school_name" : "P.S. 130 ABRAM STEVENS HEWITT",
+  "school_pupil_teacher_ratio" : "12.9"
+}
+, {
+  "dbn" : "09X126",
+  "school_name" : "P.S. 126 DR MARJORIE H DUNBAR",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "11X121",
+  "school_name" : "P.S. 121 THROOP",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "08X119",
+  "school_name" : "P.S. 119",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "09X114",
+  "school_name" : "P.S. X114 - LUIS LLORENS TORRES SCHOOLS",
+  "school_pupil_teacher_ratio" : "15.4"
+}
+, {
+  "dbn" : "11X112",
+  "school_name" : "P.S. 112 BRONXWOOD",
+  "school_pupil_teacher_ratio" : "15.7"
+}
+, {
+  "dbn" : "11X111",
+  "school_name" : "P.S. 111 SETON FALLS",
+  "school_pupil_teacher_ratio" : "14.6"
+}
+, {
+  "dbn" : "09X110",
+  "school_name" : "P.S. 110 THEODORE SCHOENFELD",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "09X109",
+  "school_name" : "P.S. 109 SEDGWICK",
+  "school_pupil_teacher_ratio" : "15.2"
+}
+, {
+  "dbn" : "11X108",
+  "school_name" : "P.S. 108 PHILIP J. ABINANTI",
+  "school_pupil_teacher_ratio" : "13.8"
+}
+, {
+  "dbn" : "08X107",
+  "school_name" : "P.S. 107",
+  "school_pupil_teacher_ratio" : "14.2"
+}
+, {
+  "dbn" : "11X106",
+  "school_name" : "P.S. 106 PARKCHESTER",
+  "school_pupil_teacher_ratio" : "16.2"
+}
+, {
+  "dbn" : "11X105",
+  "school_name" : "P.S. 105 SEN ABRAHAM BERNSTEIN",
+  "school_pupil_teacher_ratio" : "14.1"
+}
+, {
+  "dbn" : "11X103",
+  "school_name" : "P.S. 103 HECTOR FONTANEZ",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "08X100",
+  "school_name" : "P.S. 100 ISAAC CLASON",
+  "school_pupil_teacher_ratio" : "14.8"
+}
+, {
+  "dbn" : "11X097",
+  "school_name" : "P.S. 097 BRONX",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "11X096",
+  "school_name" : "P.S. 096 RICHARD RODGERS",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "10X094",
+  "school_name" : "P.S. 094 KINGS COLLEGE SCHOOL",
+  "school_pupil_teacher_ratio" : "12.3"
+}
+, {
+  "dbn" : "08X093",
+  "school_name" : "P.S. 093 ALBERT G. OLIVER",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "12X092",
+  "school_name" : "P.S. 092 BRONX",
+  "school_pupil_teacher_ratio" : "12.3"
+}
+, {
+  "dbn" : "10X091",
+  "school_name" : "P.S. 091 BRONX",
+  "school_pupil_teacher_ratio" : "14.2"
+}
+, {
+  "dbn" : "09X088",
+  "school_name" : "P.S. X088 - S. SILVERSTEIN LITTLE SPARROW SCHOOL",
+  "school_pupil_teacher_ratio" : "11.5"
+}
+, {
+  "dbn" : "11X087",
+  "school_name" : "P.S. 087 BRONX",
+  "school_pupil_teacher_ratio" : "17.4"
+}
+, {
+  "dbn" : "10X085",
+  "school_name" : "P.S. 085 GREAT EXPECTATIONS",
+  "school_pupil_teacher_ratio" : "12.2"
+}
+, {
+  "dbn" : "10X081",
+  "school_name" : "P.S. 081 ROBERT J. CHRISTEN",
+  "school_pupil_teacher_ratio" : "14.7"
+}
+, {
+  "dbn" : "11X078",
+  "school_name" : "P.S. 078 ANNE HUTCHINSON",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "10X077",
+  "school_name" : "BEDFORD PARK ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "15.9"
+}
+, {
+  "dbn" : "11X076",
+  "school_name" : "P.S. 076 THE BENNINGTON SCHOOL",
+  "school_pupil_teacher_ratio" : "15.2"
+}
+, {
+  "dbn" : "08X075",
+  "school_name" : "P.S. 75 SCHOOL OF RESEARCH AND DISCOVERY",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "09X073",
+  "school_name" : "P.S. 073 BRONX",
+  "school_pupil_teacher_ratio" : "15.4"
+}
+, {
+  "dbn" : "08X072",
+  "school_name" : "P.S. 072 DR. WILLIAM DORNEY",
+  "school_pupil_teacher_ratio" : "16"
+}
+, {
+  "dbn" : "09X070",
+  "school_name" : "P.S. 070 MAX SCHOENFELD",
+  "school_pupil_teacher_ratio" : "16.4"
+}
+, {
+  "dbn" : "08X069",
+  "school_name" : "P.S. 069 JOURNEY PREP SCHOOL",
+  "school_pupil_teacher_ratio" : "15.2"
+}
+, {
+  "dbn" : "11X068",
+  "school_name" : "P.S. 068 BRONX",
+  "school_pupil_teacher_ratio" : "9.1"
+}
+, {
+  "dbn" : "12X067",
+  "school_name" : "P.S. 067 MOHEGAN SCHOOL",
+  "school_pupil_teacher_ratio" : "13.5"
+}
+, {
+  "dbn" : "12X066",
+  "school_name" : "P.S. 066 SCHOOL OF HIGHER EXPECTATIONS",
+  "school_pupil_teacher_ratio" : "12.5"
+}
+, {
+  "dbn" : "07X065",
+  "school_name" : "P.S. 065 MOTHER HALE ACADEMY",
+  "school_pupil_teacher_ratio" : "11.9"
+}
+, {
+  "dbn" : "09X064",
+  "school_name" : "P.S. 064 PURA BELPRE",
+  "school_pupil_teacher_ratio" : "9.6"
+}
+, {
+  "dbn" : "09X063",
+  "school_name" : "P.S. 063 AUTHOR'S ACADEMY",
+  "school_pupil_teacher_ratio" : "13.1"
+}
+, {
+  "dbn" : "08X062",
+  "school_name" : "P.S. 062 INOCENSIO CASANOVA",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "12X061",
+  "school_name" : "P.S. 061 FRANCISCO OLLER",
+  "school_pupil_teacher_ratio" : "15.2"
+}
+, {
+  "dbn" : "10X059",
+  "school_name" : "P.S. 059 THE COMMUNITY SCHOOL OF TECHNOLOGY",
+  "school_pupil_teacher_ratio" : "12.5"
+}
+, {
+  "dbn" : "09X058",
+  "school_name" : "P.S. 058",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "12X057",
+  "school_name" : "P.S. 057 CRESCENT",
+  "school_pupil_teacher_ratio" : "14.6"
+}
+, {
+  "dbn" : "10X056",
+  "school_name" : "P.S. 056 NORWOOD HEIGHTS",
+  "school_pupil_teacher_ratio" : "17"
+}
+, {
+  "dbn" : "09X055",
+  "school_name" : "P.S. 055 BENJAMIN FRANKLIN",
+  "school_pupil_teacher_ratio" : "16.8"
+}
+, {
+  "dbn" : "10X054",
+  "school_name" : "P.S. / I.S. 54",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "09X053",
+  "school_name" : "P.S. 053 BASHEER QUISIM",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "10X051",
+  "school_name" : "P.S. 051 BRONX NEW SCHOOL",
+  "school_pupil_teacher_ratio" : "16"
+}
+, {
+  "dbn" : "12X050",
+  "school_name" : "P.S. 050 CLARA BARTON",
+  "school_pupil_teacher_ratio" : "5.3"
+}
+, {
+  "dbn" : "07X049",
+  "school_name" : "P.S. 049 WILLIS AVENUE",
+  "school_pupil_teacher_ratio" : "12.1"
+}
+, {
+  "dbn" : "08X048",
+  "school_name" : "P.S. 048 JOSEPH R. DRAKE",
+  "school_pupil_teacher_ratio" : "12.4"
+}
+, {
+  "dbn" : "12X047",
+  "school_name" : "P.S. 047 JOHN RANDOLPH",
+  "school_pupil_teacher_ratio" : "15.4"
+}
+, {
+  "dbn" : "10X046",
+  "school_name" : "P.S. 046 EDGAR ALLAN POE",
+  "school_pupil_teacher_ratio" : "13.4"
+}
+, {
+  "dbn" : "12X044",
+  "school_name" : "P.S. 044 DAVID C. FARRAGUT",
+  "school_pupil_teacher_ratio" : "10.8"
+}
+, {
+  "dbn" : "07X043",
+  "school_name" : "P.S. 043 JONAS BRONCK",
+  "school_pupil_teacher_ratio" : "13.8"
+}
+, {
+  "dbn" : "09X042",
+  "school_name" : "P.S. 042 CLAREMONT",
+  "school_pupil_teacher_ratio" : "12"
+}
+, {
+  "dbn" : "11X041",
+  "school_name" : "P.S. 041 GUN HILL ROAD",
+  "school_pupil_teacher_ratio" : "16"
+}
+, {
+  "dbn" : "08X036",
+  "school_name" : "P.S. 036 UNIONPORT",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "09X035",
+  "school_name" : "P.S. 035 FRANZ SIEGEL",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "10X033",
+  "school_name" : "P.S. 033 TIMOTHY DWIGHT",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "10X032",
+  "school_name" : "P.S. 032 BELMONT",
+  "school_pupil_teacher_ratio" : "12.9"
+}
+, {
+  "dbn" : "07X030",
+  "school_name" : "P.S. 030 WILTON",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "09X028",
+  "school_name" : "P.S. 028 MOUNT HOPE",
+  "school_pupil_teacher_ratio" : "14.7"
+}
+, {
+  "dbn" : "07X025",
+  "school_name" : "P.S. 025 BILINGUAL SCHOOL",
+  "school_pupil_teacher_ratio" : "11.6"
+}
+, {
+  "dbn" : "10X024",
+  "school_name" : "P.S. 024 SPUYTEN DUYVIL",
+  "school_pupil_teacher_ratio" : "16.8"
+}
+, {
+  "dbn" : "10X023",
+  "school_name" : "P.S. 023 THE NEW CHILDREN'S SCHOOL",
+  "school_pupil_teacher_ratio" : "12.3"
+}
+, {
+  "dbn" : "11X021",
+  "school_name" : "P.S. 021 PHILIP H. SHERIDAN",
+  "school_pupil_teacher_ratio" : "16.9"
+}
+, {
+  "dbn" : "07X018",
+  "school_name" : "P.S. 018 JOHN PETER ZENGER",
+  "school_pupil_teacher_ratio" : "13"
+}
+, {
+  "dbn" : "11X016",
+  "school_name" : "P.S. 016 WAKEFIELD",
+  "school_pupil_teacher_ratio" : "13.2"
+}
+, {
+  "dbn" : "08X014",
+  "school_name" : "P.S. X014 SENATOR JOHN CALANDRA",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "09X011",
+  "school_name" : "P.S. 011 HIGHBRIDGE",
+  "school_pupil_teacher_ratio" : "13.1"
+}
+, {
+  "dbn" : "10X009",
+  "school_name" : "P.S. 9 RYER AVENUE ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "10X008",
+  "school_name" : "P.S. 008 ISSAC VARIAN",
+  "school_pupil_teacher_ratio" : "13.5"
+}
+, {
+  "dbn" : "10X007",
+  "school_name" : "MILTON FEIN SCHOOL",
+  "school_pupil_teacher_ratio" : "16.3"
+}
+, {
+  "dbn" : "12X006",
+  "school_name" : "P.S. 006 WEST FARMS",
+  "school_pupil_teacher_ratio" : "13.5"
+}
+, {
+  "dbn" : "09X004",
+  "school_name" : "P.S./M.S. 004 CROTONA PARK WEST",
+  "school_pupil_teacher_ratio" : "13.2"
+}
+, {
+  "dbn" : "07X001",
+  "school_name" : "P.S. 001 COURTLANDT SCHOOL",
+  "school_pupil_teacher_ratio" : "13.3"
+}
+, {
+  "dbn" : "31R078",
+  "school_name" : "PS 78",
+  "school_pupil_teacher_ratio" : "13.4"
+}
+, {
+  "dbn" : "31R074",
+  "school_name" : "P.S. 74 FUTURE LEADERS ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "11.9"
+}
+, {
+  "dbn" : "31R069",
+  "school_name" : "P.S. 069 DANIEL D. TOMPKINS",
+  "school_pupil_teacher_ratio" : "10.4"
+}
+, {
+  "dbn" : "31R065",
+  "school_name" : "P.S. 65 THE ACADEMY OF INNOVATIVE LEARNING",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "31R062",
+  "school_name" : "P.S. 62",
+  "school_pupil_teacher_ratio" : "11.2"
+}
+, {
+  "dbn" : "31R060",
+  "school_name" : "P.S. 060 ALICE AUSTEN",
+  "school_pupil_teacher_ratio" : "15.4"
+}
+, {
+  "dbn" : "31R059",
+  "school_name" : "THE HARBOR VIEW SCHOOL",
+  "school_pupil_teacher_ratio" : "12.7"
+}
+, {
+  "dbn" : "31R058",
+  "school_name" : "SPACE SHUTTLE COLUMBIA SCHOOL",
+  "school_pupil_teacher_ratio" : "16.1"
+}
+, {
+  "dbn" : "31R057",
+  "school_name" : "P.S. 057 HUBERT H. HUMPHREY",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "31R056",
+  "school_name" : "P.S. 56 THE LOUIS DESARIO SCHOOL",
+  "school_pupil_teacher_ratio" : "14.2"
+}
+, {
+  "dbn" : "31R055",
+  "school_name" : "P.S. 055 HENRY M. BOEHM",
+  "school_pupil_teacher_ratio" : "15.7"
+}
+, {
+  "dbn" : "31R054",
+  "school_name" : "P.S. 054 CHARLES W. LENG",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "31R053",
+  "school_name" : "P.S. 053 BAY TERRACE",
+  "school_pupil_teacher_ratio" : "16.6"
+}
+, {
+  "dbn" : "31R052",
+  "school_name" : "P.S. 052 JOHN C. THOMPSON",
+  "school_pupil_teacher_ratio" : "14.1"
+}
+, {
+  "dbn" : "31R050",
+  "school_name" : "P.S. 050 FRANK HANKINSON",
+  "school_pupil_teacher_ratio" : "16.7"
+}
+, {
+  "dbn" : "31R046",
+  "school_name" : "P.S. 046 ALBERT V. MANISCALCO",
+  "school_pupil_teacher_ratio" : "11.8"
+}
+, {
+  "dbn" : "31R045",
+  "school_name" : "P.S. 045 JOHN TYLER",
+  "school_pupil_teacher_ratio" : "16.6"
+}
+, {
+  "dbn" : "31R044",
+  "school_name" : "P.S. 044 THOMAS C. BROWN",
+  "school_pupil_teacher_ratio" : "14.7"
+}
+, {
+  "dbn" : "31R042",
+  "school_name" : "P.S. 042 ELTINGVILLE",
+  "school_pupil_teacher_ratio" : "18.3"
+}
+, {
+  "dbn" : "31R041",
+  "school_name" : "P.S. 041 NEW DORP",
+  "school_pupil_teacher_ratio" : "15.8"
+}
+, {
+  "dbn" : "31R039",
+  "school_name" : "P.S. 39 FRANCIS J. MURPHY JR.",
+  "school_pupil_teacher_ratio" : "16.9"
+}
+, {
+  "dbn" : "31R038",
+  "school_name" : "P.S. 038 GEORGE CROMWELL",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "31R036",
+  "school_name" : "P.S. 036 J. C. DRUMGOOLE",
+  "school_pupil_teacher_ratio" : "17.2"
+}
+, {
+  "dbn" : "31R035",
+  "school_name" : "P.S. 35 THE CLOVE VALLEY SCHOOL",
+  "school_pupil_teacher_ratio" : "16.3"
+}
+, {
+  "dbn" : "31R032",
+  "school_name" : "P.S. 032 THE GIFFORD SCHOOL",
+  "school_pupil_teacher_ratio" : "18.2"
+}
+, {
+  "dbn" : "31R031",
+  "school_name" : "P.S. 031 WILLIAM T. DAVIS",
+  "school_pupil_teacher_ratio" : "14"
+}
+, {
+  "dbn" : "31R030",
+  "school_name" : "P.S. 030 WESTERLEIGH",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "31R029",
+  "school_name" : "P.S. 029 BARDWELL",
+  "school_pupil_teacher_ratio" : "18.4"
+}
+, {
+  "dbn" : "31R028",
+  "school_name" : "THE EAGLE ACADEMY FOR YOUNG MEN OF STATEN ISLAND",
+  "school_pupil_teacher_ratio" : "11.9"
+}
+, {
+  "dbn" : "31R026",
+  "school_name" : "P.S. 026 THE CARTERET SCHOOL",
+  "school_pupil_teacher_ratio" : "12.8"
+}
+, {
+  "dbn" : "31R023",
+  "school_name" : "P.S. 023 RICHMONDTOWN",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "31R022",
+  "school_name" : "P.S. 022 GRANITEVILLE",
+  "school_pupil_teacher_ratio" : "18"
+}
+, {
+  "dbn" : "31R021",
+  "school_name" : "P.S. 21 MARGARET EMERY-ELM PARK",
+  "school_pupil_teacher_ratio" : "13"
+}
+, {
+  "dbn" : "31R020",
+  "school_name" : "P.S. 020 PORT RICHMOND",
+  "school_pupil_teacher_ratio" : "12.6"
+}
+, {
+  "dbn" : "31R019",
+  "school_name" : "P.S. 019 THE CURTIS SCHOOL",
+  "school_pupil_teacher_ratio" : "17.2"
+}
+, {
+  "dbn" : "31R018",
+  "school_name" : "P.S. 018 JOHN G. WHITTIER",
+  "school_pupil_teacher_ratio" : "12.6"
+}
+, {
+  "dbn" : "31R016",
+  "school_name" : "P.S. 016 JOHN J. DRISCOLL",
+  "school_pupil_teacher_ratio" : "13.2"
+}
+, {
+  "dbn" : "31R013",
+  "school_name" : "P.S. 013 M. L. LINDEMEYER",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "31R011",
+  "school_name" : "P.S. 11 THOMAS DONGAN SCHOOL",
+  "school_pupil_teacher_ratio" : "12.9"
+}
+, {
+  "dbn" : "31R010",
+  "school_name" : "FORT HILL COLLABORATIVE ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "10.6"
+}
+, {
+  "dbn" : "31R009",
+  "school_name" : "NAPLES STREET ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "11.1"
+}
+, {
+  "dbn" : "31R008",
+  "school_name" : "P.S. 8 SHIRLEE SOLOMON",
+  "school_pupil_teacher_ratio" : "16.2"
+}
+, {
+  "dbn" : "31R006",
+  "school_name" : "P.S. 6 CORPORAL ALLAN F. KIVLEHAN SCHOOL",
+  "school_pupil_teacher_ratio" : "14.7"
+}
+, {
+  "dbn" : "31R005",
+  "school_name" : "P.S. 005 HUGUENOT",
+  "school_pupil_teacher_ratio" : "12.3"
+}
+, {
+  "dbn" : "31R004",
+  "school_name" : "P.S. 004 MAURICE WOLLIN",
+  "school_pupil_teacher_ratio" : "9.5"
+}
+, {
+  "dbn" : "31R003",
+  "school_name" : "P.S. 003 THE MARGARET GIOIOSA SCHOOL",
+  "school_pupil_teacher_ratio" : "16.8"
+}
+, {
+  "dbn" : "31R001",
+  "school_name" : "P.S. 001 TOTTENVILLE",
+  "school_pupil_teacher_ratio" : "13.1"
+}
+, {
+  "dbn" : "24Q877",
+  "school_name" : "THE 51 AVENUE ACADEMY (THE PATH TO ACADEMIC EXCELLENCE)",
+  "school_pupil_teacher_ratio" : "15.2"
+}
+, {
+  "dbn" : "27Q362",
+  "school_name" : "WAVE PREPARATORY ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "30Q361",
+  "school_name" : "P.S. 361",
+  "school_pupil_teacher_ratio" : "12.6"
+}
+, {
+  "dbn" : "29Q360",
+  "school_name" : "P.S. 360",
+  "school_pupil_teacher_ratio" : "13.3"
+}
+, {
+  "dbn" : "28Q354",
+  "school_name" : "PS 354",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "28Q349",
+  "school_name" : "P.S. 349",
+  "school_pupil_teacher_ratio" : "11.7"
+}
+, {
+  "dbn" : "24Q343",
+  "school_name" : "THE CHILDREN'S LAB SCHOOL",
+  "school_pupil_teacher_ratio" : "13.1"
+}
+, {
+  "dbn" : "24Q330",
+  "school_name" : "P.S. 330",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "30Q329",
+  "school_name" : "EAST ELMHURST COMMUNITY SCHOOL",
+  "school_pupil_teacher_ratio" : "17.6"
+}
+, {
+  "dbn" : "27Q317",
+  "school_name" : "WATERSIDE CHILDREN'S STUDIO SCHOOL",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "27Q316",
+  "school_name" : "QUEENS EXPLORERS ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "13.3"
+}
+, {
+  "dbn" : "28Q312",
+  "school_name" : "JAMAICA CHILDREN'S SCHOOL",
+  "school_pupil_teacher_ratio" : "10"
+}
+, {
+  "dbn" : "24Q307",
+  "school_name" : "PIONEER ACADEMY",
+  "school_pupil_teacher_ratio" : "13.3"
+}
+, {
+  "dbn" : "27Q306",
+  "school_name" : "NEW YORK CITY ACADEMY FOR DISCOVERY",
+  "school_pupil_teacher_ratio" : "13.3"
+}
+, {
+  "dbn" : "24Q305",
+  "school_name" : "LEARNERS AND LEADERS",
+  "school_pupil_teacher_ratio" : "14"
+}
+, {
+  "dbn" : "28Q303",
+  "school_name" : "THE ACADEMY FOR EXCELLENCE THROUGH THE ARTS",
+  "school_pupil_teacher_ratio" : "16.9"
+}
+, {
+  "dbn" : "24Q290",
+  "school_name" : "A.C.E. ACADEMY FOR SCHOLARS AT THE GERALDINE FERRARO CAMPUS",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "30Q280",
+  "school_name" : "P.S. 280",
+  "school_pupil_teacher_ratio" : "16.8"
+}
+, {
+  "dbn" : "27Q273",
+  "school_name" : "P.S. 273",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "27Q254",
+  "school_name" : "P.S. 254 - THE ROSA PARKS SCHOOL",
+  "school_pupil_teacher_ratio" : "16.3"
+}
+, {
+  "dbn" : "27Q253",
+  "school_name" : "P.S. 253",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "29Q251",
+  "school_name" : "P.S. 251 QUEENS",
+  "school_pupil_teacher_ratio" : "13.8"
+}
+, {
+  "dbn" : "25Q244",
+  "school_name" : "THE ACTIVE LEARNING ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "16.3"
+}
+, {
+  "dbn" : "25Q242",
+  "school_name" : "P.S. 242 LEONARD P. STAVISKY EARLY CHILDHOOD SCHOOL",
+  "school_pupil_teacher_ratio" : "11.7"
+}
+, {
+  "dbn" : "24Q239",
+  "school_name" : "P.S. 239",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "30Q234",
+  "school_name" : "P.S. 234",
+  "school_pupil_teacher_ratio" : "16.4"
+}
+, {
+  "dbn" : "24Q229",
+  "school_name" : "P.S. 229 EMANUEL KAPLAN",
+  "school_pupil_teacher_ratio" : "17.9"
+}
+, {
+  "dbn" : "30Q228",
+  "school_name" : "P.S. 228 EARLY CHILDHOOD MAGNET SCHOOL OF THE ARTS",
+  "school_pupil_teacher_ratio" : "13.2"
+}
+, {
+  "dbn" : "27Q223",
+  "school_name" : "P.S. 223 LYNDON B. JOHNSON",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "30Q222",
+  "school_name" : "P.S. Q222 - FIRE FIGHTER CHRISTOPHER A. SANTORA SCHOOL",
+  "school_pupil_teacher_ratio" : "14.8"
+}
+, {
+  "dbn" : "26Q221",
+  "school_name" : "P.S. 221 THE NORTH HILLS SCHOOL",
+  "school_pupil_teacher_ratio" : "17"
+}
+, {
+  "dbn" : "28Q220",
+  "school_name" : "P.S. 220 EDWARD MANDEL",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "25Q214",
+  "school_name" : "P.S. 214 CADWALLADER COLDEN",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "26Q213",
+  "school_name" : "P.S. 213 THE CARL ULLMAN SCHOOL",
+  "school_pupil_teacher_ratio" : "16"
+}
+, {
+  "dbn" : "30Q212",
+  "school_name" : "P.S. 212",
+  "school_pupil_teacher_ratio" : "15.9"
+}
+, {
+  "dbn" : "24Q211",
+  "school_name" : "ELM TREE ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "11.8"
+}
+, {
+  "dbn" : "25Q209",
+  "school_name" : "P.S. 209 CLEARVIEW GARDENS",
+  "school_pupil_teacher_ratio" : "16.7"
+}
+, {
+  "dbn" : "28Q206",
+  "school_name" : "P.S. 206 THE HORACE HARDING SCHOOL",
+  "school_pupil_teacher_ratio" : "14.3"
+}
+, {
+  "dbn" : "26Q205",
+  "school_name" : "P.S. 205 ALEXANDER GRAHAM BELL",
+  "school_pupil_teacher_ratio" : "15.4"
+}
+, {
+  "dbn" : "26Q203",
+  "school_name" : "P.S. 203 OAKLAND GARDENS",
+  "school_pupil_teacher_ratio" : "19.7"
+}
+, {
+  "dbn" : "25Q201",
+  "school_name" : "P.S. 201 THE DISCOVERY SCHOOL FOR INQUIRY AND RESEARCH",
+  "school_pupil_teacher_ratio" : "11.5"
+}
+, {
+  "dbn" : "24Q199",
+  "school_name" : "P.S. 199 MAURICE A. FITZGERALD",
+  "school_pupil_teacher_ratio" : "16.1"
+}
+, {
+  "dbn" : "27Q197",
+  "school_name" : "P.S. 197 THE OCEAN SCHOOL",
+  "school_pupil_teacher_ratio" : "13.4"
+}
+, {
+  "dbn" : "28Q196",
+  "school_name" : "P.S. 196 GRAND CENTRAL PARKWAY",
+  "school_pupil_teacher_ratio" : "18.4"
+}
+, {
+  "dbn" : "29Q195",
+  "school_name" : "P.S. 195 WILLIAM HABERLE",
+  "school_pupil_teacher_ratio" : "16.2"
+}
+, {
+  "dbn" : "25Q193",
+  "school_name" : "P.S. 193 ALFRED J. KENNEDY",
+  "school_pupil_teacher_ratio" : "16.5"
+}
+, {
+  "dbn" : "26Q191",
+  "school_name" : "P.S. 191 MAYFLOWER",
+  "school_pupil_teacher_ratio" : "17.3"
+}
+, {
+  "dbn" : "26Q188",
+  "school_name" : "P.S. 188 KINGSBURY",
+  "school_pupil_teacher_ratio" : "19.2"
+}
+, {
+  "dbn" : "26Q186",
+  "school_name" : "P.S. 186 CASTLEWOOD",
+  "school_pupil_teacher_ratio" : "6.7"
+}
+, {
+  "dbn" : "25Q184",
+  "school_name" : "P.S. 184 FLUSHING MANOR",
+  "school_pupil_teacher_ratio" : "18.2"
+}
+, {
+  "dbn" : "28Q182",
+  "school_name" : "P.S. 182 SAMANTHA SMITH",
+  "school_pupil_teacher_ratio" : "14.8"
+}
+, {
+  "dbn" : "29Q181",
+  "school_name" : "P.S. 181 BROOKFIELD",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "29Q176",
+  "school_name" : "P.S. 176 CAMBRIA HEIGHTS",
+  "school_pupil_teacher_ratio" : "19.1"
+}
+, {
+  "dbn" : "28Q175",
+  "school_name" : "P.S. 175 THE LYNN GROSS DISCOVERY SCHOOL",
+  "school_pupil_teacher_ratio" : "20.2"
+}
+, {
+  "dbn" : "28Q174",
+  "school_name" : "P.S. 174 WILLIAM SIDNEY MOUNT",
+  "school_pupil_teacher_ratio" : "17"
+}
+, {
+  "dbn" : "26Q173",
+  "school_name" : "P.S. 173 FRESH MEADOWS",
+  "school_pupil_teacher_ratio" : "17"
+}
+, {
+  "dbn" : "30Q171",
+  "school_name" : "P.S. 171 PETER G. VAN ALST",
+  "school_pupil_teacher_ratio" : "14.1"
+}
+, {
+  "dbn" : "25Q169",
+  "school_name" : "P.S. 169 BAY TERRACE",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "30Q166",
+  "school_name" : "P.S. 166 HENRY GRADSTEIN",
+  "school_pupil_teacher_ratio" : "17.4"
+}
+, {
+  "dbn" : "25Q165",
+  "school_name" : "P.S. 165 EDITH K. BERGTRAUM",
+  "school_pupil_teacher_ratio" : "9.3"
+}
+, {
+  "dbn" : "25Q163",
+  "school_name" : "P.S. 163 FLUSHING HEIGHTS",
+  "school_pupil_teacher_ratio" : "16.2"
+}
+, {
+  "dbn" : "26Q162",
+  "school_name" : "P.S. 162 JOHN GOLDEN",
+  "school_pupil_teacher_ratio" : "17.5"
+}
+, {
+  "dbn" : "28Q161",
+  "school_name" : "P.S. 161 ARTHUR ASHE SCHOOL",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "28Q160",
+  "school_name" : "P.S. 160 WALTER FRANCIS BISHOP",
+  "school_pupil_teacher_ratio" : "15.3"
+}
+, {
+  "dbn" : "26Q159",
+  "school_name" : "P.S. 159",
+  "school_pupil_teacher_ratio" : "18"
+}
+, {
+  "dbn" : "29Q156",
+  "school_name" : "P.S. 156 LAURELTON",
+  "school_pupil_teacher_ratio" : "11.5"
+}
+, {
+  "dbn" : "27Q155",
+  "school_name" : "P.S. 155",
+  "school_pupil_teacher_ratio" : "17.2"
+}
+, {
+  "dbn" : "25Q154",
+  "school_name" : "P.S. 154 QUEENS",
+  "school_pupil_teacher_ratio" : "16.6"
+}
+, {
+  "dbn" : "24Q153",
+  "school_name" : "P.S. 153 MASPETH ELEM",
+  "school_pupil_teacher_ratio" : "16.3"
+}
+, {
+  "dbn" : "30Q152",
+  "school_name" : "P.S. 152 GWENDOLINE N. ALLEYNE SCHOOL",
+  "school_pupil_teacher_ratio" : "16.2"
+}
+, {
+  "dbn" : "30Q151",
+  "school_name" : "P.S. 151 MARY D. CARTER",
+  "school_pupil_teacher_ratio" : "12.3"
+}
+, {
+  "dbn" : "30Q150",
+  "school_name" : "P.S. 150 QUEENS",
+  "school_pupil_teacher_ratio" : "18"
+}
+, {
+  "dbn" : "30Q149",
+  "school_name" : "P.S. 149 CHRISTA MCAULIFFE",
+  "school_pupil_teacher_ratio" : "14.7"
+}
+, {
+  "dbn" : "30Q148",
+  "school_name" : "P.S. 148 QUEENS",
+  "school_pupil_teacher_ratio" : "16.7"
+}
+, {
+  "dbn" : "28Q144",
+  "school_name" : "P.S. 144 COL JEROMUS REMSEN",
+  "school_pupil_teacher_ratio" : "16.6"
+}
+, {
+  "dbn" : "24Q143",
+  "school_name" : "P.S. 143 LOUIS ARMSTRONG",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "28Q140",
+  "school_name" : "P.S. 140 EDWARD K ELLINGTON",
+  "school_pupil_teacher_ratio" : "17.1"
+}
+, {
+  "dbn" : "28Q139",
+  "school_name" : "P.S. 139 REGO PARK",
+  "school_pupil_teacher_ratio" : "17.6"
+}
+, {
+  "dbn" : "29Q136",
+  "school_name" : "P.S. 136 ROY WILKINS",
+  "school_pupil_teacher_ratio" : "17.2"
+}
+, {
+  "dbn" : "29Q135",
+  "school_name" : "THE BELLAIRE SCHOOL",
+  "school_pupil_teacher_ratio" : "16.7"
+}
+, {
+  "dbn" : "29Q134",
+  "school_name" : "P.S. 134 HOLLIS",
+  "school_pupil_teacher_ratio" : "13"
+}
+, {
+  "dbn" : "26Q133",
+  "school_name" : "P.S. 133 QUEENS",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "29Q132",
+  "school_name" : "P.S. 132 RALPH BUNCHE",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "29Q131",
+  "school_name" : "P.S. 131 ABIGAIL ADAMS",
+  "school_pupil_teacher_ratio" : "17.8"
+}
+, {
+  "dbn" : "25Q130",
+  "school_name" : "P.S. 130",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "25Q129",
+  "school_name" : "P.S. 129 PATRICIA LARKIN",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "27Q123",
+  "school_name" : "P.S. 123",
+  "school_pupil_teacher_ratio" : "16"
+}
+, {
+  "dbn" : "28Q121",
+  "school_name" : "P.S. 121 QUEENS",
+  "school_pupil_teacher_ratio" : "17.4"
+}
+, {
+  "dbn" : "25Q120",
+  "school_name" : "P.S. 120 QUEENS",
+  "school_pupil_teacher_ratio" : "18.2"
+}
+, {
+  "dbn" : "29Q118",
+  "school_name" : "P.S. 118 LORRAINE HANSBERRY",
+  "school_pupil_teacher_ratio" : "16.3"
+}
+, {
+  "dbn" : "28Q117",
+  "school_name" : "P.S. 117 J. KELD / BRIARWOOD SCHOOL",
+  "school_pupil_teacher_ratio" : "16.7"
+}
+, {
+  "dbn" : "26Q115",
+  "school_name" : "P.S. 115 GLEN OAKS",
+  "school_pupil_teacher_ratio" : "16.6"
+}
+, {
+  "dbn" : "30Q112",
+  "school_name" : "P.S. 112 DUTCH KILLS",
+  "school_pupil_teacher_ratio" : "14.2"
+}
+, {
+  "dbn" : "24Q110",
+  "school_name" : "PS 110",
+  "school_pupil_teacher_ratio" : "15.2"
+}
+, {
+  "dbn" : "27Q108",
+  "school_name" : "P.S. 108 CAPTAIN VINCENT G. FOWLER",
+  "school_pupil_teacher_ratio" : "17.9"
+}
+, {
+  "dbn" : "25Q107",
+  "school_name" : "P.S. 107 THOMAS A DOOLEY",
+  "school_pupil_teacher_ratio" : "16.3"
+}
+, {
+  "dbn" : "27Q106",
+  "school_name" : "P.S. 106",
+  "school_pupil_teacher_ratio" : "10.6"
+}
+, {
+  "dbn" : "27Q104",
+  "school_name" : "P.S. 104 THE BAYS WATER",
+  "school_pupil_teacher_ratio" : "17.1"
+}
+, {
+  "dbn" : "28Q101",
+  "school_name" : "P.S. 101 SCHOOL IN THE GARDENS",
+  "school_pupil_teacher_ratio" : "16.7"
+}
+, {
+  "dbn" : "27Q100",
+  "school_name" : "P.S. 100 GLEN MORRIS",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "28Q099",
+  "school_name" : "P.S. 099 KEW GARDENS",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "26Q098",
+  "school_name" : "P.S. 098 THE DOUGLASTON SCHOOL",
+  "school_pupil_teacher_ratio" : "12.5"
+}
+, {
+  "dbn" : "27Q097",
+  "school_name" : "P.S. 097 FOREST PARK",
+  "school_pupil_teacher_ratio" : "15.9"
+}
+, {
+  "dbn" : "27Q096",
+  "school_name" : "P.S. 096",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "29Q095",
+  "school_name" : "P.S. 095 EASTWOOD",
+  "school_pupil_teacher_ratio" : "16.6"
+}
+, {
+  "dbn" : "26Q094",
+  "school_name" : "P.S. 094 DAVID D. PORTER",
+  "school_pupil_teacher_ratio" : "15.3"
+}
+, {
+  "dbn" : "30Q092",
+  "school_name" : "P.S. 092 HARRY T. STEWART SR.",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "24Q091",
+  "school_name" : "P.S. 091 RICHARD ARKWRIGHT",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "27Q090",
+  "school_name" : "P.S. 090 HORACE MANN",
+  "school_pupil_teacher_ratio" : "16.1"
+}
+, {
+  "dbn" : "24Q089",
+  "school_name" : "P.S. 089 ELMHURST",
+  "school_pupil_teacher_ratio" : "16.6"
+}
+, {
+  "dbn" : "24Q088",
+  "school_name" : "P.S. 088 SENECA",
+  "school_pupil_teacher_ratio" : "15.3"
+}
+, {
+  "dbn" : "28Q086",
+  "school_name" : "P.S. Q086",
+  "school_pupil_teacher_ratio" : "15.8"
+}
+, {
+  "dbn" : "30Q085",
+  "school_name" : "P.S. 085 JUDGE CHARLES VALLONE",
+  "school_pupil_teacher_ratio" : "16.7"
+}
+, {
+  "dbn" : "28Q082",
+  "school_name" : "P.S. 082 HAMMOND",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "24Q081",
+  "school_name" : "P.S. 81Q JEAN PAUL RICHTER",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "28Q080",
+  "school_name" : "PS 80 THE THURGOOD MARSHALL MAGNET SCHOOL OF MULTIMEDIA AND COMMUNICATION",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "25Q079",
+  "school_name" : "P.S. 079 FRANCIS LEWIS",
+  "school_pupil_teacher_ratio" : "19"
+}
+, {
+  "dbn" : "30Q076",
+  "school_name" : "P.S. 076 WILLIAM HALLET",
+  "school_pupil_teacher_ratio" : "9.8"
+}
+, {
+  "dbn" : "24Q071",
+  "school_name" : "P.S. 071 FOREST",
+  "school_pupil_teacher_ratio" : "14"
+}
+, {
+  "dbn" : "30Q070",
+  "school_name" : "P.S. 070 QUEENS",
+  "school_pupil_teacher_ratio" : "16.1"
+}
+, {
+  "dbn" : "30Q069",
+  "school_name" : "P.S. 069 JACKSON HEIGHTS",
+  "school_pupil_teacher_ratio" : "18.2"
+}
+, {
+  "dbn" : "24Q068",
+  "school_name" : "P.S. 068 CAMBRIDGE",
+  "school_pupil_teacher_ratio" : "15.3"
+}
+, {
+  "dbn" : "27Q066",
+  "school_name" : "P.S. 066 JACQUELINE KENNEDY ONASSIS",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "27Q065",
+  "school_name" : "P.S. 65 - THE RAYMOND YORK ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "15.7"
+}
+, {
+  "dbn" : "27Q064",
+  "school_name" : "P.S. 064 JOSEPH P. ADDABBO",
+  "school_pupil_teacher_ratio" : "15.9"
+}
+, {
+  "dbn" : "27Q063",
+  "school_name" : "P.S. 063 OLD SOUTH",
+  "school_pupil_teacher_ratio" : "17.1"
+}
+, {
+  "dbn" : "27Q062",
+  "school_name" : "P. S. 62 - CHESTER PARK SCHOOL",
+  "school_pupil_teacher_ratio" : "17.7"
+}
+, {
+  "dbn" : "27Q060",
+  "school_name" : "P.S. 060 WOODHAVEN",
+  "school_pupil_teacher_ratio" : "15.8"
+}
+, {
+  "dbn" : "24Q058",
+  "school_name" : "P.S. 58 - THE SCHOOL OF HEROES",
+  "school_pupil_teacher_ratio" : "16.6"
+}
+, {
+  "dbn" : "27Q056",
+  "school_name" : "P.S. 056 HARRY EICHLER",
+  "school_pupil_teacher_ratio" : "15.4"
+}
+, {
+  "dbn" : "28Q055",
+  "school_name" : "P.S. 055 MAURE",
+  "school_pupil_teacher_ratio" : "16.8"
+}
+, {
+  "dbn" : "28Q054",
+  "school_name" : "P.S. 054 HILLSIDE",
+  "school_pupil_teacher_ratio" : "14.7"
+}
+, {
+  "dbn" : "29Q052",
+  "school_name" : "P.S. 052 QUEENS",
+  "school_pupil_teacher_ratio" : "15.9"
+}
+, {
+  "dbn" : "27Q051",
+  "school_name" : "P.S. 051",
+  "school_pupil_teacher_ratio" : "13.8"
+}
+, {
+  "dbn" : "28Q050",
+  "school_name" : "P.S. 050 TALFOURD LAWN ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "16.1"
+}
+, {
+  "dbn" : "28Q048",
+  "school_name" : "P.S. 048 WILLIAM WORDSWORTH",
+  "school_pupil_teacher_ratio" : "14.2"
+}
+, {
+  "dbn" : "26Q046",
+  "school_name" : "P.S. 046 ALLEY POND",
+  "school_pupil_teacher_ratio" : "12.1"
+}
+, {
+  "dbn" : "27Q045",
+  "school_name" : "P.S. 045 CLARENCE WITHERSPOON",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "26Q041",
+  "school_name" : "P.S. 041 CROCHERON",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "28Q040",
+  "school_name" : "P.S. 040 SAMUEL HUNTINGTON",
+  "school_pupil_teacher_ratio" : "12.8"
+}
+, {
+  "dbn" : "29Q038",
+  "school_name" : "P.S. 038 ROSEDALE",
+  "school_pupil_teacher_ratio" : "14.7"
+}
+, {
+  "dbn" : "29Q037",
+  "school_name" : "CYNTHIA JENKINS SCHOOL",
+  "school_pupil_teacher_ratio" : "14.2"
+}
+, {
+  "dbn" : "29Q036",
+  "school_name" : "P.S. 036 SAINT ALBANS SCHOOL",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "29Q035",
+  "school_name" : "P.S. 035 NATHANIEL WOODHULL",
+  "school_pupil_teacher_ratio" : "16.1"
+}
+, {
+  "dbn" : "29Q034",
+  "school_name" : "P.S. 034 JOHN HARVARD",
+  "school_pupil_teacher_ratio" : "18.2"
+}
+, {
+  "dbn" : "29Q033",
+  "school_name" : "P.S. 033 EDWARD M. FUNK",
+  "school_pupil_teacher_ratio" : "18.7"
+}
+, {
+  "dbn" : "25Q032",
+  "school_name" : "P.S. 032 STATE STREET",
+  "school_pupil_teacher_ratio" : "16.6"
+}
+, {
+  "dbn" : "26Q031",
+  "school_name" : "P.S. 031 BAYSIDE",
+  "school_pupil_teacher_ratio" : "14.8"
+}
+, {
+  "dbn" : "25Q029",
+  "school_name" : "P.S. 029 QUEENS",
+  "school_pupil_teacher_ratio" : "15.7"
+}
+, {
+  "dbn" : "24Q028",
+  "school_name" : "P.S. 28 - THE THOMAS EMANUEL EARLY CHILDHOOD CENTER",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "26Q026",
+  "school_name" : "P.S. 026 RUFUS KING",
+  "school_pupil_teacher_ratio" : "17"
+}
+, {
+  "dbn" : "25Q024",
+  "school_name" : "P.S. 024 ANDREW JACKSON",
+  "school_pupil_teacher_ratio" : "17.6"
+}
+, {
+  "dbn" : "25Q022",
+  "school_name" : "P.S. 022 THOMAS JEFFERSON",
+  "school_pupil_teacher_ratio" : "14.2"
+}
+, {
+  "dbn" : "25Q021",
+  "school_name" : "P.S. 021 EDWARD HART",
+  "school_pupil_teacher_ratio" : "18"
+}
+, {
+  "dbn" : "25Q020",
+  "school_name" : "P.S. 020 JOHN BOWNE",
+  "school_pupil_teacher_ratio" : "17.1"
+}
+, {
+  "dbn" : "24Q019",
+  "school_name" : "P.S. 019 MARINO JEANTET",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "26Q018",
+  "school_name" : "P.S. 018 WINCHESTER",
+  "school_pupil_teacher_ratio" : "16.9"
+}
+, {
+  "dbn" : "30Q017",
+  "school_name" : "P.S. 017 HENRY DAVID THOREAU",
+  "school_pupil_teacher_ratio" : "14.8"
+}
+, {
+  "dbn" : "24Q016",
+  "school_name" : "P.S. Q016 THE NANCY DEBENEDITTIS SCHOOL",
+  "school_pupil_teacher_ratio" : "16"
+}
+, {
+  "dbn" : "29Q015",
+  "school_name" : "P.S. 015 JACKIE ROBINSON",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "24Q014",
+  "school_name" : "P.S. 014 FAIRVIEW",
+  "school_pupil_teacher_ratio" : "18.2"
+}
+, {
+  "dbn" : "24Q013",
+  "school_name" : "P.S. 013 CLEMENT C. MOORE",
+  "school_pupil_teacher_ratio" : "17"
+}
+, {
+  "dbn" : "24Q012",
+  "school_name" : "P.S. 012 JAMES B. COLGATE",
+  "school_pupil_teacher_ratio" : "16.1"
+}
+, {
+  "dbn" : "30Q011",
+  "school_name" : "P.S. 011 KATHRYN PHELAN",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "24Q007",
+  "school_name" : "P.S. 007 LOUIS F. SIMEONE",
+  "school_pupil_teacher_ratio" : "15.7"
+}
+, {
+  "dbn" : "30Q002",
+  "school_name" : "P.S. 002 ALFRED ZIMBERG",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "04M964",
+  "school_name" : "CENTRAL PARK EAST II",
+  "school_pupil_teacher_ratio" : "11.3"
+}
+, {
+  "dbn" : "02M527",
+  "school_name" : "PS 527 - EAST SIDE SCHOOL FOR SOCIAL ACTION",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "05M517",
+  "school_name" : "TEACHERS COLLEGE COMMUNITY SCHOOL",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "03M452",
+  "school_name" : "P.S. 452",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "02M397",
+  "school_name" : "SPRUCE STREET SCHOOL",
+  "school_pupil_teacher_ratio" : "14.1"
+}
+, {
+  "dbn" : "04M375",
+  "school_name" : "MOSAIC PREPARATORY ACADEMY",
+  "school_pupil_teacher_ratio" : "10.3"
+}
+, {
+  "dbn" : "06M368",
+  "school_name" : "HAMILTON HEIGHTS SCHOOL",
+  "school_pupil_teacher_ratio" : "13.3"
+}
+, {
+  "dbn" : "01M364",
+  "school_name" : "EARTH SCHOOL",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "01M363",
+  "school_name" : "NEIGHBORHOOD SCHOOL",
+  "school_pupil_teacher_ratio" : "12.6"
+}
+, {
+  "dbn" : "01M361",
+  "school_name" : "THE CHILDREN'S WORKSHOP SCHOOL",
+  "school_pupil_teacher_ratio" : "12.5"
+}
+, {
+  "dbn" : "02M343",
+  "school_name" : "THE PECK SLIP SCHOOL",
+  "school_pupil_teacher_ratio" : "12.4"
+}
+, {
+  "dbn" : "02M340",
+  "school_name" : "SIXTH AVENUE ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "12.2"
+}
+, {
+  "dbn" : "06M325",
+  "school_name" : "P.S. 325",
+  "school_pupil_teacher_ratio" : "8.9"
+}
+, {
+  "dbn" : "05M318",
+  "school_name" : "THURGOOD MARSHALL ACADEMY LOWER SCHOOL",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "01M315",
+  "school_name" : "THE EAST VILLAGE COMMUNITY SCHOOL",
+  "school_pupil_teacher_ratio" : "12.3"
+}
+, {
+  "dbn" : "06M314",
+  "school_name" : "MUSCOTA",
+  "school_pupil_teacher_ratio" : "14.8"
+}
+, {
+  "dbn" : "06M311",
+  "school_name" : "AMISTAD DUAL LANGUAGE SCHOOL",
+  "school_pupil_teacher_ratio" : "14.3"
+}
+, {
+  "dbn" : "02M290",
+  "school_name" : "P.S. 290 MANHATTAN NEW SCHOOL",
+  "school_pupil_teacher_ratio" : "16.5"
+}
+, {
+  "dbn" : "05M286",
+  "school_name" : "I.S. M286 RENAISSANCE LEADERSHIP ACADEMY",
+  "school_pupil_teacher_ratio" : "16.3"
+}
+, {
+  "dbn" : "02M281",
+  "school_name" : "THE RIVER SCHOOL",
+  "school_pupil_teacher_ratio" : "11.4"
+}
+, {
+  "dbn" : "02M267",
+  "school_name" : "EAST SIDE ELEMENTARY SCHOOL, PS 267",
+  "school_pupil_teacher_ratio" : "14.1"
+}
+, {
+  "dbn" : "03M256",
+  "school_name" : "M.S. 256 ACADEMIC & ATHLETIC EXCELLENCE",
+  "school_pupil_teacher_ratio" : "11"
+}
+, {
+  "dbn" : "03M242",
+  "school_name" : "P.S. 242 - THE YOUNG DIPLOMATS MAGNET ACADEMY",
+  "school_pupil_teacher_ratio" : "9.3"
+}
+, {
+  "dbn" : "03M241",
+  "school_name" : "STEM INSTITUTE OF MANHATTAN",
+  "school_pupil_teacher_ratio" : "9.7"
+}
+, {
+  "dbn" : "02M234",
+  "school_name" : "P.S. 234 INDEPENDENCE SCHOOL",
+  "school_pupil_teacher_ratio" : "15.3"
+}
+, {
+  "dbn" : "02M212",
+  "school_name" : "P.S. 212 MIDTOWN WEST",
+  "school_pupil_teacher_ratio" : "18.2"
+}
+, {
+  "dbn" : "03M208",
+  "school_name" : "P.S. 208 ALAIN L. LOCKE",
+  "school_pupil_teacher_ratio" : "10.6"
+}
+, {
+  "dbn" : "05M200",
+  "school_name" : "P.S. 200- THE JAMES MCCUNE SMITH SCHOOL",
+  "school_pupil_teacher_ratio" : "12.3"
+}
+, {
+  "dbn" : "03M199",
+  "school_name" : "P.S. 199 JESSIE ISADOR STRAUS",
+  "school_pupil_teacher_ratio" : "19.7"
+}
+, {
+  "dbn" : "02M198",
+  "school_name" : "P.S. 198 ISADOR E. IDA STRAUS",
+  "school_pupil_teacher_ratio" : "14.3"
+}
+, {
+  "dbn" : "05M197",
+  "school_name" : "P.S. 197 JOHN B. RUSSWURM",
+  "school_pupil_teacher_ratio" : "10.1"
+}
+, {
+  "dbn" : "05M194",
+  "school_name" : "P.S. 194 COUNTEE CULLEN",
+  "school_pupil_teacher_ratio" : "9.5"
+}
+, {
+  "dbn" : "06M192",
+  "school_name" : "P.S. 192 JACOB H. SCHIFF",
+  "school_pupil_teacher_ratio" : "12.3"
+}
+, {
+  "dbn" : "06M189",
+  "school_name" : "P.S. 189",
+  "school_pupil_teacher_ratio" : "15.7"
+}
+, {
+  "dbn" : "03M185",
+  "school_name" : "P.S. 185 - THE EARLY CHILDHOOD DISCOVERY AND DESIGN MAGNET SCHOOL",
+  "school_pupil_teacher_ratio" : "13.2"
+}
+, {
+  "dbn" : "02M183",
+  "school_name" : "P.S. 183 ROBERT L. STEVENSON",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "04M182",
+  "school_name" : "THE BILINGUAL BICULTURAL SCHOOL",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "06M178",
+  "school_name" : "PROFESSOR JUAN BOSCH PUBLIC SCHOOL",
+  "school_pupil_teacher_ratio" : "12.1"
+}
+, {
+  "dbn" : "05M175",
+  "school_name" : "P.S. 175 HENRY H GARNET",
+  "school_pupil_teacher_ratio" : "15.3"
+}
+, {
+  "dbn" : "06M173",
+  "school_name" : "P.S. 173",
+  "school_pupil_teacher_ratio" : "13.8"
+}
+, {
+  "dbn" : "03M166",
+  "school_name" : "P.S. 166 THE RICHARD RODGERS SCHOOL OF THE ARTS AND TECHNOLOGY",
+  "school_pupil_teacher_ratio" : "15.4"
+}
+, {
+  "dbn" : "03M163",
+  "school_name" : "P.S. 163 ALFRED E. SMITH",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "02M158",
+  "school_name" : "P.S. 158 BAYARD TAYLOR",
+  "school_pupil_teacher_ratio" : "15.8"
+}
+, {
+  "dbn" : "04M155",
+  "school_name" : "P.S. 155 WILLIAM PACA",
+  "school_pupil_teacher_ratio" : "11.7"
+}
+, {
+  "dbn" : "05M154",
+  "school_name" : "P.S. 154 HARRIET TUBMAN",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "06M153",
+  "school_name" : "P.S. 153 ADAM CLAYTON POWELL",
+  "school_pupil_teacher_ratio" : "16.1"
+}
+, {
+  "dbn" : "06M152",
+  "school_name" : "P.S. 152 DYCKMAN VALLEY",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "02M151",
+  "school_name" : "YORKVILLE COMMUNITY SCHOOL",
+  "school_pupil_teacher_ratio" : "13.8"
+}
+, {
+  "dbn" : "02M150",
+  "school_name" : "P.S. 150",
+  "school_pupil_teacher_ratio" : "17.9"
+}
+, {
+  "dbn" : "04M146",
+  "school_name" : "P.S. 146 ANN M. SHORT",
+  "school_pupil_teacher_ratio" : "12"
+}
+, {
+  "dbn" : "03M145",
+  "school_name" : "P.S. 145, THE BLOOMINGDALE SCHOOL",
+  "school_pupil_teacher_ratio" : "10.3"
+}
+, {
+  "dbn" : "01M142",
+  "school_name" : "P.S. 142 AMALIA CASTRO",
+  "school_pupil_teacher_ratio" : "12.4"
+}
+, {
+  "dbn" : "01M137",
+  "school_name" : "P.S. 137 JOHN L. BERNSTEIN",
+  "school_pupil_teacher_ratio" : "10.1"
+}
+, {
+  "dbn" : "01M134",
+  "school_name" : "P.S. 134 HENRIETTA SZOLD",
+  "school_pupil_teacher_ratio" : "9.8"
+}
+, {
+  "dbn" : "05M133",
+  "school_name" : "P.S. 133 FRED R MOORE",
+  "school_pupil_teacher_ratio" : "9.1"
+}
+, {
+  "dbn" : "06M132",
+  "school_name" : "P.S. 132 JUAN PABLO DUARTE",
+  "school_pupil_teacher_ratio" : "12.1"
+}
+, {
+  "dbn" : "02M130",
+  "school_name" : "P.S. 130 HERNANDO DE SOTO",
+  "school_pupil_teacher_ratio" : "19"
+}
+, {
+  "dbn" : "06M128",
+  "school_name" : "P.S. 128 AUDUBON",
+  "school_pupil_teacher_ratio" : "12.5"
+}
+, {
+  "dbn" : "05M125",
+  "school_name" : "P.S. 125 RALPH BUNCHE",
+  "school_pupil_teacher_ratio" : "16.1"
+}
+, {
+  "dbn" : "02M124",
+  "school_name" : "P.S. 124 YUNG WING",
+  "school_pupil_teacher_ratio" : "15.4"
+}
+, {
+  "dbn" : "02M116",
+  "school_name" : "P.S. 116 MARY LINDLEY MURRAY",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "06M115",
+  "school_name" : "P.S. 115 ALEXANDER HUMBOLDT",
+  "school_pupil_teacher_ratio" : "14.6"
+}
+, {
+  "dbn" : "04M112",
+  "school_name" : "P.S. 112 JOSE CELSO BARBOSA",
+  "school_pupil_teacher_ratio" : "6.6"
+}
+, {
+  "dbn" : "02M111",
+  "school_name" : "P.S. 111 ADOLPH S. OCHS",
+  "school_pupil_teacher_ratio" : "11.4"
+}
+, {
+  "dbn" : "01M110",
+  "school_name" : "P.S. 110 FLORENCE NIGHTINGALE",
+  "school_pupil_teacher_ratio" : "14.7"
+}
+, {
+  "dbn" : "06M103",
+  "school_name" : "DOS PUENTES ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "04M102",
+  "school_name" : "P.S. 102 JACQUES CARTIER",
+  "school_pupil_teacher_ratio" : "11.1"
+}
+, {
+  "dbn" : "06M098",
+  "school_name" : "P.S. 098 SHORAC KAPPOCK",
+  "school_pupil_teacher_ratio" : "14.1"
+}
+, {
+  "dbn" : "05M092",
+  "school_name" : "P.S. 092 MARY MCLEOD BETHUNE",
+  "school_pupil_teacher_ratio" : "10.8"
+}
+, {
+  "dbn" : "02M089",
+  "school_name" : "P.S. 89",
+  "school_pupil_teacher_ratio" : "15.3"
+}
+, {
+  "dbn" : "03M087",
+  "school_name" : "P.S. 087 WILLIAM SHERMAN",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "03M084",
+  "school_name" : "P.S. 084 LILLIAN WEBER",
+  "school_pupil_teacher_ratio" : "16.3"
+}
+, {
+  "dbn" : "04M083",
+  "school_name" : "P.S. 083 LUIS MUNOZ RIVERA",
+  "school_pupil_teacher_ratio" : "15.2"
+}
+, {
+  "dbn" : "02M077",
+  "school_name" : "P.S. 77 LOWER LAB SCHOOL",
+  "school_pupil_teacher_ratio" : "20.6"
+}
+, {
+  "dbn" : "03M076",
+  "school_name" : "P.S. 076 A. PHILIP RANDOLPH",
+  "school_pupil_teacher_ratio" : "15.9"
+}
+, {
+  "dbn" : "03M075",
+  "school_name" : "P.S. 075 EMILY DICKINSON",
+  "school_pupil_teacher_ratio" : "9.9"
+}
+, {
+  "dbn" : "01M064",
+  "school_name" : "P.S. 064 ROBERT SIMON",
+  "school_pupil_teacher_ratio" : "9.3"
+}
+, {
+  "dbn" : "01M063",
+  "school_name" : "THE STAR ACADEMY - P.S.63",
+  "school_pupil_teacher_ratio" : "10.6"
+}
+, {
+  "dbn" : "02M059",
+  "school_name" : "P.S. 059 BEEKMAN HILL INTERNATIONAL",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "04M057",
+  "school_name" : "JAMES WELDON JOHNSON",
+  "school_pupil_teacher_ratio" : "12.2"
+}
+, {
+  "dbn" : "02M051",
+  "school_name" : "P.S. 051 ELIAS HOWE",
+  "school_pupil_teacher_ratio" : "12.4"
+}
+, {
+  "dbn" : "06M048",
+  "school_name" : "P.S. 048 P.O. MICHAEL J. BUCZEK",
+  "school_pupil_teacher_ratio" : "12.9"
+}
+, {
+  "dbn" : "02M042",
+  "school_name" : "P.S. 042 BENJAMIN ALTMAN",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "02M041",
+  "school_name" : "P.S. 041 GREENWICH VILLAGE",
+  "school_pupil_teacher_ratio" : "15.7"
+}
+, {
+  "dbn" : "02M040",
+  "school_name" : "P.S. 040 AUGUSTUS SAINT-GAUDENS",
+  "school_pupil_teacher_ratio" : "16.9"
+}
+, {
+  "dbn" : "04M038",
+  "school_name" : "P.S. 38 ROBERTO CLEMENTE",
+  "school_pupil_teacher_ratio" : "9.9"
+}
+, {
+  "dbn" : "04M037",
+  "school_name" : "RIVER EAST ELEMENTARY",
+  "school_pupil_teacher_ratio" : "11.4"
+}
+, {
+  "dbn" : "05M036",
+  "school_name" : "P.S. 036 MARGARET DOUGLAS",
+  "school_pupil_teacher_ratio" : "12.1"
+}
+, {
+  "dbn" : "01M034",
+  "school_name" : "P.S. 034 FRANKLIN D. ROOSEVELT",
+  "school_pupil_teacher_ratio" : "10.9"
+}
+, {
+  "dbn" : "02M033",
+  "school_name" : "P.S. 033 CHELSEA PREP",
+  "school_pupil_teacher_ratio" : "17.3"
+}
+, {
+  "dbn" : "05M030",
+  "school_name" : "P.S. 030 HERNANDEZ/HUGHES",
+  "school_pupil_teacher_ratio" : "7.4"
+}
+, {
+  "dbn" : "06M028",
+  "school_name" : "P.S. 028 WRIGHT BROTHERS",
+  "school_pupil_teacher_ratio" : "12"
+}
+, {
+  "dbn" : "01M020",
+  "school_name" : "P.S. 020 ANNA SILVER",
+  "school_pupil_teacher_ratio" : "13.3"
+}
+, {
+  "dbn" : "01M019",
+  "school_name" : "P.S. 019 ASHER LEVY",
+  "school_pupil_teacher_ratio" : "7"
+}
+, {
+  "dbn" : "01M015",
+  "school_name" : "P.S. 015 ROBERTO CLEMENTE",
+  "school_pupil_teacher_ratio" : "9.2"
+}
+, {
+  "dbn" : "02M011",
+  "school_name" : "P.S. 011 WILLIAM T. HARRIS",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "03M009",
+  "school_name" : "P.S. 009 SARAH ANDERSON",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "06M008",
+  "school_name" : "P.S. 008 LUIS BELLIARD",
+  "school_pupil_teacher_ratio" : "14"
+}
+, {
+  "dbn" : "02M006",
+  "school_name" : "P.S. 006 LILLIE D. BLAKE",
+  "school_pupil_teacher_ratio" : "17.5"
+}
+, {
+  "dbn" : "06M005",
+  "school_name" : "P.S. 005 ELLEN LURIE",
+  "school_pupil_teacher_ratio" : "13.1"
+}
+, {
+  "dbn" : "06M004",
+  "school_name" : "P.S. 004 DUKE ELLINGTON",
+  "school_pupil_teacher_ratio" : "13.8"
+}
+, {
+  "dbn" : "02M003",
+  "school_name" : "P.S. 003 CHARRETTE SCHOOL",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "02M002",
+  "school_name" : "P.S. 002 MEYER LONDON",
+  "school_pupil_teacher_ratio" : "11.7"
+}
+, {
+  "dbn" : "02M001",
+  "school_name" : "P.S. 001 ALFRED E. SMITH",
+  "school_pupil_teacher_ratio" : "11.7"
+}
+, {
+  "dbn" : "20K971",
+  "school_name" : "SCHOOL OF MATH, SCIENCE, AND HEALTHY LIVING",
+  "school_pupil_teacher_ratio" : "11.9"
+}
+, {
+  "dbn" : "15K839",
+  "school_name" : "M.S. 839",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "17K770",
+  "school_name" : "P.S. 770 NEW AMERICAN ACADEMY",
+  "school_pupil_teacher_ratio" : "14.7"
+}
+, {
+  "dbn" : "19K760",
+  "school_name" : "HIGHLAND PARK COMMUNITY SCHOOL",
+  "school_pupil_teacher_ratio" : "15.9"
+}
+, {
+  "dbn" : "20K748",
+  "school_name" : "P.S. 748 BROOKLYN SCHOOL FOR GLOBAL SCHOLARS",
+  "school_pupil_teacher_ratio" : "16"
+}
+, {
+  "dbn" : "17K705",
+  "school_name" : "BROOKLYN ARTS AND SCIENCE ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "12.3"
+}
+, {
+  "dbn" : "20K686",
+  "school_name" : "BROOKLYN SCHOOL OF INQUIRY",
+  "school_pupil_teacher_ratio" : "18.3"
+}
+, {
+  "dbn" : "20K682",
+  "school_name" : "THE ACADEMY OF TALENTED SCHOLARS",
+  "school_pupil_teacher_ratio" : "6.9"
+}
+, {
+  "dbn" : "19K677",
+  "school_name" : "EAST NEW YORK ELEMENTARY SCHOOL OF EXCELLENCE",
+  "school_pupil_teacher_ratio" : "12.2"
+}
+, {
+  "dbn" : "15K676",
+  "school_name" : "RED HOOK NEIGHBORHOOD SCHOOL",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "16K636",
+  "school_name" : "YOUNG SCHOLARS' ACADEMY FOR DISCOVERY AND EXPLORATION",
+  "school_pupil_teacher_ratio" : "16.7"
+}
+, {
+  "dbn" : "16K628",
+  "school_name" : "BROOKLYN BROWNSTONE SCHOOL",
+  "school_pupil_teacher_ratio" : "16.2"
+}
+, {
+  "dbn" : "16K627",
+  "school_name" : "BRIGHTER CHOICE COMMUNITY SCHOOL",
+  "school_pupil_teacher_ratio" : "19.8"
+}
+, {
+  "dbn" : "23K599",
+  "school_name" : "BROOKLYN LANDMARK ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "19.8"
+}
+, {
+  "dbn" : "19K557",
+  "school_name" : "BROOKLYN GARDENS ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "12.8"
+}
+, {
+  "dbn" : "17K532",
+  "school_name" : "NEW BRIDGES ELEMENTARY",
+  "school_pupil_teacher_ratio" : "11.7"
+}
+, {
+  "dbn" : "15K516",
+  "school_name" : "SUNSET PARK AVENUES ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "13.8"
+}
+, {
+  "dbn" : "20K506",
+  "school_name" : "P.S. 506: THE SCHOOL OF JOURNALISM & TECHNOLOGY",
+  "school_pupil_teacher_ratio" : "14.3"
+}
+, {
+  "dbn" : "20K503",
+  "school_name" : "PS 503: THE SCHOOL OF DISCOVERY",
+  "school_pupil_teacher_ratio" : "12"
+}
+, {
+  "dbn" : "23K446",
+  "school_name" : "RIVERDALE AVENUE COMMUNITY SCHOOL",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "15K418",
+  "school_name" : "THE CHILDREN'S SCHOOL",
+  "school_pupil_teacher_ratio" : "13.2"
+}
+, {
+  "dbn" : "14K414",
+  "school_name" : "BROOKLYN ARBOR ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "14.6"
+}
+, {
+  "dbn" : "23K401",
+  "school_name" : "CHRISTOPHER AVENUE COMMUNITY SCHOOL",
+  "school_pupil_teacher_ratio" : "14.2"
+}
+, {
+  "dbn" : "17K399",
+  "school_name" : "P.S. 399 STANLEY EUGENE CLARK",
+  "school_pupil_teacher_ratio" : "18.9"
+}
+, {
+  "dbn" : "17K398",
+  "school_name" : "P.S. 398 WALTER WEAVER",
+  "school_pupil_teacher_ratio" : "12.9"
+}
+, {
+  "dbn" : "17K397",
+  "school_name" : "P.S. 397 FOSTER-LAURIE",
+  "school_pupil_teacher_ratio" : "11.8"
+}
+, {
+  "dbn" : "14K380",
+  "school_name" : "P.S. 380 JOHN WAYNE ELEMENTARY",
+  "school_pupil_teacher_ratio" : "12.8"
+}
+, {
+  "dbn" : "32K376",
+  "school_name" : "P.S. 376",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "17K375",
+  "school_name" : "P.S. 375 JACKIE ROBINSON SCHOOL",
+  "school_pupil_teacher_ratio" : "12.5"
+}
+, {
+  "dbn" : "22K361",
+  "school_name" : "P.S. 361 EAST FLATBUSH EARLY CHILDHOOD SCHOOL",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "19K346",
+  "school_name" : "P.S. 346 ABE STARK",
+  "school_pupil_teacher_ratio" : "12.9"
+}
+, {
+  "dbn" : "19K345",
+  "school_name" : "P.S. 345 PATROLMAN ROBERT BOLDEN",
+  "school_pupil_teacher_ratio" : "16.3"
+}
+, {
+  "dbn" : "16K335",
+  "school_name" : "P.S. 335 GRANVILLE T. WOODS",
+  "school_pupil_teacher_ratio" : "10.8"
+}
+, {
+  "dbn" : "21K329",
+  "school_name" : "P.S. 329 SURFSIDE",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "19K328",
+  "school_name" : "P.S. 328 PHYLLIS WHEATLEY",
+  "school_pupil_teacher_ratio" : "12.3"
+}
+, {
+  "dbn" : "22K326",
+  "school_name" : "P.S. 326",
+  "school_pupil_teacher_ratio" : "12.9"
+}
+, {
+  "dbn" : "19K325",
+  "school_name" : "THE FRESH CREEK SCHOOL",
+  "school_pupil_teacher_ratio" : "15.9"
+}
+, {
+  "dbn" : "15K321",
+  "school_name" : "P.S. 321 WILLIAM PENN",
+  "school_pupil_teacher_ratio" : "18.2"
+}
+, {
+  "dbn" : "14K319",
+  "school_name" : "P.S. 319",
+  "school_pupil_teacher_ratio" : "12.9"
+}
+, {
+  "dbn" : "17K316",
+  "school_name" : "P.S. 316 ELIJAH STROUD",
+  "school_pupil_teacher_ratio" : "10.6"
+}
+, {
+  "dbn" : "22K315",
+  "school_name" : "P.S. K315",
+  "school_pupil_teacher_ratio" : "15.7"
+}
+, {
+  "dbn" : "22K312",
+  "school_name" : "P.S. 312 BERGEN BEACH",
+  "school_pupil_teacher_ratio" : "16"
+}
+, {
+  "dbn" : "20K310",
+  "school_name" : "THE SCHOOL FOR FUTURE LEADERS",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "16K309",
+  "school_name" : "P.S. 309 THE GEORGE E. WIBECAN PREPARATORY ACADEMY",
+  "school_pupil_teacher_ratio" : "8.9"
+}
+, {
+  "dbn" : "16K308",
+  "school_name" : "P.S. 308 CLARA CARDWELL",
+  "school_pupil_teacher_ratio" : "11.6"
+}
+, {
+  "dbn" : "13K307",
+  "school_name" : "P.S. 307 DANIEL HALE WILLIAMS",
+  "school_pupil_teacher_ratio" : "7.8"
+}
+, {
+  "dbn" : "13K305",
+  "school_name" : "P.S. 305 DR. PETER RAY",
+  "school_pupil_teacher_ratio" : "13.4"
+}
+, {
+  "dbn" : "32K299",
+  "school_name" : "P.S. 299 THOMAS WARREN FIELD",
+  "school_pupil_teacher_ratio" : "12.1"
+}
+, {
+  "dbn" : "23K298",
+  "school_name" : "P.S. 298 DR. BETTY SHABAZZ",
+  "school_pupil_teacher_ratio" : "11.2"
+}
+, {
+  "dbn" : "14K297",
+  "school_name" : "P.S. 297 ABRAHAM STOCKTON",
+  "school_pupil_teacher_ratio" : "12.5"
+}
+, {
+  "dbn" : "15K295",
+  "school_name" : "P.S. 295",
+  "school_pupil_teacher_ratio" : "12.2"
+}
+, {
+  "dbn" : "19K290",
+  "school_name" : "P.S. 290 JUAN MOREL CAMPOS",
+  "school_pupil_teacher_ratio" : "14"
+}
+, {
+  "dbn" : "17K289",
+  "school_name" : "P.S. 289 GEORGE V. BROWER",
+  "school_pupil_teacher_ratio" : "12.7"
+}
+, {
+  "dbn" : "21K288",
+  "school_name" : "P.S. 288 THE SHIRLEY TANYHILL",
+  "school_pupil_teacher_ratio" : "15.4"
+}
+, {
+  "dbn" : "13K287",
+  "school_name" : "P.S. 287 BAILEY K. ASHFORD",
+  "school_pupil_teacher_ratio" : "13.4"
+}
+, {
+  "dbn" : "18K279",
+  "school_name" : "P.S. 279 HERMAN SCHREIBER",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "22K277",
+  "school_name" : "P.S. 277 GERRITSEN BEACH",
+  "school_pupil_teacher_ratio" : "14.1"
+}
+, {
+  "dbn" : "18K276",
+  "school_name" : "P.S. 276 LOUIS MARSHALL",
+  "school_pupil_teacher_ratio" : "16"
+}
+, {
+  "dbn" : "32K274",
+  "school_name" : "P.S. 274 KOSCIUSKO",
+  "school_pupil_teacher_ratio" : "15.9"
+}
+, {
+  "dbn" : "19K273",
+  "school_name" : "P.S. 273 WORTMAN",
+  "school_pupil_teacher_ratio" : "11.8"
+}
+, {
+  "dbn" : "18K272",
+  "school_name" : "P.S. 272 CURTIS ESTABROOK",
+  "school_pupil_teacher_ratio" : "13"
+}
+, {
+  "dbn" : "13K270",
+  "school_name" : "P.S. 270 JOHANN DEKALB",
+  "school_pupil_teacher_ratio" : "13.1"
+}
+, {
+  "dbn" : "22K269",
+  "school_name" : "P.S. 269 NOSTRAND",
+  "school_pupil_teacher_ratio" : "16.9"
+}
+, {
+  "dbn" : "18K268",
+  "school_name" : "P.S. 268 EMMA LAZARUS",
+  "school_pupil_teacher_ratio" : "17.7"
+}
+, {
+  "dbn" : "20K264",
+  "school_name" : "P.S. 264 BAY RIDGE ELEMENTARY SCHOOL FOR THE ARTS",
+  "school_pupil_teacher_ratio" : "14"
+}
+, {
+  "dbn" : "15K261",
+  "school_name" : "P.S. 261 PHILIP LIVINGSTON",
+  "school_pupil_teacher_ratio" : "15.9"
+}
+, {
+  "dbn" : "14K257",
+  "school_name" : "P.S. 257 JOHN F. HYLAN",
+  "school_pupil_teacher_ratio" : "16.3"
+}
+, {
+  "dbn" : "13K256",
+  "school_name" : "P.S. 256 BENJAMIN BANNEKER",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "22K255",
+  "school_name" : "P.S. 255 BARBARA REING SCHOOL",
+  "school_pupil_teacher_ratio" : "13.4"
+}
+, {
+  "dbn" : "22K254",
+  "school_name" : "P.S. 254 DAG HAMMARSKJOLD",
+  "school_pupil_teacher_ratio" : "18.9"
+}
+, {
+  "dbn" : "21K253",
+  "school_name" : "P.S. 253",
+  "school_pupil_teacher_ratio" : "14.2"
+}
+, {
+  "dbn" : "22K251",
+  "school_name" : "P.S. 251 PAERDEGAT",
+  "school_pupil_teacher_ratio" : "15.4"
+}
+, {
+  "dbn" : "14K250",
+  "school_name" : "P.S. 250 GEORGE H. LINDSAY",
+  "school_pupil_teacher_ratio" : "16.5"
+}
+, {
+  "dbn" : "17K249",
+  "school_name" : "P.S. 249 THE CATON",
+  "school_pupil_teacher_ratio" : "16.9"
+}
+, {
+  "dbn" : "20K247",
+  "school_name" : "P.S. 247 BROOKLYN",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "22K245",
+  "school_name" : "P.S. 245",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "18K244",
+  "school_name" : "P.S. 244 RICHARD R. GREEN",
+  "school_pupil_teacher_ratio" : "10.4"
+}
+, {
+  "dbn" : "16K243",
+  "school_name" : "P.S. 243K- THE WEEKSVILLE SCHOOL",
+  "school_pupil_teacher_ratio" : "10.4"
+}
+, {
+  "dbn" : "17K241",
+  "school_name" : "P.S. 241 EMMA L. JOHNSTON",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "22K236",
+  "school_name" : "P.S. 236 MILL BASIN",
+  "school_pupil_teacher_ratio" : "16.4"
+}
+, {
+  "dbn" : "18K233",
+  "school_name" : "P.S. 233 LANGSTON HUGHES",
+  "school_pupil_teacher_ratio" : "14.2"
+}
+, {
+  "dbn" : "15K230",
+  "school_name" : "P.S. 230 DORIS L. COHEN",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "19K224",
+  "school_name" : "P.S. 224 HALE A. WOODRUFF",
+  "school_pupil_teacher_ratio" : "16.2"
+}
+, {
+  "dbn" : "22K222",
+  "school_name" : "P.S. 222 KATHERINE R. SNYDER",
+  "school_pupil_teacher_ratio" : "12.9"
+}
+, {
+  "dbn" : "17K221",
+  "school_name" : "P.S. 221 TOUSSAINT L'OUVERTURE",
+  "school_pupil_teacher_ratio" : "15.8"
+}
+, {
+  "dbn" : "18K219",
+  "school_name" : "P.S. 219 KENNEDY-KING",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "22K217",
+  "school_name" : "P.S. 217 COLONEL DAVID MARCUS SCHOOL",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "21K216",
+  "school_name" : "P.S. 216 ARTURO TOSCANINI",
+  "school_pupil_teacher_ratio" : "18.1"
+}
+, {
+  "dbn" : "21K215",
+  "school_name" : "P.S. 215 MORRIS H. WEISS",
+  "school_pupil_teacher_ratio" : "15.8"
+}
+, {
+  "dbn" : "19K214",
+  "school_name" : "P.S. 214 MICHAEL FRIEDSAM",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "19K213",
+  "school_name" : "P.S. 213 NEW LOTS",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "21K212",
+  "school_name" : "P.S. 212 LADY DEBORAH MOODY",
+  "school_pupil_teacher_ratio" : "13.5"
+}
+, {
+  "dbn" : "18K208",
+  "school_name" : "P.S. 208 ELSA EBELING",
+  "school_pupil_teacher_ratio" : "18"
+}
+, {
+  "dbn" : "20K205",
+  "school_name" : "P.S. 205 CLARION",
+  "school_pupil_teacher_ratio" : "16.4"
+}
+, {
+  "dbn" : "20K204",
+  "school_name" : "P.S. 204 VINCE LOMBARDI",
+  "school_pupil_teacher_ratio" : "16.1"
+}
+, {
+  "dbn" : "22K203",
+  "school_name" : "P.S. 203 FLOYD BENNETT SCHOOL",
+  "school_pupil_teacher_ratio" : "15.8"
+}
+, {
+  "dbn" : "19K202",
+  "school_name" : "P.S. 202 ERNEST S. JENKYNS",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "20K200",
+  "school_name" : "P.S. 200 BENSON SCHOOL",
+  "school_pupil_teacher_ratio" : "17.3"
+}
+, {
+  "dbn" : "21K199",
+  "school_name" : "P.S. 199 FREDERICK WACHTEL",
+  "school_pupil_teacher_ratio" : "10.9"
+}
+, {
+  "dbn" : "22K198",
+  "school_name" : "P.S. 198 BROOKLYN",
+  "school_pupil_teacher_ratio" : "12.9"
+}
+, {
+  "dbn" : "22K197",
+  "school_name" : "P.S. 197 - THE KINGS HIGHWAY ACADEMY",
+  "school_pupil_teacher_ratio" : "13.4"
+}
+, {
+  "dbn" : "14K196",
+  "school_name" : "P.S. 196 TEN EYCK",
+  "school_pupil_teacher_ratio" : "12.6"
+}
+, {
+  "dbn" : "22K195",
+  "school_name" : "P.S. 195 MANHATTAN BEACH",
+  "school_pupil_teacher_ratio" : "18.7"
+}
+, {
+  "dbn" : "22K194",
+  "school_name" : "P.S. 194 RAOUL WALLENBERG",
+  "school_pupil_teacher_ratio" : "13.1"
+}
+, {
+  "dbn" : "22K193",
+  "school_name" : "P.S. 193 GIL HODGES",
+  "school_pupil_teacher_ratio" : "15.4"
+}
+, {
+  "dbn" : "17K191",
+  "school_name" : "P.S. 191 PAUL ROBESON",
+  "school_pupil_teacher_ratio" : "12.9"
+}
+, {
+  "dbn" : "19K190",
+  "school_name" : "P.S. 190 SHEFFIELD",
+  "school_pupil_teacher_ratio" : "11.1"
+}
+, {
+  "dbn" : "21K188",
+  "school_name" : "P.S. 188 MICHAEL E. BERDY",
+  "school_pupil_teacher_ratio" : "13.5"
+}
+, {
+  "dbn" : "20K186",
+  "school_name" : "P.S. 186 DR. IRVING A GLADSTONE",
+  "school_pupil_teacher_ratio" : "16"
+}
+, {
+  "dbn" : "20K185",
+  "school_name" : "P.S. 185 WALTER KASSENBROCK",
+  "school_pupil_teacher_ratio" : "17"
+}
+, {
+  "dbn" : "20K179",
+  "school_name" : "P.S. 179 KENSINGTON",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "21K177",
+  "school_name" : "P.S. 177 THE MARLBORO",
+  "school_pupil_teacher_ratio" : "15.9"
+}
+, {
+  "dbn" : "20K176",
+  "school_name" : "P.S. 176 OVINGTON",
+  "school_pupil_teacher_ratio" : "16.6"
+}
+, {
+  "dbn" : "19K174",
+  "school_name" : "P.S. 174 DUMONT",
+  "school_pupil_teacher_ratio" : "9.3"
+}
+, {
+  "dbn" : "15K172",
+  "school_name" : "P.S. 172 BEACON SCHOOL OF EXCELLENCE",
+  "school_pupil_teacher_ratio" : "12.2"
+}
+, {
+  "dbn" : "20K170",
+  "school_name" : "RALPH A. FABRIZIO SCHOOL",
+  "school_pupil_teacher_ratio" : "16.2"
+}
+, {
+  "dbn" : "15K169",
+  "school_name" : "P.S. 169 SUNSET PARK",
+  "school_pupil_teacher_ratio" : "15.4"
+}
+, {
+  "dbn" : "17K167",
+  "school_name" : "P.S. 167 THE PARKWAY",
+  "school_pupil_teacher_ratio" : "6.7"
+}
+, {
+  "dbn" : "23K165",
+  "school_name" : "P.S. 165 IDA POSNER",
+  "school_pupil_teacher_ratio" : "9.5"
+}
+, {
+  "dbn" : "20K164",
+  "school_name" : "P.S. 164 CAESAR RODNEY",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "17K161",
+  "school_name" : "P.S. 161 THE CROWN",
+  "school_pupil_teacher_ratio" : "14.6"
+}
+, {
+  "dbn" : "20K160",
+  "school_name" : "P.S. 160 WILLIAM T. SAMPSON",
+  "school_pupil_teacher_ratio" : "14.8"
+}
+, {
+  "dbn" : "19K159",
+  "school_name" : "P.S. 159 ISAAC PITKIN",
+  "school_pupil_teacher_ratio" : "16.3"
+}
+, {
+  "dbn" : "19K158",
+  "school_name" : "P.S. 158 WARWICK",
+  "school_pupil_teacher_ratio" : "15.3"
+}
+, {
+  "dbn" : "23K156",
+  "school_name" : "P.S. 156 WAVERLY",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "15K154",
+  "school_name" : "THE WINDSOR TERRACE SCHOOL",
+  "school_pupil_teacher_ratio" : "15.2"
+}
+, {
+  "dbn" : "21K153",
+  "school_name" : "P.S. 153 HOMECREST",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "22K152",
+  "school_name" : "SCHOOL OF SCIENCE & TECHNOLOGY",
+  "school_pupil_teacher_ratio" : "14.6"
+}
+, {
+  "dbn" : "32K151",
+  "school_name" : "P.S. 151 LYNDON B. JOHNSON",
+  "school_pupil_teacher_ratio" : "11.2"
+}
+, {
+  "dbn" : "23K150",
+  "school_name" : "P.S. 150 CHRISTOPHER",
+  "school_pupil_teacher_ratio" : "13.8"
+}
+, {
+  "dbn" : "19K149",
+  "school_name" : "P.S. 149 DANNY KAYE",
+  "school_pupil_teacher_ratio" : "19.2"
+}
+, {
+  "dbn" : "14K147",
+  "school_name" : "P.S. 147 ISAAC REMSEN",
+  "school_pupil_teacher_ratio" : "12.7"
+}
+, {
+  "dbn" : "15K146",
+  "school_name" : "P.S. 146",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "32K145",
+  "school_name" : "P.S. 145 ANDREW JACKSON",
+  "school_pupil_teacher_ratio" : "14.6"
+}
+, {
+  "dbn" : "22K139",
+  "school_name" : "P.S. 139 ALEXINE A. FENTY",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "18K135",
+  "school_name" : "P.S. 135 SHELDON A. BROOKNER",
+  "school_pupil_teacher_ratio" : "17.2"
+}
+, {
+  "dbn" : "22K134",
+  "school_name" : "P.S. K134",
+  "school_pupil_teacher_ratio" : "12.9"
+}
+, {
+  "dbn" : "13K133",
+  "school_name" : "P.S. 133 WILLIAM A. BUTLER",
+  "school_pupil_teacher_ratio" : "16.8"
+}
+, {
+  "dbn" : "14K132",
+  "school_name" : "P.S. 132 THE CONSELYEA SCHOOL",
+  "school_pupil_teacher_ratio" : "16.2"
+}
+, {
+  "dbn" : "15K131",
+  "school_name" : "P.S. 131 BROOKLYN",
+  "school_pupil_teacher_ratio" : "14"
+}
+, {
+  "dbn" : "15K130",
+  "school_name" : "P.S. 130 THE PARKSIDE",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "21K128",
+  "school_name" : "P.S. 128 BENSONHURST",
+  "school_pupil_teacher_ratio" : "13.3"
+}
+, {
+  "dbn" : "20K127",
+  "school_name" : "P.S. 127 MCKINLEY PARK",
+  "school_pupil_teacher_ratio" : "14"
+}
+, {
+  "dbn" : "15K124",
+  "school_name" : "P.S. 124 SILAS B. DUTCHER",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "32K123",
+  "school_name" : "P.S. 123 SUYDAM",
+  "school_pupil_teacher_ratio" : "13.8"
+}
+, {
+  "dbn" : "14K120",
+  "school_name" : "P.S. 120 CARLOS TAPIA",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "22K119",
+  "school_name" : "P.S. 119 AMERSFORT",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "15K118",
+  "school_name" : "THE MAURICE SENDAK COMMUNITY SCHOOL",
+  "school_pupil_teacher_ratio" : "28.5"
+}
+, {
+  "dbn" : "32K116",
+  "school_name" : "P.S. 116 ELIZABETH L FARRELL",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "18K115",
+  "school_name" : "P.S. 115 DANIEL MUCATEL SCHOOL",
+  "school_pupil_teacher_ratio" : "16.5"
+}
+, {
+  "dbn" : "18K114",
+  "school_name" : "P.S. 114 RYDER ELEMENTARY",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "20K112",
+  "school_name" : "P.S. 112 LEFFERTS PARK",
+  "school_pupil_teacher_ratio" : "13.8"
+}
+, {
+  "dbn" : "14K110",
+  "school_name" : "P.S. 110 THE MONITOR",
+  "school_pupil_teacher_ratio" : "15.9"
+}
+, {
+  "dbn" : "19K108",
+  "school_name" : "P.S. 108 SAL ABBRACCIAMENTO",
+  "school_pupil_teacher_ratio" : "14.7"
+}
+, {
+  "dbn" : "15K107",
+  "school_name" : "P.S. 107 JOHN W. KIMBALL",
+  "school_pupil_teacher_ratio" : "16"
+}
+, {
+  "dbn" : "32K106",
+  "school_name" : "P.S. 106 EDWARD EVERETT HALE",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "20K105",
+  "school_name" : "P.S. 105 THE BLYTHEBOURNE",
+  "school_pupil_teacher_ratio" : "17.3"
+}
+, {
+  "dbn" : "20K102",
+  "school_name" : "P.S. 102 THE BAYVIEW",
+  "school_pupil_teacher_ratio" : "16"
+}
+, {
+  "dbn" : "21K101",
+  "school_name" : "P.S. 101 THE VERRAZANO",
+  "school_pupil_teacher_ratio" : "14.2"
+}
+, {
+  "dbn" : "21K100",
+  "school_name" : "P.S. 100 THE CONEY ISLAND SCHOOL",
+  "school_pupil_teacher_ratio" : "16.8"
+}
+, {
+  "dbn" : "21K097",
+  "school_name" : "P.S. 97 THE HIGHLAWN",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "15K094",
+  "school_name" : "P.S. 094 THE HENRY LONGFELLOW",
+  "school_pupil_teacher_ratio" : "16.4"
+}
+, {
+  "dbn" : "13K093",
+  "school_name" : "P.S. 093 WILLIAM H. PRESCOTT",
+  "school_pupil_teacher_ratio" : "16.2"
+}
+, {
+  "dbn" : "17K092",
+  "school_name" : "P.S. 092 ADRIAN HEGEMAN",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "17K091",
+  "school_name" : "P.S. 091 THE ALBANY AVENUE SCHOOL",
+  "school_pupil_teacher_ratio" : "13"
+}
+, {
+  "dbn" : "21K090",
+  "school_name" : "P.S. 90 EDNA COHEN SCHOOL",
+  "school_pupil_teacher_ratio" : "14"
+}
+, {
+  "dbn" : "32K086",
+  "school_name" : "P.S. 086 THE IRVINGTON",
+  "school_pupil_teacher_ratio" : "14.3"
+}
+, {
+  "dbn" : "16K081",
+  "school_name" : "P.S. 081 THADDEUS STEVENS",
+  "school_pupil_teacher_ratio" : "11.5"
+}
+, {
+  "dbn" : "32K075",
+  "school_name" : "P.S. 075 MAYDA CORTIELLA",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "23K073",
+  "school_name" : "P.S. 073 THOMAS S. BOYLAND",
+  "school_pupil_teacher_ratio" : "5.7"
+}
+, {
+  "dbn" : "20K069",
+  "school_name" : "P.S. 69 VINCENT D. GRIPPO SCHOOL",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "13K067",
+  "school_name" : "P.S. 067 CHARLES A. DORSEY",
+  "school_pupil_teacher_ratio" : "16.2"
+}
+, {
+  "dbn" : "19K065",
+  "school_name" : "P.S. 065",
+  "school_pupil_teacher_ratio" : "16.6"
+}
+, {
+  "dbn" : "14K059",
+  "school_name" : "P.S. 059 WILLIAM FLOYD",
+  "school_pupil_teacher_ratio" : "14"
+}
+, {
+  "dbn" : "15K058",
+  "school_name" : "P.S. 058 THE CARROLL",
+  "school_pupil_teacher_ratio" : "16.4"
+}
+, {
+  "dbn" : "13K056",
+  "school_name" : "P.S. 056 LEWIS H. LATIMER",
+  "school_pupil_teacher_ratio" : "11.8"
+}
+, {
+  "dbn" : "13K054",
+  "school_name" : "P.S. 054 SAMUEL C. BARNES",
+  "school_pupil_teacher_ratio" : "10.2"
+}
+, {
+  "dbn" : "22K052",
+  "school_name" : "P.S. 052 SHEEPSHEAD BAY",
+  "school_pupil_teacher_ratio" : "16.9"
+}
+, {
+  "dbn" : "20K048",
+  "school_name" : "P.S. 048 MAPLETON",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "13K046",
+  "school_name" : "P.S. 046 EDWARD C. BLUM",
+  "school_pupil_teacher_ratio" : "10.9"
+}
+, {
+  "dbn" : "13K044",
+  "school_name" : "P.S. 044 MARCUS GARVEY",
+  "school_pupil_teacher_ratio" : "14.2"
+}
+, {
+  "dbn" : "16K040",
+  "school_name" : "P.S. 040 GEORGE W. CARVER",
+  "school_pupil_teacher_ratio" : "14.3"
+}
+, {
+  "dbn" : "15K039",
+  "school_name" : "P.S. 039 HENRY BRISTOW",
+  "school_pupil_teacher_ratio" : "15.2"
+}
+, {
+  "dbn" : "15K038",
+  "school_name" : "P.S. 038 THE PACIFIC",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "14K034",
+  "school_name" : "P.S. 034 OLIVER H. PERRY",
+  "school_pupil_teacher_ratio" : "15.8"
+}
+, {
+  "dbn" : "15K032",
+  "school_name" : "P.S. 032 SAMUEL MILLS SPROLE",
+  "school_pupil_teacher_ratio" : "8.5"
+}
+, {
+  "dbn" : "14K031",
+  "school_name" : "P.S. 031 SAMUEL F. DUPONT",
+  "school_pupil_teacher_ratio" : "15.8"
+}
+, {
+  "dbn" : "15K029",
+  "school_name" : "P.S. 029 JOHN M. HARRIGAN",
+  "school_pupil_teacher_ratio" : "16.8"
+}
+, {
+  "dbn" : "16K028",
+  "school_name" : "P.S. 028 THE WARREN PREP ACADEMY",
+  "school_pupil_teacher_ratio" : "10.2"
+}
+, {
+  "dbn" : "16K026",
+  "school_name" : "P.S. 026 JESSE OWENS",
+  "school_pupil_teacher_ratio" : "11.5"
+}
+, {
+  "dbn" : "16K025",
+  "school_name" : "P.S. 025 EUBIE BLAKE SCHOOL",
+  "school_pupil_teacher_ratio" : "6.9"
+}
+, {
+  "dbn" : "15K024",
+  "school_name" : "P.S. 024",
+  "school_pupil_teacher_ratio" : "11.9"
+}
+, {
+  "dbn" : "14K023",
+  "school_name" : "P.S. 023 CARTER G. WOODSON",
+  "school_pupil_teacher_ratio" : "11.2"
+}
+, {
+  "dbn" : "16K021",
+  "school_name" : "P.S. 021 CRISPUS ATTUCKS",
+  "school_pupil_teacher_ratio" : "15.3"
+}
+, {
+  "dbn" : "13K020",
+  "school_name" : "P.S. 020 CLINTON HILL",
+  "school_pupil_teacher_ratio" : "15.9"
+}
+, {
+  "dbn" : "14K018",
+  "school_name" : "P.S. 018 EDWARD BUSH",
+  "school_pupil_teacher_ratio" : "12.1"
+}
+, {
+  "dbn" : "14K017",
+  "school_name" : "P.S. 017 HENRY D. WOODWORTH",
+  "school_pupil_teacher_ratio" : "11"
+}
+, {
+  "dbn" : "14K016",
+  "school_name" : "P.S. 016 LEONARD DUNKLY",
+  "school_pupil_teacher_ratio" : "13"
+}
+, {
+  "dbn" : "15K015",
+  "school_name" : "P.S. 015 PATRICK F. DALY",
+  "school_pupil_teacher_ratio" : "9.4"
+}
+, {
+  "dbn" : "19K013",
+  "school_name" : "P.S. 013 ROBERTO CLEMENTE",
+  "school_pupil_teacher_ratio" : "16.4"
+}
+, {
+  "dbn" : "17K012",
+  "school_name" : "DR. JACQUELINE PEEK-DAVIS SCHOOL",
+  "school_pupil_teacher_ratio" : "16.3"
+}
+, {
+  "dbn" : "13K011",
+  "school_name" : "P.S. 011 PURVIS J. BEHAN",
+  "school_pupil_teacher_ratio" : "17.5"
+}
+, {
+  "dbn" : "15K010",
+  "school_name" : "MAGNET SCHOOL OF MATH, SCIENCE AND DESIGN TECHNOLOGY",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "13K009",
+  "school_name" : "P.S. 009 TEUNIS G. BERGEN",
+  "school_pupil_teacher_ratio" : "19"
+}
+, {
+  "dbn" : "19K007",
+  "school_name" : "P.S. 007 ABRAHAM LINCOLN",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "17K006",
+  "school_name" : "P.S. 006",
+  "school_pupil_teacher_ratio" : "14.7"
+}
+, {
+  "dbn" : "16K005",
+  "school_name" : "P.S. 005 DR. RONALD MCNAIR",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "13K003",
+  "school_name" : "P.S. 003 THE BEDFORD VILLAGE",
+  "school_pupil_teacher_ratio" : "13.3"
+}
+, {
+  "dbn" : "02M459",
+  "school_name" : "MANHATTAN INTERNATIONAL HIGH SCHOOL",
+  "school_pupil_teacher_ratio" : "17.2"
+}
+, {
+  "dbn" : "02M565",
+  "school_name" : "URBAN ACADEMY LABORATORY HIGH SCHOOL",
+  "school_pupil_teacher_ratio" : "9.5"
+}
+, {
+  "dbn" : "02M570",
+  "school_name" : "SATELLITE ACADEMY HIGH SCHOOL",
+  "school_pupil_teacher_ratio" : "16.9"
+}
+, {
+  "dbn" : "04M497",
+  "school_name" : "CENTRAL PARK EAST I",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "06M513",
+  "school_name" : "CASTLE BRIDGE SCHOOL",
+  "school_pupil_teacher_ratio" : "11.8"
+}
+, {
+  "dbn" : "07X381",
+  "school_name" : "BRONX HAVEN HIGH SCHOOL",
+  "school_pupil_teacher_ratio" : "12.2"
+}
+, {
+  "dbn" : "08X537",
+  "school_name" : "BRONX ARENA HIGH SCHOOL",
+  "school_pupil_teacher_ratio" : "12.2"
+}
+, {
+  "dbn" : "12X682",
+  "school_name" : "FANNIE LOU HAMER FREEDOM HIGH SCHOOL",
+  "school_pupil_teacher_ratio" : "15.7"
+}
+, {
+  "dbn" : "11X566",
+  "school_name" : "PELHAM GARDENS MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "13.2"
+}
+, {
+  "dbn" : "08X562",
+  "school_name" : "BLUEPRINT MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "11.7"
+}
+, {
+  "dbn" : "11X556",
+  "school_name" : "BRONX PARK MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "10.9"
+}
+, {
+  "dbn" : "11X532",
+  "school_name" : "BAYCHESTER MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "12"
+}
+, {
+  "dbn" : "11X529",
+  "school_name" : "ONE WORLD MIDDLE SCHOOL AT EDENWALD",
+  "school_pupil_teacher_ratio" : "9.4"
+}
+, {
+  "dbn" : "11X498",
+  "school_name" : "PS/MS 11X498 - VAN NEST ACADEMY",
+  "school_pupil_teacher_ratio" : "16.1"
+}
+, {
+  "dbn" : "11X468",
+  "school_name" : "PELHAM ACADEMY OF ACADEMICS AND COMMUNITY ENGAGEMENT",
+  "school_pupil_teacher_ratio" : "16.7"
+}
+, {
+  "dbn" : "08X467",
+  "school_name" : "MOTT HALL COMMUNITY SCHOOL",
+  "school_pupil_teacher_ratio" : "14.3"
+}
+, {
+  "dbn" : "11X462",
+  "school_name" : "CORNERSTONE ACADEMY FOR SOCIAL ACTION MIDDLE SCHOOL (CASA)",
+  "school_pupil_teacher_ratio" : "17.9"
+}
+, {
+  "dbn" : "10X459",
+  "school_name" : "EAST FORDHAM ACADEMY FOR THE ARTS",
+  "school_pupil_teacher_ratio" : "12.1"
+}
+, {
+  "dbn" : "09X454",
+  "school_name" : "SCIENCE AND TECHNOLOGY ACADEMY: A MOTT HALL SCHOOL",
+  "school_pupil_teacher_ratio" : "12"
+}
+, {
+  "dbn" : "08X448",
+  "school_name" : "SOUNDVIEW ACADEMY FOR CULTURE AND SCHOLARSHIP",
+  "school_pupil_teacher_ratio" : "12.4"
+}
+, {
+  "dbn" : "10X447",
+  "school_name" : "CRESTON ACADEMY",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "08X424",
+  "school_name" : "THE HUNTS POINT SCHOOL",
+  "school_pupil_teacher_ratio" : "10"
+}
+, {
+  "dbn" : "10X391",
+  "school_name" : "THE ANGELO PATRI MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "11.6"
+}
+, {
+  "dbn" : "10X390",
+  "school_name" : "M.S. 390",
+  "school_pupil_teacher_ratio" : "15.9"
+}
+, {
+  "dbn" : "12X384",
+  "school_name" : "ENTRADA ACADEMY",
+  "school_pupil_teacher_ratio" : "12.8"
+}
+, {
+  "dbn" : "12X383",
+  "school_name" : "EMOLIOR ACADEMY",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "08X375",
+  "school_name" : "THE BRONX MATHEMATICS PREPARATORY SCHOOL",
+  "school_pupil_teacher_ratio" : "12.7"
+}
+, {
+  "dbn" : "08X371",
+  "school_name" : "URBAN INSTITUTE OF MATHEMATICS",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "08X366",
+  "school_name" : "URBAN ASSEMBLY ACADEMY OF CIVIC ENGAGEMENT",
+  "school_pupil_teacher_ratio" : "9.5"
+}
+, {
+  "dbn" : "10X363",
+  "school_name" : "ACADEMY FOR PERSONAL LEADERSHIP AND EXCELLENCE",
+  "school_pupil_teacher_ratio" : "8.5"
+}
+, {
+  "dbn" : "09X361",
+  "school_name" : "THE HIGHBRIDGE GREEN SCHOOL",
+  "school_pupil_teacher_ratio" : "12.1"
+}
+, {
+  "dbn" : "11X355",
+  "school_name" : "BRONX ALLIANCE MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "11.5"
+}
+, {
+  "dbn" : "07X343",
+  "school_name" : "ACADEMY OF APPLIED MATHEMATICS AND TECHNOLOGY",
+  "school_pupil_teacher_ratio" : "17.2"
+}
+, {
+  "dbn" : "12X341",
+  "school_name" : "ACCION ACADEMY",
+  "school_pupil_teacher_ratio" : "11.4"
+}
+, {
+  "dbn" : "09X339",
+  "school_name" : "I.S. 339",
+  "school_pupil_teacher_ratio" : "9.1"
+}
+, {
+  "dbn" : "08X337",
+  "school_name" : "THE SCHOOL FOR INQUIRY AND SOCIAL JUSTICE",
+  "school_pupil_teacher_ratio" : "15.7"
+}
+, {
+  "dbn" : "10X331",
+  "school_name" : "THE BRONX SCHOOL OF YOUNG LEADERS",
+  "school_pupil_teacher_ratio" : "12.2"
+}
+, {
+  "dbn" : "09X328",
+  "school_name" : "NEW MILLENNIUM BUSINESS ACADEMY MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "12"
+}
+, {
+  "dbn" : "11X326",
+  "school_name" : "BRONX GREEN MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "13.2"
+}
+, {
+  "dbn" : "09X325",
+  "school_name" : "URBAN SCIENCE ACADEMY",
+  "school_pupil_teacher_ratio" : "12.1"
+}
+, {
+  "dbn" : "09X323",
+  "school_name" : "BRONX WRITING ACADEMY",
+  "school_pupil_teacher_ratio" : "12.4"
+}
+, {
+  "dbn" : "12X318",
+  "school_name" : "I.S. X318 MATH, SCIENCE & TECHNOLOGY THROUGH ARTS",
+  "school_pupil_teacher_ratio" : "13.3"
+}
+, {
+  "dbn" : "12X316",
+  "school_name" : "KAPPA III",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "10X315",
+  "school_name" : "P.S. 315 LAB SCHOOL",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "09X313",
+  "school_name" : "I.S. 313 SCHOOL OF LEADERSHIP DEVELOPMENT",
+  "school_pupil_teacher_ratio" : "11.2"
+}
+, {
+  "dbn" : "10X308",
+  "school_name" : "BRONX DANCE ACADEMY SCHOOL",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "09X303",
+  "school_name" : "I.S. X303 LEADERSHIP & COMMUNITY SERVICE",
+  "school_pupil_teacher_ratio" : "12.7"
+}
+, {
+  "dbn" : "08X302",
+  "school_name" : "M.S. 302 LUISA DESSUS CRUZ",
+  "school_pupil_teacher_ratio" : "12.5"
+}
+, {
+  "dbn" : "08X301",
+  "school_name" : "M.S. 301 PAUL L. DUNBAR",
+  "school_pupil_teacher_ratio" : "11.3"
+}
+, {
+  "dbn" : "07X298",
+  "school_name" : "ACADEMY OF PUBLIC RELATIONS",
+  "school_pupil_teacher_ratio" : "10.6"
+}
+, {
+  "dbn" : "07X296",
+  "school_name" : "SOUTH BRONX ACADEMY FOR APPLIED MEDIA",
+  "school_pupil_teacher_ratio" : "15.2"
+}
+, {
+  "dbn" : "11X289",
+  "school_name" : "THE YOUNG SCHOLARS ACADEMY OF THE BRONX",
+  "school_pupil_teacher_ratio" : "12"
+}
+, {
+  "dbn" : "11X287",
+  "school_name" : "THE FORWARD SCHOOL",
+  "school_pupil_teacher_ratio" : "17.9"
+}
+, {
+  "dbn" : "12X286",
+  "school_name" : "FANNIE LOU HAMER MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "10X280",
+  "school_name" : "P.S./M.S. 280 MOSHOLU PARKWAY",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "10X279",
+  "school_name" : "P.S. 279 CAPTAIN MANUEL RIVERA, JR.",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "12X273",
+  "school_name" : "FREDERICK DOUGLASS ACADEMY V. MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "12.7"
+}
+, {
+  "dbn" : "11X272",
+  "school_name" : "GLOBE SCHOOL FOR ENVIRONMENTAL RESEARCH",
+  "school_pupil_teacher_ratio" : "10.7"
+}
+, {
+  "dbn" : "10X254",
+  "school_name" : "I.S. 254",
+  "school_pupil_teacher_ratio" : "14"
+}
+, {
+  "dbn" : "10X244",
+  "school_name" : "THE NEW SCHOOL FOR LEADERSHIP AND JOURNALISM",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "09X232",
+  "school_name" : "I.S. 232",
+  "school_pupil_teacher_ratio" : "17.5"
+}
+, {
+  "dbn" : "09X229",
+  "school_name" : "I.S. 229 ROLAND PATTERSON",
+  "school_pupil_teacher_ratio" : "8.9"
+}
+, {
+  "dbn" : "10X228",
+  "school_name" : "JONAS BRONCK ACADEMY",
+  "school_pupil_teacher_ratio" : "13.8"
+}
+, {
+  "dbn" : "07X224",
+  "school_name" : "P.S. / I.S. 224",
+  "school_pupil_teacher_ratio" : "14.6"
+}
+, {
+  "dbn" : "09X219",
+  "school_name" : "I.S. 219 NEW VENTURE SCHOOL",
+  "school_pupil_teacher_ratio" : "11.2"
+}
+, {
+  "dbn" : "09X218",
+  "school_name" : "P.S./I.S. 218 RAFAEL HERNANDEZ DUAL LANGUAGE MAGNET SCHOOL",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "12X217",
+  "school_name" : "SCHOOL OF PERFORMING ARTS",
+  "school_pupil_teacher_ratio" : "10.1"
+}
+, {
+  "dbn" : "09X215",
+  "school_name" : "KAPPA",
+  "school_pupil_teacher_ratio" : "14.3"
+}
+, {
+  "dbn" : "12X214",
+  "school_name" : "P.S. 214",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "12X212",
+  "school_name" : "P.S. 212",
+  "school_pupil_teacher_ratio" : "13.2"
+}
+, {
+  "dbn" : "12X211",
+  "school_name" : "P.S. 211",
+  "school_pupil_teacher_ratio" : "14.2"
+}
+, {
+  "dbn" : "10X206",
+  "school_name" : "I.S. 206 ANN MERSEREAU",
+  "school_pupil_teacher_ratio" : "12.5"
+}
+, {
+  "dbn" : "11X194",
+  "school_name" : "PS/MS 194",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "12X190",
+  "school_name" : "E.S.M.T- I.S. 190",
+  "school_pupil_teacher_ratio" : "12"
+}
+, {
+  "dbn" : "11X181",
+  "school_name" : "I.S. 181 PABLO CASALS",
+  "school_pupil_teacher_ratio" : "15.3"
+}
+, {
+  "dbn" : "11X180",
+  "school_name" : "M.S. 180 DR. DANIEL HALE WILLIAMS",
+  "school_pupil_teacher_ratio" : "16.5"
+}
+, {
+  "dbn" : "11X175",
+  "school_name" : "P.S. 175 CITY ISLAND",
+  "school_pupil_teacher_ratio" : "12.9"
+}
+, {
+  "dbn" : "07X162",
+  "school_name" : "J.H.S. 162 LOLA RODRIGUEZ DE TIO",
+  "school_pupil_teacher_ratio" : "10.8"
+}
+, {
+  "dbn" : "07X151",
+  "school_name" : "J.H.S. 151 LOU GEHRIG",
+  "school_pupil_teacher_ratio" : "11.2"
+}
+, {
+  "dbn" : "09X145",
+  "school_name" : "J.H.S. 145 ARTURO TOSCANINI",
+  "school_pupil_teacher_ratio" : "11.2"
+}
+, {
+  "dbn" : "11X144",
+  "school_name" : "J.H.S. 144 MICHELANGELO",
+  "school_pupil_teacher_ratio" : "16.9"
+}
+, {
+  "dbn" : "08X131",
+  "school_name" : "J.H.S. 131 ALBERT EINSTEIN",
+  "school_pupil_teacher_ratio" : "14"
+}
+, {
+  "dbn" : "12X129",
+  "school_name" : "M.S. 129 ACADEMY FOR INDEPENDENT LEARNING AND LEADERSHIP",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "09X128",
+  "school_name" : "MOTT HALL III",
+  "school_pupil_teacher_ratio" : "16"
+}
+, {
+  "dbn" : "11X127",
+  "school_name" : "J.H.S. 127 THE CASTLE HILL",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "08X125",
+  "school_name" : "J.H.S. 125 HENRY HUDSON",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "08X123",
+  "school_name" : "J.H.S. 123 JAMES M. KIERAN",
+  "school_pupil_teacher_ratio" : "12.1"
+}
+, {
+  "dbn" : "10X118",
+  "school_name" : "J.H.S. 118 WILLIAM W. NILES",
+  "school_pupil_teacher_ratio" : "13.8"
+}
+, {
+  "dbn" : "09X117",
+  "school_name" : "I.S. 117 JOSEPH H. WADE",
+  "school_pupil_teacher_ratio" : "12.7"
+}
+, {
+  "dbn" : "08X101",
+  "school_name" : "M.S. X101 EDWARD R. BYRNE",
+  "school_pupil_teacher_ratio" : "14"
+}
+, {
+  "dbn" : "12X098",
+  "school_name" : "J.H.S. 098 HERMAN RIDDER",
+  "school_pupil_teacher_ratio" : "10.1"
+}
+, {
+  "dbn" : "10X095",
+  "school_name" : "P.S. 095 SHEILA MENCHER",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "11X089",
+  "school_name" : "P.S. 089 BRONX",
+  "school_pupil_teacher_ratio" : "16.7"
+}
+, {
+  "dbn" : "10X086",
+  "school_name" : "P.S. 086 KINGSBRIDGE HEIGHTS",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "11X083",
+  "school_name" : "P.S. 083 DONALD HERTZ",
+  "school_pupil_teacher_ratio" : "15.3"
+}
+, {
+  "dbn" : "10X080",
+  "school_name" : "J.H.S. 080 THE MOSHOLU PARKWAY",
+  "school_pupil_teacher_ratio" : "12.2"
+}
+, {
+  "dbn" : "08X071",
+  "school_name" : "P.S. 071 ROSE E. SCALA",
+  "school_pupil_teacher_ratio" : "14"
+}
+, {
+  "dbn" : "10X045",
+  "school_name" : "THOMAS C. GIORDANO MIDDLE SCHOOL 45",
+  "school_pupil_teacher_ratio" : "14.3"
+}
+, {
+  "dbn" : "10X037",
+  "school_name" : "P.S. X037 - MULTIPLE INTELLIGENCE SCHOOL",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "07X031",
+  "school_name" : "P.S./M.S. 031 THE WILLIAM LLOYD GARRISON",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "07X029",
+  "school_name" : "P.S./M.S. 029 MELROSE SCHOOL",
+  "school_pupil_teacher_ratio" : "12.2"
+}
+, {
+  "dbn" : "09X022",
+  "school_name" : "J.H.S. 022 JORDAN L. MOTT",
+  "school_pupil_teacher_ratio" : "9.4"
+}
+, {
+  "dbn" : "10X020",
+  "school_name" : "PS/MS 20 P.O.GEORGE J. WERDANN, III",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "11X019",
+  "school_name" : "P.S. 019 JUDITH K. WEISS",
+  "school_pupil_teacher_ratio" : "16.2"
+}
+, {
+  "dbn" : "10X015",
+  "school_name" : "P.S. X015 INSTITUTE FOR ENVIRONMENTAL LEARNING",
+  "school_pupil_teacher_ratio" : "17"
+}
+, {
+  "dbn" : "07X005",
+  "school_name" : "PS 5 PORT MORRIS",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "10X003",
+  "school_name" : "P.S. 3 RAUL JULIA MICRO SOCIETY",
+  "school_pupil_teacher_ratio" : "12.4"
+}
+, {
+  "dbn" : "31R861",
+  "school_name" : "STATEN ISLAND SCHOOL OF CIVIC LEADERSHIP",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "31R075",
+  "school_name" : "I.S. 075 FRANK D. PAULO",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "31R072",
+  "school_name" : "I.S. 072 ROCCO LAURIE",
+  "school_pupil_teacher_ratio" : "14.7"
+}
+, {
+  "dbn" : "31R063",
+  "school_name" : "MARSH AVENUE SCHOOL FOR EXPEDITIONARY LEARNING",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "31R061",
+  "school_name" : "I.S. 061 WILLIAM A MORRIS",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "31R051",
+  "school_name" : "I.S. 051 EDWIN MARKHAM",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "31R049",
+  "school_name" : "I.S. 49 BERTA A. DREYFUS",
+  "school_pupil_teacher_ratio" : "14.2"
+}
+, {
+  "dbn" : "31R048",
+  "school_name" : "P.S. 048 WILLIAM G. WILCOX",
+  "school_pupil_teacher_ratio" : "16.1"
+}
+, {
+  "dbn" : "31R034",
+  "school_name" : "I.S. 034 TOTTENVILLE",
+  "school_pupil_teacher_ratio" : "17.1"
+}
+, {
+  "dbn" : "31R027",
+  "school_name" : "I.S. 027 ANNING S. PRALL",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "31R024",
+  "school_name" : "I.S. 024 MYRA S. BARNES",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "31R007",
+  "school_name" : "I.S. 007 ELIAS BERNSTEIN",
+  "school_pupil_teacher_ratio" : "16.3"
+}
+, {
+  "dbn" : "31R002",
+  "school_name" : "I.S. R002 GEORGE L. EGBERT",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "25Q499",
+  "school_name" : "THE QUEENS COLLEGE SCHOOL FOR MATH, SCIENCE AND TECHNOLOGY",
+  "school_pupil_teacher_ratio" : "18.7"
+}
+, {
+  "dbn" : "28Q358",
+  "school_name" : "M.S. 358",
+  "school_pupil_teacher_ratio" : "12.7"
+}
+, {
+  "dbn" : "29Q356",
+  "school_name" : "COMMUNITY VOICES MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "12.8"
+}
+, {
+  "dbn" : "29Q355",
+  "school_name" : "COLLABORATIVE ARTS MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "27Q333",
+  "school_name" : "GOLDIE MAPLE ACADEMY",
+  "school_pupil_teacher_ratio" : "14.1"
+}
+, {
+  "dbn" : "28Q332",
+  "school_name" : "REDWOOD MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "14.3"
+}
+, {
+  "dbn" : "27Q318",
+  "school_name" : "WATERSIDE SCHOOL FOR LEADERSHIP",
+  "school_pupil_teacher_ratio" : "11.7"
+}
+, {
+  "dbn" : "24Q311",
+  "school_name" : "CORONA ARTS AND SCIENCES ACADEMY",
+  "school_pupil_teacher_ratio" : "16.4"
+}
+, {
+  "dbn" : "30Q300",
+  "school_name" : "THE 30TH AVENUE SCHOOL (G&T CITYWIDE)",
+  "school_pupil_teacher_ratio" : "18.2"
+}
+, {
+  "dbn" : "27Q297",
+  "school_name" : "HAWTREE CREEK MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "12.3"
+}
+, {
+  "dbn" : "29Q295",
+  "school_name" : "P.S./I.S. 295",
+  "school_pupil_teacher_ratio" : "16"
+}
+, {
+  "dbn" : "25Q294",
+  "school_name" : "BELL ACADEMY",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "30Q291",
+  "school_name" : "HUNTERS POINT COMMUNITY MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "11.4"
+}
+, {
+  "dbn" : "29Q289",
+  "school_name" : "QUEENS UNITED MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "14.7"
+}
+, {
+  "dbn" : "28Q287",
+  "school_name" : "THE EMERSON SCHOOL",
+  "school_pupil_teacher_ratio" : "13.1"
+}
+, {
+  "dbn" : "27Q282",
+  "school_name" : "KNOWLEDGE AND POWER PREPARATORY ACADEMY VI",
+  "school_pupil_teacher_ratio" : "18.4"
+}
+, {
+  "dbn" : "29Q270",
+  "school_name" : "THE GORDON PARKS SCHOOL",
+  "school_pupil_teacher_ratio" : "16.5"
+}
+, {
+  "dbn" : "29Q268",
+  "school_name" : "PS/IS 268",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "26Q266",
+  "school_name" : "P.S. / I.S. 266",
+  "school_pupil_teacher_ratio" : "16.3"
+}
+, {
+  "dbn" : "25Q250",
+  "school_name" : "I.S. 250 THE ROBERT F. KENNEDY COMMUNITY MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "29Q238",
+  "school_name" : "I.S. 238 - SUSAN B. ANTHONY ACADEMY",
+  "school_pupil_teacher_ratio" : "17.6"
+}
+, {
+  "dbn" : "25Q237",
+  "school_name" : "I.S. 237",
+  "school_pupil_teacher_ratio" : "17.8"
+}
+, {
+  "dbn" : "30Q235",
+  "school_name" : "ACADEMY FOR NEW AMERICANS",
+  "school_pupil_teacher_ratio" : "12.5"
+}
+, {
+  "dbn" : "27Q232",
+  "school_name" : "P.S. 232 LINDENWOOD",
+  "school_pupil_teacher_ratio" : "16.5"
+}
+, {
+  "dbn" : "30Q230",
+  "school_name" : "I.S. 230",
+  "school_pupil_teacher_ratio" : "16.3"
+}
+, {
+  "dbn" : "30Q227",
+  "school_name" : "I.S. 227 LOUIS ARMSTRONG",
+  "school_pupil_teacher_ratio" : "16.7"
+}
+, {
+  "dbn" : "27Q226",
+  "school_name" : "J.H.S. 226 VIRGIL I. GRISSOM",
+  "school_pupil_teacher_ratio" : "19"
+}
+, {
+  "dbn" : "25Q219",
+  "school_name" : "P.S. 219 PAUL KLAPPER",
+  "school_pupil_teacher_ratio" : "11.5"
+}
+, {
+  "dbn" : "28Q217",
+  "school_name" : "J.H.S. 217 ROBERT A. VAN WYCK",
+  "school_pupil_teacher_ratio" : "18.8"
+}
+, {
+  "dbn" : "26Q216",
+  "school_name" : "J.H.S. 216 GEORGE J. RYAN",
+  "school_pupil_teacher_ratio" : "21.2"
+}
+, {
+  "dbn" : "27Q210",
+  "school_name" : "J.H.S. 210 ELIZABETH BLACKWELL",
+  "school_pupil_teacher_ratio" : "17.1"
+}
+, {
+  "dbn" : "29Q208",
+  "school_name" : "P.S. / I.S. 208",
+  "school_pupil_teacher_ratio" : "14.7"
+}
+, {
+  "dbn" : "27Q207",
+  "school_name" : "P.S. 207 ROCKWOOD PARK",
+  "school_pupil_teacher_ratio" : "10.1"
+}
+, {
+  "dbn" : "30Q204",
+  "school_name" : "I.S. 204 OLIVER W. HOLMES",
+  "school_pupil_teacher_ratio" : "12.4"
+}
+, {
+  "dbn" : "27Q202",
+  "school_name" : "J.H.S. 202 ROBERT H. GODDARD",
+  "school_pupil_teacher_ratio" : "18.3"
+}
+, {
+  "dbn" : "25Q200",
+  "school_name" : "PS/MS 200 - THE POMONOK SCHOOL & STAR ACADEMY",
+  "school_pupil_teacher_ratio" : "14.1"
+}
+, {
+  "dbn" : "25Q194",
+  "school_name" : "J.H.S. 194 WILLIAM CARR",
+  "school_pupil_teacher_ratio" : "17.3"
+}
+, {
+  "dbn" : "29Q192",
+  "school_name" : "I.S. 192 THE LINDEN",
+  "school_pupil_teacher_ratio" : "15.8"
+}
+, {
+  "dbn" : "28Q190",
+  "school_name" : "J.H.S. 190 RUSSELL SAGE",
+  "school_pupil_teacher_ratio" : "17"
+}
+, {
+  "dbn" : "25Q189",
+  "school_name" : "J.H.S. 189 DANIEL CARTER BEARD",
+  "school_pupil_teacher_ratio" : "17.7"
+}
+, {
+  "dbn" : "25Q185",
+  "school_name" : "J.H.S. 185 EDWARD BLEEKER",
+  "school_pupil_teacher_ratio" : "16.8"
+}
+, {
+  "dbn" : "27Q183",
+  "school_name" : "P.S. 183 DR. RICHARD R. GREEN",
+  "school_pupil_teacher_ratio" : "13"
+}
+, {
+  "dbn" : "26Q178",
+  "school_name" : "P.S./ IS 178 HOLLISWOOD",
+  "school_pupil_teacher_ratio" : "16.7"
+}
+, {
+  "dbn" : "26Q172",
+  "school_name" : "IRWIN ALTMAN MIDDLE SCHOOL 172",
+  "school_pupil_teacher_ratio" : "17.8"
+}
+, {
+  "dbn" : "25Q164",
+  "school_name" : "P.S. 164 QUEENS VALLEY",
+  "school_pupil_teacher_ratio" : "14.1"
+}
+, {
+  "dbn" : "26Q158",
+  "school_name" : "M.S. 158 MARIE CURIE",
+  "school_pupil_teacher_ratio" : "17.7"
+}
+, {
+  "dbn" : "29Q147",
+  "school_name" : "PS/MS 147 RONALD MCNAIR",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "27Q146",
+  "school_name" : "P.S. 146 HOWARD BEACH",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "30Q145",
+  "school_name" : "I.S. 145 JOSEPH PULITZER",
+  "school_pupil_teacher_ratio" : "14.3"
+}
+, {
+  "dbn" : "30Q141",
+  "school_name" : "I.S. 141 THE STEINWAY",
+  "school_pupil_teacher_ratio" : "17.1"
+}
+, {
+  "dbn" : "29Q138",
+  "school_name" : "P.S./ M.S.138 SUNRISE",
+  "school_pupil_teacher_ratio" : "15.2"
+}
+, {
+  "dbn" : "27Q137",
+  "school_name" : "M.S. 137 AMERICA'S SCHOOL OF HEROES",
+  "school_pupil_teacher_ratio" : "17.4"
+}
+, {
+  "dbn" : "24Q128",
+  "school_name" : "P.S. 128 THE LORRAINE TUZZO, JUNIPER VALLEY ELEMENTARY SCHOOL",
+  "school_pupil_teacher_ratio" : "17.2"
+}
+, {
+  "dbn" : "30Q127",
+  "school_name" : "P.S. 127 AEROSPACE SCIENCE MAGNE",
+  "school_pupil_teacher_ratio" : "14.2"
+}
+, {
+  "dbn" : "30Q126",
+  "school_name" : "ALBERT SHANKER SCHOOL FOR VISUAL AND PERFORMING ARTS",
+  "school_pupil_teacher_ratio" : "16.2"
+}
+, {
+  "dbn" : "24Q125",
+  "school_name" : "I.S. 125 THOM J. MCCANN WOODSIDE",
+  "school_pupil_teacher_ratio" : "16.4"
+}
+, {
+  "dbn" : "27Q124",
+  "school_name" : "P.S. 124 OSMOND A CHURCH",
+  "school_pupil_teacher_ratio" : "17.4"
+}
+, {
+  "dbn" : "30Q122",
+  "school_name" : "P.S. 122 MAMIE FAY",
+  "school_pupil_teacher_ratio" : "19"
+}
+, {
+  "dbn" : "24Q119",
+  "school_name" : "I.S. 119 THE GLENDALE",
+  "school_pupil_teacher_ratio" : "17.9"
+}
+, {
+  "dbn" : "29Q116",
+  "school_name" : "PS/IS 116 WILLIAM C. HUGHLEY",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "27Q114",
+  "school_name" : "P.S. / M.S. 114 BELLE HARBOR",
+  "school_pupil_teacher_ratio" : "13.7"
+}
+, {
+  "dbn" : "24Q113",
+  "school_name" : "P.S./I.S. 113 ANTHONY J. PRANZO",
+  "school_pupil_teacher_ratio" : "18"
+}
+, {
+  "dbn" : "30Q111",
+  "school_name" : "P.S. 111 JACOB BLACKWELL",
+  "school_pupil_teacher_ratio" : "9.2"
+}
+, {
+  "dbn" : "29Q109",
+  "school_name" : "JEAN NUZZI INTERMEDIATE SCHOOL",
+  "school_pupil_teacher_ratio" : "17.2"
+}
+, {
+  "dbn" : "27Q105",
+  "school_name" : "P.S. 105 THE BAY SCHOOL",
+  "school_pupil_teacher_ratio" : "14.5"
+}
+, {
+  "dbn" : "24Q102",
+  "school_name" : "P.S. 102 BAYVIEW",
+  "school_pupil_teacher_ratio" : "15.2"
+}
+, {
+  "dbn" : "24Q093",
+  "school_name" : "I.S. 093 RIDGEWOOD",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "24Q087",
+  "school_name" : "P.S. / I.S. 087 MIDDLE VILLAGE",
+  "school_pupil_teacher_ratio" : "11.9"
+}
+, {
+  "dbn" : "30Q084",
+  "school_name" : "P.S. 084 STEINWAY",
+  "school_pupil_teacher_ratio" : "11.1"
+}
+, {
+  "dbn" : "30Q078",
+  "school_name" : "P.S./I.S. 78Q",
+  "school_pupil_teacher_ratio" : "15.3"
+}
+, {
+  "dbn" : "24Q077",
+  "school_name" : "I.S. 077",
+  "school_pupil_teacher_ratio" : "13.3"
+}
+, {
+  "dbn" : "26Q074",
+  "school_name" : "J.H.S. 074 NATHANIEL HAWTHORNE",
+  "school_pupil_teacher_ratio" : "18"
+}
+, {
+  "dbn" : "24Q073",
+  "school_name" : "I.S. 73 - THE FRANK SANSIVIERI INTERMEDIATE SCHOOL",
+  "school_pupil_teacher_ratio" : "15.9"
+}
+, {
+  "dbn" : "28Q072",
+  "school_name" : "CATHERINE & COUNT BASIE MIDDLE SCHOOL 72",
+  "school_pupil_teacher_ratio" : "12.8"
+}
+, {
+  "dbn" : "26Q067",
+  "school_name" : "J.H.S. 067 LOUIS PASTEUR",
+  "school_pupil_teacher_ratio" : "21.3"
+}
+, {
+  "dbn" : "24Q061",
+  "school_name" : "I.S. 061 LEONARDO DA VINCI",
+  "school_pupil_teacher_ratio" : "13.5"
+}
+, {
+  "dbn" : "29Q059",
+  "school_name" : "I.S. 059 SPRINGFIELD GARDENS",
+  "school_pupil_teacher_ratio" : "17"
+}
+, {
+  "dbn" : "27Q053",
+  "school_name" : "M.S. 053 BRIAN PICCOLO",
+  "school_pupil_teacher_ratio" : "12.9"
+}
+, {
+  "dbn" : "24Q049",
+  "school_name" : "P.S. 049 DOROTHY BONAWIT KOLE",
+  "school_pupil_teacher_ratio" : "17.6"
+}
+, {
+  "dbn" : "27Q047",
+  "school_name" : "P.S. 047 CHRIS GALAS",
+  "school_pupil_teacher_ratio" : "10.6"
+}
+, {
+  "dbn" : "27Q043",
+  "school_name" : "P.S. 043",
+  "school_pupil_teacher_ratio" : "15.4"
+}
+, {
+  "dbn" : "27Q042",
+  "school_name" : "P.S./M.S 042 R. VERNAM",
+  "school_pupil_teacher_ratio" : "12.6"
+}
+, {
+  "dbn" : "25Q025",
+  "school_name" : "I.S. 025 ADRIEN BLOCK",
+  "school_pupil_teacher_ratio" : "22"
+}
+, {
+  "dbn" : "30Q010",
+  "school_name" : "I.S. 010 HORACE GREELEY",
+  "school_pupil_teacher_ratio" : "14.3"
+}
+, {
+  "dbn" : "28Q008",
+  "school_name" : "J.H.S. 008 RICHARD S. GROSSLEY",
+  "school_pupil_teacher_ratio" : "11.4"
+}
+, {
+  "dbn" : "24Q005",
+  "school_name" : "I.S. 5 - THE WALTER CROWLEY INTERMEDIATE SCHOOL",
+  "school_pupil_teacher_ratio" : "16.7"
+}
+, {
+  "dbn" : "02M933",
+  "school_name" : "CITY KNOLL MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "11.2"
+}
+, {
+  "dbn" : "02M896",
+  "school_name" : "LOWER MANHATTAN COMMUNITY MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "03M862",
+  "school_name" : "MOTT HALL II",
+  "school_pupil_teacher_ratio" : "17.5"
+}
+, {
+  "dbn" : "01M839",
+  "school_name" : "TOMPKINS SQUARE MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "13.3"
+}
+, {
+  "dbn" : "04M825",
+  "school_name" : "ISAAC NEWTON MIDDLE SCHOOL FOR MATH & SCIENCE",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "06M528",
+  "school_name" : "I.S. 528 BEA FULLER RODGERS SCHOOL",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "05M514",
+  "school_name" : "NEW DESIGN MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "9.7"
+}
+, {
+  "dbn" : "02M442",
+  "school_name" : "BALLET TECH, NYC PUBLIC SCHOOL FOR DANCE",
+  "school_pupil_teacher_ratio" : "16.2"
+}
+, {
+  "dbn" : "03M421",
+  "school_name" : "WEST PREP ACADEMY",
+  "school_pupil_teacher_ratio" : "14.1"
+}
+, {
+  "dbn" : "05M410",
+  "school_name" : "THE URBAN ASSEMBLY INSTITUTE FOR NEW TECHNOLOGIES",
+  "school_pupil_teacher_ratio" : "9.9"
+}
+, {
+  "dbn" : "02M407",
+  "school_name" : "INSTITUTE FOR COLLABORATIVE EDUCATION",
+  "school_pupil_teacher_ratio" : "18"
+}
+, {
+  "dbn" : "04M406",
+  "school_name" : "GLOBAL TECHNOLOGY PREPARATORY",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "04M381",
+  "school_name" : "GLOBAL NEIGHBORHOOD SECONDARY SCHOOL",
+  "school_pupil_teacher_ratio" : "7.2"
+}
+, {
+  "dbn" : "01M378",
+  "school_name" : "SCHOOL FOR GLOBAL LEADERS",
+  "school_pupil_teacher_ratio" : "11.8"
+}
+, {
+  "dbn" : "06M366",
+  "school_name" : "WASHINGTON HEIGHTS ACADEMY",
+  "school_pupil_teacher_ratio" : "18.4"
+}
+, {
+  "dbn" : "06M349",
+  "school_name" : "HARBOR HEIGHTS",
+  "school_pupil_teacher_ratio" : "12.5"
+}
+, {
+  "dbn" : "02M347",
+  "school_name" : "THE 47 AMERICAN SIGN LANGUAGE & ENGLISH LOWER SCHOOL",
+  "school_pupil_teacher_ratio" : "4.5"
+}
+, {
+  "dbn" : "01M345",
+  "school_name" : "COLLABORATIVE ACADEMY OF SCIENCE, TECHNOLOGY, & LANGUAGE-ARTS EDUCATION",
+  "school_pupil_teacher_ratio" : "7.4"
+}
+, {
+  "dbn" : "03M334",
+  "school_name" : "THE ANDERSON SCHOOL",
+  "school_pupil_teacher_ratio" : "21.2"
+}
+, {
+  "dbn" : "03M333",
+  "school_name" : "P.S. 333 MANHATTAN SCHOOL FOR CHILDREN",
+  "school_pupil_teacher_ratio" : "14.9"
+}
+, {
+  "dbn" : "01M332",
+  "school_name" : "UNIVERSITY NEIGHBORHOOD MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "9.5"
+}
+, {
+  "dbn" : "06M328",
+  "school_name" : "M.S. 328 - MANHATTAN MIDDLE SCHOOL FOR SCIENTIFIC INQUIRY",
+  "school_pupil_teacher_ratio" : "6.8"
+}
+, {
+  "dbn" : "06M326",
+  "school_name" : "M.S. 326 - WRITERS TODAY & LEADERS TOMORROW",
+  "school_pupil_teacher_ratio" : "8"
+}
+, {
+  "dbn" : "06M324",
+  "school_name" : "M.S. 324 - PATRIA MIRABAL",
+  "school_pupil_teacher_ratio" : "12.8"
+}
+, {
+  "dbn" : "06M322",
+  "school_name" : "MIDDLE SCHOOL 322",
+  "school_pupil_teacher_ratio" : "10.2"
+}
+, {
+  "dbn" : "06M319",
+  "school_name" : "M.S. 319 - MARIA TERESA",
+  "school_pupil_teacher_ratio" : "14.3"
+}
+, {
+  "dbn" : "02M312",
+  "school_name" : "NEW YORK CITY LAB MIDDLE SCHOOL FOR COLLABORATIVE STUDIES",
+  "school_pupil_teacher_ratio" : "16.2"
+}
+, {
+  "dbn" : "05M302",
+  "school_name" : "KAPPA IV",
+  "school_pupil_teacher_ratio" : "11.4"
+}
+, {
+  "dbn" : "01M301",
+  "school_name" : "TECHNOLOGY, ARTS, AND SCIENCES STUDIO",
+  "school_pupil_teacher_ratio" : "10.3"
+}
+, {
+  "dbn" : "03M291",
+  "school_name" : "WEST END SECONDARY SCHOOL OF URBAN STUDIES",
+  "school_pupil_teacher_ratio" : "14.3"
+}
+, {
+  "dbn" : "02M289",
+  "school_name" : "I.S. 289",
+  "school_pupil_teacher_ratio" : "16.1"
+}
+, {
+  "dbn" : "06M278",
+  "school_name" : "PAULA HEDBAVNY SCHOOL",
+  "school_pupil_teacher_ratio" : "16.7"
+}
+, {
+  "dbn" : "02M276",
+  "school_name" : "BATTERY PARK CITY SCHOOL",
+  "school_pupil_teacher_ratio" : "14.6"
+}
+, {
+  "dbn" : "03M258",
+  "school_name" : "COMMUNITY ACTION SCHOOL - MS 258",
+  "school_pupil_teacher_ratio" : "12.4"
+}
+, {
+  "dbn" : "02M255",
+  "school_name" : "M.S. 255 SALK SCHOOL OF SCIENCE",
+  "school_pupil_teacher_ratio" : "16.2"
+}
+, {
+  "dbn" : "03M250",
+  "school_name" : "M.S. 250 WEST SIDE COLLABORATIVE MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "14.2"
+}
+, {
+  "dbn" : "03M247",
+  "school_name" : "M.S. M247 DUAL LANGUAGE MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "11.3"
+}
+, {
+  "dbn" : "03M245",
+  "school_name" : "M.S. M245 THE COMPUTER SCHOOL",
+  "school_pupil_teacher_ratio" : "16.3"
+}
+, {
+  "dbn" : "03M243",
+  "school_name" : "M.S. 243 CENTER SCHOOL",
+  "school_pupil_teacher_ratio" : "15.9"
+}
+, {
+  "dbn" : "02M225",
+  "school_name" : "ELLA BAKER SCHOOL",
+  "school_pupil_teacher_ratio" : "14.7"
+}
+, {
+  "dbn" : "04M224",
+  "school_name" : "M.S. 224 MANHATTAN EAST SCHOOL FOR ARTS & ACADEMICS",
+  "school_pupil_teacher_ratio" : "12.7"
+}
+, {
+  "dbn" : "06M223",
+  "school_name" : "THE MOTT HALL SCHOOL",
+  "school_pupil_teacher_ratio" : "12.2"
+}
+, {
+  "dbn" : "06M218",
+  "school_name" : "I.S. 218 SALOME URENA",
+  "school_pupil_teacher_ratio" : "9.5"
+}
+, {
+  "dbn" : "02M217",
+  "school_name" : "P.S./I.S. 217 ROOSEVELT ISLAND",
+  "school_pupil_teacher_ratio" : "17.1"
+}
+, {
+  "dbn" : "06M210",
+  "school_name" : "P.S./I.S. 210 - TWENTY-FIRST CENTURY ACADEMY FOR COMMUNITY LEADERSHIP",
+  "school_pupil_teacher_ratio" : "12.1"
+}
+, {
+  "dbn" : "06M209",
+  "school_name" : "HAMILTON GRANGE MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "04M206",
+  "school_name" : "P.S. 206 JOSE CELSO BARBOSA",
+  "school_pupil_teacher_ratio" : "7.1"
+}
+, {
+  "dbn" : "03M191",
+  "school_name" : "P.S. 191 AMSTERDAM",
+  "school_pupil_teacher_ratio" : "10.8"
+}
+, {
+  "dbn" : "01M188",
+  "school_name" : "P.S. 188 THE ISLAND SCHOOL",
+  "school_pupil_teacher_ratio" : "12.7"
+}
+, {
+  "dbn" : "06M187",
+  "school_name" : "P.S./I.S. 187 HUDSON CLIFFS",
+  "school_pupil_teacher_ratio" : "17.6"
+}
+, {
+  "dbn" : "01M184",
+  "school_name" : "P.S. 184M SHUANG WEN",
+  "school_pupil_teacher_ratio" : "15.1"
+}
+, {
+  "dbn" : "03M180",
+  "school_name" : "P.S. 180 HUGO NEWMAN",
+  "school_pupil_teacher_ratio" : "13"
+}
+, {
+  "dbn" : "02M177",
+  "school_name" : "YORKVILLE EAST MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "12.2"
+}
+, {
+  "dbn" : "04M171",
+  "school_name" : "P.S. 171 PATRICK HENRY",
+  "school_pupil_teacher_ratio" : "16.2"
+}
+, {
+  "dbn" : "02M167",
+  "school_name" : "J.H.S. 167 ROBERT F. WAGNER",
+  "school_pupil_teacher_ratio" : "15.6"
+}
+, {
+  "dbn" : "03M165",
+  "school_name" : "P.S. 165 ROBERT E. SIMON",
+  "school_pupil_teacher_ratio" : "12.2"
+}
+, {
+  "dbn" : "05M161",
+  "school_name" : "P.S. 161 PEDRO ALBIZU CAMPOS",
+  "school_pupil_teacher_ratio" : "12.5"
+}
+, {
+  "dbn" : "03M149",
+  "school_name" : "P.S. 149 SOJOURNER TRUTH",
+  "school_pupil_teacher_ratio" : "10.6"
+}
+, {
+  "dbn" : "05M148",
+  "school_name" : "EAGLE ACADEMY FOR YOUNG MEN OF HARLEM",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "06M143",
+  "school_name" : "J.H.S. 143 ELEANOR ROOSEVELT",
+  "school_pupil_teacher_ratio" : "12.3"
+}
+, {
+  "dbn" : "01M140",
+  "school_name" : "P.S. 140 NATHAN STRAUS",
+  "school_pupil_teacher_ratio" : "12.4"
+}
+, {
+  "dbn" : "02M131",
+  "school_name" : "M.S. 131",
+  "school_pupil_teacher_ratio" : "15.3"
+}
+, {
+  "dbn" : "05M129",
+  "school_name" : "P.S. 129 JOHN H. FINLEY",
+  "school_pupil_teacher_ratio" : "14.8"
+}
+, {
+  "dbn" : "02M126",
+  "school_name" : "P.S. 126 JACOB AUGUST RIIS",
+  "school_pupil_teacher_ratio" : "14.7"
+}
+, {
+  "dbn" : "05M123",
+  "school_name" : "P.S. 123 MAHALIA JACKSON",
+  "school_pupil_teacher_ratio" : "11.4"
+}
+, {
+  "dbn" : "02M114",
+  "school_name" : "EAST SIDE MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "04M108",
+  "school_name" : "P.S. 108 ASSEMBLYMAN ANGELO DEL TORO EDUCATIONAL COMPLEX",
+  "school_pupil_teacher_ratio" : "13.4"
+}
+, {
+  "dbn" : "02M104",
+  "school_name" : "J.H.S. 104 SIMON BARUCH",
+  "school_pupil_teacher_ratio" : "17.1"
+}
+, {
+  "dbn" : "04M096",
+  "school_name" : "P.S. 096 JOSEPH LANZETTA",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "04M072",
+  "school_name" : "THE LEXINGTON ACADEMY",
+  "school_pupil_teacher_ratio" : "13.1"
+}
+, {
+  "dbn" : "03M054",
+  "school_name" : "J.H.S. 054 BOOKER T. WASHINGTON",
+  "school_pupil_teacher_ratio" : "18.1"
+}
+, {
+  "dbn" : "06M052",
+  "school_name" : "J.H.S. 052 INWOOD",
+  "school_pupil_teacher_ratio" : "15"
+}
+, {
+  "dbn" : "04M050",
+  "school_name" : "P.S. 050 VITO MARCANTONIO",
+  "school_pupil_teacher_ratio" : "11.7"
+}
+, {
+  "dbn" : "05M046",
+  "school_name" : "P.S. 046 ARTHUR TAPPAN",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "06M018",
+  "school_name" : "P.S. 018 PARK TERRACE",
+  "school_pupil_teacher_ratio" : "13.5"
+}
+, {
+  "dbn" : "04M012",
+  "school_name" : "TAG YOUNG SCHOLARS",
+  "school_pupil_teacher_ratio" : "21.6"
+}
+, {
+  "dbn" : "04M007",
+  "school_name" : "P.S. 007 SAMUEL STERN",
+  "school_pupil_teacher_ratio" : "13"
+}
+, {
+  "dbn" : "15K821",
+  "school_name" : "SUNSET PARK PREP",
+  "school_pupil_teacher_ratio" : "13.3"
+}
+, {
+  "dbn" : "18K763",
+  "school_name" : "BROOKLYN SCIENCE AND ENGINEERING ACADEMY",
+  "school_pupil_teacher_ratio" : "11.3"
+}
+, {
+  "dbn" : "17K722",
+  "school_name" : "NEW HEIGHTS MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "9.3"
+}
+, {
+  "dbn" : "13K691",
+  "school_name" : "FORT GREENE PREPARATORY ACADEMY",
+  "school_pupil_teacher_ratio" : "11"
+}
+, {
+  "dbn" : "16K681",
+  "school_name" : "MADIBA PREP MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "8.8"
+}
+, {
+  "dbn" : "19K678",
+  "school_name" : "EAST NEW YORK MIDDLE SCHOOL OF EXCELLENCE",
+  "school_pupil_teacher_ratio" : "12.4"
+}
+, {
+  "dbn" : "23K671",
+  "school_name" : "MOTT HALL BRIDGES ACADEMY",
+  "school_pupil_teacher_ratio" : "11.5"
+}
+, {
+  "dbn" : "23K668",
+  "school_name" : "RIVERDALE AVENUE MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "10.3"
+}
+, {
+  "dbn" : "23K664",
+  "school_name" : "BROOKLYN ENVIRONMENTAL EXPLORATION SCHOOL (BEES)",
+  "school_pupil_teacher_ratio" : "12.6"
+}
+, {
+  "dbn" : "19K663",
+  "school_name" : "SCHOOL OF THE FUTURE BROOKLYN",
+  "school_pupil_teacher_ratio" : "10.1"
+}
+, {
+  "dbn" : "19K662",
+  "school_name" : "LIBERTY AVENUE MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "13.9"
+}
+, {
+  "dbn" : "19K661",
+  "school_name" : "VISTA ACADEMY",
+  "school_pupil_teacher_ratio" : "16.6"
+}
+, {
+  "dbn" : "19K654",
+  "school_name" : "VAN SICLEN COMMUNITY MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "16"
+}
+, {
+  "dbn" : "18K598",
+  "school_name" : "MIDDLE SCHOOL OF MARKETING AND LEGAL STUDIES",
+  "school_pupil_teacher_ratio" : "11.7"
+}
+, {
+  "dbn" : "13K596",
+  "school_name" : "MS 596 PEACE ACADEMY",
+  "school_pupil_teacher_ratio" : "6.4"
+}
+, {
+  "dbn" : "16K584",
+  "school_name" : "M.S. 584",
+  "school_pupil_teacher_ratio" : "8.4"
+}
+, {
+  "dbn" : "14K582",
+  "school_name" : "M.S. 582",
+  "school_pupil_teacher_ratio" : "12.1"
+}
+, {
+  "dbn" : "18K581",
+  "school_name" : "EAST FLATBUSH COMMUNITY RESEARCH SCHOOL",
+  "school_pupil_teacher_ratio" : "10.5"
+}
+, {
+  "dbn" : "14K577",
+  "school_name" : "CONSELYEA PREPARATORY SCHOOL",
+  "school_pupil_teacher_ratio" : "16.4"
+}
+, {
+  "dbn" : "32K562",
+  "school_name" : "EVERGREEN MIDDLE SCHOOL FOR URBAN EXPLORATION",
+  "school_pupil_teacher_ratio" : "7.6"
+}
+, {
+  "dbn" : "16K534",
+  "school_name" : "UPPER SCHOOL @ P.S. 25",
+  "school_pupil_teacher_ratio" : "7.9"
+}
+, {
+  "dbn" : "23K522",
+  "school_name" : "MOTT HALL IV",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "23K518",
+  "school_name" : "KAPPA V",
+  "school_pupil_teacher_ratio" : "18.1"
+}
+, {
+  "dbn" : "13K492",
+  "school_name" : "ACADEMY OF ARTS AND LETTERS",
+  "school_pupil_teacher_ratio" : "17.1"
+}
+, {
+  "dbn" : "17K484",
+  "school_name" : "RONALD EDMONDS LEARNING CENTER II",
+  "school_pupil_teacher_ratio" : "16.9"
+}
+, {
+  "dbn" : "19K452",
+  "school_name" : "FREDERICK DOUGLASS ACADEMY VIII MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "14.4"
+}
+, {
+  "dbn" : "15K447",
+  "school_name" : "THE MATH & SCIENCE EXPLORATORY SCHOOL",
+  "school_pupil_teacher_ratio" : "11.4"
+}
+, {
+  "dbn" : "15K443",
+  "school_name" : "NEW VOICES SCHOOL OF ACADEMIC & CREATIVE ARTS",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "15K442",
+  "school_name" : "M.S. 442 CARROLL GARDENS SCHOOL FOR INNOVATION",
+  "school_pupil_teacher_ratio" : "8.4"
+}
+, {
+  "dbn" : "17K394",
+  "school_name" : "M.S. K394",
+  "school_pupil_teacher_ratio" : "16.5"
+}
+, {
+  "dbn" : "23K392",
+  "school_name" : "I.S. 392",
+  "school_pupil_teacher_ratio" : "13.4"
+}
+, {
+  "dbn" : "16K385",
+  "school_name" : "SCHOOL OF BUSINESS, FINANCE AND ENTREPRENEURSHIP",
+  "school_pupil_teacher_ratio" : "6.9"
+}
+, {
+  "dbn" : "32K384",
+  "school_name" : "P.S. /I.S. 384 FRANCES E. CARTER",
+  "school_pupil_teacher_ratio" : "14.6"
+}
+, {
+  "dbn" : "32K383",
+  "school_name" : "J.H.S. 383 PHILIPPA SCHUYLER",
+  "school_pupil_teacher_ratio" : "17.1"
+}
+, {
+  "dbn" : "22K381",
+  "school_name" : "I. S. 381",
+  "school_pupil_teacher_ratio" : "13.2"
+}
+, {
+  "dbn" : "32K377",
+  "school_name" : "P.S. 377 ALEJANDRINA B. DE GAUTIER",
+  "school_pupil_teacher_ratio" : "14.3"
+}
+, {
+  "dbn" : "18K366",
+  "school_name" : "THE SCIENCE AND MEDICINE MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "11.6"
+}
+, {
+  "dbn" : "19K364",
+  "school_name" : "I.S. 364 GATEWAY",
+  "school_pupil_teacher_ratio" : "13.6"
+}
+, {
+  "dbn" : "17K354",
+  "school_name" : "THE SCHOOL OF INTEGRATED LEARNING",
+  "school_pupil_teacher_ratio" : "10.5"
+}
+, {
+  "dbn" : "17K353",
+  "school_name" : "ELIJAH STROUD MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "11.2"
+}
+, {
+  "dbn" : "17K352",
+  "school_name" : "EBBETS FIELD MIDDLE SCHOOL",
+  "school_pupil_teacher_ratio" : "8.3"
+}
+, {
+  "dbn" : "13K351",
+  "school_name" : "THE URBAN ASSEMBLY UNISON SCHOOL",
+  "school_pupil_teacher_ratio" : "10"
+}
+, {
+  "dbn" : "32K349",
+  "school_name" : "I.S. 349 MATH, SCIENCE & TECH.",
+  "school_pupil_teacher_ratio" : "11.8"
+}
+, {
+  "dbn" : "32K347",
+  "school_name" : "I.S. 347 SCHOOL OF HUMANITIES",
+  "school_pupil_teacher_ratio" : "11.7"
+}
+, {
+  "dbn" : "17K340",
+  "school_name" : "I.S. 340",
+  "school_pupil_teacher_ratio" : "15.5"
+}
+, {
+  "dbn" : "17K334",
+  "school_name" : "MIDDLE SCHOOL FOR ACADEMIC AND SOCIAL EXCELLENCE",
+  "school_pupil_teacher_ratio" : "5.5"
+}
+ ]

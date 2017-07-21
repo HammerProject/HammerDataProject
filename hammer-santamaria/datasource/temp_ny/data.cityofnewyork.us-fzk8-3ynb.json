@@ -1,0 +1,91 @@
+[ {
+  "address" : "1316 Fulton Avenue, 1st Floor\nBronx, New York 10456",
+  "name_of_medicaid_offices" : "Bronx Lebanon Hospital",
+  "telephone_number" : "(718) 860-4634/4635 ",
+  "borough" : "BRONX"
+}
+, {
+  "address" : "234 East 149th Street, Basement, Room \nB-75, Bronx, New York 10451",
+  "name_of_medicaid_offices" : "Lincoln Medical and Mental Health Center",
+  "telephone_number" : "(718) 585-7872/7920",
+  "borough" : "BRONX"
+}
+, {
+  "address" : "3424 Kossuth Avenue, \n1st Floor, Room 1A 05, \nBronx, New York 10467",
+  "name_of_medicaid_offices" : "North Central Bronx Hospital",
+  "telephone_number" : "(718) 920-1070",
+  "borough" : "BRONX"
+}
+, {
+  "address" : "1225 Gerard Avenue, Basement\nBronx, New York 10452",
+  "name_of_medicaid_offices" : "Morrisania",
+  "telephone_number" : "(718) 960-2799/2752",
+  "borough" : "BRONX"
+}
+, {
+  "address" : "35 Fourth Avenue\nBrooklyn, New York 11217",
+  "name_of_medicaid_offices" : "Boerum Hill",
+  "telephone_number" : "(718) 623-7427/7428",
+  "borough" : "BROOKLYN"
+}
+, {
+  "address" : "785 Atlantic Avenue",
+  "name_of_medicaid_offices" : "Brooklyn South",
+  "telephone_number" : "(929) 221-3502",
+  "borough" : "BROOKLYN"
+}
+, {
+  "address" : "441 Clarkson Avenue\n\"T\" Building Nurses' Residence, 1st Floor\nBrooklyn, New York 11203",
+  "name_of_medicaid_offices" : "Kings County Hospital Medicaid Office",
+  "telephone_number" : "(718) 718-221-2300/2301",
+  "borough" : "BROOKLYN"
+}
+, {
+  "address" : "30-50 West 21st Street\nBrooklyn, New York 11224",
+  "name_of_medicaid_offices" : "Coney Island",
+  "telephone_number" : "(929) 221-3776/3790",
+  "borough" : "BROOKLYN"
+}
+, {
+  "address" : "2094 Pitkin Avenue, Basement\nBrooklyn, New York 11207",
+  "name_of_medicaid_offices" : "East New York",
+  "telephone_number" : "(718) 922-8292/8293",
+  "borough" : "BROOKLYN"
+}
+, {
+  "address" : "462 First Avenue, “G” Link, Ground Floor\nNew York, New York 10016",
+  "name_of_medicaid_offices" : "Bellevue Hospital Medicaid Office\n(Temporarily closed due to Hurricane Sandy)",
+  "telephone_number" : "(212) 679-7424",
+  "borough" : "MANHATTAN"
+}
+, {
+  "address" : "115 Chrystie Street (5th floor)\nNew York, New York 10002",
+  "name_of_medicaid_offices" : "Chinatown Medicaid Office",
+  "telephone_number" : "(212) 334-6114",
+  "borough" : "MANHATTAN"
+}
+, {
+  "address" : "1901 First Avenue. 1st Floor, Room 1D-27\nNew York, New York 10029",
+  "name_of_medicaid_offices" : "Metropolitan Hospital",
+  "telephone_number" : "(212) 423-7006",
+  "borough" : "MANHATTAN"
+}
+, {
+  "address" : "520-530 West 135th Street, 1st Floor\nNew York, New York 10031",
+  "name_of_medicaid_offices" : "Manhattanville Medicaid Office",
+  "telephone_number" : "(212) 939-0207/0208",
+  "borough" : "MANHATTAN"
+}
+, {
+  "address" : "45-12 32nd Place, 1st Floor\nLIC, New York 11101",
+  "name_of_medicaid_offices" : "Queens Community Medicaid Office",
+  "telephone_number" : "(718) 752-4540",
+  "borough" : "QUEENS"
+}
+, {
+  "address" : "215 Bay Street\nStaten Island, New York 10301",
+  "name_of_medicaid_offices" : "Staten Island",
+  "telephone_number" : "(718) 420-4660/4732",
+  "borough" : "STATEN ISLAND "
+}
+ ]

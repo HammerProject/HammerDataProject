@@ -1,0 +1,66 @@
+[ {
+  "location" : "1 Fordham Plaza, 7th floor",
+  "phone_number" : "718-935-2178  ",
+  "districts_served" : "7, 9, 10 "
+}
+, {
+  "location" : "1230 Zerega Avenue",
+  "phone_number" : "718-935-2278  ",
+  "districts_served" : "8, 11, 12 "
+}
+, {
+  "location" : "1790 Ocean Avenue, 3rd floor",
+  "phone_number" : "718-935-2313   ",
+  "districts_served" : "17, 18, 22"
+}
+, {
+  "location" : "415 89th street",
+  "phone_number" : "718-935-2331  ",
+  "districts_served" : "20, 21 "
+}
+, {
+  "location" : "1665 St. Mark's Avenue",
+  "phone_number" : "718-935-2340  ",
+  "districts_served" : "19, 23, 32 "
+}
+, {
+  "location" : "29 Fort Greene Place",
+  "phone_number" : "718-935-2371 ",
+  "districts_served" : "13,14,15,16, General Education Only"
+}
+, {
+  "location" : "131 Livingston Street",
+  "phone_number" : "718-935-4908 ",
+  "districts_served" : "13,14,15,16, Special Education Only"
+}
+, {
+  "location" : "333 Seventh Avenue",
+  "phone_number" : "718-935-2383   ",
+  "districts_served" : "1, 2, 4  "
+}
+, {
+  "location" : "388 West 125th street",
+  "phone_number" : "718-935-2385   ",
+  "districts_served" : "3, 5, 6  "
+}
+, {
+  "location" : "28-11 Queens Plaza North",
+  "phone_number" : "718-935-2386     ",
+  "districts_served" : "24, 30"
+}
+, {
+  "location" : "30-48 Linden Place",
+  "phone_number" : "718-935-2391   ",
+  "districts_served" : "25, 26  "
+}
+, {
+  "location" : "90-27 Sutphin Boulevard",
+  "phone_number" : "718-935-2393     ",
+  "districts_served" : "27, 28, 29"
+}
+, {
+  "location" : "715 Ocean Terrace, Building A",
+  "phone_number" : "718-935-2402   ",
+  "districts_served" : "31"
+}
+ ]

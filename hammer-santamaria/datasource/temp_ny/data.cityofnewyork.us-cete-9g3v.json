@@ -1,0 +1,75 @@
+[ {
+  "location_1" : {
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "comments" : "Please call the main number to be directed to the appropriate office.",
+  "department_name" : "DHS Main Number",
+  "phone_number" : "(212) 361-8000"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"33 Beaver Street, 17th Floor New York, NY 10004\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "department_name" : "Office of the Commissioner",
+  "phone_number" : "(212) 361-8000"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"33 Beaver Street, 20th Floor New York, NY 10004\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "department_name" : "Office of Client Advocacy",
+  "phone_number" : "1-800-994-6494"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"33 Beaver Street, 17th Floor New York, NY 10004\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "department_name" : "Office of Communications and External Affairs - Press Office",
+  "phone_number" : "(212) 361-7973"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"33 Beaver Street, 17th Floor New York, NY 10004\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "department_name" : "Community Relations & Government Affairs Unit",
+  "phone_number" : "(212) 361-7900"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "department_name" : "Office of Diversity & Equal Opportunity Affairs",
+  "phone_number" : "(212) 361-7914"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"33 Beaver Street, 17th Floor New York, NY 10004\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "department_name" : "Legal Affairs",
+  "phone_number" : "(212) 361-7996"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"33 Beaver Street, 17th Floor New York, NY 10004\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "comments" : "Please direct all Freedom of Information Law (FOIL) records requests to: Cynthia Stallard, FOIL Officer",
+  "department_name" : "Freedom of Information Law (FOIL) Requests"
+}
+, {
+  "location_1" : {
+    "human_address" : "{\"address\":\"33 Beaver Street, 17th Floor New York, NY 10004\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false
+  },
+  "comments" : "For all other requests for information or documents, including subpoenas",
+  "department_name" : "Kim Bruno, Records Access Officer",
+  "phone_number" : "(212) 607-5236"
+}
+ ]

@@ -1,0 +1,37 @@
+[ {
+  "date_range" : "January 1, 2015 - June 30, 2015",
+  "fiscal_year" : "2015",
+  "prompt_payment_interest_rates" : "2.13",
+  "net_interest_paid_by_mayoral_agencies_citywide" : "4172"
+}
+, {
+  "date_range" : "July 1, 2014 - December 31, 2014",
+  "fiscal_year" : "2015",
+  "prompt_payment_interest_rates" : "2.00",
+  "net_interest_paid_by_mayoral_agencies_citywide" : "4172"
+}
+, {
+  "date_range" : "January 1, 2014 - June 30, 2014",
+  "fiscal_year" : "2014",
+  "prompt_payment_interest_rates" : "2.13",
+  "net_interest_paid_by_mayoral_agencies_citywide" : "7889"
+}
+, {
+  "date_range" : "July 1, 2013 - December 31, 2013",
+  "fiscal_year" : "2014",
+  "prompt_payment_interest_rates" : "1.75",
+  "net_interest_paid_by_mayoral_agencies_citywide" : "7889"
+}
+, {
+  "date_range" : "January 1, 2013 - June 30, 2013",
+  "fiscal_year" : "2013",
+  "prompt_payment_interest_rates" : "1.38",
+  "net_interest_paid_by_mayoral_agencies_citywide" : "2232"
+}
+, {
+  "date_range" : "July 1, 2012 - December 31, 2012",
+  "fiscal_year" : "2013",
+  "prompt_payment_interest_rates" : "1.75",
+  "net_interest_paid_by_mayoral_agencies_citywide" : "2232"
+}
+ ]

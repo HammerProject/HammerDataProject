@@ -1,0 +1,886 @@
+[ {
+  "site_name" : "Lower East Side Preparatory School / AAFE",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.721076261986575",
+    "human_address" : "{\"address\":\"145 Stanton Street 111 Norfolk Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98736928964402"
+  },
+  "agency" : "Asian Americans for Equality",
+  "borough_community" : "New York",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "212.979.8381 ext.117"
+}
+, {
+  "site_name" : "Grand Street Settlement Beacon Center",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.720595191279564",
+    "human_address" : "{\"address\":\"145 Stanton Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98575072490124"
+  },
+  "agency" : "Grand Street Settlement, Inc.",
+  "borough_community" : "New York",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "212.674.1740"
+}
+, {
+  "site_name" : "Vanderbilt YMCA of Greater  New York",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.75367123996815",
+    "human_address" : "{\"address\":\"224 47th Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10017\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97158674865985"
+  },
+  "agency" : "YMCA of Greater New York/Vanderbilt",
+  "borough_community" : "New York",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "212.912.2557"
+}
+, {
+  "site_name" : "Frederick Douglass Center",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.79771334863237",
+    "human_address" : "{\"address\":\"885 Columbus Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10025\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.963944750805"
+  },
+  "agency" : "The Children's Aid Society",
+  "borough_community" : "New York",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "212.865.6337"
+}
+, {
+  "site_name" : "Dunlevy Milbank Center",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.80305812163505",
+    "human_address" : "{\"address\":\"14 32 West 118 Street\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10026\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95334277604826"
+  },
+  "agency" : "The Children's Aid Society",
+  "borough_community" : "New York",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "212.996.1716"
+}
+, {
+  "site_name" : "Manhattan Center For Science and Mathematics",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.79480422455373",
+    "human_address" : "{\"address\":\"280 Pleasant Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10029\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93330103742075"
+  },
+  "agency" : "The Children's Aid Society",
+  "borough_community" : "New York",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "212.949.4921"
+}
+, {
+  "site_name" : "JHS 045 John S. Roberts",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.798869844574995",
+    "human_address" : "{\"address\":\"2351 First Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93335561512028"
+  },
+  "agency" : "City Year, Inc.",
+  "borough_community" : "New York",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "646.452.3624"
+}
+, {
+  "site_name" : "I S 218 SALOME UKENA (M218)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.861067654316855",
+    "human_address" : "{\"address\":\"4600 Broadway\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10040\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93051856552427"
+  },
+  "agency" : "The Children's Aid Society",
+  "borough_community" : "New York",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "212.949.4921"
+}
+, {
+  "site_name" : "Isabella Geriatric Center, Inc.",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.85474542045091",
+    "human_address" : "{\"address\":\"515 Audubon Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10040\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92794650452043"
+  },
+  "agency" : "Isabella Geriatric Center, Inc.",
+  "borough_community" : "New York",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "212.342.9352"
+}
+, {
+  "site_name" : "PS 198 Isador E Ida Straus",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.7852258951129",
+    "human_address" : "{\"address\":\"1700 Third Avenue\",\"city\":\"New York\",\"state\":\"NEW YORK\",\"zip\":\"10128\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94934848503704"
+  },
+  "agency" : "Stanley M. Isaacs Neighborhood Center, Inc.",
+  "borough_community" : "New York",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "212.360.7625 ext.10"
+}
+, {
+  "site_name" : "I S 061 WILLIAM A MORRIS (R061)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.6340162289717",
+    "human_address" : "{\"address\":\"445 Castleton Avenue\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10301\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.09782241749545"
+  },
+  "agency" : "The Children's Aid Society",
+  "borough_community" : "Staten Island",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.727.8481"
+}
+, {
+  "site_name" : "I S 051 EDWIN MARKHAM (R051)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.62266353739592",
+    "human_address" : "{\"address\":\"20 HOUSTON STREET\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10302\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.14530969597477"
+  },
+  "agency" : "Sports and Arts In Schools Foundation, Inc.",
+  "borough_community" : "Staten Island",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "347.417.8161"
+}
+, {
+  "site_name" : "IS 027 ANNING S PRALL (R027)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.62819560442818",
+    "human_address" : "{\"address\":\"11 CLOVE LAKE PLACE\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10310\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.11703328220538"
+  },
+  "agency" : "Sports and Arts In Schools Foundation, Inc.",
+  "borough_community" : "Staten Island",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "347.417.8161"
+}
+, {
+  "site_name" : "PS 018 JOHN G WHITTIER (R018)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.63603930909672",
+    "human_address" : "{\"address\":\"221 Broadway\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10310\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.11747369098056"
+  },
+  "agency" : "United Activities Unlimited, Inc.",
+  "borough_community" : "Staten Island",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.448.0477"
+}
+, {
+  "site_name" : "COMMUNITY SCHOOL FOR SOCIAL JUSTICE (X427)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.81592907979086",
+    "human_address" : "{\"address\":\"350 Gerard Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10451\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93038870033499"
+  },
+  "agency" : "Citizens Advice Bureau, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.293.0727 ext.204"
+}
+, {
+  "site_name" : "HEALTH OPPORTUNITIES HIGH SCHOOL (X670)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.81592907979086",
+    "human_address" : "{\"address\":\"350 Gerard Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10451\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93038870033499"
+  },
+  "agency" : "East Side House, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.402.5421"
+}
+, {
+  "site_name" : "JHS 151 LOU GEHRIG (X151)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.82298359886116",
+    "human_address" : "{\"address\":\"250 156 STREET\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10451\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9211309650046"
+  },
+  "agency" : "Sports and Arts In Schools Foundation, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "347.417.8167"
+}
+, {
+  "site_name" : "TASC P/IS 218 R HERNANDEZ DUAL LANG (X218)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.83575171597219",
+    "human_address" : "{\"address\":\"1220 Gerard Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10452\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92005093486102"
+  },
+  "agency" : "Women's Housing and Economic Development Corporation (WHEDCO",
+  "borough_community" : "Bronx",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.839.1100"
+}
+, {
+  "site_name" : "New Settlement Apartments",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.842289963686326",
+    "human_address" : "{\"address\":\"1512 Townsend Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10452\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9150263058931"
+  },
+  "agency" : "New Settlement Apartments",
+  "borough_community" : "Bronx",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.716.8000 ext.116"
+}
+, {
+  "site_name" : "Academy of Applied Mathematics and Technology (X343)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.81004862442692",
+    "human_address" : "{\"address\":\"345 Brook Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10454\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91782345430987"
+  },
+  "agency" : "Aspira of New York, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "212.564.6880 ext.102"
+}
+, {
+  "site_name" : "Michell Community Center",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.80812001171208",
+    "human_address" : "{\"address\":\"205 Willis Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10454\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92366445647882"
+  },
+  "agency" : "East Side House, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.665.5250 ext.111"
+}
+, {
+  "site_name" : "MOTT HAVEN VILLAGE PREPARATORY HIGH SCHOOL (X473)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.81836051393385",
+    "human_address" : "{\"address\":\"701 Saint Anns Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91100909095124"
+  },
+  "agency" : "East Side House, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.665.5250 ext.111"
+}
+, {
+  "site_name" : "JHS 162 LOLA RODRIGUEZ DE TIO (X162)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.814953970991745",
+    "human_address" : "{\"address\":\"600 Saint Anns Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91253402987947"
+  },
+  "agency" : "Sports and Arts In Schools Foundation, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "347.417.8159"
+}
+, {
+  "site_name" : "SOBRO",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.81594441525443",
+    "human_address" : "{\"address\":\"555 Bergen Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91641591148277"
+  },
+  "agency" : "South Bronx Overall Economic Development Corp.",
+  "borough_community" : "Bronx",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.292.3113"
+}
+, {
+  "site_name" : "IS 219 NEW VENTURE SCHOOL (X219)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.833636708483105",
+    "human_address" : "{\"address\":\"3630 Third Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10456\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90440606498304"
+  },
+  "agency" : "Directions For Our Youth, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "212.362.4020"
+}
+, {
+  "site_name" : "PS 214 ",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.83840581198824",
+    "human_address" : "{\"address\":\"1970 Farms Road\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10460\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88124818068118"
+  },
+  "agency" : "Phipps Community Development Corporation",
+  "borough_community" : "Bronx",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.542.0109"
+}
+, {
+  "site_name" : "Riverdale/Kingsbridge Academy (MS/HS 141)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.88826732332943",
+    "human_address" : "{\"address\":\"660 237th Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10463\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9131873185513"
+  },
+  "agency" : "Riverdale Community Center",
+  "borough_community" : "Bronx",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.796.4724"
+}
+, {
+  "site_name" : "MS 399 ",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.859718306516946",
+    "human_address" : "{\"address\":\"120 184th Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10468\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9001023348563"
+  },
+  "agency" : "Inwood House",
+  "borough_community" : "Bronx",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "917.674.8269"
+}
+, {
+  "site_name" : "IS 174 - Eugene T Maleska",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.81476506638436",
+    "human_address" : "{\"address\":\"456 White Plains Road\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10473\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85653710642053"
+  },
+  "agency" : "YMCA of Greater New York- Bronx YMCA",
+  "borough_community" : "Bronx",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.792.9736"
+}
+, {
+  "site_name" : "MS 201 - School of Theatre, Arts and Research",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.81532077565176",
+    "human_address" : "{\"address\":\"730 Bryant Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88570625217169"
+  },
+  "agency" : "City Year, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "646.452.3624"
+}
+, {
+  "site_name" : "Albert Shanker School for Visual and Performing Arts ",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"31 51 21st Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225"
+  },
+  "agency" : "Jacob A. Riis Neighborhood Settlement, Inc.",
+  "borough_community" : "Queens",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.204.6797"
+}
+, {
+  "site_name" : "High School for Global Citizenship",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.67045865769921",
+    "human_address" : "{\"address\":\"883 Classon Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11203\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96162827573441"
+  },
+  "agency" : "Hospital Audiences, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "212.575.7670 ext.251"
+}
+, {
+  "site_name" : "IS 285 Meyer Levin",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.64688486664494",
+    "human_address" : "{\"address\":\"5909 Beverly Road\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11203\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92108641463726"
+  },
+  "agency" : "Sports and Arts in Schools Foundation",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.451.2200 ext.107 or 973.896.1246"
+}
+, {
+  "site_name" : "JHS 113/ OLD 294 Edmonds Center",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.68873368033439",
+    "human_address" : "{\"address\":\"300 Adelphi Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11205\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97100925264802"
+  },
+  "agency" : "Directions For Our Youth, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "212.362.4020"
+}
+, {
+  "site_name" : "JHS 117 Francis Scott Key",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.69261081871296",
+    "human_address" : "{\"address\":\"300 Willoughby Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11205\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95894653911148"
+  },
+  "agency" : "Sports and Arts in Schools Foundation",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.230.5400 ext. 528"
+}
+, {
+  "site_name" : "Beginning with Children Charter School",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.69888515865406",
+    "human_address" : "{\"address\":\"185 Ellery Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11206\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94514899447063"
+  },
+  "agency" : "St. Nicholas Neighborhood Preservation Corporation",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.389.1810"
+}
+, {
+  "site_name" : "JHS 318 Eugenio Maria Hostos",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.702422370537974",
+    "human_address" : "{\"address\":\"101 Walton Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11206\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94902462531712"
+  },
+  "agency" : "Sports and Arts in Schools Foundation",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.230.5400"
+}
+, {
+  "site_name" : "JHS 296 The Halsey (K296)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.68837439480567",
+    "human_address" : "{\"address\":\"125 Covert Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91031982744705"
+  },
+  "agency" : "Ridgewood Bushwick Senior Citizens Council",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.821.0254"
+}
+, {
+  "site_name" : "Groundwork, Inc.",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.66914335276355",
+    "human_address" : "{\"address\":\"595 Sutter Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89693883262674"
+  },
+  "agency" : "Groundwork Inc,",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.346.2200 ext.127"
+}
+, {
+  "site_name" : "Franklin K. Lane High School",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.6907285274162",
+    "human_address" : "{\"address\":\"999 Jamaica Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11208\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87016567362916"
+  },
+  "agency" : "Directions For Our Youth, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "212.362.4020"
+}
+, {
+  "site_name" : "El Puente Academy For Peace and Justice (K685)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.714638461899185",
+    "human_address" : "{\"address\":\"211 4 Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11211\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95699753434813"
+  },
+  "agency" : "El Puente Academy (K)",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.387.0404"
+}
+, {
+  "site_name" : "JHS 220 John J Pershing",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.64083540267695",
+    "human_address" : "{\"address\":\"4812 Ninth Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00045650048278"
+  },
+  "agency" : "Chinese American Planning Council",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.358.8899 ext.131"
+}
+, {
+  "site_name" : "New School @ PS 314",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.64220161479856",
+    "human_address" : "{\"address\":\"330 59th Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11220\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.0191758017247"
+  },
+  "agency" : "SCO Family of Services",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.788.3500"
+}
+, {
+  "site_name" : "JHS 057 Whitelaw Reid (K057)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.691184878420714",
+    "human_address" : "{\"address\":\"125 Stuyvesant Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11221\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93365273330902"
+  },
+  "agency" : "Brooklyn Center For Urban Environment",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.788.8500 ext. 207"
+}
+, {
+  "site_name" : "JHS 291 Roland Hayes (K291)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.695256718115104",
+    "human_address" : "{\"address\":\"231 Palmetto Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11221\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91527095847802"
+  },
+  "agency" : "Coalition for Hispanic Family Services",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.497.6090"
+}
+, {
+  "site_name" : "JHS 126 - John Ericsson",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.71966489022842",
+    "human_address" : "{\"address\":\"424 Leonard Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11222\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94857556114229"
+  },
+  "agency" : "Aspira of New York",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "212.564.6880 ext.115"
+}
+, {
+  "site_name" : "IS 136 Charles O. Dewey",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.65208990853318",
+    "human_address" : "{\"address\":\"4004 Fourth Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11232\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00688510833078"
+  },
+  "agency" : "SCO Family of Services",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.633.4823"
+}
+, {
+  "site_name" : "MS. 035 Stephen Decatur (K035)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.68189209294426",
+    "human_address" : "{\"address\":\"272 Macdonough Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11233\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93584163199317"
+  },
+  "agency" : "SCO Family of Services",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.919.1226"
+}
+, {
+  "site_name" : "Canarsie High School",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.64078389170152",
+    "human_address" : "{\"address\":\"1600 Rockaway Parkway\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11236\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89750860330521"
+  },
+  "agency" : "Hospital Audiences, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "212.575.7670 ext.246"
+}
+, {
+  "site_name" : "Be'er Hagolah Institutes",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.645630097381996",
+    "human_address" : "{\"address\":\"671 Louisiana Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11239\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88362185638313"
+  },
+  "agency" : "Be'er Hagolah Institutes",
+  "borough_community" : "Brooklyn",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.642.6800 ext.101"
+}
+, {
+  "site_name" : "IS 061 Leonardo Da Vinci",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.749678220373596",
+    "human_address" : "{\"address\":\"98 50 50th Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11368\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85304068857687"
+  },
+  "agency" : "New York Junior Tennis League",
+  "borough_community" : "Queens",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.786.7110 ext. 8126"
+}
+, {
+  "site_name" : "Jewish Institute of Queens",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.73871040256307",
+    "human_address" : "{\"address\":\"60 05 Woodhaven Boulevard\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11373\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87835115518163"
+  },
+  "agency" : "Jewish Institute of Queens",
+  "borough_community" : "Queens",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.426.9369 or 646.670.8952"
+}
+, {
+  "site_name" : "South Asian Youth Action (SAYA)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.73871040256307",
+    "human_address" : "{\"address\":\"54 05 Seabury Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11373\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87835115518163"
+  },
+  "agency" : "South Asian Youth Action (SAYA!)",
+  "borough_community" : "Queens",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.651.3484"
+}
+, {
+  "site_name" : "Central Queens YM & YWHA",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.720707263029794",
+    "human_address" : "{\"address\":\"67 09 108th Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11375\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.84628429608335"
+  },
+  "agency" : "Jewish Child Care Association",
+  "borough_community" : "Queens",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "914.424.3406"
+}
+, {
+  "site_name" : "Pathways College Preparatory School: A College Board School",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.69812711747255",
+    "human_address" : "{\"address\":\"109 89 204 Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11412\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.75923519834566"
+  },
+  "agency" : "Sports and Arts In Schools Foundation, Inc.",
+  "borough_community" : "Queens",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.454.5097 "
+}
+, {
+  "site_name" : "MS 210",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.68457809700163",
+    "human_address" : "{\"address\":\"93 11 101st Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11416\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8496016684822"
+  },
+  "agency" : "Zeta Zeta Lambda Company, Inc.",
+  "borough_community" : "Queens",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.484.3693 or 917.541.3317"
+}
+, {
+  "site_name" : "I S 238 SUSAN B ANTHONY (Q238)",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.71722229567246",
+    "human_address" : "{\"address\":\"88 15 182 Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11423\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.7671414999802"
+  },
+  "agency" : "Sports and Arts In Schools Foundation, Inc.",
+  "borough_community" : "Queens",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "347.417.8161"
+}
+, {
+  "site_name" : "South Jamaica Multi Service Center",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.6769452621142",
+    "human_address" : "{\"address\":\"114 02\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11434\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.77530690169215"
+  },
+  "agency" : "National Council for Negro Women of Greater New York",
+  "borough_community" : "Queens",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.657.8585"
+}
+, {
+  "site_name" : "JHS 072 Catherine and Count Basie",
+  "program_type" : "After-School Programs",
+  "location_1" : {
+    "latitude" : "40.6769452621142",
+    "human_address" : "{\"address\":\"133 25 Guy R Brewer Boulevard\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11434\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.77530690169215"
+  },
+  "agency" : "The Child Center of NY",
+  "borough_community" : "Queens",
+  "program" : "Teen Action Program",
+  "grade_level_age_group" : "13 to 21",
+  "contact_number" : "718.322.4953"
+}
+ ]

@@ -1,0 +1,163 @@
+[ {
+  "dataset_description" : "Numbers of visitors by day, visits with children ",
+  "reason_for_removal" : "Does not qualify as a “public data set” according to Local Law 11 of 2012 (see Notes, pp. 59 )",
+  "agency" : "Department of Correction (DOC)",
+  "dataset" : "Aggregate Visits/Visitors"
+}
+, {
+  "dataset_description" : "This is a guideline for Professional Engineers/Registered Architects for filing Backflow Prevention Device Plans for all property types.",
+  "reason_for_removal" : "Does not qualify as “data” according to Local Law 11 of 2012 (see Notes, pp. 59) ",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "dataset" : "DEP Cross Connection Control Risk Assessment"
+}
+, {
+  "dataset_description" : "Standards for sewers, manholes, catch basins, precast manholes, precast catch basins and sewer appurtenances. Those standards are used in the design of capital & private sewer projects",
+  "reason_for_removal" : "Does not qualify as “data” according to Local Law 11 of 2012 ",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "dataset" : "Sewer Design Standards"
+}
+, {
+  "dataset_description" : "This is an example worksheet for developing and submitting a Hydraulic Study for DEP approval. A Hydraulic Study is used to analyze the adequacy of an existing sewer to receive sanitary and storm flows generated from an area tributary to the sewer.",
+  "reason_for_removal" : "Does not qualify as “data” according to Local Law 11 of 2012 ",
+  "agency" : "Department of Environmental Protection (DEP)",
+  "dataset" : "Hydraulic Computation Worksheet Templates"
+}
+, {
+  "dataset_description" : "Monthly performance statistics for DORIS Archives and City Hall Library operations",
+  "reason_for_removal" : "Performance indicator already provided in open format – please refer to Citywide Performance Reporting website (http://www.nyc.gov/html/ops/html/data/data.shtml)",
+  "agency" : "Department of Records (DOR)",
+  "dataset" : "DORIS Performance Indicators"
+}
+, {
+  "dataset_description" : "Presents vehicular volumes, classification and trends for all bridge and tunnel facilities serving Manhattan River Crossings",
+  "reason_for_removal" : "Merger – Data is being combined into one set",
+  "agency" : "Department of Transportation (DOT)",
+  "dataset" : "Manhattan River Crossings Screen line Traffic Flow"
+}
+, {
+  "dataset_description" : "Total number of Homecare cases",
+  "reason_for_removal" : "Data is no longer maintained",
+  "agency" : "Human Resource Administration (HRA)",
+  "dataset" : "Total Homecare Cases"
+}
+, {
+  "dataset_description" : "Spreadsheet containing information pertaining to requests for \"not a landmark\" letters from the public (usually for assistance in applying for DOB demolition permits); used primarily for mail merge purposes (for producing the letters)",
+  "reason_for_removal" : "Does not qualify as “data” according to Local Law 11 of 2012 ",
+  "agency" : "Landmarks Preservation Commission (LPC)",
+  "dataset" : "Demolition / Not a Landmark Letter Request Log"
+}
+, {
+  "dataset_description" : "Spreadsheet containing descriptive information for archaeological reports filed with LPC including abstracts for each report, the name of the author, date of publication, and borough location; powers the LPC website \"Archaeology Reports\" search engine",
+  "reason_for_removal" : "Does not qualify as “data” according to Local Law 11 of 2012 ",
+  "agency" : "Landmarks Preservation Commission (LPC)",
+  "dataset" : "Archaeology Reports"
+}
+, {
+  "dataset_description" : "Written 11 page report",
+  "reason_for_removal" : "Does not qualify as “data” according to Local Law 11 of 2012 ",
+  "agency" : "New York Police Department (NYPD)",
+  "dataset" : "Murder in NYC"
+}
+, {
+  "dataset_description" : "Accessibility programs for schools ",
+  "reason_for_removal" : "Merger – Data is being combined into one set",
+  "agency" : "NYC School Construction Authority (SCA)",
+  "dataset" : "Accessibility Programs "
+}
+, {
+  "dataset_description" : "Lighting fixture replacement for schools ",
+  "reason_for_removal" : "Merger – Data is being combined into one set",
+  "agency" : "NYC School Construction Authority (SCA)",
+  "dataset" : "Lighting Replacement Program "
+}
+, {
+  "dataset_description" : "Science Lab programs for schools ",
+  "reason_for_removal" : "Merger – Data is being combined into one set",
+  "agency" : "NYC School Construction Authority (SCA)",
+  "dataset" : "Science Lab Programs "
+}
+, {
+  "dataset_description" : "Ansul Systems for schools ",
+  "reason_for_removal" : "Merger – Data is being combined into one set",
+  "agency" : "NYC School Construction Authority (SCA)",
+  "dataset" : "Ansul Systems "
+}
+, {
+  "dataset_description" : "Freezer Replacement for schools ",
+  "reason_for_removal" : "Merger – Data is being combined into one set",
+  "agency" : "NYC School Construction Authority (SCA)",
+  "dataset" : "Freezer Replacement Program "
+}
+, {
+  "dataset_description" : "Classroom Connectivity for schools ",
+  "reason_for_removal" : "Merger – Data is being combined into one set",
+  "agency" : "NYC School Construction Authority (SCA)",
+  "dataset" : "Classroom Connectivity Program "
+}
+, {
+  "dataset_description" : "New/retrofit telephone/intercom systems for schools ",
+  "reason_for_removal" : "Merger – Data is being combined into one set",
+  "agency" : "NYC School Construction Authority (SCA)",
+  "dataset" : "Telephone/Intercom Systems "
+}
+, {
+  "dataset_description" : "Internet Protocol Surveillance System for schools ",
+  "reason_for_removal" : "Merger – Data is being combined into one set",
+  "agency" : "NYC School Construction Authority (SCA)",
+  "dataset" : "IP Surveillance Systems "
+}
+, {
+  "dataset_description" : "Capacity project detail by borough  Programs based by school",
+  "reason_for_removal" : "Merger – Data is being combined into one set",
+  "agency" : "NYC School Construction Authority (SCA)",
+  "dataset" : "Capacity Projects by Borough School Based Programs "
+}
+, {
+  "dataset_description" : "Annual report on the operations of the Audit Bureau of the New York City Comptroller's Office",
+  "reason_for_removal" : "Does not qualify as “data” according to Local Law 11 of 2012 ",
+  "agency" : "Office of the Comptroller (COMPTROLLER)",
+  "dataset" : "Annual Report (Audit)"
+}
+, {
+  "dataset_description" : "Cash letters, cash flow analysis - Projects and documents daily cash balances in the City general fund",
+  "reason_for_removal" : "Does not qualify as “data” according to Local Law 11 of 2012 ",
+  "agency" : "Office of the Comptroller (COMPTROLLER)",
+  "dataset" : "Cash Flow"
+}
+, {
+  "dataset_description" : "Constructs and amends prevailing wage schedules",
+  "reason_for_removal" : "Does not qualify as “data” according to Local Law 11 of 2012 ",
+  "agency" : "Office of the Comptroller (COMPTROLLER)",
+  "dataset" : "Labor Law Prevailing Wage (LLPW)"
+}
+, {
+  "dataset_description" : "Aggregate report of Claims information",
+  "reason_for_removal" : "Does not qualify as “data” according to Local Law 11 of 2012 ",
+  "agency" : "Office of the Comptroller (COMPTROLLER)",
+  "dataset" : "Annual Claims Report"
+}
+, {
+  "dataset_description" : "Online voting platform and idea generation",
+  "reason_for_removal" : "Does not qualify as “data” according to Local Law 11 of 2012 ",
+  "agency" : "Office of the Comptroller (COMPTROLLER)",
+  "dataset" : "People's Budget"
+}
+, {
+  "dataset_description" : "Transparency data which provides information on MWBE vendor statistics",
+  "reason_for_removal" : "Does not qualify as “data” according to Local Law 11 of 2012 ",
+  "agency" : "Office of the Comptroller (COMPTROLLER)",
+  "dataset" : "Minority & Women-Owned Business Enterprise (MWBE)"
+}
+, {
+  "dataset_description" : "Audits of the operations and programs of City agencies and private entities doing business with the City",
+  "reason_for_removal" : "Does not qualify as “data” according to Local Law 11 of 2012 ",
+  "agency" : "Office of the Comptroller (COMPTROLLER)",
+  "dataset" : "Audit Reports"
+}
+, {
+  "dataset_description" : "This list contains information on authorized make and model for use as TLC SHL vehicles",
+  "reason_for_removal" : "Data is no longer maintained",
+  "agency" : "Taxi and Limousine Commission (TLC)",
+  "dataset" : "SHL Vehicles – Make and Model"
+}
+ ]

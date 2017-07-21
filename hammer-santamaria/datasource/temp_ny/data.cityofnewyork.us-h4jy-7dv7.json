@@ -1,0 +1,865 @@
+[ {
+  "lowest_sale_price" : "250000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "283000",
+  "average_sale_price" : "307553",
+  "highest_sale_price" : "370000",
+  "number_of_sales" : "5",
+  "neighborhood" : "BATHGATE                 "
+}
+, {
+  "lowest_sale_price" : "153000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "422348",
+  "average_sale_price" : "397313",
+  "highest_sale_price" : "550000",
+  "number_of_sales" : "16",
+  "neighborhood" : "BATHGATE                 "
+}
+, {
+  "lowest_sale_price" : "230000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "527500",
+  "average_sale_price" : "503797",
+  "highest_sale_price" : "660000",
+  "number_of_sales" : "6",
+  "neighborhood" : "BATHGATE                 "
+}
+, {
+  "lowest_sale_price" : "185000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "370000",
+  "average_sale_price" : "369595",
+  "highest_sale_price" : "752000",
+  "number_of_sales" : "78",
+  "neighborhood" : "BAYCHESTER               "
+}
+, {
+  "lowest_sale_price" : "150000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "548025",
+  "average_sale_price" : "511616",
+  "highest_sale_price" : "710000",
+  "number_of_sales" : "84",
+  "neighborhood" : "BAYCHESTER               "
+}
+, {
+  "lowest_sale_price" : "433992",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "615000",
+  "average_sale_price" : "599506",
+  "highest_sale_price" : "745000",
+  "number_of_sales" : "16",
+  "neighborhood" : "BAYCHESTER               "
+}
+, {
+  "lowest_sale_price" : "195000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "348224",
+  "average_sale_price" : "359131",
+  "highest_sale_price" : "596000",
+  "number_of_sales" : "14",
+  "neighborhood" : "BEDFORD PARK/NORWOOD     "
+}
+, {
+  "lowest_sale_price" : "220000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "475000",
+  "average_sale_price" : "468074",
+  "highest_sale_price" : "650000",
+  "number_of_sales" : "27",
+  "neighborhood" : "BEDFORD PARK/NORWOOD     "
+}
+, {
+  "lowest_sale_price" : "153000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "570000",
+  "average_sale_price" : "587202",
+  "highest_sale_price" : "1550000",
+  "number_of_sales" : "13",
+  "neighborhood" : "BEDFORD PARK/NORWOOD     "
+}
+, {
+  "lowest_sale_price" : "305000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "452500",
+  "average_sale_price" : "452500",
+  "highest_sale_price" : "600000",
+  "number_of_sales" : "2",
+  "neighborhood" : "BELMONT                  "
+}
+, {
+  "lowest_sale_price" : "344000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "427500",
+  "average_sale_price" : "450000",
+  "highest_sale_price" : "625000",
+  "number_of_sales" : "6",
+  "neighborhood" : "BELMONT                  "
+}
+, {
+  "lowest_sale_price" : "340000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "567500",
+  "average_sale_price" : "521430",
+  "highest_sale_price" : "677000",
+  "number_of_sales" : "7",
+  "neighborhood" : "BELMONT                  "
+}
+, {
+  "lowest_sale_price" : "200000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "368456",
+  "average_sale_price" : "363935",
+  "highest_sale_price" : "540000",
+  "number_of_sales" : "36",
+  "neighborhood" : "BRONXDALE                "
+}
+, {
+  "lowest_sale_price" : "156667",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "510000",
+  "average_sale_price" : "497661",
+  "highest_sale_price" : "725000",
+  "number_of_sales" : "57",
+  "neighborhood" : "BRONXDALE                "
+}
+, {
+  "lowest_sale_price" : "372448",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "636000",
+  "average_sale_price" : "618305",
+  "highest_sale_price" : "812500",
+  "number_of_sales" : "21",
+  "neighborhood" : "BRONXDALE                "
+}
+, {
+  "lowest_sale_price" : "277000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "385000",
+  "average_sale_price" : "385480",
+  "highest_sale_price" : "453000",
+  "number_of_sales" : "15",
+  "neighborhood" : "CASTLE HILL/UNIONPORT    "
+}
+, {
+  "lowest_sale_price" : "190000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "465000",
+  "average_sale_price" : "469689",
+  "highest_sale_price" : "900000",
+  "number_of_sales" : "40",
+  "neighborhood" : "CASTLE HILL/UNIONPORT    "
+}
+, {
+  "lowest_sale_price" : "200000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "582500",
+  "average_sale_price" : "591118",
+  "highest_sale_price" : "740000",
+  "number_of_sales" : "28",
+  "neighborhood" : "CASTLE HILL/UNIONPORT    "
+}
+, {
+  "lowest_sale_price" : "150000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "470000",
+  "average_sale_price" : "475174",
+  "highest_sale_price" : "1200000",
+  "number_of_sales" : "21",
+  "neighborhood" : "CITY ISLAND              "
+}
+, {
+  "lowest_sale_price" : "256000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "610000",
+  "average_sale_price" : "498667",
+  "highest_sale_price" : "630000",
+  "number_of_sales" : "3",
+  "neighborhood" : "CITY ISLAND              "
+}
+, {
+  "lowest_sale_price" : "380000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "380000",
+  "average_sale_price" : "380000",
+  "highest_sale_price" : "380000",
+  "number_of_sales" : "1",
+  "neighborhood" : "CO-OP CITY               "
+}
+, {
+  "lowest_sale_price" : "170000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "450000",
+  "average_sale_price" : "430885",
+  "highest_sale_price" : "995000",
+  "number_of_sales" : "41",
+  "neighborhood" : "COUNTRY CLUB             "
+}
+, {
+  "lowest_sale_price" : "200000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "547500",
+  "average_sale_price" : "511462",
+  "highest_sale_price" : "845000",
+  "number_of_sales" : "32",
+  "neighborhood" : "COUNTRY CLUB             "
+}
+, {
+  "lowest_sale_price" : "450000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "602550",
+  "average_sale_price" : "592517",
+  "highest_sale_price" : "725000",
+  "number_of_sales" : "3",
+  "neighborhood" : "COUNTRY CLUB             "
+}
+, {
+  "lowest_sale_price" : "345000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "417000",
+  "average_sale_price" : "397333",
+  "highest_sale_price" : "430000",
+  "number_of_sales" : "3",
+  "neighborhood" : "CROTONA PARK             "
+}
+, {
+  "lowest_sale_price" : "262000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "458800",
+  "average_sale_price" : "439000",
+  "highest_sale_price" : "525000",
+  "number_of_sales" : "8",
+  "neighborhood" : "CROTONA PARK             "
+}
+, {
+  "lowest_sale_price" : "180000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "529000",
+  "average_sale_price" : "444014",
+  "highest_sale_price" : "633000",
+  "number_of_sales" : "5",
+  "neighborhood" : "CROTONA PARK             "
+}
+, {
+  "lowest_sale_price" : "190000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "319000",
+  "average_sale_price" : "320106",
+  "highest_sale_price" : "499000",
+  "number_of_sales" : "7",
+  "neighborhood" : "EAST TREMONT             "
+}
+, {
+  "lowest_sale_price" : "250000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "455390",
+  "average_sale_price" : "440599",
+  "highest_sale_price" : "589600",
+  "number_of_sales" : "20",
+  "neighborhood" : "EAST TREMONT             "
+}
+, {
+  "lowest_sale_price" : "325000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "561350",
+  "average_sale_price" : "549382",
+  "highest_sale_price" : "715000",
+  "number_of_sales" : "27",
+  "neighborhood" : "EAST TREMONT             "
+}
+, {
+  "lowest_sale_price" : "860000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "1750000",
+  "average_sale_price" : "1703889",
+  "highest_sale_price" : "2400000",
+  "number_of_sales" : "9",
+  "neighborhood" : "FIELDSTON                "
+}
+, {
+  "lowest_sale_price" : "726000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "767792",
+  "average_sale_price" : "767792",
+  "highest_sale_price" : "809583",
+  "number_of_sales" : "2",
+  "neighborhood" : "FIELDSTON                "
+}
+, {
+  "lowest_sale_price" : "225000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "330000",
+  "average_sale_price" : "328750",
+  "highest_sale_price" : "430000",
+  "number_of_sales" : "4",
+  "neighborhood" : "FORDHAM                  "
+}
+, {
+  "lowest_sale_price" : "230000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "446801",
+  "average_sale_price" : "408806",
+  "highest_sale_price" : "525000",
+  "number_of_sales" : "10",
+  "neighborhood" : "FORDHAM                  "
+}
+, {
+  "lowest_sale_price" : "375180",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "466667",
+  "average_sale_price" : "487906",
+  "highest_sale_price" : "707684",
+  "number_of_sales" : "5",
+  "neighborhood" : "FORDHAM                  "
+}
+, {
+  "lowest_sale_price" : "265000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "375000",
+  "average_sale_price" : "379667",
+  "highest_sale_price" : "499000",
+  "number_of_sales" : "3",
+  "neighborhood" : "HIGHBRIDGE/MORRIS HEIGHTS"
+}
+, {
+  "lowest_sale_price" : "300000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "477000",
+  "average_sale_price" : "465000",
+  "highest_sale_price" : "599000",
+  "number_of_sales" : "11",
+  "neighborhood" : "HIGHBRIDGE/MORRIS HEIGHTS"
+}
+, {
+  "lowest_sale_price" : "356718",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "570000",
+  "average_sale_price" : "522421",
+  "highest_sale_price" : "707683",
+  "number_of_sales" : "34",
+  "neighborhood" : "HIGHBRIDGE/MORRIS HEIGHTS"
+}
+, {
+  "lowest_sale_price" : "250000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "381600",
+  "average_sale_price" : "409629",
+  "highest_sale_price" : "585000",
+  "number_of_sales" : "17",
+  "neighborhood" : "HUNTS POINT              "
+}
+, {
+  "lowest_sale_price" : "365000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "455000",
+  "average_sale_price" : "501667",
+  "highest_sale_price" : "685000",
+  "number_of_sales" : "3",
+  "neighborhood" : "HUNTS POINT              "
+}
+, {
+  "lowest_sale_price" : "306229",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "306229",
+  "average_sale_price" : "306229",
+  "highest_sale_price" : "306229",
+  "number_of_sales" : "1",
+  "neighborhood" : "KINGSBRIDGE HTS/UNIV HTS "
+}
+, {
+  "lowest_sale_price" : "184805",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "423500",
+  "average_sale_price" : "418081",
+  "highest_sale_price" : "550000",
+  "number_of_sales" : "10",
+  "neighborhood" : "KINGSBRIDGE HTS/UNIV HTS "
+}
+, {
+  "lowest_sale_price" : "600000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "653500",
+  "average_sale_price" : "653875",
+  "highest_sale_price" : "705000",
+  "number_of_sales" : "8",
+  "neighborhood" : "KINGSBRIDGE HTS/UNIV HTS "
+}
+, {
+  "lowest_sale_price" : "325000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "430000",
+  "average_sale_price" : "469786",
+  "highest_sale_price" : "675000",
+  "number_of_sales" : "11",
+  "neighborhood" : "KINGSBRIDGE/JEROME PARK  "
+}
+, {
+  "lowest_sale_price" : "175000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "540000",
+  "average_sale_price" : "510309",
+  "highest_sale_price" : "725000",
+  "number_of_sales" : "16",
+  "neighborhood" : "KINGSBRIDGE/JEROME PARK  "
+}
+, {
+  "lowest_sale_price" : "572000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "660000",
+  "average_sale_price" : "635667",
+  "highest_sale_price" : "675000",
+  "number_of_sales" : "3",
+  "neighborhood" : "KINGSBRIDGE/JEROME PARK  "
+}
+, {
+  "lowest_sale_price" : "270000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "350000",
+  "average_sale_price" : "328333",
+  "highest_sale_price" : "365000",
+  "number_of_sales" : "3",
+  "neighborhood" : "MELROSE/CONCOURSE        "
+}
+, {
+  "lowest_sale_price" : "210000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "450250",
+  "average_sale_price" : "426573",
+  "highest_sale_price" : "605000",
+  "number_of_sales" : "24",
+  "neighborhood" : "MELROSE/CONCOURSE        "
+}
+, {
+  "lowest_sale_price" : "167496",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "511500",
+  "average_sale_price" : "474073",
+  "highest_sale_price" : "693428",
+  "number_of_sales" : "26",
+  "neighborhood" : "MELROSE/CONCOURSE        "
+}
+, {
+  "lowest_sale_price" : "300000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "430000",
+  "average_sale_price" : "428200",
+  "highest_sale_price" : "540000",
+  "number_of_sales" : "16",
+  "neighborhood" : "MORRIS PARK/VAN NEST     "
+}
+, {
+  "lowest_sale_price" : "150000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "494500",
+  "average_sale_price" : "484751",
+  "highest_sale_price" : "713784",
+  "number_of_sales" : "48",
+  "neighborhood" : "MORRIS PARK/VAN NEST     "
+}
+, {
+  "lowest_sale_price" : "440000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "575000",
+  "average_sale_price" : "583949",
+  "highest_sale_price" : "773870",
+  "number_of_sales" : "14",
+  "neighborhood" : "MORRIS PARK/VAN NEST     "
+}
+, {
+  "lowest_sale_price" : "209000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "318850",
+  "average_sale_price" : "323458",
+  "highest_sale_price" : "555000",
+  "number_of_sales" : "16",
+  "neighborhood" : "MORRISANIA/LONGWOOD      "
+}
+, {
+  "lowest_sale_price" : "187000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "402500",
+  "average_sale_price" : "433617",
+  "highest_sale_price" : "742206",
+  "number_of_sales" : "46",
+  "neighborhood" : "MORRISANIA/LONGWOOD      "
+}
+, {
+  "lowest_sale_price" : "177450",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "523566",
+  "average_sale_price" : "504478",
+  "highest_sale_price" : "690000",
+  "number_of_sales" : "56",
+  "neighborhood" : "MORRISANIA/LONGWOOD      "
+}
+, {
+  "lowest_sale_price" : "335000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "406250",
+  "average_sale_price" : "410417",
+  "highest_sale_price" : "550000",
+  "number_of_sales" : "6",
+  "neighborhood" : "MOTT HAVEN/PORT MORRIS   "
+}
+, {
+  "lowest_sale_price" : "193750",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "390000",
+  "average_sale_price" : "451654",
+  "highest_sale_price" : "870000",
+  "number_of_sales" : "11",
+  "neighborhood" : "MOTT HAVEN/PORT MORRIS   "
+}
+, {
+  "lowest_sale_price" : "315000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "495000",
+  "average_sale_price" : "517500",
+  "highest_sale_price" : "695000",
+  "number_of_sales" : "5",
+  "neighborhood" : "MOTT HAVEN/PORT MORRIS   "
+}
+, {
+  "lowest_sale_price" : "420000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "635000",
+  "average_sale_price" : "635000",
+  "highest_sale_price" : "850000",
+  "number_of_sales" : "2",
+  "neighborhood" : "MOUNT HOPE/MOUNT EDEN    "
+}
+, {
+  "lowest_sale_price" : "182520",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "457357",
+  "average_sale_price" : "404758",
+  "highest_sale_price" : "525000",
+  "number_of_sales" : "9",
+  "neighborhood" : "MOUNT HOPE/MOUNT EDEN    "
+}
+, {
+  "lowest_sale_price" : "347153",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "560000",
+  "average_sale_price" : "563452",
+  "highest_sale_price" : "850000",
+  "number_of_sales" : "9",
+  "neighborhood" : "MOUNT HOPE/MOUNT EDEN    "
+}
+, {
+  "lowest_sale_price" : "250000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "395000",
+  "average_sale_price" : "374588",
+  "highest_sale_price" : "422940",
+  "number_of_sales" : "5",
+  "neighborhood" : "PARKCHESTER              "
+}
+, {
+  "lowest_sale_price" : "234000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "450000",
+  "average_sale_price" : "457584",
+  "highest_sale_price" : "650000",
+  "number_of_sales" : "29",
+  "neighborhood" : "PARKCHESTER              "
+}
+, {
+  "lowest_sale_price" : "385000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "580000",
+  "average_sale_price" : "577221",
+  "highest_sale_price" : "711000",
+  "number_of_sales" : "15",
+  "neighborhood" : "PARKCHESTER              "
+}
+, {
+  "lowest_sale_price" : "185000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "432500",
+  "average_sale_price" : "456346",
+  "highest_sale_price" : "665000",
+  "number_of_sales" : "14",
+  "neighborhood" : "PELHAM GARDENS           "
+}
+, {
+  "lowest_sale_price" : "430000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "628400",
+  "average_sale_price" : "630225",
+  "highest_sale_price" : "875000",
+  "number_of_sales" : "8",
+  "neighborhood" : "PELHAM GARDENS           "
+}
+, {
+  "lowest_sale_price" : "650000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "650000",
+  "average_sale_price" : "650000",
+  "highest_sale_price" : "650000",
+  "number_of_sales" : "1",
+  "neighborhood" : "PELHAM GARDENS           "
+}
+, {
+  "lowest_sale_price" : "360000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "437165",
+  "average_sale_price" : "460663",
+  "highest_sale_price" : "675000",
+  "number_of_sales" : "26",
+  "neighborhood" : "PELHAM PARKWAY NORTH     "
+}
+, {
+  "lowest_sale_price" : "200000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "485250",
+  "average_sale_price" : "519974",
+  "highest_sale_price" : "760000",
+  "number_of_sales" : "32",
+  "neighborhood" : "PELHAM PARKWAY NORTH     "
+}
+, {
+  "lowest_sale_price" : "555000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "652500",
+  "average_sale_price" : "652500",
+  "highest_sale_price" : "750000",
+  "number_of_sales" : "2",
+  "neighborhood" : "PELHAM PARKWAY NORTH     "
+}
+, {
+  "lowest_sale_price" : "300000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "537500",
+  "average_sale_price" : "519500",
+  "highest_sale_price" : "625000",
+  "number_of_sales" : "10",
+  "neighborhood" : "PELHAM PARKWAY SOUTH     "
+}
+, {
+  "lowest_sale_price" : "400530",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "472375",
+  "average_sale_price" : "496372",
+  "highest_sale_price" : "628300",
+  "number_of_sales" : "8",
+  "neighborhood" : "PELHAM PARKWAY SOUTH     "
+}
+, {
+  "lowest_sale_price" : "525000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "560000",
+  "average_sale_price" : "560000",
+  "highest_sale_price" : "595000",
+  "number_of_sales" : "2",
+  "neighborhood" : "PELHAM PARKWAY SOUTH     "
+}
+, {
+  "lowest_sale_price" : "159750",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "692500",
+  "average_sale_price" : "1046277",
+  "highest_sale_price" : "3956150",
+  "number_of_sales" : "24",
+  "neighborhood" : "RIVERDALE                "
+}
+, {
+  "lowest_sale_price" : "487250",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "752500",
+  "average_sale_price" : "730588",
+  "highest_sale_price" : "975000",
+  "number_of_sales" : "14",
+  "neighborhood" : "RIVERDALE                "
+}
+, {
+  "lowest_sale_price" : "285000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "405000",
+  "average_sale_price" : "408864",
+  "highest_sale_price" : "618000",
+  "number_of_sales" : "35",
+  "neighborhood" : "SCHUYLERVILLE/PELHAM BAY "
+}
+, {
+  "lowest_sale_price" : "275000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "499945",
+  "average_sale_price" : "544547",
+  "highest_sale_price" : "865512",
+  "number_of_sales" : "40",
+  "neighborhood" : "SCHUYLERVILLE/PELHAM BAY "
+}
+, {
+  "lowest_sale_price" : "325000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "611250",
+  "average_sale_price" : "592900",
+  "highest_sale_price" : "875000",
+  "number_of_sales" : "10",
+  "neighborhood" : "SCHUYLERVILLE/PELHAM BAY "
+}
+, {
+  "lowest_sale_price" : "150000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "348650",
+  "average_sale_price" : "346719",
+  "highest_sale_price" : "625000",
+  "number_of_sales" : "30",
+  "neighborhood" : "SOUNDVIEW                "
+}
+, {
+  "lowest_sale_price" : "245000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "500000",
+  "average_sale_price" : "478848",
+  "highest_sale_price" : "625000",
+  "number_of_sales" : "58",
+  "neighborhood" : "SOUNDVIEW                "
+}
+, {
+  "lowest_sale_price" : "154000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "600000",
+  "average_sale_price" : "552113",
+  "highest_sale_price" : "730000",
+  "number_of_sales" : "49",
+  "neighborhood" : "SOUNDVIEW                "
+}
+, {
+  "lowest_sale_price" : "230000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "417500",
+  "average_sale_price" : "410943",
+  "highest_sale_price" : "675000",
+  "number_of_sales" : "64",
+  "neighborhood" : "THROGS NECK              "
+}
+, {
+  "lowest_sale_price" : "250000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "527200",
+  "average_sale_price" : "523443",
+  "highest_sale_price" : "875000",
+  "number_of_sales" : "54",
+  "neighborhood" : "THROGS NECK              "
+}
+, {
+  "lowest_sale_price" : "424000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "520000",
+  "average_sale_price" : "545212",
+  "highest_sale_price" : "710000",
+  "number_of_sales" : "11",
+  "neighborhood" : "THROGS NECK              "
+}
+, {
+  "lowest_sale_price" : "222000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "382000",
+  "average_sale_price" : "369650",
+  "highest_sale_price" : "575000",
+  "number_of_sales" : "45",
+  "neighborhood" : "WAKEFIELD                "
+}
+, {
+  "lowest_sale_price" : "150000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "440000",
+  "average_sale_price" : "451676",
+  "highest_sale_price" : "680000",
+  "number_of_sales" : "53",
+  "neighborhood" : "WAKEFIELD                "
+}
+, {
+  "lowest_sale_price" : "275000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "570000",
+  "average_sale_price" : "558526",
+  "highest_sale_price" : "750000",
+  "number_of_sales" : "17",
+  "neighborhood" : "WAKEFIELD                "
+}
+, {
+  "lowest_sale_price" : "230000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "389014",
+  "average_sale_price" : "447846",
+  "highest_sale_price" : "1088000",
+  "number_of_sales" : "13",
+  "neighborhood" : "WESTCHESTER              "
+}
+, {
+  "lowest_sale_price" : "270000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "510000",
+  "average_sale_price" : "527203",
+  "highest_sale_price" : "940000",
+  "number_of_sales" : "27",
+  "neighborhood" : "WESTCHESTER              "
+}
+, {
+  "lowest_sale_price" : "541660",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "625400",
+  "average_sale_price" : "645978",
+  "highest_sale_price" : "775000",
+  "number_of_sales" : "17",
+  "neighborhood" : "WESTCHESTER              "
+}
+, {
+  "lowest_sale_price" : "228151",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "360000",
+  "average_sale_price" : "355623",
+  "highest_sale_price" : "530000",
+  "number_of_sales" : "34",
+  "neighborhood" : "WILLIAMSBRIDGE           "
+}
+, {
+  "lowest_sale_price" : "225000",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "440000",
+  "average_sale_price" : "446600",
+  "highest_sale_price" : "665000",
+  "number_of_sales" : "79",
+  "neighborhood" : "WILLIAMSBRIDGE           "
+}
+, {
+  "lowest_sale_price" : "325000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "595032",
+  "average_sale_price" : "594202",
+  "highest_sale_price" : "804417",
+  "number_of_sales" : "51",
+  "neighborhood" : "WILLIAMSBRIDGE           "
+}
+, {
+  "lowest_sale_price" : "265000",
+  "type_of_home" : "01 ONE FAMILY HOMES                        ",
+  "median_sale_price" : "370000",
+  "average_sale_price" : "423079",
+  "highest_sale_price" : "690000",
+  "number_of_sales" : "12",
+  "neighborhood" : "WOODLAWN                 "
+}
+, {
+  "lowest_sale_price" : "267500",
+  "type_of_home" : "02 TWO FAMILY HOMES                        ",
+  "median_sale_price" : "534581",
+  "average_sale_price" : "502787",
+  "highest_sale_price" : "615000",
+  "number_of_sales" : "9",
+  "neighborhood" : "WOODLAWN                 "
+}
+, {
+  "lowest_sale_price" : "480000",
+  "type_of_home" : "03 THREE FAMILY HOMES                      ",
+  "median_sale_price" : "500000",
+  "average_sale_price" : "513333",
+  "highest_sale_price" : "560000",
+  "number_of_sales" : "3",
+  "neighborhood" : "WOODLAWN                 "
+}
+ ]

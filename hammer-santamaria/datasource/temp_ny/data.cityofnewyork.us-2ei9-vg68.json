@@ -1,0 +1,26 @@
+[ {
+  "priority_code" : "N-0",
+  "description" : "Applicants who are referred to the Housing Authority by the New York City Department of Homeless Services (“DHS”), or by the HIV/AIDS Services Administration (“HASA”), or by the New York City Department of Housing Preservation and Development (“HPD”), or by the Administration for Children's Services (“ACS”), pursuant to an agreement with the Housing Authority. These families must be referred by the City Agency directly to the New York City Housing Authority.\n\nApplicants about to be discharged from a hospital operated by the New York City Health and Hospitals Corporation (“HHC”), who would become homeless upon discharge and who are referred to the Housing Authority by HHC. These families must be referred by the City Agency directly to the New York City Housing Authority.",
+  "title" : "City Agency Referrals"
+}
+, {
+  "priority_code" : "N-1",
+  "description" : "Applicants who have suffered serious or repeated abuse from a family member or a person with whom they had, or continue to have, an intimate relationship, and as a result of the abuse the victim suffered actual physical injury or the threat of injury, and the victim: (a) will continue to suffer abuse if he or she continues to live in the current residence, or (b) has left the residence due to the abuse and is not living in standard permanent replacement housing. Victims of domestic violence will not be offered an apartment near the residence which they resided at the time of the abuse, and such applicants in Staten Island may not select Staten Island.\n\nTo qualify for this priority, the applicant must provide documentation. Please see the documentation requirements below.\nVictim of Domestic Violence - Documentation Requirements (in PDF)\nVictim of Domestic Violence - Inpatient Hospital Letter (if applicable) (in PDF)\n\nApplicants with a family member cooperating in a criminal investigation/prosecution, where a member of the household has been threatened by a defendant or by a person associated with a defendant. Intimidated Witness applicants will not be offered an apartment near the residence in which they resided at the time of the incident, and such applicants in Staten Island may not select Staten Island. To qualify for this priority, the applicant must be referred directly to the Housing Authority from the District Attorney’s Office.\n\n",
+  "title" : "Victims of Domestic Violence and Intimidated Witnesses"
+}
+, {
+  "priority_code" : "N-3",
+  "description" : "Applicants living in housing declared uninhabitable by the New York City Department of Housing Preservation and Development (HPD), or another government agency, or already displaced due to a government order and not living in standard permanent replacement housing or applicants about to be displaced by a government order from a site to be used for a public housing project or public improvement. These applications must be referred directly to the New York Housing Authority by the responsible City Agency.",
+  "title" : "Government-Ordered Vacate"
+}
+, {
+  "priority_code" : "N-4",
+  "description" : "Families who are homeless, involuntarily displaced, living in substandard housing, doubled-up or overcrowded in private housing, paying more than 50% of family gross income for rent, or legally doubled-up and overcrowded in NYCHA public housing.\n\nVerification of these priorities will either be requested or confirmed during the eligibility processing of the application.",
+  "title" : "Residing in Sub-Standard Conditions or Rent Hardship"
+}
+, {
+  "priority_code" : "N-8",
+  "description" : "Families who do not qualify for a Need Based Preference and are not now renting either a New York City Housing Authority public housing or Section 8 apartment.\n\nFamilies who do not live, work or have a commitment for a job in New York City.",
+  "title" : "No Need-Based Preference"
+}
+ ]

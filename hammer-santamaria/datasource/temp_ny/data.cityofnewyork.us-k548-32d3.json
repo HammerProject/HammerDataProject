@@ -1,0 +1,4001 @@
+[ {
+  "incident_id" : "2976",
+  "incident_dt" : "2016-02-01T01:15:00"
+}
+, {
+  "incident_id" : "2974",
+  "incident_dt" : "2016-02-01T05:10:00"
+}
+, {
+  "incident_id" : "2977",
+  "incident_dt" : "2016-02-01T06:00:00"
+}
+, {
+  "incident_id" : "2980",
+  "incident_dt" : "2016-02-01T06:20:00"
+}
+, {
+  "incident_id" : "2984",
+  "incident_dt" : "2016-02-01T10:40:00"
+}
+, {
+  "incident_id" : "2975",
+  "incident_dt" : "2016-02-01T11:00:00"
+}
+, {
+  "incident_id" : "2971",
+  "incident_dt" : "2016-02-01T11:35:00"
+}
+, {
+  "incident_id" : "2991",
+  "incident_dt" : "2016-02-01T11:35:00"
+}
+, {
+  "incident_id" : "2979",
+  "incident_dt" : "2016-02-01T14:06:00"
+}
+, {
+  "incident_id" : "2988",
+  "incident_dt" : "2016-02-01T14:30:00"
+}
+, {
+  "incident_id" : "2986",
+  "incident_dt" : "2016-02-01T14:55:00"
+}
+, {
+  "incident_id" : "2972",
+  "incident_dt" : "2016-02-01T17:30:00"
+}
+, {
+  "incident_id" : "2978",
+  "incident_dt" : "2016-02-01T17:55:00"
+}
+, {
+  "incident_id" : "2973",
+  "incident_dt" : "2016-02-01T20:25:00"
+}
+, {
+  "incident_id" : "2970",
+  "incident_dt" : "2016-02-01T20:55:00"
+}
+, {
+  "incident_id" : "2989",
+  "incident_dt" : "2016-02-02T05:40:00"
+}
+, {
+  "incident_id" : "3014",
+  "incident_dt" : "2016-02-02T05:55:00"
+}
+, {
+  "incident_id" : "2994",
+  "incident_dt" : "2016-02-02T08:43:00"
+}
+, {
+  "incident_id" : "2992",
+  "incident_dt" : "2016-02-02T08:45:00"
+}
+, {
+  "incident_id" : "3000",
+  "incident_dt" : "2016-02-02T08:45:00"
+}
+, {
+  "incident_id" : "2990",
+  "incident_dt" : "2016-02-02T09:45:00"
+}
+, {
+  "incident_id" : "2999",
+  "incident_dt" : "2016-02-02T10:50:00"
+}
+, {
+  "incident_id" : "3001",
+  "incident_dt" : "2016-02-02T11:54:00"
+}
+, {
+  "incident_id" : "2993",
+  "incident_dt" : "2016-02-02T14:55:00"
+}
+, {
+  "incident_id" : "2995",
+  "incident_dt" : "2016-02-02T15:30:00"
+}
+, {
+  "incident_id" : "3010",
+  "incident_dt" : "2016-02-02T16:40:00"
+}
+, {
+  "incident_id" : "2997",
+  "incident_dt" : "2016-02-02T16:55:00"
+}
+, {
+  "incident_id" : "2996",
+  "incident_dt" : "2016-02-02T18:55:00"
+}
+, {
+  "incident_id" : "2998",
+  "incident_dt" : "2016-02-02T20:30:00"
+}
+, {
+  "incident_id" : "3060",
+  "incident_dt" : "2016-02-02T20:40:00"
+}
+, {
+  "incident_id" : "3009",
+  "incident_dt" : "2016-02-03T08:00:00"
+}
+, {
+  "incident_id" : "3008",
+  "incident_dt" : "2016-02-03T11:15:00"
+}
+, {
+  "incident_id" : "3012",
+  "incident_dt" : "2016-02-03T12:10:00"
+}
+, {
+  "incident_id" : "3013",
+  "incident_dt" : "2016-02-03T12:50:00"
+}
+, {
+  "incident_id" : "3030",
+  "incident_dt" : "2016-02-03T13:15:00"
+}
+, {
+  "incident_id" : "3006",
+  "incident_dt" : "2016-02-03T13:30:00"
+}
+, {
+  "incident_id" : "3007",
+  "incident_dt" : "2016-02-03T13:31:00"
+}
+, {
+  "incident_id" : "3025",
+  "incident_dt" : "2016-02-03T15:20:00"
+}
+, {
+  "incident_id" : "3005",
+  "incident_dt" : "2016-02-03T15:45:00"
+}
+, {
+  "incident_id" : "3011",
+  "incident_dt" : "2016-02-03T17:23:00"
+}
+, {
+  "incident_id" : "3015",
+  "incident_dt" : "2016-02-03T18:03:00"
+}
+, {
+  "incident_id" : "3003",
+  "incident_dt" : "2016-02-03T19:10:00"
+}
+, {
+  "incident_id" : "3061",
+  "incident_dt" : "2016-02-03T19:30:00"
+}
+, {
+  "incident_id" : "3018",
+  "incident_dt" : "2016-02-04T00:15:00"
+}
+, {
+  "incident_id" : "3026",
+  "incident_dt" : "2016-02-04T05:15:00"
+}
+, {
+  "incident_id" : "3020",
+  "incident_dt" : "2016-02-04T05:20:00"
+}
+, {
+  "incident_id" : "3016",
+  "incident_dt" : "2016-02-04T09:15:00"
+}
+, {
+  "incident_id" : "3024",
+  "incident_dt" : "2016-02-04T09:55:00"
+}
+, {
+  "incident_id" : "3021",
+  "incident_dt" : "2016-02-04T10:00:00"
+}
+, {
+  "incident_id" : "3017",
+  "incident_dt" : "2016-02-04T12:25:00"
+}
+, {
+  "incident_id" : "3023",
+  "incident_dt" : "2016-02-04T15:00:00"
+}
+, {
+  "incident_id" : "3022",
+  "incident_dt" : "2016-02-04T16:50:00"
+}
+, {
+  "incident_id" : "3019",
+  "incident_dt" : "2016-02-04T20:20:00"
+}
+, {
+  "incident_id" : "3031",
+  "incident_dt" : "2016-02-05T06:20:00"
+}
+, {
+  "incident_id" : "3039",
+  "incident_dt" : "2016-02-05T06:30:00"
+}
+, {
+  "incident_id" : "3044",
+  "incident_dt" : "2016-02-05T08:05:00"
+}
+, {
+  "incident_id" : "3071",
+  "incident_dt" : "2016-02-05T09:25:00"
+}
+, {
+  "incident_id" : "3062",
+  "incident_dt" : "2016-02-05T10:00:00"
+}
+, {
+  "incident_id" : "3046",
+  "incident_dt" : "2016-02-05T10:10:00"
+}
+, {
+  "incident_id" : "3033",
+  "incident_dt" : "2016-02-05T10:20:00"
+}
+, {
+  "incident_id" : "3041",
+  "incident_dt" : "2016-02-05T11:45:00"
+}
+, {
+  "incident_id" : "3042",
+  "incident_dt" : "2016-02-05T12:20:00"
+}
+, {
+  "incident_id" : "3028",
+  "incident_dt" : "2016-02-05T13:00:00"
+}
+, {
+  "incident_id" : "3047",
+  "incident_dt" : "2016-02-05T13:50:00"
+}
+, {
+  "incident_id" : "3029",
+  "incident_dt" : "2016-02-05T14:30:00"
+}
+, {
+  "incident_id" : "3027",
+  "incident_dt" : "2016-02-05T14:55:00"
+}
+, {
+  "incident_id" : "3051",
+  "incident_dt" : "2016-02-05T15:16:00"
+}
+, {
+  "incident_id" : "3055",
+  "incident_dt" : "2016-02-05T17:50:00"
+}
+, {
+  "incident_id" : "3045",
+  "incident_dt" : "2016-02-05T19:20:00"
+}
+, {
+  "incident_id" : "3048",
+  "incident_dt" : "2016-02-05T19:45:00"
+}
+, {
+  "incident_id" : "3050",
+  "incident_dt" : "2016-02-05T20:59:00"
+}
+, {
+  "incident_id" : "3052",
+  "incident_dt" : "2016-02-06T05:00:00"
+}
+, {
+  "incident_id" : "3043",
+  "incident_dt" : "2016-02-06T05:40:00"
+}
+, {
+  "incident_id" : "3054",
+  "incident_dt" : "2016-02-06T10:53:00"
+}
+, {
+  "incident_id" : "3040",
+  "incident_dt" : "2016-02-06T12:33:00"
+}
+, {
+  "incident_id" : "3034",
+  "incident_dt" : "2016-02-06T17:09:00"
+}
+, {
+  "incident_id" : "3035",
+  "incident_dt" : "2016-02-06T20:18:00"
+}
+, {
+  "incident_id" : "3056",
+  "incident_dt" : "2016-02-06T20:30:00"
+}
+, {
+  "incident_id" : "3057",
+  "incident_dt" : "2016-02-06T21:06:00"
+}
+, {
+  "incident_id" : "3036",
+  "incident_dt" : "2016-02-06T22:40:00"
+}
+, {
+  "incident_id" : "3037",
+  "incident_dt" : "2016-02-07T00:01:00"
+}
+, {
+  "incident_id" : "3032",
+  "incident_dt" : "2016-02-07T05:30:00"
+}
+, {
+  "incident_id" : "3049",
+  "incident_dt" : "2016-02-07T10:37:00"
+}
+, {
+  "incident_id" : "3058",
+  "incident_dt" : "2016-02-07T11:25:00"
+}
+, {
+  "incident_id" : "3059",
+  "incident_dt" : "2016-02-07T13:01:00"
+}
+, {
+  "incident_id" : "3063",
+  "incident_dt" : "2016-02-07T16:25:00"
+}
+, {
+  "incident_id" : "3038",
+  "incident_dt" : "2016-02-07T18:40:00"
+}
+, {
+  "incident_id" : "3053",
+  "incident_dt" : "2016-02-07T20:45:00"
+}
+, {
+  "incident_id" : "3077",
+  "incident_dt" : "2016-02-08T00:11:00"
+}
+, {
+  "incident_id" : "3081",
+  "incident_dt" : "2016-02-08T00:50:00"
+}
+, {
+  "incident_id" : "3069",
+  "incident_dt" : "2016-02-08T05:20:00"
+}
+, {
+  "incident_id" : "3073",
+  "incident_dt" : "2016-02-08T11:20:00"
+}
+, {
+  "incident_id" : "3070",
+  "incident_dt" : "2016-02-08T11:50:00"
+}
+, {
+  "incident_id" : "3075",
+  "incident_dt" : "2016-02-08T12:57:00"
+}
+, {
+  "incident_id" : "3068",
+  "incident_dt" : "2016-02-08T17:00:00"
+}
+, {
+  "incident_id" : "3076",
+  "incident_dt" : "2016-02-08T18:20:00"
+}
+, {
+  "incident_id" : "3067",
+  "incident_dt" : "2016-02-08T19:50:00"
+}
+, {
+  "incident_id" : "3082",
+  "incident_dt" : "2016-02-08T20:10:00"
+}
+, {
+  "incident_id" : "3066",
+  "incident_dt" : "2016-02-08T20:30:00"
+}
+, {
+  "incident_id" : "3072",
+  "incident_dt" : "2016-02-08T21:10:00"
+}
+, {
+  "incident_id" : "3064",
+  "incident_dt" : "2016-02-08T21:45:00"
+}
+, {
+  "incident_id" : "3065",
+  "incident_dt" : "2016-02-08T22:40:00"
+}
+, {
+  "incident_id" : "3092",
+  "incident_dt" : "2016-02-09T06:33:00"
+}
+, {
+  "incident_id" : "3087",
+  "incident_dt" : "2016-02-09T07:05:00"
+}
+, {
+  "incident_id" : "3088",
+  "incident_dt" : "2016-02-09T09:50:00"
+}
+, {
+  "incident_id" : "3089",
+  "incident_dt" : "2016-02-09T10:10:00"
+}
+, {
+  "incident_id" : "3098",
+  "incident_dt" : "2016-02-09T12:30:00"
+}
+, {
+  "incident_id" : "3090",
+  "incident_dt" : "2016-02-09T13:49:00"
+}
+, {
+  "incident_id" : "3102",
+  "incident_dt" : "2016-02-09T15:00:00"
+}
+, {
+  "incident_id" : "3097",
+  "incident_dt" : "2016-02-09T15:43:00"
+}
+, {
+  "incident_id" : "3095",
+  "incident_dt" : "2016-02-09T15:55:00"
+}
+, {
+  "incident_id" : "3094",
+  "incident_dt" : "2016-02-09T16:55:00"
+}
+, {
+  "incident_id" : "3096",
+  "incident_dt" : "2016-02-09T16:57:00"
+}
+, {
+  "incident_id" : "3120",
+  "incident_dt" : "2016-02-09T18:20:00"
+}
+, {
+  "incident_id" : "3099",
+  "incident_dt" : "2016-02-09T19:00:00"
+}
+, {
+  "incident_id" : "3093",
+  "incident_dt" : "2016-02-09T22:30:00"
+}
+, {
+  "incident_id" : "3103",
+  "incident_dt" : "2016-02-09T23:25:00"
+}
+, {
+  "incident_id" : "3100",
+  "incident_dt" : "2016-02-09T23:45:00"
+}
+, {
+  "incident_id" : "3126",
+  "incident_dt" : "2016-02-10T02:30:00"
+}
+, {
+  "incident_id" : "3138",
+  "incident_dt" : "2016-02-10T06:00:00"
+}
+, {
+  "incident_id" : "3131",
+  "incident_dt" : "2016-02-10T06:20:00"
+}
+, {
+  "incident_id" : "3133",
+  "incident_dt" : "2016-02-10T08:45:00"
+}
+, {
+  "incident_id" : "3140",
+  "incident_dt" : "2016-02-10T09:20:00"
+}
+, {
+  "incident_id" : "3164",
+  "incident_dt" : "2016-02-10T10:45:00"
+}
+, {
+  "incident_id" : "3149",
+  "incident_dt" : "2016-02-10T12:40:00"
+}
+, {
+  "incident_id" : "3148",
+  "incident_dt" : "2016-02-10T16:25:00"
+}
+, {
+  "incident_id" : "3141",
+  "incident_dt" : "2016-02-10T17:45:00"
+}
+, {
+  "incident_id" : "3135",
+  "incident_dt" : "2016-02-10T19:30:00"
+}
+, {
+  "incident_id" : "3125",
+  "incident_dt" : "2016-02-10T19:45:00"
+}
+, {
+  "incident_id" : "3144",
+  "incident_dt" : "2016-02-10T20:03:00"
+}
+, {
+  "incident_id" : "3137",
+  "incident_dt" : "2016-02-10T21:30:00"
+}
+, {
+  "incident_id" : "3147",
+  "incident_dt" : "2016-02-10T23:10:00"
+}
+, {
+  "incident_id" : "3182",
+  "incident_dt" : "2016-02-11T01:50:00"
+}
+, {
+  "incident_id" : "3184",
+  "incident_dt" : "2016-02-11T04:05:00"
+}
+, {
+  "incident_id" : "3150",
+  "incident_dt" : "2016-02-11T04:45:00"
+}
+, {
+  "incident_id" : "3154",
+  "incident_dt" : "2016-02-11T05:15:00"
+}
+, {
+  "incident_id" : "3157",
+  "incident_dt" : "2016-02-11T05:15:00"
+}
+, {
+  "incident_id" : "3160",
+  "incident_dt" : "2016-02-11T07:35:00"
+}
+, {
+  "incident_id" : "3158",
+  "incident_dt" : "2016-02-11T08:10:00"
+}
+, {
+  "incident_id" : "3185",
+  "incident_dt" : "2016-02-11T09:00:00"
+}
+, {
+  "incident_id" : "3159",
+  "incident_dt" : "2016-02-11T11:10:00"
+}
+, {
+  "incident_id" : "3156",
+  "incident_dt" : "2016-02-11T12:05:00"
+}
+, {
+  "incident_id" : "3186",
+  "incident_dt" : "2016-02-11T16:40:00"
+}
+, {
+  "incident_id" : "3165",
+  "incident_dt" : "2016-02-11T17:20:00"
+}
+, {
+  "incident_id" : "3166",
+  "incident_dt" : "2016-02-11T17:50:00"
+}
+, {
+  "incident_id" : "3167",
+  "incident_dt" : "2016-02-11T17:51:00"
+}
+, {
+  "incident_id" : "3155",
+  "incident_dt" : "2016-02-11T18:20:00"
+}
+, {
+  "incident_id" : "3163",
+  "incident_dt" : "2016-02-11T18:45:00"
+}
+, {
+  "incident_id" : "3168",
+  "incident_dt" : "2016-02-11T18:50:00"
+}
+, {
+  "incident_id" : "3300",
+  "incident_dt" : "2016-02-11T19:00:00"
+}
+, {
+  "incident_id" : "3161",
+  "incident_dt" : "2016-02-11T19:58:00"
+}
+, {
+  "incident_id" : "3162",
+  "incident_dt" : "2016-02-11T20:20:00"
+}
+, {
+  "incident_id" : "3187",
+  "incident_dt" : "2016-02-12T00:40:00"
+}
+, {
+  "incident_id" : "3316",
+  "incident_dt" : "2016-02-12T01:00:00"
+}
+, {
+  "incident_id" : "3190",
+  "incident_dt" : "2016-02-12T03:00:00"
+}
+, {
+  "incident_id" : "3197",
+  "incident_dt" : "2016-02-12T08:15:00"
+}
+, {
+  "incident_id" : "3203",
+  "incident_dt" : "2016-02-12T09:32:00"
+}
+, {
+  "incident_id" : "3206",
+  "incident_dt" : "2016-02-12T10:43:00"
+}
+, {
+  "incident_id" : "3194",
+  "incident_dt" : "2016-02-12T10:55:00"
+}
+, {
+  "incident_id" : "3199",
+  "incident_dt" : "2016-02-12T12:24:00"
+}
+, {
+  "incident_id" : "3191",
+  "incident_dt" : "2016-02-12T13:45:00"
+}
+, {
+  "incident_id" : "3180",
+  "incident_dt" : "2016-02-12T16:50:00"
+}
+, {
+  "incident_id" : "3212",
+  "incident_dt" : "2016-02-12T19:10:00"
+}
+, {
+  "incident_id" : "3204",
+  "incident_dt" : "2016-02-12T20:50:00"
+}
+, {
+  "incident_id" : "3208",
+  "incident_dt" : "2016-02-12T20:50:00"
+}
+, {
+  "incident_id" : "3210",
+  "incident_dt" : "2016-02-12T20:55:00"
+}
+, {
+  "incident_id" : "3189",
+  "incident_dt" : "2016-02-12T21:00:00"
+}
+, {
+  "incident_id" : "3248",
+  "incident_dt" : "2016-02-12T21:10:00"
+}
+, {
+  "incident_id" : "3560",
+  "incident_dt" : "2016-02-12T23:05:00"
+}
+, {
+  "incident_id" : "3193",
+  "incident_dt" : "2016-02-13T00:55:00"
+}
+, {
+  "incident_id" : "3220",
+  "incident_dt" : "2016-02-13T05:35:00"
+}
+, {
+  "incident_id" : "3252",
+  "incident_dt" : "2016-02-13T09:30:00"
+}
+, {
+  "incident_id" : "3217",
+  "incident_dt" : "2016-02-13T11:25:00"
+}
+, {
+  "incident_id" : "3195",
+  "incident_dt" : "2016-02-13T16:10:00"
+}
+, {
+  "incident_id" : "3561",
+  "incident_dt" : "2016-02-13T16:16:00"
+}
+, {
+  "incident_id" : "3196",
+  "incident_dt" : "2016-02-13T18:20:00"
+}
+, {
+  "incident_id" : "3176",
+  "incident_dt" : "2016-02-13T18:51:00"
+}
+, {
+  "incident_id" : "3262",
+  "incident_dt" : "2016-02-13T20:00:00"
+}
+, {
+  "incident_id" : "3562",
+  "incident_dt" : "2016-02-13T20:55:00"
+}
+, {
+  "incident_id" : "3213",
+  "incident_dt" : "2016-02-13T22:05:00"
+}
+, {
+  "incident_id" : "3177",
+  "incident_dt" : "2016-02-13T23:15:00"
+}
+, {
+  "incident_id" : "3192",
+  "incident_dt" : "2016-02-14T00:00:00"
+}
+, {
+  "incident_id" : "3224",
+  "incident_dt" : "2016-02-14T06:00:00"
+}
+, {
+  "incident_id" : "3247",
+  "incident_dt" : "2016-02-14T10:25:00"
+}
+, {
+  "incident_id" : "3181",
+  "incident_dt" : "2016-02-14T12:20:00"
+}
+, {
+  "incident_id" : "3250",
+  "incident_dt" : "2016-02-14T12:50:00"
+}
+, {
+  "incident_id" : "3232",
+  "incident_dt" : "2016-02-14T13:10:00"
+}
+, {
+  "incident_id" : "3178",
+  "incident_dt" : "2016-02-14T13:16:00"
+}
+, {
+  "incident_id" : "3179",
+  "incident_dt" : "2016-02-14T16:10:00"
+}
+, {
+  "incident_id" : "3226",
+  "incident_dt" : "2016-02-14T16:40:00"
+}
+, {
+  "incident_id" : "3221",
+  "incident_dt" : "2016-02-14T18:35:00"
+}
+, {
+  "incident_id" : "3216",
+  "incident_dt" : "2016-02-14T19:15:00"
+}
+, {
+  "incident_id" : "3563",
+  "incident_dt" : "2016-02-14T19:25:00"
+}
+, {
+  "incident_id" : "3564",
+  "incident_dt" : "2016-02-14T19:46:00"
+}
+, {
+  "incident_id" : "3215",
+  "incident_dt" : "2016-02-14T19:55:00"
+}
+, {
+  "incident_id" : "3201",
+  "incident_dt" : "2016-02-14T20:00:00"
+}
+, {
+  "incident_id" : "3205",
+  "incident_dt" : "2016-02-14T20:45:00"
+}
+, {
+  "incident_id" : "3207",
+  "incident_dt" : "2016-02-15T01:40:00"
+}
+, {
+  "incident_id" : "3225",
+  "incident_dt" : "2016-02-15T02:30:00"
+}
+, {
+  "incident_id" : "3565",
+  "incident_dt" : "2016-02-15T06:55:00"
+}
+, {
+  "incident_id" : "3209",
+  "incident_dt" : "2016-02-15T09:49:00"
+}
+, {
+  "incident_id" : "3218",
+  "incident_dt" : "2016-02-15T10:40:00"
+}
+, {
+  "incident_id" : "3183",
+  "incident_dt" : "2016-02-15T11:47:00"
+}
+, {
+  "incident_id" : "3200",
+  "incident_dt" : "2016-02-15T13:15:00"
+}
+, {
+  "incident_id" : "3211",
+  "incident_dt" : "2016-02-15T14:55:00"
+}
+, {
+  "incident_id" : "3219",
+  "incident_dt" : "2016-02-15T17:20:00"
+}
+, {
+  "incident_id" : "3568",
+  "incident_dt" : "2016-02-15T17:30:00"
+}
+, {
+  "incident_id" : "3202",
+  "incident_dt" : "2016-02-15T18:15:00"
+}
+, {
+  "incident_id" : "3214",
+  "incident_dt" : "2016-02-15T19:15:00"
+}
+, {
+  "incident_id" : "3265",
+  "incident_dt" : "2016-02-15T19:30:00"
+}
+, {
+  "incident_id" : "3266",
+  "incident_dt" : "2016-02-15T19:50:00"
+}
+, {
+  "incident_id" : "3223",
+  "incident_dt" : "2016-02-16T04:50:00"
+}
+, {
+  "incident_id" : "3267",
+  "incident_dt" : "2016-02-16T06:00:00"
+}
+, {
+  "incident_id" : "3227",
+  "incident_dt" : "2016-02-16T06:45:00"
+}
+, {
+  "incident_id" : "3233",
+  "incident_dt" : "2016-02-16T07:20:00"
+}
+, {
+  "incident_id" : "3229",
+  "incident_dt" : "2016-02-16T07:40:00"
+}
+, {
+  "incident_id" : "3243",
+  "incident_dt" : "2016-02-16T09:30:00"
+}
+, {
+  "incident_id" : "3566",
+  "incident_dt" : "2016-02-16T10:15:00"
+}
+, {
+  "incident_id" : "3244",
+  "incident_dt" : "2016-02-16T12:20:00"
+}
+, {
+  "incident_id" : "3270",
+  "incident_dt" : "2016-02-16T13:25:00"
+}
+, {
+  "incident_id" : "3268",
+  "incident_dt" : "2016-02-16T14:16:00"
+}
+, {
+  "incident_id" : "3571",
+  "incident_dt" : "2016-02-16T15:20:00"
+}
+, {
+  "incident_id" : "3238",
+  "incident_dt" : "2016-02-16T17:15:00"
+}
+, {
+  "incident_id" : "3231",
+  "incident_dt" : "2016-02-16T17:30:00"
+}
+, {
+  "incident_id" : "3228",
+  "incident_dt" : "2016-02-16T17:35:00"
+}
+, {
+  "incident_id" : "3245",
+  "incident_dt" : "2016-02-16T17:40:00"
+}
+, {
+  "incident_id" : "3236",
+  "incident_dt" : "2016-02-16T19:15:00"
+}
+, {
+  "incident_id" : "3234",
+  "incident_dt" : "2016-02-16T20:12:00"
+}
+, {
+  "incident_id" : "3246",
+  "incident_dt" : "2016-02-16T21:35:00"
+}
+, {
+  "incident_id" : "3274",
+  "incident_dt" : "2016-02-17T08:20:00"
+}
+, {
+  "incident_id" : "3302",
+  "incident_dt" : "2016-02-17T10:31:00"
+}
+, {
+  "incident_id" : "3275",
+  "incident_dt" : "2016-02-17T11:25:00"
+}
+, {
+  "incident_id" : "3269",
+  "incident_dt" : "2016-02-17T20:00:00"
+}
+, {
+  "incident_id" : "3271",
+  "incident_dt" : "2016-02-17T20:35:00"
+}
+, {
+  "incident_id" : "3276",
+  "incident_dt" : "2016-02-17T20:55:00"
+}
+, {
+  "incident_id" : "3272",
+  "incident_dt" : "2016-02-17T22:30:00"
+}
+, {
+  "incident_id" : "3284",
+  "incident_dt" : "2016-02-18T05:20:00"
+}
+, {
+  "incident_id" : "3312",
+  "incident_dt" : "2016-02-18T05:54:00"
+}
+, {
+  "incident_id" : "3277",
+  "incident_dt" : "2016-02-18T06:00:00"
+}
+, {
+  "incident_id" : "3282",
+  "incident_dt" : "2016-02-18T09:44:00"
+}
+, {
+  "incident_id" : "3335",
+  "incident_dt" : "2016-02-18T09:55:00"
+}
+, {
+  "incident_id" : "3573",
+  "incident_dt" : "2016-02-18T10:15:00"
+}
+, {
+  "incident_id" : "3428",
+  "incident_dt" : "2016-02-18T12:25:00"
+}
+, {
+  "incident_id" : "3280",
+  "incident_dt" : "2016-02-18T13:20:00"
+}
+, {
+  "incident_id" : "3278",
+  "incident_dt" : "2016-02-18T14:48:00"
+}
+, {
+  "incident_id" : "3281",
+  "incident_dt" : "2016-02-18T17:20:00"
+}
+, {
+  "incident_id" : "3279",
+  "incident_dt" : "2016-02-18T21:05:00"
+}
+, {
+  "incident_id" : "3283",
+  "incident_dt" : "2016-02-18T22:15:00"
+}
+, {
+  "incident_id" : "3582",
+  "incident_dt" : "2016-02-19T06:00:00"
+}
+, {
+  "incident_id" : "3343",
+  "incident_dt" : "2016-02-19T08:40:00"
+}
+, {
+  "incident_id" : "3305",
+  "incident_dt" : "2016-02-19T10:05:00"
+}
+, {
+  "incident_id" : "3304",
+  "incident_dt" : "2016-02-19T10:55:00"
+}
+, {
+  "incident_id" : "3314",
+  "incident_dt" : "2016-02-19T11:05:00"
+}
+, {
+  "incident_id" : "3583",
+  "incident_dt" : "2016-02-19T16:16:00"
+}
+, {
+  "incident_id" : "3311",
+  "incident_dt" : "2016-02-19T17:25:00"
+}
+, {
+  "incident_id" : "3294",
+  "incident_dt" : "2016-02-19T17:45:00"
+}
+, {
+  "incident_id" : "3295",
+  "incident_dt" : "2016-02-19T18:43:00"
+}
+, {
+  "incident_id" : "3296",
+  "incident_dt" : "2016-02-19T19:30:00"
+}
+, {
+  "incident_id" : "3383",
+  "incident_dt" : "2016-02-19T19:46:00"
+}
+, {
+  "incident_id" : "3307",
+  "incident_dt" : "2016-02-19T22:00:00"
+}
+, {
+  "incident_id" : "3384",
+  "incident_dt" : "2016-02-20T09:13:00"
+}
+, {
+  "incident_id" : "3286",
+  "incident_dt" : "2016-02-20T09:20:00"
+}
+, {
+  "incident_id" : "3297",
+  "incident_dt" : "2016-02-20T12:40:00"
+}
+, {
+  "incident_id" : "3319",
+  "incident_dt" : "2016-02-20T13:50:00"
+}
+, {
+  "incident_id" : "3306",
+  "incident_dt" : "2016-02-20T14:20:00"
+}
+, {
+  "incident_id" : "3581",
+  "incident_dt" : "2016-02-20T16:08:00"
+}
+, {
+  "incident_id" : "3336",
+  "incident_dt" : "2016-02-20T16:45:00"
+}
+, {
+  "incident_id" : "3334",
+  "incident_dt" : "2016-02-20T17:15:00"
+}
+, {
+  "incident_id" : "3351",
+  "incident_dt" : "2016-02-20T18:00:00"
+}
+, {
+  "incident_id" : "3310",
+  "incident_dt" : "2016-02-20T18:57:00"
+}
+, {
+  "incident_id" : "3288",
+  "incident_dt" : "2016-02-20T19:20:00"
+}
+, {
+  "incident_id" : "3333",
+  "incident_dt" : "2016-02-20T19:20:00"
+}
+, {
+  "incident_id" : "3350",
+  "incident_dt" : "2016-02-20T20:25:00"
+}
+, {
+  "incident_id" : "3298",
+  "incident_dt" : "2016-02-20T20:55:00"
+}
+, {
+  "incident_id" : "3308",
+  "incident_dt" : "2016-02-21T06:30:00"
+}
+, {
+  "incident_id" : "3289",
+  "incident_dt" : "2016-02-21T08:28:00"
+}
+, {
+  "incident_id" : "3323",
+  "incident_dt" : "2016-02-21T09:55:00"
+}
+, {
+  "incident_id" : "3301",
+  "incident_dt" : "2016-02-21T12:10:00"
+}
+, {
+  "incident_id" : "3299",
+  "incident_dt" : "2016-02-21T12:20:00"
+}
+, {
+  "incident_id" : "3303",
+  "incident_dt" : "2016-02-21T12:25:00"
+}
+, {
+  "incident_id" : "3584",
+  "incident_dt" : "2016-02-21T13:08:00"
+}
+, {
+  "incident_id" : "3293",
+  "incident_dt" : "2016-02-21T13:20:00"
+}
+, {
+  "incident_id" : "3321",
+  "incident_dt" : "2016-02-21T14:05:00"
+}
+, {
+  "incident_id" : "3322",
+  "incident_dt" : "2016-02-21T14:30:00"
+}
+, {
+  "incident_id" : "3290",
+  "incident_dt" : "2016-02-21T17:55:00"
+}
+, {
+  "incident_id" : "3531",
+  "incident_dt" : "2016-02-21T17:55:00"
+}
+, {
+  "incident_id" : "3309",
+  "incident_dt" : "2016-02-21T18:30:00"
+}
+, {
+  "incident_id" : "3327",
+  "incident_dt" : "2016-02-21T20:25:00"
+}
+, {
+  "incident_id" : "3291",
+  "incident_dt" : "2016-02-21T20:45:00"
+}
+, {
+  "incident_id" : "3292",
+  "incident_dt" : "2016-02-21T21:15:00"
+}
+, {
+  "incident_id" : "3578",
+  "incident_dt" : "2016-02-22T06:30:00"
+}
+, {
+  "incident_id" : "3318",
+  "incident_dt" : "2016-02-22T06:50:00"
+}
+, {
+  "incident_id" : "3339",
+  "incident_dt" : "2016-02-22T07:45:00"
+}
+, {
+  "incident_id" : "3313",
+  "incident_dt" : "2016-02-22T08:55:00"
+}
+, {
+  "incident_id" : "3325",
+  "incident_dt" : "2016-02-22T09:58:00"
+}
+, {
+  "incident_id" : "3338",
+  "incident_dt" : "2016-02-22T11:08:00"
+}
+, {
+  "incident_id" : "3331",
+  "incident_dt" : "2016-02-22T12:45:00"
+}
+, {
+  "incident_id" : "3315",
+  "incident_dt" : "2016-02-22T14:50:00"
+}
+, {
+  "incident_id" : "3320",
+  "incident_dt" : "2016-02-22T16:25:00"
+}
+, {
+  "incident_id" : "3328",
+  "incident_dt" : "2016-02-22T16:55:00"
+}
+, {
+  "incident_id" : "3324",
+  "incident_dt" : "2016-02-22T19:10:00"
+}
+, {
+  "incident_id" : "3332",
+  "incident_dt" : "2016-02-22T19:50:00"
+}
+, {
+  "incident_id" : "3326",
+  "incident_dt" : "2016-02-22T20:05:00"
+}
+, {
+  "incident_id" : "3329",
+  "incident_dt" : "2016-02-22T20:50:00"
+}
+, {
+  "incident_id" : "3317",
+  "incident_dt" : "2016-02-22T20:58:00"
+}
+, {
+  "incident_id" : "3579",
+  "incident_dt" : "2016-02-22T21:23:00"
+}
+, {
+  "incident_id" : "3363",
+  "incident_dt" : "2016-02-23T09:05:00"
+}
+, {
+  "incident_id" : "3382",
+  "incident_dt" : "2016-02-23T11:46:00"
+}
+, {
+  "incident_id" : "3345",
+  "incident_dt" : "2016-02-23T13:00:00"
+}
+, {
+  "incident_id" : "3349",
+  "incident_dt" : "2016-02-23T14:40:00"
+}
+, {
+  "incident_id" : "3337",
+  "incident_dt" : "2016-02-23T16:00:00"
+}
+, {
+  "incident_id" : "3348",
+  "incident_dt" : "2016-02-23T16:45:00"
+}
+, {
+  "incident_id" : "3344",
+  "incident_dt" : "2016-02-23T17:40:00"
+}
+, {
+  "incident_id" : "3347",
+  "incident_dt" : "2016-02-23T18:00:00"
+}
+, {
+  "incident_id" : "3340",
+  "incident_dt" : "2016-02-23T18:15:00"
+}
+, {
+  "incident_id" : "3576",
+  "incident_dt" : "2016-02-23T19:18:00"
+}
+, {
+  "incident_id" : "3341",
+  "incident_dt" : "2016-02-23T20:55:00"
+}
+, {
+  "incident_id" : "3580",
+  "incident_dt" : "2016-02-23T21:23:00"
+}
+, {
+  "incident_id" : "3346",
+  "incident_dt" : "2016-02-23T22:05:00"
+}
+, {
+  "incident_id" : "3342",
+  "incident_dt" : "2016-02-23T23:00:00"
+}
+, {
+  "incident_id" : "3353",
+  "incident_dt" : "2016-02-24T08:28:00"
+}
+, {
+  "incident_id" : "3575",
+  "incident_dt" : "2016-02-24T10:20:00"
+}
+, {
+  "incident_id" : "3574",
+  "incident_dt" : "2016-02-24T10:21:00"
+}
+, {
+  "incident_id" : "3352",
+  "incident_dt" : "2016-02-24T10:25:00"
+}
+, {
+  "incident_id" : "3357",
+  "incident_dt" : "2016-02-24T10:45:00"
+}
+, {
+  "incident_id" : "3361",
+  "incident_dt" : "2016-02-24T10:55:00"
+}
+, {
+  "incident_id" : "3354",
+  "incident_dt" : "2016-02-24T11:00:00"
+}
+, {
+  "incident_id" : "3360",
+  "incident_dt" : "2016-02-24T11:45:00"
+}
+, {
+  "incident_id" : "3362",
+  "incident_dt" : "2016-02-24T12:10:00"
+}
+, {
+  "incident_id" : "3376",
+  "incident_dt" : "2016-02-24T13:55:00"
+}
+, {
+  "incident_id" : "3356",
+  "incident_dt" : "2016-02-24T14:54:00"
+}
+, {
+  "incident_id" : "3358",
+  "incident_dt" : "2016-02-24T17:15:00"
+}
+, {
+  "incident_id" : "3355",
+  "incident_dt" : "2016-02-24T17:25:00"
+}
+, {
+  "incident_id" : "3359",
+  "incident_dt" : "2016-02-24T19:30:00"
+}
+, {
+  "incident_id" : "3372",
+  "incident_dt" : "2016-02-25T05:25:00"
+}
+, {
+  "incident_id" : "3377",
+  "incident_dt" : "2016-02-25T05:30:00"
+}
+, {
+  "incident_id" : "3365",
+  "incident_dt" : "2016-02-25T07:35:00"
+}
+, {
+  "incident_id" : "3369",
+  "incident_dt" : "2016-02-25T08:08:00"
+}
+, {
+  "incident_id" : "3366",
+  "incident_dt" : "2016-02-25T10:07:00"
+}
+, {
+  "incident_id" : "3375",
+  "incident_dt" : "2016-02-25T10:28:00"
+}
+, {
+  "incident_id" : "3373",
+  "incident_dt" : "2016-02-25T12:50:00"
+}
+, {
+  "incident_id" : "3378",
+  "incident_dt" : "2016-02-25T13:55:00"
+}
+, {
+  "incident_id" : "3379",
+  "incident_dt" : "2016-02-25T14:25:00"
+}
+, {
+  "incident_id" : "3364",
+  "incident_dt" : "2016-02-25T14:50:00"
+}
+, {
+  "incident_id" : "3371",
+  "incident_dt" : "2016-02-25T15:00:00"
+}
+, {
+  "incident_id" : "3381",
+  "incident_dt" : "2016-02-25T18:05:00"
+}
+, {
+  "incident_id" : "3374",
+  "incident_dt" : "2016-02-25T19:25:00"
+}
+, {
+  "incident_id" : "3370",
+  "incident_dt" : "2016-02-25T20:30:00"
+}
+, {
+  "incident_id" : "3367",
+  "incident_dt" : "2016-02-25T20:50:00"
+}
+, {
+  "incident_id" : "3380",
+  "incident_dt" : "2016-02-25T21:00:00"
+}
+, {
+  "incident_id" : "3368",
+  "incident_dt" : "2016-02-25T23:31:00"
+}
+, {
+  "incident_id" : "3405",
+  "incident_dt" : "2016-02-26T05:00:00"
+}
+, {
+  "incident_id" : "3408",
+  "incident_dt" : "2016-02-26T05:40:00"
+}
+, {
+  "incident_id" : "3390",
+  "incident_dt" : "2016-02-26T06:05:00"
+}
+, {
+  "incident_id" : "3392",
+  "incident_dt" : "2016-02-26T08:10:00"
+}
+, {
+  "incident_id" : "3391",
+  "incident_dt" : "2016-02-26T08:23:00"
+}
+, {
+  "incident_id" : "3434",
+  "incident_dt" : "2016-02-26T09:25:00"
+}
+, {
+  "incident_id" : "3419",
+  "incident_dt" : "2016-02-26T09:30:00"
+}
+, {
+  "incident_id" : "3393",
+  "incident_dt" : "2016-02-26T09:30:00"
+}
+, {
+  "incident_id" : "3415",
+  "incident_dt" : "2016-02-26T10:25:00"
+}
+, {
+  "incident_id" : "3572",
+  "incident_dt" : "2016-02-26T11:20:00"
+}
+, {
+  "incident_id" : "3386",
+  "incident_dt" : "2016-02-26T11:45:00"
+}
+, {
+  "incident_id" : "3396",
+  "incident_dt" : "2016-02-26T12:05:00"
+}
+, {
+  "incident_id" : "3569",
+  "incident_dt" : "2016-02-26T13:20:00"
+}
+, {
+  "incident_id" : "3420",
+  "incident_dt" : "2016-02-26T14:50:00"
+}
+, {
+  "incident_id" : "3397",
+  "incident_dt" : "2016-02-26T18:26:00"
+}
+, {
+  "incident_id" : "3416",
+  "incident_dt" : "2016-02-26T18:30:00"
+}
+, {
+  "incident_id" : "3401",
+  "incident_dt" : "2016-02-26T20:00:00"
+}
+, {
+  "incident_id" : "3395",
+  "incident_dt" : "2016-02-26T20:35:00"
+}
+, {
+  "incident_id" : "3394",
+  "incident_dt" : "2016-02-26T21:20:00"
+}
+, {
+  "incident_id" : "3388",
+  "incident_dt" : "2016-02-27T00:00:00"
+}
+, {
+  "incident_id" : "3414",
+  "incident_dt" : "2016-02-27T00:01:00"
+}
+, {
+  "incident_id" : "3413",
+  "incident_dt" : "2016-02-27T05:15:00"
+}
+, {
+  "incident_id" : "3385",
+  "incident_dt" : "2016-02-27T06:18:00"
+}
+, {
+  "incident_id" : "3570",
+  "incident_dt" : "2016-02-27T06:50:00"
+}
+, {
+  "incident_id" : "3402",
+  "incident_dt" : "2016-02-27T10:58:00"
+}
+, {
+  "incident_id" : "3421",
+  "incident_dt" : "2016-02-27T11:15:00"
+}
+, {
+  "incident_id" : "3409",
+  "incident_dt" : "2016-02-27T12:15:00"
+}
+, {
+  "incident_id" : "3398",
+  "incident_dt" : "2016-02-27T14:30:00"
+}
+, {
+  "incident_id" : "3427",
+  "incident_dt" : "2016-02-27T16:00:00"
+}
+, {
+  "incident_id" : "3425",
+  "incident_dt" : "2016-02-27T18:40:00"
+}
+, {
+  "incident_id" : "3406",
+  "incident_dt" : "2016-02-27T20:10:00"
+}
+, {
+  "incident_id" : "3399",
+  "incident_dt" : "2016-02-27T20:30:00"
+}
+, {
+  "incident_id" : "3389",
+  "incident_dt" : "2016-02-28T08:35:00"
+}
+, {
+  "incident_id" : "3411",
+  "incident_dt" : "2016-02-28T08:58:00"
+}
+, {
+  "incident_id" : "3400",
+  "incident_dt" : "2016-02-28T09:45:00"
+}
+, {
+  "incident_id" : "3403",
+  "incident_dt" : "2016-02-28T11:00:00"
+}
+, {
+  "incident_id" : "3404",
+  "incident_dt" : "2016-02-28T12:20:00"
+}
+, {
+  "incident_id" : "3407",
+  "incident_dt" : "2016-02-28T13:15:00"
+}
+, {
+  "incident_id" : "3412",
+  "incident_dt" : "2016-02-28T13:15:00"
+}
+, {
+  "incident_id" : "3387",
+  "incident_dt" : "2016-02-28T15:28:00"
+}
+, {
+  "incident_id" : "3417",
+  "incident_dt" : "2016-02-28T19:00:00"
+}
+, {
+  "incident_id" : "3418",
+  "incident_dt" : "2016-02-28T19:00:00"
+}
+, {
+  "incident_id" : "3410",
+  "incident_dt" : "2016-02-28T20:45:00"
+}
+, {
+  "incident_id" : "3432",
+  "incident_dt" : "2016-02-29T04:30:00"
+}
+, {
+  "incident_id" : "3426",
+  "incident_dt" : "2016-02-29T05:10:00"
+}
+, {
+  "incident_id" : "3433",
+  "incident_dt" : "2016-02-29T10:15:00"
+}
+, {
+  "incident_id" : "3567",
+  "incident_dt" : "2016-02-29T11:17:00"
+}
+, {
+  "incident_id" : "3486",
+  "incident_dt" : "2016-02-29T12:40:00"
+}
+, {
+  "incident_id" : "3424",
+  "incident_dt" : "2016-02-29T15:02:00"
+}
+, {
+  "incident_id" : "3422",
+  "incident_dt" : "2016-02-29T17:30:00"
+}
+, {
+  "incident_id" : "3429",
+  "incident_dt" : "2016-02-29T19:55:00"
+}
+, {
+  "incident_id" : "3431",
+  "incident_dt" : "2016-02-29T20:00:00"
+}
+, {
+  "incident_id" : "3423",
+  "incident_dt" : "2016-02-29T20:50:00"
+}
+, {
+  "incident_id" : "3430",
+  "incident_dt" : "2016-02-29T23:30:00"
+}
+, {
+  "incident_id" : "2970",
+  "incident_dt" : "2016-02-01T20:55:00"
+}
+, {
+  "incident_id" : "2971",
+  "incident_dt" : "2016-02-01T11:35:00"
+}
+, {
+  "incident_id" : "2972",
+  "incident_dt" : "2016-02-01T17:30:00"
+}
+, {
+  "incident_id" : "2973",
+  "incident_dt" : "2016-02-01T20:25:00"
+}
+, {
+  "incident_id" : "2974",
+  "incident_dt" : "2016-02-01T05:10:00"
+}
+, {
+  "incident_id" : "2975",
+  "incident_dt" : "2016-02-01T11:00:00"
+}
+, {
+  "incident_id" : "2976",
+  "incident_dt" : "2016-02-01T01:15:00"
+}
+, {
+  "incident_id" : "2977",
+  "incident_dt" : "2016-02-01T06:00:00"
+}
+, {
+  "incident_id" : "2978",
+  "incident_dt" : "2016-02-01T17:55:00"
+}
+, {
+  "incident_id" : "2979",
+  "incident_dt" : "2016-02-01T14:06:00"
+}
+, {
+  "incident_id" : "2980",
+  "incident_dt" : "2016-02-01T06:20:00"
+}
+, {
+  "incident_id" : "2984",
+  "incident_dt" : "2016-02-01T10:40:00"
+}
+, {
+  "incident_id" : "2986",
+  "incident_dt" : "2016-02-01T14:55:00"
+}
+, {
+  "incident_id" : "2988",
+  "incident_dt" : "2016-02-01T14:30:00"
+}
+, {
+  "incident_id" : "2989",
+  "incident_dt" : "2016-02-02T05:40:00"
+}
+, {
+  "incident_id" : "2990",
+  "incident_dt" : "2016-02-02T09:45:00"
+}
+, {
+  "incident_id" : "2991",
+  "incident_dt" : "2016-02-01T11:35:00"
+}
+, {
+  "incident_id" : "2992",
+  "incident_dt" : "2016-02-02T08:45:00"
+}
+, {
+  "incident_id" : "2993",
+  "incident_dt" : "2016-02-02T14:55:00"
+}
+, {
+  "incident_id" : "2994",
+  "incident_dt" : "2016-02-02T08:43:00"
+}
+, {
+  "incident_id" : "2995",
+  "incident_dt" : "2016-02-02T15:30:00"
+}
+, {
+  "incident_id" : "2996",
+  "incident_dt" : "2016-02-02T18:55:00"
+}
+, {
+  "incident_id" : "2997",
+  "incident_dt" : "2016-02-02T16:55:00"
+}
+, {
+  "incident_id" : "2998",
+  "incident_dt" : "2016-02-02T20:30:00"
+}
+, {
+  "incident_id" : "2999",
+  "incident_dt" : "2016-02-02T10:50:00"
+}
+, {
+  "incident_id" : "3000",
+  "incident_dt" : "2016-02-02T08:45:00"
+}
+, {
+  "incident_id" : "3001",
+  "incident_dt" : "2016-02-02T11:54:00"
+}
+, {
+  "incident_id" : "3003",
+  "incident_dt" : "2016-02-03T19:10:00"
+}
+, {
+  "incident_id" : "3005",
+  "incident_dt" : "2016-02-03T15:45:00"
+}
+, {
+  "incident_id" : "3006",
+  "incident_dt" : "2016-02-03T13:30:00"
+}
+, {
+  "incident_id" : "3007",
+  "incident_dt" : "2016-02-03T13:31:00"
+}
+, {
+  "incident_id" : "3008",
+  "incident_dt" : "2016-02-03T11:15:00"
+}
+, {
+  "incident_id" : "3009",
+  "incident_dt" : "2016-02-03T08:00:00"
+}
+, {
+  "incident_id" : "3010",
+  "incident_dt" : "2016-02-02T16:40:00"
+}
+, {
+  "incident_id" : "3011",
+  "incident_dt" : "2016-02-03T17:23:00"
+}
+, {
+  "incident_id" : "3012",
+  "incident_dt" : "2016-02-03T12:10:00"
+}
+, {
+  "incident_id" : "3013",
+  "incident_dt" : "2016-02-03T12:50:00"
+}
+, {
+  "incident_id" : "3014",
+  "incident_dt" : "2016-02-02T05:55:00"
+}
+, {
+  "incident_id" : "3015",
+  "incident_dt" : "2016-02-03T18:03:00"
+}
+, {
+  "incident_id" : "3016",
+  "incident_dt" : "2016-02-04T09:15:00"
+}
+, {
+  "incident_id" : "3017",
+  "incident_dt" : "2016-02-04T12:25:00"
+}
+, {
+  "incident_id" : "3018",
+  "incident_dt" : "2016-02-04T00:15:00"
+}
+, {
+  "incident_id" : "3019",
+  "incident_dt" : "2016-02-04T20:20:00"
+}
+, {
+  "incident_id" : "3020",
+  "incident_dt" : "2016-02-04T05:20:00"
+}
+, {
+  "incident_id" : "3021",
+  "incident_dt" : "2016-02-04T10:00:00"
+}
+, {
+  "incident_id" : "3022",
+  "incident_dt" : "2016-02-04T16:50:00"
+}
+, {
+  "incident_id" : "3023",
+  "incident_dt" : "2016-02-04T15:00:00"
+}
+, {
+  "incident_id" : "3024",
+  "incident_dt" : "2016-02-04T09:55:00"
+}
+, {
+  "incident_id" : "3025",
+  "incident_dt" : "2016-02-03T15:20:00"
+}
+, {
+  "incident_id" : "3026",
+  "incident_dt" : "2016-02-04T05:15:00"
+}
+, {
+  "incident_id" : "3027",
+  "incident_dt" : "2016-02-05T14:55:00"
+}
+, {
+  "incident_id" : "3028",
+  "incident_dt" : "2016-02-05T13:00:00"
+}
+, {
+  "incident_id" : "3029",
+  "incident_dt" : "2016-02-05T14:30:00"
+}
+, {
+  "incident_id" : "3030",
+  "incident_dt" : "2016-02-03T13:15:00"
+}
+, {
+  "incident_id" : "3031",
+  "incident_dt" : "2016-02-05T06:20:00"
+}
+, {
+  "incident_id" : "3032",
+  "incident_dt" : "2016-02-07T05:30:00"
+}
+, {
+  "incident_id" : "3033",
+  "incident_dt" : "2016-02-05T10:20:00"
+}
+, {
+  "incident_id" : "3034",
+  "incident_dt" : "2016-02-06T17:09:00"
+}
+, {
+  "incident_id" : "3035",
+  "incident_dt" : "2016-02-06T20:18:00"
+}
+, {
+  "incident_id" : "3036",
+  "incident_dt" : "2016-02-06T22:40:00"
+}
+, {
+  "incident_id" : "3037",
+  "incident_dt" : "2016-02-07T00:01:00"
+}
+, {
+  "incident_id" : "3038",
+  "incident_dt" : "2016-02-07T18:40:00"
+}
+, {
+  "incident_id" : "3039",
+  "incident_dt" : "2016-02-05T06:30:00"
+}
+, {
+  "incident_id" : "3040",
+  "incident_dt" : "2016-02-06T12:33:00"
+}
+, {
+  "incident_id" : "3041",
+  "incident_dt" : "2016-02-05T11:45:00"
+}
+, {
+  "incident_id" : "3042",
+  "incident_dt" : "2016-02-05T12:20:00"
+}
+, {
+  "incident_id" : "3043",
+  "incident_dt" : "2016-02-06T05:40:00"
+}
+, {
+  "incident_id" : "3044",
+  "incident_dt" : "2016-02-05T08:05:00"
+}
+, {
+  "incident_id" : "3045",
+  "incident_dt" : "2016-02-05T19:20:00"
+}
+, {
+  "incident_id" : "3046",
+  "incident_dt" : "2016-02-05T10:10:00"
+}
+, {
+  "incident_id" : "3047",
+  "incident_dt" : "2016-02-05T13:50:00"
+}
+, {
+  "incident_id" : "3048",
+  "incident_dt" : "2016-02-05T19:45:00"
+}
+, {
+  "incident_id" : "3049",
+  "incident_dt" : "2016-02-07T10:37:00"
+}
+, {
+  "incident_id" : "3050",
+  "incident_dt" : "2016-02-05T20:59:00"
+}
+, {
+  "incident_id" : "3051",
+  "incident_dt" : "2016-02-05T15:16:00"
+}
+, {
+  "incident_id" : "3052",
+  "incident_dt" : "2016-02-06T05:00:00"
+}
+, {
+  "incident_id" : "3053",
+  "incident_dt" : "2016-02-07T20:45:00"
+}
+, {
+  "incident_id" : "3054",
+  "incident_dt" : "2016-02-06T10:53:00"
+}
+, {
+  "incident_id" : "3055",
+  "incident_dt" : "2016-02-05T17:50:00"
+}
+, {
+  "incident_id" : "3056",
+  "incident_dt" : "2016-02-06T20:30:00"
+}
+, {
+  "incident_id" : "3057",
+  "incident_dt" : "2016-02-06T21:06:00"
+}
+, {
+  "incident_id" : "3058",
+  "incident_dt" : "2016-02-07T11:25:00"
+}
+, {
+  "incident_id" : "3059",
+  "incident_dt" : "2016-02-07T13:01:00"
+}
+, {
+  "incident_id" : "3060",
+  "incident_dt" : "2016-02-02T20:40:00"
+}
+, {
+  "incident_id" : "3061",
+  "incident_dt" : "2016-02-03T19:30:00"
+}
+, {
+  "incident_id" : "3062",
+  "incident_dt" : "2016-02-05T10:00:00"
+}
+, {
+  "incident_id" : "3063",
+  "incident_dt" : "2016-02-07T16:25:00"
+}
+, {
+  "incident_id" : "3064",
+  "incident_dt" : "2016-02-08T21:45:00"
+}
+, {
+  "incident_id" : "3065",
+  "incident_dt" : "2016-02-08T22:40:00"
+}
+, {
+  "incident_id" : "3066",
+  "incident_dt" : "2016-02-08T20:30:00"
+}
+, {
+  "incident_id" : "3067",
+  "incident_dt" : "2016-02-08T19:50:00"
+}
+, {
+  "incident_id" : "3068",
+  "incident_dt" : "2016-02-08T17:00:00"
+}
+, {
+  "incident_id" : "3069",
+  "incident_dt" : "2016-02-08T05:20:00"
+}
+, {
+  "incident_id" : "3070",
+  "incident_dt" : "2016-02-08T11:50:00"
+}
+, {
+  "incident_id" : "3071",
+  "incident_dt" : "2016-02-05T09:25:00"
+}
+, {
+  "incident_id" : "3072",
+  "incident_dt" : "2016-02-08T21:10:00"
+}
+, {
+  "incident_id" : "3073",
+  "incident_dt" : "2016-02-08T11:20:00"
+}
+, {
+  "incident_id" : "3075",
+  "incident_dt" : "2016-02-08T12:57:00"
+}
+, {
+  "incident_id" : "3076",
+  "incident_dt" : "2016-02-08T18:20:00"
+}
+, {
+  "incident_id" : "3077",
+  "incident_dt" : "2016-02-08T00:11:00"
+}
+, {
+  "incident_id" : "3081",
+  "incident_dt" : "2016-02-08T00:50:00"
+}
+, {
+  "incident_id" : "3082",
+  "incident_dt" : "2016-02-08T20:10:00"
+}
+, {
+  "incident_id" : "3087",
+  "incident_dt" : "2016-02-09T07:05:00"
+}
+, {
+  "incident_id" : "3088",
+  "incident_dt" : "2016-02-09T09:50:00"
+}
+, {
+  "incident_id" : "3089",
+  "incident_dt" : "2016-02-09T10:10:00"
+}
+, {
+  "incident_id" : "3090",
+  "incident_dt" : "2016-02-09T13:49:00"
+}
+, {
+  "incident_id" : "3092",
+  "incident_dt" : "2016-02-09T06:33:00"
+}
+, {
+  "incident_id" : "3093",
+  "incident_dt" : "2016-02-09T22:30:00"
+}
+, {
+  "incident_id" : "3094",
+  "incident_dt" : "2016-02-09T16:55:00"
+}
+, {
+  "incident_id" : "3095",
+  "incident_dt" : "2016-02-09T15:55:00"
+}
+, {
+  "incident_id" : "3096",
+  "incident_dt" : "2016-02-09T16:57:00"
+}
+, {
+  "incident_id" : "3097",
+  "incident_dt" : "2016-02-09T15:43:00"
+}
+, {
+  "incident_id" : "3098",
+  "incident_dt" : "2016-02-09T12:30:00"
+}
+, {
+  "incident_id" : "3099",
+  "incident_dt" : "2016-02-09T19:00:00"
+}
+, {
+  "incident_id" : "3100",
+  "incident_dt" : "2016-02-09T23:45:00"
+}
+, {
+  "incident_id" : "3102",
+  "incident_dt" : "2016-02-09T15:00:00"
+}
+, {
+  "incident_id" : "3103",
+  "incident_dt" : "2016-02-09T23:25:00"
+}
+, {
+  "incident_id" : "3120",
+  "incident_dt" : "2016-02-09T18:20:00"
+}
+, {
+  "incident_id" : "3125",
+  "incident_dt" : "2016-02-10T19:45:00"
+}
+, {
+  "incident_id" : "3126",
+  "incident_dt" : "2016-02-10T02:30:00"
+}
+, {
+  "incident_id" : "3131",
+  "incident_dt" : "2016-02-10T06:20:00"
+}
+, {
+  "incident_id" : "3133",
+  "incident_dt" : "2016-02-10T08:45:00"
+}
+, {
+  "incident_id" : "3135",
+  "incident_dt" : "2016-02-10T19:30:00"
+}
+, {
+  "incident_id" : "3137",
+  "incident_dt" : "2016-02-10T21:30:00"
+}
+, {
+  "incident_id" : "3138",
+  "incident_dt" : "2016-02-10T06:00:00"
+}
+, {
+  "incident_id" : "3140",
+  "incident_dt" : "2016-02-10T09:20:00"
+}
+, {
+  "incident_id" : "3141",
+  "incident_dt" : "2016-02-10T17:45:00"
+}
+, {
+  "incident_id" : "3144",
+  "incident_dt" : "2016-02-10T20:03:00"
+}
+, {
+  "incident_id" : "3147",
+  "incident_dt" : "2016-02-10T23:10:00"
+}
+, {
+  "incident_id" : "3148",
+  "incident_dt" : "2016-02-10T16:25:00"
+}
+, {
+  "incident_id" : "3149",
+  "incident_dt" : "2016-02-10T12:40:00"
+}
+, {
+  "incident_id" : "3150",
+  "incident_dt" : "2016-02-11T04:45:00"
+}
+, {
+  "incident_id" : "3154",
+  "incident_dt" : "2016-02-11T05:15:00"
+}
+, {
+  "incident_id" : "3155",
+  "incident_dt" : "2016-02-11T18:20:00"
+}
+, {
+  "incident_id" : "3156",
+  "incident_dt" : "2016-02-11T12:05:00"
+}
+, {
+  "incident_id" : "3157",
+  "incident_dt" : "2016-02-11T05:15:00"
+}
+, {
+  "incident_id" : "3158",
+  "incident_dt" : "2016-02-11T08:10:00"
+}
+, {
+  "incident_id" : "3159",
+  "incident_dt" : "2016-02-11T11:10:00"
+}
+, {
+  "incident_id" : "3160",
+  "incident_dt" : "2016-02-11T07:35:00"
+}
+, {
+  "incident_id" : "3161",
+  "incident_dt" : "2016-02-11T19:58:00"
+}
+, {
+  "incident_id" : "3162",
+  "incident_dt" : "2016-02-11T20:20:00"
+}
+, {
+  "incident_id" : "3163",
+  "incident_dt" : "2016-02-11T18:45:00"
+}
+, {
+  "incident_id" : "3164",
+  "incident_dt" : "2016-02-10T10:45:00"
+}
+, {
+  "incident_id" : "3165",
+  "incident_dt" : "2016-02-11T17:20:00"
+}
+, {
+  "incident_id" : "3166",
+  "incident_dt" : "2016-02-11T17:50:00"
+}
+, {
+  "incident_id" : "3167",
+  "incident_dt" : "2016-02-11T17:51:00"
+}
+, {
+  "incident_id" : "3168",
+  "incident_dt" : "2016-02-11T18:50:00"
+}
+, {
+  "incident_id" : "3176",
+  "incident_dt" : "2016-02-13T18:51:00"
+}
+, {
+  "incident_id" : "3177",
+  "incident_dt" : "2016-02-13T23:15:00"
+}
+, {
+  "incident_id" : "3178",
+  "incident_dt" : "2016-02-14T13:16:00"
+}
+, {
+  "incident_id" : "3179",
+  "incident_dt" : "2016-02-14T16:10:00"
+}
+, {
+  "incident_id" : "3180",
+  "incident_dt" : "2016-02-12T16:50:00"
+}
+, {
+  "incident_id" : "3181",
+  "incident_dt" : "2016-02-14T12:20:00"
+}
+, {
+  "incident_id" : "3182",
+  "incident_dt" : "2016-02-11T01:50:00"
+}
+, {
+  "incident_id" : "3183",
+  "incident_dt" : "2016-02-15T11:47:00"
+}
+, {
+  "incident_id" : "3184",
+  "incident_dt" : "2016-02-11T04:05:00"
+}
+, {
+  "incident_id" : "3185",
+  "incident_dt" : "2016-02-11T09:00:00"
+}
+, {
+  "incident_id" : "3186",
+  "incident_dt" : "2016-02-11T16:40:00"
+}
+, {
+  "incident_id" : "3187",
+  "incident_dt" : "2016-02-12T00:40:00"
+}
+, {
+  "incident_id" : "3189",
+  "incident_dt" : "2016-02-12T21:00:00"
+}
+, {
+  "incident_id" : "3190",
+  "incident_dt" : "2016-02-12T03:00:00"
+}
+, {
+  "incident_id" : "3191",
+  "incident_dt" : "2016-02-12T13:45:00"
+}
+, {
+  "incident_id" : "3192",
+  "incident_dt" : "2016-02-14T00:00:00"
+}
+, {
+  "incident_id" : "3193",
+  "incident_dt" : "2016-02-13T00:55:00"
+}
+, {
+  "incident_id" : "3194",
+  "incident_dt" : "2016-02-12T10:55:00"
+}
+, {
+  "incident_id" : "3195",
+  "incident_dt" : "2016-02-13T16:10:00"
+}
+, {
+  "incident_id" : "3196",
+  "incident_dt" : "2016-02-13T18:20:00"
+}
+, {
+  "incident_id" : "3197",
+  "incident_dt" : "2016-02-12T08:15:00"
+}
+, {
+  "incident_id" : "3199",
+  "incident_dt" : "2016-02-12T12:24:00"
+}
+, {
+  "incident_id" : "3200",
+  "incident_dt" : "2016-02-15T13:15:00"
+}
+, {
+  "incident_id" : "3201",
+  "incident_dt" : "2016-02-14T20:00:00"
+}
+, {
+  "incident_id" : "3202",
+  "incident_dt" : "2016-02-15T18:15:00"
+}
+, {
+  "incident_id" : "3203",
+  "incident_dt" : "2016-02-12T09:32:00"
+}
+, {
+  "incident_id" : "3204",
+  "incident_dt" : "2016-02-12T20:50:00"
+}
+, {
+  "incident_id" : "3205",
+  "incident_dt" : "2016-02-14T20:45:00"
+}
+, {
+  "incident_id" : "3206",
+  "incident_dt" : "2016-02-12T10:43:00"
+}
+, {
+  "incident_id" : "3207",
+  "incident_dt" : "2016-02-15T01:40:00"
+}
+, {
+  "incident_id" : "3208",
+  "incident_dt" : "2016-02-12T20:50:00"
+}
+, {
+  "incident_id" : "3209",
+  "incident_dt" : "2016-02-15T09:49:00"
+}
+, {
+  "incident_id" : "3210",
+  "incident_dt" : "2016-02-12T20:55:00"
+}
+, {
+  "incident_id" : "3211",
+  "incident_dt" : "2016-02-15T14:55:00"
+}
+, {
+  "incident_id" : "3212",
+  "incident_dt" : "2016-02-12T19:10:00"
+}
+, {
+  "incident_id" : "3213",
+  "incident_dt" : "2016-02-13T22:05:00"
+}
+, {
+  "incident_id" : "3214",
+  "incident_dt" : "2016-02-15T19:15:00"
+}
+, {
+  "incident_id" : "3215",
+  "incident_dt" : "2016-02-14T19:55:00"
+}
+, {
+  "incident_id" : "3216",
+  "incident_dt" : "2016-02-14T19:15:00"
+}
+, {
+  "incident_id" : "3217",
+  "incident_dt" : "2016-02-13T11:25:00"
+}
+, {
+  "incident_id" : "3218",
+  "incident_dt" : "2016-02-15T10:40:00"
+}
+, {
+  "incident_id" : "3219",
+  "incident_dt" : "2016-02-15T17:20:00"
+}
+, {
+  "incident_id" : "3220",
+  "incident_dt" : "2016-02-13T05:35:00"
+}
+, {
+  "incident_id" : "3221",
+  "incident_dt" : "2016-02-14T18:35:00"
+}
+, {
+  "incident_id" : "3223",
+  "incident_dt" : "2016-02-16T04:50:00"
+}
+, {
+  "incident_id" : "3224",
+  "incident_dt" : "2016-02-14T06:00:00"
+}
+, {
+  "incident_id" : "3225",
+  "incident_dt" : "2016-02-15T02:30:00"
+}
+, {
+  "incident_id" : "3226",
+  "incident_dt" : "2016-02-14T16:40:00"
+}
+, {
+  "incident_id" : "3227",
+  "incident_dt" : "2016-02-16T06:45:00"
+}
+, {
+  "incident_id" : "3228",
+  "incident_dt" : "2016-02-16T17:35:00"
+}
+, {
+  "incident_id" : "3229",
+  "incident_dt" : "2016-02-16T07:40:00"
+}
+, {
+  "incident_id" : "3231",
+  "incident_dt" : "2016-02-16T17:30:00"
+}
+, {
+  "incident_id" : "3232",
+  "incident_dt" : "2016-02-14T13:10:00"
+}
+, {
+  "incident_id" : "3233",
+  "incident_dt" : "2016-02-16T07:20:00"
+}
+, {
+  "incident_id" : "3234",
+  "incident_dt" : "2016-02-16T20:12:00"
+}
+, {
+  "incident_id" : "3236",
+  "incident_dt" : "2016-02-16T19:15:00"
+}
+, {
+  "incident_id" : "3238",
+  "incident_dt" : "2016-02-16T17:15:00"
+}
+, {
+  "incident_id" : "3243",
+  "incident_dt" : "2016-02-16T09:30:00"
+}
+, {
+  "incident_id" : "3244",
+  "incident_dt" : "2016-02-16T12:20:00"
+}
+, {
+  "incident_id" : "3245",
+  "incident_dt" : "2016-02-16T17:40:00"
+}
+, {
+  "incident_id" : "3246",
+  "incident_dt" : "2016-02-16T21:35:00"
+}
+, {
+  "incident_id" : "3247",
+  "incident_dt" : "2016-02-14T10:25:00"
+}
+, {
+  "incident_id" : "3248",
+  "incident_dt" : "2016-02-12T21:10:00"
+}
+, {
+  "incident_id" : "3250",
+  "incident_dt" : "2016-02-14T12:50:00"
+}
+, {
+  "incident_id" : "3252",
+  "incident_dt" : "2016-02-13T09:30:00"
+}
+, {
+  "incident_id" : "3262",
+  "incident_dt" : "2016-02-13T20:00:00"
+}
+, {
+  "incident_id" : "3265",
+  "incident_dt" : "2016-02-15T19:30:00"
+}
+, {
+  "incident_id" : "3266",
+  "incident_dt" : "2016-02-15T19:50:00"
+}
+, {
+  "incident_id" : "3267",
+  "incident_dt" : "2016-02-16T06:00:00"
+}
+, {
+  "incident_id" : "3268",
+  "incident_dt" : "2016-02-16T14:16:00"
+}
+, {
+  "incident_id" : "3269",
+  "incident_dt" : "2016-02-17T20:00:00"
+}
+, {
+  "incident_id" : "3270",
+  "incident_dt" : "2016-02-16T13:25:00"
+}
+, {
+  "incident_id" : "3271",
+  "incident_dt" : "2016-02-17T20:35:00"
+}
+, {
+  "incident_id" : "3272",
+  "incident_dt" : "2016-02-17T22:30:00"
+}
+, {
+  "incident_id" : "3274",
+  "incident_dt" : "2016-02-17T08:20:00"
+}
+, {
+  "incident_id" : "3275",
+  "incident_dt" : "2016-02-17T11:25:00"
+}
+, {
+  "incident_id" : "3276",
+  "incident_dt" : "2016-02-17T20:55:00"
+}
+, {
+  "incident_id" : "3277",
+  "incident_dt" : "2016-02-18T06:00:00"
+}
+, {
+  "incident_id" : "3278",
+  "incident_dt" : "2016-02-18T14:48:00"
+}
+, {
+  "incident_id" : "3279",
+  "incident_dt" : "2016-02-18T21:05:00"
+}
+, {
+  "incident_id" : "3280",
+  "incident_dt" : "2016-02-18T13:20:00"
+}
+, {
+  "incident_id" : "3281",
+  "incident_dt" : "2016-02-18T17:20:00"
+}
+, {
+  "incident_id" : "3282",
+  "incident_dt" : "2016-02-18T09:44:00"
+}
+, {
+  "incident_id" : "3283",
+  "incident_dt" : "2016-02-18T22:15:00"
+}
+, {
+  "incident_id" : "3284",
+  "incident_dt" : "2016-02-18T05:20:00"
+}
+, {
+  "incident_id" : "3286",
+  "incident_dt" : "2016-02-20T09:20:00"
+}
+, {
+  "incident_id" : "3288",
+  "incident_dt" : "2016-02-20T19:20:00"
+}
+, {
+  "incident_id" : "3289",
+  "incident_dt" : "2016-02-21T08:28:00"
+}
+, {
+  "incident_id" : "3290",
+  "incident_dt" : "2016-02-21T17:55:00"
+}
+, {
+  "incident_id" : "3291",
+  "incident_dt" : "2016-02-21T20:45:00"
+}
+, {
+  "incident_id" : "3292",
+  "incident_dt" : "2016-02-21T21:15:00"
+}
+, {
+  "incident_id" : "3293",
+  "incident_dt" : "2016-02-21T13:20:00"
+}
+, {
+  "incident_id" : "3294",
+  "incident_dt" : "2016-02-19T17:45:00"
+}
+, {
+  "incident_id" : "3295",
+  "incident_dt" : "2016-02-19T18:43:00"
+}
+, {
+  "incident_id" : "3296",
+  "incident_dt" : "2016-02-19T19:30:00"
+}
+, {
+  "incident_id" : "3297",
+  "incident_dt" : "2016-02-20T12:40:00"
+}
+, {
+  "incident_id" : "3298",
+  "incident_dt" : "2016-02-20T20:55:00"
+}
+, {
+  "incident_id" : "3299",
+  "incident_dt" : "2016-02-21T12:20:00"
+}
+, {
+  "incident_id" : "3300",
+  "incident_dt" : "2016-02-11T19:00:00"
+}
+, {
+  "incident_id" : "3301",
+  "incident_dt" : "2016-02-21T12:10:00"
+}
+, {
+  "incident_id" : "3302",
+  "incident_dt" : "2016-02-17T10:31:00"
+}
+, {
+  "incident_id" : "3303",
+  "incident_dt" : "2016-02-21T12:25:00"
+}
+, {
+  "incident_id" : "3304",
+  "incident_dt" : "2016-02-19T10:55:00"
+}
+, {
+  "incident_id" : "3305",
+  "incident_dt" : "2016-02-19T10:05:00"
+}
+, {
+  "incident_id" : "3306",
+  "incident_dt" : "2016-02-20T14:20:00"
+}
+, {
+  "incident_id" : "3307",
+  "incident_dt" : "2016-02-19T22:00:00"
+}
+, {
+  "incident_id" : "3308",
+  "incident_dt" : "2016-02-21T06:30:00"
+}
+, {
+  "incident_id" : "3309",
+  "incident_dt" : "2016-02-21T18:30:00"
+}
+, {
+  "incident_id" : "3310",
+  "incident_dt" : "2016-02-20T18:57:00"
+}
+, {
+  "incident_id" : "3311",
+  "incident_dt" : "2016-02-19T17:25:00"
+}
+, {
+  "incident_id" : "3312",
+  "incident_dt" : "2016-02-18T05:54:00"
+}
+, {
+  "incident_id" : "3313",
+  "incident_dt" : "2016-02-22T08:55:00"
+}
+, {
+  "incident_id" : "3314",
+  "incident_dt" : "2016-02-19T11:05:00"
+}
+, {
+  "incident_id" : "3315",
+  "incident_dt" : "2016-02-22T14:50:00"
+}
+, {
+  "incident_id" : "3316",
+  "incident_dt" : "2016-02-12T01:00:00"
+}
+, {
+  "incident_id" : "3317",
+  "incident_dt" : "2016-02-22T20:58:00"
+}
+, {
+  "incident_id" : "3318",
+  "incident_dt" : "2016-02-22T06:50:00"
+}
+, {
+  "incident_id" : "3319",
+  "incident_dt" : "2016-02-20T13:50:00"
+}
+, {
+  "incident_id" : "3320",
+  "incident_dt" : "2016-02-22T16:25:00"
+}
+, {
+  "incident_id" : "3321",
+  "incident_dt" : "2016-02-21T14:05:00"
+}
+, {
+  "incident_id" : "3322",
+  "incident_dt" : "2016-02-21T14:30:00"
+}
+, {
+  "incident_id" : "3323",
+  "incident_dt" : "2016-02-21T09:55:00"
+}
+, {
+  "incident_id" : "3324",
+  "incident_dt" : "2016-02-22T19:10:00"
+}
+, {
+  "incident_id" : "3325",
+  "incident_dt" : "2016-02-22T09:58:00"
+}
+, {
+  "incident_id" : "3326",
+  "incident_dt" : "2016-02-22T20:05:00"
+}
+, {
+  "incident_id" : "3327",
+  "incident_dt" : "2016-02-21T20:25:00"
+}
+, {
+  "incident_id" : "3328",
+  "incident_dt" : "2016-02-22T16:55:00"
+}
+, {
+  "incident_id" : "3329",
+  "incident_dt" : "2016-02-22T20:50:00"
+}
+, {
+  "incident_id" : "3331",
+  "incident_dt" : "2016-02-22T12:45:00"
+}
+, {
+  "incident_id" : "3332",
+  "incident_dt" : "2016-02-22T19:50:00"
+}
+, {
+  "incident_id" : "3333",
+  "incident_dt" : "2016-02-20T19:20:00"
+}
+, {
+  "incident_id" : "3334",
+  "incident_dt" : "2016-02-20T17:15:00"
+}
+, {
+  "incident_id" : "3335",
+  "incident_dt" : "2016-02-18T09:55:00"
+}
+, {
+  "incident_id" : "3336",
+  "incident_dt" : "2016-02-20T16:45:00"
+}
+, {
+  "incident_id" : "3337",
+  "incident_dt" : "2016-02-23T16:00:00"
+}
+, {
+  "incident_id" : "3338",
+  "incident_dt" : "2016-02-22T11:08:00"
+}
+, {
+  "incident_id" : "3339",
+  "incident_dt" : "2016-02-22T07:45:00"
+}
+, {
+  "incident_id" : "3340",
+  "incident_dt" : "2016-02-23T18:15:00"
+}
+, {
+  "incident_id" : "3341",
+  "incident_dt" : "2016-02-23T20:55:00"
+}
+, {
+  "incident_id" : "3342",
+  "incident_dt" : "2016-02-23T23:00:00"
+}
+, {
+  "incident_id" : "3343",
+  "incident_dt" : "2016-02-19T08:40:00"
+}
+, {
+  "incident_id" : "3344",
+  "incident_dt" : "2016-02-23T17:40:00"
+}
+, {
+  "incident_id" : "3345",
+  "incident_dt" : "2016-02-23T13:00:00"
+}
+, {
+  "incident_id" : "3346",
+  "incident_dt" : "2016-02-23T22:05:00"
+}
+, {
+  "incident_id" : "3347",
+  "incident_dt" : "2016-02-23T18:00:00"
+}
+, {
+  "incident_id" : "3348",
+  "incident_dt" : "2016-02-23T16:45:00"
+}
+, {
+  "incident_id" : "3349",
+  "incident_dt" : "2016-02-23T14:40:00"
+}
+, {
+  "incident_id" : "3350",
+  "incident_dt" : "2016-02-20T20:25:00"
+}
+, {
+  "incident_id" : "3351",
+  "incident_dt" : "2016-02-20T18:00:00"
+}
+, {
+  "incident_id" : "3352",
+  "incident_dt" : "2016-02-24T10:25:00"
+}
+, {
+  "incident_id" : "3353",
+  "incident_dt" : "2016-02-24T08:28:00"
+}
+, {
+  "incident_id" : "3354",
+  "incident_dt" : "2016-02-24T11:00:00"
+}
+, {
+  "incident_id" : "3355",
+  "incident_dt" : "2016-02-24T17:25:00"
+}
+, {
+  "incident_id" : "3356",
+  "incident_dt" : "2016-02-24T14:54:00"
+}
+, {
+  "incident_id" : "3357",
+  "incident_dt" : "2016-02-24T10:45:00"
+}
+, {
+  "incident_id" : "3358",
+  "incident_dt" : "2016-02-24T17:15:00"
+}
+, {
+  "incident_id" : "3359",
+  "incident_dt" : "2016-02-24T19:30:00"
+}
+, {
+  "incident_id" : "3360",
+  "incident_dt" : "2016-02-24T11:45:00"
+}
+, {
+  "incident_id" : "3361",
+  "incident_dt" : "2016-02-24T10:55:00"
+}
+, {
+  "incident_id" : "3362",
+  "incident_dt" : "2016-02-24T12:10:00"
+}
+, {
+  "incident_id" : "3363",
+  "incident_dt" : "2016-02-23T09:05:00"
+}
+, {
+  "incident_id" : "3364",
+  "incident_dt" : "2016-02-25T14:50:00"
+}
+, {
+  "incident_id" : "3365",
+  "incident_dt" : "2016-02-25T07:35:00"
+}
+, {
+  "incident_id" : "3366",
+  "incident_dt" : "2016-02-25T10:07:00"
+}
+, {
+  "incident_id" : "3367",
+  "incident_dt" : "2016-02-25T20:50:00"
+}
+, {
+  "incident_id" : "3368",
+  "incident_dt" : "2016-02-25T23:31:00"
+}
+, {
+  "incident_id" : "3369",
+  "incident_dt" : "2016-02-25T08:08:00"
+}
+, {
+  "incident_id" : "3370",
+  "incident_dt" : "2016-02-25T20:30:00"
+}
+, {
+  "incident_id" : "3371",
+  "incident_dt" : "2016-02-25T15:00:00"
+}
+, {
+  "incident_id" : "3372",
+  "incident_dt" : "2016-02-25T05:25:00"
+}
+, {
+  "incident_id" : "3373",
+  "incident_dt" : "2016-02-25T12:50:00"
+}
+, {
+  "incident_id" : "3374",
+  "incident_dt" : "2016-02-25T19:25:00"
+}
+, {
+  "incident_id" : "3375",
+  "incident_dt" : "2016-02-25T10:28:00"
+}
+, {
+  "incident_id" : "3376",
+  "incident_dt" : "2016-02-24T13:55:00"
+}
+, {
+  "incident_id" : "3377",
+  "incident_dt" : "2016-02-25T05:30:00"
+}
+, {
+  "incident_id" : "3378",
+  "incident_dt" : "2016-02-25T13:55:00"
+}
+, {
+  "incident_id" : "3379",
+  "incident_dt" : "2016-02-25T14:25:00"
+}
+, {
+  "incident_id" : "3380",
+  "incident_dt" : "2016-02-25T21:00:00"
+}
+, {
+  "incident_id" : "3381",
+  "incident_dt" : "2016-02-25T18:05:00"
+}
+, {
+  "incident_id" : "3382",
+  "incident_dt" : "2016-02-23T11:46:00"
+}
+, {
+  "incident_id" : "3383",
+  "incident_dt" : "2016-02-19T19:46:00"
+}
+, {
+  "incident_id" : "3384",
+  "incident_dt" : "2016-02-20T09:13:00"
+}
+, {
+  "incident_id" : "3385",
+  "incident_dt" : "2016-02-27T06:18:00"
+}
+, {
+  "incident_id" : "3386",
+  "incident_dt" : "2016-02-26T11:45:00"
+}
+, {
+  "incident_id" : "3387",
+  "incident_dt" : "2016-02-28T15:28:00"
+}
+, {
+  "incident_id" : "3388",
+  "incident_dt" : "2016-02-27T00:00:00"
+}
+, {
+  "incident_id" : "3389",
+  "incident_dt" : "2016-02-28T08:35:00"
+}
+, {
+  "incident_id" : "3390",
+  "incident_dt" : "2016-02-26T06:05:00"
+}
+, {
+  "incident_id" : "3391",
+  "incident_dt" : "2016-02-26T08:23:00"
+}
+, {
+  "incident_id" : "3392",
+  "incident_dt" : "2016-02-26T08:10:00"
+}
+, {
+  "incident_id" : "3393",
+  "incident_dt" : "2016-02-26T09:30:00"
+}
+, {
+  "incident_id" : "3394",
+  "incident_dt" : "2016-02-26T21:20:00"
+}
+, {
+  "incident_id" : "3395",
+  "incident_dt" : "2016-02-26T20:35:00"
+}
+, {
+  "incident_id" : "3396",
+  "incident_dt" : "2016-02-26T12:05:00"
+}
+, {
+  "incident_id" : "3397",
+  "incident_dt" : "2016-02-26T18:26:00"
+}
+, {
+  "incident_id" : "3398",
+  "incident_dt" : "2016-02-27T14:30:00"
+}
+, {
+  "incident_id" : "3399",
+  "incident_dt" : "2016-02-27T20:30:00"
+}
+, {
+  "incident_id" : "3400",
+  "incident_dt" : "2016-02-28T09:45:00"
+}
+, {
+  "incident_id" : "3401",
+  "incident_dt" : "2016-02-26T20:00:00"
+}
+, {
+  "incident_id" : "3402",
+  "incident_dt" : "2016-02-27T10:58:00"
+}
+, {
+  "incident_id" : "3403",
+  "incident_dt" : "2016-02-28T11:00:00"
+}
+, {
+  "incident_id" : "3404",
+  "incident_dt" : "2016-02-28T12:20:00"
+}
+, {
+  "incident_id" : "3405",
+  "incident_dt" : "2016-02-26T05:00:00"
+}
+, {
+  "incident_id" : "3406",
+  "incident_dt" : "2016-02-27T20:10:00"
+}
+, {
+  "incident_id" : "3407",
+  "incident_dt" : "2016-02-28T13:15:00"
+}
+, {
+  "incident_id" : "3408",
+  "incident_dt" : "2016-02-26T05:40:00"
+}
+, {
+  "incident_id" : "3409",
+  "incident_dt" : "2016-02-27T12:15:00"
+}
+, {
+  "incident_id" : "3410",
+  "incident_dt" : "2016-02-28T20:45:00"
+}
+, {
+  "incident_id" : "3411",
+  "incident_dt" : "2016-02-28T08:58:00"
+}
+, {
+  "incident_id" : "3412",
+  "incident_dt" : "2016-02-28T13:15:00"
+}
+, {
+  "incident_id" : "3413",
+  "incident_dt" : "2016-02-27T05:15:00"
+}
+, {
+  "incident_id" : "3414",
+  "incident_dt" : "2016-02-27T00:01:00"
+}
+, {
+  "incident_id" : "3415",
+  "incident_dt" : "2016-02-26T10:25:00"
+}
+, {
+  "incident_id" : "3416",
+  "incident_dt" : "2016-02-26T18:30:00"
+}
+, {
+  "incident_id" : "3417",
+  "incident_dt" : "2016-02-28T19:00:00"
+}
+, {
+  "incident_id" : "3418",
+  "incident_dt" : "2016-02-28T19:00:00"
+}
+, {
+  "incident_id" : "3419",
+  "incident_dt" : "2016-02-26T09:30:00"
+}
+, {
+  "incident_id" : "3420",
+  "incident_dt" : "2016-02-26T14:50:00"
+}
+, {
+  "incident_id" : "3421",
+  "incident_dt" : "2016-02-27T11:15:00"
+}
+, {
+  "incident_id" : "3422",
+  "incident_dt" : "2016-02-29T17:30:00"
+}
+, {
+  "incident_id" : "3423",
+  "incident_dt" : "2016-02-29T20:50:00"
+}
+, {
+  "incident_id" : "3424",
+  "incident_dt" : "2016-02-29T15:02:00"
+}
+, {
+  "incident_id" : "3425",
+  "incident_dt" : "2016-02-27T18:40:00"
+}
+, {
+  "incident_id" : "3426",
+  "incident_dt" : "2016-02-29T05:10:00"
+}
+, {
+  "incident_id" : "3427",
+  "incident_dt" : "2016-02-27T16:00:00"
+}
+, {
+  "incident_id" : "3428",
+  "incident_dt" : "2016-02-18T12:25:00"
+}
+, {
+  "incident_id" : "3429",
+  "incident_dt" : "2016-02-29T19:55:00"
+}
+, {
+  "incident_id" : "3430",
+  "incident_dt" : "2016-02-29T23:30:00"
+}
+, {
+  "incident_id" : "3431",
+  "incident_dt" : "2016-02-29T20:00:00"
+}
+, {
+  "incident_id" : "3432",
+  "incident_dt" : "2016-02-29T04:30:00"
+}
+, {
+  "incident_id" : "3433",
+  "incident_dt" : "2016-02-29T10:15:00"
+}
+, {
+  "incident_id" : "3434",
+  "incident_dt" : "2016-02-26T09:25:00"
+}
+, {
+  "incident_id" : "3486",
+  "incident_dt" : "2016-02-29T12:40:00"
+}
+, {
+  "incident_id" : "3531",
+  "incident_dt" : "2016-02-21T17:55:00"
+}
+, {
+  "incident_id" : "3560",
+  "incident_dt" : "2016-02-12T23:05:00"
+}
+, {
+  "incident_id" : "3561",
+  "incident_dt" : "2016-02-13T16:16:00"
+}
+, {
+  "incident_id" : "3562",
+  "incident_dt" : "2016-02-13T20:55:00"
+}
+, {
+  "incident_id" : "3563",
+  "incident_dt" : "2016-02-14T19:25:00"
+}
+, {
+  "incident_id" : "3564",
+  "incident_dt" : "2016-02-14T19:46:00"
+}
+, {
+  "incident_id" : "3565",
+  "incident_dt" : "2016-02-15T06:55:00"
+}
+, {
+  "incident_id" : "3566",
+  "incident_dt" : "2016-02-16T10:15:00"
+}
+, {
+  "incident_id" : "3567",
+  "incident_dt" : "2016-02-29T11:17:00"
+}
+, {
+  "incident_id" : "3568",
+  "incident_dt" : "2016-02-15T17:30:00"
+}
+, {
+  "incident_id" : "3569",
+  "incident_dt" : "2016-02-26T13:20:00"
+}
+, {
+  "incident_id" : "3570",
+  "incident_dt" : "2016-02-27T06:50:00"
+}
+, {
+  "incident_id" : "3571",
+  "incident_dt" : "2016-02-16T15:20:00"
+}
+, {
+  "incident_id" : "3572",
+  "incident_dt" : "2016-02-26T11:20:00"
+}
+, {
+  "incident_id" : "3573",
+  "incident_dt" : "2016-02-18T10:15:00"
+}
+, {
+  "incident_id" : "3574",
+  "incident_dt" : "2016-02-24T10:21:00"
+}
+, {
+  "incident_id" : "3575",
+  "incident_dt" : "2016-02-24T10:20:00"
+}
+, {
+  "incident_id" : "3576",
+  "incident_dt" : "2016-02-23T19:18:00"
+}
+, {
+  "incident_id" : "3578",
+  "incident_dt" : "2016-02-22T06:30:00"
+}
+, {
+  "incident_id" : "3579",
+  "incident_dt" : "2016-02-22T21:23:00"
+}
+, {
+  "incident_id" : "3580",
+  "incident_dt" : "2016-02-23T21:23:00"
+}
+, {
+  "incident_id" : "3581",
+  "incident_dt" : "2016-02-20T16:08:00"
+}
+, {
+  "incident_id" : "3582",
+  "incident_dt" : "2016-02-19T06:00:00"
+}
+, {
+  "incident_id" : "3583",
+  "incident_dt" : "2016-02-19T16:16:00"
+}
+, {
+  "incident_id" : "3584",
+  "incident_dt" : "2016-02-21T13:08:00"
+}
+, {
+  "incident_id" : "3904",
+  "incident_dt" : "2016-04-01T05:20:00"
+}
+, {
+  "incident_id" : "3908",
+  "incident_dt" : "2016-04-02T19:25:00"
+}
+, {
+  "incident_id" : "3910",
+  "incident_dt" : "2016-04-01T10:50:00"
+}
+, {
+  "incident_id" : "3911",
+  "incident_dt" : "2016-04-01T14:30:00"
+}
+, {
+  "incident_id" : "3912",
+  "incident_dt" : "2016-04-01T16:45:00"
+}
+, {
+  "incident_id" : "3914",
+  "incident_dt" : "2016-04-01T22:00:00"
+}
+, {
+  "incident_id" : "3915",
+  "incident_dt" : "2016-04-01T20:45:00"
+}
+, {
+  "incident_id" : "3916",
+  "incident_dt" : "2016-04-03T10:35:00"
+}
+, {
+  "incident_id" : "3917",
+  "incident_dt" : "2016-04-02T18:00:00"
+}
+, {
+  "incident_id" : "3918",
+  "incident_dt" : "2016-04-03T10:40:00"
+}
+, {
+  "incident_id" : "3919",
+  "incident_dt" : "2016-04-02T00:30:00"
+}
+, {
+  "incident_id" : "3920",
+  "incident_dt" : "2016-04-03T11:50:00"
+}
+, {
+  "incident_id" : "3921",
+  "incident_dt" : "2016-04-03T11:00:00"
+}
+, {
+  "incident_id" : "3922",
+  "incident_dt" : "2016-04-02T20:14:00"
+}
+, {
+  "incident_id" : "3923",
+  "incident_dt" : "2016-04-03T12:25:00"
+}
+, {
+  "incident_id" : "3924",
+  "incident_dt" : "2016-04-03T10:46:00"
+}
+, {
+  "incident_id" : "3925",
+  "incident_dt" : "2016-04-03T15:18:00"
+}
+, {
+  "incident_id" : "3926",
+  "incident_dt" : "2016-04-03T11:05:00"
+}
+, {
+  "incident_id" : "3927",
+  "incident_dt" : "2016-04-02T11:09:00"
+}
+, {
+  "incident_id" : "3928",
+  "incident_dt" : "2016-04-02T04:20:00"
+}
+, {
+  "incident_id" : "3929",
+  "incident_dt" : "2016-04-02T20:40:00"
+}
+, {
+  "incident_id" : "3930",
+  "incident_dt" : "2016-04-02T22:22:00"
+}
+, {
+  "incident_id" : "3931",
+  "incident_dt" : "2016-04-01T09:18:00"
+}
+, {
+  "incident_id" : "3932",
+  "incident_dt" : "2016-04-01T11:51:00"
+}
+, {
+  "incident_id" : "3933",
+  "incident_dt" : "2016-04-01T19:40:00"
+}
+, {
+  "incident_id" : "3934",
+  "incident_dt" : "2016-04-01T19:35:00"
+}
+, {
+  "incident_id" : "3947",
+  "incident_dt" : "2016-04-01T20:55:00"
+}
+, {
+  "incident_id" : "3948",
+  "incident_dt" : "2016-04-04T23:15:00"
+}
+, {
+  "incident_id" : "3949",
+  "incident_dt" : "2016-04-04T17:20:00"
+}
+, {
+  "incident_id" : "3950",
+  "incident_dt" : "2016-04-04T21:00:00"
+}
+, {
+  "incident_id" : "3951",
+  "incident_dt" : "2016-04-01T21:25:00"
+}
+, {
+  "incident_id" : "3952",
+  "incident_dt" : "2016-04-02T13:30:00"
+}
+, {
+  "incident_id" : "3953",
+  "incident_dt" : "2016-04-04T20:00:00"
+}
+, {
+  "incident_id" : "3954",
+  "incident_dt" : "2016-04-02T16:15:00"
+}
+, {
+  "incident_id" : "3955",
+  "incident_dt" : "2016-04-04T08:15:00"
+}
+, {
+  "incident_id" : "3956",
+  "incident_dt" : "2016-04-04T04:52:00"
+}
+, {
+  "incident_id" : "3957",
+  "incident_dt" : "2016-04-03T14:30:00"
+}
+, {
+  "incident_id" : "3958",
+  "incident_dt" : "2016-04-04T10:18:00"
+}
+, {
+  "incident_id" : "3959",
+  "incident_dt" : "2016-04-02T17:00:00"
+}
+, {
+  "incident_id" : "3960",
+  "incident_dt" : "2016-04-03T17:50:00"
+}
+, {
+  "incident_id" : "3961",
+  "incident_dt" : "2016-04-02T11:45:00"
+}
+, {
+  "incident_id" : "3962",
+  "incident_dt" : "2016-04-04T13:40:00"
+}
+, {
+  "incident_id" : "3963",
+  "incident_dt" : "2016-04-04T19:30:00"
+}
+, {
+  "incident_id" : "3964",
+  "incident_dt" : "2016-04-04T11:40:00"
+}
+, {
+  "incident_id" : "3965",
+  "incident_dt" : "2016-04-03T20:35:00"
+}
+, {
+  "incident_id" : "3966",
+  "incident_dt" : "2016-04-04T13:45:00"
+}
+, {
+  "incident_id" : "3971",
+  "incident_dt" : "2016-04-05T04:50:00"
+}
+, {
+  "incident_id" : "3972",
+  "incident_dt" : "2016-04-05T11:25:00"
+}
+, {
+  "incident_id" : "3973",
+  "incident_dt" : "2016-04-05T10:00:00"
+}
+, {
+  "incident_id" : "3974",
+  "incident_dt" : "2016-04-04T20:00:00"
+}
+, {
+  "incident_id" : "3975",
+  "incident_dt" : "2016-04-03T10:00:00"
+}
+, {
+  "incident_id" : "3976",
+  "incident_dt" : "2016-04-05T08:00:00"
+}
+, {
+  "incident_id" : "3977",
+  "incident_dt" : "2016-04-05T11:18:00"
+}
+, {
+  "incident_id" : "3978",
+  "incident_dt" : "2016-04-05T06:50:00"
+}
+, {
+  "incident_id" : "3979",
+  "incident_dt" : "2016-04-05T06:55:00"
+}
+, {
+  "incident_id" : "3980",
+  "incident_dt" : "2016-04-05T16:15:00"
+}
+, {
+  "incident_id" : "3981",
+  "incident_dt" : "2016-04-05T12:40:00"
+}
+, {
+  "incident_id" : "3982",
+  "incident_dt" : "2016-04-05T08:40:00"
+}
+, {
+  "incident_id" : "3983",
+  "incident_dt" : "2016-04-05T10:45:00"
+}
+, {
+  "incident_id" : "3984",
+  "incident_dt" : "2016-04-05T19:00:00"
+}
+, {
+  "incident_id" : "3985",
+  "incident_dt" : "2016-04-05T20:40:00"
+}
+, {
+  "incident_id" : "3986",
+  "incident_dt" : "2016-04-05T21:00:00"
+}
+, {
+  "incident_id" : "3987",
+  "incident_dt" : "2016-04-05T21:00:00"
+}
+, {
+  "incident_id" : "3988",
+  "incident_dt" : "2016-04-06T16:50:00"
+}
+, {
+  "incident_id" : "3989",
+  "incident_dt" : "2016-04-06T18:25:00"
+}
+, {
+  "incident_id" : "3990",
+  "incident_dt" : "2016-04-06T20:30:00"
+}
+, {
+  "incident_id" : "3991",
+  "incident_dt" : "2016-04-01T17:40:00"
+}
+, {
+  "incident_id" : "3992",
+  "incident_dt" : "2016-04-02T08:30:00"
+}
+, {
+  "incident_id" : "3993",
+  "incident_dt" : "2016-04-05T20:30:00"
+}
+, {
+  "incident_id" : "3994",
+  "incident_dt" : "2016-04-06T05:58:00"
+}
+, {
+  "incident_id" : "3995",
+  "incident_dt" : "2016-04-06T16:45:00"
+}
+, {
+  "incident_id" : "3998",
+  "incident_dt" : "2016-04-05T12:00:00"
+}
+, {
+  "incident_id" : "4002",
+  "incident_dt" : "2016-04-03T19:25:00"
+}
+, {
+  "incident_id" : "4003",
+  "incident_dt" : "2016-04-06T17:55:00"
+}
+, {
+  "incident_id" : "4004",
+  "incident_dt" : "2016-04-04T10:06:00"
+}
+, {
+  "incident_id" : "4005",
+  "incident_dt" : "2016-04-04T16:45:00"
+}
+, {
+  "incident_id" : "4006",
+  "incident_dt" : "2016-04-05T10:55:00"
+}
+, {
+  "incident_id" : "4009",
+  "incident_dt" : "2016-04-06T18:45:00"
+}
+, {
+  "incident_id" : "4010",
+  "incident_dt" : "2016-04-06T09:45:00"
+}
+, {
+  "incident_id" : "4011",
+  "incident_dt" : "2016-04-06T10:00:00"
+}
+, {
+  "incident_id" : "4012",
+  "incident_dt" : "2016-04-06T22:00:00"
+}
+, {
+  "incident_id" : "4013",
+  "incident_dt" : "2016-04-06T00:10:00"
+}
+, {
+  "incident_id" : "4015",
+  "incident_dt" : "2016-04-07T12:00:00"
+}
+, {
+  "incident_id" : "4016",
+  "incident_dt" : "2016-04-07T12:25:00"
+}
+, {
+  "incident_id" : "4017",
+  "incident_dt" : "2016-04-07T16:15:00"
+}
+, {
+  "incident_id" : "4018",
+  "incident_dt" : "2016-04-07T12:38:00"
+}
+, {
+  "incident_id" : "4019",
+  "incident_dt" : "2016-04-07T20:25:00"
+}
+, {
+  "incident_id" : "4020",
+  "incident_dt" : "2016-04-08T07:15:00"
+}
+, {
+  "incident_id" : "4021",
+  "incident_dt" : "2016-04-08T16:25:00"
+}
+, {
+  "incident_id" : "4022",
+  "incident_dt" : "2016-04-09T13:15:00"
+}
+, {
+  "incident_id" : "4023",
+  "incident_dt" : "2016-04-10T09:30:00"
+}
+, {
+  "incident_id" : "4024",
+  "incident_dt" : "2016-04-10T18:45:00"
+}
+, {
+  "incident_id" : "4025",
+  "incident_dt" : "2016-04-09T17:00:00"
+}
+, {
+  "incident_id" : "4026",
+  "incident_dt" : "2016-04-08T08:15:00"
+}
+, {
+  "incident_id" : "4027",
+  "incident_dt" : "2016-04-08T08:53:00"
+}
+, {
+  "incident_id" : "4028",
+  "incident_dt" : "2016-04-08T17:26:00"
+}
+, {
+  "incident_id" : "4029",
+  "incident_dt" : "2016-04-09T12:06:00"
+}
+, {
+  "incident_id" : "4030",
+  "incident_dt" : "2016-04-09T17:00:00"
+}
+, {
+  "incident_id" : "4031",
+  "incident_dt" : "2016-04-09T18:56:00"
+}
+, {
+  "incident_id" : "4032",
+  "incident_dt" : "2016-04-10T00:10:00"
+}
+, {
+  "incident_id" : "4033",
+  "incident_dt" : "2016-04-08T14:30:00"
+}
+, {
+  "incident_id" : "4034",
+  "incident_dt" : "2016-04-10T19:10:00"
+}
+, {
+  "incident_id" : "4035",
+  "incident_dt" : "2016-04-10T16:55:00"
+}
+, {
+  "incident_id" : "4036",
+  "incident_dt" : "2016-04-10T05:15:00"
+}
+, {
+  "incident_id" : "4037",
+  "incident_dt" : "2016-04-10T05:25:00"
+}
+, {
+  "incident_id" : "4038",
+  "incident_dt" : "2016-04-10T18:50:00"
+}
+, {
+  "incident_id" : "4039",
+  "incident_dt" : "2016-04-09T19:00:00"
+}
+, {
+  "incident_id" : "4040",
+  "incident_dt" : "2016-04-09T14:55:00"
+}
+, {
+  "incident_id" : "4041",
+  "incident_dt" : "2016-04-08T11:45:00"
+}
+, {
+  "incident_id" : "4042",
+  "incident_dt" : "2016-04-08T23:45:00"
+}
+, {
+  "incident_id" : "4043",
+  "incident_dt" : "2016-04-08T19:45:00"
+}
+, {
+  "incident_id" : "4044",
+  "incident_dt" : "2016-04-07T21:05:00"
+}
+, {
+  "incident_id" : "4045",
+  "incident_dt" : "2016-04-11T17:20:00"
+}
+, {
+  "incident_id" : "4046",
+  "incident_dt" : "2016-04-09T16:50:00"
+}
+, {
+  "incident_id" : "4047",
+  "incident_dt" : "2016-04-10T16:20:00"
+}
+, {
+  "incident_id" : "4048",
+  "incident_dt" : "2016-04-10T21:50:00"
+}
+, {
+  "incident_id" : "4049",
+  "incident_dt" : "2016-04-10T16:00:00"
+}
+, {
+  "incident_id" : "4050",
+  "incident_dt" : "2016-04-06T21:55:00"
+}
+, {
+  "incident_id" : "4051",
+  "incident_dt" : "2016-04-06T23:05:00"
+}
+, {
+  "incident_id" : "4052",
+  "incident_dt" : "2016-04-07T18:30:00"
+}
+, {
+  "incident_id" : "4053",
+  "incident_dt" : "2016-04-11T10:15:00"
+}
+, {
+  "incident_id" : "4054",
+  "incident_dt" : "2016-04-08T07:08:00"
+}
+, {
+  "incident_id" : "4055",
+  "incident_dt" : "2016-04-08T15:35:00"
+}
+, {
+  "incident_id" : "4056",
+  "incident_dt" : "2016-04-08T21:30:00"
+}
+, {
+  "incident_id" : "4057",
+  "incident_dt" : "2016-04-11T21:23:00"
+}
+, {
+  "incident_id" : "4058",
+  "incident_dt" : "2016-04-08T20:10:00"
+}
+, {
+  "incident_id" : "4059",
+  "incident_dt" : "2016-04-11T21:10:00"
+}
+, {
+  "incident_id" : "4060",
+  "incident_dt" : "2016-04-10T00:20:00"
+}
+, {
+  "incident_id" : "4061",
+  "incident_dt" : "2016-04-09T13:30:00"
+}
+, {
+  "incident_id" : "4062",
+  "incident_dt" : "2016-04-09T16:10:00"
+}
+, {
+  "incident_id" : "4063",
+  "incident_dt" : "2016-04-09T08:42:00"
+}
+, {
+  "incident_id" : "4064",
+  "incident_dt" : "2016-04-11T08:40:00"
+}
+, {
+  "incident_id" : "4065",
+  "incident_dt" : "2016-04-09T22:00:00"
+}
+, {
+  "incident_id" : "4066",
+  "incident_dt" : "2016-04-11T20:15:00"
+}
+, {
+  "incident_id" : "4067",
+  "incident_dt" : "2016-04-10T14:30:00"
+}
+, {
+  "incident_id" : "4068",
+  "incident_dt" : "2016-04-11T21:45:00"
+}
+, {
+  "incident_id" : "4069",
+  "incident_dt" : "2016-04-10T21:10:00"
+}
+, {
+  "incident_id" : "4070",
+  "incident_dt" : "2016-04-11T14:50:00"
+}
+, {
+  "incident_id" : "4071",
+  "incident_dt" : "2016-04-11T08:55:00"
+}
+, {
+  "incident_id" : "4072",
+  "incident_dt" : "2016-04-11T18:30:00"
+}
+, {
+  "incident_id" : "4073",
+  "incident_dt" : "2016-04-11T21:00:00"
+}
+, {
+  "incident_id" : "4074",
+  "incident_dt" : "2016-04-11T21:00:00"
+}
+, {
+  "incident_id" : "4075",
+  "incident_dt" : "2016-04-11T23:33:00"
+}
+, {
+  "incident_id" : "4076",
+  "incident_dt" : "2016-04-04T17:30:00"
+}
+, {
+  "incident_id" : "4077",
+  "incident_dt" : "2016-04-12T05:55:00"
+}
+, {
+  "incident_id" : "4078",
+  "incident_dt" : "2016-04-12T10:45:00"
+}
+, {
+  "incident_id" : "4079",
+  "incident_dt" : "2016-04-12T13:35:00"
+}
+, {
+  "incident_id" : "4080",
+  "incident_dt" : "2016-04-11T19:55:00"
+}
+, {
+  "incident_id" : "4081",
+  "incident_dt" : "2016-04-12T12:05:00"
+}
+, {
+  "incident_id" : "4082",
+  "incident_dt" : "2016-04-12T14:30:00"
+}
+, {
+  "incident_id" : "4083",
+  "incident_dt" : "2016-04-11T23:35:00"
+}
+, {
+  "incident_id" : "4084",
+  "incident_dt" : "2016-04-11T20:50:00"
+}
+, {
+  "incident_id" : "4085",
+  "incident_dt" : "2016-04-12T20:45:00"
+}
+, {
+  "incident_id" : "4086",
+  "incident_dt" : "2016-04-12T22:00:00"
+}
+, {
+  "incident_id" : "4087",
+  "incident_dt" : "2016-04-12T11:04:00"
+}
+, {
+  "incident_id" : "4088",
+  "incident_dt" : "2016-04-12T06:15:00"
+}
+, {
+  "incident_id" : "4089",
+  "incident_dt" : "2016-04-13T06:50:00"
+}
+, {
+  "incident_id" : "4090",
+  "incident_dt" : "2016-04-13T11:30:00"
+}
+, {
+  "incident_id" : "4091",
+  "incident_dt" : "2016-04-13T06:55:00"
+}
+, {
+  "incident_id" : "4092",
+  "incident_dt" : "2016-04-13T07:40:00"
+}
+, {
+  "incident_id" : "4093",
+  "incident_dt" : "2016-04-13T09:30:00"
+}
+, {
+  "incident_id" : "4094",
+  "incident_dt" : "2016-04-13T10:50:00"
+}
+, {
+  "incident_id" : "4095",
+  "incident_dt" : "2016-04-12T13:20:00"
+}
+, {
+  "incident_id" : "4096",
+  "incident_dt" : "2016-04-13T06:49:00"
+}
+, {
+  "incident_id" : "4097",
+  "incident_dt" : "2016-04-13T16:40:00"
+}
+, {
+  "incident_id" : "4098",
+  "incident_dt" : "2016-04-13T19:10:00"
+}
+, {
+  "incident_id" : "4099",
+  "incident_dt" : "2016-04-13T17:20:00"
+}
+, {
+  "incident_id" : "4100",
+  "incident_dt" : "2016-04-13T11:30:00"
+}
+, {
+  "incident_id" : "4101",
+  "incident_dt" : "2016-04-02T17:20:00"
+}
+, {
+  "incident_id" : "4102",
+  "incident_dt" : "2016-04-05T23:00:00"
+}
+, {
+  "incident_id" : "4103",
+  "incident_dt" : "2016-04-10T21:30:00"
+}
+, {
+  "incident_id" : "4104",
+  "incident_dt" : "2016-04-12T11:10:00"
+}
+, {
+  "incident_id" : "4105",
+  "incident_dt" : "2016-04-14T19:45:00"
+}
+, {
+  "incident_id" : "4106",
+  "incident_dt" : "2016-04-14T07:43:00"
+}
+, {
+  "incident_id" : "4107",
+  "incident_dt" : "2016-04-14T19:25:00"
+}
+, {
+  "incident_id" : "4108",
+  "incident_dt" : "2016-04-14T08:50:00"
+}
+, {
+  "incident_id" : "4109",
+  "incident_dt" : "2016-04-14T17:30:00"
+}
+, {
+  "incident_id" : "4110",
+  "incident_dt" : "2016-04-14T14:05:00"
+}
+, {
+  "incident_id" : "4111",
+  "incident_dt" : "2016-04-14T11:15:00"
+}
+, {
+  "incident_id" : "4112",
+  "incident_dt" : "2016-04-14T18:10:00"
+}
+, {
+  "incident_id" : "4113",
+  "incident_dt" : "2016-04-13T06:35:00"
+}
+, {
+  "incident_id" : "4114",
+  "incident_dt" : "2016-04-13T11:10:00"
+}
+, {
+  "incident_id" : "4115",
+  "incident_dt" : "2016-04-13T16:47:00"
+}
+, {
+  "incident_id" : "4116",
+  "incident_dt" : "2016-04-13T17:00:00"
+}
+, {
+  "incident_id" : "4118",
+  "incident_dt" : "2016-04-13T18:35:00"
+}
+, {
+  "incident_id" : "4119",
+  "incident_dt" : "2016-04-13T18:30:00"
+}
+, {
+  "incident_id" : "4120",
+  "incident_dt" : "2016-04-13T19:25:00"
+}
+, {
+  "incident_id" : "4121",
+  "incident_dt" : "2016-04-13T19:30:00"
+}
+, {
+  "incident_id" : "4122",
+  "incident_dt" : "2016-04-13T11:46:00"
+}
+, {
+  "incident_id" : "4123",
+  "incident_dt" : "2016-04-13T11:50:00"
+}
+ ]

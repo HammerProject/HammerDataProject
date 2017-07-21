@@ -1,0 +1,1152 @@
+[ {
+  "site_name" : "New York Legal Assistance Group (NYLAG)",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.75347794565972",
+    "human_address" : "{\"address\":\"450 33rd St\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10001\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99864692871675"
+  },
+  "agency" : "New York Legal Assistance Group (NYLAG)",
+  "borough_community" : "Manhattan",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212.613.5000"
+}
+, {
+  "site_name" : "Jewish Board of Family and Children Services (JBFCS)-Genesis",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.756840774582145",
+    "human_address" : "{\"address\":\"594 Manhattan\",\"city\":\"NEW YORK\",\"state\":\"\",\"zip\":\"10018\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99669149981281"
+  },
+  "agency" : "New York Legal Assistance Group (NYLAG)",
+  "borough_community" : "Manhattan",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "212.613.5098"
+}
+, {
+  "site_name" : "Jewish Board of Family and Children Services -  Domestic Violence Coordination and Training",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.859547368357966",
+    "human_address" : "{\"address\":\"750 Astor Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10467\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.86555918636485"
+  },
+  "agency" : "New York Legal Assistance Group (NYLAG)",
+  "borough_community" : "Bronx",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "212.613.5098"
+}
+, {
+  "site_name" : "Jewish Board of Family and Children Services - Horizons",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.70191201682616",
+    "human_address" : "{\"address\":\"060280 Brooklyn\",\"city\":\"NEW YORK\",\"state\":\"\",\"zip\":\"11206\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94237919854112"
+  },
+  "agency" : "New York Legal Assistance Group (NYLAG)",
+  "borough_community" : "Brooklyn",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "212.613.5098"
+}
+, {
+  "site_name" : "Edith and Carl Marks Jewish Community House of Bensonhurst",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.606424326705934",
+    "human_address" : "{\"address\":\"7802 Bay Parkway\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11214\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98919274272059"
+  },
+  "agency" : "New York Legal Assistance Group (NYLAG)",
+  "borough_community" : "Brooklyn",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212.613.5000"
+}
+, {
+  "site_name" : "Jewish Board of Family and Children Services  - Transition Center",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.600614338480966",
+    "human_address" : "{\"address\":\"629 Far\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11691\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.76256777468302"
+  },
+  "agency" : "New York Legal Assistance Group (NYLAG)",
+  "borough_community" : "Queens",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "212.613.5098"
+}
+, {
+  "site_name" : "CONNECT",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.74552271604756",
+    "human_address" : "{\"address\":\"3 29th Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10001\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.987242979944"
+  },
+  "agency" : "Safe Space",
+  "borough_community" : "Manhattan",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212.206.3440 ext. 237"
+}
+, {
+  "site_name" : "The Child Center of NY ? WIA Office",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.71311535449007",
+    "human_address" : "{\"address\":\"163 18 Jamaica Av\",\"city\":\"Jamaica\",\"state\":\"NEW YORK\",\"zip\":\"11432\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79282099978928"
+  },
+  "agency" : "Safe Space",
+  "borough_community" : "Jamaica",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212.206.3440 ext. 237"
+}
+, {
+  "site_name" : "Safe Space - Family Resource Center (Jamaica)",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.71311535449007",
+    "human_address" : "{\"address\":\"90 25 161st Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11432\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79282099978928"
+  },
+  "agency" : "Safe Space",
+  "borough_community" : "Queens",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718.785.9062"
+}
+, {
+  "site_name" : "Sanctuary for Families",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.70545300025583",
+    "human_address" : "{\"address\":\"1406 Wall Street Station\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10268\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00695600011926"
+  },
+  "agency" : "Sanctuary for Families",
+  "borough_community" : "Manhattan",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212.349.6009          "
+}
+, {
+  "site_name" : "Sanctuary for Families, Inc. (Manhattan) ",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "agency" : "Sanctuary for Families, Inc.",
+  "borough_community" : "Manhattan,Bronx,Queens,Staten Island, Brooklyn",
+  "program" : "Legal Services",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212.349.6009           ext. 264"
+}
+, {
+  "site_name" : "Family Justice Centers in Queens and Brooklyn ",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "agency" : "Sanctuary for Families, Inc.",
+  "borough_community" : "Manhattan,Bronx,Queens,Staten Island, Brooklyn",
+  "program" : "Legal Services",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212.349.6009           ext. 264"
+}
+, {
+  "site_name" : "Shorefront Y                                                                                                                                                                                                                                                   ",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.575793969703795",
+    "human_address" : "{\"address\":\"3300 Coney Island Av\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11235\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95950745079742"
+  },
+  "agency" : "New York Legal Assistance Group (NYLAG)",
+  "borough_community" : "Brooklyn",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "212.613.5000"
+}
+, {
+  "site_name" : "Shorefront YM-YWHA                                                                                                                                                                                                                                                   ",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.575793969703795",
+    "human_address" : "{\"address\":\"3300 Coney Island Av\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11235\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95950745079742"
+  },
+  "agency" : "New York Legal Assistance Group (NYLAG)",
+  "borough_community" : "Brooklyn",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718-646-1444"
+}
+, {
+  "site_name" : "Kensington Self-Help ",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.64409707953028",
+    "human_address" : "{\"address\":\"419 Church Ave\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11218\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.97640972645803"
+  },
+  "agency" : "New York Legal Assistance Group (NYLAG)",
+  "borough_community" : "Brooklyn",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-613-5000"
+}
+, {
+  "site_name" : "Queens Jewish Community Council",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.720707263029794",
+    "human_address" : "{\"address\":\"119 45 Union Turnpike\",\"city\":\"Forest Hills\",\"state\":\"NEW YORK\",\"zip\":\"11375\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.84628429608335"
+  },
+  "agency" : "New York Legal Assistance Group (NYLAG)",
+  "borough_community" : "Forest Hills",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-613-5000"
+}
+, {
+  "site_name" : "Mercy Center",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.81385583017525",
+    "human_address" : "{\"address\":\"377 145th St\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10454\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92035529273"
+  },
+  "agency" : "New York Legal Assistance Group (NYLAG)",
+  "borough_community" : "Bronx",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-613-5000"
+}
+, {
+  "site_name" : "Bronx Neighborhood Office, Legal Aid Society",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.82138697876596",
+    "human_address" : "{\"address\":\"953 Southern Blvd\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10459\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89168233735057"
+  },
+  "agency" : "The Legal Aid Society",
+  "borough_community" : "Bronx",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "718.991.4758"
+}
+, {
+  "site_name" : "Brooklyn Neighborhood Office, Legal Aid Society ",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.69109687573092",
+    "human_address" : "{\"address\":\"111 Livingston St\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98955322065659"
+  },
+  "agency" : "The Legal Aid Society",
+  "borough_community" : "Brooklyn",
+  "program" : "Domestic Violence Program",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "718.422.2765"
+}
+, {
+  "site_name" : "CAMBA",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.65044686678422",
+    "human_address" : "{\"address\":\"2211 Church Av\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11226\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95854532388019"
+  },
+  "agency" : "CAMBA, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718-940-6311 "
+}
+, {
+  "site_name" : "Catholic Charities Community Service, Archdiocese of N Y",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.7572783324888",
+    "human_address" : "{\"address\":\"1011 First Avenue\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10022\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96371387829234"
+  },
+  "agency" : "Catholic Charities Community Service, Archdiocese of N Y",
+  "borough_community" : "Manhattan",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-419-3700"
+}
+, {
+  "site_name" : "Tolentine -Zeiser Community Life Center/ St, Rita",
+  "program_type" : "Immigration Services,Immigrant Support Services,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.869693003729196",
+    "human_address" : "{\"address\":\"2342 Andrews Av (near Fordham Rd\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10468\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.89892699248668"
+  },
+  "agency" : "Catholic Charities Community Service, Archdiocese of N Y",
+  "borough_community" : "Bronx",
+  "program" : "NDA Immigrants",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "718-365-4360 "
+}
+, {
+  "site_name" : "St.Cecilia's Community Center ",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.79190439287778",
+    "human_address" : "{\"address\":\"125 105th Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10029\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9475075400997"
+  },
+  "agency" : "Catholic Charities Community Service, Archdiocese of N Y",
+  "borough_community" : "Manhattan",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-348-0488"
+}
+, {
+  "site_name" : "Washington Heights Ecumenical Food Pantry (WHEFP)",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.845160338750205",
+    "human_address" : "{\"address\":\"4111 Broadway\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10033\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93878884162382"
+  },
+  "agency" : "Catholic Charities Community Service, Archdiocese of N Y",
+  "borough_community" : "Manhattan",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-419-3700"
+}
+, {
+  "site_name" : "El Centro de Hospitalidad ",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.63589249589933",
+    "human_address" : "{\"address\":\"1546 Castleton Avenue\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10302\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.13449607767508"
+  },
+  "agency" : "Catholic Charities Community Service, Archdiocese of N Y",
+  "borough_community" : "Staten Island",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718-420-6466 646-772-0096"
+}
+, {
+  "site_name" : "Citizens Advice Bureau - Immigration Assistance Center",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.85309059209145",
+    "human_address" : "{\"address\":\"2070 Grand Concourse\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10457\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90280877587541"
+  },
+  "agency" : "Citizens Advice Bureau",
+  "borough_community" : "Bronx",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718- 293-0727"
+}
+, {
+  "site_name" : "Citizens Advice Bureau - Immigration Assistance Center",
+  "program_type" : "Immigration Services,Immigrant Support Services,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.841513488175195",
+    "human_address" : "{\"address\":\"1477 Townsend Ave\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10452\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9156620372896"
+  },
+  "agency" : "Citizens Advice Bureau",
+  "borough_community" : "Bronx",
+  "program" : "NDA Immigrants",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718-365-0910"
+}
+, {
+  "site_name" : "Northern Manhattan Improvement Corporation (NMIC)",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.84705167605878",
+    "human_address" : "{\"address\":\"76 Wadsworth Avenue\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10033\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93704472494271"
+  },
+  "agency" : "Northern Manhattan              Improvement Corporation",
+  "borough_community" : "Manhattan",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-822-8319"
+}
+, {
+  "site_name" : "Chinese Consolidated Benevolent Asociation of New York",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.71607633471377",
+    "human_address" : "{\"address\":\"62 Mott St\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10013\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9981586658295"
+  },
+  "agency" : "Northern Manhattan   Improvement Corporation",
+  "borough_community" : "Manhattan",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-822-8319"
+}
+, {
+  "site_name" : "York College Immigration     Center ? CUNY ",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.70259499975947",
+    "human_address" : "{\"address\":\"20 Guy R Brewer Blvd\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11451\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79562300040112"
+  },
+  "agency" : "Research Foundation of CUNY",
+  "borough_community" : "Queens",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718-262-2983"
+}
+, {
+  "site_name" : "Flushing Immigration Center - CUNY",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.76862022064671",
+    "human_address" : "{\"address\":\"39 07 Prince St\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11354\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82719028070687"
+  },
+  "agency" : "Research Foundation of CUNY",
+  "borough_community" : "Queens",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718-640-9223"
+}
+, {
+  "site_name" : "LaGuardia Community College Immigration Center - CUNY",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"166 Queens\",\"city\":\"NEW YORK\",\"state\":\"\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225"
+  },
+  "agency" : "Research Foundation of CUNY",
+  "borough_community" : "Queens",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718-482-5139"
+}
+, {
+  "site_name" : "Safe Horizon - Immigration Law Project",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "agency" : "Safe Horizon, Inc.",
+  "borough_community" : "Manhattan,Bronx,Queens,Staten Island, Brooklyn",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages"
+}
+, {
+  "site_name" : "Center for Battered Women",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.70545300025583",
+    "human_address" : "{\"address\":\"1406 Wall Street Station\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10268\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00695600011926"
+  },
+  "agency" : "Sanctuary for Families",
+  "borough_community" : "Manhattan",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-349-6009"
+}
+, {
+  "site_name" : "Queens Family Justice Center",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.708286075142325",
+    "human_address" : "{\"address\":\"126 02 82nd Ave\",\"city\":\"Kew Gardens\",\"state\":\"NEW YORK\",\"zip\":\"11415\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82855612156771"
+  },
+  "agency" : "Sanctuary for Families",
+  "borough_community" : "Kew Gardens",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-349-6009 "
+}
+, {
+  "site_name" : "Family Justice Center",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.69351957615995",
+    "human_address" : "{\"address\":\"350 Jay Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98726442001791"
+  },
+  "agency" : "Sanctuary for Families",
+  "borough_community" : "Brooklyn",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-349-6009"
+}
+, {
+  "site_name" : "The Lower Manhattan Neighborhood Office",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.70708573646016",
+    "human_address" : "{\"address\":\"199 Water Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10038\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00463169395886"
+  },
+  "agency" : "The Legal Aid Society",
+  "borough_community" : "Manhattan",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-577-3292 "
+}
+, {
+  "site_name" : "Crown Heights Community Mediation",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.67079925857397",
+    "human_address" : "{\"address\":\"256 Kingston Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11213\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94209318254946"
+  },
+  "agency" : "The Legal Aid Society",
+  "borough_community" : "Brooklyn",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-577-3292 "
+}
+, {
+  "site_name" : "Queens Community House",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.720707263029794",
+    "human_address" : "{\"address\":\"108 25 62nd Drive\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11375\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.84628429608335"
+  },
+  "agency" : "The Legal Aid Society",
+  "borough_community" : "Queens",
+  "program" : "Legal Assistance Program",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-577-3292 "
+}
+, {
+  "site_name" : "The Door",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.72398399739069",
+    "human_address" : "{\"address\":\"121 6th Avenue\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10013\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00464968039944"
+  },
+  "agency" : "The Door - A Center of Alternatives",
+  "borough_community" : "Manhattan",
+  "program" : "Legal Services - Immigrant Youth",
+  "grade_level_age_group" : "5-20",
+  "contact_number" : "212-941-9090 ext. 3280"
+}
+, {
+  "site_name" : "Legal Aid - Juvenile Rights Division",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.70708573646016",
+    "human_address" : "{\"address\":\"199 Water Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10038\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00463169395886"
+  },
+  "agency" : "The Legal Aid Society",
+  "borough_community" : "Manhattan",
+  "program" : "Legal Services - Immigrant Youth",
+  "grade_level_age_group" : "5-20",
+  "contact_number" : "212.577.3328"
+}
+, {
+  "site_name" : "Urban Justice Center at the Hetrick Martin Institute ",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.73004972130843",
+    "human_address" : "{\"address\":\"2 Astor Place\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10003\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99278994498403"
+  },
+  "agency" : "Urban Justice Center",
+  "borough_community" : "Manhattan",
+  "program" : "Legal Services - Immigrant Youth",
+  "grade_level_age_group" : "5-20",
+  "contact_number" : "646.602.5633"
+}
+, {
+  "site_name" : "Urban Justice Center at the Ali Forney Center",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.74739972392154",
+    "human_address" : "{\"address\":\"527 22nd Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10011\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.00552562193494"
+  },
+  "agency" : "Urban Justice Center",
+  "borough_community" : "Manhattan",
+  "program" : "Legal Services - Immigrant Youth",
+  "grade_level_age_group" : "5-20",
+  "contact_number" : "646-602-5633"
+}
+, {
+  "site_name" : "Urban Justice Center at the Streetwork Project",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.809154206198805",
+    "human_address" : "{\"address\":\"209 125 Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10027\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94868347483566"
+  },
+  "agency" : "Urban Justice Center",
+  "borough_community" : "Manhattan",
+  "program" : "Legal Services - Immigrant Youth",
+  "grade_level_age_group" : "5-20",
+  "contact_number" : "646-602-5633"
+}
+, {
+  "site_name" : "Peter Cicchino Youth Project (PCYP)",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.70909122458545",
+    "human_address" : "{\"address\":\"123 William Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10038\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.006906978693"
+  },
+  "agency" : "Urban Justice Center",
+  "borough_community" : "Manhattan",
+  "program" : "Legal Services - Immigrant Youth",
+  "grade_level_age_group" : "5-20",
+  "contact_number" : "646-602-5633"
+}
+, {
+  "site_name" : "Alianza Dominicana, Inc. (Admin & Activity site)",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.83927054580515",
+    "human_address" : "{\"address\":\"1257 Ogden Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10452\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92578827979769"
+  },
+  "agency" : "Alianza Dominicana, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Services - Immigrant Families",
+  "grade_level_age_group" : "18+",
+  "contact_number" : "212.740.1960"
+}
+, {
+  "site_name" : "Big Brothers/Big Sisters, Inc. (Admin Site)",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.85621992920642",
+    "human_address" : "{\"address\":\"223 30th Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10033\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94585900019268"
+  },
+  "agency" : "Big Brothers/Big Sisters, Inc.",
+  "borough_community" : "Manhattan",
+  "program" : "Services - Immigrant Families",
+  "grade_level_age_group" : "11-14",
+  "contact_number" : "212.994.7742"
+}
+, {
+  "site_name" : "Big Brothers/Big Sisters, Inc. (Activity Site)",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.81594441525443",
+    "human_address" : "{\"address\":\"555 Bergen Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91641591148277"
+  },
+  "agency" : "Big Brothers/Big Sisters, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Services - Immigrant Families",
+  "grade_level_age_group" : "11-14",
+  "contact_number" : "212.994.7742"
+}
+, {
+  "site_name" : "Big Brothers/Big Sisters, Inc. (Activity Site)",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.67773088441804",
+    "human_address" : "{\"address\":\"280 Shepherd Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11208\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88173831485612"
+  },
+  "agency" : "Big Brothers/Big Sisters, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Services - Immigrant Families",
+  "grade_level_age_group" : "11-14",
+  "contact_number" : "212.994.7742"
+}
+, {
+  "site_name" : "Big Brothers/Big Sisters, Inc. (Activity Site)",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.71311535449007",
+    "human_address" : "{\"address\":\"89 56 162nd Street\",\"city\":\"Jamaica\",\"state\":\"NEW YORK\",\"zip\":\"11432\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79282099978928"
+  },
+  "agency" : "Big Brothers/Big Sisters, Inc.",
+  "borough_community" : "Jamaica",
+  "program" : "Services - Immigrant Families",
+  "grade_level_age_group" : "11-14",
+  "contact_number" : "212.994.7742"
+}
+, {
+  "site_name" : "Cabrini Immigrant Services (Admin & Activity site)",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.713327031343454",
+    "human_address" : "{\"address\":\"139 Henry Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99078213470762"
+  },
+  "agency" : "Cabrini Center for Nursing & Rehabilitation",
+  "borough_community" : "Manhattan",
+  "program" : "Services - Immigrant Families",
+  "grade_level_age_group" : "18+",
+  "contact_number" : "212.791.4590"
+}
+, {
+  "site_name" : "JFK High School - Children's Arts & Science",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.877210772673564",
+    "human_address" : "{\"address\":\"99 Terrace View Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10463\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91213621128965"
+  },
+  "agency" : "Children's Arts & Science Workshops, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Services - Immigrant Families",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-923-7766"
+}
+, {
+  "site_name" : "Children's Arts & Sciences Workshops (Admin & Activity site)",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.867820783175965",
+    "human_address" : "{\"address\":\"686 204th Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10034\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92367507747998"
+  },
+  "agency" : "Children's Arts & Sciences Workshops",
+  "borough_community" : "Manhattan",
+  "program" : "Services - Immigrant Families",
+  "grade_level_age_group" : "11+",
+  "contact_number" : "212-923-7766"
+}
+, {
+  "site_name" : "Harbor Heights Middle School - Children's Arts & Science",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.856389753646916",
+    "human_address" : "{\"address\":\"549 Audubon Avenue\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10040\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92672451121956"
+  },
+  "agency" : "Children's Arts & Science Workshops, Inc.",
+  "borough_community" : "Manhattan",
+  "program" : "Services - Immigrant Families",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-923-7766"
+}
+, {
+  "site_name" : "Goodwill Industries Greater NY-NJ (Admin & Activity site)",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.62192951023877",
+    "human_address" : "{\"address\":\"1416 Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11230\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96551106018723"
+  },
+  "agency" : "Goodwill Industries of Greater New York",
+  "borough_community" : "Brooklyn",
+  "program" : "Services - Immigrant Families",
+  "grade_level_age_group" : "11+",
+  "contact_number" : "718.339.0937"
+}
+, {
+  "site_name" : "Make the Road New York (Admin & Activity site)",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.63093452909704",
+    "human_address" : "{\"address\":\"479 Port Richmond Av\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10302\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.13901464968129"
+  },
+  "agency" : "Make the Road New York",
+  "borough_community" : "Staten Island",
+  "program" : "Services - Immigrant Families",
+  "grade_level_age_group" : "18+",
+  "contact_number" : "718.565.8500 718.727.1222"
+}
+, {
+  "site_name" : "Center for Integration and Advancement of New Americans (CIANA)",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.77152402451418",
+    "human_address" : "{\"address\":\"31 09 Newtown Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11102\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92643545073543"
+  },
+  "agency" : "New Immigrant Community Empowerment (NICE)",
+  "borough_community" : "Queens",
+  "program" : "Services - Immigrant Families",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718.545.4040"
+}
+, {
+  "site_name" : "New Immigrant Community Empowerment (NICE) (Admin & Activity site)",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.63083331110846",
+    "human_address" : "{\"address\":\"37 41 77th Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"10302\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.13773429869889"
+  },
+  "agency" : "New Immigrant Community Empowerment (NICE)",
+  "borough_community" : "Queens",
+  "program" : "Services - Immigrant Families",
+  "grade_level_age_group" : "18+",
+  "contact_number" : "718.205.8796"
+}
+, {
+  "site_name" : "Asian Americans for Equality - Queens",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.76862022064671",
+    "human_address" : "{\"address\":\"133 04 39th Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11354\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82719028070687"
+  },
+  "agency" : "Asian Americans for Equality - Queens",
+  "borough_community" : "Queens",
+  "program" : "Immigrant/Refugee Assistance",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "718.961.0888 or 212.979.8381"
+}
+, {
+  "site_name" : "COJO Flatbush",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.61969757437525",
+    "human_address" : "{\"address\":\"1550 Coney Island Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11230\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96431415429318"
+  },
+  "agency" : "Council of Jewish Organizations of Flatbush (COJO)",
+  "borough_community" : "Brooklyn",
+  "program" : "Immigrant/Refugee Assistance",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "718.377.2900"
+}
+, {
+  "site_name" : "St. George's Episcopal Church",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.76862022064671",
+    "human_address" : "{\"address\":\"135 33 38th Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11354\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82719028070687"
+  },
+  "agency" : "Flushing Jewish Community Council",
+  "borough_community" : "Queens",
+  "program" : "Immigrant/Refugee Assistance",
+  "grade_level_age_group" : "ESOL/Civics",
+  "contact_number" : "718.463.0434"
+}
+, {
+  "site_name" : "Henry Street Settlement - Workforce Development Center ",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.71844741559961",
+    "human_address" : "{\"address\":\"99 Essex Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98830122278652"
+  },
+  "agency" : "Henry Street Settlement, Inc. ",
+  "borough_community" : "Manhattan",
+  "program" : "Immigrant/Refugee Assistance",
+  "grade_level_age_group" : "ESOL/Civics",
+  "contact_number" : "212.766.9200"
+}
+, {
+  "site_name" : "Jackson Heights-Elmhust Kehilah",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.75163073936716",
+    "human_address" : "{\"address\":\"33 47 91st Street (Jackson Heights\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11372\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88361254528269"
+  },
+  "agency" : "Jackson Heights-Elmhust Kehilah, Inc.",
+  "borough_community" : "Queens",
+  "program" : "Immigrant/Refugee Assistance",
+  "grade_level_age_group" : "ESOL/Civics",
+  "contact_number" : "718.457.4591"
+}
+, {
+  "site_name" : "Make the Road New York-Jackson Heights Center",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.75163073936716",
+    "human_address" : "{\"address\":\"71 24 Roosevelt Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11372\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88361254528269"
+  },
+  "agency" : "Make the Road New York",
+  "borough_community" : "Queens",
+  "program" : "Immigrant/Refugee Assistance",
+  "grade_level_age_group" : "ESOL/Civics",
+  "contact_number" : "718.565.8500"
+}
+, {
+  "site_name" : "Make the Road New York ",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.74519376448069",
+    "human_address" : "{\"address\":\"49 06 Skillman Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11377\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9048471440804"
+  },
+  "agency" : "Make the Road New York",
+  "borough_community" : "Queens",
+  "program" : "Immigrant/Refugee Assistance",
+  "grade_level_age_group" : "ESOL/Civics",
+  "contact_number" : "718.565.8500"
+}
+, {
+  "site_name" : "Jackson Heights Program",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.75163073936716",
+    "human_address" : "{\"address\":\"74 09 37th Avenue (Jackson Heights\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11372\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88361254528269"
+  },
+  "agency" : "Queens Community House, Inc.",
+  "borough_community" : "Queens",
+  "program" : "Immigrant/Refugee Assistance",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "718.592.5757 or 718.898.7461"
+}
+, {
+  "site_name" : "Homecrest Community Services, Inc.",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.60123350732056",
+    "human_address" : "{\"address\":\"1413 Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11229\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94436854117521"
+  },
+  "agency" : "Shorefront Jewish Community Council",
+  "borough_community" : "Brooklyn",
+  "program" : "Immigrant/Refugee Assistance",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "718.743.0575"
+}
+, {
+  "site_name" : "Jay Senior Center",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.598089925353555",
+    "human_address" : "{\"address\":\"2600 Ocean Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11229\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95126983806618"
+  },
+  "agency" : "Shorefront Jewish Community Council",
+  "borough_community" : "Brooklyn",
+  "program" : "Immigrant/Refugee Assistance",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "718.743.0575"
+}
+, {
+  "site_name" : "Southside Community Mission",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.70581785170525",
+    "human_address" : "{\"address\":\"250 Hooper Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11211\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9556640768342"
+  },
+  "agency" : "Southside Community Mission, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Immigrant/Refugee Assistance",
+  "grade_level_age_group" : "ESOL/Civics",
+  "contact_number" : "718.782.8181 or 718.387.6052 "
+}
+, {
+  "site_name" : "Southside Community Mission",
+  "program_type" : "Immigration Services,Immigrant Support Services",
+  "location_1" : {
+    "latitude" : "40.70499449388848",
+    "human_address" : "{\"address\":\"280 Marcy Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11211\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95589166067984"
+  },
+  "agency" : "Southside Community Mission, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "Immigrant/Refugee Assistance",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "718.782.8181 or 718.387.6052 "
+}
+, {
+  "site_name" : "United Communities Centers ",
+  "program_type" : "Immigration Services,Immigrant Support Services,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.66472649825768",
+    "human_address" : "{\"address\":\"613 New Lots Ave\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11207\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88659110359023"
+  },
+  "agency" : "United Communities Centers",
+  "borough_community" : "Brooklyn",
+  "program" : "NDA Immigrants",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "718-649-7979"
+}
+, {
+  "site_name" : "Northern Manhattan Improvement Corporation (NMIC)",
+  "program_type" : "Immigration Services,Immigrant Support Services,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.84705167605878",
+    "human_address" : "{\"address\":\"76 Wadsworth Avenue\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10033\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93704472494271"
+  },
+  "agency" : "Northern Manhattan              Improvement Corporation",
+  "borough_community" : "Manhattan",
+  "program" : "NDA Immigrants",
+  "grade_level_age_group" : "All Ages",
+  "contact_number" : "212-822-8300"
+}
+, {
+  "site_name" : "F.E.G.S. Brooklyn Resource Center [Program site]",
+  "program_type" : "Immigration Services,Immigrant Support Services,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.60700851986621",
+    "human_address" : "{\"address\":\"938 Kings Highway\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11233\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96282101223699"
+  },
+  "agency" : "Federation of Employment and Guidance Services, Inc.",
+  "borough_community" : "Brooklyn",
+  "program" : "NDA Immigrants",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "718-336-2836x330 "
+}
+, {
+  "site_name" : "Goodwill Industries of Greater New York & Northern NJ, Refugee and Immigrant Services (Program Site 1)",
+  "program_type" : "Immigration Services,Immigrant Support Services,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.61789996472653",
+    "human_address" : "{\"address\":\"1416 Avenue M\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11230\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96077504128672"
+  },
+  "agency" : "Goodwill Industries of Greater New York",
+  "borough_community" : "Brooklyn",
+  "program" : "NDA Immigrats",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "718- 339-0939 "
+}
+, {
+  "site_name" : "Goodwill Industries of NY & Northern NJ, Refugee and Immigrant Services (Program Site 2)",
+  "program_type" : "Immigration Services,Immigrant Support Services,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.61772526251982",
+    "human_address" : "{\"address\":\"1222 Avenue M\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11230\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96227992950067"
+  },
+  "agency" : "Goodwill Industries of Greater New York",
+  "borough_community" : "Brooklyn",
+  "program" : "NDA Immigrants",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "718-339-0939 "
+}
+, {
+  "site_name" : "Make the Road New York",
+  "program_type" : "Immigration Services,Immigrant Support Services,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.7008190928138",
+    "human_address" : "{\"address\":\"391 Grove Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11237\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91333075450414"
+  },
+  "agency" : "Make the Road New York",
+  "borough_community" : "Brooklyn",
+  "program" : "NDA Immigrants",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "718-418-7690 X 205"
+}
+, {
+  "site_name" : "Make the Road New York",
+  "program_type" : "Immigration Services,Immigrant Support Services,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.751979000030815",
+    "human_address" : "{\"address\":\"92 10 Roosevelt Avenue\",\"city\":\"Jackson Heights\",\"state\":\"NEW YORK\",\"zip\":\"13372\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88282399992767"
+  },
+  "agency" : "Make the Road New York",
+  "borough_community" : "Jackson Heights",
+  "program" : "NDA Immigrants",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "718-418-7690 X 205 "
+}
+, {
+  "site_name" : "Make the Road New York",
+  "program_type" : "Immigration Services,Immigrant Support Services,NDA Programs",
+  "location_1" : {
+    "latitude" : "40.63093452909704",
+    "human_address" : "{\"address\":\"479 Port Richmond Avenue\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10302\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.13901464968129"
+  },
+  "agency" : "Make the Road New York",
+  "borough_community" : "Staten Island",
+  "program" : "NDA Immigrants",
+  "grade_level_age_group" : "Adult",
+  "contact_number" : "718-727-1222 718 418-7690 X 205 "
+}
+ ]

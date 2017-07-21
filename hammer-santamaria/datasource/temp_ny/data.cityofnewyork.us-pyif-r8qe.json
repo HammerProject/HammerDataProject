@@ -1,0 +1,376 @@
+[ {
+  "site_name" : "NYCHA DYCKMAN HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.862021922675375",
+    "human_address" : "{\"address\":\"3782 Tenth Avenue\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10034\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92075311672906"
+  },
+  "agency" : "Alianza Dominicana, Inc. @Dyckman Community Center",
+  "borough_community" : "Manhattan",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(212) 567-8782"
+}
+, {
+  "site_name" : "NYCHA PINK HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.6691189432547",
+    "human_address" : "{\"address\":\"2702 Linden Blvd\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11208\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.86387037434672"
+  },
+  "agency" : "East New York Development Corporation @ Louis H. Pink Community Center",
+  "borough_community" : "Brooklyn",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 964-9043"
+}
+, {
+  "site_name" : "NYCHA CYPRESS HILLS HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.668276736421866",
+    "human_address" : "{\"address\":\"475 Fountain Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11208\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87297612321264"
+  },
+  "agency" : "Police Athletic League @Cypress Hills Community Center",
+  "borough_community" : "Brooklyn",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 277-6641"
+}
+, {
+  "site_name" : "NYCHA BUSHWICK/HYLAN HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.70318766484067",
+    "human_address" : "{\"address\":\"50 Humboldt Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11206\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94074566957755"
+  },
+  "agency" : "YMCA-Eastern District @ Bushwick/Hylan Community Center",
+  "borough_community" : "Brooklyn",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 453-8116"
+}
+, {
+  "site_name" : "NYCHA SUMNER HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.698586012218975",
+    "human_address" : "{\"address\":\"862 Park Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11206\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94052293050422"
+  },
+  "agency" : "YMCA-Eastern District @Sumner Community Center",
+  "borough_community" : "Brooklyn",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 919-4756"
+}
+, {
+  "site_name" : "NYCHA TAYLOR-WYTHE AVENUE HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.70523254766283",
+    "human_address" : "{\"address\":\"80 Clymer Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11211\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.96569241813285"
+  },
+  "agency" : "El Puente De Williamsburg @Taylor-Wythe Community Center",
+  "borough_community" : "Brooklyn",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 333-0575"
+}
+, {
+  "site_name" : "NYCHA FARRAGUT HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.70131567591148",
+    "human_address" : "{\"address\":\"228 York Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98228470785611"
+  },
+  "agency" : "Goodwill Industries @ David G. Farragut Community Center",
+  "borough_community" : "Brooklyn",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 852-6347"
+}
+, {
+  "site_name" : "NYCHA INGERSOLL HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.69364100219984",
+    "human_address" : "{\"address\":\"177 Myrtle Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11201\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98224444725803"
+  },
+  "agency" : "Goodwill Industries @Raymond V. Ingersoll Community Center",
+  "borough_community" : "Brooklyn",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 522-5604"
+}
+, {
+  "site_name" : "NYCHA BAY VIEW HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.63131541640772",
+    "human_address" : "{\"address\":\"5985 Shore Parkway\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11236\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88565362344808"
+  },
+  "agency" : "Sesame Flyers  @Bayview Community Center",
+  "borough_community" : "Brooklyn",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 968-9621"
+}
+, {
+  "site_name" : "NYCHA CONEY ISLAND I  SURFSIDE GARDENS",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.574390159947775",
+    "human_address" : "{\"address\":\"2947 28th Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11224\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99404773969015"
+  },
+  "agency" : "Heartshare @Coney Island Surfside Community Center",
+  "borough_community" : "Brooklyn",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 449-2897"
+}
+, {
+  "site_name" : "NYCHA MARLBORO HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.594230224513254",
+    "human_address" : "{\"address\":\"2298 8th Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11223\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9623332791175"
+  },
+  "agency" : "Federation of Italian American Organization @Marlboro Community Center",
+  "borough_community" : "Brooklyn",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 449-1444"
+}
+, {
+  "site_name" : "NYCHA EDENWALD HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.88620097174483",
+    "human_address" : "{\"address\":\"1150 229th Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10466\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8451543714921"
+  },
+  "agency" : "Mosholu Montefiore  @Edenwald Community Center",
+  "borough_community" : "Bronx",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 652-0246"
+}
+, {
+  "site_name" : "NYCHA SOUNDVIEW HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.81834577084099",
+    "human_address" : "{\"address\":\"1680 Seward Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10473\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.86900315491694"
+  },
+  "agency" : "Directions for our Youth @Soundview Community Center",
+  "borough_community" : "Bronx",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 378-6246"
+}
+, {
+  "site_name" : "NYCHA BRONX RIVER HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.83401842171687",
+    "human_address" : "{\"address\":\"1619 174th St\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10472\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87578118908756"
+  },
+  "agency" : "Phipps Community Development Corporation @Bronx River Community Center",
+  "borough_community" : "Bronx",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 589-0555"
+}
+, {
+  "site_name" : "NYCHA EASTCHESTER GARDENS",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.86968869307537",
+    "human_address" : "{\"address\":\"3016 Yates Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10469\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8545817263335"
+  },
+  "agency" : "Mosholu Montefiore @Eastchester Gardens Community Center",
+  "borough_community" : "Bronx",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 231-3894"
+}
+, {
+  "site_name" : "NYCHA BETANCES HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.8123977764137",
+    "human_address" : "{\"address\":\"465 St Ann's Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9141012273064"
+  },
+  "agency" : "Aspira of New York @Dr. Ramon E. Betances VI Community Center",
+  "borough_community" : "Bronx",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 585-5040"
+}
+, {
+  "site_name" : "NYCHA POLO GROUNDS TOWERS",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.8313401301324",
+    "human_address" : "{\"address\":\"2975 Eighth Avenue\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10039\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93580207563807"
+  },
+  "agency" : "Alianza Dominicana @Polo Grounds Community Center",
+  "borough_community" : "Manhattan",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(212) 491-6127"
+}
+, {
+  "site_name" : "NYCHA JOHNSON HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.79666470774462",
+    "human_address" : "{\"address\":\"1820 Lexington Avenue\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10029\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94309362953469"
+  },
+  "agency" : "SCAN @James Weldon Johnson Community Center",
+  "borough_community" : "Manhattan",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(212) 289-8819"
+}
+, {
+  "site_name" : "NYCHA TWO BRIDGES U.R.A (SITE 7)",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.710548126272954",
+    "human_address" : "{\"address\":\"286 South Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98613263981616"
+  },
+  "agency" : "YMCA - Chinatown @Two Bridges (URA) Community Center",
+  "borough_community" : "Manhattan",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(212) 385-9352"
+}
+, {
+  "site_name" : "NYCHA RAVENSWOOD HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.761699790013324",
+    "human_address" : "{\"address\":\"35 40 21st Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11106\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9316632529567"
+  },
+  "agency" : "HANAC @Ravenswood Community Center",
+  "borough_community" : "Queens",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 786-3131"
+}
+, {
+  "site_name" : "NYCHA OCEAN BAY APARTMENTS",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.593133885620375",
+    "human_address" : "{\"address\":\"57 10 Beach Channel Drive\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11692\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79540208463845"
+  },
+  "agency" : "Police Athletic League @Ocean Bay Community Center",
+  "borough_community" : "Queens",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 634-4493"
+}
+, {
+  "site_name" : "NYCHA REDFERN HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.608773916285855",
+    "human_address" : "{\"address\":\"1544 Hassock Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11691\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.75307844925557"
+  },
+  "agency" : "Police Athletic League @Redfern Community Center",
+  "borough_community" : "Queens",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 471-0360"
+}
+, {
+  "site_name" : "NYCHA SOUTH JAMAICA II HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.698104881734935",
+    "human_address" : "{\"address\":\"109 04 160th Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11433\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.7875740339145"
+  },
+  "agency" : "Southern Queens Park Association @South Jamaica II Community Center",
+  "borough_community" : "Queens",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 297-7237"
+}
+, {
+  "site_name" : "NYCHA LATIMER GARDENS",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.76862022064671",
+    "human_address" : "{\"address\":\"34 30 137th Street\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11354\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82719028070687"
+  },
+  "agency" : "Child Center of New York @Lewis H. Latimer Gardens Community Center",
+  "borough_community" : "Queens",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 353-0385"
+}
+, {
+  "site_name" : "NYCHA STAPLETON HOUSES",
+  "program_type" : "After-School Programs,Beacon,NYCHA Centers",
+  "location_1" : {
+    "latitude" : "40.623894137006026",
+    "human_address" : "{\"address\":\"210 Broad Street\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10304\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.0815572213235"
+  },
+  "agency" : "Jewish Community Center of Staten Island @Stapleton Community Center",
+  "borough_community" : "Staten Island",
+  "program" : "Beacon Satellite",
+  "grade_level_age_group" : "6 and up",
+  "contact_number" : "(718) 981-0500"
+}
+ ]

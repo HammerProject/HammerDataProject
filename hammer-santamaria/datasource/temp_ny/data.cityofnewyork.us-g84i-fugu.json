@@ -1,0 +1,256 @@
+[ {
+  "component_name" : "Gauges (dry, preaction, and deluge systems)",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Weekly/monthly"
+}
+, {
+  "component_name" : "Control valves",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Weekly/monthly"
+}
+, {
+  "component_name" : "Alarm devices",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Quarterly"
+}
+, {
+  "component_name" : "Gauges (wet pipe systems)",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Monthly"
+}
+, {
+  "component_name" : "Pipe and fittings",
+  "required_inspection_test_type" : " Inspect",
+  "required_inspection_frequency" : "Annually"
+}
+, {
+  "component_name" : "Sprinklers",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Annually"
+}
+, {
+  "component_name" : "Fire department connections",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Quarterly"
+}
+, {
+  "component_name" : "Valves (all types)",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "See NFPA 25 Table 12.1"
+}
+, {
+  "component_name" : "Alarm devices",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "Quarterly/semiannually"
+}
+, {
+  "component_name" : "Main drain",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "Annually"
+}
+, {
+  "component_name" : "Gauges",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "5 years"
+}
+, {
+  "component_name" : "Sprinklers",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "50 years, and every 10 years thereafter"
+}
+, {
+  "component_name" : "Control valves",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Weekly/monthly"
+}
+, {
+  "component_name" : "Pressure regulating devices",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Quarterly"
+}
+, {
+  "component_name" : "Piping Inspect Quarterly",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Quarterly"
+}
+, {
+  "component_name" : "Hose connections",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Quarterly"
+}
+, {
+  "component_name" : "Cabinet",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Annually"
+}
+, {
+  "component_name" : "Hose",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Annually"
+}
+, {
+  "component_name" : "Hose storage device",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Annually"
+}
+, {
+  "component_name" : "Alarm device",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "Quarterly"
+}
+, {
+  "component_name" : "Hose nozzle",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "Annually"
+}
+, {
+  "component_name" : "Hose storage device",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "Annually"
+}
+, {
+  "component_name" : "Hose",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "5 years/3 years"
+}
+, {
+  "component_name" : "Pressure control valve",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "5 years"
+}
+, {
+  "component_name" : "Pressure reducing valve",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "5 years"
+}
+, {
+  "component_name" : "Hydrostatic test",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "5 years"
+}
+, {
+  "component_name" : "Flow test",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "5 years"
+}
+, {
+  "component_name" : "Main drain test",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "Annually"
+}
+, {
+  "component_name" : "Condition of water in tank Inspect Monthly/quarterly",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Monthly/quarterly"
+}
+, {
+  "component_name" : "Water temperature Inspect Daily/weekly",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Daily/weekly"
+}
+, {
+  "component_name" : "Heating system Inspect Daily/weekly",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Daily/weekly"
+}
+, {
+  "component_name" : "Control valves Inspect Weekly/monthly",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Weekly/monthly"
+}
+, {
+  "component_name" : "Water — level Inspect Monthly/quarterly",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Monthly/quarterly"
+}
+, {
+  "component_name" : "Air pressure Inspect Monthly/quarterly",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Monthly/quarterly"
+}
+, {
+  "component_name" : "Tank —exterior Inspect Quarterly",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Quarterly"
+}
+, {
+  "component_name" : "Interior Inspect 5 years/ 3 years",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "5 years/3 years"
+}
+, {
+  "component_name" : "Check valves Inspect 5 years",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "5 years"
+}
+, {
+  "component_name" : "Temperature alarms Test Monthly",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "Monthly"
+}
+, {
+  "component_name" : "High temperature limit switches Test Monthly",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "Monthly"
+}
+, {
+  "component_name" : "Water level alarms Test Semiannually",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "Semiannually"
+}
+, {
+  "component_name" : "Level indicators Test 5 years",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "5 years"
+}
+, {
+  "component_name" : "Pressure gauges Test 5 years",
+  "required_inspection_test_type" : "Test",
+  "required_inspection_frequency" : "5 years"
+}
+, {
+  "component_name" : "Control equipment, including fuses, lamps, LEDs LEDs, and power supply",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Weekly, or annually if alarm, supervisory and trouble signals are monitored by a central station"
+}
+, {
+  "component_name" : "Batteries",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Monthly/semiannually"
+}
+, {
+  "component_name" : "Emergency voice alarm communications equipment",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Semiannually"
+}
+, {
+  "component_name" : "Remote annunciators",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Semiannually"
+}
+, {
+  "component_name" : "Alarm notification appliance",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Semiannually"
+}
+, {
+  "component_name" : "Supervisory signal and waterflow initiating devices",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Quarterly"
+}
+, {
+  "component_name" : "Other initiating devices (e.g. duct detectors, fire alarm boxes and smoke detectors)",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Semiannually"
+}
+, {
+  "component_name" : "Interface equipment",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Semiannually"
+}
+, {
+  "component_name" : "Central station transmitters",
+  "required_inspection_test_type" : "Inspect",
+  "required_inspection_frequency" : "Semiannually"
+}
+ ]

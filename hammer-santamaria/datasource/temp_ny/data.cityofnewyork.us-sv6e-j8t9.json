@@ -1,0 +1,132 @@
+[ {
+  "cpm" : "1.5466666667",
+  "times_square" : "American Eagle ",
+  "dec" : "1500000",
+  "unit_all_one_month_" : "2 minutes/hour (19 hrs/day)",
+  "cost_per_sf" : "4.63",
+  "sq_ft" : "15000",
+  "total_minutes" : "1140",
+  "impressions" : "n/a",
+  "rate" : "69600",
+  "pricing_model" : "Duration 1 month",
+  "cost_per_minute" : "61.05",
+  "full_motion_video" : "yes",
+  "onsite_audio" : "no"
+}
+, {
+  "cpm" : "2.88",
+  "unit_all_one_month_" : "4 minutes/hour (19 hrs/day) ",
+  "cost_per_sf" : "8.64",
+  "total_minutes" : "2280",
+  "rate" : "129600",
+  "cost_per_minute" : "56.84",
+  "full_motion_video" : "yes",
+  "onsite_audio" : "no"
+}
+, {
+  "cpm" : "4",
+  "unit_all_one_month_" : "6 minutes/hour (19 hrs/day) ",
+  "cost_per_sf" : "12",
+  "total_minutes" : "3420",
+  "rate" : "180000",
+  "cost_per_minute" : "52.63",
+  "full_motion_video" : "yes",
+  "onsite_audio" : "no"
+}
+, {
+  "cpm" : "0.46875",
+  "times_square" : "Sony/Fox Screen (Times Square 1)",
+  "dec" : "1600000",
+  "unit_all_one_month_" : "2 minutes/hour (18 hrs/day)",
+  "cost_per_sf" : "16.07",
+  "sq_ft" : "1400",
+  "total_minutes" : "1080",
+  "impressions" : "n/a",
+  "rate" : "22500",
+  "pricing_model" : "Duration 1 month",
+  "advance_interactive" : "no",
+  "cost_per_minute" : "20.83",
+  "full_motion_video" : "yes",
+  "dimensions" : "35 x 40",
+  "onsite_audio" : "no"
+}
+, {
+  "cpm" : "1.1041666667",
+  "times_square" : "ABC Supersign",
+  "dec" : "1600000",
+  "unit_all_one_month_" : "2 minutes/hour (15 hrs/day) ",
+  "cost_per_sf" : "11.44",
+  "sq_ft" : "4630",
+  "total_minutes" : "900",
+  "impressions" : "n/a",
+  "rate" : "53000",
+  "pricing_model" : "Duration 1 month",
+  "advance_interactive" : "no",
+  "cost_per_minute" : "58.88",
+  "full_motion_video" : "yes",
+  "onsite_audio" : "no"
+}
+, {
+  "cpm" : "2.1510416667",
+  "times_square" : "Times Square 2",
+  "dec" : "1600000",
+  "unit_all_one_month_" : "3 min/hour (19 hrs/day) plus blackout below",
+  "cost_per_sf" : "5.81",
+  "sq_ft" : "17754",
+  "total_minutes" : "1710",
+  "impressions" : "n/a",
+  "rate" : "103250",
+  "pricing_model" : "Duration 1 month",
+  "cost_per_minute" : "60.38",
+  "full_motion_video" : "yes",
+  "onsite_audio" : "no"
+}
+, {
+  "times_square" : "Nasdaq ",
+  "unit_all_one_month_" : "Blackout periods 9-10am and 3:30 - 4:30 pm plus no coverage NYE",
+  "sq_ft" : "10080",
+  "dimensions" : "120 x 84"
+}
+, {
+  "times_square" : "Reuters",
+  "unit_all_one_month_" : "3 min/hour (19 hrs/day)",
+  "sq_ft" : "7674",
+  "dimensions" : "7 boards various sizes"
+}
+, {
+  "cpm" : "1.4583333333",
+  "times_square" : " W Hotel  (Broadway and 47th Street) ",
+  "dec" : "1600000",
+  "unit_all_one_month_" : "4 min/hour x 19 Hours/day",
+  "cost_per_sf" : "58.33",
+  "sq_ft" : "1200",
+  "total_minutes" : "2280",
+  "impressions" : "n/a",
+  "rate" : "70000",
+  "pricing_model" : "Duration 1 month",
+  "cost_per_minute" : "30.70",
+  "full_motion_video" : "yes",
+  "dimensions" : "30 x 40",
+  "onsite_audio" : "no"
+}
+, {
+  "cpm" : "2.6041666667",
+  "unit_all_one_month_" : "8 min/hour x 19 Hours/day",
+  "cost_per_sf" : "104.16",
+  "total_minutes" : "4560",
+  "rate" : "125000",
+  "cost_per_minute" : "27.41",
+  "full_motion_video" : "yes"
+}
+, {
+  "cpm" : "3.18",
+  "cost_per_sf" : "18.83",
+  "advance_interactive" : "Average",
+  "cost_per_minute" : "43.35"
+}
+, {
+  "times_square" : "SOURCE: provided by TSA - anonymous sign manufacturer",
+  "dec" : "Daily Effective Circulation: number of 18+ people seeing ad in 18hr day",
+  "advance_interactive" : "Efficiency: value delivered to audience relative to cost of space, cost per thousand "
+}
+ ]

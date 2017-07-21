@@ -1,0 +1,226 @@
+[ {
+  "site_name" : "Brooklyn Job Corps Academy",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.69124066064337",
+    "human_address" : "{\"address\":\"585 DeKalb Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11205\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95277618834143"
+  },
+  "agency" : "Arbor - NY",
+  "borough_community" : "Brooklyn",
+  "program" : "Young Adult Internship Program",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.623.4031"
+}
+, {
+  "site_name" : "The Child Center of NY",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.71311535449007",
+    "human_address" : "{\"address\":\"163 18 Jamaica Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11432\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79282099978928"
+  },
+  "agency" : "The Child Center of NY, Inc",
+  "borough_community" : "Queens",
+  "program" : "Young Adult Internship Program",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "347.571.2441"
+}
+, {
+  "site_name" : "Bronx Works Center",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.816295496166596",
+    "human_address" : "{\"address\":\"391 149th Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91820248245159"
+  },
+  "agency" : "The Citizens Advice Bureau",
+  "borough_community" : "Bronx",
+  "program" : "Young Adult Internship Program",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.993.8880"
+}
+, {
+  "site_name" : "Federation Employment & Guidance Services, Inc",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.813535754971156",
+    "human_address" : "{\"address\":\"412 434 East 147th Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9053552520432"
+  },
+  "agency" : "Federation Employment & Guidance Services, Inc",
+  "borough_community" : "Bronx",
+  "program" : "Young Adult Internship Program",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.742.3509"
+}
+, {
+  "site_name" : "Good Shepherd Services",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.70473053780766",
+    "human_address" : "{\"address\":\"82 Wyckoff Avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11237\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91996203893724"
+  },
+  "agency" : "Good Shepherd Services",
+  "borough_community" : "Brooklyn",
+  "program" : "Young Adult Internship Program",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.366.7240"
+}
+, {
+  "site_name" : "Italian American Civil Rights League",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.64607779528712",
+    "human_address" : "{\"address\":\"1460 Pennsylvannia avenue\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11239\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87995018190169"
+  },
+  "agency" : "Italian American Civil Rights League",
+  "borough_community" : "Brooklyn",
+  "program" : "Young Adult Internship Program",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.642.2180"
+}
+, {
+  "site_name" : "Career Connections @ LaGuardia CC",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"29 10 Thomson Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225"
+  },
+  "agency" : "Henkels & McCoy, Inc. ",
+  "borough_community" : "Queens",
+  "program" : "Young Adult Internship Program",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.482.5104"
+}
+, {
+  "site_name" : "Henry Street Settlement",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.713502758364704",
+    "human_address" : "{\"address\":\"367 Madison Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10002\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98166778947402"
+  },
+  "agency" : "Henry Street Settlement",
+  "borough_community" : "Manhattan",
+  "program" : "Young Adult Internship Program",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "212.473.1474"
+}
+, {
+  "site_name" : "Mosholu Montefiore Community Center",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.8770479121315",
+    "human_address" : "{\"address\":\"3512 3450 DeKalb Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10467\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87153250082423"
+  },
+  "agency" : "Mosholu Montefiore Community Center",
+  "borough_community" : "Bronx",
+  "program" : "Young Adult Internship Program",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.652.0282"
+}
+, {
+  "site_name" : "NYSARC, Inc. NYC Chapter",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.64309548865274",
+    "human_address" : "{\"address\":\"120 Stuyvesant Place\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10301\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.07704808233049"
+  },
+  "agency" : "NYSARC, Inc. NYC Chapter",
+  "borough_community" : "Staten Island",
+  "program" : "Young Adult Internship Program",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.246.1506"
+}
+, {
+  "site_name" : "OBT North - Bushwich /Bed-Stuy",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.70091258928835",
+    "human_address" : "{\"address\":\"25 Thornton Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11206\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94390057487814"
+  },
+  "agency" : "Opportunities for a Better Tomorrow",
+  "borough_community" : "Brooklyn",
+  "program" : "Young Adult Internship Program",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.387.1600 x12"
+}
+, {
+  "site_name" : "LaGuardia Memorial House",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.79381703542788",
+    "human_address" : "{\"address\":\"307 116th Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10035\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91931750020245"
+  },
+  "agency" : "Supportive Children's Advocacy Network - NY",
+  "borough_community" : "Manhattan",
+  "program" : "Young Adult Internship Program",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "212.534.7800"
+}
+, {
+  "site_name" : "Southern Queens Park Association - NY",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.6769452621142",
+    "human_address" : "{\"address\":\"117 01 Baisley Blvd\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11434\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.77530690169215"
+  },
+  "agency" : "Southern Queens Park Association - NY",
+  "borough_community" : "Queens",
+  "program" : "Young Adult Internship Program",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.276.4630 ext.126"
+}
+, {
+  "site_name" : "Vannguard Computer Center",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.68002362728489",
+    "human_address" : "{\"address\":\"1477 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11216\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9422246401636"
+  },
+  "agency" : "Vannguard Urban Improvement Assciation",
+  "borough_community" : "Brooklyn",
+  "program" : "Young Adult Internship Program",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.735.4466"
+}
+, {
+  "site_name" : "Wildcat Service Corporation",
+  "program_type" : "Jobs & Internships",
+  "location_1" : {
+    "latitude" : "40.8131728367899",
+    "human_address" : "{\"address\":\"647 Bryant Avenue\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10474\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88520271257785"
+  },
+  "agency" : "Wildcat Service Corporation",
+  "borough_community" : "Bronx",
+  "program" : "Young Adult Internship Program",
+  "grade_level_age_group" : "16 to 24",
+  "contact_number" : "718.617.1378"
+}
+ ]

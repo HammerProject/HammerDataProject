@@ -1,0 +1,7001 @@
+[ {
+  "fund_dw_id" : "2496",
+  "amount" : "4243450.00",
+  "project_id" : "39155",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2500",
+  "amount" : "2132692.00",
+  "project_id" : "39223",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2289",
+  "amount" : "1244000.00",
+  "project_id" : "39227",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2963",
+  "amount" : "135000.00",
+  "project_id" : "39256",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1820",
+  "amount" : "665000.00",
+  "project_id" : "39256",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1445",
+  "amount" : "1327266.00",
+  "project_id" : "39264",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2290",
+  "amount" : "618267.00",
+  "project_id" : "39326",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1433",
+  "amount" : "527000.00",
+  "project_id" : "39326",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1351",
+  "amount" : "3621482.00",
+  "project_id" : "39343",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2178",
+  "amount" : "500000.00",
+  "project_id" : "39349",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2469",
+  "amount" : "2483648.00",
+  "project_id" : "39359",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1612",
+  "amount" : "832000.00",
+  "project_id" : "39359",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1670",
+  "amount" : "2782513.00",
+  "project_id" : "39363",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1767",
+  "amount" : "1803203.00",
+  "project_id" : "39363",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1792",
+  "amount" : "700930.00",
+  "project_id" : "39364",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1773",
+  "amount" : "436999.00",
+  "project_id" : "39367",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1840",
+  "amount" : "189493.00",
+  "project_id" : "39368",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2473",
+  "amount" : "1872452.00",
+  "project_id" : "39369",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2478",
+  "amount" : "2588000.00",
+  "project_id" : "39375",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1354",
+  "amount" : "26000000.00",
+  "project_id" : "39379",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1390",
+  "amount" : "6000000.00",
+  "project_id" : "39379",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3477",
+  "amount" : "40616203.00",
+  "project_id" : "39379",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "4348",
+  "amount" : "6514857.00",
+  "project_id" : "39385",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1762",
+  "amount" : "8000000.00",
+  "project_id" : "39399",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1349",
+  "amount" : "4391026.00",
+  "project_id" : "39402",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2387",
+  "amount" : "1008000.00",
+  "project_id" : "39405",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2752",
+  "amount" : "6022500.00",
+  "project_id" : "39405",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1530",
+  "amount" : "6832000.00",
+  "project_id" : "39405",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1264",
+  "amount" : "273371.00",
+  "project_id" : "39407",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1867",
+  "amount" : "915200.00",
+  "project_id" : "39407",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2280",
+  "amount" : "2914332.00",
+  "project_id" : "39408",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1729",
+  "amount" : "5000000.00",
+  "project_id" : "39426",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1826",
+  "amount" : "4712890.00",
+  "project_id" : "39426",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2618",
+  "amount" : "4881890.00",
+  "project_id" : "39433",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1396",
+  "amount" : "7600683.00",
+  "project_id" : "39433",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2451",
+  "amount" : "4081704.00",
+  "project_id" : "39437",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2816",
+  "amount" : "2007806.00",
+  "project_id" : "39437",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2481",
+  "amount" : "812503.00",
+  "project_id" : "39439",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1883",
+  "amount" : "958566.00",
+  "project_id" : "39440",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2944",
+  "amount" : "641895.00",
+  "project_id" : "39445",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1785",
+  "amount" : "2273635.00",
+  "project_id" : "39449",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1851",
+  "amount" : "106012.00",
+  "project_id" : "39456",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2520",
+  "amount" : "95393.00",
+  "project_id" : "39464",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1844",
+  "amount" : "123159.00",
+  "project_id" : "39468",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2419",
+  "amount" : "380952.00",
+  "project_id" : "39469",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2380",
+  "amount" : "468859.00",
+  "project_id" : "39472",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2406",
+  "amount" : "614283.00",
+  "project_id" : "39475",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2425",
+  "amount" : "464037.00",
+  "project_id" : "39477",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1916",
+  "amount" : "161811.00",
+  "project_id" : "39479",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2320",
+  "amount" : "269174.00",
+  "project_id" : "39480",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2347",
+  "amount" : "442184.00",
+  "project_id" : "39482",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2349",
+  "amount" : "246749.00",
+  "project_id" : "39483",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3511",
+  "amount" : "13168000.00",
+  "project_id" : "39492",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2350",
+  "amount" : "1359999.00",
+  "project_id" : "39496",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2450",
+  "amount" : "819145.00",
+  "project_id" : "39499",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1338",
+  "amount" : "560000.00",
+  "project_id" : "39522",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1941",
+  "amount" : "1525000.00",
+  "project_id" : "39522",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1975",
+  "amount" : "150000.00",
+  "project_id" : "39631",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2488",
+  "amount" : "262234.00",
+  "project_id" : "40177",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2490",
+  "amount" : "832969.00",
+  "project_id" : "40474",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1326",
+  "amount" : "250000.00",
+  "project_id" : "40548",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1362",
+  "amount" : "4810000.00",
+  "project_id" : "40548",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1929",
+  "amount" : "400000.00",
+  "project_id" : "40548",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2479",
+  "amount" : "2776511.00",
+  "project_id" : "41219",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1860",
+  "amount" : "1800000.00",
+  "project_id" : "41274",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3962",
+  "amount" : "6575700.00",
+  "project_id" : "41274",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2378",
+  "amount" : "5370000.00",
+  "project_id" : "41280",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4351",
+  "amount" : "14452516.00",
+  "project_id" : "41280",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2900",
+  "amount" : "7190640.00",
+  "project_id" : "41362",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1678",
+  "amount" : "1100000.00",
+  "project_id" : "41362",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1775",
+  "amount" : "5830000.00",
+  "project_id" : "41362",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3502",
+  "amount" : "9138000.00",
+  "project_id" : "41364",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1415",
+  "amount" : "5940000.00",
+  "project_id" : "41364",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2663",
+  "amount" : "5212266.00",
+  "project_id" : "41366",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2008",
+  "amount" : "2750000.00",
+  "project_id" : "41366",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1825",
+  "amount" : "6171741.00",
+  "project_id" : "41388",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1768",
+  "amount" : "460700.00",
+  "project_id" : "41389",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2758",
+  "amount" : "7931250.00",
+  "project_id" : "41405",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1536",
+  "amount" : "11151468.00",
+  "project_id" : "41405",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1686",
+  "amount" : "492235.00",
+  "project_id" : "41408",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1859",
+  "amount" : "1426410.00",
+  "project_id" : "41493",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1906",
+  "amount" : "125299.00",
+  "project_id" : "41836",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2582",
+  "amount" : "7220000.00",
+  "project_id" : "41902",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1927",
+  "amount" : "1500000.00",
+  "project_id" : "41902",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2187",
+  "amount" : "141161.00",
+  "project_id" : "41915",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2746",
+  "amount" : "5586183.00",
+  "project_id" : "41972",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2512",
+  "amount" : "600000.00",
+  "project_id" : "42616",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2401",
+  "amount" : "11000000.00",
+  "project_id" : "42926",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1544",
+  "amount" : "6000000.00",
+  "project_id" : "42926",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3161",
+  "amount" : "3000000.00",
+  "project_id" : "42926",
+  "fund_name" : "NSP 1",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2111",
+  "amount" : "250000.00",
+  "project_id" : "42926",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4374",
+  "amount" : "13538461.00",
+  "project_id" : "42926",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1885",
+  "amount" : "2882887.00",
+  "project_id" : "43102",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2509",
+  "amount" : "2988095.00",
+  "project_id" : "43103",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2521",
+  "amount" : "2318406.00",
+  "project_id" : "43104",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1715",
+  "amount" : "290000.00",
+  "project_id" : "43105",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1812",
+  "amount" : "448235.00",
+  "project_id" : "43105",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2492",
+  "amount" : "1178180.00",
+  "project_id" : "43136",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1805",
+  "amount" : "1530000.00",
+  "project_id" : "43137",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1771",
+  "amount" : "1099938.00",
+  "project_id" : "43144",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1325",
+  "amount" : "70498.00",
+  "project_id" : "43185",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2410",
+  "amount" : "182664.00",
+  "project_id" : "43188",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2251",
+  "amount" : "295284.00",
+  "project_id" : "43189",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2412",
+  "amount" : "632203.00",
+  "project_id" : "43204",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2386",
+  "amount" : "214773.00",
+  "project_id" : "43220",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2384",
+  "amount" : "122234.00",
+  "project_id" : "43223",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2284",
+  "amount" : "233715.00",
+  "project_id" : "43224",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2339",
+  "amount" : "457827.00",
+  "project_id" : "43225",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2429",
+  "amount" : "540249.00",
+  "project_id" : "43240",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2798",
+  "amount" : "8231177.00",
+  "project_id" : "43241",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1576",
+  "amount" : "7680000.00",
+  "project_id" : "43241",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1337",
+  "amount" : "8000000.00",
+  "project_id" : "43276",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1940",
+  "amount" : "2000000.00",
+  "project_id" : "43276",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2083",
+  "amount" : "3495472.00",
+  "project_id" : "43279",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1845",
+  "amount" : "984548.00",
+  "project_id" : "43280",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2288",
+  "amount" : "6356175.00",
+  "project_id" : "43284",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2286",
+  "amount" : "3006787.00",
+  "project_id" : "43285",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2513",
+  "amount" : "1248538.00",
+  "project_id" : "43293",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2517",
+  "amount" : "550949.00",
+  "project_id" : "43294",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1875",
+  "amount" : "692217.00",
+  "project_id" : "43311",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2516",
+  "amount" : "945252.00",
+  "project_id" : "43312",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1741",
+  "amount" : "438467.00",
+  "project_id" : "43313",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1838",
+  "amount" : "438467.00",
+  "project_id" : "43313",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1714",
+  "amount" : "455023.00",
+  "project_id" : "43314",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1811",
+  "amount" : "845042.00",
+  "project_id" : "43314",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1551",
+  "amount" : "5390000.00",
+  "project_id" : "43323",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4381",
+  "amount" : "11678045.00",
+  "project_id" : "43323",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2287",
+  "amount" : "4544893.00",
+  "project_id" : "43353",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2799",
+  "amount" : "5833400.00",
+  "project_id" : "43376",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1577",
+  "amount" : "1795000.00",
+  "project_id" : "43376",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2382",
+  "amount" : "5000000.00",
+  "project_id" : "43388",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2352",
+  "amount" : "830190.00",
+  "project_id" : "44205",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2717",
+  "amount" : "8668234.00",
+  "project_id" : "44205",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1495",
+  "amount" : "12222000.00",
+  "project_id" : "44205",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2062",
+  "amount" : "200000.00",
+  "project_id" : "44205",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2162",
+  "amount" : "650000.00",
+  "project_id" : "44844",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2452",
+  "amount" : "310000.00",
+  "project_id" : "44844",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2817",
+  "amount" : "7387444.00",
+  "project_id" : "44844",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "3585",
+  "amount" : "5207847.00",
+  "project_id" : "45128",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1498",
+  "amount" : "2000000.00",
+  "project_id" : "45128",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2065",
+  "amount" : "2680000.00",
+  "project_id" : "45128",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2344",
+  "amount" : "10449700.00",
+  "project_id" : "45169",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3574",
+  "amount" : "4969935.00",
+  "project_id" : "45169",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1487",
+  "amount" : "2016922.00",
+  "project_id" : "45169",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2342",
+  "amount" : "1333251.00",
+  "project_id" : "45170",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2707",
+  "amount" : "16785344.00",
+  "project_id" : "45170",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1485",
+  "amount" : "2016749.00",
+  "project_id" : "45170",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1876",
+  "amount" : "663400.00",
+  "project_id" : "45215",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2314",
+  "amount" : "16360000.00",
+  "project_id" : "45239",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2679",
+  "amount" : "11494696.00",
+  "project_id" : "45239",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1457",
+  "amount" : "1000000.00",
+  "project_id" : "45239",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1605",
+  "amount" : "77079.00",
+  "project_id" : "45282",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1931",
+  "amount" : "2965300.00",
+  "project_id" : "45586",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2359",
+  "amount" : "3600000.00",
+  "project_id" : "45667",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3589",
+  "amount" : "10534391.00",
+  "project_id" : "45667",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "3537",
+  "amount" : "9739331.00",
+  "project_id" : "37555",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1880",
+  "amount" : "1040617.00",
+  "project_id" : "37648",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1824",
+  "amount" : "244851.00",
+  "project_id" : "37649",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1921",
+  "amount" : "1141790.00",
+  "project_id" : "38298",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2446",
+  "amount" : "6006000.00",
+  "project_id" : "38868",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2811",
+  "amount" : "7379366.00",
+  "project_id" : "38868",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2153",
+  "amount" : "2000000.00",
+  "project_id" : "44995",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1586",
+  "amount" : "26125000.00",
+  "project_id" : "44995",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4416",
+  "amount" : "24539338.00",
+  "project_id" : "44995",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "5221",
+  "amount" : "252608.00",
+  "project_id" : "48522",
+  "fund_name" : "NSP 2",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2303",
+  "amount" : "5596114.00",
+  "project_id" : "48537",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2367",
+  "amount" : "1800000.00",
+  "project_id" : "46017",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1510",
+  "amount" : "1740000.00",
+  "project_id" : "46017",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2077",
+  "amount" : "613000.00",
+  "project_id" : "46017",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4340",
+  "amount" : "6881012.00",
+  "project_id" : "46017",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2301",
+  "amount" : "1853840.00",
+  "project_id" : "47926",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2011",
+  "amount" : "330000.00",
+  "project_id" : "47926",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2357",
+  "amount" : "8350000.00",
+  "project_id" : "48087",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3587",
+  "amount" : "20664644.00",
+  "project_id" : "48087",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2304",
+  "amount" : "3695617.00",
+  "project_id" : "47932",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2300",
+  "amount" : "12176119.00",
+  "project_id" : "47933",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3029",
+  "amount" : "312030.00",
+  "project_id" : "47803",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2448",
+  "amount" : "6515304.00",
+  "project_id" : "48380",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1591",
+  "amount" : "1740000.00",
+  "project_id" : "48380",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4421",
+  "amount" : "8502950.00",
+  "project_id" : "48380",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2333",
+  "amount" : "1085518.00",
+  "project_id" : "48305",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1476",
+  "amount" : "361845.00",
+  "project_id" : "48305",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1804",
+  "amount" : "1289032.00",
+  "project_id" : "47799",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2392",
+  "amount" : "4983970.00",
+  "project_id" : "47821",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2430",
+  "amount" : "1275000.00",
+  "project_id" : "47865",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2365",
+  "amount" : "633524.00",
+  "project_id" : "48452",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1508",
+  "amount" : "188345.00",
+  "project_id" : "48452",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1830",
+  "amount" : "831787.00",
+  "project_id" : "47774",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1862",
+  "amount" : "1607275.00",
+  "project_id" : "47775",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2225",
+  "amount" : "1000000.00",
+  "project_id" : "47886",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2880",
+  "amount" : "16890000.00",
+  "project_id" : "47886",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1658",
+  "amount" : "1896041.00",
+  "project_id" : "47886",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2486",
+  "amount" : "2000000.00",
+  "project_id" : "48365",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "5013",
+  "amount" : "1500000.00",
+  "project_id" : "48873",
+  "fund_name" : "NSP 3",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2016",
+  "amount" : "1500000.00",
+  "project_id" : "48884",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2499",
+  "amount" : "68895.00",
+  "project_id" : "47945",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2285",
+  "amount" : "311572.00",
+  "project_id" : "48888",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "367",
+  "amount" : "336000.00",
+  "project_id" : "48887",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "441",
+  "amount" : "1750000.00",
+  "project_id" : "48910",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "442",
+  "amount" : "750000.00",
+  "project_id" : "48910",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "449",
+  "amount" : "663840.00",
+  "project_id" : "48755",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "450",
+  "amount" : "150000.00",
+  "project_id" : "48755",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "461",
+  "amount" : "101933.00",
+  "project_id" : "48733",
+  "fund_name" : "HODAG Program Income",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "465",
+  "amount" : "6175000.00",
+  "project_id" : "49517",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "466",
+  "amount" : "750000.00",
+  "project_id" : "49517",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "488",
+  "amount" : "383613.00",
+  "project_id" : "48892",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "490",
+  "amount" : "580183.00",
+  "project_id" : "48891",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "491",
+  "amount" : "4500000.00",
+  "project_id" : "49275",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1866",
+  "amount" : "94455.00",
+  "project_id" : "48744",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1894",
+  "amount" : "78760.00",
+  "project_id" : "48623",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "647",
+  "amount" : "169595.00",
+  "project_id" : "48730",
+  "fund_name" : "HODAG Program Income",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "651",
+  "amount" : "438791.00",
+  "project_id" : "48681",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "654",
+  "amount" : "680663.00",
+  "project_id" : "49060",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "657",
+  "amount" : "376022.00",
+  "project_id" : "48685",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "668",
+  "amount" : "7222005.00",
+  "project_id" : "44865",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "669",
+  "amount" : "744000.00",
+  "project_id" : "44865",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4005",
+  "amount" : "3262131.00",
+  "project_id" : "48555",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2259",
+  "amount" : "125000.00",
+  "project_id" : "44420",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2624",
+  "amount" : "4935000.00",
+  "project_id" : "44420",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1402",
+  "amount" : "5625000.00",
+  "project_id" : "44420",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "695",
+  "amount" : "1096039.00",
+  "project_id" : "48690",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "698",
+  "amount" : "642598.00",
+  "project_id" : "49070",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "704",
+  "amount" : "223969.00",
+  "project_id" : "48677",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "709",
+  "amount" : "118291.00",
+  "project_id" : "47838",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2442",
+  "amount" : "6700000.00",
+  "project_id" : "48689",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4415",
+  "amount" : "15462622.00",
+  "project_id" : "48689",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2293",
+  "amount" : "1016509.00",
+  "project_id" : "48415",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "715",
+  "amount" : "5250000.00",
+  "project_id" : "48765",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1793",
+  "amount" : "209000.00",
+  "project_id" : "47770",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2449",
+  "amount" : "133265.00",
+  "project_id" : "47824",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2358",
+  "amount" : "133324.00",
+  "project_id" : "47826",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2138",
+  "amount" : "1500000.00",
+  "project_id" : "44423",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2793",
+  "amount" : "8400970.00",
+  "project_id" : "44423",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1571",
+  "amount" : "289069.00",
+  "project_id" : "44423",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3188",
+  "amount" : "1145931.00",
+  "project_id" : "44423",
+  "fund_name" : "NSP 1",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "5392",
+  "amount" : "1500000.00",
+  "project_id" : "44423",
+  "fund_name" : "NSP 3",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4554",
+  "amount" : "1145931.00",
+  "project_id" : "44423",
+  "fund_name" : "NSP 2",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2395",
+  "amount" : "593475.00",
+  "project_id" : "47822",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2369",
+  "amount" : "315211.00",
+  "project_id" : "47873",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2270",
+  "amount" : "540000.00",
+  "project_id" : "47866",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2362",
+  "amount" : "997125.00",
+  "project_id" : "47867",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3458",
+  "amount" : "21698350.00",
+  "project_id" : "48126",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2364",
+  "amount" : "9849071.00",
+  "project_id" : "47882",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4337",
+  "amount" : "22961085.00",
+  "project_id" : "47882",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2295",
+  "amount" : "3000000.00",
+  "project_id" : "44373",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2660",
+  "amount" : "29775759.00",
+  "project_id" : "44373",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1438",
+  "amount" : "9972339.00",
+  "project_id" : "44373",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3867",
+  "amount" : "10432724.00",
+  "project_id" : "45961",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2750",
+  "amount" : "9281972.00",
+  "project_id" : "48533",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "4981",
+  "amount" : "3400000.00",
+  "project_id" : "48533",
+  "fund_name" : "NSP 3",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2689",
+  "amount" : "18053528.00",
+  "project_id" : "48086",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2271",
+  "amount" : "659307.00",
+  "project_id" : "47831",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2321",
+  "amount" : "396726.00",
+  "project_id" : "48390",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2267",
+  "amount" : "248942.00",
+  "project_id" : "48060",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1810",
+  "amount" : "35000.00",
+  "project_id" : "47798",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1750",
+  "amount" : "1945000.00",
+  "project_id" : "48511",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1847",
+  "amount" : "6480000.00",
+  "project_id" : "48511",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3949",
+  "amount" : "7142905.00",
+  "project_id" : "48511",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2508",
+  "amount" : "4204911.00",
+  "project_id" : "48521",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2252",
+  "amount" : "15290806.00",
+  "project_id" : "48532",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3482",
+  "amount" : "1200000.00",
+  "project_id" : "48532",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "3756",
+  "amount" : "6500000.00",
+  "project_id" : "48532",
+  "fund_name" : "NSP 1",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "376",
+  "amount" : "232515.00",
+  "project_id" : "48890",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "507",
+  "amount" : "5254590.00",
+  "project_id" : "48686",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "515",
+  "amount" : "1744817.00",
+  "project_id" : "49103",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "517",
+  "amount" : "3295183.00",
+  "project_id" : "49103",
+  "fund_name" : "421-a Fund",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "520",
+  "amount" : "1120795.00",
+  "project_id" : "48754",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "521",
+  "amount" : "58989.00",
+  "project_id" : "48754",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "524",
+  "amount" : "75000.00",
+  "project_id" : "48896",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "534",
+  "amount" : "2000000.00",
+  "project_id" : "48889",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "536",
+  "amount" : "2000000.00",
+  "project_id" : "48889",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "538",
+  "amount" : "5024659.00",
+  "project_id" : "48660",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "545",
+  "amount" : "3064015.00",
+  "project_id" : "48625",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "548",
+  "amount" : "6809168.00",
+  "project_id" : "48632",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2345",
+  "amount" : "416137.00",
+  "project_id" : "47883",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "557",
+  "amount" : "3753156.00",
+  "project_id" : "48634",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "560",
+  "amount" : "559999.00",
+  "project_id" : "48897",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "564",
+  "amount" : "1365000.00",
+  "project_id" : "47772",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "565",
+  "amount" : "282452.00",
+  "project_id" : "48788",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "568",
+  "amount" : "5757148.00",
+  "project_id" : "48657",
+  "fund_name" : "421-a Fund",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "571",
+  "amount" : "279968.00",
+  "project_id" : "48902",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "574",
+  "amount" : "1758770.00",
+  "project_id" : "48895",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "575",
+  "amount" : "1627267.00",
+  "project_id" : "48752",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2445",
+  "amount" : "1798110.00",
+  "project_id" : "47639",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1331",
+  "amount" : "7140000.00",
+  "project_id" : "48125",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3454",
+  "amount" : "13713805.00",
+  "project_id" : "48125",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2422",
+  "amount" : "195599.00",
+  "project_id" : "47921",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1565",
+  "amount" : "6804401.00",
+  "project_id" : "47921",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4395",
+  "amount" : "21226141.00",
+  "project_id" : "47921",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "739",
+  "amount" : "45700000.00",
+  "project_id" : "48726",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "745",
+  "amount" : "22300000.00",
+  "project_id" : "49143",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "753",
+  "amount" : "2314490.00",
+  "project_id" : "46299",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "754",
+  "amount" : "1195010.00",
+  "project_id" : "46299",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "761",
+  "amount" : "1500000.00",
+  "project_id" : "47805",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "766",
+  "amount" : "10879312.00",
+  "project_id" : "47805",
+  "fund_name" : "421-a Fund",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "774",
+  "amount" : "1500000.00",
+  "project_id" : "49534",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "782",
+  "amount" : "4900776.00",
+  "project_id" : "49534",
+  "fund_name" : "421-a Fund",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "786",
+  "amount" : "1400000.00",
+  "project_id" : "48003",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "787",
+  "amount" : "2650000.00",
+  "project_id" : "48003",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "790",
+  "amount" : "7200000.00",
+  "project_id" : "48003",
+  "fund_name" : "421-a Fund",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2249",
+  "amount" : "315000.00",
+  "project_id" : "44275",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1959",
+  "amount" : "1500000.00",
+  "project_id" : "44275",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "799",
+  "amount" : "1166000.00",
+  "project_id" : "44369",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "800",
+  "amount" : "1166000.00",
+  "project_id" : "44369",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "807",
+  "amount" : "1038500.00",
+  "project_id" : "44258",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "812",
+  "amount" : "6699866.00",
+  "project_id" : "44362",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "814",
+  "amount" : "4000000.00",
+  "project_id" : "44362",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2146",
+  "amount" : "500000.00",
+  "project_id" : "45142",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2436",
+  "amount" : "120000.00",
+  "project_id" : "45142",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2801",
+  "amount" : "6174251.00",
+  "project_id" : "45142",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1579",
+  "amount" : "5160000.00",
+  "project_id" : "45142",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "827",
+  "amount" : "6739000.00",
+  "project_id" : "48771",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "841",
+  "amount" : "6747120.00",
+  "project_id" : "46076",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1348",
+  "amount" : "9093470.00",
+  "project_id" : "44512",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1384",
+  "amount" : "712630.00",
+  "project_id" : "44512",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1951",
+  "amount" : "1500000.00",
+  "project_id" : "44512",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "853",
+  "amount" : "6201648.00",
+  "project_id" : "45301",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "854",
+  "amount" : "750000.00",
+  "project_id" : "45301",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2431",
+  "amount" : "8940002.00",
+  "project_id" : "44345",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4404",
+  "amount" : "10710000.00",
+  "project_id" : "44345",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "861",
+  "amount" : "6840000.00",
+  "project_id" : "45677",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2397",
+  "amount" : "8141991.00",
+  "project_id" : "47843",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1540",
+  "amount" : "2350000.00",
+  "project_id" : "47843",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4370",
+  "amount" : "5584081.00",
+  "project_id" : "47843",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2407",
+  "amount" : "512686.00",
+  "project_id" : "48414",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2278",
+  "amount" : "540590.00",
+  "project_id" : "48423",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1769",
+  "amount" : "65726.00",
+  "project_id" : "48425",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2312",
+  "amount" : "938158.00",
+  "project_id" : "48514",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2311",
+  "amount" : "1184925.00",
+  "project_id" : "48515",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2383",
+  "amount" : "2450000.00",
+  "project_id" : "48540",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4356",
+  "amount" : "3419776.00",
+  "project_id" : "48540",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1336",
+  "amount" : "8350000.00",
+  "project_id" : "47477",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3459",
+  "amount" : "20664644.00",
+  "project_id" : "47477",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1308",
+  "amount" : "2336681.00",
+  "project_id" : "45336",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3054",
+  "amount" : "575000.00",
+  "project_id" : "45336",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3431",
+  "amount" : "1063318.00",
+  "project_id" : "45336",
+  "fund_name" : "NSP 1",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4797",
+  "amount" : "1063318.00",
+  "project_id" : "45336",
+  "fund_name" : "NSP 2",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3705",
+  "amount" : "12463000.00",
+  "project_id" : "45336",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2134",
+  "amount" : "750000.00",
+  "project_id" : "44349",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2424",
+  "amount" : "3912484.00",
+  "project_id" : "44349",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1567",
+  "amount" : "2447516.00",
+  "project_id" : "44349",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4397",
+  "amount" : "14433001.00",
+  "project_id" : "44349",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2728",
+  "amount" : "4573117.00",
+  "project_id" : "46259",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2073",
+  "amount" : "750000.00",
+  "project_id" : "46259",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2248",
+  "amount" : "8460000.00",
+  "project_id" : "44336",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3478",
+  "amount" : "19195590.00",
+  "project_id" : "44336",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2356",
+  "amount" : "125000.00",
+  "project_id" : "47463",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2721",
+  "amount" : "6967509.00",
+  "project_id" : "47463",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1499",
+  "amount" : "7875000.00",
+  "project_id" : "47463",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2163",
+  "amount" : "2500000.00",
+  "project_id" : "45990",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2453",
+  "amount" : "1400000.00",
+  "project_id" : "45990",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1596",
+  "amount" : "2500000.00",
+  "project_id" : "45990",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3213",
+  "amount" : "1350000.00",
+  "project_id" : "45990",
+  "fund_name" : "NSP 1",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4426",
+  "amount" : "12153544.00",
+  "project_id" : "45990",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "4579",
+  "amount" : "1350000.00",
+  "project_id" : "45990",
+  "fund_name" : "NSP 2",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2371",
+  "amount" : "6318326.00",
+  "project_id" : "44320",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1514",
+  "amount" : "1996174.00",
+  "project_id" : "44320",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4344",
+  "amount" : "18533163.00",
+  "project_id" : "44320",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2400",
+  "amount" : "5611939.00",
+  "project_id" : "44403",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1543",
+  "amount" : "2447516.00",
+  "project_id" : "44403",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4373",
+  "amount" : "21736601.00",
+  "project_id" : "44403",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2283",
+  "amount" : "125000.00",
+  "project_id" : "44544",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2648",
+  "amount" : "6140230.00",
+  "project_id" : "44544",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1426",
+  "amount" : "4355000.00",
+  "project_id" : "44544",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3787",
+  "amount" : "1520000.00",
+  "project_id" : "44544",
+  "fund_name" : "NSP 1",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "5249",
+  "amount" : "1520000.00",
+  "project_id" : "44544",
+  "fund_name" : "NSP 2",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2759",
+  "amount" : "17541746.00",
+  "project_id" : "48536",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1537",
+  "amount" : "1500000.00",
+  "project_id" : "48536",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2104",
+  "amount" : "2000000.00",
+  "project_id" : "48536",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2912",
+  "amount" : "4587709.00",
+  "project_id" : "44377",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1690",
+  "amount" : "2625000.00",
+  "project_id" : "44377",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1787",
+  "amount" : "125000.00",
+  "project_id" : "44377",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2403",
+  "amount" : "3500000.00",
+  "project_id" : "45206",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1546",
+  "amount" : "2078742.00",
+  "project_id" : "45206",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4376",
+  "amount" : "626220.00",
+  "project_id" : "45206",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2495",
+  "amount" : "2180868.00",
+  "project_id" : "39498",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2608",
+  "amount" : "3384928.00",
+  "project_id" : "41403",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1350",
+  "amount" : "2798232.00",
+  "project_id" : "41403",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1386",
+  "amount" : "3780000.00",
+  "project_id" : "41403",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1953",
+  "amount" : "500000.00",
+  "project_id" : "41403",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3747",
+  "amount" : "465000.00",
+  "project_id" : "41403",
+  "fund_name" : "NSP 1",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "640",
+  "amount" : "69600.00",
+  "project_id" : "48748",
+  "fund_name" : "HODAG Program Income",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1854",
+  "amount" : "92290.00",
+  "project_id" : "48745",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1864",
+  "amount" : "103620.00",
+  "project_id" : "48738",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1358",
+  "amount" : "1105626.00",
+  "project_id" : "41406",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1925",
+  "amount" : "800000.00",
+  "project_id" : "41406",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2441",
+  "amount" : "600000.00",
+  "project_id" : "39382",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1584",
+  "amount" : "8770543.00",
+  "project_id" : "39382",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2781",
+  "amount" : "8278200.00",
+  "project_id" : "42085",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2353",
+  "amount" : "1054160.00",
+  "project_id" : "43143",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2718",
+  "amount" : "5760312.00",
+  "project_id" : "43143",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2063",
+  "amount" : "500000.00",
+  "project_id" : "43143",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2753",
+  "amount" : "3959604.00",
+  "project_id" : "41835",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1531",
+  "amount" : "4976121.00",
+  "project_id" : "41835",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2098",
+  "amount" : "750000.00",
+  "project_id" : "41835",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2343",
+  "amount" : "522156.00",
+  "project_id" : "45171",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2708",
+  "amount" : "21140456.00",
+  "project_id" : "45171",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1486",
+  "amount" : "2156537.00",
+  "project_id" : "45171",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3847",
+  "amount" : "2821307.00",
+  "project_id" : "45171",
+  "fund_name" : "NSP 1",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "865",
+  "amount" : "6875000.00",
+  "project_id" : "48641",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "867",
+  "amount" : "4413310.00",
+  "project_id" : "45223",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "879",
+  "amount" : "1000000.00",
+  "project_id" : "48928",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2257",
+  "amount" : "1400000.00",
+  "project_id" : "39191",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2622",
+  "amount" : "10035500.00",
+  "project_id" : "39191",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1400",
+  "amount" : "9400000.00",
+  "project_id" : "39191",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2507",
+  "amount" : "6595834.00",
+  "project_id" : "43370",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2592",
+  "amount" : "7691038.00",
+  "project_id" : "48510",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1334",
+  "amount" : "991556.00",
+  "project_id" : "48510",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1370",
+  "amount" : "2609754.00",
+  "project_id" : "48510",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2820",
+  "amount" : "4958304.00",
+  "project_id" : "45978",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1598",
+  "amount" : "1380000.00",
+  "project_id" : "45978",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "391",
+  "amount" : "2457000.00",
+  "project_id" : "47850",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "397",
+  "amount" : "4218339.00",
+  "project_id" : "47767",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2262",
+  "amount" : "1701141.00",
+  "project_id" : "47914",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2974",
+  "amount" : "1100000.00",
+  "project_id" : "44446",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1831",
+  "amount" : "4800000.00",
+  "project_id" : "44446",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3538",
+  "amount" : "8600000.00",
+  "project_id" : "44504",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2308",
+  "amount" : "21875000.00",
+  "project_id" : "44504",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2389",
+  "amount" : "5900000.00",
+  "project_id" : "44480",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2377",
+  "amount" : "1045000.00",
+  "project_id" : "44482",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2742",
+  "amount" : "6278000.00",
+  "project_id" : "44482",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1520",
+  "amount" : "1971503.00",
+  "project_id" : "44482",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2590",
+  "amount" : "32031968.00",
+  "project_id" : "44500",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1332",
+  "amount" : "13067513.00",
+  "project_id" : "44500",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1368",
+  "amount" : "2421199.00",
+  "project_id" : "44500",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2447",
+  "amount" : "5100000.00",
+  "project_id" : "44463",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2337",
+  "amount" : "2383000.00",
+  "project_id" : "45754",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3567",
+  "amount" : "14111103.00",
+  "project_id" : "45754",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1480",
+  "amount" : "1617000.00",
+  "project_id" : "45754",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1346",
+  "amount" : "388642.00",
+  "project_id" : "45761",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1382",
+  "amount" : "1711358.00",
+  "project_id" : "45761",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3469",
+  "amount" : "23458000.00",
+  "project_id" : "45761",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2510",
+  "amount" : "330000.00",
+  "project_id" : "45798",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2319",
+  "amount" : "2492000.00",
+  "project_id" : "45826",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1462",
+  "amount" : "7131580.00",
+  "project_id" : "45826",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1809",
+  "amount" : "67431.00",
+  "project_id" : "45846",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2332",
+  "amount" : "1570300.00",
+  "project_id" : "45852",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2042",
+  "amount" : "6059700.00",
+  "project_id" : "45852",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2291",
+  "amount" : "3291293.00",
+  "project_id" : "45862",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2305",
+  "amount" : "5390788.00",
+  "project_id" : "45863",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2335",
+  "amount" : "5258870.00",
+  "project_id" : "45872",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1478",
+  "amount" : "1752957.00",
+  "project_id" : "45872",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1333",
+  "amount" : "14110000.00",
+  "project_id" : "44499",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1936",
+  "amount" : "1500000.00",
+  "project_id" : "44499",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3504",
+  "amount" : "4001526.00",
+  "project_id" : "44514",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1417",
+  "amount" : "5107967.00",
+  "project_id" : "44514",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2578",
+  "amount" : "7392761.00",
+  "project_id" : "44516",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1320",
+  "amount" : "2500000.00",
+  "project_id" : "44516",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1356",
+  "amount" : "1798921.00",
+  "project_id" : "44516",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2426",
+  "amount" : "10128104.00",
+  "project_id" : "44473",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1569",
+  "amount" : "2191896.00",
+  "project_id" : "44473",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4399",
+  "amount" : "15597546.00",
+  "project_id" : "44473",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2504",
+  "amount" : "10625000.00",
+  "project_id" : "44450",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2313",
+  "amount" : "2200000.00",
+  "project_id" : "44502",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2678",
+  "amount" : "2879712.00",
+  "project_id" : "44502",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2330",
+  "amount" : "2814275.00",
+  "project_id" : "44493",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3560",
+  "amount" : "8736002.00",
+  "project_id" : "44493",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1473",
+  "amount" : "2171369.00",
+  "project_id" : "44493",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2258",
+  "amount" : "2158529.00",
+  "project_id" : "44447",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2623",
+  "amount" : "17871012.00",
+  "project_id" : "44447",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1401",
+  "amount" : "2021471.00",
+  "project_id" : "44447",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2829",
+  "amount" : "6178082.00",
+  "project_id" : "44455",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1607",
+  "amount" : "1700000.00",
+  "project_id" : "44455",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2299",
+  "amount" : "4377554.00",
+  "project_id" : "44505",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1442",
+  "amount" : "1950010.00",
+  "project_id" : "44505",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2309",
+  "amount" : "5476647.00",
+  "project_id" : "44503",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1452",
+  "amount" : "1837353.00",
+  "project_id" : "44503",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2735",
+  "amount" : "11164910.00",
+  "project_id" : "44484",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1513",
+  "amount" : "1724594.00",
+  "project_id" : "44484",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2323",
+  "amount" : "7680000.00",
+  "project_id" : "44496",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3553",
+  "amount" : "12278738.00",
+  "project_id" : "44496",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2703",
+  "amount" : "9124564.00",
+  "project_id" : "44491",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1481",
+  "amount" : "1780880.00",
+  "project_id" : "44491",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2048",
+  "amount" : "240000.00",
+  "project_id" : "44491",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2409",
+  "amount" : "11820000.00",
+  "project_id" : "44263",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4382",
+  "amount" : "25909425.00",
+  "project_id" : "44263",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2322",
+  "amount" : "2360083.00",
+  "project_id" : "44413",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3552",
+  "amount" : "8595000.00",
+  "project_id" : "44413",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1465",
+  "amount" : "1587905.00",
+  "project_id" : "44413",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2032",
+  "amount" : "400000.00",
+  "project_id" : "44413",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2411",
+  "amount" : "7440000.00",
+  "project_id" : "44354",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2121",
+  "amount" : "1078000.00",
+  "project_id" : "44354",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4384",
+  "amount" : "12822806.00",
+  "project_id" : "44354",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1817",
+  "amount" : "1499159.00",
+  "project_id" : "45875",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2581",
+  "amount" : "14400246.00",
+  "project_id" : "45884",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1799",
+  "amount" : "623755.00",
+  "project_id" : "45887",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1763",
+  "amount" : "792702.00",
+  "project_id" : "45889",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1778",
+  "amount" : "1373475.00",
+  "project_id" : "45890",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1790",
+  "amount" : "803083.00",
+  "project_id" : "45891",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2340",
+  "amount" : "3192388.00",
+  "project_id" : "45893",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1339",
+  "amount" : "924177.00",
+  "project_id" : "45894",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1321",
+  "amount" : "765000.00",
+  "project_id" : "45902",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2360",
+  "amount" : "368325.00",
+  "project_id" : "45904",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2440",
+  "amount" : "129918.00",
+  "project_id" : "45905",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2310",
+  "amount" : "320492.00",
+  "project_id" : "45906",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2348",
+  "amount" : "610152.00",
+  "project_id" : "45908",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2325",
+  "amount" : "528380.00",
+  "project_id" : "45909",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1319",
+  "amount" : "6208230.00",
+  "project_id" : "45910",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3442",
+  "amount" : "19561921.00",
+  "project_id" : "45910",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2491",
+  "amount" : "23425.00",
+  "project_id" : "45913",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2415",
+  "amount" : "552573.00",
+  "project_id" : "45914",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2414",
+  "amount" : "217958.00",
+  "project_id" : "45915",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2402",
+  "amount" : "239844.00",
+  "project_id" : "45916",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2458",
+  "amount" : "324021.00",
+  "project_id" : "45917",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1822",
+  "amount" : "363823.00",
+  "project_id" : "45920",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1882",
+  "amount" : "1161666.00",
+  "project_id" : "45921",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2318",
+  "amount" : "502750.00",
+  "project_id" : "45924",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1461",
+  "amount" : "1508242.00",
+  "project_id" : "45924",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1698",
+  "amount" : "1046033.00",
+  "project_id" : "46389",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1795",
+  "amount" : "1942633.00",
+  "project_id" : "46389",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2399",
+  "amount" : "3973000.00",
+  "project_id" : "44355",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2764",
+  "amount" : "11730027.00",
+  "project_id" : "44355",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2792",
+  "amount" : "5358569.00",
+  "project_id" : "44226",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2769",
+  "amount" : "8584000.00",
+  "project_id" : "44990",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1547",
+  "amount" : "2412051.00",
+  "project_id" : "44990",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2114",
+  "amount" : "1500000.00",
+  "project_id" : "44990",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2329",
+  "amount" : "4728254.00",
+  "project_id" : "44587",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3559",
+  "amount" : "12758657.00",
+  "project_id" : "44587",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1472",
+  "amount" : "2291746.00",
+  "project_id" : "44587",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2025",
+  "amount" : "850000.00",
+  "project_id" : "45095",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3819",
+  "amount" : "3382463.00",
+  "project_id" : "45095",
+  "fund_name" : "NSP 1",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "5281",
+  "amount" : "3382463.00",
+  "project_id" : "45095",
+  "fund_name" : "NSP 2",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2391",
+  "amount" : "262170.00",
+  "project_id" : "44657",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1534",
+  "amount" : "1622830.00",
+  "project_id" : "44657",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2101",
+  "amount" : "1000000.00",
+  "project_id" : "44657",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4364",
+  "amount" : "4251421.00",
+  "project_id" : "44657",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "3557",
+  "amount" : "13368537.00",
+  "project_id" : "44344",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1470",
+  "amount" : "6900000.00",
+  "project_id" : "44344",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2432",
+  "amount" : "2225000.00",
+  "project_id" : "44415",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1575",
+  "amount" : "14742912.00",
+  "project_id" : "44415",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4405",
+  "amount" : "34809417.00",
+  "project_id" : "44415",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1722",
+  "amount" : "2552880.00",
+  "project_id" : "44314",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1819",
+  "amount" : "5405120.00",
+  "project_id" : "44314",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3921",
+  "amount" : "26390560.00",
+  "project_id" : "44314",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2351",
+  "amount" : "2803846.00",
+  "project_id" : "45304",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1509",
+  "amount" : "4119031.00",
+  "project_id" : "45866",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2493",
+  "amount" : "2853000.00",
+  "project_id" : "44451",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3527",
+  "amount" : "7134199.00",
+  "project_id" : "44507",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1440",
+  "amount" : "1871573.00",
+  "project_id" : "44507",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2254",
+  "amount" : "560552.00",
+  "project_id" : "44464",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2619",
+  "amount" : "5308224.00",
+  "project_id" : "44464",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1397",
+  "amount" : "2371233.00",
+  "project_id" : "44464",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1365",
+  "amount" : "8891884.00",
+  "project_id" : "44506",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3452",
+  "amount" : "8896352.00",
+  "project_id" : "44506",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2006",
+  "amount" : "9600000.00",
+  "project_id" : "44508",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2317",
+  "amount" : "8838900.00",
+  "project_id" : "44501",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2682",
+  "amount" : "14904623.71",
+  "project_id" : "44501",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2485",
+  "amount" : "1413529.00",
+  "project_id" : "44452",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1628",
+  "amount" : "1725383.00",
+  "project_id" : "44452",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2145",
+  "amount" : "8692678.00",
+  "project_id" : "44221",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2435",
+  "amount" : "15107322.00",
+  "project_id" : "44221",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4408",
+  "amount" : "30571786.00",
+  "project_id" : "44221",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2376",
+  "amount" : "2800000.00",
+  "project_id" : "44408",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1519",
+  "amount" : "3000000.00",
+  "project_id" : "44408",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4349",
+  "amount" : "13387729.00",
+  "project_id" : "44408",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2711",
+  "amount" : "5588441.00",
+  "project_id" : "44299",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "3850",
+  "amount" : "2599000.00",
+  "project_id" : "44299",
+  "fund_name" : "NSP 1",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "5312",
+  "amount" : "2599000.00",
+  "project_id" : "44299",
+  "fund_name" : "NSP 2",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3503",
+  "amount" : "11500000.00",
+  "project_id" : "44515",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2273",
+  "amount" : "1875219.00",
+  "project_id" : "44515",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1416",
+  "amount" : "9774781.00",
+  "project_id" : "44515",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2170",
+  "amount" : "360000.00",
+  "project_id" : "44605",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2825",
+  "amount" : "5951253.00",
+  "project_id" : "44605",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1340",
+  "amount" : "1590000.00",
+  "project_id" : "47842",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1943",
+  "amount" : "3000000.00",
+  "project_id" : "47842",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4829",
+  "amount" : "4500000.00",
+  "project_id" : "47842",
+  "fund_name" : "NSP 3",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "576",
+  "amount" : "2558598.00",
+  "project_id" : "48254",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "578",
+  "amount" : "500000.00",
+  "project_id" : "48254",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2128",
+  "amount" : "1500000.00",
+  "project_id" : "44477",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2418",
+  "amount" : "5550000.00",
+  "project_id" : "44477",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2413",
+  "amount" : "4849000.00",
+  "project_id" : "48534",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2778",
+  "amount" : "16658334.00",
+  "project_id" : "48534",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1556",
+  "amount" : "1453000.00",
+  "project_id" : "48534",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2123",
+  "amount" : "927000.00",
+  "project_id" : "48534",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2341",
+  "amount" : "3840000.00",
+  "project_id" : "44382",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2706",
+  "amount" : "12404359.00",
+  "project_id" : "44382",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2133",
+  "amount" : "490000.00",
+  "project_id" : "44474",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2788",
+  "amount" : "8182401.00",
+  "project_id" : "44474",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1566",
+  "amount" : "2531532.00",
+  "project_id" : "44474",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3592",
+  "amount" : "7020943.00",
+  "project_id" : "44358",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2941",
+  "amount" : "750000.00",
+  "project_id" : "44358",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1701",
+  "amount" : "4925851.00",
+  "project_id" : "44358",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2354",
+  "amount" : "1097471.00",
+  "project_id" : "47704",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1497",
+  "amount" : "172460.00",
+  "project_id" : "47704",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2328",
+  "amount" : "332171.00",
+  "project_id" : "48444",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1978",
+  "amount" : "2500000.00",
+  "project_id" : "48783",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "486",
+  "amount" : "312010.00",
+  "project_id" : "49058",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "660",
+  "amount" : "8240000.00",
+  "project_id" : "48639",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "661",
+  "amount" : "2000000.00",
+  "project_id" : "48639",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "701",
+  "amount" : "369982.00",
+  "project_id" : "48678",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "712",
+  "amount" : "105000.00",
+  "project_id" : "48676",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2368",
+  "amount" : "228065.00",
+  "project_id" : "47880",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2461",
+  "amount" : "2749867.00",
+  "project_id" : "47844",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "510",
+  "amount" : "1285542.00",
+  "project_id" : "48683",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "525",
+  "amount" : "1514928.00",
+  "project_id" : "48886",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2256",
+  "amount" : "205979.00",
+  "project_id" : "48809",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "561",
+  "amount" : "113135.00",
+  "project_id" : "48760",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "562",
+  "amount" : "250000.00",
+  "project_id" : "48760",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "572",
+  "amount" : "1295000.00",
+  "project_id" : "47862",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "726",
+  "amount" : "5100500.00",
+  "project_id" : "48909",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2985",
+  "amount" : "2300000.00",
+  "project_id" : "44807",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1842",
+  "amount" : "6060000.00",
+  "project_id" : "44807",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3944",
+  "amount" : "5848739.00",
+  "project_id" : "44807",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "796",
+  "amount" : "1062515.00",
+  "project_id" : "44249",
+  "fund_name" : "421-a Fund",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "846",
+  "amount" : "2200000.00",
+  "project_id" : "45280",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "847",
+  "amount" : "400000.00",
+  "project_id" : "45280",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "849",
+  "amount" : "1408804.00",
+  "project_id" : "45280",
+  "fund_name" : "Purchase Money Mortgage",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3453",
+  "amount" : "5148678.00",
+  "project_id" : "48559",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2420",
+  "amount" : "125000.00",
+  "project_id" : "44366",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2785",
+  "amount" : "8359449.00",
+  "project_id" : "44366",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1563",
+  "amount" : "10750000.00",
+  "project_id" : "44366",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "607",
+  "amount" : "4475000.00",
+  "project_id" : "45675",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "643",
+  "amount" : "164941.00",
+  "project_id" : "48746",
+  "fund_name" : "HODAG Program Income",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "881",
+  "amount" : "121000.00",
+  "project_id" : "49067",
+  "fund_name" : "Reso A",
+  "type" : "Grant"
+}
+, {
+  "fund_dw_id" : "1341",
+  "amount" : "934767.00",
+  "project_id" : "44457",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1377",
+  "amount" : "2204976.00",
+  "project_id" : "44457",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3464",
+  "amount" : "4984000.00",
+  "project_id" : "44457",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2336",
+  "amount" : "1746020.00",
+  "project_id" : "44812",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3566",
+  "amount" : "8299391.00",
+  "project_id" : "44812",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1479",
+  "amount" : "1793980.00",
+  "project_id" : "44812",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2046",
+  "amount" : "1050000.00",
+  "project_id" : "44812",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1285",
+  "amount" : "258296.00",
+  "project_id" : "47967",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1888",
+  "amount" : "664191.00",
+  "project_id" : "47967",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2294",
+  "amount" : "2599542.00",
+  "project_id" : "44510",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1437",
+  "amount" : "1720458.00",
+  "project_id" : "44510",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "5854",
+  "amount" : "1020000.00",
+  "project_id" : "79",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "6178",
+  "amount" : "4865927.00",
+  "project_id" : "80",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6177",
+  "amount" : "4068470.00",
+  "project_id" : "81",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6176",
+  "amount" : "15482242.00",
+  "project_id" : "82",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6175",
+  "amount" : "20552043.00",
+  "project_id" : "83",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6171",
+  "amount" : "962989.00",
+  "project_id" : "85",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6165",
+  "amount" : "4909012.00",
+  "project_id" : "87",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6164",
+  "amount" : "5178662.00",
+  "project_id" : "89",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6160",
+  "amount" : "4974604.00",
+  "project_id" : "92",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6156",
+  "amount" : "7694166.00",
+  "project_id" : "73",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6153",
+  "amount" : "19675000.00",
+  "project_id" : "88",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6152",
+  "amount" : "13950163.00",
+  "project_id" : "95",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6151",
+  "amount" : "10336336.00",
+  "project_id" : "96",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6150",
+  "amount" : "5517967.00",
+  "project_id" : "97",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6149",
+  "amount" : "14536946.00",
+  "project_id" : "98",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2326",
+  "amount" : "640516.00",
+  "project_id" : "42851",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2131",
+  "amount" : "2000000.00",
+  "project_id" : "43129",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2421",
+  "amount" : "175088.00",
+  "project_id" : "43129",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1564",
+  "amount" : "1501045.00",
+  "project_id" : "43129",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2463",
+  "amount" : "293686.00",
+  "project_id" : "43187",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2292",
+  "amount" : "809943.00",
+  "project_id" : "43214",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2269",
+  "amount" : "329595.00",
+  "project_id" : "43232",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2483",
+  "amount" : "1189996.00",
+  "project_id" : "43277",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1797",
+  "amount" : "372385.00",
+  "project_id" : "43306",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1836",
+  "amount" : "1748065.00",
+  "project_id" : "43322",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3055",
+  "amount" : "1000000.00",
+  "project_id" : "43791",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3706",
+  "amount" : "6494400.00",
+  "project_id" : "43791",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "3888",
+  "amount" : "1173998.00",
+  "project_id" : "44894",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1582",
+  "amount" : "46201.00",
+  "project_id" : "45283",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1388",
+  "amount" : "47596.00",
+  "project_id" : "45284",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "6148",
+  "amount" : "16603556.00",
+  "project_id" : "99",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6147",
+  "amount" : "10647870.00",
+  "project_id" : "100",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6146",
+  "amount" : "22928147.00",
+  "project_id" : "101",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6145",
+  "amount" : "16101624.00",
+  "project_id" : "102",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6144",
+  "amount" : "10130220.00",
+  "project_id" : "103",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6143",
+  "amount" : "4199739.00",
+  "project_id" : "104",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6142",
+  "amount" : "22236944.00",
+  "project_id" : "105",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6141",
+  "amount" : "17479111.00",
+  "project_id" : "106",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6140",
+  "amount" : "8639455.00",
+  "project_id" : "107",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6139",
+  "amount" : "11184711.00",
+  "project_id" : "109",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6138",
+  "amount" : "227061.00",
+  "project_id" : "110",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6137",
+  "amount" : "227061.00",
+  "project_id" : "111",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6136",
+  "amount" : "227061.00",
+  "project_id" : "112",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6135",
+  "amount" : "340596.00",
+  "project_id" : "113",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6134",
+  "amount" : "113532.00",
+  "project_id" : "115",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6133",
+  "amount" : "340595.00",
+  "project_id" : "117",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6132",
+  "amount" : "181651.00",
+  "project_id" : "118",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6131",
+  "amount" : "172205.00",
+  "project_id" : "119",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6130",
+  "amount" : "363301.00",
+  "project_id" : "120",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6129",
+  "amount" : "681190.00",
+  "project_id" : "121",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6128",
+  "amount" : "681190.00",
+  "project_id" : "122",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6127",
+  "amount" : "692544.00",
+  "project_id" : "123",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6125",
+  "amount" : "25501309.00",
+  "project_id" : "125",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6124",
+  "amount" : "4999071.00",
+  "project_id" : "124",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6121",
+  "amount" : "6698349.00",
+  "project_id" : "126",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6120",
+  "amount" : "6891731.00",
+  "project_id" : "127",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1794",
+  "amount" : "299882.00",
+  "project_id" : "38677",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2379",
+  "amount" : "125000.00",
+  "project_id" : "44998",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2744",
+  "amount" : "11762729.00",
+  "project_id" : "44998",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1522",
+  "amount" : "11755000.00",
+  "project_id" : "44998",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2602",
+  "amount" : "12546454.00",
+  "project_id" : "45676",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1344",
+  "amount" : "125000.00",
+  "project_id" : "45676",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1380",
+  "amount" : "8675000.00",
+  "project_id" : "45676",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1976",
+  "amount" : "849000.00",
+  "project_id" : "48356",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2334",
+  "amount" : "3984536.00",
+  "project_id" : "48287",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1477",
+  "amount" : "1305279.00",
+  "project_id" : "48287",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1504",
+  "amount" : "1828015.00",
+  "project_id" : "45998",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3121",
+  "amount" : "1610814.00",
+  "project_id" : "45998",
+  "fund_name" : "NSP 1",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "5327",
+  "amount" : "1610814.00",
+  "project_id" : "45998",
+  "fund_name" : "NSP 2",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1780",
+  "amount" : "80315.00",
+  "project_id" : "47769",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2372",
+  "amount" : "562972.00",
+  "project_id" : "47825",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2169",
+  "amount" : "6250000.00",
+  "project_id" : "44255",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2459",
+  "amount" : "4450000.00",
+  "project_id" : "44255",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2824",
+  "amount" : "36868364.00",
+  "project_id" : "44255",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2275",
+  "amount" : "3637034.00",
+  "project_id" : "45781",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2640",
+  "amount" : "26880464.00",
+  "project_id" : "45781",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1418",
+  "amount" : "2362966.00",
+  "project_id" : "45781",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2611",
+  "amount" : "9817865.00",
+  "project_id" : "45001",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1353",
+  "amount" : "125000.00",
+  "project_id" : "45001",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1389",
+  "amount" : "7500000.00",
+  "project_id" : "45001",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1956",
+  "amount" : "500000.00",
+  "project_id" : "45001",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2819",
+  "amount" : "8860814.00",
+  "project_id" : "45317",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1597",
+  "amount" : "1645981.00",
+  "project_id" : "45317",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2503",
+  "amount" : "428304.00",
+  "project_id" : "45820",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2868",
+  "amount" : "6949876.00",
+  "project_id" : "45820",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1646",
+  "amount" : "5500000.00",
+  "project_id" : "45820",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1852",
+  "amount" : "424750.00",
+  "project_id" : "39366",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2519",
+  "amount" : "664705.00",
+  "project_id" : "41409",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2398",
+  "amount" : "212226.00",
+  "project_id" : "43190",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "6119",
+  "amount" : "7535267.00",
+  "project_id" : "128",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6117",
+  "amount" : "15238957.00",
+  "project_id" : "133",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6116",
+  "amount" : "17210858.00",
+  "project_id" : "108",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6115",
+  "amount" : "1737033.00",
+  "project_id" : "114",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6114",
+  "amount" : "1169373.00",
+  "project_id" : "116",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1834",
+  "amount" : "226898.00",
+  "project_id" : "39365",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1342",
+  "amount" : "2252096.00",
+  "project_id" : "39397",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1945",
+  "amount" : "500000.00",
+  "project_id" : "39397",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2374",
+  "amount" : "3277172.00",
+  "project_id" : "39409",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1821",
+  "amount" : "3424636.00",
+  "project_id" : "39455",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2390",
+  "amount" : "248984.00",
+  "project_id" : "39473",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1816",
+  "amount" : "2000000.00",
+  "project_id" : "41278",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3918",
+  "amount" : "2420631.00",
+  "project_id" : "41278",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2585",
+  "amount" : "5073988.55",
+  "project_id" : "41402",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1363",
+  "amount" : "6552000.00",
+  "project_id" : "41402",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1930",
+  "amount" : "500000.00",
+  "project_id" : "41402",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1989",
+  "amount" : "2250000.00",
+  "project_id" : "42671",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2471",
+  "amount" : "6480000.00",
+  "project_id" : "44454",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4444",
+  "amount" : "11201060.00",
+  "project_id" : "44454",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1800",
+  "amount" : "890588.00",
+  "project_id" : "45888",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2511",
+  "amount" : "1629430.00",
+  "project_id" : "45895",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2316",
+  "amount" : "1229995.00",
+  "project_id" : "45907",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1843",
+  "amount" : "294261.00",
+  "project_id" : "45912",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2456",
+  "amount" : "86649.00",
+  "project_id" : "45918",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2115",
+  "amount" : "250000.00",
+  "project_id" : "44991",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4378",
+  "amount" : "8077955.00",
+  "project_id" : "44991",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "478",
+  "amount" : "11176061.00",
+  "project_id" : "47960",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "482",
+  "amount" : "2335887.00",
+  "project_id" : "47960",
+  "fund_name" : "Purchase Money Mortgage",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "522",
+  "amount" : "901066.00",
+  "project_id" : "48794",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "523",
+  "amount" : "2636452.00",
+  "project_id" : "48794",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2642",
+  "amount" : "7164295.00",
+  "project_id" : "44375",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1420",
+  "amount" : "900000.00",
+  "project_id" : "44375",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1987",
+  "amount" : "1250000.00",
+  "project_id" : "44375",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "6200",
+  "amount" : "1901254.00",
+  "project_id" : "59",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6199",
+  "amount" : "15835738.00",
+  "project_id" : "60",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6198",
+  "amount" : "1154957.00",
+  "project_id" : "62",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6195",
+  "amount" : "6162624.00",
+  "project_id" : "64",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6193",
+  "amount" : "7368062.00",
+  "project_id" : "66",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6192",
+  "amount" : "23975576.00",
+  "project_id" : "67",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6190",
+  "amount" : "16263855.00",
+  "project_id" : "69",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6189",
+  "amount" : "6949824.00",
+  "project_id" : "70",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6186",
+  "amount" : "7671784.00",
+  "project_id" : "71",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6184",
+  "amount" : "13392654.00",
+  "project_id" : "74",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "6183",
+  "amount" : "3353067.00",
+  "project_id" : "75",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2148",
+  "amount" : "618000.00",
+  "project_id" : "44323",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2438",
+  "amount" : "4279273.00",
+  "project_id" : "44323",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1581",
+  "amount" : "2383591.00",
+  "project_id" : "44323",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2605",
+  "amount" : "32083651.00",
+  "project_id" : "44513",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1347",
+  "amount" : "9767756.00",
+  "project_id" : "44513",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1383",
+  "amount" : "2516580.00",
+  "project_id" : "44513",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2761",
+  "amount" : "2992885.00",
+  "project_id" : "45002",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1539",
+  "amount" : "1090407.00",
+  "project_id" : "45002",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2106",
+  "amount" : "700000.00",
+  "project_id" : "45002",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1445",
+  "amount" : "1327266.00",
+  "project_id" : "39264",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2473",
+  "amount" : "1872452.00",
+  "project_id" : "39369",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1762",
+  "amount" : "8000000.00",
+  "project_id" : "39399",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1349",
+  "amount" : "4391026.00",
+  "project_id" : "39402",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2320",
+  "amount" : "269174.00",
+  "project_id" : "39480",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1686",
+  "amount" : "492235.00",
+  "project_id" : "41408",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1859",
+  "amount" : "1426410.00",
+  "project_id" : "41493",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1715",
+  "amount" : "290000.00",
+  "project_id" : "43105",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1812",
+  "amount" : "448235.00",
+  "project_id" : "43105",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1337",
+  "amount" : "8000000.00",
+  "project_id" : "43276",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1940",
+  "amount" : "2000000.00",
+  "project_id" : "43276",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1875",
+  "amount" : "692217.00",
+  "project_id" : "43311",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2516",
+  "amount" : "945252.00",
+  "project_id" : "43312",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1741",
+  "amount" : "438467.00",
+  "project_id" : "43313",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1838",
+  "amount" : "438467.00",
+  "project_id" : "43313",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2382",
+  "amount" : "5000000.00",
+  "project_id" : "43388",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2314",
+  "amount" : "16360000.00",
+  "project_id" : "45239",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2679",
+  "amount" : "11494696.00",
+  "project_id" : "45239",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1457",
+  "amount" : "1000000.00",
+  "project_id" : "45239",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1931",
+  "amount" : "2965300.00",
+  "project_id" : "45586",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "5221",
+  "amount" : "252608.00",
+  "project_id" : "48522",
+  "fund_name" : "NSP 2",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2303",
+  "amount" : "5596114.00",
+  "project_id" : "48537",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2367",
+  "amount" : "1800000.00",
+  "project_id" : "46017",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1510",
+  "amount" : "1740000.00",
+  "project_id" : "46017",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2077",
+  "amount" : "613000.00",
+  "project_id" : "46017",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4340",
+  "amount" : "6881012.00",
+  "project_id" : "46017",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2301",
+  "amount" : "1853840.00",
+  "project_id" : "47926",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2011",
+  "amount" : "330000.00",
+  "project_id" : "47926",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2357",
+  "amount" : "8350000.00",
+  "project_id" : "48087",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3587",
+  "amount" : "20664644.00",
+  "project_id" : "48087",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2304",
+  "amount" : "3695617.00",
+  "project_id" : "47932",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2300",
+  "amount" : "12176119.00",
+  "project_id" : "47933",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2448",
+  "amount" : "6515304.00",
+  "project_id" : "48380",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1591",
+  "amount" : "1740000.00",
+  "project_id" : "48380",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4421",
+  "amount" : "8502950.00",
+  "project_id" : "48380",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2333",
+  "amount" : "1085518.00",
+  "project_id" : "48305",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1476",
+  "amount" : "361845.00",
+  "project_id" : "48305",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1804",
+  "amount" : "1289032.00",
+  "project_id" : "47799",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2392",
+  "amount" : "4983970.00",
+  "project_id" : "47821",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2430",
+  "amount" : "1275000.00",
+  "project_id" : "47865",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2365",
+  "amount" : "633524.00",
+  "project_id" : "48452",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1508",
+  "amount" : "188345.00",
+  "project_id" : "48452",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1830",
+  "amount" : "831787.00",
+  "project_id" : "47774",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1862",
+  "amount" : "1607275.00",
+  "project_id" : "47775",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2225",
+  "amount" : "1000000.00",
+  "project_id" : "47886",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2880",
+  "amount" : "16890000.00",
+  "project_id" : "47886",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1658",
+  "amount" : "1896041.00",
+  "project_id" : "47886",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2486",
+  "amount" : "2000000.00",
+  "project_id" : "48365",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "5013",
+  "amount" : "1500000.00",
+  "project_id" : "48873",
+  "fund_name" : "NSP 3",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2016",
+  "amount" : "1500000.00",
+  "project_id" : "48884",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2499",
+  "amount" : "68895.00",
+  "project_id" : "47945",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2285",
+  "amount" : "311572.00",
+  "project_id" : "48888",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "367",
+  "amount" : "336000.00",
+  "project_id" : "48887",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "441",
+  "amount" : "1750000.00",
+  "project_id" : "48910",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "442",
+  "amount" : "750000.00",
+  "project_id" : "48910",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "449",
+  "amount" : "663840.00",
+  "project_id" : "48755",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "450",
+  "amount" : "150000.00",
+  "project_id" : "48755",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "461",
+  "amount" : "101933.00",
+  "project_id" : "48733",
+  "fund_name" : "HODAG Program Income",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "465",
+  "amount" : "6175000.00",
+  "project_id" : "49517",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "466",
+  "amount" : "750000.00",
+  "project_id" : "49517",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "488",
+  "amount" : "383613.00",
+  "project_id" : "48892",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "490",
+  "amount" : "580183.00",
+  "project_id" : "48891",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "491",
+  "amount" : "4500000.00",
+  "project_id" : "49275",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1866",
+  "amount" : "94455.00",
+  "project_id" : "48744",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1894",
+  "amount" : "78760.00",
+  "project_id" : "48623",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "647",
+  "amount" : "169595.00",
+  "project_id" : "48730",
+  "fund_name" : "HODAG Program Income",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "651",
+  "amount" : "438791.00",
+  "project_id" : "48681",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "654",
+  "amount" : "680663.00",
+  "project_id" : "49060",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "657",
+  "amount" : "376022.00",
+  "project_id" : "48685",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "668",
+  "amount" : "7222005.00",
+  "project_id" : "44865",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "669",
+  "amount" : "744000.00",
+  "project_id" : "44865",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4005",
+  "amount" : "3262131.00",
+  "project_id" : "48555",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2259",
+  "amount" : "125000.00",
+  "project_id" : "44420",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2624",
+  "amount" : "4935000.00",
+  "project_id" : "44420",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1402",
+  "amount" : "5625000.00",
+  "project_id" : "44420",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "695",
+  "amount" : "1096039.00",
+  "project_id" : "48690",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "698",
+  "amount" : "642598.00",
+  "project_id" : "49070",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "704",
+  "amount" : "223969.00",
+  "project_id" : "48677",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "709",
+  "amount" : "118291.00",
+  "project_id" : "47838",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2442",
+  "amount" : "6700000.00",
+  "project_id" : "48689",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4415",
+  "amount" : "15462622.00",
+  "project_id" : "48689",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2293",
+  "amount" : "1016509.00",
+  "project_id" : "48415",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "715",
+  "amount" : "5250000.00",
+  "project_id" : "48765",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1793",
+  "amount" : "209000.00",
+  "project_id" : "47770",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2449",
+  "amount" : "133265.00",
+  "project_id" : "47824",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2358",
+  "amount" : "133324.00",
+  "project_id" : "47826",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2138",
+  "amount" : "1500000.00",
+  "project_id" : "44423",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2793",
+  "amount" : "8400970.00",
+  "project_id" : "44423",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1571",
+  "amount" : "289069.00",
+  "project_id" : "44423",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3188",
+  "amount" : "1145931.00",
+  "project_id" : "44423",
+  "fund_name" : "NSP 1",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "5392",
+  "amount" : "1500000.00",
+  "project_id" : "44423",
+  "fund_name" : "NSP 3",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4554",
+  "amount" : "1145931.00",
+  "project_id" : "44423",
+  "fund_name" : "NSP 2",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2395",
+  "amount" : "593475.00",
+  "project_id" : "47822",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2369",
+  "amount" : "315211.00",
+  "project_id" : "47873",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2270",
+  "amount" : "540000.00",
+  "project_id" : "47866",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2362",
+  "amount" : "997125.00",
+  "project_id" : "47867",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3458",
+  "amount" : "21698350.00",
+  "project_id" : "48126",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2364",
+  "amount" : "9849071.00",
+  "project_id" : "47882",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4337",
+  "amount" : "22961085.00",
+  "project_id" : "47882",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2295",
+  "amount" : "3000000.00",
+  "project_id" : "44373",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2660",
+  "amount" : "29775759.00",
+  "project_id" : "44373",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1438",
+  "amount" : "9972339.00",
+  "project_id" : "44373",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3867",
+  "amount" : "10432724.00",
+  "project_id" : "45961",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2689",
+  "amount" : "18053528.00",
+  "project_id" : "48086",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2271",
+  "amount" : "659307.00",
+  "project_id" : "47831",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2321",
+  "amount" : "396726.00",
+  "project_id" : "48390",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2267",
+  "amount" : "248942.00",
+  "project_id" : "48060",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1810",
+  "amount" : "35000.00",
+  "project_id" : "47798",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2508",
+  "amount" : "4204911.00",
+  "project_id" : "48521",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2252",
+  "amount" : "15290806.00",
+  "project_id" : "48532",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3482",
+  "amount" : "1200000.00",
+  "project_id" : "48532",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "3756",
+  "amount" : "6500000.00",
+  "project_id" : "48532",
+  "fund_name" : "NSP 1",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "376",
+  "amount" : "232515.00",
+  "project_id" : "48890",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "507",
+  "amount" : "5254590.00",
+  "project_id" : "48686",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "515",
+  "amount" : "1744817.00",
+  "project_id" : "49103",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "517",
+  "amount" : "3295183.00",
+  "project_id" : "49103",
+  "fund_name" : "421-a Fund",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "520",
+  "amount" : "1120795.00",
+  "project_id" : "48754",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "521",
+  "amount" : "58989.00",
+  "project_id" : "48754",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "524",
+  "amount" : "75000.00",
+  "project_id" : "48896",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "534",
+  "amount" : "2000000.00",
+  "project_id" : "48889",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "536",
+  "amount" : "2000000.00",
+  "project_id" : "48889",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "538",
+  "amount" : "5024659.00",
+  "project_id" : "48660",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "545",
+  "amount" : "3064015.00",
+  "project_id" : "48625",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "548",
+  "amount" : "6809168.00",
+  "project_id" : "48632",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2345",
+  "amount" : "416137.00",
+  "project_id" : "47883",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "557",
+  "amount" : "3753156.00",
+  "project_id" : "48634",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "560",
+  "amount" : "559999.00",
+  "project_id" : "48897",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "564",
+  "amount" : "1365000.00",
+  "project_id" : "47772",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "565",
+  "amount" : "282452.00",
+  "project_id" : "48788",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "568",
+  "amount" : "5757148.00",
+  "project_id" : "48657",
+  "fund_name" : "421-a Fund",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "571",
+  "amount" : "279968.00",
+  "project_id" : "48902",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "574",
+  "amount" : "1758770.00",
+  "project_id" : "48895",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "575",
+  "amount" : "1627267.00",
+  "project_id" : "48752",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1331",
+  "amount" : "7140000.00",
+  "project_id" : "48125",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3454",
+  "amount" : "13713805.00",
+  "project_id" : "48125",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2422",
+  "amount" : "195599.00",
+  "project_id" : "47921",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1565",
+  "amount" : "6804401.00",
+  "project_id" : "47921",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4395",
+  "amount" : "21226141.00",
+  "project_id" : "47921",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "739",
+  "amount" : "45700000.00",
+  "project_id" : "48726",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "745",
+  "amount" : "22300000.00",
+  "project_id" : "49143",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "753",
+  "amount" : "2314490.00",
+  "project_id" : "46299",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "754",
+  "amount" : "1195010.00",
+  "project_id" : "46299",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "761",
+  "amount" : "1500000.00",
+  "project_id" : "47805",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "766",
+  "amount" : "10879312.00",
+  "project_id" : "47805",
+  "fund_name" : "421-a Fund",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "774",
+  "amount" : "1500000.00",
+  "project_id" : "49534",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "782",
+  "amount" : "4900776.00",
+  "project_id" : "49534",
+  "fund_name" : "421-a Fund",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "786",
+  "amount" : "1400000.00",
+  "project_id" : "48003",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "787",
+  "amount" : "2650000.00",
+  "project_id" : "48003",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "790",
+  "amount" : "7200000.00",
+  "project_id" : "48003",
+  "fund_name" : "421-a Fund",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2249",
+  "amount" : "315000.00",
+  "project_id" : "44275",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1959",
+  "amount" : "1500000.00",
+  "project_id" : "44275",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "799",
+  "amount" : "1166000.00",
+  "project_id" : "44369",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "800",
+  "amount" : "1166000.00",
+  "project_id" : "44369",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "807",
+  "amount" : "1038500.00",
+  "project_id" : "44258",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "812",
+  "amount" : "6699866.00",
+  "project_id" : "44362",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "814",
+  "amount" : "4000000.00",
+  "project_id" : "44362",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2146",
+  "amount" : "500000.00",
+  "project_id" : "45142",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2436",
+  "amount" : "120000.00",
+  "project_id" : "45142",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2801",
+  "amount" : "6174251.00",
+  "project_id" : "45142",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1579",
+  "amount" : "5160000.00",
+  "project_id" : "45142",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "827",
+  "amount" : "6739000.00",
+  "project_id" : "48771",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "841",
+  "amount" : "6747120.00",
+  "project_id" : "46076",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "853",
+  "amount" : "6201648.00",
+  "project_id" : "45301",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "854",
+  "amount" : "750000.00",
+  "project_id" : "45301",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2431",
+  "amount" : "8940002.00",
+  "project_id" : "44345",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4404",
+  "amount" : "10710000.00",
+  "project_id" : "44345",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "861",
+  "amount" : "6840000.00",
+  "project_id" : "45677",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2397",
+  "amount" : "8141991.00",
+  "project_id" : "47843",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1540",
+  "amount" : "2350000.00",
+  "project_id" : "47843",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4370",
+  "amount" : "5584081.00",
+  "project_id" : "47843",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2407",
+  "amount" : "512686.00",
+  "project_id" : "48414",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2278",
+  "amount" : "540590.00",
+  "project_id" : "48423",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1769",
+  "amount" : "65726.00",
+  "project_id" : "48425",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2312",
+  "amount" : "938158.00",
+  "project_id" : "48514",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2311",
+  "amount" : "1184925.00",
+  "project_id" : "48515",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2383",
+  "amount" : "2450000.00",
+  "project_id" : "48540",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4356",
+  "amount" : "3419776.00",
+  "project_id" : "48540",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1336",
+  "amount" : "8350000.00",
+  "project_id" : "47477",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3459",
+  "amount" : "20664644.00",
+  "project_id" : "47477",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1308",
+  "amount" : "2336681.00",
+  "project_id" : "45336",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3054",
+  "amount" : "575000.00",
+  "project_id" : "45336",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3431",
+  "amount" : "1063318.00",
+  "project_id" : "45336",
+  "fund_name" : "NSP 1",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4797",
+  "amount" : "1063318.00",
+  "project_id" : "45336",
+  "fund_name" : "NSP 2",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3705",
+  "amount" : "12463000.00",
+  "project_id" : "45336",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2134",
+  "amount" : "750000.00",
+  "project_id" : "44349",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2424",
+  "amount" : "3912484.00",
+  "project_id" : "44349",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1567",
+  "amount" : "2447516.00",
+  "project_id" : "44349",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4397",
+  "amount" : "14433001.00",
+  "project_id" : "44349",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2248",
+  "amount" : "8460000.00",
+  "project_id" : "44336",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3478",
+  "amount" : "19195590.00",
+  "project_id" : "44336",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2163",
+  "amount" : "2500000.00",
+  "project_id" : "45990",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2453",
+  "amount" : "1400000.00",
+  "project_id" : "45990",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1596",
+  "amount" : "2500000.00",
+  "project_id" : "45990",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3213",
+  "amount" : "1350000.00",
+  "project_id" : "45990",
+  "fund_name" : "NSP 1",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4426",
+  "amount" : "12153544.00",
+  "project_id" : "45990",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "4579",
+  "amount" : "1350000.00",
+  "project_id" : "45990",
+  "fund_name" : "NSP 2",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2371",
+  "amount" : "6318326.00",
+  "project_id" : "44320",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1514",
+  "amount" : "1996174.00",
+  "project_id" : "44320",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4344",
+  "amount" : "18533163.00",
+  "project_id" : "44320",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2400",
+  "amount" : "5611939.00",
+  "project_id" : "44403",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1543",
+  "amount" : "2447516.00",
+  "project_id" : "44403",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4373",
+  "amount" : "21736601.00",
+  "project_id" : "44403",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "2283",
+  "amount" : "125000.00",
+  "project_id" : "44544",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2648",
+  "amount" : "6140230.00",
+  "project_id" : "44544",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1426",
+  "amount" : "4355000.00",
+  "project_id" : "44544",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "3787",
+  "amount" : "1520000.00",
+  "project_id" : "44544",
+  "fund_name" : "NSP 1",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "5249",
+  "amount" : "1520000.00",
+  "project_id" : "44544",
+  "fund_name" : "NSP 2",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2912",
+  "amount" : "4587709.00",
+  "project_id" : "44377",
+  "fund_name" : "9% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "1690",
+  "amount" : "2625000.00",
+  "project_id" : "44377",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1787",
+  "amount" : "125000.00",
+  "project_id" : "44377",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "2403",
+  "amount" : "3500000.00",
+  "project_id" : "45206",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1546",
+  "amount" : "2078742.00",
+  "project_id" : "45206",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "4376",
+  "amount" : "626220.00",
+  "project_id" : "45206",
+  "fund_name" : "4% Tax Credit Equity",
+  "type" : "LIHTC Equity"
+}
+, {
+  "fund_dw_id" : "596",
+  "amount" : "3611631.00",
+  "project_id" : "49281",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "604",
+  "amount" : "826000.00",
+  "project_id" : "49455",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "605",
+  "amount" : "1564495.00",
+  "project_id" : "49455",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "612",
+  "amount" : "5375000.00",
+  "project_id" : "48640",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "615",
+  "amount" : "1700000.00",
+  "project_id" : "48049",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "616",
+  "amount" : "1086350.00",
+  "project_id" : "48049",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "631",
+  "amount" : "3734428.00",
+  "project_id" : "48626",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "636",
+  "amount" : "230728.00",
+  "project_id" : "47861",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "637",
+  "amount" : "627374.00",
+  "project_id" : "48704",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "640",
+  "amount" : "69600.00",
+  "project_id" : "48748",
+  "fund_name" : "HODAG Program Income",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1854",
+  "amount" : "92290.00",
+  "project_id" : "48745",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "1864",
+  "amount" : "103620.00",
+  "project_id" : "48738",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "865",
+  "amount" : "6875000.00",
+  "project_id" : "48641",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "867",
+  "amount" : "4413310.00",
+  "project_id" : "45223",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "873",
+  "amount" : "5351889.00",
+  "project_id" : "48735",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "876",
+  "amount" : "1702210.00",
+  "project_id" : "48937",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "879",
+  "amount" : "1000000.00",
+  "project_id" : "48928",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "886",
+  "amount" : "1415000.00",
+  "project_id" : "44306",
+  "fund_name" : "Reso A",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "895",
+  "amount" : "2000000.00",
+  "project_id" : "44888",
+  "fund_name" : "HOME",
+  "type" : "Loan"
+}
+, {
+  "fund_dw_id" : "903",
+  "amount" : "7375324.00",
+  "project_id" : "48013",
+  "fund_name" : "City Capital",
+  "type" : "Loan"
+}
+ ]

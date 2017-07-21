@@ -1,0 +1,257 @@
+[ {
+  "level_a_parks" : "N/A",
+  "level_d_parks" : "$2,400",
+  "level_b_parks" : "$12,000",
+  "category" : "Basic Event ",
+  "events" : "Promotional/Commercial, Private - \nUnder 25% of Designated Area",
+  "level_c_parks" : "$7,200"
+}
+, {
+  "level_a_parks" : "N/A",
+  "level_d_parks" : "$4,000",
+  "level_b_parks" : "$20,000",
+  "category" : "Basic Event ",
+  "events" : "Promotional/Commercial, Private - \n25%-50% of Designated Area",
+  "level_c_parks" : "$12,000"
+}
+, {
+  "level_a_parks" : "$35,000",
+  "level_d_parks" : "$4,400",
+  "level_b_parks" : "$22,000",
+  "category" : "Basic Event ",
+  "events" : "Promotional/Commercial, Private - \nOver 50% of Designated Area",
+  "level_c_parks" : "$13,200"
+}
+, {
+  "level_a_parks" : "N/A",
+  "level_d_parks" : "$1,600",
+  "level_b_parks" : "$8,000",
+  "category" : "Basic Event ",
+  "events" : "Athletic Non-Charitable Event - \nUnder 25% of Designated Area",
+  "level_c_parks" : "$4,800"
+}
+, {
+  "level_a_parks" : "N/A",
+  "level_d_parks" : "$3,200",
+  "level_b_parks" : "$16,000",
+  "category" : "Basic Event ",
+  "events" : "Athletic Non-Charitable Event - \n25%-50% of Designated Area",
+  "level_c_parks" : "$9,600"
+}
+, {
+  "level_a_parks" : "N/A",
+  "level_d_parks" : "$3,600",
+  "level_b_parks" : "$18,000",
+  "category" : "Basic Event ",
+  "events" : "Athletic Non-Charitable Event - \nOver 50% of Designated Area",
+  "level_c_parks" : "$10,800"
+}
+, {
+  "level_a_parks" : "N/A",
+  "level_d_parks" : "$200",
+  "level_b_parks" : "$1,000",
+  "category" : "Basic Event ",
+  "events" : "Athletic Charitable Event - \nUnder 25% of Designated Area",
+  "level_c_parks" : "$600"
+}
+, {
+  "level_a_parks" : "N/A",
+  "level_d_parks" : "$400",
+  "level_b_parks" : "$2,000",
+  "category" : "Basic Event ",
+  "events" : "Athletic Charitable Event - \n25%-50% of Designated Area",
+  "level_c_parks" : "$1,200"
+}
+, {
+  "level_a_parks" : "N/A",
+  "level_d_parks" : "$600",
+  "level_b_parks" : "$3,000",
+  "category" : "Basic Event ",
+  "events" : "Athletic Charitable Event - \nOver 50% of Designated Area",
+  "level_c_parks" : "$1,800"
+}
+, {
+  "level_a_parks" : "N/A",
+  "level_d_parks" : "$600",
+  "level_b_parks" : "$3,000",
+  "category" : "Basic Event ",
+  "events" : "General Events - Under 25% of Designated Area",
+  "level_c_parks" : "$1,800"
+}
+, {
+  "level_a_parks" : "N/A",
+  "level_d_parks" : "$2,200",
+  "level_b_parks" : "$11,000",
+  "category" : "Basic Event ",
+  "events" : "General Events - 25%-50% of Designated Area",
+  "level_c_parks" : "$6,600"
+}
+, {
+  "level_a_parks" : "$18,200",
+  "level_d_parks" : "$2,600",
+  "level_b_parks" : "$13,000",
+  "category" : "Basic Event ",
+  "events" : "General Events - Over 50% of Designated Area",
+  "level_c_parks" : "$7,800"
+}
+, {
+  "level_a_parks" : "$2,100",
+  "level_d_parks" : "$300",
+  "comments" : "All Fixed-Rate Charges are in addition to Basic Event Fees",
+  "level_b_parks" : "$1,500",
+  "category" : "Fixed-Rate Charges",
+  "events" : "Amplified Sound",
+  "level_c_parks" : "$900"
+}
+, {
+  "level_a_parks" : "$2,100",
+  "level_d_parks" : "$300",
+  "comments" : "All Fixed-Rate Charges are in addition to Basic Event Fees",
+  "level_b_parks" : "$1,500",
+  "category" : "Fixed-Rate Charges",
+  "events" : "Sampling",
+  "level_c_parks" : "$900"
+}
+, {
+  "level_a_parks" : "$4,200",
+  "level_d_parks" : "$600",
+  "comments" : "All Fixed-Rate Charges are in addition to Basic Event Fees",
+  "level_b_parks" : "$3,000",
+  "category" : "Fixed-Rate Charges",
+  "events" : "Tent - 801 sq. ft. - 6,400 sq. ft.",
+  "level_c_parks" : "$1,800"
+}
+, {
+  "level_a_parks" : "N/A",
+  "level_d_parks" : "$1,280",
+  "comments" : "All Fixed-Rate Charges are in addition to Basic Event Fees",
+  "level_b_parks" : "$6,400",
+  "category" : "Fixed-Rate Charges",
+  "events" : "Tent - 6,401 sq. ft. - 10,000 sq. ft.",
+  "level_c_parks" : "$3, 840"
+}
+, {
+  "level_a_parks" : "N/A",
+  "level_d_parks" : "$2,000",
+  "comments" : "All Fixed-Rate Charges are in addition to Basic Event Fees",
+  "level_b_parks" : "$10,000",
+  "category" : "Fixed-Rate Charges",
+  "events" : "Tent - 10,001 sq. ft. and Above",
+  "level_c_parks" : "$6,000"
+}
+, {
+  "level_a_parks" : "$2,100",
+  "level_d_parks" : "$300",
+  "comments" : "All Fixed-Rate Charges are in addition to Basic Event Fees",
+  "level_b_parks" : "$1,500",
+  "category" : "Fixed-Rate Charges",
+  "events" : "Stage - 1,000 cubic ft. - 2,500 cubic ft.",
+  "level_c_parks" : "$900"
+}
+, {
+  "level_a_parks" : "$7,000",
+  "level_d_parks" : "$1,000",
+  "comments" : "All Fixed-Rate Charges are in addition to Basic Event Fees",
+  "level_b_parks" : "$5,000",
+  "category" : "Fixed-Rate Charges",
+  "events" : "Stage - 2,501 cubic ft. - 10,000cubic ft.",
+  "level_c_parks" : "$3,000"
+}
+, {
+  "level_a_parks" : "$14,000",
+  "level_d_parks" : "$2,000",
+  "comments" : "All Fixed-Rate Charges are in addition to Basic Event Fees",
+  "level_b_parks" : "$10,000",
+  "category" : "Fixed-Rate Charges",
+  "events" : "Stage - 10,001 cubic ft. and Above",
+  "level_c_parks" : "$6,000"
+}
+, {
+  "level_a_parks" : "$7,000",
+  "level_d_parks" : "$1,000",
+  "comments" : "All Fixed-Rate Charges are in addition to Basic Event Fees",
+  "level_b_parks" : "$5,000",
+  "category" : "Fixed-Rate Charges",
+  "events" : "Back Drop - 6 ft. - 20 ft.",
+  "level_c_parks" : "$3,000"
+}
+, {
+  "level_a_parks" : "$14,000",
+  "level_d_parks" : "$2,000",
+  "comments" : "All Fixed-Rate Charges are in addition to Basic Event Fees",
+  "level_b_parks" : "$10,000",
+  "category" : "Fixed-Rate Charges",
+  "events" : "Back Drop - 21 ft. and Over",
+  "level_c_parks" : "$6,000"
+}
+, {
+  "level_a_parks" : "$7,000",
+  "level_d_parks" : "$1,000",
+  "comments" : "A fee will be imposed for each individual Inflatable as defined by this section. All Fixed-Rate Charges are in addition to Basic Event Fees.",
+  "level_b_parks" : "$5,000",
+  "category" : "Fixed-Rate Charges",
+  "events" : "Inflatables - 15 cubic feet - 50cubic feet",
+  "level_c_parks" : "$3,000"
+}
+, {
+  "level_a_parks" : "$14,000",
+  "level_d_parks" : "$2,000",
+  "comments" : "A fee will be imposed for each individual Inflatable as defined by this section. All Fixed-Rate Charges are in addition to Basic Event Fees.",
+  "level_b_parks" : "$10,000",
+  "category" : "Fixed-Rate Charges",
+  "events" : "Inflatables - 51 cubic feet - 100cubic feet",
+  "level_c_parks" : "$6,000"
+}
+, {
+  "level_a_parks" : "$10,000",
+  "level_d_parks" : "$1,000",
+  "comments" : "A fee will be imposed for each individual Display Vehicle as defined by this section. All Fixed-Rate Charges are in addition to Basic Event Fees.",
+  "level_b_parks" : "$7,500",
+  "category" : "Fixed-Rate Charges",
+  "events" : "Display Vehicles - Mid-size",
+  "level_c_parks" : "$3,000"
+}
+, {
+  "level_a_parks" : "$12,500",
+  "level_d_parks" : "$3,000",
+  "comments" : "A fee will be imposed for each individual Display Vehicle as defined by this section. All Fixed-Rate Charges are in addition to Basic Event Fees.",
+  "level_b_parks" : "$10,000",
+  "category" : "Fixed-Rate Charges",
+  "events" : "Display Vehicles - Oversize/Trailers/Buses",
+  "level_c_parks" : "$7,500"
+}
+, {
+  "level_a_parks" : "$7,000",
+  "level_d_parks" : "$1,000",
+  "comments" : "All Fixed-Rate Charges are in addition to Basic Event Fees",
+  "level_b_parks" : "$5,000",
+  "category" : "Fixed-Rate Charges",
+  "events" : "Event Time - 18 Hours - 48 Hours",
+  "level_c_parks" : "$3,000"
+}
+, {
+  "level_a_parks" : "$14,000",
+  "level_d_parks" : "$2,000",
+  "comments" : "All Fixed-Rate Charges are in addition to Basic Event Fees",
+  "level_b_parks" : "$10,000",
+  "category" : "Fixed-Rate Charges",
+  "events" : "Event Time - 49 Hours - 96 Hours",
+  "level_c_parks" : "$6,000"
+}
+, {
+  "level_a_parks" : "$28,000",
+  "level_d_parks" : "$4,000",
+  "comments" : "All Fixed-Rate Charges are in addition to Basic Event Fees",
+  "level_b_parks" : "$20,000",
+  "category" : "Fixed-Rate Charges",
+  "events" : "Event Time - 97 Hours - 168 Hours",
+  "level_c_parks" : "$12,000"
+}
+, {
+  "level_a_parks" : "priced by \nnegotiation",
+  "level_d_parks" : "priced by \nnegotiation",
+  "level_b_parks" : "priced by \nnegotiation",
+  "events" : "Event Time - 169 Hours and More",
+  "level_c_parks" : "priced by \nnegotiation"
+}
+ ]

@@ -28,6 +28,6 @@ curl "http://localhost:8983/solr/openafrica/update/extract?literal.id=festival_m
 
 
 ## create cityofnewyork
-bin/solr create -c cityofnewyork
-bin/post -c cityofnewyork ../../cityofnewyork/*.json
+bin/solr create -c cityofnewyorkj
+bin/post -c cityofnewyorkj ../../cityofnewyork/*.json
 

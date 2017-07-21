@@ -1,0 +1,109 @@
+[ {
+  "_percent_of_total_1" : "11.90",
+  "race" : "White",
+  "_number_3" : "39",
+  "_number_4" : "38",
+  "_number_5" : "41",
+  "_percent_of_total_2" : "17.90",
+  "_percent_of_total_3" : "10.30",
+  "_number_1" : "51",
+  "_percent_of_total_4" : "13.10",
+  "_number_2" : "70",
+  "_percent_of_total_5" : "12.60",
+  "_yr_percent_of_subtotal" : "239",
+  "_yr_number" : "35.10"
+}
+, {
+  "_percent_of_total_1" : "57.10",
+  "race" : "Black",
+  "_number_3" : "232",
+  "_number_4" : "148",
+  "_number_5" : "172",
+  "_percent_of_total_2" : "52.70",
+  "_percent_of_total_3" : "61.20",
+  "_number_1" : "244",
+  "_percent_of_total_4" : "50.90",
+  "_number_2" : "206",
+  "_percent_of_total_5" : "52.90",
+  "_yr_percent_of_subtotal" : "1002",
+  "_yr_number" : "23.40"
+}
+, {
+  "_percent_of_total_1" : "20.10",
+  "race" : "Latino",
+  "_number_3" : "93",
+  "_number_4" : "96",
+  "_number_5" : "97",
+  "_percent_of_total_2" : "24.30",
+  "_percent_of_total_3" : "24.50",
+  "_number_1" : "86",
+  "_percent_of_total_4" : "33.00",
+  "_number_2" : "95",
+  "_percent_of_total_5" : "29.80",
+  "_yr_percent_of_subtotal" : "467",
+  "_yr_number" : "27.50"
+}
+, {
+  "_percent_of_total_1" : "2.80",
+  "race" : "Asian",
+  "_number_3" : "6",
+  "_number_4" : "3",
+  "_number_5" : "7",
+  "_percent_of_total_2" : "1.80",
+  "_percent_of_total_3" : "1.60",
+  "_number_1" : "12",
+  "_percent_of_total_4" : "1.00",
+  "_number_2" : "7",
+  "_percent_of_total_5" : "2.20",
+  "_yr_percent_of_subtotal" : "35",
+  "_yr_number" : "11.70"
+}
+, {
+  "_percent_of_total_1" : "8.00",
+  "race" : "Other",
+  "_number_3" : "9",
+  "_number_4" : "6",
+  "_number_5" : "8",
+  "_percent_of_total_2" : "3.30",
+  "_percent_of_total_3" : "2.40",
+  "_number_1" : "34",
+  "_percent_of_total_4" : "2.10",
+  "_number_2" : "13",
+  "_percent_of_total_5" : "2.50",
+  "_yr_percent_of_subtotal" : "70",
+  "_yr_number" : "2.30"
+}
+, {
+  "_percent_of_total_1" : "100.00",
+  "race" : "Subtotal",
+  "_number_3" : "379",
+  "_number_4" : "291",
+  "_number_5" : "325",
+  "_percent_of_total_2" : "100.00",
+  "_percent_of_total_3" : "100.00",
+  "_number_1" : "427",
+  "_percent_of_total_4" : "100.00",
+  "_number_2" : "391",
+  "_percent_of_total_5" : "100.00",
+  "_yr_percent_of_subtotal" : "1813",
+  "_yr_number" : "100.00"
+}
+, {
+  "race" : "Unknown",
+  "_number_3" : "62",
+  "_number_4" : "52",
+  "_number_5" : "47",
+  "_number_1" : "26",
+  "_number_2" : "56",
+  "_yr_percent_of_subtotal" : "243"
+}
+, {
+  "race" : "Total",
+  "_number_3" : "441",
+  "_number_4" : "343",
+  "_number_5" : "372",
+  "_number_1" : "453",
+  "_number_2" : "447",
+  "_yr_percent_of_subtotal" : "2056"
+}
+ ]

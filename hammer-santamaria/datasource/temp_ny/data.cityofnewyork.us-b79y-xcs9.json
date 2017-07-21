@@ -1,0 +1,156 @@
+[ {
+  "design_capacity" : "85 MGD",
+  "dewatering" : "26th Ward",
+  "plant_in_operation" : "1944",
+  "receiving_waterbody" : "Jamaica Bay",
+  "population_served" : "283428",
+  "wastewater_treatment_plant_name" : "26th Ward WWTP",
+  "location" : "East",
+  "drainage_area" : "5,907 Acres, eastern section of Brooklyn, near Jamaica Bay",
+  "plant_staff" : "93"
+}
+, {
+  "design_capacity" : "150 MGD",
+  "dewatering" : "Bowery Bay",
+  "plant_in_operation" : "1939",
+  "receiving_waterbody" : "Upper East River",
+  "population_served" : "848328",
+  "wastewater_treatment_plant_name" : "Bowery Bay WWTP",
+  "location" : "North",
+  "drainage_area" : "15,203 Acres, northeast section of Queens",
+  "plant_staff" : "81"
+}
+, {
+  "design_capacity" : "110 MGD",
+  "dewatering" : "26th Ward",
+  "plant_in_operation" : "1935",
+  "receiving_waterbody" : "Jamaica Bay",
+  "population_served" : "596326",
+  "wastewater_treatment_plant_name" : "Coney Island WWTP",
+  "location" : "East",
+  "drainage_area" : "15,087 Acres, south and central Brooklyn",
+  "plant_staff" : "69"
+}
+, {
+  "design_capacity" : "200 MGD",
+  "dewatering" : "Hunts Point",
+  "plant_in_operation" : "1952",
+  "receiving_waterbody" : "Upper East River",
+  "population_served" : "684569",
+  "wastewater_treatment_plant_name" : "Hunts Point WWTP",
+  "location" : "North",
+  "drainage_area" : "16,664 Acres, eastern section of the Bronx",
+  "plant_staff" : "108"
+}
+, {
+  "design_capacity" : "100 MGD",
+  "dewatering" : "Jamaica WWTP",
+  "plant_in_operation" : "1903 / 1943",
+  "receiving_waterbody" : "Jamaica Bay",
+  "population_served" : "728123",
+  "wastewater_treatment_plant_name" : "Jamaica WWTP",
+  "location" : "East",
+  "drainage_area" : "25,313 Acres, southern section of Queens",
+  "plant_staff" : "66"
+}
+, {
+  "design_capacity" : "310 MGD",
+  "dewatering" : "Hunts Point WWTP",
+  "plant_in_operation" : "1967",
+  "receiving_waterbody" : "East River",
+  "population_served" : "1068012",
+  "wastewater_treatment_plant_name" : "Newtown Creek WWTP",
+  "location" : "South",
+  "drainage_area" : "15,656 Acres, south and eastern midtown sections of Manhattan, northeast section of Brooklyn and western section of Queens",
+  "plant_staff" : "88"
+}
+, {
+  "design_capacity" : "170 MGD",
+  "note" : "First and only Wastewater Treatment Plant in NYC to have a public park built on top. (http://www.nyc.gov/html/dep/html/wastewater/northri.shtml)",
+  "dewatering" : "Wards Island WWTP",
+  "plant_in_operation" : "1986",
+  "receiving_waterbody" : "Hudson River",
+  "population_served" : "588772",
+  "wastewater_treatment_plant_name" : "North River WWTP",
+  "location" : "South",
+  "drainage_area" : "6,030 Acres, west side of Manhattan above Bank Street",
+  "plant_staff" : "109"
+}
+, {
+  "design_capacity" : "39.9 MGD",
+  "dewatering" : "Oakwood Beach WWTP",
+  "plant_in_operation" : "1956",
+  "receiving_waterbody" : "Lower New York Bay",
+  "population_served" : "244918",
+  "wastewater_treatment_plant_name" : "Oakwood Beach WWTP",
+  "location" : "South",
+  "drainage_area" : "10,779 Acres, southern section of Staten Island",
+  "plant_staff" : "59"
+}
+, {
+  "design_capacity" : "45 MGD",
+  "dewatering" : "26th Ward WWTP",
+  "plant_in_operation" : "1952",
+  "receiving_waterbody" : "Jamaica Bay",
+  "population_served" : "90474",
+  "wastewater_treatment_plant_name" : "Rockaway WWTP",
+  "location" : "East",
+  "drainage_area" : "6,259 Acres, Rockaway Peninsula",
+  "plant_staff" : "41"
+}
+, {
+  "design_capacity" : "120 MGD",
+  "dewatering" : "26th Ward / Wards Island WWTPs",
+  "plant_in_operation" : "1952",
+  "receiving_waterbody" : "Upper New York Bay",
+  "population_served" : "758007",
+  "wastewater_treatment_plant_name" : "Owls Head WWTP",
+  "location" : "East",
+  "drainage_area" : "12,947 Acres, western section of Brooklyn",
+  "plant_staff" : "68"
+}
+, {
+  "design_capacity" : "275 MGD",
+  "dewatering" : "Wards Island WWTP",
+  "plant_in_operation" : "1937",
+  "receiving_waterbody" : "Upper East River",
+  "population_served" : "1061558",
+  "wastewater_treatment_plant_name" : "Wards Island WWTP",
+  "location" : "North",
+  "drainage_area" : "12,056 Acres, western section of the Bronx and upper east side of Manhattan",
+  "plant_staff" : "118"
+}
+, {
+  "design_capacity" : "80 MGD",
+  "dewatering" : "Tallman Island WWTP",
+  "plant_in_operation" : "1939",
+  "receiving_waterbody" : "Upper East River",
+  "population_served" : "410812",
+  "wastewater_treatment_plant_name" : "Tallman Island WWTP",
+  "location" : "North",
+  "drainage_area" : "16,860 Acres, northeast section of Queens",
+  "plant_staff" : "71"
+}
+, {
+  "design_capacity" : "60 MGD",
+  "dewatering" : "Oakwood Beach WWTP",
+  "plant_in_operation" : "1953",
+  "receiving_waterbody" : "Kill Van Kull",
+  "population_served" : "198128",
+  "wastewater_treatment_plant_name" : "Port Richmond WWTP",
+  "location" : "South",
+  "drainage_area" : "9,665 Acres, northern section of Staten Island",
+  "plant_staff" : "46"
+}
+, {
+  "design_capacity" : "60 MGD",
+  "dewatering" : "Red Hook WWTP",
+  "plant_in_operation" : "1987",
+  "receiving_waterbody" : "Lower East River",
+  "population_served" : "192050",
+  "wastewater_treatment_plant_name" : "Red Hook WWTP",
+  "location" : "South",
+  "drainage_area" : "3,200 Acres, northwest section of Brooklyn and Governor's Island",
+  "plant_staff" : "55"
+}
+ ]

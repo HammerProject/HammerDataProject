@@ -1,0 +1,261 @@
+[ {
+  "site_name" : "Greenwich Village Youth Council",
+  "program_type" : "Runaway & Homeless Youth Sreeet Outreach",
+  "location_1" : {
+    "latitude" : "40.81329776108288",
+    "human_address" : "{\"address\":\"2273 3rd Avenue\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10037\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93728252556804"
+  },
+  "agency" : "Greenwich Village Youth Council",
+  "borough_community" : "Manhattan",
+  "program" : "Street Outreach",
+  "contact_number" : "646.209.1264"
+}
+, {
+  "site_name" : "La Asociacion Benefica Cultural Father Billini",
+  "program_type" : "Runaway & Homeless Youth",
+  "location_1" : {
+    "latitude" : "40.749678220373596",
+    "human_address" : "{\"address\":\"104 11 37th Avenue\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11368\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85304068857687"
+  },
+  "agency" : "La Asociacion Benefica Cultural Father Billini",
+  "borough_community" : "Queens",
+  "program" : "Street Outreach",
+  "contact_number" : "718.651.8427"
+}
+, {
+  "site_name" : "Safe Horizon, Inc",
+  "program_type" : "Runaway & Homeless Youth",
+  "location_1" : {
+    "latitude" : "40.809154206198805",
+    "human_address" : "{\"address\":\"209 125th Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10027\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94868347483566"
+  },
+  "agency" : "Safe Horizon, Inc",
+  "borough_community" : "Manhattan",
+  "program" : "Drop-In Center",
+  "contact_number" : "212.695.2220 or 800.708.6600"
+}
+, {
+  "site_name" : "Seamans Society for Children and Families ",
+  "program_type" : "Runaway & Homeless Youth",
+  "location_1" : {
+    "latitude" : "40.63947644558331",
+    "human_address" : "{\"address\":\"50 Bay Street\",\"city\":\"Staten Island\",\"state\":\"NEW YORK\",\"zip\":\"10301\"}",
+    "needs_recoding" : false,
+    "longitude" : "-74.07331529510297"
+  },
+  "agency" : "Seamans Society for Children and Families",
+  "borough_community" : "Staten Island",
+  "program" : "Drop-In Center",
+  "contact_number" : "718.447.7740 ext. 248"
+}
+, {
+  "site_name" : "Bronx Community Pride Center, Inc.",
+  "program_type" : "Runaway & Homeless Youth",
+  "location_1" : {
+    "latitude" : "40.815410316439",
+    "human_address" : "{\"address\":\"448 149th Street\",\"city\":\"Bronx\",\"state\":\"NEW YORK\",\"zip\":\"10455\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91617313618086"
+  },
+  "agency" : "Bronx Community Pride Center, Inc.",
+  "borough_community" : "Bronx",
+  "program" : "Drop-In Center",
+  "contact_number" : "718.292.4368"
+}
+, {
+  "site_name" : "SCO Drop In Center",
+  "program_type" : "Runaway & Homeless Youth",
+  "location_1" : {
+    "latitude" : "40.67214090834696",
+    "human_address" : "{\"address\":\"89 10th Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11221\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99418392858094"
+  },
+  "agency" : "SCO Family of Services",
+  "borough_community" : "Brooklyn",
+  "program" : "Drop-In Center",
+  "contact_number" : "718.384.7083"
+}
+, {
+  "site_name" : "Safe Space NYC, Inc",
+  "program_type" : "Runaway & Homeless Youth",
+  "location_1" : {
+    "latitude" : "40.71311535449007",
+    "human_address" : "{\"address\":\"89 31\",\"city\":\"Queens\",\"state\":\"NEW YORK\",\"zip\":\"11432\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79282099978928"
+  },
+  "agency" : "Safe Space NYC, Inc",
+  "borough_community" : "Queens",
+  "program" : "Drop-In Center",
+  "contact_number" : "718.526.2400"
+}
+, {
+  "site_name" : "Safe Horizon, Inc",
+  "program_type" : "Runaway & Homeless Youth",
+  "location_1" : {
+    "latitude" : "40.809154206198805",
+    "human_address" : "{\"address\":\"209 125th Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10027\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94868347483566"
+  },
+  "agency" : "Safe Horizon, Inc",
+  "borough_community" : "Manhattan",
+  "program" : "Transportation",
+  "contact_number" : "212.695.2220"
+}
+, {
+  "site_name" : "Safe Horizon",
+  "program_type" : "Runaway & Homeless Youth",
+  "location_1" : {
+    "latitude" : "40.81234377905435",
+    "human_address" : "{\"address\":\"165 131st Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10027\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.94449601797605"
+  },
+  "agency" : "Safe Horizon, Inc",
+  "borough_community" : "Manhattan",
+  "program" : "Crisis Shelter",
+  "contact_number" : "212.268.3943"
+}
+, {
+  "site_name" : "Covenant House New York / Under 21",
+  "program_type" : "Runaway & Homeless Youth",
+  "location_1" : {
+    "latitude" : "40.76527589061238",
+    "human_address" : "{\"address\":\"427 52nd Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10019\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9892468022828"
+  },
+  "agency" : "Covenant House New York",
+  "borough_community" : "Manhattan",
+  "program" : "Crisis Shelter",
+  "contact_number" : "212.613.0300 ext. 0532"
+}
+, {
+  "site_name" : "Covenant House New York / Under 21",
+  "program_type" : "Runaway & Homeless Youth",
+  "location_1" : {
+    "latitude" : "40.75869416595527",
+    "human_address" : "{\"address\":\"460 41st Street\",\"city\":\"Manhattan\",\"state\":\"NEW YORK\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99534286163828"
+  },
+  "agency" : "Covenant House New York",
+  "borough_community" : "Manhattan",
+  "program" : "Crisis Shelter",
+  "contact_number" : "212.613.0300 ext. 0531"
+}
+, {
+  "site_name" : "Ali Forney Center",
+  "program_type" : "Runaway & Homeless Youth",
+  "location_1" : {
+    "latitude" : "40.69159578320248",
+    "human_address" : "{\"address\":\"241 Taffee Place\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11205\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.95963928881649"
+  },
+  "agency" : "Ali Forney Center",
+  "borough_community" : "Brooklyn",
+  "program" : "Crisis Shelter",
+  "contact_number" : "212.206.0574"
+}
+, {
+  "site_name" : "Ali Forney Center",
+  "program_type" : "Runaway & Homeless Youth",
+  "location_1" : {
+    "latitude" : "40.66061430242008",
+    "human_address" : "{\"address\":\"216 23rd Street\",\"city\":\"Brooklyn\",\"state\":\"NEW YORK\",\"zip\":\"11232\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.99529162858046"
+  },
+  "agency" : "Ali Forney Center",
+  "borough_community" : "Brooklyn",
+  "program" : "Crisis Shelter",
+  "contact_number" : "212.206.0574"
+}
+, {
+  "site_name" : "Good Shepherd Services",
+  "program_type" : "Runaway & Homeless Youth",
+  "agency" : "Good Shepherd Services",
+  "borough_community" : "Manhattan",
+  "program" : "Transitional Independent Living (TIL)",
+  "contact_number" : "646.485.6900"
+}
+, {
+  "site_name" : "Green Chimneys",
+  "program_type" : "Runaway & Homeless Youth",
+  "agency" : "Green Chimneys",
+  "borough_community" : "Manhattan",
+  "program" : "Transitional Independent Living (TIL)",
+  "contact_number" : "212.491.5911 ext. 13"
+}
+, {
+  "site_name" : "Girls Educational & Mentoring Services, Inc.",
+  "program_type" : "Runaway & Homeless Youth",
+  "agency" : "Girls Educational & Mentoring Services, Inc.",
+  "borough_community" : "Manhattan",
+  "program" : "Transitional Independent Living (TIL)",
+  "contact_number" : "212.926.8089 ext. 25"
+}
+, {
+  "site_name" : "Inwood House",
+  "program_type" : "Runaway & Homeless Youth",
+  "agency" : "Inwood house",
+  "borough_community" : "Manhattan",
+  "program" : "Transitional Independent Living (TIL)",
+  "contact_number" : "212.861.4325"
+}
+, {
+  "site_name" : "SCO Family of Services",
+  "program_type" : "Runaway & Homeless Youth",
+  "agency" : "SCO Family of Services",
+  "borough_community" : "Brooklyn",
+  "program" : "Transitional Independent Living (TIL)",
+  "contact_number" : "718.827.8465"
+}
+, {
+  "site_name" : "SCO Family of Services",
+  "program_type" : "Runaway & Homeless Youth",
+  "agency" : "SCO Family of Services",
+  "borough_community" : "Brooklyn",
+  "program" : "Transitional Independent Living (TIL)",
+  "contact_number" : "718.782.0198"
+}
+, {
+  "site_name" : "SCO Family of Services",
+  "program_type" : "Runaway & Homeless Youth",
+  "agency" : "SCO Family of Services",
+  "borough_community" : "Brooklyn",
+  "program" : "Transitional Independent Living (TIL)",
+  "contact_number" : "718.326.5931"
+}
+, {
+  "site_name" : "SCO Family of Services IV",
+  "program_type" : "Runaaway & Homeless Youth Transitional Independent Living",
+  "agency" : "SCO Family of Services",
+  "borough_community" : "Queens",
+  "contact_number" : "718.217.5613"
+}
+, {
+  "site_name" : "Safe Space NYC, Inc",
+  "program_type" : "Runaaway & Homeless Youth Transitional Independent Living",
+  "agency" : "Safe Space NYC, Inc",
+  "borough_community" : "Queens",
+  "contact_number" : "718.526.3000"
+}
+, {
+  "site_name" : "Rachel's Place",
+  "program_type" : "Runaway & Homeless Youth",
+  "agency" : "Rachel's Place",
+  "borough_community" : "Brooklyn",
+  "program" : "Transitional Independent Living (TIL)",
+  "contact_number" : "718.253.5364"
+}
+ ]

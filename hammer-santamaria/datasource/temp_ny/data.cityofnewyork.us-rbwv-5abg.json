@@ -1,0 +1,91 @@
+[ {
+  "unfounded_number" : "343",
+  "miscellaneous" : "16",
+  "unfounded_rate" : "22.40",
+  "officer_unidentified_number" : "167",
+  "unsubstantiated_number" : "918",
+  "officer_unidentified_rate" : "10.90",
+  "miscellaneous_rate" : "1.00",
+  "exonerated_rate" : "3.50",
+  "type_of_abuse_of_authority_allegation" : "Word",
+  "substantiated_number" : "37",
+  "exonerated_number" : "53",
+  "unsubstantiated_rate" : "59.80",
+  "sunstantiated_rate" : "2.40"
+}
+, {
+  "unfounded_number" : "3",
+  "miscellaneous" : "0",
+  "unfounded_rate" : "18.80",
+  "officer_unidentified_number" : "4",
+  "unsubstantiated_number" : "9",
+  "officer_unidentified_rate" : "25.00",
+  "miscellaneous_rate" : "0.00",
+  "exonerated_rate" : "0.00",
+  "type_of_abuse_of_authority_allegation" : "Gesture",
+  "substantiated_number" : "0",
+  "exonerated_number" : "0",
+  "unsubstantiated_rate" : "56.30",
+  "sunstantiated_rate" : "0.00"
+}
+, {
+  "unfounded_number" : "0",
+  "miscellaneous" : "0",
+  "unfounded_rate" : "0.00",
+  "officer_unidentified_number" : "0",
+  "unsubstantiated_number" : "1",
+  "officer_unidentified_rate" : "0.00",
+  "miscellaneous_rate" : "0.00",
+  "exonerated_rate" : "0.00",
+  "type_of_abuse_of_authority_allegation" : "Demeanor/tone",
+  "substantiated_number" : "0",
+  "exonerated_number" : "0",
+  "unsubstantiated_rate" : "100.00",
+  "sunstantiated_rate" : "0.00"
+}
+, {
+  "unfounded_number" : "22",
+  "miscellaneous" : "4",
+  "unfounded_rate" : "23.40",
+  "officer_unidentified_number" : "8",
+  "unsubstantiated_number" : "56",
+  "officer_unidentified_rate" : "8.50",
+  "miscellaneous_rate" : "4.30",
+  "exonerated_rate" : "2.10",
+  "type_of_abuse_of_authority_allegation" : "Action",
+  "substantiated_number" : "2",
+  "exonerated_number" : "2",
+  "unsubstantiated_rate" : "59.60",
+  "sunstantiated_rate" : "2.10"
+}
+, {
+  "unfounded_number" : "0",
+  "miscellaneous" : "0",
+  "unfounded_rate" : "0.00",
+  "officer_unidentified_number" : "0",
+  "unsubstantiated_number" : "2",
+  "officer_unidentified_rate" : "0.00",
+  "miscellaneous_rate" : "0.00",
+  "exonerated_rate" : "0.00",
+  "type_of_abuse_of_authority_allegation" : "Other",
+  "substantiated_number" : "0",
+  "exonerated_number" : "0",
+  "unsubstantiated_rate" : "0.00",
+  "sunstantiated_rate" : "0.00"
+}
+, {
+  "unfounded_number" : "368",
+  "miscellaneous" : "20",
+  "unfounded_rate" : "22.30",
+  "officer_unidentified_number" : "179",
+  "unsubstantiated_number" : "986",
+  "officer_unidentified_rate" : "10.90",
+  "miscellaneous_rate" : "1.20",
+  "exonerated_rate" : "3.30",
+  "type_of_abuse_of_authority_allegation" : "Total",
+  "substantiated_number" : "39",
+  "exonerated_number" : "55",
+  "unsubstantiated_rate" : "59.90",
+  "sunstantiated_rate" : "2.40"
+}
+ ]

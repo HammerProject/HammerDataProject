@@ -1,0 +1,314 @@
+[ {
+  "location" : "Town"
+}
+, { }
+, { }
+, {
+  "area_of_water_surface_at_spilway_elevation" : "0.464",
+  "date_put_in_service" : "1873",
+  "kind_of_dam" : "Masonry, Earth Wings",
+  "reservior_" : "1",
+  "name_of_reservior" : "Boyds Corner",
+  "length_of_shoreline_miles_" : "6.2",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "580.05",
+  "location" : "Kent",
+  "drainage_area" : "23.46"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "0.108",
+  "date_put_in_service" : "1870",
+  "kind_of_dam" : "Earth",
+  "reservior_" : "2x",
+  "name_of_reservior" : "Barretts Pond",
+  "length_of_shoreline_miles_" : "1.4",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "776.55",
+  "location" : "Kent",
+  "drainage_area" : "0.57"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "0.264",
+  "date_put_in_service" : "1870",
+  "kind_of_dam" : "Earth",
+  "reservior_" : "3x",
+  "name_of_reservior" : "Lake Glenieda",
+  "length_of_shoreline_miles_" : "2.2",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "504.55",
+  "location" : "Carmel",
+  "drainage_area" : "0.68"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "1.692",
+  "date_put_in_service" : "1895",
+  "kind_of_dam" : "Earth, Masonry Core & Spilway",
+  "reservior_" : "4",
+  "name_of_reservior" : "West Branch (Main)",
+  "length_of_shoreline_miles_" : "15.6",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "503.2",
+  "location" : "Carmel",
+  "drainage_area" : "42.82"
+}
+, {
+  "reservior_" : "5",
+  "name_of_reservior" : "West Branch Aux",
+  "location" : "Carmel"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "0.17",
+  "kind_of_dam" : "Earth, Masonry Core & (Auxillary Dam)",
+  "length_of_shoreline_miles_" : "11.2"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "0.669",
+  "date_put_in_service" : "1878",
+  "kind_of_dam" : "Earth, Masonry Core",
+  "reservior_" : "6",
+  "name_of_reservior" : "Middle Branch",
+  "length_of_shoreline_miles_" : "6.82",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "371.55",
+  "location" : "Southeast",
+  "drainage_area" : "21.31"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "0.64",
+  "date_put_in_service" : "1892",
+  "kind_of_dam" : "Earth, Masonry Core",
+  "reservior_" : "7",
+  "name_of_reservior" : "Bog Brook -1",
+  "length_of_shoreline_miles_" : "4.9",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "416.55",
+  "location" : "Southeast",
+  "drainage_area" : "3.67"
+}
+, {
+  "name_of_reservior" : "Bog Brook -2",
+  "location" : "Southeast"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "0.64",
+  "kind_of_dam" : "Earth, Masonry Core",
+  "length_of_shoreline_miles_" : "4.9",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "416.55"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "0.898",
+  "date_put_in_service" : "1891",
+  "kind_of_dam" : "Masonry, Earth Wings",
+  "reservior_" : "8",
+  "name_of_reservior" : "East Branch (Sodom)",
+  "length_of_shoreline_miles_" : "10.5",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "416.55",
+  "location" : "Southeast",
+  "drainage_area" : "80.28"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "0.24",
+  "date_put_in_service" : "1911",
+  "kind_of_dam" : "Earth, Concrete Core & Spillway",
+  "reservior_" : "9",
+  "name_of_reservior" : "Croton Falls (Diverting)",
+  "length_of_shoreline_miles_" : "4.2",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "309.55",
+  "location" : "Southeast",
+  "drainage_area" : "87.58"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "0.191",
+  "date_put_in_service" : "1870",
+  "kind_of_dam" : "Earth ",
+  "reservior_" : "10x",
+  "name_of_reservior" : "Lake Gilead",
+  "length_of_shoreline_miles_" : "2.1",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "496.55",
+  "location" : "Carmel",
+  "drainage_area" : "0.62"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "1.66",
+  "date_put_in_service" : "1911",
+  "kind_of_dam" : "Cyclopean Masonry",
+  "reservior_" : "11",
+  "name_of_reservior" : "Croton Falls  ",
+  "length_of_shoreline_miles_" : "18",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "309.4",
+  "location" : "Carmel",
+  "drainage_area" : "168.64"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "0.158",
+  "date_put_in_service" : "1870",
+  "kind_of_dam" : "Earth  ",
+  "reservior_" : "12x",
+  "name_of_reservior" : "Kirk Lake",
+  "length_of_shoreline_miles_" : "3.1",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "502.55",
+  "location" : "Carmel",
+  "drainage_area" : "2.84"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "0.947",
+  "date_put_in_service" : "1897",
+  "kind_of_dam" : "Earth, Masonry Core",
+  "reservior_" : "13",
+  "name_of_reservior" : "Amawalk & Aux.",
+  "length_of_shoreline_miles_" : "8.5",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "399.55",
+  "location" : "Somers",
+  "drainage_area" : "19.13"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "1.046",
+  "date_put_in_service" : "1893",
+  "kind_of_dam" : "Masonry, Earth Wings w/Masonry Core",
+  "reservior_" : "14",
+  "name_of_reservior" : "Titicus",
+  "length_of_shoreline_miles_" : "8.1",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "324.5",
+  "location" : "North Salem",
+  "drainage_area" : "23.35"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "1.202",
+  "date_put_in_service" : "1908",
+  "kind_of_dam" : "Cyclopean Masonry, Concrete Faces",
+  "reservior_" : "15",
+  "name_of_reservior" : "Cross River",
+  "length_of_shoreline_miles_" : "12.9",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "329.55",
+  "location" : "Bedford",
+  "drainage_area" : "29.8"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "1.822",
+  "date_put_in_service" : "1905",
+  "kind_of_dam" : "Masonry",
+  "reservior_" : "16",
+  "name_of_reservior" : "Muscoot",
+  "length_of_shoreline_miles_" : "35",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "199.55",
+  "location" : "Somers/Bedford",
+  "drainage_area" : "315.73"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "3.53",
+  "date_put_in_service" : "1905",
+  "kind_of_dam" : "Masonry",
+  "reservior_" : "17",
+  "name_of_reservior" : "New Croton",
+  "length_of_shoreline_miles_" : "38",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "196",
+  "location" : "Cortlandt",
+  "drainage_area" : "375"
+}
+, {
+  "reservior_" : "x = Controlled Lakes"
+}
+, { }
+, {
+  "area_of_water_surface_at_spilway_elevation" : "16.341",
+  "length_of_shoreline_miles_" : "193.62"
+}
+, {
+  "reservior_" : "Catskill System"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "12.99",
+  "date_put_in_service" : "1915",
+  "kind_of_dam" : "Masonry",
+  "reservior_" : "1",
+  "name_of_reservior" : "Ashokan",
+  "length_of_shoreline_miles_" : "40.2",
+  "location" : "Olive Bridge",
+  "drainage_area" : "257"
+}
+, { }
+, {
+  "area_of_water_surface_at_spilway_elevation" : "1.79",
+  "date_put_in_service" : "1926",
+  "kind_of_dam" : "Masonry",
+  "reservior_" : "2",
+  "name_of_reservior" : "Schohaire",
+  "length_of_shoreline_miles_" : "16.5",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "1130",
+  "location" : "Gilboa",
+  "drainage_area" : "314"
+}
+, {
+  "reservior_" : "Catskill Totals"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "14.78",
+  "length_of_shoreline_miles_" : "56.7"
+}
+, {
+  "reservior_" : "Delaware System"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "2.3",
+  "date_put_in_service" : "1953",
+  "kind_of_dam" : "Earth, Concrete Core",
+  "reservior_" : "1",
+  "name_of_reservior" : "Neversink",
+  "length_of_shoreline_miles_" : "16.5",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "1440",
+  "location" : "Neversink",
+  "drainage_area" : "93"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "8.9",
+  "date_put_in_service" : "1954",
+  "kind_of_dam" : "Earth, Concrete Core",
+  "reservior_" : "2",
+  "name_of_reservior" : "Pepacton",
+  "length_of_shoreline_miles_" : "53.5",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "1280",
+  "location" : "Colchester, Andes & Middletown",
+  "drainage_area" : "372"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "7.5",
+  "date_put_in_service" : "1967",
+  "kind_of_dam" : "Earth, Rolled Fill",
+  "reservior_" : "3",
+  "name_of_reservior" : "Cannonsville",
+  "length_of_shoreline_miles_" : "53.5",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "1150",
+  "location" : "Deposit, Tompkins & Walton",
+  "drainage_area" : "450"
+}
+, {
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "1158"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "3.25",
+  "date_put_in_service" : "1951",
+  "kind_of_dam" : "Earth, Concrete Core",
+  "reservior_" : "4",
+  "name_of_reservior" : "Rondout",
+  "length_of_shoreline_miles_" : "17",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "840",
+  "location" : "Warwarsing, Neersink"
+}
+, { }
+, {
+  "reservior_" : "Delaware Totals"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "21.95",
+  "length_of_shoreline_miles_" : "140.5"
+}
+, {
+  "reservior_" : "Kensico System"
+}
+, {
+  "area_of_water_surface_at_spilway_elevation" : "3.47",
+  "date_put_in_service" : "1925",
+  "kind_of_dam" : "Masonry",
+  "reservior_" : "1",
+  "name_of_reservior" : "Kensico",
+  "length_of_shoreline_miles_" : "30",
+  "elevation_of_spillway_m_s_l_sandy_hook_feet_" : "357",
+  "location" : "Mt. Pleasant, No. Castle",
+  "drainage_area" : "13.33"
+}
+, { }
+ ]

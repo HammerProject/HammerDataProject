@@ -1,0 +1,55 @@
+[ {
+  "special_operations_division" : "16",
+  "support_services_bureau" : "0",
+  "traffic_control_division" : "57",
+  "detective_bureau" : "212",
+  "internal_affairs_bureau" : "3",
+  "patrol_services_bureau" : "3111",
+  "other_patrol_services_bureau" : "3",
+  "attribution_of_complaint_to_deputy_comissioners_and_misc_commands" : "26",
+  "other_commands" : "8539",
+  "organizaed_crime_control_bureau" : "294",
+  "personnel_bureau" : "2",
+  "transit_bureau" : "198",
+  "year_attribution_of_complaint_to_respective_agencies" : "2009",
+  "special_operation_division" : "16",
+  "housing_bureau" : "289",
+  "criminal_justice_bureau" : "61"
+}
+, {
+  "special_operations_division" : "18",
+  "support_services_bureau" : "4",
+  "traffic_control_division" : "61",
+  "detective_bureau" : "184",
+  "internal_affairs_bureau" : "0",
+  "patrol_services_bureau" : "3289",
+  "other_patrol_services_bureau" : "3",
+  "attribution_of_complaint_to_deputy_comissioners_and_misc_commands" : "21",
+  "other_commands" : "7382",
+  "organizaed_crime_control_bureau" : "328",
+  "personnel_bureau" : "2",
+  "transit_bureau" : "177",
+  "year_attribution_of_complaint_to_respective_agencies" : "2010",
+  "special_operation_division" : "18",
+  "housing_bureau" : "301",
+  "criminal_justice_bureau" : "50"
+}
+, {
+  "special_operations_division" : "21",
+  "support_services_bureau" : "4",
+  "traffic_control_division" : "60",
+  "detective_bureau" : "160",
+  "internal_affairs_bureau" : "4",
+  "patrol_services_bureau" : "3166",
+  "other_patrol_services_bureau" : "0",
+  "attribution_of_complaint_to_deputy_comissioners_and_misc_commands" : "45",
+  "other_commands" : "7013",
+  "organizaed_crime_control_bureau" : "351",
+  "personnel_bureau" : "6",
+  "transit_bureau" : "175",
+  "year_attribution_of_complaint_to_respective_agencies" : "2011",
+  "special_operation_division" : "21",
+  "housing_bureau" : "243",
+  "criminal_justice_bureau" : "36"
+}
+ ]

@@ -1,0 +1,640 @@
+[ {
+  "environmental_tolerances" : "Salt, Drought, High Wind, Pollution and High pH Tolerant",
+  "growth_rate" : "Slow",
+  "form" : "Upright",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Ginkgo",
+  "location_tolerances" : "Median Tree, Narrow Growing Space",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Ginkgo biloba",
+  "notes_suggested_cultivars" : "'Autumn Gold' or 'Presedential Gold'"
+}
+, {
+  "environmental_tolerances" : "none",
+  "growth_rate" : "Slow",
+  "form" : "Upright",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Fastigiata Oak",
+  "location_tolerances" : "Median Tree, Narrow Growing Space",
+  "fall_color" : "Maroon",
+  "species_scientific_name" : "Quercus spp. 'Fastigiata'",
+  "notes_suggested_cultivars" : "Similar tree is Quercus robur"
+}
+, {
+  "environmental_tolerances" : "Wet Site Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Pyramidal",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Sweetgum",
+  "location_tolerances" : "none",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Liquidambar styraciflua",
+  "notes_suggested_cultivars" : "Plant Spring Only, lawn pits only, look for 'Rotundiloba'"
+}
+, {
+  "environmental_tolerances" : "Wet Site, Drought, High pH Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Pyramidal",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Dawn Redwood",
+  "location_tolerances" : "Median Tree, Narrow Growing Space",
+  "fall_color" : "Orange/Brown",
+  "species_scientific_name" : "Metasequoia glyptostroboides",
+  "notes_suggested_cultivars" : "Can Grow 2 to 3 Feet per Year"
+}
+, {
+  "environmental_tolerances" : "Wet Site, Salt and High Wind Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Pyramidal",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Baldcypress",
+  "location_tolerances" : "Median Tree, Narrow Growing Space",
+  "fall_color" : "Orange/Brown",
+  "species_scientific_name" : "Taxodium distichum",
+  "notes_suggested_cultivars" : "Ideal For Wet Soils"
+}
+, {
+  "environmental_tolerances" : "Pollution Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Pyramidal",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Littleleaf Linden",
+  "location_tolerances" : "Median Tree",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Tilia cordata",
+  "notes_suggested_cultivars" : "'Greenspire'"
+}
+, {
+  "environmental_tolerances" : "Drought Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Coffeetree",
+  "location_tolerances" : "none",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Gymnocladus dioicus",
+  "notes_suggested_cultivars" : "'Espresso'"
+}
+, {
+  "environmental_tolerances" : "Wet Site, Salt, Drought, High Wind, Pollution, and High pH Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Honeylocust",
+  "location_tolerances" : "Median Tree",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Gleditsia triacanthos var. inermis",
+  "notes_suggested_cultivars" : "'Halka'"
+}
+, {
+  "environmental_tolerances" : "none",
+  "growth_rate" : "Medium",
+  "form" : "Pyramidal",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Tulip Tree",
+  "location_tolerances" : "none",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Liriodendron tulipifera",
+  "notes_suggested_cultivars" : "'Rotundiloba'"
+}
+, {
+  "environmental_tolerances" : "Salt Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Northern Red Oak",
+  "location_tolerances" : "none",
+  "fall_color" : "Maroon",
+  "species_scientific_name" : "Quercus rubra",
+  "notes_suggested_cultivars" : "Plant Spring Only"
+}
+, {
+  "environmental_tolerances" : "Wet Site and Drought Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Swamp White Oak",
+  "location_tolerances" : "Median Tree",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Quercus bicolor",
+  "notes_suggested_cultivars" : "Plant Spring Only"
+}
+, {
+  "environmental_tolerances" : "none",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Shingle Oak",
+  "location_tolerances" : "none",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Quercus imbricaria",
+  "notes_suggested_cultivars" : "Plant Spring Only"
+}
+, {
+  "environmental_tolerances" : "Drought, High Wind, and Pollution Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Pin Oak",
+  "location_tolerances" : "Median Tree",
+  "fall_color" : "Maroon",
+  "species_scientific_name" : "Quercus palustris",
+  "notes_suggested_cultivars" : "Needs large tree pit"
+}
+, {
+  "environmental_tolerances" : "Drought and Pollution Tolerant",
+  "growth_rate" : "Slow",
+  "form" : "Rounded",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Willow Oak",
+  "location_tolerances" : "Median Tree",
+  "fall_color" : "Yellow/Orange",
+  "species_scientific_name" : "Quercus phellos",
+  "notes_suggested_cultivars" : "Plant Spring Only"
+}
+, {
+  "environmental_tolerances" : "Shade and High pH Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "American Linden",
+  "location_tolerances" : "none",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Tilia americana",
+  "notes_suggested_cultivars" : "'Redmond'"
+}
+, {
+  "environmental_tolerances" : "Pollution Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Crimean Linden",
+  "location_tolerances" : "none",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Tilia x euchlora",
+  "notes_suggested_cultivars" : "Pest Resistant"
+}
+, {
+  "environmental_tolerances" : "Salt and Shade Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Silver Linden",
+  "location_tolerances" : "none",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Tilia tomentosa",
+  "notes_suggested_cultivars" : "'Green Mountain'"
+}
+, {
+  "environmental_tolerances" : "Drought, High Wind, Pollution, and High pH Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Vase–Like",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Japanese Zelkova",
+  "location_tolerances" : "Median Tree, Small Tree Pit(<3ft), and Narrow Growing Space",
+  "fall_color" : "Red/Bronze",
+  "species_scientific_name" : "Zelkova serrata",
+  "notes_suggested_cultivars" : "'Halka'"
+}
+, {
+  "environmental_tolerances" : "Salt and High pH Tolerant",
+  "growth_rate" : "Medium",
+  "comments" : "Asian Long Horn Beetle Quarantine Species – Planting NOT RECOMMENDED in Brooklyn, Manhattan, Queens, and Staten Island",
+  "form" : "Rounded",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Hackberry",
+  "location_tolerances" : "none",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Celtis occidentalis",
+  "notes_suggested_cultivars" : "'Magnifica'"
+}
+, {
+  "environmental_tolerances" : "Salt, Drought, Pollution and High pH Tolerant",
+  "growth_rate" : "Medium",
+  "comments" : "Asian Long Horn Beetle Quarantine Species – Planting NOT RECOMMENDED in Brooklyn, Manhattan, Queens, and Staten Island",
+  "form" : "Pyramidal",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "White Ash",
+  "location_tolerances" : "Median Tree",
+  "fall_color" : "Purple/Maroon",
+  "species_scientific_name" : "Fraxinus americana",
+  "notes_suggested_cultivars" : "'Windy City'"
+}
+, {
+  "environmental_tolerances" : "Salt, Drought, Pollution and High pH Tolerant",
+  "growth_rate" : "Medium",
+  "comments" : "Asian Long Horn Beetle Quarantine Species – Planting NOT RECOMMENDED in Brooklyn, Manhattan, Queens, and Staten Island",
+  "form" : "Pyramidal",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "Green Ash",
+  "location_tolerances" : "Median Tree",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Fraxinus pennsylvanica",
+  "notes_suggested_cultivars" : "'Patmore'"
+}
+, {
+  "environmental_tolerances" : "Wet Site, Salt, Drought, High Wind, Pollution and High pH Tolerant",
+  "growth_rate" : "Medium",
+  "comments" : "Asian Long Horn Beetle Quarantine Species – Planting NOT RECOMMENDED in Brooklyn, Manhattan, Queens, and Staten Island",
+  "form" : "Rounded",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "London Plane",
+  "location_tolerances" : "Median Tree",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Platanus x acerifolia",
+  "notes_suggested_cultivars" : "Tolerates Tough Conditions"
+}
+, {
+  "environmental_tolerances" : "Wet Site, Salt, Drought, Shade and High pH Tolerant",
+  "growth_rate" : "Medium",
+  "comments" : "Asian Long Horn Beetle Quarantine Species – Planting NOT RECOMMENDED in Brooklyn, Manhattan, Queens, and Staten Island",
+  "form" : "Vase–Like",
+  "tree_size" : "Large (Mature Height > 50 ft)",
+  "species_common_name" : "American Elm",
+  "location_tolerances" : "Median Tree",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Ulmus americana",
+  "notes_suggested_cultivars" : "'Homestead', 'Pioneer', or'Accolade'"
+}
+, {
+  "environmental_tolerances" : "Salt, Drought, Pollution and Shade Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Upright",
+  "tree_size" : "Medium (Mature Height 35-50 ft)",
+  "species_common_name" : "European Hornbeam",
+  "location_tolerances" : "Small Tree Pit (<3 ft), Narrow Growing Space",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Carpinus betulus",
+  "notes_suggested_cultivars" : "'Fastigiata' cultivar is best for narrow spaces"
+}
+, {
+  "environmental_tolerances" : "Salt and High pH Tolerant",
+  "growth_rate" : "Slow",
+  "form" : "Upright",
+  "tree_size" : "Medium (Mature Height 35-50 ft)",
+  "species_common_name" : "English Oak",
+  "location_tolerances" : "Small Tree Pit (<3 ft), Narrow Growing Space",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Quercus robur",
+  "notes_suggested_cultivars" : "Plant Spring Only"
+}
+, {
+  "environmental_tolerances" : "Drought and High pH Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Pyramidal",
+  "tree_size" : "Medium (Mature Height 35-50 ft)",
+  "species_common_name" : "Turkish Filbert",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Corylus colurna",
+  "notes_suggested_cultivars" : "Also known as Turkish Hazelnut"
+}
+, {
+  "environmental_tolerances" : "Wet Site Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Pyramidal",
+  "tree_size" : "Medium (Mature Height 35-50 ft)",
+  "species_common_name" : "Black Gum",
+  "location_tolerances" : "none",
+  "fall_color" : "Red",
+  "species_scientific_name" : "Nyssa sylvatica",
+  "notes_suggested_cultivars" : "Should only be planted in extremly wet sites"
+}
+, {
+  "environmental_tolerances" : "Shade and High pH Tolerant",
+  "growth_rate" : "Slow",
+  "form" : "Rounded",
+  "tree_size" : "Medium (Mature Height 35-50 ft)",
+  "species_common_name" : "American Hophornbeam",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Ostrya virginiana",
+  "notes_suggested_cultivars" : "Plant Spring Only"
+}
+, {
+  "environmental_tolerances" : "Salt and High pH Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Medium (Mature Height 35-50 ft)",
+  "species_common_name" : "Sawtooth Oak",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Quercus acutissima",
+  "notes_suggested_cultivars" : "Plant Spring Only"
+}
+, {
+  "environmental_tolerances" : "Salt and Drought Tolerant",
+  "growth_rate" : "Slow",
+  "form" : "Rounded",
+  "tree_size" : "Medium (Mature Height 35-50 ft)",
+  "species_common_name" : "Hardy Rubber Tree",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Eucommia ulmoides",
+  "notes_suggested_cultivars" : "Tolerates Tough Conditions"
+}
+, {
+  "environmental_tolerances" : "Drought, High Wind, and Pollution Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Medium (Mature Height 35-50 ft)",
+  "species_common_name" : "Scholar Tree",
+  "location_tolerances" : "Median Tree, Small Tree Pit (<3 ft)",
+  "fall_color" : "Cream",
+  "species_scientific_name" : "Styphnolobium japonicum",
+  "notes_suggested_cultivars" : "'Regent'"
+}
+, {
+  "environmental_tolerances" : "Wet Site and Shade Tolerant",
+  "growth_rate" : "Medium",
+  "comments" : "Asian Long Horn Beetle Quarantine Species – Planting NOT RECOMMENDED in Brooklyn, Manhattan, Queens, and Staten Island",
+  "form" : "Rounded",
+  "tree_size" : "Medium (Mature Height 35-50 ft)",
+  "species_common_name" : "Red Maple",
+  "location_tolerances" : "none",
+  "fall_color" : "Red",
+  "species_scientific_name" : "Acer rubrum",
+  "notes_suggested_cultivars" : "'Redpointe' or 'Red Sunset'"
+}
+, {
+  "environmental_tolerances" : "Salt and High pH Tolerant",
+  "growth_rate" : "Medium",
+  "comments" : "Asian Long Horn Beetle Quarantine Species – Planting NOT RECOMMENDED in Brooklyn, Manhattan, Queens, and Staten Island",
+  "form" : "Rounded",
+  "tree_size" : "Medium (Mature Height 35-50 ft)",
+  "species_common_name" : "Chinese Elm",
+  "location_tolerances" : "none",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Ulmus parvifolia",
+  "notes_suggested_cultivars" : "'Allee'"
+}
+, {
+  "environmental_tolerances" : "Wet Site and Shade Tolerant",
+  "growth_rate" : "Medium",
+  "comments" : "Asian Long Horn Beetle Quarantine Species – Planting NOT RECOMMENDED in Brooklyn, Manhattan, Queens, and Staten Island",
+  "form" : "Rounded",
+  "tree_size" : "Medium (Mature Height 35-50 ft)",
+  "species_common_name" : "Katsura Tree",
+  "location_tolerances" : "none",
+  "fall_color" : "Yellow/Orange",
+  "species_scientific_name" : "Cercidiphyllum japonicum",
+  "notes_suggested_cultivars" : "Tree Does Best In Lawn Pits"
+}
+, {
+  "environmental_tolerances" : "Salt, Drought, Pollution, High pH Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Intermediate (Mature Height 25-35 ft)",
+  "species_common_name" : "Goldenraintree",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Koelreuteria paniculata",
+  "notes_suggested_cultivars" : "Tolerates tough conditions"
+}
+, {
+  "environmental_tolerances" : "Drought and High pH Tolerant",
+  "growth_rate" : "Slow",
+  "form" : "Rounded",
+  "tree_size" : "Intermediate (Mature Height 25-35 ft)",
+  "species_common_name" : "Amur Maackia",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Maackia amurensis",
+  "notes_suggested_cultivars" : "Fixes Its Own Nitrogen in the Soil, Late Bloomer"
+}
+, {
+  "environmental_tolerances" : "Salt, Drought, Pollution, and High pH Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Intermediate (Mature Height 25-35 ft)",
+  "species_common_name" : "Callery Pear",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Maroon",
+  "species_scientific_name" : "Pyrus calleryana",
+  "notes_suggested_cultivars" : "Plant sparingly"
+}
+, {
+  "environmental_tolerances" : "High pH Tolerant",
+  "growth_rate" : "Slow",
+  "comments" : "Asian Long Horn Beetle Quarantine Species – Planting NOT RECOMMENDED in Brooklyn, Manhattan, Queens, and Staten Island",
+  "form" : "Rounded",
+  "tree_size" : "Intermediate (Mature Height 25-35 ft)",
+  "species_common_name" : "Shantung Maple",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Acer truncatum",
+  "notes_suggested_cultivars" : "Spring foliage is purplish–red and changes to green"
+}
+, {
+  "environmental_tolerances" : "Salt and High pH Tolerant",
+  "growth_rate" : "Slow",
+  "comments" : "Asian Long Horn Beetle Quarantine Species – Planting NOT RECOMMENDED in Brooklyn, Manhattan, Queens, and Staten Island",
+  "form" : "Rounded",
+  "tree_size" : "Intermediate (Mature Height 25-35 ft)",
+  "species_common_name" : "Hedge Maple",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Acer campestre",
+  "notes_suggested_cultivars" : "'Queen Elizabeth'"
+}
+, {
+  "environmental_tolerances" : "Wet Site and Shade Tolerant",
+  "growth_rate" : "Slow",
+  "form" : "Rounded",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "Serviceberry",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Red/ Yellow",
+  "species_scientific_name" : "Amelanchier sp.",
+  "notes_suggested_cultivars" : "'Autumn Sunset,' 'Cumulus,' and 'White Pillar'"
+}
+, {
+  "environmental_tolerances" : "Salt, Shade and High pH Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "Eastern Redbud",
+  "location_tolerances" : "Median Tree, Small Tree Pit (<3 ft)",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Cercis canadensis",
+  "notes_suggested_cultivars" : "Does Best in Lawn Pits"
+}
+, {
+  "environmental_tolerances" : "Shade Tolerant",
+  "growth_rate" : "Slow",
+  "form" : "Rounded",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "American Hornbeam",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Yellow/Orange",
+  "species_scientific_name" : "Carpinus caroliniana",
+  "notes_suggested_cultivars" : "Plant Spring Only"
+}
+, {
+  "environmental_tolerances" : "Salt and Drought Tolerant",
+  "growth_rate" : "Slow",
+  "form" : "Rounded",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "Crabapple",
+  "location_tolerances" : "Median Tree, Small Tree Pit (<3 ft)",
+  "fall_color" : "Red/ yellow",
+  "species_scientific_name" : "Malus sp.",
+  "notes_suggested_cultivars" : "M. zumi , and 'Donald Wyman,' 'Spring Snow' is seedless"
+}
+, {
+  "environmental_tolerances" : "none",
+  "growth_rate" : "Slow",
+  "form" : "Rounded",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "Smoke Tree",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Red/Bronze",
+  "species_scientific_name" : "Cotinus sp.",
+  "notes_suggested_cultivars" : "'Royal Purple' or 'Grace'"
+}
+, {
+  "environmental_tolerances" : "Salt and Drought Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "Hawthorn",
+  "location_tolerances" : "Median Tree, Small Tree Pit (<3 ft)",
+  "fall_color" : "Maroon",
+  "species_scientific_name" : "Crataegus sp.",
+  "notes_suggested_cultivars" : "'Winter King,' 'Princeton Sentry,' or 'Crimson Cloud'"
+}
+, {
+  "environmental_tolerances" : "Salt Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "Cornelian Cherry",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Cornus mas",
+  "notes_suggested_cultivars" : "One of the first flowering spring trees"
+}
+, {
+  "environmental_tolerances" : "Drought and Pollution Tolerant",
+  "growth_rate" : "Slow",
+  "form" : "Rounded",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "Crapemyrtle",
+  "location_tolerances" : "Small Tree Pit (<3 ft), Narrow Growing Space",
+  "fall_color" : "Yellow/ Bronze",
+  "species_scientific_name" : "Lagerstroemia indica",
+  "notes_suggested_cultivars" : "Tolerates Tough Conditions"
+}
+, {
+  "environmental_tolerances" : "Salt, Drought, Pollution, and High pH Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Pyramidal",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "Schubert Cherry",
+  "location_tolerances" : "Median Tree, Small Tree Pit (<3 ft)",
+  "fall_color" : "Maroon",
+  "species_scientific_name" : "Prunus virginiana 'Schubert'",
+  "notes_suggested_cultivars" : "Tolerates Tough Conditions"
+}
+, {
+  "environmental_tolerances" : "Salt, Drought, and Shade Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "Japanese Tree Lilac",
+  "location_tolerances" : "Median Tree, Small Tree Pit (<3 ft), Narrow Growing Space",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Syringa reticulata",
+  "notes_suggested_cultivars" : "'Ivory Silk'"
+}
+, {
+  "environmental_tolerances" : "Salt Tolerant",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "Purpleleaf Plum",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Maroon",
+  "species_scientific_name" : "Prunus cerasifera",
+  "notes_suggested_cultivars" : "'Atropurpurea,' 'Thundercloud'"
+}
+, {
+  "environmental_tolerances" : "none",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "Okame Cherry",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Red/Bronze",
+  "species_scientific_name" : "Prunus 'Okame'",
+  "notes_suggested_cultivars" : "Earliest Blooming Cherry"
+}
+, {
+  "environmental_tolerances" : "none",
+  "growth_rate" : "Slow",
+  "form" : "Rounded",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "European Birdcherry",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Yellow/Bronze",
+  "species_scientific_name" : "Prunus padus",
+  "notes_suggested_cultivars" : "One of the First Trees to Leaf Out in the Spring"
+}
+, {
+  "environmental_tolerances" : "none",
+  "growth_rate" : "Slow",
+  "form" : "Rounded",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "Sargent Cherry",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Red/Bronze",
+  "species_scientific_name" : "Prunus sargentii",
+  "notes_suggested_cultivars" : "'Accolade' is Semi–double Flowering;"
+}
+, {
+  "environmental_tolerances" : "none",
+  "growth_rate" : "Slow",
+  "form" : "Rounded",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "Japanese Flowering Cherry",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Red/Orange",
+  "species_scientific_name" : "Prunus serrulata 'Kwanzan'",
+  "notes_suggested_cultivars" : "Double–flowering"
+}
+, {
+  "environmental_tolerances" : "none",
+  "growth_rate" : "Medium",
+  "form" : "Rounded",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "Yoshino Cherry",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Prunus x yedoensis",
+  "notes_suggested_cultivars" : "Tree Does Best in Lawn Pits"
+}
+, {
+  "environmental_tolerances" : "High pH Tolerant",
+  "growth_rate" : "Slow",
+  "comments" : "Asian Long Horn Beetle Quarantine Species – Planting NOT RECOMMENDED in Brooklyn, Manhattan, Queens, and Staten Island",
+  "form" : "Rounded",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "Amur Maple",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Red",
+  "species_scientific_name" : "Acer ginnala",
+  "notes_suggested_cultivars" : "Tolerates Tough Conditions"
+}
+, {
+  "environmental_tolerances" : "Wet Site and Salt Tolerant",
+  "growth_rate" : "Slow",
+  "comments" : "Asian Long Horn Beetle Quarantine Species – Planting NOT RECOMMENDED in Brooklyn, Manhattan, Queens, and Staten Island",
+  "form" : "Rounded",
+  "tree_size" : "Small (Mature Height < 25 ft)",
+  "species_common_name" : "Leprechaun Green Ash",
+  "location_tolerances" : "Small Tree Pit (<3 ft)",
+  "fall_color" : "Yellow",
+  "species_scientific_name" : "Fraxinus 'Leprechaun'",
+  "notes_suggested_cultivars" : "Good for wet sites under wires"
+}
+ ]

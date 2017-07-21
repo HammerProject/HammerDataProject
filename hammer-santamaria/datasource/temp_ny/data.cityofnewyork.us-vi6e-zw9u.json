@@ -1,0 +1,348 @@
+[ {
+  "original" : "200",
+  "replacement_seal" : "75",
+  "late_fee" : "Up to 30 days late $50,  From 31 days to five years late - add an extra $100 for each year or partial year",
+  "renewal" : "150",
+  "license_type" : "Master Plumber",
+  "license_term" : "3 years",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "175",
+  "reissue" : "50",
+  "original_seal" : "50",
+  "original_plate" : "75",
+  "replacement_plate" : "100"
+}
+, {
+  "original" : "200",
+  "replacement_seal" : "N/A",
+  "late_fee" : "Up to 30 days late $50,  From 31 days to five years late - add an extra $100 for each year or partial year",
+  "renewal" : "150",
+  "license_type" : "Plumber, Cert. Only",
+  "license_term" : "3 years",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "50",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "200",
+  "replacement_seal" : "75",
+  "late_fee" : "Up to 30 days late $50,  From 31 days to five years late - add an extra $100 for each year or partial year",
+  "renewal" : "150",
+  "license_type" : "Master Fire Suppression",
+  "license_term" : "3 years",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "175",
+  "reissue" : "50",
+  "original_seal" : "50",
+  "original_plate" : "75",
+  "replacement_plate" : "100"
+}
+, {
+  "original" : "200",
+  "late_fee" : "Up to 30 days late $50,  From 31 days to five years late - add an extra $100 for each year or partial year",
+  "renewal" : "150",
+  "license_type" : "Fire Suppression, Cert. only",
+  "license_term" : "3 years",
+  "certificate" : "N/A",
+  "reissue" : "50",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A"
+}
+, {
+  "original" : "50",
+  "replacement_seal" : "N/A",
+  "late_fee" : "N/A",
+  "license_type" : "Journeyman Plumber/Fire",
+  "license_term" : "No Expiration",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "50",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "100",
+  "replacement_seal" : "N/A",
+  "late_fee" : "50",
+  "renewal" : "75",
+  "license_type" : "Master Sign Hangar",
+  "license_term" : "3 years",
+  "certificate" : "5 each copy",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "50",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "100",
+  "replacement_seal" : "N/A",
+  "late_fee" : "50",
+  "renewal" : "75",
+  "license_type" : "Special Sign Hangar",
+  "license_term" : "3 years",
+  "certificate" : "5 each copy",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "50",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "200",
+  "replacement_seal" : "N/A",
+  "late_fee" : "50",
+  "renewal" : "150",
+  "license_type" : "Master Rigger",
+  "license_term" : "3 years",
+  "certificate" : "5 each copy",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "50",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "100",
+  "replacement_seal" : "N/A",
+  "late_fee" : "50",
+  "renewal" : "75",
+  "license_type" : "Special Rigger",
+  "license_term" : "3 years",
+  "certificate" : "5 each copy",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "50",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "10",
+  "replacement_seal" : "N/A",
+  "late_fee" : "5",
+  "renewal" : "5",
+  "license_type" : "Welder",
+  "license_term" : "1 year",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "5",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "replacement_seal" : "N/A",
+  "late_fee" : "Class A 50,  Class B 50,  Class C 50",
+  "license_type" : "Hoist Machine Operator / Cherrypicker",
+  "license_term" : "3 years",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "N/A",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "300",
+  "replacement_seal" : "N/A",
+  "late_fee" : "50",
+  "renewal" : "150",
+  "license_type" : "Site Safety Manager",
+  "license_term" : "3 years",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "50",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "100",
+  "replacement_seal" : "N/A",
+  "late_fee" : "50",
+  "renewal" : "50",
+  "license_type" : "Site Safety Coordinator",
+  "license_term" : "1 year",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "50",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "100",
+  "replacement_seal" : "N/A",
+  "late_fee" : "50",
+  "renewal" : "50",
+  "license_type" : "Oil Burner Installer",
+  "license_term" : "3 years",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "25 (seal only)",
+  "reissue" : "50",
+  "original_seal" : "100",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "100",
+  "replacement_seal" : "N/A",
+  "late_fee" : "50",
+  "renewal" : "50",
+  "license_type" : "Construction Superintendent",
+  "license_term" : "3 years",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "50",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "25",
+  "replacement_seal" : "N/A",
+  "late_fee" : "10",
+  "renewal" : "15",
+  "license_type" : "Engineer, Stationary/Portable",
+  "license_term" : "1 year",
+  "certificate" : "5 replacement license for Port. Eng.",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "15",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "150",
+  "replacement_seal" : "N/A",
+  "late_fee" : "50",
+  "renewal" : "50",
+  "license_type" : "Tower Crane Rigger",
+  "license_term" : "3 years",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "50",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "100",
+  "replacement_seal" : "N/A",
+  "late_fee" : "50",
+  "renewal" : "150",
+  "license_type" : "Elevator Agency Director",
+  "license_term" : "3 years",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "50",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "50",
+  "replacement_seal" : "N/A",
+  "late_fee" : "50",
+  "renewal" : "75",
+  "license_type" : "Elevator Inspector",
+  "license_term" : "3 years",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "50",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "100",
+  "replacement_seal" : "N/A",
+  "late_fee" : "50",
+  "renewal" : "75",
+  "license_type" : "Concrete Test Lab",
+  "license_term" : "1 year",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "50",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "310",
+  "replacement_seal" : "50",
+  "late_fee" : "310",
+  "renewal" : "60",
+  "license_type" : "Master Electrician",
+  "license_term" : "1 year",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "30 (seal only)",
+  "reissue" : "310",
+  "original_seal" : "50",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "310",
+  "replacement_seal" : "50",
+  "late_fee" : "310",
+  "renewal" : "60",
+  "license_type" : "Special Electrician",
+  "license_term" : "1 year",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "30 (seal only)",
+  "reissue" : "310",
+  "original_seal" : "50",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "replacement_seal" : "N/A",
+  "late_fee" : "50 per endorsement",
+  "license_type" : "Safety Registration (Construction, Demo, Concrete)",
+  "license_term" : "3 years",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "50",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "300",
+  "replacement_seal" : "N/A",
+  "late_fee" : "50",
+  "renewal" : "240",
+  "license_type" : "General Contractor (registration)",
+  "license_term" : "3 years",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "50",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "original" : "50",
+  "replacement_seal" : "N/A",
+  "late_fee" : "50",
+  "renewal" : "50",
+  "license_type" : "Filing Representative Registration (Expediter)",
+  "license_term" : "1 year",
+  "certificate" : "N/A",
+  "plate_seal_renewal" : "N/A",
+  "reissue" : "50",
+  "original_seal" : "N/A",
+  "original_plate" : "N/A",
+  "replacement_plate" : "N/A"
+}
+, {
+  "license_type" : "NYC Dept. of Buildings"
+}
+, {
+  "license_type" : "Licensing Fee Schedule as of 7/1/09"
+}
+ ]

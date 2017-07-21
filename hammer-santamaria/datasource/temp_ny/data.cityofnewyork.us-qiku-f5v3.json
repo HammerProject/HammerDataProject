@@ -1,0 +1,435 @@
+[ {
+  "complaint_responded" : "3",
+  "month" : "JANUARY",
+  "plant" : "OH",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "3"
+}
+, {
+  "complaint_responded" : "1",
+  "month" : "JANUARY",
+  "plant" : "RK",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "0",
+  "month" : "JANUARY",
+  "plant" : "NR",
+  "complaint_not_responded_w_in_24" : "1",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "1",
+  "month" : "JANUARY",
+  "plant" : "26th Ward",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "5",
+  "month" : "TOTAL",
+  "complaint_not_responded_w_in_24" : "1",
+  "complaint_rec_d" : "6"
+}
+, {
+  "complaint_responded" : "7",
+  "month" : "FEBRUARY",
+  "plant" : "OH",
+  "complaint_not_responded_w_in_24" : "2",
+  "complaint_rec_d" : "9"
+}
+, {
+  "complaint_responded" : "1",
+  "month" : "FEBRUARY",
+  "plant" : "CFN",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "0",
+  "month" : "FEBRUARY",
+  "plant" : "26th Ward",
+  "complaint_not_responded_w_in_24" : "1",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "8",
+  "month" : "TOTAL",
+  "complaint_not_responded_w_in_24" : "3",
+  "complaint_rec_d" : "11"
+}
+, {
+  "month" : "MARCH"
+}
+, {
+  "complaint_responded" : "1",
+  "month" : "MARCH",
+  "plant" : "NR",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "1",
+  "month" : "MARCH",
+  "plant" : "OB",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "4",
+  "month" : "MARCH",
+  "plant" : "OH",
+  "complaint_not_responded_w_in_24" : "2",
+  "complaint_rec_d" : "6"
+}
+, {
+  "complaint_responded" : "1",
+  "month" : "MARCH",
+  "plant" : "26th Ward",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "1",
+  "month" : "MARCH",
+  "plant" : "Rockaway",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "8",
+  "month" : "TOTAL",
+  "complaint_not_responded_w_in_24" : "2",
+  "complaint_rec_d" : "10"
+}
+, {
+  "month" : "APRIL"
+}
+, {
+  "complaint_responded" : "1",
+  "month" : "APRIL",
+  "plant" : "WI",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "3",
+  "month" : "APRIL",
+  "plant" : "CI",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "3"
+}
+, {
+  "complaint_responded" : "1",
+  "month" : "APRIL",
+  "plant" : "Jam",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "2",
+  "month" : "APRIL",
+  "plant" : "NR",
+  "complaint_not_responded_w_in_24" : "1",
+  "complaint_rec_d" : "3"
+}
+, {
+  "complaint_responded" : "0",
+  "month" : "APRIL",
+  "plant" : "OB",
+  "complaint_not_responded_w_in_24" : "1",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "0",
+  "month" : "APRIL",
+  "plant" : "OH",
+  "complaint_not_responded_w_in_24" : "1",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "0",
+  "month" : "APRIL",
+  "plant" : "26th Ward",
+  "complaint_not_responded_w_in_24" : "1",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "0",
+  "month" : "APRIL",
+  "plant" : "CFS",
+  "complaint_not_responded_w_in_24" : "2",
+  "complaint_rec_d" : "2"
+}
+, {
+  "complaint_responded" : "7",
+  "month" : "TOTAL",
+  "complaint_not_responded_w_in_24" : "6",
+  "complaint_rec_d" : "13"
+}
+, {
+  "complaint_responded" : "0",
+  "month" : "MAY",
+  "plant" : "26th Ward",
+  "complaint_not_responded_w_in_24" : "3",
+  "complaint_rec_d" : "3"
+}
+, {
+  "complaint_responded" : "0",
+  "month" : "MAY",
+  "plant" : "OH",
+  "complaint_not_responded_w_in_24" : "4",
+  "complaint_rec_d" : "4"
+}
+, {
+  "complaint_responded" : "1",
+  "month" : "MAY",
+  "plant" : "CI",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "1",
+  "month" : "MAY",
+  "plant" : "HP",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "0",
+  "month" : "MAY",
+  "plant" : "BB",
+  "complaint_not_responded_w_in_24" : "1",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "0",
+  "month" : "MAY",
+  "plant" : "OB",
+  "complaint_not_responded_w_in_24" : "1",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "2",
+  "month" : "TOTAL",
+  "complaint_not_responded_w_in_24" : "9",
+  "complaint_rec_d" : "11"
+}
+, {
+  "complaint_responded" : "4",
+  "month" : "JUNE",
+  "plant" : "CI",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "4"
+}
+, {
+  "complaint_responded" : "2",
+  "month" : "JUNE",
+  "plant" : "NR",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "2"
+}
+, {
+  "complaint_responded" : "0",
+  "month" : "JUNE",
+  "plant" : "OH",
+  "complaint_not_responded_w_in_24" : "6",
+  "complaint_rec_d" : "6"
+}
+, {
+  "complaint_responded" : "0",
+  "month" : "JUNE",
+  "plant" : "ROCK",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "0",
+  "month" : "JUNE",
+  "plant" : "WI",
+  "complaint_not_responded_w_in_24" : "1",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "1",
+  "month" : "JUNE",
+  "plant" : "CFS",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "8",
+  "month" : "TOTAL",
+  "complaint_not_responded_w_in_24" : "7",
+  "complaint_rec_d" : "15"
+}
+, {
+  "complaint_responded" : "1",
+  "month" : "JULY",
+  "plant" : "BB",
+  "complaint_not_responded_w_in_24" : "1",
+  "complaint_rec_d" : "2"
+}
+, {
+  "complaint_responded" : "5",
+  "month" : "JULY",
+  "plant" : "NR",
+  "complaint_not_responded_w_in_24" : "7",
+  "complaint_rec_d" : "12"
+}
+, {
+  "complaint_responded" : "0",
+  "month" : "JULY",
+  "plant" : "CI",
+  "complaint_not_responded_w_in_24" : "8",
+  "complaint_rec_d" : "8"
+}
+, {
+  "complaint_responded" : "0",
+  "month" : "JULY",
+  "plant" : "OH",
+  "complaint_not_responded_w_in_24" : "4",
+  "complaint_rec_d" : "4"
+}
+, {
+  "complaint_responded" : "0",
+  "month" : "JULY",
+  "plant" : "26th Ward",
+  "complaint_not_responded_w_in_24" : "3",
+  "complaint_rec_d" : "3"
+}
+, {
+  "complaint_responded" : "1",
+  "month" : "JULY",
+  "plant" : "ROCK",
+  "complaint_not_responded_w_in_24" : "0",
+  "complaint_rec_d" : "1"
+}
+, {
+  "complaint_responded" : "7",
+  "month" : "TOTAL",
+  "complaint_not_responded_w_in_24" : "23",
+  "complaint_rec_d" : "30"
+}
+, {
+  "month" : "AUGUST"
+}
+, {
+  "month" : "AUGUST"
+}
+, {
+  "month" : "AUGUST"
+}
+, {
+  "month" : "AUGUST"
+}
+, {
+  "month" : "AUGUST"
+}
+, {
+  "month" : "AUGUST"
+}
+, {
+  "month" : "AUGUST"
+}
+, {
+  "month" : "AUGUST"
+}
+, {
+  "month" : "AUGUST"
+}
+, {
+  "month" : "TOTAL"
+}
+, {
+  "month" : "SEPTEMBER"
+}
+, {
+  "month" : "SEPTEMBER"
+}
+, {
+  "month" : "SEPTEMBER"
+}
+, {
+  "month" : "SEPTEMBER"
+}
+, {
+  "month" : "SEPTEMBER"
+}
+, {
+  "month" : "SEPTEMBER"
+}
+, {
+  "month" : "SEPTEMBER"
+}
+, {
+  "month" : "SEPTEMBER"
+}
+, {
+  "month" : "SEPTEMBER"
+}
+, {
+  "month" : "TOTAL"
+}
+, {
+  "month" : "OCTOBER"
+}
+, {
+  "month" : "OCTOBER"
+}
+, {
+  "month" : "OCTOBER"
+}
+, {
+  "month" : "OCTOBER"
+}
+, {
+  "month" : "OCTOBER"
+}
+, {
+  "month" : "TOTAL"
+}
+, {
+  "month" : "NOVEMBER"
+}
+, {
+  "month" : "NOVEMBER"
+}
+, {
+  "month" : "NOVEMBER"
+}
+, {
+  "month" : "NOVEMBER"
+}
+, {
+  "month" : "NOVEMBER"
+}
+, {
+  "month" : "NOVEMBER"
+}
+, {
+  "month" : "NOVEMBER"
+}
+, {
+  "month" : "TOTAL"
+}
+, {
+  "month" : "DECEMBER"
+}
+, {
+  "month" : "DECEMBER"
+}
+, {
+  "month" : "DECEMBER"
+}
+, {
+  "month" : "DECEMBER"
+}
+, {
+  "month" : "DECEMBER"
+}
+, {
+  "month" : "TOTAL"
+}
+ ]

@@ -1,0 +1,606 @@
+[ {
+  "lot" : "1",
+  "building_name" : "Manhattan Municipal Building",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "92117",
+  "borough_number" : "1",
+  "building_address" : "1 Centre St ",
+  "block" : "121",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10007"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Staten Island Borough Hall",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "11385",
+  "borough_number" : "5",
+  "building_address" : "10 Richmond Ter ",
+  "block" : "7",
+  "borough" : "Staten Island",
+  "state" : "New York",
+  "zip_code" : "10301"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Manhattan Criminal Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "126511",
+  "borough_number" : "1",
+  "building_address" : "100 Centre Street ",
+  "block" : "167",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10013"
+}
+, {
+  "lot" : "25",
+  "building_name" : "100 Gold St",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "64582",
+  "borough_number" : "1",
+  "building_address" : "100 Gold St ",
+  "block" : "94",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10038"
+}
+, {
+  "lot" : "22",
+  "building_name" : "Staten Island Family Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "1429",
+  "borough_number" : "5",
+  "building_address" : "100 Richmond Ter ",
+  "block" : "9",
+  "borough" : "Staten Island",
+  "state" : "New York",
+  "zip_code" : "10301"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Staten Island Village Hall",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "932",
+  "borough_number" : "5",
+  "building_address" : "111 Canal St ",
+  "block" : "523",
+  "borough" : "Staten Island",
+  "state" : "New York",
+  "zip_code" : "10304"
+}
+, {
+  "lot" : "10",
+  "building_name" : "Manhattan Civil Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "27287",
+  "borough_number" : "1",
+  "building_address" : "111 Centre St ",
+  "block" : "169",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10013"
+}
+, {
+  "lot" : "22",
+  "building_name" : "115 Chrystie",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "1974",
+  "borough_number" : "1",
+  "building_address" : "115 Chrystie Street",
+  "block" : "423",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10002"
+}
+, {
+  "lot" : "39",
+  "building_name" : "Bronx Housing Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "9119",
+  "borough_number" : "2",
+  "building_address" : "1118 Grand Concourse ",
+  "block" : "2462",
+  "borough" : "Bronx",
+  "state" : "New York",
+  "zip_code" : "10456"
+}
+, {
+  "lot" : "17",
+  "building_name" : "Brooklyn Criminal Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "104757",
+  "borough_number" : "3",
+  "building_address" : "120 Schermerhorn St ",
+  "block" : "169",
+  "borough" : "Brooklyn",
+  "state" : "New York",
+  "zip_code" : "11201"
+}
+, {
+  "lot" : "2",
+  "building_name" : "Queens Borough Hall",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "53873",
+  "borough_number" : "4",
+  "building_address" : "120-55 Queens Blvd ",
+  "block" : "2274",
+  "borough" : "Queens",
+  "state" : "New York",
+  "zip_code" : "11415"
+}
+, {
+  "lot" : "32",
+  "building_name" : "Health Building",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "33886",
+  "borough_number" : "1",
+  "building_address" : "125 Worth St ",
+  "block" : "168",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10013"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Queens Criminal Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "37895",
+  "borough_number" : "4",
+  "building_address" : "125-01 Queens Blvd ",
+  "block" : "9653",
+  "borough" : "Queens",
+  "state" : "New York",
+  "zip_code" : "11415"
+}
+, {
+  "lot" : "70",
+  "building_name" : "Office Building",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "20745",
+  "borough_number" : "5",
+  "building_address" : "130 Stuyvesant Pl ",
+  "block" : "8",
+  "borough" : "Staten Island",
+  "state" : "New York",
+  "zip_code" : "10301"
+}
+, {
+  "lot" : "17",
+  "building_name" : "Excelsior Building",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "5677",
+  "borough_number" : "1",
+  "building_address" : "137 Centre St ",
+  "block" : "197",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10013"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Brooklyn Navy Yard",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "106",
+  "borough_number" : "3",
+  "building_address" : "150 Navy Street",
+  "block" : "2023",
+  "borough" : "Brooklyn",
+  "state" : "New York",
+  "zip_code" : "11205"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Queens Family Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "34390",
+  "borough_number" : "4",
+  "building_address" : "152-02 Jamaica Ave ",
+  "block" : "10093",
+  "borough" : "Queens",
+  "state" : "New York",
+  "zip_code" : "11432"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Bedford Ave Armory",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "5871",
+  "borough_number" : "3",
+  "building_address" : "1579 Bedford Ave ",
+  "block" : "1274",
+  "borough" : "Brooklyn",
+  "state" : "New York",
+  "zip_code" : "11225"
+}
+, {
+  "lot" : "6",
+  "building_name" : "OEM Building",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "12260",
+  "borough_number" : "3",
+  "building_address" : "165 Cadman Plaza East",
+  "block" : "85",
+  "borough" : "Brooklyn",
+  "state" : "New York",
+  "zip_code" : "11201"
+}
+, {
+  "lot" : "45",
+  "building_name" : "Harlem Courthouse",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "1265",
+  "borough_number" : "1",
+  "building_address" : "170 East 121st St ",
+  "block" : "179",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10035"
+}
+, {
+  "lot" : "12",
+  "building_name" : "Staten Island Supreme Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "1913",
+  "borough_number" : "5",
+  "building_address" : "18 Richmond Ter ",
+  "block" : "7",
+  "borough" : "Staten Island",
+  "state" : "New York",
+  "zip_code" : "10301"
+}
+, {
+  "lot" : "18",
+  "building_name" : "Bronx Bergen Building",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "13866",
+  "borough_number" : "2",
+  "building_address" : "1932 Arthur Ave ",
+  "block" : "2947",
+  "borough" : "Bronx",
+  "state" : "New York",
+  "zip_code" : "10457"
+}
+, {
+  "lot" : "94",
+  "building_name" : "Bronx Concourse Plaza",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "18855",
+  "borough_number" : "2",
+  "building_address" : "198 East 161st ",
+  "block" : "2443",
+  "borough" : "Bronx",
+  "state" : "New York",
+  "zip_code" : "10451"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Brooklyn Borough Hall",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "1809",
+  "borough_number" : "3",
+  "building_address" : "209 Joralemon St ",
+  "block" : "139",
+  "borough" : "Brooklyn",
+  "state" : "New York",
+  "zip_code" : "11201"
+}
+, {
+  "lot" : "30",
+  "building_name" : "Brooklyn Municipal Building",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "31597",
+  "borough_number" : "3",
+  "building_address" : "210 Joralemon St ",
+  "block" : "266",
+  "borough" : "Brooklyn",
+  "state" : "New York",
+  "zip_code" : "10451"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Bronx Family & Criminal Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "49713",
+  "borough_number" : "2",
+  "building_address" : "215 East 161st St ",
+  "block" : "2444",
+  "borough" : "Bronx",
+  "state" : "New York",
+  "zip_code" : "10007"
+}
+, {
+  "lot" : "23",
+  "building_name" : "City Planning Building",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "8951",
+  "borough_number" : "1",
+  "building_address" : "22 Reade St ",
+  "block" : "154",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10007"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Long Island City Courthouse",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "7227",
+  "borough_number" : "4",
+  "building_address" : "25-10 Court Sq ",
+  "block" : "83",
+  "borough" : "Queens",
+  "state" : "New York",
+  "zip_code" : "11101"
+}
+, {
+  "lot" : "7501",
+  "building_name" : "Home Life Building",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "19284",
+  "borough_number" : "1",
+  "building_address" : "253 Broadway ",
+  "block" : "134",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10007"
+}
+, {
+  "lot" : "21",
+  "building_name" : "Staten Island Courthouse",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "11072",
+  "borough_number" : "5",
+  "building_address" : "26 Central Ave ",
+  "block" : "6",
+  "borough" : "Staten Island",
+  "state" : "New York",
+  "zip_code" : "10301"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Hall of Justice",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "62113",
+  "borough_number" : "2",
+  "building_address" : "265 East 161st St  ",
+  "block" : "2454",
+  "borough" : "Bronx",
+  "state" : "New York",
+  "zip_code" : "10451"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Manhattan Appellate Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "7560",
+  "borough_number" : "1",
+  "building_address" : "27 Madison Ave ",
+  "block" : "855",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10010"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Court Square Building",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "29227",
+  "borough_number" : "1",
+  "building_address" : "2 Lafayette St ",
+  "block" : "155",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10007"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Sun Building",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "16423",
+  "borough_number" : "1",
+  "building_address" : "280 Broadway ",
+  "block" : "153",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10007"
+}
+, {
+  "lot" : "24",
+  "building_name" : "Manhattan Surrogate's Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "15059",
+  "borough_number" : "1",
+  "building_address" : "31 Chambers St ",
+  "block" : "153",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10007"
+}
+, {
+  "lot" : "22",
+  "building_name" : "Midtown Community Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "3086",
+  "borough_number" : "1",
+  "building_address" : "314 West 54th St ",
+  "block" : "1044",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10019"
+}
+, {
+  "lot" : "7502",
+  "building_name" : "Brooklyn Supreme & Family Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "37811",
+  "borough_number" : "3",
+  "building_address" : "330 Jay St ",
+  "block" : "140",
+  "borough" : "Brooklyn",
+  "state" : "New York",
+  "zip_code" : "11201"
+}
+, {
+  "lot" : "7503",
+  "building_name" : "DOF Facility",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "11943",
+  "borough_number" : "3",
+  "building_address" : "345 Adams St ",
+  "block" : "140",
+  "borough" : "Brooklyn",
+  "state" : "New York",
+  "zip_code" : "11201"
+}
+, {
+  "lot" : "6",
+  "building_name" : "Clocktower Building",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "26710",
+  "borough_number" : "1",
+  "building_address" : "346 Broadway ",
+  "block" : "170",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10013"
+}
+, {
+  "lot" : "20",
+  "building_name" : "Brooklyn Supreme Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "47357",
+  "borough_number" : "3",
+  "building_address" : "360 Adams St ",
+  "block" : "139",
+  "borough" : "Brooklyn",
+  "state" : "New York",
+  "zip_code" : "11201"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Division of Facilities Management and Construction Shops",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "2168",
+  "borough_number" : "3",
+  "building_address" : "390 Kent Ave ",
+  "block" : "2467",
+  "borough" : "Brooklyn",
+  "state" : "New York",
+  "zip_code" : "11211"
+}
+, {
+  "lot" : "9",
+  "building_name" : "Bronx Neighborhood Building",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "1716",
+  "borough_number" : "2",
+  "building_address" : "4101 White Plains Rd ",
+  "block" : "4832",
+  "borough" : "Bronx",
+  "state" : "New York",
+  "zip_code" : "10466"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Brooklyn Appellate Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "2419",
+  "borough_number" : "3",
+  "building_address" : "45 Monroe Pl ",
+  "block" : "237",
+  "borough" : "Brooklyn",
+  "state" : "New York",
+  "zip_code" : "11201"
+}
+, {
+  "lot" : "18",
+  "building_name" : "Emigrant Savings Building",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "19933",
+  "borough_number" : "1",
+  "building_address" : "49-51 Chambers St ",
+  "block" : "153",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10007"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Tweed Courthouse (DOE Offices)",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "15308",
+  "borough_number" : "1",
+  "building_address" : "52 Chambers St ",
+  "block" : "122",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10007"
+}
+, {
+  "lot" : "21",
+  "building_name" : "Manhattan Supreme Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "36789",
+  "borough_number" : "1",
+  "building_address" : "60 Centre St ",
+  "block" : "160",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10007"
+}
+, {
+  "lot" : "31",
+  "building_name" : "Manhattan Family Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "31366",
+  "borough_number" : "1",
+  "building_address" : "60 Lafayette St ",
+  "block" : "171",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10013"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Central Storehouse",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "31689",
+  "borough_number" : "4",
+  "building_address" : "66-26 Metropolitan Ave ",
+  "block" : "3605",
+  "borough" : "Queens",
+  "state" : "New York",
+  "zip_code" : "11379"
+}
+, {
+  "lot" : "9",
+  "building_name" : "Staten Island Criminal Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "2516",
+  "borough_number" : "5",
+  "building_address" : "67 Targee St ",
+  "block" : "542",
+  "borough" : "Staten Island",
+  "state" : "New York",
+  "zip_code" : "10304"
+}
+, {
+  "lot" : "27",
+  "building_name" : "Louis J. Lefkowitz Building",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "39543",
+  "borough_number" : "1",
+  "building_address" : "80 Centre St ",
+  "block" : "166",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10013"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Bronx County Courthouse",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "15804",
+  "borough_number" : "2",
+  "building_address" : "851 Grand Concourse ",
+  "block" : "2468",
+  "borough" : "Bronx",
+  "state" : "New York",
+  "zip_code" : "10451"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Queens Supreme Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "23888",
+  "borough_number" : "4",
+  "building_address" : "88-11 Sutphin Blvd ",
+  "block" : "9691",
+  "borough" : "Queens",
+  "state" : "New York",
+  "zip_code" : "11435"
+}
+, {
+  "lot" : "1",
+  "building_name" : "Queens Civil Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "16928",
+  "borough_number" : "4",
+  "building_address" : "89-17 Sutphin Blvd ",
+  "block" : "9680",
+  "borough" : "Queens",
+  "state" : "New York",
+  "zip_code" : "11435"
+}
+, {
+  "lot" : "65",
+  "building_name" : "Staten Island Civil Court",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "1986",
+  "borough_number" : "5",
+  "building_address" : "927 Castleton Ave ",
+  "block" : "159",
+  "borough" : "Staten Island",
+  "state" : "New York",
+  "zip_code" : "10310"
+}
+, {
+  "lot" : "1",
+  "building_name" : "City Hall",
+  "fy15_energy_usage_mmbtu_utility_energy_excluding_fuel_oil" : "8035",
+  "borough_number" : "1",
+  "building_address" : "City Hall Park ",
+  "block" : "122",
+  "borough" : "Manhattan",
+  "state" : "New York",
+  "zip_code" : "10007"
+}
+ ]

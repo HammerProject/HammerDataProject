@@ -1,0 +1,1728 @@
+[ {
+  "incident_type" : "Fire - 5 Alarm ",
+  "city" : "Queens",
+  "guide_type" : "IBD-FIRE",
+  "street" : "38-68 13 St",
+  "date_of_occurrence" : "2016-04-03T00:00:00",
+  "amount_sent" : "2934",
+  "zip_code" : "11101"
+}
+, {
+  "incident_type" : "Fire - 5 Alarm ",
+  "city" : "Brooklyn",
+  "guide_type" : "IBD-FIRE",
+  "street" : "640 Parkside Avenue",
+  "date_of_occurrence" : "2016-04-04T00:00:00",
+  "amount_sent" : "4253",
+  "zip_code" : "11226"
+}
+, {
+  "incident_type" : "Fire - 3 Alarm ",
+  "city" : "NA",
+  "guide_type" : "IBD-FIRE",
+  "street" : "NA",
+  "date_of_occurrence" : "2016-03-31T00:00:00",
+  "amount_sent" : "4567"
+}
+, {
+  "incident_type" : "Fire - 3 Alarm ",
+  "city" : "Staten Island",
+  "guide_type" : "IBD-FIRE",
+  "street" : "1053 Sinclair Avenue c/s Maguire Avenue",
+  "date_of_occurrence" : "2016-02-02T00:00:00",
+  "amount_sent" : "1346",
+  "zip_code" : "10309"
+}
+, {
+  "incident_type" : "Fire - 2 Alarm ",
+  "city" : "Manhattan",
+  "guide_type" : "IBD-FIRE",
+  "street" : "200 West 111 Street c/s Douglass Boulevard",
+  "date_of_occurrence" : "2016-02-06T00:00:00",
+  "amount_sent" : "1547",
+  "zip_code" : "10026"
+}
+, {
+  "incident_type" : "Fire - 3 Alarm ",
+  "city" : "Manhattan",
+  "guide_type" : "IBD-FIRE",
+  "street" : "2642 Broadway c/s West 100 Street",
+  "date_of_occurrence" : "2016-02-02T00:00:00",
+  "amount_sent" : "1758",
+  "zip_code" : "10025"
+}
+, {
+  "incident_type" : "Fire - 3 Alarm ",
+  "city" : "Brooklyn ",
+  "guide_type" : "IBD-FIRE",
+  "street" : "15 Paerdegat 14 Street c/s East 80th Street",
+  "date_of_occurrence" : "2016-01-21T00:00:00",
+  "amount_sent" : "1514",
+  "zip_code" : "11236"
+}
+, {
+  "incident_type" : "Fire - 3 Alarm ",
+  "city" : "Queens",
+  "guide_type" : "IBD-FIRE",
+  "street" : "90-89 175 St c/s 91st Ave",
+  "date_of_occurrence" : "2016-01-23T00:00:00",
+  "amount_sent" : "836",
+  "zip_code" : "11432"
+}
+, {
+  "incident_type" : "Fire - 4 Alarm ",
+  "city" : "Manharttan",
+  "guide_type" : "IBD-FIRE",
+  "street" : "763 9th Avenue c/s West 51 Street",
+  "date_of_occurrence" : "2016-01-24T00:00:00",
+  "amount_sent" : "1923",
+  "zip_code" : "10019"
+}
+, {
+  "incident_type" : "2 Alarm Fire",
+  "city" : "Brooklyn",
+  "guide_type" : "IBD-POWER OUT",
+  "street" : "491 Montauk Avenue",
+  "date_of_occurrence" : "2015-11-09T00:00:00",
+  "amount_sent" : "2233",
+  "zip_code" : "11208"
+}
+, {
+  "incident_type" : "Manhole Fire with Power Outage",
+  "city" : "Manhattan",
+  "guide_type" : "IBD-POWER OUT",
+  "street" : "159 west 53rd street",
+  "date_of_occurrence" : "2015-11-05T00:00:00",
+  "amount_sent" : "548",
+  "zip_code" : "10019"
+}
+, {
+  "incident_type" : "Water Main Break",
+  "city" : "Bronx",
+  "guide_type" : "IBD-FLOOD",
+  "street" : "Jennings St & Charlotte St, Bronx, NY 10460",
+  "date_of_occurrence" : "2015-11-04T00:00:00",
+  "amount_sent" : "2771",
+  "zip_code" : "10460"
+}
+, {
+  "incident_type" : "3 Alarm Fire",
+  "city" : "Bronx",
+  "guide_type" : "IBD-FIRE",
+  "street" : "358 Bedford Park Blvd",
+  "date_of_occurrence" : "2015-10-25T00:00:00",
+  "amount_sent" : "2458",
+  "zip_code" : "10456"
+}
+, {
+  "incident_type" : "6 Alarm Fire",
+  "city" : "Manhattan",
+  "guide_type" : "IBD-FIRE",
+  "street" : "221 West 17th Street",
+  "date_of_occurrence" : "2015-10-20T00:00:00",
+  "amount_sent" : "1933",
+  "zip_code" : "10011"
+}
+, {
+  "incident_type" : "Power Outage",
+  "city" : "Manhattan",
+  "guide_type" : "IBD-POWER OUT",
+  "street" : "37 Sickles Street",
+  "date_of_occurrence" : "2015-09-14T00:00:00",
+  "amount_sent" : "1063",
+  "zip_code" : "10040"
+}
+, {
+  "incident_type" : "4 Alarm Fire",
+  "city" : "Bronx",
+  "guide_type" : "IBD-FIRE",
+  "street" : "1050 East 232 Street",
+  "date_of_occurrence" : "2015-08-25T00:00:00",
+  "amount_sent" : "1645",
+  "zip_code" : "10466"
+}
+, {
+  "incident_type" : "Water Main Break",
+  "city" : "Manhattan",
+  "guide_type" : "IBD-FLOOD",
+  "street" : "221 East Broadway",
+  "date_of_occurrence" : "2015-07-13T00:00:00",
+  "amount_sent" : "2326",
+  "zip_code" : "10002"
+}
+, {
+  "incident_type" : "3 Alarm Fire",
+  "city" : "Bronx",
+  "guide_type" : "IBD-FIRE",
+  "street" : "1234 Shakespeare Avenue",
+  "date_of_occurrence" : "2015-07-12T00:00:00",
+  "amount_sent" : "4692",
+  "zip_code" : "10452"
+}
+, {
+  "incident_type" : "Power Outage",
+  "city" : "Brooklyn",
+  "guide_type" : "IBD-POWER OUT",
+  "street" : "Ridgewood Network - Noll street at Central Ave",
+  "date_of_occurrence" : "2015-06-13T00:00:00",
+  "amount_sent" : "2479",
+  "zip_code" : "11206"
+}
+, {
+  "incident_type" : "Power Outage",
+  "city" : "Staten Island",
+  "guide_type" : "IBD-POWER OUT",
+  "street" : "Rosebank ",
+  "date_of_occurrence" : "2015-06-13T00:00:00",
+  "amount_sent" : "2094",
+  "zip_code" : "10305"
+}
+, {
+  "incident_type" : "3 Alarm Fire",
+  "city" : "Manhattan",
+  "guide_type" : "IBD-FIRE",
+  "street" : "1605 Amsterdam Ave.",
+  "date_of_occurrence" : "2015-06-08T00:00:00",
+  "amount_sent" : "2734",
+  "zip_code" : "10031"
+}
+, {
+  "incident_type" : "3 Alarm Fire",
+  "city" : "Bronx",
+  "guide_type" : "IBD-Fire",
+  "street" : "2685 Briggs Avenue",
+  "date_of_occurrence" : "2015-05-11T00:00:00",
+  "amount_sent" : "4767",
+  "zip_code" : "10458"
+}
+, {
+  "incident_type" : "2 Alarm Fire",
+  "city" : "Staten Island",
+  "guide_type" : "IBD-Fire",
+  "street" : "12 Harbor View Court",
+  "date_of_occurrence" : "2015-05-08T00:00:00",
+  "amount_sent" : "2124",
+  "zip_code" : "10301"
+}
+, {
+  "incident_type" : "2 Alarm Fire",
+  "city" : "Manhattan",
+  "guide_type" : "IBD-Fire",
+  "street" : "203 East 26th Street",
+  "date_of_occurrence" : "2015-05-07T00:00:00",
+  "amount_sent" : "1854",
+  "zip_code" : "10010"
+}
+, {
+  "incident_type" : "2 Alarm Fire",
+  "city" : "Queens",
+  "guide_type" : "IBD-Fire",
+  "street" : "106-35 96 Street",
+  "date_of_occurrence" : "2015-04-28T00:00:00",
+  "amount_sent" : "1673",
+  "zip_code" : "11417"
+}
+, {
+  "incident_type" : "Residential High Rise Fire",
+  "city" : "Manhattan",
+  "guide_type" : "IBD-Fire",
+  "street" : "145 East 76 Street",
+  "date_of_occurrence" : "2015-04-25T00:00:00",
+  "amount_sent" : "2670",
+  "zip_code" : "10021"
+}
+, {
+  "incident_type" : "Water Main Break",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "235 West 107th Street",
+  "date_of_occurrence" : "2015-03-10T00:00:00",
+  "amount_sent" : "2024",
+  "zip_code" : "10025"
+}
+, {
+  "incident_type" : "4 Alarm Fire",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "2218 National Drive",
+  "date_of_occurrence" : "2015-03-10T00:00:00",
+  "amount_sent" : "294",
+  "zip_code" : "11234"
+}
+, {
+  "incident_type" : "2 Alarm Fire",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "565 Van Nest Ave",
+  "date_of_occurrence" : "2015-03-05T00:00:00",
+  "amount_sent" : "469",
+  "zip_code" : "10460"
+}
+, {
+  "incident_type" : "Residential High Rise Fire",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "1365 St Nicholas Ave",
+  "date_of_occurrence" : "2015-02-28T00:00:00",
+  "amount_sent" : "1932",
+  "zip_code" : "10033"
+}
+, {
+  "incident_type" : "3 Alarm Fire",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "1204 Avenue N",
+  "date_of_occurrence" : "2015-02-27T00:00:00",
+  "amount_sent" : "632",
+  "zip_code" : "11230"
+}
+, {
+  "incident_type" : "2 Alarm Fire",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "220 Montauk Ave",
+  "date_of_occurrence" : "2015-02-25T00:00:00",
+  "amount_sent" : "224",
+  "zip_code" : "11208"
+}
+, {
+  "incident_type" : "Water Main Break",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "152 street at Riverside Dr",
+  "date_of_occurrence" : "2015-02-23T00:00:00",
+  "amount_sent" : "879",
+  "zip_code" : "10031"
+}
+, {
+  "incident_type" : "Utility-Power Outage",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "West 30th Street And 8th Ave",
+  "date_of_occurrence" : "2015-02-20T00:00:00",
+  "amount_sent" : "1486",
+  "zip_code" : "10001"
+}
+, {
+  "incident_type" : "2 Alarm Fire",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "819 east 228th street",
+  "date_of_occurrence" : "2015-02-18T00:00:00",
+  "amount_sent" : "374",
+  "zip_code" : "10466"
+}
+, {
+  "incident_type" : "2 Alarm Fire",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "116 Ivan Court",
+  "date_of_occurrence" : "2015-02-18T00:00:00",
+  "amount_sent" : "52",
+  "zip_code" : "11229"
+}
+, {
+  "incident_type" : "2 Alarm Fire",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "2705 bainbridge Ave",
+  "date_of_occurrence" : "2015-02-16T00:00:00",
+  "amount_sent" : "1270",
+  "zip_code" : "10458"
+}
+, {
+  "incident_type" : "2 Alarm Fire",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "1718 Avenue U",
+  "date_of_occurrence" : "2015-02-15T00:00:00",
+  "amount_sent" : "464",
+  "zip_code" : "11229"
+}
+, {
+  "incident_type" : "Residential High Rise Fire",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "118 West 79th Street",
+  "date_of_occurrence" : "2015-02-14T00:00:00",
+  "amount_sent" : "2440",
+  "zip_code" : "10024"
+}
+, {
+  "incident_type" : "7 Alarm Fire",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "5 North 11 Street",
+  "date_of_occurrence" : "2015-01-31T00:00:00",
+  "amount_sent" : "1417",
+  "zip_code" : "11249"
+}
+, {
+  "incident_type" : "2 Alarm Fire",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "158 West 15th street",
+  "date_of_occurrence" : "2015-01-29T00:00:00",
+  "amount_sent" : "2139",
+  "zip_code" : "10011"
+}
+, {
+  "incident_type" : "Residential High Rise Fire",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "1368 Webster Avenue",
+  "date_of_occurrence" : "2015-01-28T00:00:00",
+  "amount_sent" : "3037",
+  "zip_code" : "10456"
+}
+, {
+  "incident_type" : "Residential High Rise Fire",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "625 West 57 Street",
+  "date_of_occurrence" : "2015-01-21T00:00:00",
+  "amount_sent" : "4925",
+  "zip_code" : "10019"
+}
+, {
+  "incident_type" : "Residential High Rise Fire",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "1309 Washington Ave",
+  "date_of_occurrence" : "2015-01-20T00:00:00",
+  "amount_sent" : "1360",
+  "zip_code" : "10456"
+}
+, {
+  "incident_type" : "2 Alarm Fire",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "740 Gran Concourse",
+  "date_of_occurrence" : "2015-01-19T00:00:00",
+  "amount_sent" : "227",
+  "zip_code" : "10451"
+}
+, {
+  "incident_type" : "3 Alarm Fire",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "501 West 179th street",
+  "date_of_occurrence" : "2015-01-17T00:00:00",
+  "amount_sent" : "267",
+  "zip_code" : "10033"
+}
+, {
+  "incident_type" : "3 Alarm Fire",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "West 33rd street at 8th avenue",
+  "date_of_occurrence" : "2015-01-13T00:00:00",
+  "amount_sent" : "1084",
+  "zip_code" : "10001"
+}
+, {
+  "incident_type" : "Residential High Rise Fire",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "1460 Bronx  River Avenue",
+  "date_of_occurrence" : "2015-01-10T00:00:00",
+  "amount_sent" : "1000",
+  "zip_code" : "10472"
+}
+, {
+  "incident_type" : "Residential High Rise Fire",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "272 Wyckoff Street",
+  "date_of_occurrence" : "2015-01-10T00:00:00",
+  "amount_sent" : "782",
+  "zip_code" : "11217"
+}
+, {
+  "incident_type" : "Water Main Break",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "West 17 street & Neptune Ave",
+  "date_of_occurrence" : "2015-01-09T00:00:00",
+  "amount_sent" : "293",
+  "zip_code" : "11224"
+}
+, {
+  "incident_type" : "Residential High Rise Fire",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "30 Richman Plaza",
+  "date_of_occurrence" : "2015-01-06T00:00:00",
+  "amount_sent" : "1000",
+  "zip_code" : "10453"
+}
+, {
+  "incident_type" : "Residential High Rise Fire",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "829 greenwood ave",
+  "date_of_occurrence" : "2015-01-06T00:00:00",
+  "amount_sent" : "251",
+  "zip_code" : "11218"
+}
+, {
+  "incident_type" : "2 Alarm Fire",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "34 Rochester Ave",
+  "date_of_occurrence" : "2015-01-05T00:00:00",
+  "amount_sent" : "90",
+  "zip_code" : "11233"
+}
+, {
+  "incident_type" : "Residential High Rise Fire",
+  "city" : " Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "2 Northside Pier",
+  "date_of_occurrence" : "2015-01-02T00:00:00",
+  "amount_sent" : "1664",
+  "zip_code" : "11249"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Manhattan, NY",
+  "guide_type" : "Pocket",
+  "street" : "790 11th Avenue c/s W 55th Street",
+  "date_of_occurrence" : "2014-12-02T00:00:00",
+  "amount_sent" : "1468",
+  "zip_code" : "10019"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Queens, NY",
+  "guide_type" : "Pocket",
+  "street" : "104-03 180 St c/s 104 Ave",
+  "date_of_occurrence" : "2014-12-02T00:00:00",
+  "amount_sent" : "164",
+  "zip_code" : "11433"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Manhattan, NY",
+  "guide_type" : "Pocket",
+  "street" : "2610 Frederick Douglass Blvd c/s West 139th Street",
+  "date_of_occurrence" : "2014-11-25T00:00:00",
+  "amount_sent" : "1145",
+  "zip_code" : "10030"
+}
+, {
+  "incident_type" : "WATER MAIN BREAK",
+  "city" : "Bronx, NY",
+  "guide_type" : "Pocket",
+  "street" : "East 143rd street and Southern Blvd",
+  "date_of_occurrence" : "2014-11-22T00:00:00",
+  "amount_sent" : "336",
+  "zip_code" : "10454"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn, NY",
+  "guide_type" : "Pocket",
+  "street" : "85 Hemlock Street c/s Jamaica Ave",
+  "date_of_occurrence" : "2014-11-22T00:00:00",
+  "amount_sent" : "591",
+  "zip_code" : "11208"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "820 Boynton Ave",
+  "date_of_occurrence" : "2014-07-20T00:00:00",
+  "amount_sent" : "1868",
+  "zip_code" : "10473"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "235 W 48th St",
+  "date_of_occurrence" : "2014-07-17T00:00:00",
+  "amount_sent" : "1075",
+  "zip_code" : "10036"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Queens",
+  "guide_type" : "Pocket",
+  "street" : "53-09 Beach Channel Drive ",
+  "date_of_occurrence" : "2014-07-16T00:00:00",
+  "amount_sent" : "652",
+  "zip_code" : "11691"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "1975 Madison Ave",
+  "date_of_occurrence" : "2014-07-16T00:00:00",
+  "amount_sent" : "723",
+  "zip_code" : "10035"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "135 Kent Ave",
+  "date_of_occurrence" : "2014-07-12T00:00:00",
+  "amount_sent" : "663",
+  "zip_code" : "11211"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "214 Rockaway Pkwy ",
+  "date_of_occurrence" : "2014-07-04T00:00:00",
+  "amount_sent" : "547",
+  "zip_code" : "11212"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "51 West 129 Street",
+  "date_of_occurrence" : "2014-05-28T00:00:00",
+  "amount_sent" : "1316",
+  "zip_code" : "10035"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "East 57 Street 2nd Av & 3rd Av",
+  "date_of_occurrence" : "2014-05-27T00:00:00",
+  "amount_sent" : "4516",
+  "zip_code" : "10022"
+}
+, {
+  "incident_type" : "WATER MAIN BREAK",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "205 East Houston Street",
+  "date_of_occurrence" : "2014-05-22T00:00:00",
+  "amount_sent" : "1434",
+  "zip_code" : "10009"
+}
+, {
+  "incident_type" : "WATER MAIN BREAK",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "55 Broad Street",
+  "date_of_occurrence" : "2014-05-12T00:00:00",
+  "amount_sent" : "857",
+  "zip_code" : "10004"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "422 West 57 St",
+  "date_of_occurrence" : "2014-05-12T00:00:00",
+  "amount_sent" : "3087",
+  "zip_code" : "10019"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "1700 Bedford Avenue ",
+  "date_of_occurrence" : "2014-05-10T00:00:00",
+  "amount_sent" : "1462",
+  "zip_code" : "11225"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "10 columbus circle",
+  "date_of_occurrence" : "2014-05-10T00:00:00",
+  "amount_sent" : "2805",
+  "zip_code" : "10023"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "20 West Mosholu Parkway South ",
+  "date_of_occurrence" : "2014-05-07T00:00:00",
+  "amount_sent" : "872",
+  "zip_code" : "10468"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "531 main street",
+  "date_of_occurrence" : "2014-05-03T00:00:00",
+  "amount_sent" : "377",
+  "zip_code" : "10044"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Queens",
+  "guide_type" : "Pocket",
+  "street" : " 74-09 37 Av",
+  "date_of_occurrence" : "2014-04-22T00:00:00",
+  "amount_sent" : "1559",
+  "zip_code" : "11372"
+}
+, {
+  "incident_type" : "WATER MAIN BREAK",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "East 21st Street & First Ave",
+  "date_of_occurrence" : "2014-04-15T00:00:00",
+  "amount_sent" : "3256",
+  "zip_code" : "10010"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "4324 4th Ave",
+  "date_of_occurrence" : "2014-04-13T00:00:00",
+  "amount_sent" : "369",
+  "zip_code" : "11232"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "215 Lafayette Ave",
+  "date_of_occurrence" : "2014-04-12T00:00:00",
+  "amount_sent" : "546",
+  "zip_code" : "11205"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Staten Island",
+  "guide_type" : "Pocket",
+  "street" : "106 Pitney Ave",
+  "date_of_occurrence" : "2014-04-11T00:00:00",
+  "amount_sent" : "158",
+  "zip_code" : "10309"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "17 Menahan Street",
+  "date_of_occurrence" : "2014-04-06T00:00:00",
+  "amount_sent" : "308",
+  "zip_code" : "11221"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : " 16 Beaver Street",
+  "date_of_occurrence" : "2014-04-04T00:00:00",
+  "amount_sent" : "333",
+  "zip_code" : "10004"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Queens",
+  "guide_type" : "Pocket",
+  "street" : "103-41 120th Street",
+  "date_of_occurrence" : "2014-03-23T00:00:00",
+  "amount_sent" : "315",
+  "zip_code" : "11419"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "82 East Burnside Avenue",
+  "date_of_occurrence" : "2014-03-23T00:00:00",
+  "amount_sent" : "723",
+  "zip_code" : "10453"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "23 West 76th Street",
+  "date_of_occurrence" : "2014-03-20T00:00:00",
+  "amount_sent" : "1438",
+  "zip_code" : "10024"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : " 860 Humboldt Street",
+  "date_of_occurrence" : "2014-03-19T00:00:00",
+  "amount_sent" : "40",
+  "zip_code" : "11222"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Queens",
+  "guide_type" : "Pocket",
+  "street" : " 90-30 52 Avenue",
+  "date_of_occurrence" : "2014-03-19T00:00:00",
+  "amount_sent" : "318",
+  "zip_code" : "11373"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Staten Island",
+  "guide_type" : "Pocket",
+  "street" : " 217 Canal Street",
+  "date_of_occurrence" : "2014-03-19T00:00:00",
+  "amount_sent" : "147",
+  "zip_code" : "10304"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : " 2580 Briggs Avenue ",
+  "date_of_occurrence" : "2014-03-18T00:00:00",
+  "amount_sent" : "1107",
+  "zip_code" : "10458"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Manhattan",
+  "guide_type" : "Pocket",
+  "street" : "72 Wadsworth Terrace",
+  "date_of_occurrence" : "2014-03-10T00:00:00",
+  "amount_sent" : "1750",
+  "zip_code" : "10040"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : " 9 Schuyler Terrace",
+  "date_of_occurrence" : "2014-03-09T00:00:00",
+  "amount_sent" : "82",
+  "zip_code" : "10465"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "915 East 179 Street",
+  "date_of_occurrence" : "2014-03-07T00:00:00",
+  "amount_sent" : "502",
+  "zip_code" : "10460"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : " 781 East 163 Street",
+  "date_of_occurrence" : "2014-03-06T00:00:00",
+  "amount_sent" : "773",
+  "zip_code" : "10459"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Staten Island",
+  "guide_type" : "Pocket",
+  "street" : "SI 131 Bennett St ",
+  "date_of_occurrence" : "2014-02-24T00:00:00",
+  "amount_sent" : "104",
+  "zip_code" : "10302"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "BX 1700 Topping Av ",
+  "date_of_occurrence" : "2014-02-23T00:00:00",
+  "amount_sent" : "418",
+  "zip_code" : "10457"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "BK 766 E 48 St",
+  "date_of_occurrence" : "2014-02-17T00:00:00",
+  "amount_sent" : "297",
+  "zip_code" : "11203"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "BK 912 Saratoga Av ",
+  "date_of_occurrence" : "2014-02-17T00:00:00",
+  "amount_sent" : "499",
+  "zip_code" : "11212"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Queens",
+  "guide_type" : "Pocket",
+  "street" : "QN 144-01 Sutter Av",
+  "date_of_occurrence" : "2014-02-17T00:00:00",
+  "amount_sent" : "86",
+  "zip_code" : "11436"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "BX 648 233 St ",
+  "date_of_occurrence" : "2014-02-16T00:00:00",
+  "amount_sent" : "1017",
+  "zip_code" : "10466"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "BX 1020 Dean Av",
+  "date_of_occurrence" : "2014-02-13T00:00:00",
+  "amount_sent" : "121",
+  "zip_code" : "10465"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Queens",
+  "guide_type" : "Pocket",
+  "street" : "QN 69-46 Sybilla St ",
+  "date_of_occurrence" : "2014-01-23T00:00:00",
+  "amount_sent" : "163",
+  "zip_code" : "11375"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Queens",
+  "guide_type" : "Pocket",
+  "street" : "QN 141-24 181 St",
+  "date_of_occurrence" : "2014-01-23T00:00:00",
+  "amount_sent" : "111",
+  "zip_code" : "11434"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Staten Island",
+  "guide_type" : "Pocket",
+  "street" : "SI 126 Dongan St ",
+  "date_of_occurrence" : "2014-01-23T00:00:00",
+  "amount_sent" : "98",
+  "zip_code" : "10310"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "BK 315 Sutter Av",
+  "date_of_occurrence" : "2014-01-21T00:00:00",
+  "amount_sent" : "1920",
+  "zip_code" : "11212"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "BX 1916 Osbourne Pl",
+  "date_of_occurrence" : "2014-01-21T00:00:00",
+  "amount_sent" : "350",
+  "zip_code" : "10453"
+}
+, {
+  "incident_type" : "WATER MAIN BREAK",
+  "city" : "New York",
+  "guide_type" : "Pocket",
+  "street" : "MN 5 Av  E 13 St ",
+  "date_of_occurrence" : "2014-01-21T00:00:00",
+  "amount_sent" : "1956",
+  "zip_code" : "10003"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Queens",
+  "guide_type" : "Pocket",
+  "street" : "QN 50-19 175 Pl",
+  "date_of_occurrence" : "2014-01-21T00:00:00",
+  "amount_sent" : "67",
+  "zip_code" : "11365"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Hazard",
+  "street" : "548 Third Avenue",
+  "date_of_occurrence" : "2013-11-25T00:00:00",
+  "amount_sent" : "1505",
+  "zip_code" : "10016"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Pocket",
+  "street" : "1440 Amsterdam Avenue",
+  "date_of_occurrence" : "2013-11-12T00:00:00",
+  "amount_sent" : "2023",
+  "zip_code" : "10027"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "1225 Taylor Ave",
+  "date_of_occurrence" : "2013-11-12T00:00:00",
+  "amount_sent" : "346",
+  "zip_code" : "10472"
+}
+, {
+  "incident_type" : "WATER MAIN BREAK",
+  "city" : "Queens",
+  "guide_type" : "Pocket",
+  "street" : "162nd Street and 35th Avenue",
+  "date_of_occurrence" : "2013-11-07T00:00:00",
+  "amount_sent" : "221",
+  "zip_code" : "11358"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Pocket",
+  "street" : "350 E 53 St",
+  "date_of_occurrence" : "2013-11-04T00:00:00",
+  "amount_sent" : "1266",
+  "zip_code" : "10022"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "536 Timpson Place",
+  "date_of_occurrence" : "2013-11-04T00:00:00",
+  "amount_sent" : "798",
+  "zip_code" : "10455"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "2860 Valentine Avenue",
+  "date_of_occurrence" : "2013-10-28T00:00:00",
+  "amount_sent" : "1149",
+  "zip_code" : "10458"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "2043 West 6th Street",
+  "date_of_occurrence" : "2013-10-13T00:00:00",
+  "amount_sent" : "471",
+  "zip_code" : "11223"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "1208 Leland Avenue",
+  "date_of_occurrence" : "2013-09-22T00:00:00",
+  "amount_sent" : "740",
+  "zip_code" : "10472"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "1901 Emmons Avenue",
+  "date_of_occurrence" : "2013-09-19T00:00:00",
+  "amount_sent" : "281",
+  "zip_code" : "11235"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Queens",
+  "guide_type" : "Pocket",
+  "street" : "78-15 68th Avenue ",
+  "date_of_occurrence" : "2013-09-09T00:00:00",
+  "amount_sent" : "275",
+  "zip_code" : "11379"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "71 Dahlgren Place",
+  "date_of_occurrence" : "2013-09-09T00:00:00",
+  "amount_sent" : "284",
+  "zip_code" : "11228"
+}
+, {
+  "incident_type" : "WATER MAIN BREAK",
+  "city" : "New York",
+  "guide_type" : "Pocket",
+  "street" : "West 36 Street & 6th Avenue",
+  "date_of_occurrence" : "2013-09-06T00:00:00",
+  "amount_sent" : "1373",
+  "zip_code" : "10018"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Staten Island",
+  "guide_type" : "Pocket",
+  "street" : "340 Heberton Avenue",
+  "date_of_occurrence" : "2013-09-05T00:00:00",
+  "amount_sent" : "201",
+  "zip_code" : "10302"
+}
+, {
+  "incident_type" : "BUILDING VACATE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "1238 Hancock Street",
+  "date_of_occurrence" : "2013-09-04T00:00:00",
+  "amount_sent" : "649",
+  "zip_code" : "11221"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Pocket",
+  "street" : "335 Bowery",
+  "date_of_occurrence" : "2013-09-03T00:00:00",
+  "amount_sent" : "908",
+  "zip_code" : "10003"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "169 Cypress Avenue ",
+  "date_of_occurrence" : "2013-08-26T00:00:00",
+  "amount_sent" : "1156",
+  "zip_code" : "10454"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "333 18 Street ",
+  "date_of_occurrence" : "2013-08-23T00:00:00",
+  "amount_sent" : "470",
+  "zip_code" : "11215"
+}
+, {
+  "incident_type" : "WATER MAIN BREAK ",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "66 Boerum Place ",
+  "date_of_occurrence" : "2013-08-20T00:00:00",
+  "amount_sent" : "723",
+  "zip_code" : "11201"
+}
+, {
+  "incident_type" : "FIRE ",
+  "city" : "New York",
+  "guide_type" : "Pocket",
+  "street" : "140 Riverside Drive ",
+  "date_of_occurrence" : "2013-08-19T00:00:00",
+  "amount_sent" : "2186",
+  "zip_code" : "10024"
+}
+, {
+  "incident_type" : "WATER MAIN BREAK ",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "Bruckner Blvd and East 141 Street ",
+  "date_of_occurrence" : "2013-08-19T00:00:00",
+  "amount_sent" : "115",
+  "zip_code" : "10454"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "188 South 3rd Street",
+  "date_of_occurrence" : "2013-07-18T00:00:00",
+  "amount_sent" : "564",
+  "zip_code" : "11211"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "1507 Commonwealth Avenue",
+  "date_of_occurrence" : "2013-07-17T00:00:00",
+  "amount_sent" : "263",
+  "zip_code" : "10460"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "1280 Randall Avenue",
+  "date_of_occurrence" : "2013-07-09T00:00:00",
+  "amount_sent" : "54",
+  "zip_code" : "10474"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "3840 Orloff Avenue",
+  "date_of_occurrence" : "2013-07-09T00:00:00",
+  "amount_sent" : "1177",
+  "zip_code" : "10463"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "3041 Cruger Avenue",
+  "date_of_occurrence" : "2013-07-09T00:00:00",
+  "amount_sent" : "472",
+  "zip_code" : "10467"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "387 East Mosholu Parkway N",
+  "date_of_occurrence" : "2013-06-23T00:00:00",
+  "amount_sent" : "873",
+  "zip_code" : "10467"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "6222 11th Avenue",
+  "date_of_occurrence" : "2013-06-11T00:00:00",
+  "amount_sent" : "531",
+  "zip_code" : "11219"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Astoria",
+  "guide_type" : "Pocket",
+  "street" : "Queens 31-40 47th Street",
+  "date_of_occurrence" : "2013-06-10T00:00:00",
+  "amount_sent" : "351",
+  "zip_code" : "11103"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Pocket",
+  "street" : "180 West End Avenue",
+  "date_of_occurrence" : "2013-06-10T00:00:00",
+  "amount_sent" : "6532",
+  "zip_code" : "10023"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Pocket",
+  "street" : "67 Wall Street",
+  "date_of_occurrence" : "2013-05-10T00:00:00",
+  "amount_sent" : "999",
+  "zip_code" : "10005"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "3101 Cropsey Avenue",
+  "date_of_occurrence" : "2013-05-08T00:00:00",
+  "amount_sent" : "163",
+  "zip_code" : "11224"
+}
+, {
+  "incident_type" : "GAS MAIN RUPTURE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "7002 4th Avenue",
+  "date_of_occurrence" : "2013-05-06T00:00:00",
+  "amount_sent" : "1066",
+  "zip_code" : "11209"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "920 Thieriot Avenue",
+  "date_of_occurrence" : "2013-05-04T00:00:00",
+  "amount_sent" : "874",
+  "zip_code" : "10473"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "685 East 226 Street",
+  "date_of_occurrence" : "2013-05-02T00:00:00",
+  "amount_sent" : "559",
+  "zip_code" : "10466"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Pocket",
+  "street" : "116 East 4 Street",
+  "date_of_occurrence" : "2013-04-21T00:00:00",
+  "amount_sent" : "1695",
+  "zip_code" : "10003"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "1175 Findlay Avenue",
+  "date_of_occurrence" : "2013-04-21T00:00:00",
+  "amount_sent" : "653",
+  "zip_code" : "10456"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Pocket",
+  "street" : "1335 6 Avenue",
+  "date_of_occurrence" : "2013-04-17T00:00:00",
+  "amount_sent" : "1271",
+  "zip_code" : "10019"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "857 Lafayette Avenue",
+  "date_of_occurrence" : "2013-04-15T00:00:00",
+  "amount_sent" : "811",
+  "zip_code" : "11221"
+}
+, {
+  "incident_type" : "WATER MAIN BREAK",
+  "city" : "New York",
+  "guide_type" : "Pocket",
+  "street" : "455 Madison Avenue",
+  "date_of_occurrence" : "2013-04-14T00:00:00",
+  "amount_sent" : "271",
+  "zip_code" : "10022"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "322 Milford Street",
+  "date_of_occurrence" : "2013-04-14T00:00:00",
+  "amount_sent" : "344",
+  "zip_code" : "11208"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "South Ozone Park",
+  "guide_type" : "Hazard",
+  "street" : "130-26 131 Avenue",
+  "date_of_occurrence" : "2013-03-08T00:00:00",
+  "amount_sent" : "51",
+  "zip_code" : "11420"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Rochdale",
+  "guide_type" : "Hazard",
+  "street" : "132-42 156 Street",
+  "date_of_occurrence" : "2013-03-05T00:00:00",
+  "amount_sent" : "126",
+  "zip_code" : "11434"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Hazard",
+  "street" : "2090 Valentine Avenue",
+  "date_of_occurrence" : "2013-03-05T00:00:00",
+  "amount_sent" : "501",
+  "zip_code" : "10457"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Hazard",
+  "street" : "60 1 Avenue",
+  "date_of_occurrence" : "2013-03-01T00:00:00",
+  "amount_sent" : "1555",
+  "zip_code" : "10009"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Hazard",
+  "street" : "77 Maujer Street",
+  "date_of_occurrence" : "2013-02-21T00:00:00",
+  "amount_sent" : "364",
+  "zip_code" : "11206"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Hazard",
+  "street" : "Pratt Institute, Willoughby Avenue",
+  "date_of_occurrence" : "2013-02-15T00:00:00",
+  "amount_sent" : "991",
+  "zip_code" : "11205"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Hazard",
+  "street" : "349 Ridgewood Avenue",
+  "date_of_occurrence" : "2013-02-14T00:00:00",
+  "amount_sent" : "559",
+  "zip_code" : "11208"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Hazard",
+  "street" : "2353 81 Street",
+  "date_of_occurrence" : "2013-02-02T00:00:00",
+  "amount_sent" : "299",
+  "zip_code" : "11214"
+}
+, {
+  "incident_type" : "WATER MAIN BREAK",
+  "city" : "New York",
+  "guide_type" : "Flood",
+  "street" : "23 Street and Broadway",
+  "date_of_occurrence" : "2013-02-01T00:00:00",
+  "amount_sent" : "1775",
+  "zip_code" : "10010"
+}
+, {
+  "incident_type" : "WATER MAIN BREAK",
+  "city" : "Brooklyn",
+  "guide_type" : "Flood",
+  "street" : "255 Columbia Street",
+  "date_of_occurrence" : "2013-01-29T00:00:00",
+  "amount_sent" : "358",
+  "zip_code" : "11231"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Hazard",
+  "street" : "663 Britton Street",
+  "date_of_occurrence" : "2013-01-28T00:00:00",
+  "amount_sent" : "635",
+  "zip_code" : "10467"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Hazard",
+  "street" : "891 East 135 Street",
+  "date_of_occurrence" : "2013-01-27T00:00:00",
+  "amount_sent" : "30",
+  "zip_code" : "10454"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Hazard",
+  "street" : "75 Mott Street",
+  "date_of_occurrence" : "2013-01-27T00:00:00",
+  "amount_sent" : "1217",
+  "zip_code" : "10013"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Jackson Heights",
+  "guide_type" : "Hazard",
+  "street" : "104-15 Northern Blvd",
+  "date_of_occurrence" : "2013-01-27T00:00:00",
+  "amount_sent" : "356",
+  "zip_code" : "11368"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Hazard",
+  "street" : "1441 52 Street",
+  "date_of_occurrence" : "2013-01-24T00:00:00",
+  "amount_sent" : "838",
+  "zip_code" : "11219"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Flushing",
+  "guide_type" : "Hazard",
+  "street" : "42-02 Kissena Blvd",
+  "date_of_occurrence" : "2013-01-12T00:00:00",
+  "amount_sent" : "1767",
+  "zip_code" : "11355"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Hazard",
+  "street" : "41 Spring Street",
+  "date_of_occurrence" : "2013-01-11T00:00:00",
+  "amount_sent" : "1215",
+  "zip_code" : "10012"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Hazard",
+  "street" : "1029 42 Street",
+  "date_of_occurrence" : "2013-01-04T00:00:00",
+  "amount_sent" : "356",
+  "zip_code" : "11219"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Hazard",
+  "street" : "135 West 141 Street",
+  "date_of_occurrence" : "2013-01-01T00:00:00",
+  "amount_sent" : "1920",
+  "zip_code" : "10030"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Hazard",
+  "street" : "347 West 57 Street",
+  "date_of_occurrence" : "2012-12-28T00:00:00",
+  "amount_sent" : "3495",
+  "zip_code" : "10019"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Far Rockaway",
+  "guide_type" : "Hazard",
+  "street" : "20-4 Seagirt Blvd ",
+  "date_of_occurrence" : "2012-12-13T00:00:00",
+  "amount_sent" : "2278",
+  "zip_code" : "11691"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Hazard",
+  "street" : "68 Sunnyside Avenue",
+  "date_of_occurrence" : "2012-11-21T00:00:00",
+  "amount_sent" : "247",
+  "zip_code" : "11207"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Hazard",
+  "street" : "130 Liberty Street",
+  "date_of_occurrence" : "2012-11-20T00:00:00",
+  "amount_sent" : "498",
+  "zip_code" : "10006"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Hazard",
+  "street" : "184 Street",
+  "date_of_occurrence" : "2012-10-15T00:00:00",
+  "amount_sent" : "813",
+  "zip_code" : "10468"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Hazard",
+  "street" : "509 W 134 Street",
+  "date_of_occurrence" : "2012-10-01T00:00:00",
+  "amount_sent" : "1866",
+  "zip_code" : "10031"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Hazard",
+  "street" : "1365 Carroll Street",
+  "date_of_occurrence" : "2012-09-03T00:00:00",
+  "amount_sent" : "601",
+  "zip_code" : "11213"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Hazard",
+  "street" : "665 New York Avenue",
+  "date_of_occurrence" : "2012-07-26T00:00:00",
+  "amount_sent" : "679",
+  "zip_code" : "11203"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Hazard",
+  "street" : "3250 Fulton Street",
+  "date_of_occurrence" : "2012-07-23T00:00:00",
+  "amount_sent" : "345",
+  "zip_code" : "11208"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Queens",
+  "guide_type" : "Hazard",
+  "street" : "107-47 112 Street",
+  "date_of_occurrence" : "2012-07-05T00:00:00",
+  "amount_sent" : "460",
+  "zip_code" : "11419"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Hazard",
+  "street" : "170 81st Street",
+  "date_of_occurrence" : "2012-06-21T00:00:00",
+  "amount_sent" : "152",
+  "zip_code" : "11209"
+}
+, {
+  "incident_type" : "WATER MAIN BREAK",
+  "city" : "Bronx",
+  "guide_type" : "Hazard",
+  "street" : "White Plains Rd & Mace Ave",
+  "date_of_occurrence" : "2012-06-08T00:00:00",
+  "amount_sent" : "859",
+  "zip_code" : "10467"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Hazard",
+  "street" : "2550 Olinville Avenue",
+  "date_of_occurrence" : "2012-06-01T00:00:00",
+  "amount_sent" : "906",
+  "zip_code" : "10467"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Hazard",
+  "street" : "147 Conselyea Street",
+  "date_of_occurrence" : "2012-06-01T00:00:00",
+  "amount_sent" : "378",
+  "zip_code" : "11211"
+}
+, {
+  "incident_type" : "WATER MAIN BREAK",
+  "city" : "Queens",
+  "guide_type" : "Hazard",
+  "street" : "29-76 Northern Blvd",
+  "date_of_occurrence" : "2012-05-27T00:00:00",
+  "amount_sent" : "1207",
+  "zip_code" : "11101"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "2070 Grand Concourse",
+  "date_of_occurrence" : "2012-05-12T00:00:00",
+  "amount_sent" : "937",
+  "zip_code" : "10457"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Queens",
+  "guide_type" : "Pocket",
+  "street" : "220-01 Hempstead Avenue",
+  "date_of_occurrence" : "2012-04-30T00:00:00",
+  "amount_sent" : "135",
+  "zip_code" : "11429"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Bronx",
+  "guide_type" : "Pocket",
+  "street" : "69 West 225 Street",
+  "date_of_occurrence" : "2012-04-20T00:00:00",
+  "amount_sent" : "1512",
+  "zip_code" : "10463"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "573 76th Street",
+  "date_of_occurrence" : "2012-04-11T00:00:00",
+  "amount_sent" : "423",
+  "zip_code" : "11209"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "Staten Island",
+  "guide_type" : "Pocket",
+  "street" : "27 North Mada Avenue",
+  "date_of_occurrence" : "2012-04-09T00:00:00",
+  "amount_sent" : "87",
+  "zip_code" : "10310"
+}
+, {
+  "incident_type" : "STRUCTUAL COLLAPSE",
+  "city" : "Brooklyn",
+  "guide_type" : "Pocket",
+  "street" : "40 Frank Court",
+  "date_of_occurrence" : "2012-04-03T00:00:00",
+  "amount_sent" : "49",
+  "zip_code" : "11229"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Pocket",
+  "street" : "92  Morningside Avenue",
+  "date_of_occurrence" : "2012-03-28T00:00:00",
+  "amount_sent" : "621",
+  "zip_code" : "10027"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Pocket",
+  "street" : "531 W. 217th Street",
+  "date_of_occurrence" : "2012-03-23T00:00:00",
+  "amount_sent" : "847",
+  "zip_code" : "10034"
+}
+, {
+  "incident_type" : "STRUCTUAL COLLAPSE",
+  "city" : "Arverne",
+  "guide_type" : "Pocket",
+  "street" : "451 Beach 72nd St",
+  "date_of_occurrence" : "2012-03-19T00:00:00",
+  "amount_sent" : "129",
+  "zip_code" : "11692"
+}
+, {
+  "incident_type" : "FLOOD",
+  "city" : "Brooklyn",
+  "guide_type" : "Hazard",
+  "street" : "659 East 87 Street",
+  "date_of_occurrence" : "2012-03-07T00:00:00",
+  "amount_sent" : "79",
+  "zip_code" : "11236"
+}
+, {
+  "incident_type" : "FIRE",
+  "city" : "New York",
+  "guide_type" : "Hazard",
+  "street" : "124 West 60 Street",
+  "date_of_occurrence" : "2012-03-03T00:00:00",
+  "amount_sent" : "355",
+  "zip_code" : "10019"
+}
+ ]

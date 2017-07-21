@@ -1,0 +1,1159 @@
+[ {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.59428994144626",
+    "human_address" : "{\"address\":\"312 Beach 54 Street\",\"city\":\"Arverne\",\"state\":\"NY\",\"zip\":\"11692\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.78442865540268"
+  },
+  "su" : "closed",
+  "th" : "10:00AM -  6:00PM",
+  "phone" : "(718) 634-4784",
+  "name" : "Arverne",
+  "fr" : " 1:00PM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.77152402451418",
+    "human_address" : "{\"address\":\"14 01 Astoria Boulevard\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"11102\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92643545073543"
+  },
+  "su" : "closed",
+  "th" : "10:00AM -  6:00PM",
+  "phone" : "(718) 278-2220",
+  "name" : "Astoria",
+  "fr" : " 1:00PM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.760350968822195",
+    "human_address" : "{\"address\":\"25 55 Francis Lewis Boulevard\",\"city\":\"Flushing\",\"state\":\"NY\",\"zip\":\"11358\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79632645819947"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 352-2027",
+  "name" : "Auburndale",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "closed",
+  "tu" : "closed",
+  "location_1" : {
+    "latitude" : "40.67571820912809",
+    "human_address" : "{\"address\":\"117 11 Sutphin Boulevard\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"11436\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79646501494847"
+  },
+  "su" : "closed",
+  "th" : "closed",
+  "phone" : "(718) 529-1590",
+  "name" : "Baisley Park",
+  "fr" : "closed",
+  "we" : "closed",
+  "sa" : "closed"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.78070133439911",
+    "human_address" : "{\"address\":\"18 36 Bell Boulevard\",\"city\":\"Bayside\",\"state\":\"NY\",\"zip\":\"11360\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.78226733686807"
+  },
+  "su" : "closed",
+  "th" : " 1:00AM -  8:00PM",
+  "phone" : "(718) 423-7004",
+  "name" : "Bay Terrace",
+  "fr" : " 1:00PM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "10:00AM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.76418884813688",
+    "human_address" : "{\"address\":\"214 20 Northern Boulevard\",\"city\":\"Bayside\",\"state\":\"NY\",\"zip\":\"11361\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.77232552860022"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 229-1834",
+  "name" : "Bayside",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.73704138495202",
+    "human_address" : "{\"address\":\"250 06 Hillside Avenue\",\"city\":\"Bellerose\",\"state\":\"NY\",\"zip\":\"11426\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.72415699894628"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 831-8644",
+  "name" : "Bellerose",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.70119264912154",
+    "human_address" : "{\"address\":\"85 12 Main Street\",\"city\":\"Briarwood\",\"state\":\"NY\",\"zip\":\"11435\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.80979665579099"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 658-1680",
+  "name" : "Briarwood",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.6183036047276",
+    "human_address" : "{\"address\":\"16 26 Cross Bay Boulevard\",\"city\":\"Broad Channel\",\"state\":\"NY\",\"zip\":\"11693\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82495531523557"
+  },
+  "su" : "closed",
+  "th" : "10:00AM -  6:00PM",
+  "phone" : "(718) 318-4943",
+  "name" : "Broad Channel",
+  "fr" : " 1:00PM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "10:00AM -  8:00PM",
+  "tu" : " 1:00AM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.76286893025696",
+    "human_address" : "{\"address\":\"40 20\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"11103\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.91327185810974"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 721-2462",
+  "name" : "Broadway",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.694293339066405",
+    "human_address" : "{\"address\":\"218 13 Linden Boulevard\",\"city\":\"Cambria Heights\",\"state\":\"NY\",\"zip\":\"11411\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.73568329125084"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 528-3535",
+  "name" : "Cambria Heights",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "10:00AM -  9:00PM",
+  "tu" : "10:00AM -  9:00PM",
+  "location_1" : {
+    "latitude" : "40.71311535449007",
+    "human_address" : "{\"address\":\"89 11 Merrick Boulevard\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"11432\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79282099978928"
+  },
+  "su" : "12:00PM -  5:00PM",
+  "th" : "10:00AM -  9:00PM",
+  "phone" : "(718) 990-0700",
+  "name" : "Central Library",
+  "fr" : "10:00AM -  9:00PM",
+  "we" : "10:00AM -  9:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "10:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.749678220373596",
+    "human_address" : "{\"address\":\"38 23 104 Street\",\"city\":\"Corona\",\"state\":\"NY\",\"zip\":\"11368\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85304068857687"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 426-2844",
+  "name" : "Corona",
+  "fr" : " 1:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "12:00PM -  7:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"25 01 Jackson Avenue\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225"
+  },
+  "su" : "closed",
+  "th" : "12:00PM -  6:00PM",
+  "phone" : "(718) 937-2790",
+  "name" : "Court Square",
+  "fr" : "12:00PM -  6:00PM",
+  "we" : "10:00PM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "10:00AM -  8:45PM",
+  "tu" : "10:00AM -  8:45PM",
+  "location_1" : {
+    "latitude" : "40.71311535449007",
+    "human_address" : "{\"address\":\"89 11 Merrick Boulevard\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"11432\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79282099978928"
+  },
+  "su" : "12:00PM -  4:45PM",
+  "th" : "10:00AM -  8:45PM",
+  "phone" : "(718) 990-0700",
+  "name" : "Cyber Center",
+  "fr" : "10:00AM -  8:45PM",
+  "we" : "10:00AM -  8:45PM",
+  "sa" : "10:00AM -  5:15PM"
+}
+, {
+  "mn" : "closed",
+  "tu" : "closed",
+  "location_1" : {
+    "latitude" : "40.772398418252465",
+    "human_address" : "{\"address\":\"249 01 Northern Boulevard\",\"city\":\"Little Neck\",\"state\":\"NY\",\"zip\":\"11363\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.74679788741253"
+  },
+  "su" : "closed",
+  "th" : "closed",
+  "phone" : "(718) 225-8414",
+  "name" : "Douglaston/Little Neck",
+  "fr" : "closed",
+  "we" : "closed",
+  "sa" : "closed"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.76341327370369",
+    "human_address" : "{\"address\":\"95 06 Astoria Boulevard\",\"city\":\"East Elmhurst\",\"state\":\"NY\",\"zip\":\"11369\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.8723788986672"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 424-2619",
+  "name" : "East Elmhurst",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.760350968822195",
+    "human_address" : "{\"address\":\"196 36 Northern Boulevard\",\"city\":\"Flushing\",\"state\":\"NY\",\"zip\":\"11358\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79632645819947"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 357-6643",
+  "name" : "East Flushing",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "10:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.73871040256307",
+    "human_address" : "{\"address\":\"86 01\",\"city\":\"Elmhurst\",\"state\":\"NY\",\"zip\":\"11373\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87835115518163"
+  },
+  "su" : "closed",
+  "th" : "10:00PM -  8:00PM",
+  "phone" : "(718) 271-1020",
+  "name" : "Elmhurst",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  8:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.60476369826094",
+    "human_address" : "{\"address\":\"1637 Central Avenue\",\"city\":\"Far Rockaway\",\"state\":\"NY\",\"zip\":\"11691\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.75234169735829"
+  },
+  "su" : "closed",
+  "th" : "10:00AM -  8:00PM",
+  "phone" : "(718) 327-2549",
+  "name" : "Far Rockaway",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 9:00AM -  9:00PM",
+  "tu" : " 9:00AM -  9:00PM",
+  "location_1" : {
+    "latitude" : "40.7512997969481",
+    "human_address" : "{\"address\":\"41 17 Main Street\",\"city\":\"Flushing\",\"state\":\"NY\",\"zip\":\"11355\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82147854789662"
+  },
+  "su" : "closed",
+  "th" : " 9:00AM -  9:00PM",
+  "phone" : "(718) 661-1200",
+  "name" : "Flushing",
+  "fr" : " 9:00AM -  9:00PM",
+  "we" : " 9:00AM -  9:00PM",
+  "sa" : " 9:00AM -  9:00PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.720707263029794",
+    "human_address" : "{\"address\":\"108 19 71 Avenue\",\"city\":\"Forest Hills\",\"state\":\"NY\",\"zip\":\"11375\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.84628429608335"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 268-7934",
+  "name" : "Forest Hills",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "10:00AM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.73987184371066",
+    "human_address" : "{\"address\":\"193 20 Horace Harding Expressway\",\"city\":\"Fresh Meadows\",\"state\":\"NY\",\"zip\":\"11365\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79462153515567"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 454-7272",
+  "name" : "Fresh Meadows",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.74323783435864",
+    "human_address" : "{\"address\":\"256 04 Union Turnpike\",\"city\":\"Glen Oaks\",\"state\":\"NY\",\"zip\":\"11004\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.71201500019208"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 831-8636",
+  "name" : "Glen Oaks",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.70122489161548",
+    "human_address" : "{\"address\":\"78 60 73 Place\",\"city\":\"Glendale\",\"state\":\"NY\",\"zip\":\"11385\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88334858436963"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 821-4980",
+  "name" : "Glendale",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "10:00AM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.72816440726166",
+    "human_address" : "{\"address\":\"187 05 Union Turnpike\",\"city\":\"Flushing\",\"state\":\"NY\",\"zip\":\"11366\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79226817393703"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 454-2786",
+  "name" : "Hillcrest",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.71722229567246",
+    "human_address" : "{\"address\":\"202 05 Hillside Avenue\",\"city\":\"Hollis\",\"state\":\"NY\",\"zip\":\"11423\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.7671414999802"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 465-7355",
+  "name" : "Hollis",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.65817022817356",
+    "human_address" : "{\"address\":\"92 06 156 Avenue\",\"city\":\"Howard Beach\",\"state\":\"NY\",\"zip\":\"11414\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.84496263981396"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 641-7086",
+  "name" : "Howard Beach",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "10:00AM -  8:00PM",
+  "tu" : " 1:00AM -  8:00PM",
+  "location_1" : {
+    "latitude" : "40.75163073936716",
+    "human_address" : "{\"address\":\"35 51 81 Street\",\"city\":\"Jackson Heights\",\"state\":\"NY\",\"zip\":\"11372\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88361254528269"
+  },
+  "su" : "closed",
+  "th" : "10:00AM -  6:00PM",
+  "phone" : "(718) 899-2500",
+  "name" : "Jackson Heights",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  8:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "10:00AM -  9:00PM",
+  "tu" : "10:00AM -  9:00PM",
+  "notification" : "<P><b><b><P>",
+  "location_1" : {
+    "latitude" : "40.71311535449007",
+    "human_address" : "{\"address\":\"89 11 Merrick Boulevard\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"11432\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79282099978928"
+  },
+  "su" : "12:00PM -  5:00PM",
+  "th" : "10:00AM -  9:00PM",
+  "phone" : "(718) 990-0700",
+  "name" : "Job Information Center",
+  "fr" : "10:00AM -  9:00PM",
+  "we" : "10:00AM -  9:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.730323085042414",
+    "human_address" : "{\"address\":\"72 33 Vleigh Place\",\"city\":\"Flushing\",\"state\":\"NY\",\"zip\":\"11367\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82610630716033"
+  },
+  "su" : "12:00PM -  5:00PM",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 261-6654",
+  "name" : "Kew Gardens Hills",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "closed"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.749678220373596",
+    "human_address" : "{\"address\":\"100 01 Northern Boulevard\",\"city\":\"Corona\",\"state\":\"NY\",\"zip\":\"11368\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85304068857687"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 651-1100",
+  "name" : "Langston Hughes",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00PM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.66971118122609",
+    "human_address" : "{\"address\":\"134 26 225 Street\",\"city\":\"Laurelton\",\"state\":\"NY\",\"zip\":\"11413\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.75087393328533"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 528-2822",
+  "name" : "Laurelton",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.68871379040917",
+    "human_address" : "{\"address\":\"103 34 Lefferts Boulevard\",\"city\":\"Richmond Hill\",\"state\":\"NY\",\"zip\":\"11419\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82288833053201"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 843-5950",
+  "name" : "Lefferts",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.749678220373596",
+    "human_address" : "{\"address\":\"98 30 57 Avenue\",\"city\":\"Corona\",\"state\":\"NY\",\"zip\":\"11368\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85304068857687"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 592-7677",
+  "name" : "Lefrak City",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00AM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"37 44 21 Street\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225"
+  },
+  "su" : "closed",
+  "th" : " 1:00AM -  8:00PM",
+  "phone" : "(718) 752-3700",
+  "name" : "Long Island City",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "10:00AM -  9:00PM",
+  "tu" : "10:00AM -  7:00PM",
+  "location_1" : {
+    "latitude" : "40.71311535449007",
+    "human_address" : "{\"address\":\"89 11 Merrick Boulevard\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"11432\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79282099978928"
+  },
+  "su" : "12:00PM -  5:00PM",
+  "th" : "10:00AM -  7:00PM",
+  "phone" : "(718) 990-0700",
+  "name" : "Long Island Division",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  7:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "notification" : "\n<b>Return all Queens Library books, videos, music at Queens Library at Maspeth. Use the self-service book return, available every day and every night. Receipts given for your security.</b>",
+  "location_1" : {
+    "latitude" : "40.72145310497689",
+    "human_address" : "{\"address\":\"69 70 Grand Avenue\",\"city\":\"Maspeth\",\"state\":\"NY\",\"zip\":\"11378\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90854350068196"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 639-5228",
+  "name" : "Maspeth",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "10:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.76862022064671",
+    "human_address" : "{\"address\":\"155 06 Roosevelt Av (off Northern Blvd\",\"city\":\"Flushing\",\"state\":\"NY\",\"zip\":\"11354\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82719028070687"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 461-1616",
+  "name" : "McGoldrick",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "closed",
+  "tu" : "closed",
+  "location_1" : {
+    "latitude" : "40.71679766547993",
+    "human_address" : "{\"address\":\"72 31 Metropolitan Avenue\",\"city\":\"Middle Village\",\"state\":\"NY\",\"zip\":\"11379\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.87933421310339"
+  },
+  "su" : "closed",
+  "th" : "closed",
+  "phone" : "(718) 326-1390",
+  "name" : "Middle Village",
+  "fr" : "closed",
+  "we" : "closed",
+  "sa" : "closed"
+}
+, {
+  "mn" : "10:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.76862022064671",
+    "human_address" : "{\"address\":\"29 42 Union Street\",\"city\":\"Flushing\",\"state\":\"NY\",\"zip\":\"11354\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82719028070687"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 539-2330",
+  "name" : "Mitchell-Linden",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.720707263029794",
+    "human_address" : "{\"address\":\"98 27 Metropolitan Avenue\",\"city\":\"Forest Hills\",\"state\":\"NY\",\"zip\":\"11375\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.84628429608335"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 261-5512",
+  "name" : "North Forest Park",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.759074216601846",
+    "human_address" : "{\"address\":\"57 04 Marathon Parkway\",\"city\":\"Little Neck\",\"state\":\"NY\",\"zip\":\"11362\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.73430017711144"
+  },
+  "su" : "closed",
+  "th" : "10:00AM -  6:00PM",
+  "phone" : "(718) 225-3550",
+  "name" : "North Hills",
+  "fr" : " 1:00PM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  7:00PM",
+  "tu" : " 1:00PM -  5:30PM",
+  "location_1" : {
+    "latitude" : "40.71311535449007",
+    "human_address" : "{\"address\":\"89 11 Merrick Boulevard\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"11432\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79282099978928"
+  },
+  "th" : " 1:00PM -  5:30PM",
+  "phone" : "(718) 990-0700",
+  "name" : "On Order",
+  "fr" : " 1:00PM -  5:30PM",
+  "we" : " 1:00PM -  5:30PM",
+  "sa" : "10:00AM -  4:00PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.6763637308016",
+    "human_address" : "{\"address\":\"92 24 Rockaway Boulevard\",\"city\":\"Ozone Park\",\"state\":\"NY\",\"zip\":\"11417\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.84454275534387"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 845-3127",
+  "name" : "Ozone Park",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.6183036047276",
+    "human_address" : "{\"address\":\"92 25 Rockaway Beach Boulevard\",\"city\":\"Rockaway Beach\",\"state\":\"NY\",\"zip\":\"11693\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82495531523557"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 634-1110",
+  "name" : "Peninsula",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.73987184371066",
+    "human_address" : "{\"address\":\"158 21 Jewel Avenue\",\"city\":\"Flushing\",\"state\":\"NY\",\"zip\":\"11365\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.79462153515567"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 591-4343",
+  "name" : "Pomonok",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.7849280967543",
+    "human_address" : "{\"address\":\"121 23 14 Avenue\",\"city\":\"College Point\",\"state\":\"NY\",\"zip\":\"11356\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.84181070040347"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 359-1102",
+  "name" : "Poppenhusen",
+  "fr" : "10:00PM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.721396964798146",
+    "human_address" : "{\"address\":\"94 11 217 Street\",\"city\":\"Queens Village\",\"state\":\"NY\",\"zip\":\"11428\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.74193729726841"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 776-6800",
+  "name" : "Queens Village",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.7512997969481",
+    "human_address" : "{\"address\":\"60 05 Main Street\",\"city\":\"Flushing\",\"state\":\"NY\",\"zip\":\"11355\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.82147854789662"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 359-8332",
+  "name" : "Queensboro Hill",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "closed",
+  "tu" : "closed",
+  "location_1" : {
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"10 43 41 Ave\",\"city\":\"LIC\",\"state\":\"NY\",\"zip\":\"11101\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225"
+  },
+  "su" : "closed",
+  "th" : "closed",
+  "phone" : "By apptmt only",
+  "name" : "Queensbridge",
+  "fr" : "closed",
+  "we" : "closed",
+  "sa" : "closed"
+}
+, {
+  "mn" : "closed",
+  "tu" : "closed",
+  "location_1" : {
+    "latitude" : "40.761699790013324",
+    "human_address" : "{\"address\":\"35 32 21 St\",\"city\":\"LIC\",\"state\":\"NY\",\"zip\":\"11106\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9316632529567"
+  },
+  "su" : "closed",
+  "th" : "closed",
+  "phone" : "By apptmt only",
+  "name" : "Ravenswood",
+  "fr" : "closed",
+  "we" : "closed",
+  "sa" : "closed"
+}
+, {
+  "mn" : " 1:00AM -  8:00PM",
+  "tu" : " 1:00AM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.72646491702238",
+    "human_address" : "{\"address\":\"91 41 63 Drive\",\"city\":\"Rego Park\",\"state\":\"NY\",\"zip\":\"11374\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.86148084756303"
+  },
+  "su" : "closed",
+  "th" : " 1:00AM -  8:00PM",
+  "phone" : "(718) 459-5140",
+  "name" : "Rego Park",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  8:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.69637041236467",
+    "human_address" : "{\"address\":\"118 14 Hillside Avenue\",\"city\":\"Richmond Hill\",\"state\":\"NY\",\"zip\":\"11418\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.84031024991805"
+  },
+  "su" : "closed",
+  "th" : "10:00PM -  8:00PM",
+  "phone" : "(718) 849-7150",
+  "name" : "Richmond Hill",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.70122489161548",
+    "human_address" : "{\"address\":\"20 12 Madison Street\",\"city\":\"Ridgewood\",\"state\":\"NY\",\"zip\":\"11385\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.88334858436963"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 821-4770",
+  "name" : "Ridgewood",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.6769452621142",
+    "human_address" : "{\"address\":\"169 09 137 Avenue\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"11434\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.77530690169215"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 723-4440",
+  "name" : "Rochdale Village",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "closed",
+  "tu" : "closed",
+  "location_1" : {
+    "latitude" : "40.66161349396765",
+    "human_address" : "{\"address\":\"144 20 243 Street\",\"city\":\"Rosedale\",\"state\":\"NY\",\"zip\":\"11422\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.736051726406"
+  },
+  "su" : "closed",
+  "th" : "closed",
+  "phone" : "(718) 528-8490",
+  "name" : "Rosedale",
+  "fr" : "closed",
+  "we" : "closed",
+  "sa" : "closed"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.57657830564432",
+    "human_address" : "{\"address\":\"116 15 Rockaway Beach Boulevard\",\"city\":\"Rockaway Park\",\"state\":\"NY\",\"zip\":\"11694\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85077700055808"
+  },
+  "su" : "closed",
+  "th" : "10:00AM -  6:00PM",
+  "phone" : "(718) 634-1876",
+  "name" : "Seaside",
+  "fr" : " 1:00PM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.69812711747255",
+    "human_address" : "{\"address\":\"204 01 Hollis Avenue\",\"city\":\"South Hollis\",\"state\":\"NY\",\"zip\":\"11412\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.75923519834566"
+  },
+  "su" : "closed",
+  "th" : "10:00AM -  6:00PM",
+  "phone" : "(718) 465-6779",
+  "name" : "South Hollis",
+  "fr" : " 1:00PM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.698104881734935",
+    "human_address" : "{\"address\":\"108 41 Guy R Brewer Boulevard\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"11433\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.7875740339145"
+  },
+  "su" : "closed",
+  "th" : "10:00AM -  6:00AM",
+  "phone" : "(718) 739-4088",
+  "name" : "South Jamaica",
+  "fr" : " 1:00PM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.67334524268887",
+    "human_address" : "{\"address\":\"128 16 Rockaway Boulevard\",\"city\":\"South Ozone Park\",\"state\":\"NY\",\"zip\":\"11420\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.81770717164864"
+  },
+  "su" : "closed",
+  "th" : "10:00AM -  6:00PM",
+  "phone" : "(718) 529-1660",
+  "name" : "South Ozone Park",
+  "fr" : " 1:00PM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.69812711747255",
+    "human_address" : "{\"address\":\"191 05 Linden Boulevard\",\"city\":\"St Albans\",\"state\":\"NY\",\"zip\":\"11412\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.75923519834566"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 528-8196",
+  "name" : "St. Albans",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "closed",
+  "tu" : "closed",
+  "location_1" : {
+    "latitude" : "40.780092072491186",
+    "human_address" : "{\"address\":\"21 45 31 Street\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"11105\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.90960650023976"
+  },
+  "su" : "closed",
+  "th" : "closed",
+  "phone" : "(718) 728-1965",
+  "name" : "Steinway",
+  "fr" : "closed",
+  "we" : "closed",
+  "sa" : "closed"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "notification" : "\n",
+  "location_1" : {
+    "latitude" : "40.74489336663561",
+    "human_address" : "{\"address\":\"43 06 Greenpoint Avenue\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"11104\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.92054134530679"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 784-3033",
+  "name" : "Sunnyside",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.78628404147537",
+    "human_address" : "{\"address\":\"151 10 14 Road\",\"city\":\"Whitestone\",\"state\":\"NY\",\"zip\":\"11357\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.81123206101074"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 767-8010",
+  "name" : "Whitestone",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.745924680379744",
+    "human_address" : "{\"address\":\"79 50 Bell Boulevard\",\"city\":\"Bayside\",\"state\":\"NY\",\"zip\":\"11364\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.75790275560763"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 468-8300",
+  "name" : "Windsor Park",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : " 1:00PM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.69176458756573",
+    "human_address" : "{\"address\":\"85 41 Forest Parkway\",\"city\":\"Woodhaven\",\"state\":\"NY\",\"zip\":\"11421\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.85702228584978"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 849-1010",
+  "name" : "Woodhaven",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+, {
+  "mn" : "10:00AM -  8:00PM",
+  "tu" : " 1:00PM -  6:00PM",
+  "location_1" : {
+    "latitude" : "40.74519376448069",
+    "human_address" : "{\"address\":\"54 22 Skillman Avenue\",\"city\":\"Woodside\",\"state\":\"NY\",\"zip\":\"11377\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9048471440804"
+  },
+  "su" : "closed",
+  "th" : " 1:00PM -  8:00PM",
+  "phone" : "(718) 429-4700",
+  "name" : "Woodside",
+  "fr" : "10:00AM -  6:00PM",
+  "we" : "10:00AM -  6:00PM",
+  "sa" : "10:00AM -  5:30PM"
+}
+ ]

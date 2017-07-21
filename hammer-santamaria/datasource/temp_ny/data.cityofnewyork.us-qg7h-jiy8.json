@@ -1,0 +1,709 @@
+[ {
+  "year" : "2012",
+  "vital_statistic_name" : "NYC Land Area:",
+  "vital_statist_unit_of_measure" : "sq. miles",
+  "vtail_statistic_value" : "322"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Population:",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "8,175,133"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Fire Houses:",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "218"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Personnel--Uniformed Fire:",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "10,227"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "EMS Stations: ",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "33"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Personnel--Uniformed EMS:",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "3,492"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Personnel-- Civilian: ",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "1,649"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Average Citywide Response Times Structural Fires ",
+  "vital_statist_unit_of_measure" : "Minutes:Seconds",
+  "vtail_statistic_value" : "4:01"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Average Citywide Response Times Medical Emergencies (Fire) ",
+  "vital_statist_unit_of_measure" : "Minutes:Seconds",
+  "vtail_statistic_value" : "4:11"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Average Citywide Response Times Cardiac Arrest /Choke (Fire & EMS) ",
+  "vital_statist_unit_of_measure" : "Minutes:Seconds",
+  "vtail_statistic_value" : "4:02"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Average Citywide Response Times Life Threatening Segment 1-3 (EMS) ",
+  "vital_statist_unit_of_measure" : "Minutes:Seconds",
+  "vtail_statistic_value" : "6:25"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Average Citywide Response Times All Incidents (Fire) ",
+  "vital_statist_unit_of_measure" : "Minutes:Seconds",
+  "vtail_statistic_value" : "4:35"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Average Citywide Response Times All Incidents (EMS)",
+  "vital_statist_unit_of_measure" : "Minutes:Seconds",
+  "vtail_statistic_value" : "8:05"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Average Call Processing Time (Fire) ",
+  "vital_statist_unit_of_measure" : "Minutes:Seconds",
+  "vtail_statistic_value" : "0:25"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "EMS Emergency Room Turnaround Time ",
+  "vital_statist_unit_of_measure" : "Minutes:Seconds",
+  "vtail_statistic_value" : "30:21"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Civilian Fire Fatalities ",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "70"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Numbers of Civilians Saved or Rescued From Building Fires ",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "445"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Numbers of Civilians Saved or Rescued Victims Return of Spontaneous Circulation ",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "2,350"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Numbers of Civilians Saved or Rescued CFR-D Engine Pre-Hospital Saves ",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "322"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Numbers of Civilians Saved or Rescued FDNY EMS Pre-Hospital Saves ",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "377"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Numbers of Civilians Saved or Rescued Watercraft Rescues ",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "189"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Numbers of Civilians Saved or Rescued Other Water Related Rescues ",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "109"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Numbers of Civilians Saved or Rescued Victims Trapped in Elevators ",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "38,133"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Numbers of Civilians Saved or Rescued From Utility Emergencies ",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "295"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Numbers of Civilians Saved or Rescued Trapped Inside Buildings or Apartments ",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "2,448"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Numbers of Civilians Saved or Rescued Extricated at Transportation Accidents ",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "635"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Numbers of Civilians Saved or Rescued Total - All Incident Types ",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "48,965"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Miscellaneous Performance Indicators Random Drug Screenings Conducted",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "1,978"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Miscellaneous Performance Indicators Random Drug Screening Pass Rate",
+  "vital_statist_unit_of_measure" : "Percent",
+  "vtail_statistic_value" : "99.65%"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Miscellaneous Performance Indicators Annual Medicals Administered",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "17,292"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "2011-2013 Strategic Plan Initiatives Highlights Total Incidents (Fire)",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "488,256"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "2011-2013 Strategic Plan Initiatives Highlights Structural Fires",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "25,254"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "2011-2013 Strategic Plan Initiatives Highlights Emergencies (non-medical)",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "206,783"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "2011-2013 Strategic Plan Initiatives Highlights Medical Emergency Incidents (Fire)",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "219,092"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "2011-2013 Strategic Plan Initiatives Highlights Total EMS Incidents",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "1,277,985"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "2011-2013 Strategic Plan Initiatives Highlights Total EMS Life Threatening Incidents",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "461,830"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "2011-2013 Strategic Plan Initiatives Highlights Hospital Transports",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "969,206"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "2011-2013 Strategic Plan Initiatives Highlights Operating Budget ($ M) FY-12",
+  "vital_statist_unit_of_measure" : "$Million",
+  "vtail_statistic_value" : "$1,670.90"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "2011-2013 Strategic Plan Initiatives Highlights Revenue Budget Fire ($ M) FY-12",
+  "vital_statist_unit_of_measure" : "$Million",
+  "vtail_statistic_value" : "$106.80"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "2011-2013 Strategic Plan Initiatives Highlights Revenue Budget EMS ($ M) FY-12",
+  "vital_statist_unit_of_measure" : "$Million",
+  "vtail_statistic_value" : "$180.90"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "2011-2013 Strategic Plan Initiatives Highlights Capital Budget ($ M) FY-12",
+  "vital_statist_unit_of_measure" : "$Million",
+  "vtail_statistic_value" : "$123.00"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "2011-2013 Strategic Plan Initiatives Highlights Total Building Inspections",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "244,576"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Fire Prevention Number of Inspections",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "189,768"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Fire Prevention Fire Protection Inspectors",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "320"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Fire Prevention Revenue FY-2012 ($ millions)",
+  "vital_statist_unit_of_measure" : "$Million",
+  "vtail_statistic_value" : "$63.35"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Fire Prevention Notice of Violations (NOV) issued",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "18,929"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Fire Investigation (BFI) Total Investigations",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "6.7859999999999996"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Fire Investigation (BFI) Incendiary Fires",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "2,129"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Fire Investigation (BFI) Total Arrests",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "570"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Fire Investigation (BFI) Juvenile Arrests < 16 Years",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "43"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Fire Investigation (BFI) Juvenile Fire Setter Referrals",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "125"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Fire Investigation (BFI) Fireworks Arrests",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "21"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Top Five Causes of Accidental Fires Investigated by BFI 1. Electrical",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "885"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Top Five Causes of Accidental Fires Investigated by BFI 2. Smoking",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "484"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Top Five Causes of Accidental Fires Investigated by BFI 3. Careless Cooking",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "287"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Top Five Causes of Accidental Fires Investigated by BFI 4. Open Flame (match, candle, etc.)",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "285"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Top Five Causes of Accidental Fires Investigated by BFI 5. Hot Objects",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "163"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Training New Fire Recruits Trained",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "0"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Training Fire Officers Trained",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "144"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Training EMS Officers Trained",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "32"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Training New EMTs Trained",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "252"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Training New Paramedics Trained",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "45"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Training Promoted Paramedics Trained",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "74"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Support Services Work Orders Submitted (Facilities)",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "12,843"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Support Services Work Orders Completed(Facilities)",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "10,718"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Support Services Total emergency Priority Red Work",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "6,626"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Bureau of Support Services Orders rec’d & % Completed",
+  "vital_statist_unit_of_measure" : "Percent",
+  "vtail_statistic_value" : "76.00%"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Public Education Fire Safety Education Presentations",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "7,098"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Public Education Civilians Trained in CPR",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "10,243"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Public Education Number of Fatal Fire Campaigns",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "27"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Public Education Smoke C/O Detectors Distributed",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "15,575"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Public Education Detector Batteries Distributed",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "95,014"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five Engine Companies 1. Engine 290",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "5,561"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five Engine Companies 2. Engine 62",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "5,330"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five Engine Companies 3. Engine 75",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "5,205"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five Engine Companies 4. Engine 58",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "5,022"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five Engine Companies 5. Engine 01",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "4,978"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five Battalions 1. Battalion 09",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "4,814"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five Battalions 2. Battalion 08",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "4,115"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five Battalions 3. Battalion 16",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "3,783"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five Battalions 4. Battalion 07",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "3,708"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five Battalions 5. Battalion 06",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "3,701"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five Ladder Companies 1. Ladder 26",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "4,355"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five Ladder Companies 2. Ladder 43",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "4,298"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five Ladder Companies 3. Ladder 103",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "4,125"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five Ladder Companies 4. Ladder 123",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "4,026"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five Ladder Companies 5. Ladder 04",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "3,983"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five EMS Units 1. 16C2",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "2,547"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five EMS Units 2. 07C1",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "2,516"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five EMS Units 3. 16D2",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "2,329"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five EMS Units 4. 07D2",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "2,321"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Unit Activity FY 2012 Top Five EMS Units 5. 07C3",
+  "vital_statist_unit_of_measure" : "Runs",
+  "vtail_statistic_value" : "2,319"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Fire Units Borough Commands",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "5"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Fire Units Divisions",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "9"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Fire Units Battalions",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "52"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Fire Units Engines (Including Haz-Tech Engines)",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "198"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Fire Units Ladders (Including SOC-Support Ladders)",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "143"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Fire Units Squads",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "7"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Fire Units Rescues",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "5"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Fire Units Haz-Tech Engines",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "4"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Fire Units Special Operations-Support Ladders",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "25"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Fire Units Chemical Protection Clothing Companies",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "29"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Fire Units Haz-Mat Company",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "1"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Fire Units Fireboats",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "3"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Fire Units Foam Units",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "17"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Fire Units Recuperation & Care Units (RACS)",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "5"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "FDNY EMS Units Field Divisions",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "5"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "FDNY EMS Units Daily Average Scheduled ALS Tours",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "209"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "FDNY EMS Units Daily Average Scheduled BLS Tours",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "415"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "FDNY EMS Units Daily Average Tours",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "625"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "FDNY EMS Units Haz-Tac Ambulances",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "35"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "FDNY EMS Units Major Emergency Response Vehicles",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "5"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "FDNY EMS Units Mobile Respiratory Treatment Unit",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "1"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "FDNY EMS Units WMD Unit",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "1"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "FDNY EMS Units Paramedic Rescue-Haz-Tac Units",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "10"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Non-FDNY EMS Units Daily Average ALS Tours",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "143"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Non-FDNY EMS Units Daily Average BLS Tours",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "219"
+}
+, {
+  "year" : "2012",
+  "vital_statistic_name" : "Non-FDNY EMS Units Daily Average Tours",
+  "vital_statist_unit_of_measure" : "Count",
+  "vtail_statistic_value" : "362"
+}
+ ]

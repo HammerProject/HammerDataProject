@@ -1,0 +1,90 @@
+[ {
+  "total_impervious_surface_acres" : "1549",
+  "woh_basin" : "Ashokan",
+  "impervious_as_of_basin_excluding_water_body_areas" : "1.00",
+  "total_water_bodies_incl_reservoirs_acres" : "8557",
+  "basin_area_minus_water_bodies_acres" : "154849",
+  "population_density_persons_sq_mi" : "33",
+  "impervious_as_of_total_basin_area" : "0.90",
+  "total_reservoir_area_acres" : "8106",
+  "total_basin_area_acres" : "163405"
+}
+, {
+  "total_impervious_surface_acres" : "4608",
+  "woh_basin" : "Cannonsville",
+  "impervious_as_of_basin_excluding_water_body_areas" : "1.60",
+  "total_water_bodies_incl_reservoirs_acres" : "6144",
+  "basin_area_minus_water_bodies_acres" : "284933",
+  "population_density_persons_sq_mi" : "39",
+  "impervious_as_of_total_basin_area" : "1.60",
+  "total_reservoir_area_acres" : "4713",
+  "total_basin_area_acres" : "291077"
+}
+, {
+  "total_impervious_surface_acres" : "350",
+  "woh_basin" : "Neversink",
+  "impervious_as_of_basin_excluding_water_body_areas" : "0.60",
+  "total_water_bodies_incl_reservoirs_acres" : "1873",
+  "basin_area_minus_water_bodies_acres" : "57029",
+  "population_density_persons_sq_mi" : "13",
+  "impervious_as_of_total_basin_area" : "0.60",
+  "total_reservoir_area_acres" : "1493",
+  "total_basin_area_acres" : "58902"
+}
+, {
+  "total_impervious_surface_acres" : "2517",
+  "woh_basin" : "Pepacton",
+  "impervious_as_of_basin_excluding_water_body_areas" : "1.10",
+  "total_water_bodies_incl_reservoirs_acres" : "5822",
+  "basin_area_minus_water_bodies_acres" : "231650",
+  "population_density_persons_sq_mi" : "21",
+  "impervious_as_of_total_basin_area" : "1.10",
+  "total_reservoir_area_acres" : "5194",
+  "total_basin_area_acres" : "237472"
+}
+, {
+  "total_impervious_surface_acres" : "605",
+  "woh_basin" : "Rondout",
+  "impervious_as_of_basin_excluding_water_body_areas" : "1.00",
+  "total_water_bodies_incl_reservoirs_acres" : "2160",
+  "basin_area_minus_water_bodies_acres" : "58879",
+  "population_density_persons_sq_mi" : "32",
+  "impervious_as_of_total_basin_area" : "1.00",
+  "total_reservoir_area_acres" : "2038",
+  "total_basin_area_acres" : "61039"
+}
+, {
+  "total_impervious_surface_acres" : "2345",
+  "woh_basin" : "Schoharie",
+  "impervious_as_of_basin_excluding_water_body_areas" : "1.20",
+  "total_water_bodies_incl_reservoirs_acres" : "2021",
+  "basin_area_minus_water_bodies_acres" : "200019",
+  "population_density_persons_sq_mi" : "27",
+  "impervious_as_of_total_basin_area" : "1.20",
+  "total_reservoir_area_acres" : "1145",
+  "total_basin_area_acres" : "202040"
+}
+, {
+  "total_impervious_surface_acres" : "11975",
+  "woh_basin" : "Grand Total",
+  "impervious_as_of_basin_excluding_water_body_areas" : "1.20",
+  "total_water_bodies_incl_reservoirs_acres" : "26576",
+  "basin_area_minus_water_bodies_acres" : "987360",
+  "population_density_persons_sq_mi" : "29",
+  "impervious_as_of_total_basin_area" : "1.20",
+  "total_reservoir_area_acres" : "22688",
+  "total_basin_area_acres" : "1013936"
+}
+, {
+  "references" : "* Impervious surface acreages are calculated from NYCDEP GIS data derived from Spring 2001 high resolution (0.3 m) NYS Ortho Imagery using pattern recognition software."
+}
+, {
+  "references" : "** Water Bodies (column D) include reservoirs, lakes, ponds, and rivers/major streams but exclude minor streams and wetlands."
+}
+, {
+  "references" : " *** To analyze the portion of potentially developable land area that is already impervious, percentages in column H represent the total  impervious acreage for each basin divided by the difference between the total basin area and the total water body area (i.e. F/E)."
+}
+, {
+  "references" : "**** Population density (column I) based on 2000 Census Data. See graph below for correllation between pop. density and % impervious over total  basin area (column I vs. column G). Column G is used in order to be consistent with pop. density, which is over total basin area - not land only."
+}
+ ]

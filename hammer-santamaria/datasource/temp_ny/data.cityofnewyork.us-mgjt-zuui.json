@@ -1,0 +1,29 @@
+[ {
+  "yellow_tags" : "67%",
+  "inundation_area" : "84%",
+  "red_tags" : "94%",
+  "year_built" : "Before 1983",
+  "destroyed_by_storm" : "98%"
+}
+, {
+  "yellow_tags" : "23%",
+  "inundation_area" : "9%",
+  "red_tags" : "4%",
+  "year_built" : "1983-2001",
+  "destroyed_by_storm" : "< 1%"
+}
+, {
+  "yellow_tags" : "9%",
+  "inundation_area" : "5%",
+  "red_tags" : "1%",
+  "year_built" : "2002 or later",
+  "destroyed_by_storm" : "< 1%"
+}
+, {
+  "yellow_tags" : "1%",
+  "inundation_area" : "2%",
+  "red_tags" : "1%",
+  "year_built" : "No Data",
+  "destroyed_by_storm" : "2%"
+}
+ ]

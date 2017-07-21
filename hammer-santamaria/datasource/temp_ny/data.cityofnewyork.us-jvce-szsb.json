@@ -1,0 +1,1459 @@
+[ {
+  "location_1" : {
+    "latitude" : "40.690096707115046",
+    "human_address" : "{\"address\":\"472 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9840669478526"
+  },
+  "website" : "www.aeropostale.com",
+  "store" : "Aeropostale",
+  "type" : "Childrens, Mens and Womans Apparel ",
+  "phone_" : "718-643-9190"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6911778844991",
+    "human_address" : "{\"address\":\"465 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98658234420594"
+  },
+  "store" : "Afzal Perfume",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(917) 238-5885"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69027035336161",
+    "human_address" : "{\"address\":\"466 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98447856001869"
+  },
+  "website" : "www.aldoshoes.com",
+  "store" : "Aldo",
+  "type" : "Women's and Men's Apparel and Footwear",
+  "phone_" : "718) 852-2337 "
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69133927193369",
+    "human_address" : "{\"address\":\"455 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9869819702345"
+  },
+  "store" : "America's Food Court",
+  "type" : "Food",
+  "phone_" : "(718) 852-2828"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6916488726513",
+    "human_address" : "{\"address\":\"435 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98773913764991"
+  },
+  "store" : "Ameritel - T-Mobile",
+  "type" : "Electronics",
+  "phone_" : "(718) 254-0312"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6898367769448",
+    "human_address" : "{\"address\":\"488 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98339983025325"
+  },
+  "website" : "www.ashleystewart.com",
+  "store" : "Ashley Stewart",
+  "type" : "Women's Apparel",
+  "phone_" : "(718) 246-1067"
+}
+, {
+  "location_1" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"476 8 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "website" : "www.att.com",
+  "store" : "AT&T",
+  "type" : "Electronics",
+  "phone_" : "(718) 403-9632"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69045579648073",
+    "human_address" : "{\"address\":\"454 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98493279623361"
+  },
+  "website" : "www.bakershoes.com",
+  "store" : "Baker's",
+  "type" : "Women's Footwear",
+  "phone_" : "(718) 855-6703"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.691807714593324",
+    "human_address" : "{\"address\":\"350 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98830059721426"
+  },
+  "website" : "www.bankofamerica.com",
+  "store" : "Bank of America",
+  "type" : "Bank",
+  "phone_" : "(718) 875-2529"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68944684148581",
+    "human_address" : "{\"address\":\"510 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98240726792534"
+  },
+  "store" : "Bargain Bazaar",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 643-0414"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690305223604994",
+    "human_address" : "{\"address\":\"523 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9844121860364"
+  },
+  "store" : "Bed, Bath & Linen",
+  "type" : "Home Goods",
+  "phone_" : "(718) 923-0601"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69121016199415",
+    "human_address" : "{\"address\":\"463 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98666226943178"
+  },
+  "store" : "Best Perfume",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 923-0241"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68917092240138",
+    "human_address" : "{\"address\":\"585 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98154922892687"
+  },
+  "store" : "Blueprint",
+  "type" : "Men's Apparel - Urban ",
+  "phone_" : "(718) 625-6700"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690305223604994",
+    "human_address" : "{\"address\":\"523 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9844121860364"
+  },
+  "store" : "Brooklyn USA Ladies",
+  "type" : "Women's Apparel - Urban Women's Footwear",
+  "phone_" : "(718) 834-0377"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690305223604994",
+    "human_address" : "{\"address\":\"523 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9844121860364"
+  },
+  "store" : "Brooklyn USA Men & Kids",
+  "type" : "Men's Apparel - Urban ",
+  "phone_" : "(718) 834-0377"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69188365632912",
+    "human_address" : "{\"address\":\"417 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98833690635662"
+  },
+  "website" : "www.burgerking.com",
+  "store" : "Burger King",
+  "type" : "Food",
+  "phone_" : "(718) 330-0854"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.691772837551596",
+    "human_address" : "{\"address\":\"356 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98820400935344"
+  },
+  "website" : "www.capitalone.com",
+  "store" : "Capital One Bank",
+  "type" : "Bank",
+  "phone_" : "(718) 852-8000"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6911778844991",
+    "human_address" : "{\"address\":\"465 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98658234420594"
+  },
+  "store" : "Cellular Island",
+  "type" : "Electronics",
+  "phone_" : "(917) 655-0600"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690032828078934",
+    "human_address" : "{\"address\":\"9 DeKalb Avenue\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98312926856553"
+  },
+  "website" : "www.chase.com",
+  "store" : "Chase ",
+  "type" : "Bank",
+  "phone_" : "(718) 403-7565"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69108981464721",
+    "human_address" : "{\"address\":\"471 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98636290426589"
+  },
+  "website" : "www.thechildrensplace.com",
+  "store" : "Children's Place",
+  "type" : "Children's Apparel",
+  "phone_" : "(718) 243-1150"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6911778844991",
+    "human_address" : "{\"address\":\"465 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98658234420594"
+  },
+  "website" : "www.clear.com",
+  "store" : "Clear",
+  "type" : "Electronics",
+  "phone_" : "347-763-6323"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690301697563314",
+    "human_address" : "{\"address\":\"464 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98455415485809"
+  },
+  "store" : "Contessa Jewelers",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 858-1856"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68944684148581",
+    "human_address" : "{\"address\":\"510 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98240726792534"
+  },
+  "website" : "www.cookieskids.com",
+  "store" : "Cookies",
+  "type" : "Children's Apparel",
+  "phone_" : "(718) 797-3300"
+}
+, {
+  "location_1" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"400 Bridge Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "website" : "http://creativexpressionemb.com/",
+  "store" : "Creative Xpressions Embroidery & Silk Screen",
+  "type" : "Specialty - Embroidery",
+  "phone_" : "(718) 858-8425 "
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6899340406062",
+    "human_address" : "{\"address\":\"482 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98364351688599"
+  },
+  "website" : "www.danicestores.com",
+  "store" : "Danice Stores",
+  "type" : "Women's Apparel - Urban Women's Footwear",
+  "phone_" : "(718) 875-0665"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68907672078858",
+    "human_address" : "{\"address\":\"534 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98146466565142"
+  },
+  "website" : "www.danicestores.com",
+  "store" : "Danice Stores",
+  "type" : "Women's Apparel - Urban Women's Footwear",
+  "phone_" : "718-522-3450"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.689046484475384",
+    "human_address" : "{\"address\":\"536 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98138640695844"
+  },
+  "store" : "Delancy Street",
+  "type" : "Leather Goods",
+  "phone_" : "(718) 852-0400"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690096707115046",
+    "human_address" : "{\"address\":\"472 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9840669478526"
+  },
+  "store" : "Designer Fragrances",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 935-1855"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.691371549415194",
+    "human_address" : "{\"address\":\"453 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98706189542679"
+  },
+  "store" : "Downtown Jewelry",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 834-9054"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69808209844428",
+    "human_address" : "{\"address\":\"2A Flatbush Avenue Ext\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98567945049962"
+  },
+  "store" : "Downtown Uniform",
+  "type" : "Specialty - Uniform",
+  "phone_" : "(718) 624-6609"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68919899898006",
+    "human_address" : "{\"address\":\"583A Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98162189771875"
+  },
+  "store" : "Downtown Wireless- Cellular Tropics",
+  "type" : "Electronics",
+  "phone_" : "(718) 260-9400"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68967089008698",
+    "human_address" : "{\"address\":\"549 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98282704669735"
+  },
+  "store" : "Downtown Wireless- Nextel",
+  "type" : "Electronics",
+  "phone_" : "(718) 422-0400"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69086297565899",
+    "human_address" : "{\"address\":\"485 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98577608166588"
+  },
+  "store" : "Dr. Jay's",
+  "type" : "Men's Apparel - Urban ",
+  "phone_" : "(718) 596-3577"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69096019237035",
+    "human_address" : "{\"address\":\"479 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98602757707137"
+  },
+  "store" : "Dr. Jay's Ladies",
+  "type" : "Women's Apparel -Urban Women's Footwear",
+  "phone_" : "(718) 243-1918"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69138771690848",
+    "human_address" : "{\"address\":\"386 Fulton\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9872557351789"
+  },
+  "website" : "www.duanereade.com",
+  "store" : "Duane Reade",
+  "type" : "Pharmacy",
+  "phone_" : "(718) 330-0363"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68925998354549",
+    "human_address" : "{\"address\":\"522 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98193378661936"
+  },
+  "website" : "www.duanereade.com",
+  "store" : "Duane Reade",
+  "type" : "Pharmacy",
+  "phone_" : "(718) 643-9505"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69164219059169",
+    "human_address" : "{\"address\":\"366 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98787739195367"
+  },
+  "store" : "Electronic Outlet",
+  "type" : "Electronics",
+  "phone_" : "(718) 596-7200"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69143610438836",
+    "human_address" : "{\"address\":\"449 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98722174583654"
+  },
+  "store" : "Element",
+  "type" : "Women's and Men's Apparel -Urban",
+  "phone_" : "(718)-855-5515"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.691537673010615",
+    "human_address" : "{\"address\":\"374 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98761609800098"
+  },
+  "store" : "Envy Nails",
+  "type" : "Nails",
+  "phone_" : "(718) 797-3903"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69151154363179",
+    "human_address" : "{\"address\":\"376 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98755077455392"
+  },
+  "store" : "Expo 2000",
+  "type" : "Women's Apparel - Urban",
+  "phone_" : "(718) 522-4170"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68964322367136",
+    "human_address" : "{\"address\":\"551 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98275557512366"
+  },
+  "store" : "Fashion Avenue",
+  "type" : "Women's Apparel",
+  "phone_" : "(718) 852-2962"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68964322367136",
+    "human_address" : "{\"address\":\"551 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98275557512366"
+  },
+  "store" : "Fashion Avenue and Street",
+  "type" : "Women's Apparel",
+  "phone_" : "(718) 237-1224"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.691323161935316",
+    "human_address" : "{\"address\":\"390 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98709588476916"
+  },
+  "website" : "www.finishline.com",
+  "store" : "Finish Line",
+  "type" : "Women's and Men's Footwear",
+  "phone_" : "(718) 222-8067"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6911133295361",
+    "human_address" : "{\"address\":\"469 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98642249382135"
+  },
+  "store" : "Fino Menswear & Shoes",
+  "type" : "Men's Apparel",
+  "phone_" : "(718) 625-6421"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690695313336974",
+    "human_address" : "{\"address\":\"440 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98550153757958"
+  },
+  "website" : "www.footlocker.com",
+  "store" : "Foot Locker",
+  "type" : "Women's and Men's Footwear",
+  "phone_" : "(718) 596-1877"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69001340873309",
+    "human_address" : "{\"address\":\"543 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98369038435801"
+  },
+  "website" : "www.footlocker.com",
+  "store" : "Foot Locker",
+  "type" : "Women's and Men's Footwear",
+  "phone_" : "(718) 694-2239"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69104097274196",
+    "human_address" : "{\"address\":\"408 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98639574343164"
+  },
+  "website" : "www.footaction.com",
+  "store" : "Footaction USA",
+  "type" : "Women's and Men's Footwear",
+  "phone_" : "(718) 858-6607"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6903497982955",
+    "human_address" : "{\"address\":\"519 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98451946524303"
+  },
+  "store" : "Fulton Dental Center",
+  "type" : "Dental Care",
+  "phone_" : "(718) 624-6000"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69076575893279",
+    "human_address" : "{\"address\":\"491 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98552458622201"
+  },
+  "store" : "Fulton Express",
+  "type" : "Variety Store",
+  "phone_" : "(718) 528-7958"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6903497982955",
+    "human_address" : "{\"address\":\"519 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98451946524303"
+  },
+  "store" : "Fulton Eyes",
+  "type" : "Eye Care",
+  "phone_" : "(718) 852-4411"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69076575893279",
+    "human_address" : "{\"address\":\"491 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98552458622201"
+  },
+  "store" : "Fulton Fashion Footwear",
+  "type" : "Woman Apparel",
+  "phone_" : "(718) 852-0500"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690096707115046",
+    "human_address" : "{\"address\":\"472 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9840669478526"
+  },
+  "store" : "Fulton Hot Dog King",
+  "type" : "Food",
+  "phone_" : "(718) 858-9799"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69041248669891",
+    "human_address" : "{\"address\":\"515 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98467065492184"
+  },
+  "store" : "Fulton Sneaker Sportswear",
+  "type" : "Woman's and Men's Footwear",
+  "phone_" : "(718) 237-1506"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68917092240138",
+    "human_address" : "{\"address\":\"585A Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98154922892687"
+  },
+  "store" : "Fulton Sunny Fashion",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 643-0180"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690096707115046",
+    "human_address" : "{\"address\":\"472 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9840669478526"
+  },
+  "store" : "Fulton Wireless",
+  "type" : "Electronics",
+  "phone_" : "(718) 522-5756"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6896985565026",
+    "human_address" : "{\"address\":\"547 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98289851827103"
+  },
+  "store" : "Gabby's Jewelers",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 855-7437"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68961555725284",
+    "human_address" : "{\"address\":\"553 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98268410354248"
+  },
+  "store" : "Game Expo",
+  "type" : "Electronics",
+  "phone_" : "(718) 834-1291"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69001340873309",
+    "human_address" : "{\"address\":\"543 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98369038435801"
+  },
+  "website" : "www.gamestop.com",
+  "store" : "Game Stop",
+  "type" : "Electronics",
+  "phone_" : "(718) 834-2907"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6911778844991",
+    "human_address" : "{\"address\":\"465 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98658234420594"
+  },
+  "store" : "G-N Treasure",
+  "type" : "Electronics",
+  "phone_" : "(718) 624-5906"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68925998354549",
+    "human_address" : "{\"address\":\"522 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98193378661936"
+  },
+  "store" : "Goldmine Jewelry",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 222-0001"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6916488726513",
+    "human_address" : "{\"address\":\"435 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98773913764991"
+  },
+  "store" : "Heart & Sole",
+  "type" : "Women's Footwear",
+  "phone_" : "(718) 643-1811"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6903497982955",
+    "human_address" : "{\"address\":\"519 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98451946524303"
+  },
+  "store" : "Hot Spot Cellular Services",
+  "type" : "Electronics",
+  "phone_" : "(718) 935-1315"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69184693942296",
+    "human_address" : "{\"address\":\"342 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98840068815885"
+  },
+  "website" : "www.hsbc.com",
+  "store" : "HSBC",
+  "type" : "Bank",
+  "phone_" : "(718) 596-8318"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68922707555875",
+    "human_address" : "{\"address\":\"581 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98169456651064"
+  },
+  "store" : "J.C. Boutique",
+  "type" : "Variety Store",
+  "phone_" : "(718) 834-1850"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69150151309382",
+    "human_address" : "{\"address\":\"445A Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98737759917319"
+  },
+  "store" : "Jay Jewelers",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 237-8858"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69025732602947",
+    "human_address" : "{\"address\":\"468 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.984447361071"
+  },
+  "store" : "Jewelry",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 522-3340"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68910695710178",
+    "human_address" : "{\"address\":\"532 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9815429243444"
+  },
+  "store" : "Jewelry Exchange",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 488-9036"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690673709616746",
+    "human_address" : "{\"address\":\"442 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98544564969464"
+  },
+  "website" : "www.jimmyjazz.com",
+  "store" : "Jimmy Jazz",
+  "type" : "Women's and Men's Apparel - Urban",
+  "phone_" : "(718) 246-0427"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.689291435722645",
+    "human_address" : "{\"address\":\"520 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98201120736312"
+  },
+  "website" : "www.jimmyjazz.com",
+  "store" : "Jimmy Jazz",
+  "type" : "Women's and Men's Apparel - Urban",
+  "phone_" : "(718) 243-9181"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68999316426805",
+    "human_address" : "{\"address\":\"386 Flatbush Avenue Ext\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9816195434082"
+  },
+  "website" : "www.juniorscheescake.com",
+  "store" : "Junior's Restaurant",
+  "type" : "Food",
+  "phone_" : "(718) 852-5257 ext. 32"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69063723178339",
+    "human_address" : "{\"address\":\"446 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98535256032223"
+  },
+  "website" : "www.kay.com",
+  "store" : "Kay Jewelers",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 222-5260"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68910695710178",
+    "human_address" : "{\"address\":\"532 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9815429243444"
+  },
+  "store" : "Keep it Burning",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(646) 346-0178"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69027035336161",
+    "human_address" : "{\"address\":\"466 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98447856001869"
+  },
+  "website" : "www.kidsfootlocker.com",
+  "store" : "Kids Foot Locker",
+  "type" : "Children's Footwear",
+  "phone_" : "(718) 422-7877"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68917092240138",
+    "human_address" : "{\"address\":\"585C Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98154922892687"
+  },
+  "store" : "Kim's Jewelry & Watches",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 802-1892"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68919899898006",
+    "human_address" : "{\"address\":\"583B Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98162189771875"
+  },
+  "store" : "KoKo Shoes",
+  "type" : "Women's Footwear",
+  "phone_" : "(718) 802-1241"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69147562625711",
+    "human_address" : "{\"address\":\"380 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9874612703104"
+  },
+  "website" : "www.lanebryant.com",
+  "store" : "Lane Bryant",
+  "type" : "Women's Apparel",
+  "phone_" : "(718) 855-8300"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690333041765015",
+    "human_address" : "{\"address\":\"462 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9846297496975"
+  },
+  "website" : "www.lids.com",
+  "store" : "Lids",
+  "type" : "Apparel and Footwear",
+  "phone_" : "(718) 624-0182"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69041248669891",
+    "human_address" : "{\"address\":\"515 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98467065492184"
+  },
+  "store" : "Lora's Fine Jewelry",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 624-5589"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.688986011819",
+    "human_address" : "{\"address\":\"540 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98122988949484"
+  },
+  "website" : "www.lucilleroberts.com",
+  "store" : "Lucille Roberts",
+  "type" : "Fitness",
+  "phone_" : "(718) 624-4300"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69088974674486",
+    "human_address" : "{\"address\":\"422 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98600452835218"
+  },
+  "website" : "www.macys.com",
+  "store" : "Macy's",
+  "type" : "Department Store",
+  "phone_" : "(718) 802-7370"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69091135046509",
+    "human_address" : "{\"address\":\"420 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98606041623712"
+  },
+  "website" : "www.mcdonalds.com",
+  "store" : "McDonald's",
+  "type" : "Food",
+  "phone_" : "(718) 858-7335"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6890162481322",
+    "human_address" : "{\"address\":\"538 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98130814818782"
+  },
+  "store" : "Metro King",
+  "type" : "Food",
+  "phone_" : "(718) 522-1418"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690305223604994",
+    "human_address" : "{\"address\":\"523 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9844121860364"
+  },
+  "website" : "www.metropcs.com",
+  "store" : "Metro PCS",
+  "type" : "Electronics",
+  "phone_" : "(718) 624-6727"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69150151309382",
+    "human_address" : "{\"address\":\"445 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98737759917319"
+  },
+  "store" : "Metro PCS -Verizon Wireless",
+  "type" : "Electronics",
+  "phone_" : "(718) 237-2500"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69146838187324",
+    "human_address" : "{\"address\":\"447 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98730167103722"
+  },
+  "store" : "Metropolitan Dental ",
+  "type" : "Dental, Medical ",
+  "phone_" : "(718) 875-3200"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.691807714593324",
+    "human_address" : "{\"address\":\"350 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98830059721426"
+  },
+  "store" : "MetroTech Medical and Dental Plaza",
+  "type" : "Dental, Medical ",
+  "phone_" : "(718) 488-8585"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69150151309382",
+    "human_address" : "{\"address\":\"445 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98737759917319"
+  },
+  "website" : "http://miragebtq.com/",
+  "store" : "Mirage Boutique",
+  "type" : "Women's Apparel",
+  "phone_" : "(718) 243-0043"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69172057876654",
+    "human_address" : "{\"address\":\"360 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9880733623908"
+  },
+  "website" : "www.modells.com",
+  "store" : "Modell's Sporting Goods",
+  "type" : "Sporting Goods Women's and Men's Apparel Women's and Men's Footwear",
+  "phone_" : "(718) 855-1921"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690301697563314",
+    "human_address" : "{\"address\":\"464 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98455415485809"
+  },
+  "website" : "www.modells.com",
+  "store" : "Modell's Sporting Goods",
+  "type" : "Sporting Goods Women's and Men's Apparel Women's and Men's Footwear",
+  "phone_" : "(718) 596-6005"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.689114769244014",
+    "human_address" : "{\"address\":\"589 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98140389134309"
+  },
+  "store" : "Mr. Fulton",
+  "type" : "Food",
+  "phone_" : "no phone"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69116177451427",
+    "human_address" : "{\"address\":\"400 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98669625877415"
+  },
+  "store" : "Nubest",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 802-9262"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69121016199415",
+    "human_address" : "{\"address\":\"463 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98666226943178"
+  },
+  "store" : "NuCastle Jewelers",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 875-7737"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.689449558753324",
+    "human_address" : "{\"address\":\"565 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98225527408538"
+  },
+  "website" : "www.nybabystore.com",
+  "store" : "NY Baby",
+  "type" : "Baby and Children's Furniture, Apparel and Accessories ",
+  "phone_" : "(718)-643-0692"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68944684148581",
+    "human_address" : "{\"address\":\"510 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98240726792534"
+  },
+  "website" : "www.payless.com",
+  "store" : "Payless Shoes",
+  "type" : "Women's and Men's Footwear Children's Footwear",
+  "phone_" : "(718) 643-6049"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.691274716957146",
+    "human_address" : "{\"address\":\"459 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98682211981637"
+  },
+  "website" : "www.payless.com",
+  "store" : "Payless Shoes",
+  "type" : "Women's and Men's Footwear Children's Footwear",
+  "phone_" : "(718) 625-0461"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690830570093475",
+    "human_address" : "{\"address\":\"487 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98569224987685"
+  },
+  "store" : "Perfumes Spot",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(646) 266-0121"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69116177451427",
+    "human_address" : "{\"address\":\"400 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98669625877415"
+  },
+  "store" : "Planet Cellular",
+  "type" : "Electronics",
+  "phone_" : "(718) 797-2346"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69181752080073",
+    "human_address" : "{\"address\":\"348 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98832561995042"
+  },
+  "store" : "Porta Bella",
+  "type" : "Men's Apparel ",
+  "phone_" : "(212) 239-7380"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68925515214492",
+    "human_address" : "{\"address\":\"579B Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98176723532193"
+  },
+  "store" : "Precious Angels",
+  "type" : "Children's Apparel",
+  "phone_" : "(718) 468-3600"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69025732602947",
+    "human_address" : "{\"address\":\"468 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.984447361071"
+  },
+  "website" : "www.shopprettygirl.com",
+  "store" : "Pretty Girl",
+  "type" : "Women's Apparel - Urban",
+  "phone_" : "(718) 923-6030"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68937921247179",
+    "human_address" : "{\"address\":\"514 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98223255963912"
+  },
+  "website" : "www.shopprettygirl.com",
+  "store" : "Pretty Girl",
+  "type" : "Women's Apparel - Urban",
+  "phone_" : "(718)-246-8189"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68925998354549",
+    "human_address" : "{\"address\":\"522 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98193378661936"
+  },
+  "store" : "Pro Sound Jewelry",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 858-4552"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68925998354549",
+    "human_address" : "{\"address\":\"522 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98193378661936"
+  },
+  "store" : "Pro Sound, Inc.",
+  "type" : "Electronics",
+  "phone_" : "(718) 875-6545"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69041248669891",
+    "human_address" : "{\"address\":\"515 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98467065492184"
+  },
+  "store" : "Quick Strike",
+  "type" : "Variety Store",
+  "phone_" : "(718) 488-7692"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6913069944522",
+    "human_address" : "{\"address\":\"457 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9869020450422"
+  },
+  "website" : "www.radioshack.com",
+  "store" : "RadioShack",
+  "type" : "Electronics",
+  "phone_" : "(718) 246-3724"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68931280082236",
+    "human_address" : "{\"address\":\"575C Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98191070201224"
+  },
+  "store" : "Ragga  Muffin",
+  "type" : "Men's Apparel and Footwear - Urban ",
+  "phone_" : "(718) 935-0577"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690830570093475",
+    "human_address" : "{\"address\":\"487 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98569224987685"
+  },
+  "store" : "Ragga  Muffin",
+  "type" : "Men's Apparel and Footwear - Urban ",
+  "phone_" : "(718) 246-4444"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690733353382115",
+    "human_address" : "{\"address\":\"493 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98544075447136"
+  },
+  "website" : "www.rainbowshop.com",
+  "store" : "Rainbow",
+  "type" : "Women's Apparel",
+  "phone_" : "(718) 485-3000"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6896985565026",
+    "human_address" : "{\"address\":\"547 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98289851827103"
+  },
+  "website" : "http://rdcpt.com/",
+  "store" : "Rd Cpt ",
+  "type" : "Footwear",
+  "phone_" : "718-237-1224"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68953255800308",
+    "human_address" : "{\"address\":\"559 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98246968881392"
+  },
+  "website" : "www.riteaid.com",
+  "store" : "Rite Aid",
+  "type" : "Pharmacy",
+  "phone_" : "(718) 643-3574"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68934200641598",
+    "human_address" : "{\"address\":\"573 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98198259270424"
+  },
+  "store" : "Sahar Place Uniform",
+  "type" : "Specialty - Uniform",
+  "phone_" : "(718) 522-6639"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690305223604994",
+    "human_address" : "{\"address\":\"523 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9844121860364"
+  },
+  "store" : "Sarit Shoes",
+  "type" : "Women's Footwear",
+  "phone_" : "(718) 855-1655"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.691807714593324",
+    "human_address" : "{\"address\":\"350 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98830059721426"
+  },
+  "store" : "SEL Medical",
+  "type" : "Dental, Medical ",
+  "phone_" : "(718) 875-9500"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69146838187324",
+    "human_address" : "{\"address\":\"447 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98730167103722"
+  },
+  "store" : "Sight \"N\" Style Optical",
+  "type" : "Dental, Medical ",
+  "phone_" : "(718) 855-0300"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.689371212009604",
+    "human_address" : "{\"address\":\"571 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98205448339624"
+  },
+  "store" : "Silver Rose Fashion",
+  "type" : "Women's Apparel - Urban",
+  "phone_" : "(718) 596-7095"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690096707115046",
+    "human_address" : "{\"address\":\"472 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9840669478526"
+  },
+  "store" : "Sneaker Place",
+  "type" : "Footwear",
+  "phone_" : "(718) 522-5756"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68997208192804",
+    "human_address" : "{\"address\":\"480 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98374284700412"
+  },
+  "store" : "Sneaker Point",
+  "type" : "Footwear",
+  "phone_" : "(718) 243-9490"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6903497982955",
+    "human_address" : "{\"address\":\"519 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98451946524303"
+  },
+  "store" : "Sneaker Spot",
+  "type" : "Footwear",
+  "phone_" : "(718) 852-9230"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69042609162008",
+    "human_address" : "{\"address\":\"456 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98485605867698"
+  },
+  "website" : "www.sprint.com",
+  "store" : "Sprint",
+  "type" : "Electronics",
+  "phone_" : "(718) 237-2155"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68931280082236",
+    "human_address" : "{\"address\":\"575B Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98191070201224"
+  },
+  "store" : "Stellar Ladies Fashion",
+  "type" : "Women's Apparel - Urban",
+  "phone_" : "(718) 855-8243"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.691821326643634",
+    "human_address" : "{\"address\":\"423 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98817027263075"
+  },
+  "store" : "Sterling Optical",
+  "type" : "Eye Care",
+  "phone_" : "(718) 522-5656"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6903811424972",
+    "human_address" : "{\"address\":\"517 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98459506008244"
+  },
+  "website" : "www.t-mobile.com",
+  "store" : "T-Mobile",
+  "type" : "Electronics",
+  "phone_" : "(718) 522-5086"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.6896985565026",
+    "human_address" : "{\"address\":\"547A Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98289851827103"
+  },
+  "store" : "Tony's Pizza",
+  "type" : "Food",
+  "phone_" : "(718) 624-1317"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.68958789084012",
+    "human_address" : "{\"address\":\"555 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9826126319763"
+  },
+  "store" : "Universal Credit Furniture",
+  "type" : "Furniture",
+  "phone_" : "(718) 330-0005"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.690305223604994",
+    "human_address" : "{\"address\":\"523 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9844121860364"
+  },
+  "store" : "Uri's Gallery Jewelers",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 522-7541"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.69179258431158",
+    "human_address" : "{\"address\":\"425 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98809841680061"
+  },
+  "website" : "www.wendys.com",
+  "store" : "Wendy's",
+  "type" : "Food",
+  "phone_" : "(718) 855-5757"
+}
+, {
+  "location_1" : {
+    "latitude" : "40.688986011819",
+    "human_address" : "{\"address\":\"540 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98122988949484"
+  },
+  "store" : "YES",
+  "type" : "Women's Apparel",
+  "phone_" : "(718) 855-0832"
+}
+, {
+  "location_1" : {
+    "latitude" : "42.43318899977248",
+    "human_address" : "{\"address\":\"408 416 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-78.74864600041258"
+  },
+  "website" : "www.zales.com",
+  "store" : "Zales",
+  "type" : "Jewelry and Accessories ",
+  "phone_" : "(718) 243-9443"
+}
+ ]

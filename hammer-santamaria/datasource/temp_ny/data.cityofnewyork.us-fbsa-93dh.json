@@ -1,0 +1,51 @@
+[ {
+  "zone" : "R1",
+  "description" : "Single-family detached residences",
+  "maximumdwelling_units_per_acre" : "4 to 7"
+}
+, {
+  "zone" : "R2",
+  "description" : "Single-family detached residences",
+  "maximumdwelling_units_per_acre" : "11 to 15"
+}
+, {
+  "zone" : "R3",
+  "description" : "Two-family detached, semi-detached, \nand general residence districts",
+  "maximumdwelling_units_per_acre" : "26 to 42"
+}
+, {
+  "zone" : "R4",
+  "description" : "Two-family detached, semi-detached, and general residence districts",
+  "maximumdwelling_units_per_acre" : "30 to 65"
+}
+, {
+  "zone" : "R5",
+  "description" : "General residence districts (provides a transition between lower and higher density neighborhoods)",
+  "maximumdwelling_units_per_acre" : "65 to 80"
+}
+, {
+  "zone" : "R6",
+  "description" : "General residence districts (medium density housing between 3 and 12 stories)",
+  "maximumdwelling_units_per_acre" : "129 to 192"
+}
+, {
+  "zone" : "R7",
+  "description" : "General residence districts (medium density apartment houses with good access to public transportation)",
+  "maximumdwelling_units_per_acre" : "192 to 322"
+}
+, {
+  "zone" : "R8",
+  "description" : "General residence districts (high density residential districts)",
+  "maximumdwelling_units_per_acre" : "258 to 427"
+}
+, {
+  "zone" : "R9",
+  "description" : "General residence districts (high density residential districts)",
+  "maximumdwelling_units_per_acre" : "444 to 495"
+}
+, {
+  "zone" : "R10",
+  "description" : "General residence districts (highest density residential district)",
+  "maximumdwelling_units_per_acre" : "551 to 700"
+}
+ ]

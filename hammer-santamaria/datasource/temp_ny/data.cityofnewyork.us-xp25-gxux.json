@@ -1,0 +1,61 @@
+[ {
+  "street_address" : "1895 Amsterdam Ave",
+  "greenfield_in_bid_location" : "0",
+  "location_1" : {
+    "latitude" : "40.83080567",
+    "needs_recoding" : false,
+    "longitude" : "-73.94338906"
+  },
+  "latitude" : "40.83080567",
+  "gf_application_submitted_to_doitt_a" : "2016-08-15T00:00:00",
+  "cblinkid" : "LINK-018177",
+  "gf_permit_appl_id" : "81586",
+  "zoningnumb" : "C2-4",
+  "historic_district" : "N",
+  "borough" : "Manhattan",
+  "gf_cb_comment_period_ends_a" : "2016-12-02T00:00:00",
+  "gf_doitt_submitted_to_cb_a" : "2016-10-03T00:00:00",
+  "longitude" : "-73.94338906",
+  "cb" : "109"
+}
+, {
+  "street_address" : "3450 Fulton St",
+  "greenfield_in_bid_location" : "0",
+  "location_1" : {
+    "latitude" : "40.6847015537618",
+    "needs_recoding" : false,
+    "longitude" : "-73.8683087896548"
+  },
+  "latitude" : "40.6847015537618",
+  "gf_application_submitted_to_doitt_a" : "2017-05-04T00:00:00",
+  "cblinkid" : "LINK-021923",
+  "gf_permit_appl_id" : "81900",
+  "zoningnumb" : "C1-2",
+  "historic_district" : "N",
+  "borough" : "Brooklyn",
+  "gf_cb_comment_period_ends_a" : "2017-07-15T00:00:00",
+  "gf_doitt_submitted_to_cb_a" : "2017-05-16T00:00:00",
+  "longitude" : "-73.8683087896548",
+  "cb" : "305"
+}
+, {
+  "street_address" : "3470 Fulton St",
+  "greenfield_in_bid_location" : "0",
+  "location_1" : {
+    "latitude" : "40.6848605941415",
+    "needs_recoding" : false,
+    "longitude" : "-73.8677458604724"
+  },
+  "latitude" : "40.6848605941415",
+  "gf_application_submitted_to_doitt_a" : "2017-05-04T00:00:00",
+  "cblinkid" : "LINK-021924",
+  "gf_permit_appl_id" : "81901",
+  "zoningnumb" : "C1-2",
+  "historic_district" : "N",
+  "borough" : "Brooklyn",
+  "gf_cb_comment_period_ends_a" : "2017-07-15T00:00:00",
+  "gf_doitt_submitted_to_cb_a" : "2017-05-16T00:00:00",
+  "longitude" : "-73.8677458604724",
+  "cb" : "305"
+}
+ ]

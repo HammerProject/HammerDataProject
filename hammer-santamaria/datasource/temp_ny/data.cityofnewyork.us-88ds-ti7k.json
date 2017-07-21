@@ -1,0 +1,154 @@
+[ {
+  "police_department_disposition" : "Guilty after trial",
+  "_1" : "12",
+  "_2" : "2",
+  "_3" : "6",
+  "_4" : "1",
+  "_5" : "0"
+}
+, {
+  "police_department_disposition" : "Pleaded guilty"
+}
+, {
+  "police_department_disposition" : "      To charges and specifications",
+  "_1" : "6",
+  "_2" : "10",
+  "_3" : "5",
+  "_4" : "6",
+  "_5" : "1"
+}
+, {
+  "police_department_disposition" : "      To charges and specifications"
+}
+, {
+  "police_department_disposition" : "           negotiated as command discipline",
+  "_1" : "0",
+  "_2" : "3",
+  "_3" : "2",
+  "_4" : "1",
+  "_5" : "0"
+}
+, {
+  "police_department_disposition" : "      To command discipline",
+  "_1" : "52",
+  "_2" : "68",
+  "_3" : "68",
+  "_4" : "43",
+  "_5" : "35"
+}
+, {
+  "police_department_disposition" : "Instructions",
+  "_1" : "225",
+  "_2" : "160",
+  "_3" : "67",
+  "_4" : "42",
+  "_5" : "44"
+}
+, {
+  "police_department_disposition" : "Subtotal: Disciplinary Action",
+  "_1" : "295",
+  "_2" : "243",
+  "_3" : "148",
+  "_4" : "93",
+  "_5" : "80"
+}
+, {
+  "police_department_disposition" : "Not guilty after trial",
+  "_1" : "25",
+  "_2" : "13",
+  "_3" : "8",
+  "_4" : "6",
+  "_5" : "0"
+}
+, {
+  "police_department_disposition" : "Dismissed",
+  "_1" : "14",
+  "_2" : "8",
+  "_3" : "1",
+  "_4" : "2",
+  "_5" : "0"
+}
+, {
+  "police_department_disposition" : "Department unable to prosecute",
+  "_1" : "13",
+  "_2" : "56",
+  "_3" : "106",
+  "_4" : "55",
+  "_5" : "35"
+}
+, {
+  "police_department_disposition" : "Statute of limitations expired",
+  "_1" : "7",
+  "_2" : "5",
+  "_3" : "12",
+  "_4" : "12",
+  "_5" : "12"
+}
+, {
+  "police_department_disposition" : "Department unable to prosecute",
+  "_1" : "0",
+  "_2" : "0",
+  "_3" : "0",
+  "_4" : "0",
+  "_5" : "0"
+}
+, {
+  "police_department_disposition" : "Subtotal: No Disciplinary Action",
+  "_1" : "59",
+  "_2" : "82",
+  "_3" : "127",
+  "_4" : "75",
+  "_5" : "47"
+}
+, {
+  "police_department_disposition" : "Cases Completed by NYPD",
+  "_1" : "354",
+  "_2" : "325",
+  "_3" : "275",
+  "_4" : "168",
+  "_5" : "127"
+}
+, {
+  "police_department_disposition" : "Percent of Officers Disciplined in Completed NYPD Cases",
+  "_1" : "83.30",
+  "_2" : "74.80",
+  "_3" : "53.80",
+  "_4" : "55.40",
+  "_5" : "63.00"
+}
+, {
+  "police_department_disposition" : "Filed*",
+  "_1" : "17",
+  "_2" : "16",
+  "_3" : "10",
+  "_4" : "2",
+  "_5" : "2"
+}
+, {
+  "police_department_disposition" : "No action (pending)",
+  "_1" : "0",
+  "_2" : "6",
+  "_3" : "15",
+  "_4" : "49",
+  "_5" : "147"
+}
+, {
+  "police_department_disposition" : "Percent of Cases Still Pending at NYPD",
+  "_1" : "0.00",
+  "_2" : "1.70",
+  "_3" : "5.00",
+  "_4" : "22.40",
+  "_5" : "53.30"
+}
+, {
+  "police_department_disposition" : "Total Number of Subject Officers",
+  "_1" : "371",
+  "_2" : "347",
+  "_3" : "300",
+  "_4" : "219",
+  "_5" : "276"
+}
+, {
+  "police_department_disposition" : "* \"Filed\" is a term used when the police department is not required to take action against the subject officer because the officer has resigned or retired from the department, or has been terminated."
+}
+ ]

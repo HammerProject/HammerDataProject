@@ -1,0 +1,101 @@
+[ {
+  "address" : "215 East 161st Street",
+  "disposition_type" : "Adult Operations",
+  "borough" : "Bronx "
+}
+, {
+  "address" : "198 East 161st Street",
+  "disposition_type" : "Adult Operations and NeON",
+  "borough" : "Bronx "
+}
+, {
+  "address" : "265 East 161st Street ",
+  "disposition_type" : "Adult Operations",
+  "borough" : "Bronx "
+}
+, {
+  "address" : "900 Sheridan Avenue ",
+  "disposition_type" : "Juvenile Operations",
+  "borough" : "Bronx "
+}
+, {
+  "address" : "345 Adams Street",
+  "disposition_type" : "Adult Operations",
+  "borough" : "Brooklyn"
+}
+, {
+  "address" : "210 Joralemon Street",
+  "disposition_type" : "Adult Operations",
+  "borough" : "Brooklyn"
+}
+, {
+  "address" : "510 Gates Avenue",
+  "disposition_type" : "Bedford Stuyvesant NeON",
+  "borough" : "Brooklyn"
+}
+, {
+  "address" : "444 Thomas Boyland Street",
+  "disposition_type" : "Brownsville NeON",
+  "borough" : "Brooklyn"
+}
+, {
+  "address" : "400 Liberty Avenue",
+  "disposition_type" : "East New York NeON",
+  "borough" : "Brooklyn"
+}
+, {
+  "address" : "330 Jay Street",
+  "disposition_type" : "Juvenile Operations",
+  "borough" : "Brooklyn"
+}
+, {
+  "address" : "100 Centre Street",
+  "disposition_type" : "Adult Operations",
+  "borough" : "Manhattan"
+}
+, {
+  "address" : "66 John Street",
+  "disposition_type" : "Adult Operations",
+  "borough" : "Manhattan"
+}
+, {
+  "address" : "33 Beaver Street",
+  "disposition_type" : "Central Offices",
+  "borough" : "Manhattan"
+}
+, {
+  "address" : "127 West 127th Street",
+  "disposition_type" : "Harlem NeON",
+  "borough" : "Manhattan"
+}
+, {
+  "address" : "60 Lafayette Street",
+  "disposition_type" : "Juvenile Operations",
+  "borough" : "Manhattan"
+}
+, {
+  "address" : "125 01 Queens Blvd",
+  "disposition_type" : "Adult Operations",
+  "borough" : "Queens "
+}
+, {
+  "address" : "162 24 Jamaica Avenue ",
+  "disposition_type" : "Jamaica NeON",
+  "borough" : "Queens "
+}
+, {
+  "address" : "151 20 Jamaica Avenue",
+  "disposition_type" : "Juvenile Operations",
+  "borough" : "Queens "
+}
+, {
+  "address" : "340 Bay Street",
+  "disposition_type" : "Adult Operations",
+  "borough" : "Staten Island"
+}
+, {
+  "address" : "130 Stuyvestant Place",
+  "disposition_type" : "Juvenile Operations",
+  "borough" : "Staten Island"
+}
+ ]

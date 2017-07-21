@@ -1,0 +1,37 @@
+[ {
+  "children_aged_4_10_contributed_per_housing_unit" : "0.39",
+  "children_aged_11_13_contributed_per_housing_unit" : "0.16",
+  "borough" : "BRONX",
+  "children_aged_14_17_contributed_per_housing_unit" : "0.19"
+}
+, {
+  "children_aged_4_10_contributed_per_housing_unit" : "0.29",
+  "children_aged_11_13_contributed_per_housing_unit" : "0.12",
+  "borough" : "BROOKLYN",
+  "children_aged_14_17_contributed_per_housing_unit" : "0.14"
+}
+, {
+  "children_aged_4_10_contributed_per_housing_unit" : "0.12",
+  "children_aged_11_13_contributed_per_housing_unit" : "0.04",
+  "borough" : "MANHATTAN",
+  "children_aged_14_17_contributed_per_housing_unit" : "0.06"
+}
+, {
+  "children_aged_4_10_contributed_per_housing_unit" : "1.29",
+  "children_aged_11_13_contributed_per_housing_unit" : "0.53",
+  "borough" : "NEW YORK CITY",
+  "children_aged_14_17_contributed_per_housing_unit" : "0.67"
+}
+, {
+  "children_aged_4_10_contributed_per_housing_unit" : "0.28",
+  "children_aged_11_13_contributed_per_housing_unit" : "0.12",
+  "borough" : "QUEENS",
+  "children_aged_14_17_contributed_per_housing_unit" : "0.14"
+}
+, {
+  "children_aged_4_10_contributed_per_housing_unit" : "0.21",
+  "children_aged_11_13_contributed_per_housing_unit" : "0.09",
+  "borough" : "RICHMOND",
+  "children_aged_14_17_contributed_per_housing_unit" : "0.14"
+}
+ ]

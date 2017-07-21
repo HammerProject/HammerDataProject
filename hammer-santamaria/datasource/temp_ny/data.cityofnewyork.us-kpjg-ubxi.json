@@ -1,0 +1,5392 @@
+[ {
+  "date" : "7-Jan-14",
+  "issue" : "Foreclosure",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "7-Jan-14",
+  "zip" : "10035",
+  "issue" : "Start a business",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Closed"
+}
+, {
+  "date" : "7-Jan-14",
+  "zip" : "10013",
+  "issue" : "DOH Permit",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Chin",
+  "cb" : "2",
+  "status" : "Closed"
+}
+, {
+  "date" : "7-Jan-14",
+  "issue" : "Health Care Exchange",
+  "initial_contact" : "Call",
+  "status" : "Open"
+}
+, {
+  "date" : "7-Jan-14",
+  "issue" : "Health Care Exchange",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "3-Jan-14",
+  "issue" : "Eviction Prevention",
+  "initial_contact" : "Call",
+  "status" : "Follow-up"
+}
+, {
+  "date" : "3-Jan-14",
+  "zip" : "10024",
+  "issue" : "DHCR",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Letter",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Follow-up"
+}
+, {
+  "date" : "8-Jan-14",
+  "zip" : "10023",
+  "issue" : "Lease Renewal",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9"
+}
+, {
+  "date" : "15-Jan-14",
+  "zip" : "10027",
+  "issue" : "Eviction  ",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Follow-up"
+}
+, {
+  "date" : "8-Jan-14",
+  "issue" : "Unknown",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "10-Jan-14",
+  "issue" : "Noise",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "10-Jan-14",
+  "issue" : "Unknown",
+  "initial_contact" : "Call"
+}
+, {
+  "date" : "14-Jan-14",
+  "issue" : "Eviction",
+  "initial_contact" : "Call",
+  "council_member" : "Rodriguez",
+  "cb" : "12"
+}
+, {
+  "date" : "14-Jan-14",
+  "issue" : "Traffic Safety",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "14-Jan-14",
+  "issue" : "Traffic Safety",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "15-Jan-14",
+  "zip" : "10025",
+  "issue" : "Traffic Safety",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "14-Jan-14",
+  "issue" : "Senior Center Closing",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "14-Jan-14",
+  "zip" : "100255",
+  "issue" : "HRA",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Follow-up"
+}
+, {
+  "date" : "15-Jan-14",
+  "issue" : "Housing",
+  "initial_contact" : "Walk-in",
+  "status" : "Closed"
+}
+, {
+  "date" : "14-Jan-14",
+  "zip" : "10003",
+  "issue" : "Waitlist",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Mendez",
+  "cb" : "2",
+  "status" : "Follow-up"
+}
+, {
+  "date" : "15-Jan-14",
+  "zip" : "10030",
+  "issue" : "NYCHA repairs",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk-in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Follow-up"
+}
+, {
+  "date" : "15-Jan-14",
+  "issue" : "DHS",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "15-Jan-14",
+  "issue" : "Worker's Comp",
+  "initial_contact" : "Call"
+}
+, {
+  "zip" : "10016",
+  "issue" : "Property tax",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Garodnick",
+  "cb" : "6",
+  "status" : "Closed"
+}
+, {
+  "date" : "25-Jan-14",
+  "zip" : "10040",
+  "issue" : "Employment Termination",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk-in",
+  "council_member" : "Rodriguez",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "13-Jan-14",
+  "zip" : "10025",
+  "issue" : "DHS",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "30-Jan-14",
+  "zip" : "10025",
+  "issue" : "DHS",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "13-Jan-14",
+  "zip" : "10036",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Follow-up"
+}
+, {
+  "date" : "16-Jan-14",
+  "zip" : "10016",
+  "issue" : "DHS",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "5",
+  "status" : "Closed"
+}
+, {
+  "date" : "14-Jan-14",
+  "zip" : "10024",
+  "issue" : "NYCHA repairs",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk-in",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "18-Jan-14",
+  "zip" : "10023",
+  "issue" : "Cooperative",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Follow-up"
+}
+, {
+  "date" : "22-Jan-14",
+  "zip" : "10027",
+  "issue" : "NYCHA  ",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Follow-up"
+}
+, {
+  "date" : "15-Jan-14",
+  "zip" : "10030",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Closed"
+}
+, {
+  "date" : "30-Jan-14",
+  "zip" : "10027",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "30-Jan-14",
+  "zip" : "10027",
+  "issue" : "Cooperative",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "14-Jan-14",
+  "zip" : "10009",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "2",
+  "status" : "Pending"
+}
+, {
+  "date" : "27-Jan-14",
+  "zip" : "10039",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk-in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "21-Jan-14",
+  "zip" : "11226",
+  "issue" : "HRA",
+  "city_state" : "BK,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Eugene",
+  "status" : "Closed"
+}
+, {
+  "date" : "22-Jan-14",
+  "zip" : "10031",
+  "issue" : "HDFC",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Closed"
+}
+, {
+  "date" : "22-Jan-14",
+  "zip" : "10029",
+  "issue" : "Recertification",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Closed"
+}
+, {
+  "date" : "31-Jan-14",
+  "zip" : "10016",
+  "issue" : "Lease Renewal",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "6",
+  "status" : "Closed"
+}
+, {
+  "date" : "16-Jan-14",
+  "zip" : "10007",
+  "issue" : "Paper work",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Chin",
+  "cb" : "1",
+  "status" : "Closed"
+}
+, {
+  "date" : "9-Jan-14",
+  "zip" : "10030",
+  "issue" : "Con Ed",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "13-Jan-14",
+  "zip" : "10027",
+  "issue" : "Section 8",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk-in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "17-Jan-14",
+  "zip" : "10001",
+  "issue" : "No heat",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Johnson",
+  "cb" : "3",
+  "status" : "Closed"
+}
+, {
+  "date" : "13-Jan-14",
+  "zip" : "10027",
+  "issue" : "NYCHA",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Gale",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "31-Jan-14",
+  "issue" : "Housing",
+  "initial_contact" : "Call"
+}
+, {
+  "date" : "27-Jan-14",
+  "zip" : "10128",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk-in",
+  "council_member" : "Kallos",
+  "cb" : "8",
+  "status" : "Pending"
+}
+, {
+  "date" : "31-Jan-14",
+  "issue" : "Public Assistance",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "status" : "Pending"
+}
+, {
+  "date" : "15-Jan-14",
+  "zip" : "10030",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "14-Jan-14",
+  "zip" : "10029",
+  "issue" : "Medical",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "28-Jan-14",
+  "zip" : "10027",
+  "issue" : "Paper work",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Letter",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "27-Jan-14",
+  "zip" : "10022",
+  "issue" : "SNAP",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "cb" : "6",
+  "status" : "Pending"
+}
+, {
+  "date" : "27-Jan-14",
+  "issue" : "Trash can removal",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call"
+}
+, {
+  "date" : "10-Jan-14",
+  "issue" : "Dog run",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "cb" : "12",
+  "status" : "Pending"
+}
+, {
+  "date" : "10-Jan-14",
+  "zip" : "10026",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk-in",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "16-Jan-14",
+  "zip" : "10027",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Dickens",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "28-Jan-14",
+  "zip" : "10031",
+  "issue" : "Section 8",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "27-Jan-14",
+  "zip" : "10029",
+  "issue" : "Employment  ",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk-in",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "27-Jan-14",
+  "issue" : "Housing",
+  "initial_contact" : "Walk-in",
+  "status" : "Closed"
+}
+, {
+  "date" : "15-Jan-14",
+  "zip" : "10003",
+  "issue" : "Elder Abuse",
+  "initial_contact" : "Call",
+  "cb" : "3",
+  "status" : "Pending"
+}
+, {
+  "date" : "31-Jan-14",
+  "zip" : "10037",
+  "issue" : "Housing Court",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk-in",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "20-Jan-14",
+  "zip" : "10465",
+  "issue" : "DOT",
+  "city_state" : "BX, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "E-mail",
+  "council_member" : "Vacca",
+  "status" : "Pending"
+}
+, {
+  "date" : "16-Jan-14",
+  "issue" : "Housing",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "31-Jan-14",
+  "zip" : "10032",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "30-Jan-14",
+  "zip" : "10031",
+  "issue" : "LAP ",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Follow-up"
+}
+, {
+  "date" : "16-Jan-14",
+  "zip" : "10031",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "21-Jan-14",
+  "zip" : "10001",
+  "issue" : "NYCHA repairs",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Closed"
+}
+, {
+  "date" : "22-Jan-14",
+  "zip" : "10031",
+  "issue" : "HDFC",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk-in",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "22-Jan-14",
+  "zip" : "10031",
+  "issue" : "HDFC",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk-in",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "15-Jan-14",
+  "zip" : "10025",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "25-Jan-14",
+  "zip" : "10031",
+  "issue" : "HDFC",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Closed"
+}
+, {
+  "date" : "24-Jan-14",
+  "zip" : "10025",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "24-Jan-14",
+  "zip" : "10025",
+  "issue" : "SCRIE",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "28-Jan-14",
+  "zip" : "10025",
+  "issue" : "No heat",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "28-Jan-14",
+  "zip" : "10025",
+  "issue" : "No heat",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "31-Jan-14",
+  "zip" : "10019",
+  "issue" : "Helicopter",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Closed"
+}
+, {
+  "date" : "3-Feb-14",
+  "zip" : "10018",
+  "issue" : "HEAP",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Johnson",
+  "cb" : "5",
+  "status" : "Closed"
+}
+, {
+  "date" : "3-Feb-14",
+  "issue" : "Housing",
+  "initial_contact" : "Walk in",
+  "status" : "Closed"
+}
+, {
+  "date" : "3-Feb-14",
+  "zip" : "10033",
+  "issue" : "DHS",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "3-Feb-14",
+  "zip" : "10025",
+  "issue" : "Access-a-ride",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "3-Feb-14",
+  "zip" : "10459",
+  "issue" : "Lease",
+  "city_state" : "BX,NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Arroyo",
+  "status" : "Closed"
+}
+, {
+  "date" : "3-Feb-14",
+  "zip" : "10024",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "3-Feb-14",
+  "zip" : "10035",
+  "issue" : "Start a business",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Closed"
+}
+, {
+  "date" : "4-Feb-14",
+  "zip" : "10023",
+  "issue" : "Health care",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Active"
+}
+, {
+  "date" : "4-Feb-14",
+  "zip" : "10024",
+  "issue" : "Downsizing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "4-Feb-14",
+  "zip" : "10040",
+  "issue" : "Employment Termination",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk-in",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "4-Feb-14",
+  "zip" : "10023",
+  "issue" : "Cooperative",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Follow-up"
+}
+, {
+  "date" : "7-Feb-14",
+  "zip" : "10016",
+  "issue" : "Downsizing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "6",
+  "status" : "Closed"
+}
+, {
+  "date" : "4-Feb-14",
+  "zip" : "10016",
+  "issue" : "Property taz",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "E-mail",
+  "council_member" : "Johnson",
+  "cb" : "6",
+  "status" : "Pending"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10034",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Follow-up"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10003",
+  "issue" : "Waitlist",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "E-mail",
+  "council_member" : "Mendez",
+  "cb" : "2",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10036",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10016",
+  "issue" : "DHS",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "5",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10027",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10027",
+  "issue" : "Cooperative",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10009",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "2",
+  "status" : "Closed"
+}
+, {
+  "date" : "4-Feb-14",
+  "issue" : "Trash can removal",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call"
+}
+, {
+  "date" : "4-Feb-14",
+  "issue" : "Dog run",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "cb" : "12",
+  "status" : "Pending"
+}
+, {
+  "date" : "4-Feb-14",
+  "zip" : "10026",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk-in",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "4-Feb-14",
+  "zip" : "10027",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Dickens",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "4-Feb-14",
+  "zip" : "10031",
+  "issue" : "Section 8",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "4-Feb-14",
+  "zip" : "10029",
+  "issue" : "Employment  ",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk-in",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10023",
+  "issue" : "Parking Permit",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Feb-14",
+  "issue" : "Turkey donation",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "status" : "Closed"
+}
+, {
+  "date" : "6-Feb-14",
+  "zip" : "10025",
+  "issue" : "Parking NYCHA",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "6-Feb-14",
+  "zip" : "10024",
+  "issue" : "Taxi issue",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "6-Feb-14",
+  "zip" : "10023",
+  "issue" : "Primary Residence",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "6-Feb-14",
+  "zip" : "10471",
+  "issue" : "Housing",
+  "city_state" : "BX,NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Cohen",
+  "status" : "Closed"
+}
+, {
+  "date" : "6-Feb-14",
+  "zip" : "10024",
+  "issue" : "Hospital Discharge",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "6-Feb-14",
+  "initial_contact" : "Call",
+  "status" : "Pending"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10025",
+  "issue" : "Access-a-ride",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10029",
+  "issue" : "Exhaust odor",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10025",
+  "issue" : "Building addition",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Follow-up"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10025",
+  "issue" : "97th St, Traffic",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Letter",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10025",
+  "issue" : "97th St, Traffic",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Letter",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "3-Feb-14",
+  "zip" : "10029",
+  "issue" : "Transfer request",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "4-Feb-14",
+  "zip" : "10027",
+  "issue" : "Vermin",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "1-Feb-14",
+  "zip" : "100255",
+  "issue" : "HRA",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "7-Feb-14",
+  "zip" : "10030",
+  "issue" : "Housing Court",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Feb-14",
+  "issue" : "Rats",
+  "initial_contact" : "Letter",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10025",
+  "issue" : "Pension",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10025",
+  "issue" : "SCRIE",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Letter",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10032",
+  "issue" : "Tree Guards",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Letter",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "7-Feb-14",
+  "zip" : "10037",
+  "issue" : "SNAP",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "7-Feb-14",
+  "zip" : "10024",
+  "issue" : "Repairs",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "7-Feb-14",
+  "issue" : "Food City",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "5-Feb-14",
+  "issue" : "SRO",
+  "initial_contact" : "Call",
+  "status" : "Pending"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10024",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10025",
+  "issue" : "Repairs",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response needed"
+}
+, {
+  "date" : "12-Feb-14",
+  "zip" : "10456",
+  "issue" : "Education",
+  "city_state" : "BX,NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Arroyo",
+  "status" : "Response needed"
+}
+, {
+  "date" : "10-Feb-14",
+  "zip" : "10025",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Viverito",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "10-Feb-14",
+  "zip" : "10019",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Johnson",
+  "cb" : "5",
+  "status" : "Closed"
+}
+, {
+  "date" : "11-Feb-14",
+  "zip" : "11233",
+  "issue" : "Housing",
+  "city_state" : "Bk, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Mealy",
+  "status" : "Closed"
+}
+, {
+  "date" : "11-Feb-14",
+  "zip" : "10024",
+  "issue" : "HRA",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rosenthal",
+  "language_if_blank_english" : "Timothy",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "11-Feb-14",
+  "zip" : "10024",
+  "issue" : "Metro Card",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "12-Feb-14",
+  "zip" : "10028",
+  "issue" : "Con Ed",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "E-mail",
+  "council_member" : "Kallos",
+  "cb" : "8",
+  "status" : "Closed"
+}
+, {
+  "date" : "12-Feb-14",
+  "issue" : "Phone service"
+}
+, {
+  "date" : "12-Feb-14",
+  "issue" : "Contact information"
+}
+, {
+  "date" : "12-Feb-14",
+  "issue" : "Parking issue"
+}
+, {
+  "date" : "12-Feb-14",
+  "issue" : "request"
+}
+, {
+  "date" : "12-Feb-14",
+  "zip" : "10037",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "12-Feb-14",
+  "issue" : "Eviction",
+  "initial_contact" : "Walk in",
+  "status" : "Closed"
+}
+, {
+  "date" : "14-Feb-14",
+  "zip" : "11201",
+  "issue" : "Conviction",
+  "city_state" : "BK, NY",
+  "initial_contact" : "Letter",
+  "council_member" : "Levin ",
+  "status" : "Closed"
+}
+, {
+  "date" : "14-Feb-14",
+  "zip" : "10024",
+  "issue" : "HRA",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "14-Feb-14",
+  "issue" : "Anonymous Letter",
+  "initial_contact" : "Letter",
+  "status" : "Closed"
+}
+, {
+  "date" : "14-Feb-14",
+  "zip" : "10033",
+  "issue" : "Noise",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Letter",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Follow-up"
+}
+, {
+  "date" : "14-Feb-14",
+  "zip" : "10002",
+  "issue" : "Illegal gambling",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Letter",
+  "council_member" : "Chin",
+  "cb" : "3",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10030",
+  "issue" : "Consumer Affairs",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "11-Feb-14",
+  "zip" : "10026",
+  "issue" : "Legal ",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "14-Feb-14",
+  "zip" : "10025",
+  "issue" : "DCA",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Letter",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "24-Feb-14",
+  "zip" : "10001",
+  "issue" : "West 25th Street Project",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Johnson",
+  "cb" : "4"
+}
+, {
+  "date" : "18-Feb-14",
+  "issue" : "Van needed",
+  "initial_contact" : "Gale Email"
+}
+, {
+  "date" : "18-Feb-14",
+  "zip" : "10027",
+  "issue" : "HUD Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Gale Email",
+  "council_member" : "Dickens",
+  "cb" : "9",
+  "status" : "Follow-up"
+}
+, {
+  "date" : "18-Feb-14",
+  "initial_contact" : "Gale Email",
+  "language_if_blank_english" : "Spanish",
+  "status" : "Closed"
+}
+, {
+  "date" : "18-Feb-14",
+  "zip" : "10027",
+  "issue" : "Citizenship",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Gale VM",
+  "council_member" : "Dickens",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "9",
+  "status" : "Closed"
+}
+, {
+  "date" : "18-Feb-14",
+  "issue" : "Labor issue",
+  "initial_contact" : "Gale VM",
+  "language_if_blank_english" : "Spanish",
+  "status" : "Closed"
+}
+, {
+  "date" : "20-Feb-14",
+  "zip" : "10002",
+  "issue" : "Section 8",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Gale",
+  "council_member" : "Mendez",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "3",
+  "status" : "Pending"
+}
+, {
+  "date" : "20-Feb-14",
+  "zip" : "10025",
+  "issue" : "Noise",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "20-Feb-14",
+  "issue" : "Rent Overcharge",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "21-Feb-14",
+  "zip" : "10031",
+  "issue" : "HDFC",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "10-Feb-14",
+  "zip" : "10026",
+  "issue" : "Repairs",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "14-Feb-14",
+  "issue" : "Health Club",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "status" : "Pending"
+}
+, {
+  "date" : "10-Feb-14",
+  "zip" : "10016",
+  "issue" : "Bed Bugs",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "6",
+  "status" : "Closed"
+}
+, {
+  "date" : "10-Feb-14",
+  "zip" : "10128",
+  "issue" : "Public Assistance",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "12-Feb-14",
+  "zip" : "10012",
+  "issue" : "DOB",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Chin",
+  "cb" : "2",
+  "status" : "Pending"
+}
+, {
+  "date" : "12-Feb-14",
+  "zip" : "10032",
+  "issue" : "Library",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Pending"
+}
+, {
+  "date" : "12-Feb-14",
+  "zip" : "10024",
+  "issue" : "Verizon Outage",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Feb-14",
+  "zip" : "10009",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Garodnick",
+  "cb" : "4",
+  "status" : "Closed"
+}
+, {
+  "date" : "12-Feb-14",
+  "zip" : "10025",
+  "issue" : "DOB",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Letter",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "12-Feb-14",
+  "initial_contact" : "Letter",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "12-Feb-14",
+  "zip" : "10027",
+  "issue" : "Various",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Letter",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "11-Feb-14",
+  "zip" : "10023",
+  "issue" : "Repairs",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "10-Feb-14",
+  "issue" : "Landlord",
+  "initial_contact" : "Call",
+  "status" : "Pending"
+}
+, {
+  "date" : "4-Feb-14",
+  "zip" : "10033",
+  "issue" : "MTA",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Letter",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Pending"
+}
+, {
+  "date" : "12-Feb-14",
+  "zip" : "10001",
+  "issue" : "Repairs",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Johnson",
+  "cb" : "3",
+  "status" : "Pending"
+}
+, {
+  "date" : "13-Feb-14",
+  "zip" : "10001",
+  "issue" : "Pedestrian Safety",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Johnson",
+  "cb" : "3",
+  "status" : "Closed"
+}
+, {
+  "date" : "14-Feb-14",
+  "zip" : "10024",
+  "issue" : "DHCR",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "24-Feb-14",
+  "zip" : "10024",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "26-Feb-14",
+  "zip" : "10027",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "26-Feb-14",
+  "zip" : "10037",
+  "issue" : "Housing wait list",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Follow-up"
+}
+, {
+  "date" : "26-Feb-14",
+  "zip" : "10030",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "26-Feb-14",
+  "zip" : "10024",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "26-Feb-14",
+  "zip" : "10025",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "28-Feb-14",
+  "zip" : "10032",
+  "issue" : "Help for friend",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "28-Feb-14",
+  "zip" : "10039",
+  "issue" : "No Heat",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "28-Feb-14",
+  "zip" : "10032",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "17-Feb-14",
+  "issue" : "Overcharge",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "PostCard",
+  "status" : "Closed"
+}
+, {
+  "date" : "18-Feb-14",
+  "zip" : "10016",
+  "issue" : "Loitering",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Letter",
+  "council_member" : "Garodnick",
+  "cb" : "5",
+  "status" : "Pending"
+}
+, {
+  "date" : "21-Feb-14",
+  "issue" : "Metro Card",
+  "initial_contact" : "E-mail",
+  "status" : "Pending"
+}
+, {
+  "date" : "24-Feb-14",
+  "zip" : "11205",
+  "issue" : "Immigration",
+  "city_state" : "BK, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Cumbo",
+  "status" : "Closed"
+}
+, {
+  "date" : "24-Feb-14",
+  "zip" : "10027",
+  "issue" : "Notary class",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "24-Feb-14",
+  "issue" : "Tenant issues",
+  "initial_contact" : "Call"
+}
+, {
+  "date" : "24-Feb-14",
+  "zip" : "10025",
+  "issue" : "Nursing Home",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response needed"
+}
+, {
+  "date" : "24-Feb-14",
+  "zip" : "10001",
+  "issue" : "25th St Project",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "E-mail",
+  "council_member" : "Garodnick",
+  "cb" : "4",
+  "status" : "Response needed"
+}
+, {
+  "date" : "3-Feb-14",
+  "zip" : "10037",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Dickens",
+  "cb" : "11",
+  "status" : "Closed"
+}
+, {
+  "date" : "3-Mar-14",
+  "zip" : "10025",
+  "issue" : "In Shelter",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "26-Feb-14",
+  "issue" : "Lights out @ GW Bridge",
+  "initial_contact" : "E-mail"
+}
+, {
+  "date" : "3-Mar-14",
+  "zip" : "10032",
+  "issue" : "In Shelter",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "4-Mar-14",
+  "zip" : "10033",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "4-Mar-14",
+  "zip" : "10029",
+  "issue" : "One Shot Deal",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "4-Mar-14",
+  "issue" : "Housing",
+  "initial_contact" : "E-mail",
+  "status" : "Pending"
+}
+, {
+  "date" : "4-Mar-14",
+  "zip" : "10029",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "5-Mar-14",
+  "zip" : "10019",
+  "issue" : "SSI",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Mar-14",
+  "zip" : "10454",
+  "issue" : "Homeless",
+  "city_state" : "BX, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Viverito",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Mar-14",
+  "zip" : "10016",
+  "issue" : "Downsizing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "6",
+  "status" : "Pending"
+}
+, {
+  "date" : "5-Mar-14",
+  "zip" : "10009",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "3",
+  "status" : "Pending"
+}
+, {
+  "date" : "6-Mar-14",
+  "zip" : "10026",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "7-Mar-14",
+  "zip" : "10001",
+  "issue" : "Market Rent",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Closed"
+}
+, {
+  "date" : "7-Mar-14",
+  "zip" : "10031",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Closed"
+}
+, {
+  "date" : "7-Mar-14",
+  "zip" : "10023",
+  "issue" : "HEAP",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "3-Mar-14",
+  "zip" : "10030",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "10-Mar-14",
+  "zip" : "10128",
+  "issue" : "Divorce",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Kallos",
+  "cb" : "5",
+  "status" : "Closed"
+}
+, {
+  "date" : "10-Mar-14",
+  "zip" : "10012",
+  "issue" : "Illegal housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Chin",
+  "cb" : "2",
+  "status" : "Response needed"
+}
+, {
+  "date" : "10-Mar-14",
+  "issue" : "Affordable Housing",
+  "initial_contact" : "Call"
+}
+, {
+  "date" : "10-Mar-14",
+  "issue" : "Legal",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "status" : "Pending"
+}
+, {
+  "date" : "10-Mar-14",
+  "zip" : "10037",
+  "issue" : "DHS",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "11",
+  "status" : "Closed"
+}
+, {
+  "date" : "10-Mar-14",
+  "zip" : "10020",
+  "issue" : "Repair",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Garodnick",
+  "cb" : "5",
+  "status" : "Response needed"
+}
+, {
+  "date" : "28-Feb-14",
+  "zip" : "10039",
+  "issue" : "No Heat",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "11-Mar-14",
+  "zip" : "10031",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Closed"
+}
+, {
+  "date" : "11-Mar-14",
+  "zip" : "10029",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Closed"
+}
+, {
+  "date" : "11-Mar-14",
+  "zip" : "10031",
+  "issue" : "SCRIE",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "11-Mar-14",
+  "zip" : "10031",
+  "issue" : "Larger apartment",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "12-Mar-14",
+  "zip" : "10003",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "3",
+  "status" : "Pending"
+}
+, {
+  "date" : "12-Mar-14",
+  "zip" : "10023",
+  "issue" : "Healthcare",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "12-Mar-14",
+  "zip" : "10040",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "12-Mar-14",
+  "zip" : "10035",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "11",
+  "status" : "Closed"
+}
+, {
+  "date" : "10-Mar-14",
+  "zip" : "10467",
+  "issue" : "Assisted living",
+  "city_state" : "BX, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "King",
+  "language_if_blank_english" : "Spanish",
+  "status" : "Closed"
+}
+, {
+  "date" : "11-Mar-14",
+  "issue" : "Construction",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "12-Mar-14",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "12-Mar-14",
+  "zip" : "10024",
+  "issue" : "DOH",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "13-Mar-14",
+  "zip" : "10023",
+  "issue" : "New Landlord",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "13-Mar-14",
+  "zip" : "10025",
+  "issue" : "Referral",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "13-Mar-14",
+  "zip" : "10023",
+  "issue" : "DHCR",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "13-Mar-14",
+  "zip" : "10023",
+  "issue" : "Burglary",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "E-mail",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "13-Mar-14",
+  "zip" : "10025",
+  "issue" : "Primary Residence",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "13-Mar-14",
+  "zip" : "11217",
+  "issue" : "Eviction",
+  "city_state" : "BK, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "E-mail",
+  "council_member" : "Cumbo",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "18-Mar-14",
+  "issue" : "Eviction",
+  "initial_contact" : "Call",
+  "status" : "Pending"
+}
+, {
+  "date" : "18-Mar-14",
+  "zip" : "10026",
+  "issue" : "HDFC",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "19-Mar-14",
+  "zip" : "10033",
+  "issue" : "Noise",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Letter",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "19-Mar-14",
+  "issue" : "Guardian Ad Litem",
+  "initial_contact" : "Gale ",
+  "status" : "Closed"
+}
+, {
+  "date" : "20-Mar-14",
+  "zip" : "10024",
+  "issue" : "Harrassment",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "20-Mar-14",
+  "issue" : "Commercial Space",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "E-mail",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Closed"
+}
+, {
+  "date" : "20-Mar-14",
+  "zip" : "10034",
+  "issue" : "Child custody",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Letter",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "24-Mar-14",
+  "zip" : "10025",
+  "issue" : "Rent Arrears",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "24-Mar-14",
+  "issue" : "Noise",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "24-Mar-14",
+  "zip" : "10024",
+  "issue" : "NYCHA",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "24-Mar-14",
+  "zip" : "10025",
+  "issue" : "Mailbox change",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "24-Mar-14",
+  "zip" : "10024",
+  "issue" : "NYCHA",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "24-Mar-14",
+  "issue" : "Homeless",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "24-Mar-14",
+  "zip" : "10024",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "language_if_blank_english" : "Deaf & Mute",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "26-Mar-14",
+  "zip" : "10030",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "26-Mar-14",
+  "zip" : "10457",
+  "issue" : "Voucher Section 8",
+  "city_state" : "BX, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Torres",
+  "status" : "Closed"
+}
+, {
+  "date" : "26-Mar-14",
+  "zip" : "10024",
+  "issue" : "No Heat / No Hot Water",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "E-mail",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "26-Mar-14",
+  "zip" : "10032",
+  "issue" : "Bed Bugs",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Levine",
+  "cb" : "12",
+  "status" : "Pending"
+}
+, {
+  "date" : "27-Mar-14",
+  "zip" : "10013",
+  "issue" : "Quality of Life",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Chin",
+  "cb" : "2",
+  "status" : "Pending"
+}
+, {
+  "date" : "27-Mar-14",
+  "zip" : "10011",
+  "issue" : "Taxi Surcharge",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Pending"
+}
+, {
+  "date" : "31-Mar-14",
+  "zip" : "10027",
+  "issue" : "Noise",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "31-Mar-14",
+  "zip" : "10027",
+  "issue" : "CB Appointment",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Mar-14",
+  "issue" : "Jury Duty",
+  "initial_contact" : "Walk in",
+  "status" : "Closed"
+}
+, {
+  "date" : "17-Mar-14",
+  "zip" : "10007",
+  "issue" : "Harrassment",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Chin",
+  "cb" : "1",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "20-Mar-14",
+  "zip" : "10025",
+  "issue" : "Parking",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "26-Mar-14",
+  "issue" : "Parking Cards",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "E-mail",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "26-Mar-14",
+  "zip" : "10003",
+  "issue" : "Cell Phone",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Mendez",
+  "cb" : "3",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "28-Mar-14",
+  "issue" : "Letter of support",
+  "initial_contact" : "E-mail"
+}
+, {
+  "date" : "28-Mar-14",
+  "issue" : "Illegal dirtbike",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "E-mail",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "28-Mar-14",
+  "issue" : "Construction",
+  "initial_contact" : "E-mail"
+}
+, {
+  "date" : "28-Mar-14",
+  "zip" : "10023",
+  "issue" : "Noise",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "20-Mar-14",
+  "zip" : "10023",
+  "issue" : "Rent Adjustment",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "1-Apr-14",
+  "zip" : "10027",
+  "issue" : "Downsizing",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "1-Apr-14",
+  "zip" : "10031",
+  "issue" : "Housing",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "1-Apr-14",
+  "zip" : "10031",
+  "issue" : "Rental Arrears",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "1-Apr-14",
+  "zip" : "10009",
+  "issue" : "SCRIE",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "2",
+  "status" : "Closed"
+}
+, {
+  "date" : "1-Apr-14",
+  "zip" : "10025",
+  "issue" : "SCRIE",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "1-Apr-14",
+  "zip" : "10030",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "2-Apr-14",
+  "zip" : "10025",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "3-Apr-14",
+  "zip" : "10023",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "2-Apr-14",
+  "zip" : "10024",
+  "issue" : "Vision Zero",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "2-Apr-14",
+  "zip" : "10454",
+  "issue" : "Shelter",
+  "city_state" : "BX, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Viverito",
+  "status" : "Closed"
+}
+, {
+  "date" : "2-Apr-14",
+  "zip" : "10023",
+  "issue" : "Divorce",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "3-Apr-14",
+  "issue" : "Homeless",
+  "initial_contact" : "Walk in"
+}
+, {
+  "date" : "3-Apr-14",
+  "zip" : "10027",
+  "issue" : "DHS",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "21-Apr-14",
+  "zip" : "10019",
+  "issue" : "Repairs",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Garodnick",
+  "cb" : "5",
+  "status" : "Pending"
+}
+, {
+  "date" : "7-Apr-14",
+  "zip" : "10030",
+  "issue" : "No Heat / No Hot Water",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "7-Apr-14",
+  "zip" : "10009",
+  "issue" : "Primary Residence",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "3",
+  "status" : "Pending"
+}
+, {
+  "date" : "7-Apr-14",
+  "zip" : "11201",
+  "issue" : "Primary Residence",
+  "city_state" : "BK, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Williams",
+  "status" : "Pending"
+}
+, {
+  "date" : "7-Apr-14",
+  "zip" : "10031",
+  "issue" : "HDFC",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "7-Apr-14",
+  "zip" : "10031",
+  "issue" : "Larger apartment",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "8-Apr-14",
+  "zip" : "10024",
+  "issue" : "Rats",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "8-Apr-14",
+  "zip" : "10024",
+  "issue" : "DOH",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "8-Apr-14",
+  "zip" : "10039",
+  "issue" : "Former HDFC",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "8-Apr-14",
+  "zip" : "10039",
+  "issue" : "Former HDFC",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "8-Apr-14",
+  "zip" : "10027",
+  "issue" : "Eviction",
+  "city_state" : "NY. NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "9-Apr-14",
+  "zip" : "10023",
+  "issue" : "J51",
+  "city_state" : "NY. NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "11-Apr-14",
+  "zip" : "10016",
+  "issue" : "Downsizing",
+  "city_state" : "NY. NY",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "6",
+  "status" : "Pending"
+}
+, {
+  "date" : "11-Apr-14",
+  "zip" : "10024",
+  "issue" : "Commercial Rent",
+  "city_state" : "NY. NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "11-Apr-14",
+  "zip" : "10032",
+  "issue" : "Education",
+  "city_state" : "NY. NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "12",
+  "status" : "Pending"
+}
+, {
+  "date" : "11-Apr-14",
+  "issue" : "Elder Abuse",
+  "initial_contact" : "Call",
+  "status" : "Pending"
+}
+, {
+  "date" : "8-Apr-14",
+  "zip" : "10021",
+  "issue" : "Mental Health",
+  "city_state" : "NY. NY",
+  "initial_contact" : "Call",
+  "council_member" : "Kallos",
+  "cb" : "8",
+  "status" : "Pending"
+}
+, {
+  "date" : "14-Apr-14",
+  "zip" : "10003",
+  "issue" : "Health Exchange",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "6",
+  "status" : "Pending"
+}
+, {
+  "date" : "15-Apr-14",
+  "zip" : "10032",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "15-Apr-14",
+  "zip" : "10032",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "12",
+  "status" : "Follow up"
+}
+, {
+  "date" : "18-Apr-14",
+  "zip" : "10024",
+  "issue" : "Elevator broken",
+  "city_state" : "NY, NY",
+  "initial_contact" : "GAB",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "17-Apr-14",
+  "zip" : "10036",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Closed"
+}
+, {
+  "date" : "1-Apr-14",
+  "zip" : "10031",
+  "issue" : "Flooding",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Response needed"
+}
+, {
+  "date" : "2-Apr-14",
+  "zip" : "10027",
+  "issue" : "Noise",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "E-mail",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Response needed"
+}
+, {
+  "date" : "8-Apr-14",
+  "zip" : "10025",
+  "issue" : "ACS",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response needed"
+}
+, {
+  "date" : "8-Apr-14",
+  "zip" : "10023",
+  "issue" : "DOE",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response needed"
+}
+, {
+  "date" : "9-Apr-14",
+  "issue" : "MTA",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "E-mail",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response needed"
+}
+, {
+  "date" : "10-Apr-14",
+  "zip" : "10024",
+  "issue" : "DOT",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response needed"
+}
+, {
+  "date" : "21-Apr-14",
+  "zip" : "10025",
+  "issue" : "DHS",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "Response needed"
+}
+, {
+  "date" : "21-Apr-14",
+  "zip" : "10031",
+  "issue" : "DHS",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Response needed"
+}
+, {
+  "date" : "18-Apr-14",
+  "issue" : "Housing",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "21-Apr-14",
+  "zip" : "10040",
+  "issue" : "SCRIE",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "21-Apr-14",
+  "zip" : "10040",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Response needed"
+}
+, {
+  "date" : "21-Apr-14",
+  "zip" : "10024",
+  "issue" : "Downsizing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response needed"
+}
+, {
+  "date" : "21-Apr-14",
+  "zip" : "10025",
+  "issue" : "Helicopter",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "21-Apr-14",
+  "zip" : "10032",
+  "issue" : "Education",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "12",
+  "status" : "Pending"
+}
+, {
+  "date" : "22-Apr-14",
+  "zip" : "10036",
+  "issue" : "Nycha Section 8",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "E-mail",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Response needed"
+}
+, {
+  "date" : "23-Apr-14",
+  "zip" : "10027",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Dickens",
+  "cb" : "9",
+  "status" : "Closed"
+}
+, {
+  "date" : "23-Apr-14",
+  "zip" : "11230",
+  "issue" : "Housing",
+  "city_state" : "BK, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Greenfield",
+  "status" : "Closed"
+}
+, {
+  "date" : "22-Apr-14",
+  "zip" : "10024",
+  "issue" : "STAR",
+  "city_state" : "NY,NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "E-mail",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response needed"
+}
+, {
+  "date" : "22-Apr-14",
+  "zip" : "10030",
+  "issue" : "DHS",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "22-Apr-14",
+  "zip" : "10460",
+  "issue" : "DHS",
+  "city_state" : "BX, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Arroyo",
+  "status" : "Pending"
+}
+, {
+  "date" : "22-Apr-14",
+  "zip" : "10026",
+  "issue" : "DHS",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "23-Apr-14",
+  "zip" : "10001",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Response needed"
+}
+, {
+  "date" : "23-Apr-14",
+  "zip" : "10026",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "24-Apr-14",
+  "zip" : "10039",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "24-Apr-14",
+  "zip" : "10036",
+  "issue" : "DHS",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Response needed"
+}
+, {
+  "date" : "24-Apr-14",
+  "zip" : "10001",
+  "issue" : "DOT",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Response needed"
+}
+, {
+  "date" : "24-Apr-14",
+  "zip" : "10023",
+  "issue" : "Contact",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response needed"
+}
+, {
+  "date" : "24-Apr-14",
+  "zip" : "10028",
+  "issue" : "Verizon",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Kallos",
+  "cb" : "8",
+  "status" : "Response needed"
+}
+, {
+  "issue" : "MTA",
+  "initial_contact" : "Call"
+}
+, {
+  "date" : "29-Apr-14",
+  "zip" : "10031",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "28-Apr-14",
+  "zip" : "10036",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Pending"
+}
+, {
+  "date" : "29-Apr-14",
+  "zip" : "10025",
+  "issue" : "MCI ",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "29-Apr-14",
+  "zip" : "10025",
+  "issue" : "MCI ",
+  "city_state" : "NY, NY",
+  "initial_contact" : "E-mail",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "29-Apr-14",
+  "zip" : "10024",
+  "issue" : "No Heat  ",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "29-Apr-14",
+  "zip" : "10033",
+  "issue" : "Managed Long Term Care",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rodriguez",
+  "cb" : "12"
+}
+, {
+  "date" : "29-Apr-14",
+  "zip" : "10025",
+  "issue" : "SCRIE",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "1-May-14",
+  "zip" : "10034",
+  "issue" : "Housing Repairs",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rodriguez",
+  "cb" : "12"
+}
+, {
+  "date" : "5-May-14",
+  "zip" : "10024",
+  "issue" : "Downsizing",
+  "city_state" : "NY.NY",
+  "initial_contact" : "Letter",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "6-May-14",
+  "zip" : "10025",
+  "issue" : "SCRIE",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "6-May-14",
+  "zip" : "10031",
+  "issue" : "Repairs-HDFC",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Response needed"
+}
+, {
+  "date" : "6-May-14",
+  "zip" : "10023",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7"
+}
+, {
+  "date" : "7-May-14",
+  "issue" : "Rent Control ",
+  "initial_contact" : "Call"
+}
+, {
+  "date" : "8-May-14",
+  "zip" : "10027",
+  "issue" : "NYCHA Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "8-May-14",
+  "zip" : "10029",
+  "issue" : "NYCHA Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "8-May-14",
+  "zip" : "10016",
+  "issue" : "New Building Owners -evicting",
+  "city_state" : "NY.NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "6",
+  "status" : "Response needed."
+}
+, {
+  "date" : "16-May-14",
+  "zip" : "10016",
+  "issue" : "New Building Owners -evicting",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "6",
+  "status" : "Response needed."
+}
+, {
+  "date" : "8-May-14",
+  "zip" : "10016",
+  "issue" : "New Building Owners -evicting",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "6",
+  "status" : "Response needed."
+}
+, {
+  "date" : "22-May-14",
+  "zip" : "10016",
+  "issue" : "New Building Owners -evicting",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "6"
+}
+, {
+  "date" : "22-May-14",
+  "zip" : "10016",
+  "issue" : "New Building Owners -evicting",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "6"
+}
+, {
+  "date" : "8-May-14",
+  "zip" : "10019",
+  "issue" : "DEP-Restaurant issues",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Johnson",
+  "cb" : "5"
+}
+, {
+  "date" : "8-May-14",
+  "zip" : "10016",
+  "issue" : "New Building Owners -evicting",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "6"
+}
+, {
+  "date" : "8-May-14",
+  "zip" : "100",
+  "issue" : "Housing Lottery",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Email",
+  "council_member" : "Johnson",
+  "cb" : "5",
+  "status" : "Pending"
+}
+, {
+  "date" : "8-May-14",
+  "zip" : "10013",
+  "issue" : "HPD M/L Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Chin",
+  "cb" : "1"
+}
+, {
+  "date" : "9-May-14",
+  "zip" : "10025",
+  "issue" : "NYCHA Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "9-May-14",
+  "zip" : "10035",
+  "issue" : "FDNY",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Response needed."
+}
+, {
+  "date" : "8-May-14",
+  "zip" : "10002",
+  "issue" : "MTA",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Chin",
+  "cb" : "3",
+  "status" : "Response needed."
+}
+, {
+  "date" : "7-May-14",
+  "zip" : "10004",
+  "issue" : "DCA",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Letter",
+  "council_member" : "Richards",
+  "status" : "Closed"
+}
+, {
+  "date" : "6-May-14",
+  "zip" : "10021",
+  "issue" : "DEP",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Kallos",
+  "cb" : "8",
+  "status" : "Response needed."
+}
+, {
+  "date" : "2-May-14",
+  "zip" : "10001",
+  "issue" : "DEP",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Response needed."
+}
+, {
+  "date" : "1-May-14",
+  "zip" : "10128",
+  "issue" : "DEP",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Kallos",
+  "cb" : "8",
+  "status" : "Response needed."
+}
+, {
+  "date" : "1-May-14",
+  "zip" : "10001",
+  "issue" : "DEP",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Email",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Response needed."
+}
+, {
+  "date" : "8-May-14",
+  "zip" : "11222",
+  "issue" : "Temporary Displays",
+  "city_state" : "BK,NY",
+  "initial_contact" : "Email",
+  "council_member" : "Levin",
+  "status" : "Pending"
+}
+, {
+  "date" : "9-May-14",
+  "zip" : "10019",
+  "issue" : "Downsizing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Email",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Pending"
+}
+, {
+  "date" : "13-May-14",
+  "zip" : "10031",
+  "issue" : "Employment termination and Housing eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "9",
+  "status" : "Referred to "
+}
+, {
+  "date" : "13-May-14",
+  "zip" : "10026",
+  "issue" : "Succession",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Closed"
+}
+, {
+  "date" : "12-May-14",
+  "zip" : "10002",
+  "issue" : "NYCHA Eviction",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Mendez",
+  "cb" : "3",
+  "status" : "Response needed."
+}
+, {
+  "date" : "13-May-14",
+  "zip" : "10036",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Email",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Pending"
+}
+, {
+  "date" : "14-May-14",
+  "zip" : "10011",
+  "issue" : "NYCHA overcrowded",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Response needed."
+}
+, {
+  "date" : "14-May-14",
+  "zip" : "10001",
+  "issue" : "Privately owned public space",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Chin",
+  "cb" : "1",
+  "status" : "Pending"
+}
+, {
+  "date" : "15-May-14",
+  "zip" : "10039",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "No",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "15-May-14",
+  "zip" : "10024",
+  "issue" : "Deposit",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response needed."
+}
+, {
+  "date" : "16-May-14",
+  "zip" : "10036",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Email",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "16-May-14",
+  "zip" : "10030",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Response needed."
+}
+, {
+  "date" : "16-May-14",
+  "issue" : "Immigration",
+  "letter_drafted" : "No",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "19-May-14",
+  "zip" : "10032",
+  "issue" : "Historic District",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Email",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "19-May-14",
+  "zip" : "10019",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response needed."
+}
+, {
+  "date" : "19-May-14",
+  "zip" : "10023",
+  "issue" : "Elections",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Email",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response needed."
+}
+, {
+  "date" : "19-May-14",
+  "zip" : "10023",
+  "issue" : "Elections",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Email",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response needed."
+}
+, {
+  "date" : "21-May-14",
+  "zip" : "10027",
+  "issue" : "Section 8 Arrears",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "No",
+  "initial_contact" : "Walk in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "21-May-14",
+  "zip" : "10010",
+  "issue" : "Downsizing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "No",
+  "initial_contact" : "Call",
+  "council_member" : "Garodnick",
+  "cb" : "6",
+  "status" : "Pending"
+}
+, {
+  "date" : "21-May-14",
+  "issue" : "Section 8 wrongful denial of apartment",
+  "initial_contact" : "Call",
+  "status" : "Pending"
+}
+, {
+  "date" : "21-May-14",
+  "zip" : "10035",
+  "issue" : "Section 8 Harrassment",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "21-May-14",
+  "zip" : "10031",
+  "issue" : "Repairs-HDFC",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "22-May-14",
+  "zip" : "10075",
+  "issue" : "Cooperative",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "No",
+  "initial_contact" : "Call",
+  "council_member" : "Kallos",
+  "cb" : "8",
+  "status" : "Closed"
+}
+, {
+  "date" : "25-May-14",
+  "zip" : "10010",
+  "issue" : "Downsizing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Garodnick",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "6",
+  "status" : "Pending"
+}
+, {
+  "date" : "25-May-14",
+  "zip" : "10454",
+  "issue" : "Family court",
+  "city_state" : "BX, NY",
+  "letter_drafted" : "No",
+  "initial_contact" : "Call",
+  "council_member" : "Viverito",
+  "status" : "Closed"
+}
+, {
+  "date" : "21-May-14",
+  "zip" : "10019",
+  "issue" : "Downsizing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "No",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "23-May-14",
+  "zip" : "10029",
+  "issue" : "NYCHA repair",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Viverito",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "11",
+  "status" : "Closed"
+}
+, {
+  "date" : "23-May-14",
+  "zip" : "10031",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "9"
+}
+, {
+  "date" : "23-May-14",
+  "issue" : "Downsizing",
+  "initial_contact" : "Call"
+}
+, {
+  "date" : "27-May-14",
+  "zip" : "10031",
+  "issue" : "De-regulated",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "9",
+  "status" : "Closed"
+}
+, {
+  "date" : "27-May-14",
+  "zip" : "10032",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "12"
+}
+, {
+  "date" : "27-May-14",
+  "zip" : "10032",
+  "issue" : "Criminal ",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "12"
+}
+, {
+  "date" : "27-May-14",
+  "zip" : "10032",
+  "issue" : "Senior abuse",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rodriguez",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "14-May-14",
+  "zip" : "10031",
+  "issue" : "Excessive rent increase ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Walk-in",
+  "council_member" : "Levine",
+  "cb" : "9"
+}
+, {
+  "date" : "14-May-14",
+  "zip" : "100259",
+  "issue" : "Excessive rent increase ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "15-May-14",
+  "zip" : "10011",
+  "issue" : "Issues with neighbor",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Mendez",
+  "cb" : "2"
+}
+, {
+  "date" : "19-May-14",
+  "zip" : "10039",
+  "issue" : "Noise complaint ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10"
+}
+, {
+  "date" : "23-May-14",
+  "zip" : "10033",
+  "issue" : "Rent increase ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Walk-in",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "22-May-14",
+  "zip" : "10037",
+  "issue" : "One Shot Deal",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Dickens",
+  "cb" : "9"
+}
+, {
+  "date" : "26-May-14",
+  "zip" : "10032",
+  "issue" : "Time Warner overcharge",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rodriguez",
+  "cb" : "12"
+}
+, {
+  "date" : "23-May-14",
+  "zip" : "11225",
+  "issue" : "Section 8 issue",
+  "city_state" : "BK,NY",
+  "initial_contact" : "walk in"
+}
+, {
+  "date" : "15-May-14",
+  "zip" : "10023",
+  "issue" : "MTA complaint",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Rosenthal",
+  "cb" : "7"
+}
+, {
+  "date" : "16-May-14",
+  "zip" : "10454",
+  "issue" : "Bronx referal-HRA",
+  "city_state" : "BX, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Kallos",
+  "cb" : "8"
+}
+, {
+  "date" : "19-May-14",
+  "zip" : "10025",
+  "issue" : "Housing packet information",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7"
+}
+, {
+  "date" : "22-Apr-14",
+  "zip" : "10026",
+  "issue" : "stolen property in the shelter systme ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call ",
+  "council_member" : "Dickens",
+  "cb" : "10"
+}
+, {
+  "date" : "22-Apr-14",
+  "zip" : "10036",
+  "issue" : "laptop was stolen ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call ",
+  "council_member" : "Johnson",
+  "cb" : "4"
+}
+, {
+  "date" : "22-Apr-14",
+  "zip" : "10026",
+  "issue" : "transfer from the shelter and HRA ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call ",
+  "council_member" : "Dickens",
+  "cb" : "10"
+}
+, {
+  "date" : "22-Apr-14",
+  "zip" : "10036",
+  "issue" : "ACS/PSI housing ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call ",
+  "council_member" : "Johnson",
+  "cb" : "4"
+}
+, {
+  "date" : "22-Apr-14",
+  "zip" : "10025",
+  "issue" : "Shelter being asked to pay rent. ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call ",
+  "council_member" : "Rosenthal",
+  "cb" : "7"
+}
+, {
+  "date" : "22-Apr-14",
+  "issue" : "HRA ",
+  "initial_contact" : "Call "
+}
+, {
+  "date" : "22-Apr-14",
+  "zip" : "10037",
+  "issue" : "NYCHA ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call ",
+  "council_member" : "Dickens",
+  "cb" : "11"
+}
+, {
+  "date" : "25-Apr-14",
+  "zip" : "10030",
+  "issue" : "HPD emergency shelter ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call ",
+  "council_member" : "Dickens",
+  "cb" : "10"
+}
+, {
+  "date" : "1-May-14",
+  "zip" : "10029",
+  "issue" : "NYCHA ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call ",
+  "council_member" : "Viverito",
+  "cb" : "11"
+}
+, {
+  "date" : "30-Apr-14",
+  "zip" : "10029",
+  "issue" : "NYCHA ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call ",
+  "council_member" : "Viverito",
+  "cb" : "11"
+}
+, {
+  "date" : "28-Apr-14",
+  "zip" : "10023",
+  "issue" : "SNAP ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call ",
+  "council_member" : "Rosenthal",
+  "cb" : "7"
+}
+, {
+  "date" : "2-May-14",
+  "zip" : "10027",
+  "issue" : "DOH ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call ",
+  "council_member" : "Levine",
+  "cb" : "9"
+}
+, {
+  "date" : "14-Apr-14",
+  "zip" : "10456",
+  "issue" : "CB 4 ISSUE ",
+  "city_state" : "BX, NY",
+  "initial_contact" : "Call ",
+  "council_member" : "Gibson"
+}
+, {
+  "date" : "9-May-14",
+  "zip" : "10040",
+  "issue" : "NYCHA ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call ",
+  "council_member" : "Rodriguez",
+  "cb" : "12"
+}
+, {
+  "date" : "5-May-14",
+  "zip" : "10030",
+  "issue" : "Salvation Army is selling 720 West end Avenue ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call ",
+  "council_member" : "Rosenthal",
+  "cb" : "7"
+}
+, {
+  "date" : "29-Apr-14",
+  "zip" : "10024",
+  "issue" : "DHS ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call ",
+  "council_member" : "Rosenthal",
+  "cb" : "7"
+}
+, {
+  "date" : "28-Apr-14",
+  "zip" : "10029",
+  "issue" : "SCRIE ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call ",
+  "council_member" : "Viverito",
+  "cb" : "11"
+}
+, {
+  "date" : "5-May-14",
+  "zip" : "10030",
+  "issue" : "116th St. Explosion ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "walk-in ",
+  "council_member" : "Dickens",
+  "cb" : "10"
+}
+, {
+  "date" : "12-May-14",
+  "zip" : "10027",
+  "issue" : "repairs ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "walk-in ",
+  "council_member" : "Dickens",
+  "cb" : "10"
+}
+, {
+  "date" : "7-May-14",
+  "zip" : "10035",
+  "issue" : "SS ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "walk-in ",
+  "council_member" : "Viverito",
+  "cb" : "11"
+}
+, {
+  "date" : "12-May-14",
+  "zip" : "10456",
+  "issue" : "No Gas  ",
+  "city_state" : "BX, NY",
+  "initial_contact" : "Walk-in ",
+  "council_member" : "Viverito",
+  "cb" : "11"
+}
+, {
+  "date" : "19-May-14",
+  "zip" : "10027",
+  "issue" : "NYCHA Transfer ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Dickens",
+  "cb" : "10"
+}
+, {
+  "date" : "22-May-14",
+  "zip" : "10025",
+  "issue" : "Request for day programs ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call ",
+  "council_member" : "Levine",
+  "cb" : "7"
+}
+, {
+  "date" : "22-May-14",
+  "zip" : "10458",
+  "issue" : "Housing ",
+  "city_state" : "BX, NY",
+  "initial_contact" : "call ",
+  "council_member" : "Torres"
+}
+, {
+  "date" : "23-May-14",
+  "zip" : "10032",
+  "issue" : "Housing/repairs ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Walk-in ",
+  "council_member" : "Dickens",
+  "cb" : "10"
+}
+, {
+  "date" : "23-May-14",
+  "zip" : "10044",
+  "issue" : "Senior Citizen exemption program for homeowners ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call ",
+  "council_member" : "Viverito",
+  "cb" : "11"
+}
+, {
+  "date" : "20-May-14",
+  "zip" : "10029",
+  "issue" : "seeking employment and section 8 cap ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call ",
+  "council_member" : "Viverito",
+  "cb" : "11"
+}
+, {
+  "date" : "15-May-14",
+  "zip" : "10031",
+  "issue" : "DOT",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call ",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Closed"
+}
+, {
+  "date" : "15-May-14",
+  "zip" : "10024",
+  "issue" : "DEP",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "16-May-14",
+  "zip" : "10027",
+  "issue" : "INS",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Closed"
+}
+, {
+  "date" : "23-May-14",
+  "zip" : "10021",
+  "issue" : "NYPD",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Kallos",
+  "cb" : "8",
+  "status" : "Pending"
+}
+, {
+  "date" : "28-May-14",
+  "zip" : "10023",
+  "issue" : "DMV",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "28-May-14",
+  "issue" : "Sanitation",
+  "initial_contact" : "call",
+  "status" : "Pending"
+}
+, {
+  "date" : "28-May-14",
+  "zip" : "10024",
+  "issue" : "DOB",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "28-May-14",
+  "zip" : "10023",
+  "issue" : "Sanitation",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "28-May-14",
+  "zip" : "11614",
+  "issue" : "DCA",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Ulrich",
+  "status" : "Pending"
+}
+, {
+  "date" : "28-May-14",
+  "zip" : "10023",
+  "issue" : "HEALTH",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "28-May-14",
+  "zip" : "10037",
+  "issue" : "Immigration",
+  "city_state" : "NY,NY",
+  "initial_contact" : "walk-in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "30-May-14",
+  "zip" : "10025",
+  "issue" : "HCR",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "3-Jun-14",
+  "zip" : "10002",
+  "issue" : "DOT",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Chin",
+  "cb" : "3",
+  "status" : "Pending"
+}
+, {
+  "date" : "9-Jun-14",
+  "zip" : "10128",
+  "issue" : "Immigration",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Kallos",
+  "cb" : "8",
+  "status" : "Closed"
+}
+, {
+  "date" : "9-Jun-14",
+  "zip" : "10013",
+  "issue" : "Finance",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Chin",
+  "cb" : "1",
+  "status" : "On hold"
+}
+, {
+  "date" : "9-Jun-14",
+  "zip" : "10031",
+  "issue" : "PARKS",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending+"
+}
+, {
+  "date" : "9-Jun-14",
+  "zip" : "10022",
+  "issue" : "DEP",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Garodnick",
+  "cb" : "6",
+  "status" : "Pending"
+}
+, {
+  "date" : "9-Jun-14",
+  "zip" : "10018",
+  "issue" : "DEP",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "9-Jun-14",
+  "zip" : "10022",
+  "issue" : "NYCHA",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "9-Jun-14",
+  "zip" : "10075",
+  "issue" : "DOT",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call",
+  "council_member" : "Kallos",
+  "cb" : "8",
+  "status" : "Pending"
+}
+, {
+  "date" : "10-Jun-14",
+  "zip" : "10023",
+  "issue" : "DOT",
+  "city_state" : "NY,NY",
+  "initial_contact" : "e-mail",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "2-Jun-14",
+  "issue" : "Homeless",
+  "initial_contact" : "walkin",
+  "status" : "Closed"
+}
+, {
+  "date" : "3-Jun-14",
+  "zip" : "10027",
+  "issue" : "NYCHA rent discrepancy",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Kallos",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "3-Jun-14",
+  "zip" : "10027",
+  "issue" : "Landlord ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "3-Jun-14",
+  "zip" : "10016",
+  "issue" : "Senior membershit",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "6",
+  "status" : "Pending"
+}
+, {
+  "date" : "3-Jun-14",
+  "zip" : "10019",
+  "issue" : "Long Term Care",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Email",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Pending"
+}
+, {
+  "date" : "4-Jun-14",
+  "zip" : "10030",
+  "issue" : "Housing",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "4-Jun-14",
+  "zip" : "10035",
+  "issue" : "NYCHA/Drugs",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "5-Jun-14",
+  "issue" : "Immigration",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Jun-14",
+  "zip" : "10475",
+  "issue" : "Housing issues",
+  "city_state" : "BX, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Torres",
+  "status" : "Pending"
+}
+, {
+  "date" : "5-Jun-14",
+  "zip" : "10023",
+  "issue" : "Paving",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "5-Jun-14",
+  "issue" : "Health Care Svs",
+  "initial_contact" : "Email",
+  "status" : "Pending"
+}
+, {
+  "date" : "3-Jun-14",
+  "zip" : "10044",
+  "issue" : "Mitchell Lama",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Email",
+  "council_member" : "Kallos",
+  "cb" : "8",
+  "status" : "Pending"
+}
+, {
+  "date" : "9-Jun-14",
+  "zip" : "10037",
+  "issue" : "Hot water",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "9-Jun-17",
+  "zip" : "10027",
+  "issue" : "DV",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Walk in",
+  "status" : "Pending"
+}
+, {
+  "date" : "10-Jun-14",
+  "zip" : "10032",
+  "issue" : "Hra/Housing",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "10-Jun-14",
+  "zip" : "10035",
+  "issue" : "transfer ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "12-Jun-14",
+  "issue" : "HRA. Hopitals/police ",
+  "initial_contact" : "Walk in",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "11-Jun-14",
+  "zip" : "10002",
+  "issue" : "NYCHA/ lease ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Chin",
+  "cb" : "3",
+  "status" : "Pending"
+}
+, {
+  "date" : "13-Jun-14",
+  "zip" : "10032",
+  "issue" : "Request for housing information ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "18-Jun-14",
+  "zip" : "10013",
+  "issue" : "SCRIE",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Chin",
+  "cb" : "1",
+  "status" : "Pending"
+}
+, {
+  "date" : "18-Jun-14",
+  "zip" : "10027",
+  "issue" : "NYCHA/MOLD ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call ",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "17-Jun-14",
+  "zip" : "10462",
+  "issue" : "DHCR help",
+  "city_state" : "BX, NY",
+  "initial_contact" : "Walk-in ",
+  "council_member" : "Vacca",
+  "status" : "Closed"
+}
+, {
+  "date" : "17-Jun-14",
+  "issue" : "Housing",
+  "initial_contact" : "call ",
+  "status" : "Closed"
+}
+, {
+  "date" : "16-Jun-14",
+  "issue" : "Water seepage",
+  "initial_contact" : "Email ",
+  "status" : "Pending"
+}
+, {
+  "date" : "19-Jun-14",
+  "zip" : "10025",
+  "issue" : "Housing ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "walk-in ",
+  "council_member" : "Rosenthal",
+  "cb" : "7"
+}
+, {
+  "date" : "20-Jun-14",
+  "zip" : "10031",
+  "issue" : "u-dap ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call ",
+  "council_member" : "Levine",
+  "cb" : "7"
+}
+, {
+  "date" : "19-Jun-14",
+  "zip" : "10010",
+  "issue" : "Construction",
+  "city_state" : "NY,NY",
+  "initial_contact" : "call ",
+  "council_member" : "Mendez",
+  "cb" : "5",
+  "status" : "Pending"
+}
+, {
+  "date" : "6-May-14",
+  "zip" : "10040",
+  "issue" : "SNAP ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Pending"
+}
+, {
+  "date" : "29-May-14",
+  "zip" : "10026",
+  "issue" : "Broker fee",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "29-May-14",
+  "zip" : "11233",
+  "issue" : "DHS Voucher",
+  "city_state" : "BK, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Espinal",
+  "status" : "Pending"
+}
+, {
+  "date" : "28-May-14",
+  "zip" : "10025",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "Response needed."
+}
+, {
+  "date" : "28-May-14",
+  "zip" : "10009",
+  "issue" : "HPD/TIL",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Email",
+  "council_member" : "Mendez",
+  "cb" : "3",
+  "status" : "Response needed."
+}
+, {
+  "issue" : "Housing",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "issue" : "Housing",
+  "initial_contact" : "Call",
+  "language_if_blank_english" : "Spanish",
+  "status" : "Closed"
+}
+, {
+  "date" : "29-May-14",
+  "zip" : "10042",
+  "issue" : "Pinnacle claim",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "No",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rodriguez",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "29-May-14",
+  "zip" : "10016",
+  "issue" : "Painting Law",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "No",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "6",
+  "status" : "Closed"
+}
+, {
+  "date" : "29-May-14",
+  "zip" : "10032",
+  "issue" : "Lease",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "No",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "30-May-14",
+  "zip" : "10031",
+  "issue" : "One Shot Deal",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "30-May-14",
+  "zip" : "10037",
+  "issue" : "eviction prevention",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Dickens",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "10",
+  "status" : "Closed"
+}
+, {
+  "date" : "30-May-14",
+  "zip" : "10040",
+  "issue" : "Eviction Prevention ",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "No",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rodriguez",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "12",
+  "status" : "Pending"
+}
+, {
+  "date" : "30-May-14",
+  "issue" : "Certificate of Residence",
+  "letter_drafted" : "No",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "30-May-14",
+  "zip" : "10030",
+  "issue" : "NYCHA Application",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Dickens",
+  "cb" : "9",
+  "status" : "Response needed."
+}
+, {
+  "date" : "2-Jun-14",
+  "zip" : "10029",
+  "issue" : "HPD Recertification",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "2-Jun-14",
+  "zip" : "10023",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "No",
+  "initial_contact" : "Email",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "2-Jun-14",
+  "zip" : "11233",
+  "issue" : "Housing",
+  "city_state" : "BK, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Cornegy",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "2-Jun-14",
+  "zip" : "10030",
+  "issue" : "Needs Housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "3-Jun-14",
+  "zip" : "10009",
+  "issue" : "Rats ",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Mendez",
+  "cb" : "3",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "3-Jun-14",
+  "zip" : "10010",
+  "issue" : "Downsizing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Email",
+  "council_member" : "Gardonick",
+  "language_if_blank_english" : "Chinese",
+  "cb" : "6",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "3-Jun-14",
+  "initial_contact" : "Call",
+  "language_if_blank_english" : "Spanish",
+  "status" : "Closed"
+}
+, {
+  "date" : "3-Jun-14",
+  "zip" : "10002",
+  "issue" : "Downsizing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Chin",
+  "language_if_blank_english" : "Chinese",
+  "cb" : "3",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "3-Jun-14",
+  "zip" : "10013",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Email",
+  "council_member" : "Chin",
+  "cb" : "2",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "4-Jun-14",
+  "zip" : "10040",
+  "issue" : "Needs Senior Housing",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rodriguez",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Jun-14",
+  "zip" : "10019",
+  "issue" : "NYCHA Repair",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rosenthal",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "7",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "5-Jun-14",
+  "zip" : "10019",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rosenthal",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "7",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "5-Jun-14",
+  "zip" : "10469",
+  "issue" : "Education",
+  "city_state" : "BX, NY",
+  "letter_drafted" : "No",
+  "initial_contact" : "Call",
+  "council_member" : "Vacca",
+  "status" : "Closed"
+}
+, {
+  "date" : "6-Jun-14",
+  "zip" : "10025",
+  "issue" : "Housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "9-Jun-14",
+  "zip" : "10027",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "9-Jun-14",
+  "zip" : "10025",
+  "issue" : "DHCR lease renewal",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "response needed"
+}
+, {
+  "date" : "10-Jun-14",
+  "zip" : "10001",
+  "issue" : "Repairs/NYCHA",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Email",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Pending"
+}
+, {
+  "date" : "11-Jun-14",
+  "zip" : "10031",
+  "issue" : "NYCHA Transfer",
+  "city_state" : "NY., NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "11",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "11-Jun-14",
+  "zip" : "10025",
+  "issue" : "Bedbugs",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7"
+}
+, {
+  "date" : "12-Jun-14",
+  "zip" : "10039",
+  "issue" : "GAL",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "12-Jun-14",
+  "zip" : "10025",
+  "issue" : "Construction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "13-Jun-14",
+  "zip" : "10025",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "13-Jun-14",
+  "zip" : "10032",
+  "issue" : "Section 8",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "language_if_blank_english" : "Spanish",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "13-Jun-14",
+  "zip" : "10023",
+  "issue" : "Scabies",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "13-Jun-14",
+  "zip" : "10025",
+  "issue" : "Preferential Rent",
+  "city_state" : "NY,NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Letter",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "13-Jun-14",
+  "zip" : "10031",
+  "issue" : "Housing",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "13-Jun-14",
+  "zip" : "10025",
+  "issue" : "Housing",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "16-Jun-14",
+  "issue" : "DV",
+  "initial_contact" : "Walk in"
+}
+, {
+  "date" : "16-Jun-14",
+  "zip" : "10027",
+  "issue" : "Housing",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Email",
+  "council_member" : "Levine",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "17-Jun-14",
+  "zip" : "10013",
+  "issue" : "Downsizing",
+  "city_state" : "NY,NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Chin",
+  "cb" : "1",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "17-Jun-14",
+  "zip" : "10037",
+  "issue" : "Housing",
+  "city_state" : "NY,NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Referral letter"
+}
+, {
+  "date" : "17-Jun-14",
+  "zip" : "10027",
+  "issue" : "Transfer NYCHA ",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "18-Jun-14",
+  "zip" : "10024",
+  "issue" : "Housing",
+  "city_state" : "NY,NY",
+  "initial_contact" : "GAB",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "18-Jun-14",
+  "zip" : "10013",
+  "issue" : "Housing Connect",
+  "city_state" : "NY,NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Chin",
+  "cb" : "3",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "18-Jun-14",
+  "zip" : "10027",
+  "issue" : "Needs Housing",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "18-Jun-14",
+  "zip" : "10031",
+  "issue" : "Section 8",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "No",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "19-Jun-14",
+  "zip" : "10452",
+  "issue" : "Housing",
+  "city_state" : "BX, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Gibson",
+  "status" : "Closed"
+}
+, {
+  "date" : "20-Jun-14",
+  "zip" : "10036",
+  "issue" : "Housing Lottery",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Email",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "20-Jun-14",
+  "zip" : "10035",
+  "issue" : "Rent Increase",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "No",
+  "initial_contact" : "Walk in",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "20-Jun-14",
+  "zip" : "11691",
+  "issue" : "Copy of Diploma",
+  "city_state" : "Qns, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Richards",
+  "status" : "Closed"
+}
+, {
+  "date" : "20-Jun-14",
+  "zip" : "10029",
+  "issue" : "Assisted Living",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "11",
+  "status" : "Pending"
+}
+, {
+  "date" : "24-Jun-14",
+  "issue" : "Money issues",
+  "initial_contact" : "Call"
+}
+, {
+  "date" : "24-Jun-14",
+  "zip" : "10028",
+  "issue" : "New Owner",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Kallos",
+  "cb" : "8",
+  "status" : "Closed"
+}
+, {
+  "date" : "24-Jun-14",
+  "zip" : "10024",
+  "issue" : "Gas Conversion",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Closed"
+}
+, {
+  "date" : "24-Jun-14",
+  "issue" : "Dog",
+  "initial_contact" : "Email",
+  "status" : "Pending"
+}
+, {
+  "date" : "25-Jun-14",
+  "zip" : "10035",
+  "issue" : "Condo Conversion",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Kallos",
+  "cb" : "2",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "25-Jun-14",
+  "zip" : "10033",
+  "issue" : "Needs Housing",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "25-Jun-14",
+  "zip" : "10032",
+  "issue" : "Evicted",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Levine",
+  "cb" : "12",
+  "status" : "Closed"
+}
+, {
+  "date" : "25-Jun-14",
+  "zip" : "10022",
+  "issue" : "Potholes",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Gardonick",
+  "cb" : "8",
+  "status" : "Closed"
+}
+, {
+  "date" : "26-Jun-14",
+  "zip" : "10034",
+  "issue" : "Eviction",
+  "city_state" : "NY,NY",
+  "letter_drafted" : "No",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "26-Jun-14",
+  "zip" : "10025",
+  "issue" : "SCRIE Appeal",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "no",
+  "initial_contact" : "Walk in",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Pending"
+}
+, {
+  "date" : "30-Jun-14",
+  "zip" : "10023",
+  "issue" : "SNAP Appeal",
+  "city_state" : "NY, NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7",
+  "status" : "Response Needed"
+}
+, {
+  "date" : "30-Jun-14",
+  "zip" : "10024",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Rosenthal",
+  "cb" : "7"
+}
+, {
+  "date" : "30-Jun-14",
+  "zip" : "10031",
+  "issue" : "Eviction",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "27-May-14",
+  "zip" : "10009",
+  "issue" : "Translation",
+  "city_state" : "NY., NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Chin",
+  "cb" : "2",
+  "status" : "Closed"
+}
+, {
+  "date" : "30-May-14",
+  "issue" : "Lease",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "4-Jun-14",
+  "issue" : "Rent Arrears",
+  "initial_contact" : "Call",
+  "status" : "Closed"
+}
+, {
+  "date" : "5-Jun-14",
+  "zip" : "10030",
+  "issue" : "Rent Increase",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Dickens",
+  "cb" : "10",
+  "status" : "Pending"
+}
+, {
+  "date" : "5-Jun-14",
+  "zip" : "10032",
+  "issue" : "Landlort/Tenant issue",
+  "city_state" : "NY,NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Rodriguez",
+  "cb" : "12",
+  "status" : "Resonse needed"
+}
+, {
+  "date" : "2-Jun-14",
+  "zip" : "10030",
+  "issue" : "Landlort/Tenant issue",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Email",
+  "council_member" : "Dickens",
+  "cb" : "9",
+  "status" : "Pending"
+}
+, {
+  "date" : "11-Jun-14",
+  "zip" : "10036",
+  "issue" : "Landlord Legal issue",
+  "city_state" : "NY, NY",
+  "initial_contact" : "Call",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Closed"
+}
+, {
+  "date" : "12-Jun-14",
+  "zip" : "10001",
+  "issue" : "APS ",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Call",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Pending"
+}
+, {
+  "date" : "13-Jun-14",
+  "zip" : "10001",
+  "issue" : "Housing Lottery",
+  "city_state" : "NY,NY",
+  "letter_drafted" : "Yes",
+  "initial_contact" : "Call",
+  "council_member" : "Johnson",
+  "cb" : "4",
+  "status" : "Response needed"
+}
+, {
+  "date" : "13-Jun-14",
+  "zip" : "10032",
+  "issue" : "Mental Health",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "cb" : "12",
+  "status" : "Pending"
+}
+, {
+  "date" : "1-Jul-14",
+  "zip" : "10031",
+  "issue" : "Rent Increase",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Levine",
+  "cb" : "9",
+  "status" : "Closed"
+}
+, {
+  "date" : "8-Jul-14",
+  "zip" : "10029",
+  "issue" : "NYCHA repair",
+  "city_state" : "NY,NY",
+  "initial_contact" : "Walk in",
+  "council_member" : "Viverito",
+  "cb" : "11",
+  "status" : "Pending"
+}
+ ]

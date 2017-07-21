@@ -1,0 +1,1041 @@
+[ {
+  "area_panel_a_" : "1344",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75557989934772",
+    "human_address" : "{\"address\":\"1460 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98645145616032"
+  },
+  "total_area" : "1344",
+  "_of_signs_panel_a_" : "1",
+  "description" : "1460 Broadway (Broadway between 41st & 42nd)",
+  "type" : "Vinyl",
+  "size" : "Approx. 14' high x 96' wide",
+  "height_panel_a_" : "96",
+  "analysed_" : "n",
+  "width_panel_a_" : "14",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "416",
+  "area_panel_b_" : "48",
+  "location_1" : {
+    "latitude" : "40.75868277309995",
+    "human_address" : "{\"address\":\"1535 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98539028770674"
+  },
+  "total_area" : "464",
+  "_of_signs_panel_b_" : "2",
+  "_of_signs_panel_a_" : "13",
+  "description" : "Marriott Marquis - Column Wraps (Broadway between 45th & 46th)",
+  "type" : "Vinyl",
+  "size" : "13 column wraps are ±8' high x ±4' wide; 2 column wraps are ±6' high x ±4' wide",
+  "height_panel_b_" : "4",
+  "height_panel_a_" : "4",
+  "analysed_" : "n",
+  "width_panel_a_" : "8",
+  "total_of_signs" : "15",
+  "width_panel_b_" : "6"
+}
+, {
+  "area_panel_a_" : "6000",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75900327160855",
+    "human_address" : "{\"address\":\"1560 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98519067014539"
+  },
+  "total_area" : "6000",
+  "_of_signs_panel_a_" : "1",
+  "description" : "1560 Broadway- Colombian Coffee (Broadway@46th)",
+  "type" : "Vinyl",
+  "size" : "±75' high x ±80' wide",
+  "height_panel_a_" : "80",
+  "analysed_" : "n",
+  "width_panel_a_" : "75",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "3200",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75924641415952",
+    "human_address" : "{\"address\":\"1567 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98513439236365"
+  },
+  "total_area" : "3200",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Broadway Spire - Argent mortgage company (1567 Broadway @ 47th St)",
+  "type" : "Vinyl",
+  "size" : "±160' high x ±20' wide",
+  "height_panel_a_" : "20",
+  "analysed_" : "n",
+  "width_panel_a_" : "160",
+  "total_of_signs" : "1",
+  "height" : "Above 65 Ft"
+}
+, {
+  "area_panel_a_" : "3135",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75924641415952",
+    "human_address" : "{\"address\":\"1567 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98513439236365"
+  },
+  "total_area" : "3135",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Broadway Spire - W Hotel (1567 Broadway @ 47th)",
+  "type" : "Vinyl",
+  "size" : "±57' high x ±55' wide",
+  "height_panel_a_" : "55",
+  "analysed_" : "n",
+  "width_panel_a_" : "57",
+  "total_of_signs" : "1",
+  "height" : "Above 65 Ft"
+}
+, {
+  "area_panel_a_" : "2340",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75924641415952",
+    "human_address" : "{\"address\":\"1567 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98513439236365"
+  },
+  "total_area" : "2340",
+  "_of_signs_panel_a_" : "1",
+  "description" : "W hotel Times Square (Broadway @ 47th Street)",
+  "type" : "Vinyl",
+  "size" : "±45' high x ±52' wide",
+  "height_panel_a_" : "52",
+  "analysed_" : "n",
+  "width_panel_a_" : "45",
+  "total_of_signs" : "1",
+  "height" : "Above 65 Ft"
+}
+, {
+  "area_panel_a_" : "7752",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75924641415952",
+    "human_address" : "{\"address\":\"1567 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98513439236365"
+  },
+  "total_area" : "7752",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Broadway Spire W Hotel (1567 Broadway btw 46th & 47th)",
+  "type" : "Vinyl",
+  "size" : "±136' high x ±57' wide",
+  "height_panel_a_" : "57",
+  "analysed_" : "n",
+  "width_panel_a_" : "136",
+  "total_of_signs" : "1",
+  "height" : "Above 65 Ft"
+}
+, {
+  "area_panel_a_" : "7752",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75924641415952",
+    "human_address" : "{\"address\":\"1567 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98513439236365"
+  },
+  "total_area" : "7752",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Broadway Spire W Hotel (1567 Broadway btw 46th & 47th)",
+  "type" : "Vinyl",
+  "size" : "±136' high x ±57' wide (Each panel)",
+  "height_panel_a_" : "57",
+  "analysed_" : "n",
+  "width_panel_a_" : "136",
+  "total_of_signs" : "1",
+  "height" : "Above 65 Ft"
+}
+, {
+  "area_panel_a_" : "9288",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75924641415952",
+    "human_address" : "{\"address\":\"1567 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98513439236365"
+  },
+  "total_area" : "9288",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Broadway Spire W Hotel Sean John (1567 Broadway @ 47th)",
+  "type" : "Vinyl",
+  "size" : "±172' high x ±54' wide",
+  "height_panel_a_" : "54",
+  "analysed_" : "n",
+  "width_panel_a_" : "172",
+  "total_of_signs" : "1",
+  "height" : "Above 65 Ft"
+}
+, {
+  "area_panel_a_" : "15040",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75924641415952",
+    "human_address" : "{\"address\":\"1567 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98513439236365"
+  },
+  "total_area" : "15040",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Broadway Spire W Hotel (1567 Broadway btw 46th & 47th)",
+  "type" : "Vinyl",
+  "size" : "±320' high x ±46' 11 wide",
+  "height_panel_a_" : "47",
+  "analysed_" : "n",
+  "width_panel_a_" : "320",
+  "total_of_signs" : "1",
+  "height" : "Above 65 Ft"
+}
+, {
+  "area_panel_a_" : "2700",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.760096273839764",
+    "human_address" : "{\"address\":\"1601 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98486230863858"
+  },
+  "total_area" : "2700",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Crown Plaza (Broadway & 49th)",
+  "type" : "Vinyl",
+  "size" : "±25' high x ±108' wide",
+  "height_panel_a_" : "108",
+  "analysed_" : "n",
+  "width_panel_a_" : "25",
+  "total_of_signs" : "1",
+  "height" : "Above 65 Ft"
+}
+, {
+  "area_panel_a_" : "2000",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.760096273839764",
+    "human_address" : "{\"address\":\"1619 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98486230863858"
+  },
+  "total_area" : "2000",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Brill Building (Broadway @ 50th St)",
+  "type" : "Vinyl",
+  "size" : "±40' high x ±50' wide",
+  "height_panel_a_" : "50",
+  "analysed_" : "n",
+  "width_panel_a_" : "40",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "2925",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.760096273839764",
+    "human_address" : "{\"address\":\"1619 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98486230863858"
+  },
+  "total_area" : "2925",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Brill Building (Broadway between 49th & 50th)",
+  "type" : "Vinyl",
+  "size" : "±45' high x ±65' wide",
+  "height_panel_a_" : "65",
+  "analysed_" : "n",
+  "width_panel_a_" : "45",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "1176",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.76008129426175",
+    "human_address" : "{\"address\":\"1632 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98479268511082"
+  },
+  "total_area" : "1176",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Winter Garden Theatre (Broadway @ 50th)",
+  "type" : "Vinyl",
+  "size" : "±28' high x ±42' wide",
+  "height_panel_a_" : "42",
+  "analysed_" : "n",
+  "width_panel_a_" : "28",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "1200",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.76008129426175",
+    "human_address" : "{\"address\":\"1632 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98479268511082"
+  },
+  "total_area" : "1200",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Winter Garden Theatre (7th Avenue between 50th & 51st)",
+  "type" : "Vinyl",
+  "size" : "±30' high x ±40' wide",
+  "height_panel_a_" : "40",
+  "analysed_" : "n",
+  "width_panel_a_" : "30",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "870",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.76008129426175",
+    "human_address" : "{\"address\":\"1632 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98479268511082"
+  },
+  "total_area" : "870",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Winter Garden Theatre (7th Avenue between 50th & 51st)",
+  "type" : "Vinyl",
+  "size" : "±30' high x ±29' wide",
+  "height_panel_a_" : "29",
+  "analysed_" : "n",
+  "width_panel_a_" : "30",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "2688",
+  "area_panel_b_" : "1176",
+  "location_1" : {
+    "latitude" : "40.76008129426175",
+    "human_address" : "{\"address\":\"1632 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98479268511082"
+  },
+  "total_area" : "3864",
+  "_of_signs_panel_b_" : "1",
+  "_of_signs_panel_a_" : "2",
+  "description" : "Winter Garden Theatre Package (7th Avenue & Broadway Btw 50th & 51st)",
+  "type" : "Vinyl",
+  "size" : "Broadway W/F: ±28' high x ±48' wide; Broadway SW/F: ±28' high x ±42' wide; 7th Ave. N/F: ±30' high x ±40' wide; 7th Ave. S/F: ±30' high x ±29' wide",
+  "height_panel_b_" : "42",
+  "height_panel_a_" : "48",
+  "analysed_" : "n",
+  "width_panel_a_" : "28",
+  "total_of_signs" : "3",
+  "width_panel_b_" : "28"
+}
+, {
+  "area_panel_a_" : "1200",
+  "area_panel_b_" : "870",
+  "location_1" : {
+    "latitude" : "40.76008129426175",
+    "human_address" : "{\"address\":\"1632 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98479268511082"
+  },
+  "total_area" : "2070",
+  "_of_signs_panel_b_" : "1",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Winter Garden Theatre Package (7th Avenue & Broadway Btw 50th & 51st)",
+  "type" : "Vinyl",
+  "size" : "N/face: ±30' high x ±40' wide; S/face: ±30' high x ±29' wide",
+  "height_panel_b_" : "29",
+  "height_panel_a_" : "40",
+  "analysed_" : "n",
+  "width_panel_a_" : "30",
+  "total_of_signs" : "2",
+  "width_panel_b_" : "30"
+}
+, {
+  "area_panel_a_" : "780",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.76008129426175",
+    "human_address" : "{\"address\":\"1652 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98479268511082"
+  },
+  "total_area" : "780",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Sheraton Manhattan (Broadway & 51st)",
+  "type" : "Vinyl",
+  "size" : "±26' high x ±30' wide",
+  "height_panel_a_" : "30",
+  "analysed_" : "n",
+  "width_panel_a_" : "26",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "468",
+  "area_panel_b_" : "780",
+  "location_1" : {
+    "latitude" : "40.76008129426175",
+    "human_address" : "{\"address\":\"1652 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98479268511082"
+  },
+  "total_area" : "1248",
+  "_of_signs_panel_b_" : "1",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Sheraton Manhattan (Broadway & 51st & 52nd)",
+  "type" : "Vinyl",
+  "size" : "N/face: ±26' high x ±18' wide; S/face: ±26' high x ±30' wide",
+  "height_panel_b_" : "30",
+  "height_panel_a_" : "18",
+  "analysed_" : "n",
+  "width_panel_a_" : "26",
+  "total_of_signs" : "2",
+  "width_panel_b_" : "26"
+}
+, {
+  "area_panel_a_" : "5000",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.76008129426175",
+    "human_address" : "{\"address\":\"1652 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98479268511082"
+  },
+  "total_area" : "5000",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Sheraton (Broadway between 51st and 52nd)",
+  "type" : "Vinyl",
+  "size" : "±25' high x ±200' wide",
+  "height_panel_a_" : "200",
+  "analysed_" : "n",
+  "width_panel_a_" : "25",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "4056",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.759842914885056",
+    "human_address" : "{\"address\":\"750 Seventh Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9842263035319"
+  },
+  "total_area" : "4056",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Morgan Stanley Building - Rooftop (750 7th Avenue)",
+  "type" : "Vinyl",
+  "size" : "±52' high x ±78' wide",
+  "height_panel_a_" : "78",
+  "analysed_" : "n",
+  "width_panel_a_" : "52",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "1980",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.759842914885056",
+    "human_address" : "{\"address\":\"750 Seventh Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9842263035319"
+  },
+  "total_area" : "1980",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Morgan Stanley Building (750 7th Avenue)",
+  "type" : "Vinyl",
+  "size" : "±44' high x ±45' wide",
+  "height_panel_a_" : "45",
+  "analysed_" : "n",
+  "width_panel_a_" : "44",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "2000",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.759842914885056",
+    "human_address" : "{\"address\":\"750 Seventh Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9842263035319"
+  },
+  "total_area" : "2000",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Morgan Stanley Building (750 7th Avenue)",
+  "type" : "Vinyl",
+  "size" : "±40’ high x ±50’ wide",
+  "height_panel_a_" : "50",
+  "analysed_" : "n",
+  "width_panel_a_" : "40",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "3150",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75687220400221",
+    "human_address" : "{\"address\":\"1500 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98599774151177"
+  },
+  "total_area" : "3150",
+  "_of_signs_panel_a_" : "1",
+  "description" : "1500 Broadway - GMC (Between 43rd & 44th)",
+  "type" : "LED",
+  "size" : "±35' high x ± 90' wide",
+  "height_panel_a_" : "90",
+  "analysed_" : "y",
+  "width_panel_a_" : "35",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "4950",
+  "note" : "Pirates/Carib",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75748374298212",
+    "human_address" : "{\"address\":\"1514 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98569197202181"
+  },
+  "total_area" : "4950",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Toys 'R' Us Storefront (1514 Broadway)",
+  "photo" : "IMG_9004",
+  "type" : "Vinyl",
+  "size" : "±30' high x ±165' wide",
+  "height_panel_a_" : "165",
+  "analysed_" : "y",
+  "width_panel_a_" : "30",
+  "total_of_signs" : "1",
+  "height" : "Under 65 Ft"
+}
+, {
+  "area_panel_a_" : "2800",
+  "note" : "B of A",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75868277309995",
+    "human_address" : "{\"address\":\"1535 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98539028770674"
+  },
+  "total_area" : "2800",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Marriott Marquis - Bank of America (Broadway @46th)",
+  "photo" : "IMG_8930",
+  "type" : "LED",
+  "size" : "±40' high x ±70' wide",
+  "height_panel_a_" : "70",
+  "analysed_" : "y",
+  "width_panel_a_" : "40",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "3038",
+  "note" : "Hanook",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75868277309995",
+    "human_address" : "{\"address\":\"1535 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98539028770674"
+  },
+  "total_area" : "3038",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Marriott Marquis Rotunda - Southpole (Broadway between 45th & 46th)",
+  "photo" : "IMG_8931",
+  "type" : "Vinyl",
+  "size" : "±31' high x ±98' wide",
+  "height_panel_a_" : "98",
+  "analysed_" : "y",
+  "width_panel_a_" : "31",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "2772",
+  "note" : "UFC",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75868277309995",
+    "human_address" : "{\"address\":\"1535 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98539028770674"
+  },
+  "total_area" : "2772",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Marriott Marquis - North Tower (Broadway @ 46th)",
+  "photo" : "IMG_8930",
+  "type" : "Vinyl",
+  "size" : "±69' high x ±44' wide",
+  "height_panel_a_" : "44",
+  "analysed_" : "y",
+  "width_panel_a_" : "63",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "391",
+  "note" : "Empty",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75868277309995",
+    "human_address" : "{\"address\":\"1535 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98539028770674"
+  },
+  "total_area" : "391",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Marriott Marquis (West 45th Street)",
+  "photo" : "IMG_8938",
+  "type" : "Vinyl",
+  "size" : "±19’ high x ±23' wide",
+  "height_panel_a_" : "23",
+  "analysed_" : "y",
+  "width_panel_a_" : "17",
+  "total_of_signs" : "1",
+  "height" : "Under 65 Ft"
+}
+, {
+  "area_panel_a_" : "2400",
+  "note" : "Kodak vinyl",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75868277309995",
+    "human_address" : "{\"address\":\"1535 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98539028770674"
+  },
+  "total_area" : "2400",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Mariott Marquis (Broadway @ 45th)",
+  "photo" : "IMG_8931",
+  "type" : "Vinyl",
+  "size" : "±40' high x ±60' wide",
+  "height_panel_a_" : "60",
+  "analysed_" : "y",
+  "width_panel_a_" : "40",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "3080",
+  "note" : "Green Lantern",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75868277309995",
+    "human_address" : "{\"address\":\"1535 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98539028770674"
+  },
+  "total_area" : "3080",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Marriott Marquis (1535 Broadway between 45th & 46th St)",
+  "photo" : "IMG_8938",
+  "type" : "Vinyl",
+  "size" : "±70' high x ±44' wide",
+  "height_panel_a_" : "44",
+  "analysed_" : "y",
+  "width_panel_a_" : "70",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "2937",
+  "note" : "Sportsmanship",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75868277309995",
+    "human_address" : "{\"address\":\"1535 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98539028770674"
+  },
+  "total_area" : "2937",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Marriott Marquis (1535 Broadway @ 46th St)",
+  "photo" : "IMG_8930",
+  "type" : "Vinyl",
+  "size" : "±66' high x ±44' 6\" wide",
+  "height_panel_a_" : "45",
+  "analysed_" : "y",
+  "width_panel_a_" : "66",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "2000",
+  "note" : "Car ad",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75868277309995",
+    "human_address" : "{\"address\":\"1535 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98539028770674"
+  },
+  "total_area" : "2000",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Marriott Marquis - Planters (Broadway & 45th)",
+  "photo" : "IMG_8938",
+  "type" : "Vinyl",
+  "size" : "±40' high x ±50' wide",
+  "height_panel_a_" : "50",
+  "analysed_" : "y",
+  "width_panel_a_" : "40",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "552",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75868277309995",
+    "human_address" : "{\"address\":\"1535 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98539028770674"
+  },
+  "total_area" : "552",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Marriott Marquis (West 46th Street, West 45th Street)",
+  "type" : "LED",
+  "size" : "±23' high x ±24' wide",
+  "height_panel_a_" : "24",
+  "analysed_" : "y",
+  "width_panel_a_" : "23",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "4080",
+  "note" : "True Crime",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75821098926468",
+    "human_address" : "{\"address\":\"1540 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98527751716185"
+  },
+  "total_area" : "4080",
+  "_of_signs_panel_a_" : "2",
+  "description" : "Planet Hollwood (1540 Broadway)",
+  "photo" : "IMG_8934/9007",
+  "type" : "Vinyl",
+  "size" : "Two faces: ±30' high x ±68' wide",
+  "height_panel_a_" : "68",
+  "analysed_" : "y",
+  "width_panel_a_" : "30",
+  "total_of_signs" : "2"
+}
+, {
+  "area_panel_a_" : "1980",
+  "note" : "Master Chef",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75870269821288",
+    "human_address" : "{\"address\":\"1552 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98530714233621"
+  },
+  "total_area" : "1980",
+  "_of_signs_panel_a_" : "1",
+  "description" : "1552 Broadway @ 46th st",
+  "photo" : "IMG_8928",
+  "type" : "Vinyl",
+  "size" : "±44' high x ±45' wide",
+  "height_panel_a_" : "45",
+  "analysed_" : "y",
+  "width_panel_a_" : "44",
+  "total_of_signs" : "1",
+  "height" : "Above 65 Ft"
+}
+, {
+  "area_panel_a_" : "700",
+  "note" : "Glee",
+  "area_panel_b_" : "1155",
+  "location_1" : {
+    "latitude" : "40.75870269821288",
+    "human_address" : "{\"address\":\"1552 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98530714233621"
+  },
+  "total_area" : "1855",
+  "_of_signs_panel_b_" : "1",
+  "_of_signs_panel_a_" : "1",
+  "description" : "1552 Broadway @ 46th st",
+  "photo" : "IMG_8927",
+  "type" : "Vinyl",
+  "size" : "N/face: ±35' high x ±20' wide; S/face: ±35' high x ±33' wide",
+  "height_panel_b_" : "33",
+  "height_panel_a_" : "20",
+  "analysed_" : "y",
+  "width_panel_a_" : "35",
+  "total_of_signs" : "2",
+  "height" : "Above 65 Ft",
+  "width_panel_b_" : "35"
+}
+, {
+  "area_panel_a_" : "1456",
+  "note" : "Billy Elliot",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75924641415952",
+    "human_address" : "{\"address\":\"1567 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98513439236365"
+  },
+  "total_area" : "1456",
+  "_of_signs_panel_a_" : "1",
+  "description" : "W hotel - East Face (1567 Broadway @ 47th) ",
+  "photo" : "IMG_8924",
+  "type" : "Vinyl",
+  "size" : "±52' high x ±28' wide",
+  "height_panel_a_" : "28",
+  "analysed_" : "y",
+  "width_panel_a_" : "52",
+  "total_of_signs" : "1",
+  "height" : "Above 65 Ft"
+}
+, {
+  "area_panel_a_" : "1600",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75924641415952",
+    "human_address" : "{\"address\":\"1567 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98513439236365"
+  },
+  "total_area" : "1600",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Spectacolor HD (1567 Broadway @ 47th Street)",
+  "type" : "LED",
+  "size" : "±40' high x ±40' wide",
+  "height_panel_a_" : "40",
+  "analysed_" : "y",
+  "width_panel_a_" : "40",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "450",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75994457769776",
+    "human_address" : "{\"address\":\"1593 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98491919469183"
+  },
+  "total_area" : "450",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Hershey World of Chocolate (Crowne Plaza Hotel/Broadway & 48th Street)",
+  "type" : "LED",
+  "size" : "15 Stories",
+  "height_panel_a_" : "30",
+  "analysed_" : "y",
+  "width_panel_a_" : "15",
+  "total_of_signs" : "1"
+}
+, {
+  "area_panel_a_" : "3625",
+  "note" : "Falling skies",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.76008129426175",
+    "human_address" : "{\"address\":\"1626 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98479268511082"
+  },
+  "total_area" : "3625",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Morgan Stanley Building (1626 Broadway btw 49th & 50th)",
+  "photo" : "IMG_8872/3",
+  "type" : "Vinyl",
+  "size" : "±29' high x ±125' wide",
+  "height_panel_a_" : "125",
+  "analysed_" : "y",
+  "width_panel_a_" : "29",
+  "total_of_signs" : "1",
+  "height" : "Under 65 Ft"
+}
+, {
+  "area_panel_a_" : "1584",
+  "note" : "Celeb Cruises",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.76008129426175",
+    "human_address" : "{\"address\":\"1626 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98479268511082"
+  },
+  "total_area" : "1584",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Morgan Stanley Building (1626 Broadway @ 49th )",
+  "photo" : "IMG_8871",
+  "type" : "Vinyl",
+  "size" : "±44' high x ±36' wide",
+  "height_panel_a_" : "36",
+  "analysed_" : "y",
+  "width_panel_a_" : "44",
+  "total_of_signs" : "1",
+  "height" : "Under 65 Ft"
+}
+, {
+  "area_panel_a_" : "1344",
+  "note" : "Ugg",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.76008129426175",
+    "human_address" : "{\"address\":\"1632 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98479268511082"
+  },
+  "total_area" : "1344",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Winter Garden Theatre (Broadway @ 50th)",
+  "photo" : "IMG_8889",
+  "type" : "Vinyl",
+  "size" : "±28' high x ±48' wide",
+  "height_panel_a_" : "48",
+  "analysed_" : "y",
+  "width_panel_a_" : "28",
+  "total_of_signs" : "1",
+  "height" : "Under 65 Ft"
+}
+, {
+  "area_panel_a_" : "1344",
+  "note" : "Telecharge",
+  "area_panel_b_" : "1176",
+  "location_1" : {
+    "latitude" : "40.76008129426175",
+    "human_address" : "{\"address\":\"1632 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98479268511082"
+  },
+  "total_area" : "2520",
+  "_of_signs_panel_b_" : "1",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Winter Garden Theatre Package (Broadway@50th)",
+  "photo" : "IMG_8876",
+  "type" : "Vinyl",
+  "size" : "W/face: ±28' high x ±48' wide; SW/face: ±28' high x ±42' wide",
+  "height_panel_b_" : "42",
+  "height_panel_a_" : "48",
+  "analysed_" : "y",
+  "width_panel_a_" : "28",
+  "total_of_signs" : "2",
+  "height" : "Above 65 Ft",
+  "width_panel_b_" : "28"
+}
+, {
+  "area_panel_a_" : "11960",
+  "note" : "Fast Five",
+  "area_panel_b_" : "6240",
+  "location_1" : {
+    "latitude" : "40.76008129426175",
+    "human_address" : "{\"address\":\"1650 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98479268511082"
+  },
+  "total_area" : "18200",
+  "_of_signs_panel_b_" : "1",
+  "_of_signs_panel_a_" : "1",
+  "description" : "1650 Broadway (Broadway @ West 50th St)",
+  "photo" : "IMG_8879-81",
+  "type" : "Vinyl",
+  "size" : "Panel A: ±130’ high x ±92' wide; Panel B: ±130’ high x ±48' wide",
+  "height_panel_b_" : "48",
+  "height_panel_a_" : "92",
+  "analysed_" : "y",
+  "width_panel_a_" : "130",
+  "total_of_signs" : "2",
+  "height" : "Under 65 Ft",
+  "width_panel_b_" : "130"
+}
+, {
+  "area_panel_a_" : "468",
+  "note" : "Maybelline",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.76008129426175",
+    "human_address" : "{\"address\":\"1652 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98479268511082"
+  },
+  "total_area" : "468",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Sheraton Manahattan (Broadway & 52nd)",
+  "photo" : "IMG_8885",
+  "type" : "Vinyl",
+  "size" : "±26' high x ±18' wide",
+  "height_panel_a_" : "18",
+  "analysed_" : "y",
+  "width_panel_a_" : "26",
+  "total_of_signs" : "1",
+  "height" : "Under 65 Ft"
+}
+, {
+  "area_panel_a_" : "2850",
+  "note" : "United",
+  "area_panel_b_" : "2375",
+  "location_1" : {
+    "latitude" : "40.759842914885056",
+    "human_address" : "{\"address\":\"750 Seventh Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9842263035319"
+  },
+  "total_area" : "5225",
+  "_of_signs_panel_b_" : "1",
+  "_of_signs_panel_a_" : "2",
+  "description" : "Morgan Stanley Building (750 7th Avenue)",
+  "photo" : "IMG_8894",
+  "type" : "Vinyl",
+  "size" : "7th Ave. Panel A: ±25' high x ±57' wide; 7th Ave. Panel B: ±25' high x ±95' wide; 50th St. Panel C: ±25' high x ±40' wide",
+  "height_panel_b_" : "95",
+  "height_panel_a_" : "57",
+  "analysed_" : "y",
+  "width_panel_a_" : "25",
+  "total_of_signs" : "3",
+  "height" : "Under 65 Ft",
+  "width_panel_b_" : "25"
+}
+, {
+  "area_panel_a_" : "1080",
+  "note" : "Benneton",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.759842914885056",
+    "human_address" : "{\"address\":\"750 Seventh Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.9842263035319"
+  },
+  "total_area" : "1080",
+  "_of_signs_panel_a_" : "1",
+  "description" : "750 Seventh Avenue (7th Avenue @50th)",
+  "photo" : "IMG_8888",
+  "type" : "Vinyl",
+  "size" : "Each face: ±40' high x ±27' wide",
+  "height_panel_a_" : "27",
+  "analysed_" : "y",
+  "width_panel_a_" : "40",
+  "total_of_signs" : "1",
+  "height" : "Under 65 Ft"
+}
+, {
+  "area_panel_a_" : "4200",
+  "note" : "LA Noire",
+  "area_panel_b_" : "0",
+  "location_1" : {
+    "latitude" : "40.75665475369446",
+    "human_address" : "{\"address\":\"4 Times Square\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}",
+    "needs_recoding" : false,
+    "longitude" : "-73.98624434165002"
+  },
+  "total_area" : "4200",
+  "_of_signs_panel_a_" : "1",
+  "description" : "Broadway @ 42nd Street",
+  "photo" : "IMG_8958",
+  "type" : "Vinyl",
+  "size" : "±40’ high x ±105’ wide",
+  "height_panel_a_" : "105",
+  "analysed_" : "y",
+  "width_panel_a_" : "40",
+  "total_of_signs" : "1",
+  "height" : "Under 65 Ft"
+}
+ ]

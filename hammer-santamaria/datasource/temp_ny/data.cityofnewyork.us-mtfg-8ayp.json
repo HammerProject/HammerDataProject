@@ -1,0 +1,418 @@
+[ {
+  "type_of_abuse_of_authority_allegation" : "Type of Abuse of Authority Allegation"
+}
+, {
+  "unsubstaniated_number" : "434",
+  "number_that_were_officer_unidentified" : "231",
+  "unfounded_number" : "51",
+  "substantiated_raterate" : "8.30",
+  "rate_officer_unidentified_" : "7.80",
+  "rate_unsubstantiated" : "14.60",
+  "miscellaneous_number" : "66",
+  "miscellaneous_rate" : "2.20",
+  "number_exonerated" : "1946",
+  "type_of_abuse_of_authority_allegation" : "Question and/or stop**",
+  "substantiated_number" : "247",
+  "exoneration_rate" : "65.40",
+  "rate_unfounded" : "1.70"
+}
+, {
+  "unsubstaniated_number" : "78",
+  "number_that_were_officer_unidentified" : "33",
+  "unfounded_number" : "7",
+  "substantiated_raterate" : "8.40",
+  "rate_officer_unidentified_" : "6.90",
+  "rate_unsubstantiated" : "16.30",
+  "miscellaneous_number" : "8",
+  "miscellaneous_rate" : "1.70",
+  "number_exonerated" : "312",
+  "type_of_abuse_of_authority_allegation" : "Question ",
+  "substantiated_number" : "40",
+  "exoneration_rate" : "65.30",
+  "rate_unfounded" : "1.50"
+}
+, {
+  "unsubstaniated_number" : "463",
+  "number_that_were_officer_unidentified" : "115",
+  "unfounded_number" : "26",
+  "substantiated_raterate" : "8.00",
+  "rate_officer_unidentified_" : "7.00",
+  "rate_unsubstantiated" : "28.30",
+  "miscellaneous_number" : "29",
+  "miscellaneous_rate" : "1.80",
+  "number_exonerated" : "870",
+  "type_of_abuse_of_authority_allegation" : "Stop",
+  "substantiated_number" : "131",
+  "exoneration_rate" : "53.20",
+  "rate_unfounded" : "1.60"
+}
+, {
+  "unsubstaniated_number" : "66",
+  "number_that_were_officer_unidentified" : "39",
+  "unfounded_number" : "18",
+  "substantiated_raterate" : "14.50",
+  "rate_officer_unidentified_" : "16.20",
+  "rate_unsubstantiated" : "27.40",
+  "miscellaneous_number" : "5",
+  "miscellaneous_rate" : "2.10",
+  "number_exonerated" : "78",
+  "type_of_abuse_of_authority_allegation" : "Frisk and/or search*",
+  "substantiated_number" : "35",
+  "exoneration_rate" : "32.40",
+  "rate_unfounded" : "7.50"
+}
+, {
+  "unsubstaniated_number" : "1032",
+  "number_that_were_officer_unidentified" : "325",
+  "unfounded_number" : "200",
+  "substantiated_raterate" : "9.00",
+  "rate_officer_unidentified_" : "13.80",
+  "rate_unsubstantiated" : "43.70",
+  "miscellaneous_number" : "45",
+  "miscellaneous_rate" : "1.90",
+  "number_exonerated" : "548",
+  "type_of_abuse_of_authority_allegation" : "Search",
+  "substantiated_number" : "213",
+  "exoneration_rate" : "23.20",
+  "rate_unfounded" : "8.50"
+}
+, {
+  "unsubstaniated_number" : "468",
+  "number_that_were_officer_unidentified" : "213",
+  "unfounded_number" : "62",
+  "substantiated_raterate" : "12.70",
+  "rate_officer_unidentified_" : "12.30",
+  "rate_unsubstantiated" : "26.90",
+  "miscellaneous_number" : "27",
+  "miscellaneous_rate" : "1.60",
+  "number_exonerated" : "747",
+  "type_of_abuse_of_authority_allegation" : "Frisk",
+  "substantiated_number" : "220",
+  "exoneration_rate" : "43.00",
+  "rate_unfounded" : "3.60"
+}
+, {
+  "unsubstaniated_number" : "419",
+  "number_that_were_officer_unidentified" : "137",
+  "unfounded_number" : "72",
+  "substantiated_raterate" : "12.10",
+  "rate_officer_unidentified_" : "10.00",
+  "rate_unsubstantiated" : "30.50",
+  "miscellaneous_number" : "29",
+  "miscellaneous_rate" : "2.10",
+  "number_exonerated" : "551",
+  "type_of_abuse_of_authority_allegation" : "Vehicle search",
+  "substantiated_number" : "167",
+  "exoneration_rate" : "40.10",
+  "rate_unfounded" : "5.20"
+}
+, {
+  "unsubstaniated_number" : "282",
+  "number_that_were_officer_unidentified" : "106",
+  "unfounded_number" : "7",
+  "substantiated_raterate" : "5.70",
+  "rate_officer_unidentified_" : "8.20",
+  "rate_unsubstantiated" : "21.70",
+  "miscellaneous_number" : "35",
+  "miscellaneous_rate" : "2.70",
+  "number_exonerated" : "794",
+  "type_of_abuse_of_authority_allegation" : "Vehicle stop",
+  "substantiated_number" : "74",
+  "exoneration_rate" : "61.20",
+  "rate_unfounded" : "0.50"
+}
+, {
+  "unsubstaniated_number" : "391",
+  "number_that_were_officer_unidentified" : "108",
+  "unfounded_number" : "80",
+  "substantiated_raterate" : "5.10",
+  "rate_officer_unidentified_" : "4.40",
+  "rate_unsubstantiated" : "15.90",
+  "miscellaneous_number" : "33",
+  "miscellaneous_rate" : "1.30",
+  "number_exonerated" : "1727",
+  "type_of_abuse_of_authority_allegation" : "Premises entered or searched",
+  "substantiated_number" : "126",
+  "exoneration_rate" : "70.10",
+  "rate_unfounded" : "3.20"
+}
+, {
+  "unsubstaniated_number" : "309",
+  "number_that_were_officer_unidentified" : "58",
+  "unfounded_number" : "157",
+  "substantiated_raterate" : "7.00",
+  "rate_officer_unidentified_" : "6.40",
+  "rate_unsubstantiated" : "33.90",
+  "miscellaneous_number" : "34",
+  "miscellaneous_rate" : "3.70",
+  "number_exonerated" : "289",
+  "type_of_abuse_of_authority_allegation" : "Strip search",
+  "substantiated_number" : "64",
+  "exoneration_rate" : "31.70",
+  "rate_unfounded" : "17.20"
+}
+, {
+  "unsubstaniated_number" : "77",
+  "number_that_were_officer_unidentified" : "30",
+  "unfounded_number" : "90",
+  "substantiated_raterate" : "1.10",
+  "rate_officer_unidentified_" : "6.70",
+  "rate_unsubstantiated" : "17.20",
+  "miscellaneous_number" : "13",
+  "miscellaneous_rate" : "2.90",
+  "number_exonerated" : "232",
+  "type_of_abuse_of_authority_allegation" : "Gun drawn",
+  "substantiated_number" : "5",
+  "exoneration_rate" : "51.90",
+  "rate_unfounded" : "20.10"
+}
+, {
+  "unsubstaniated_number" : "67",
+  "number_that_were_officer_unidentified" : "24",
+  "unfounded_number" : "33",
+  "substantiated_raterate" : "13.80",
+  "rate_officer_unidentified_" : "7.90",
+  "rate_unsubstantiated" : "22.00",
+  "miscellaneous_number" : "9",
+  "miscellaneous_rate" : "3.00",
+  "number_exonerated" : "129",
+  "type_of_abuse_of_authority_allegation" : "Property seized",
+  "substantiated_number" : "42",
+  "exoneration_rate" : "42.40",
+  "rate_unfounded" : "10.90"
+}
+, {
+  "unsubstaniated_number" : "245",
+  "number_that_were_officer_unidentified" : "135",
+  "unfounded_number" : "226",
+  "substantiated_raterate" : "2.90",
+  "rate_officer_unidentified_" : "15.50",
+  "rate_unsubstantiated" : "28.20",
+  "miscellaneous_number" : "16",
+  "miscellaneous_rate" : "1.80",
+  "number_exonerated" : "222",
+  "type_of_abuse_of_authority_allegation" : "Property damaged",
+  "substantiated_number" : "25",
+  "exoneration_rate" : "25.50",
+  "rate_unfounded" : "26.00"
+}
+, {
+  "unsubstaniated_number" : "55",
+  "number_that_were_officer_unidentified" : "14",
+  "unfounded_number" : "19",
+  "substantiated_raterate" : "1.60",
+  "rate_officer_unidentified_" : "7.60",
+  "rate_unsubstantiated" : "29.70",
+  "miscellaneous_number" : "4",
+  "miscellaneous_rate" : "2.20",
+  "number_exonerated" : "90",
+  "type_of_abuse_of_authority_allegation" : "Threat to notify ACS",
+  "substantiated_number" : "3",
+  "exoneration_rate" : "48.60",
+  "rate_unfounded" : "10.30"
+}
+, {
+  "unsubstaniated_number" : "714",
+  "number_that_were_officer_unidentified" : "222",
+  "unfounded_number" : "539",
+  "substantiated_raterate" : "3.00",
+  "rate_officer_unidentified_" : "12.50",
+  "rate_unsubstantiated" : "40.30",
+  "miscellaneous_number" : "45",
+  "miscellaneous_rate" : "2.50",
+  "number_exonerated" : "197",
+  "type_of_abuse_of_authority_allegation" : "Threat of force",
+  "substantiated_number" : "54",
+  "exoneration_rate" : "11.10",
+  "rate_unfounded" : "30.40"
+}
+, {
+  "unsubstaniated_number" : "92",
+  "number_that_were_officer_unidentified" : "30",
+  "unfounded_number" : "43",
+  "substantiated_raterate" : "1.60",
+  "rate_officer_unidentified_" : "11.90",
+  "rate_unsubstantiated" : "36.40",
+  "miscellaneous_number" : "4",
+  "miscellaneous_rate" : "1.60",
+  "number_exonerated" : "80",
+  "type_of_abuse_of_authority_allegation" : "Threat to damage/seize property",
+  "substantiated_number" : "4",
+  "exoneration_rate" : "31.60",
+  "rate_unfounded" : "17.00"
+}
+, {
+  "unsubstaniated_number" : "720",
+  "number_that_were_officer_unidentified" : "237",
+  "unfounded_number" : "325",
+  "substantiated_raterate" : "2.80",
+  "rate_officer_unidentified_" : "9.00",
+  "rate_unsubstantiated" : "27.30",
+  "miscellaneous_number" : "55",
+  "miscellaneous_rate" : "2.10",
+  "number_exonerated" : "1231",
+  "type_of_abuse_of_authority_allegation" : "Threat of arrest",
+  "substantiated_number" : "74",
+  "exoneration_rate" : "46.60",
+  "rate_unfounded" : "12.30"
+}
+, {
+  "unsubstaniated_number" : "75",
+  "number_that_were_officer_unidentified" : "19",
+  "unfounded_number" : "21",
+  "substantiated_raterate" : "3.50",
+  "rate_officer_unidentified_" : "9.60",
+  "rate_unsubstantiated" : "37.90",
+  "miscellaneous_number" : "1",
+  "miscellaneous_rate" : "0.50",
+  "number_exonerated" : "75",
+  "type_of_abuse_of_authority_allegation" : "Threat of summons",
+  "substantiated_number" : "7",
+  "exoneration_rate" : "37.90",
+  "rate_unfounded" : "10.60"
+}
+, {
+  "unsubstaniated_number" : "58",
+  "number_that_were_officer_unidentified" : "4",
+  "unfounded_number" : "1",
+  "substantiated_raterate" : "22.70",
+  "rate_officer_unidentified_" : "2.00",
+  "rate_unsubstantiated" : "28.60",
+  "miscellaneous_number" : "8",
+  "miscellaneous_rate" : "3.90",
+  "number_exonerated" : "86",
+  "type_of_abuse_of_authority_allegation" : "Retaliatory arrest",
+  "substantiated_number" : "46",
+  "exoneration_rate" : "42.40",
+  "rate_unfounded" : "0.50"
+}
+, {
+  "unsubstaniated_number" : "103",
+  "number_that_were_officer_unidentified" : "0",
+  "unfounded_number" : "23",
+  "substantiated_raterate" : "27.30",
+  "rate_officer_unidentified_" : "0.00",
+  "rate_unsubstantiated" : "29.60",
+  "miscellaneous_number" : "6",
+  "miscellaneous_rate" : "1.70",
+  "number_exonerated" : "121",
+  "type_of_abuse_of_authority_allegation" : "Retaliatory summons",
+  "substantiated_number" : "95",
+  "exoneration_rate" : "34.80",
+  "rate_unfounded" : "6.60"
+}
+, {
+  "unsubstaniated_number" : "127",
+  "number_that_were_officer_unidentified" : "56",
+  "unfounded_number" : "41",
+  "substantiated_raterate" : "10.80",
+  "rate_officer_unidentified_" : "19.50",
+  "rate_unsubstantiated" : "44.30",
+  "miscellaneous_number" : "10",
+  "miscellaneous_rate" : "3.50",
+  "number_exonerated" : "22",
+  "type_of_abuse_of_authority_allegation" : "Refusal to process complaint",
+  "substantiated_number" : "31",
+  "exoneration_rate" : "7.70",
+  "rate_unfounded" : "14.30"
+}
+, {
+  "unsubstaniated_number" : "1241",
+  "number_that_were_officer_unidentified" : "305",
+  "unfounded_number" : "657",
+  "substantiated_raterate" : "7.90",
+  "rate_officer_unidentified_" : "12.10",
+  "rate_unsubstantiated" : "49.20",
+  "miscellaneous_number" : "50",
+  "miscellaneous_rate" : "2.00",
+  "number_exonerated" : "69",
+  "type_of_abuse_of_authority_allegation" : "Refusal to give name/shield number",
+  "substantiated_number" : "200",
+  "exoneration_rate" : "2.70",
+  "rate_unfounded" : "26.10"
+}
+, {
+  "unsubstaniated_number" : "216",
+  "number_that_were_officer_unidentified" : "51",
+  "unfounded_number" : "256",
+  "substantiated_raterate" : "4.40",
+  "rate_officer_unidentified_" : "8.90",
+  "rate_unsubstantiated" : "37.80",
+  "miscellaneous_number" : "10",
+  "miscellaneous_rate" : "1.80",
+  "number_exonerated" : "13",
+  "type_of_abuse_of_authority_allegation" : "Refusal to obtain medical treatment",
+  "substantiated_number" : "25",
+  "exoneration_rate" : "2.30",
+  "rate_unfounded" : "44.80"
+}
+, {
+  "unsubstaniated_number" : "72",
+  "number_that_were_officer_unidentified" : "23",
+  "unfounded_number" : "37",
+  "substantiated_raterate" : "1.40",
+  "rate_officer_unidentified_" : "15.60",
+  "rate_unsubstantiated" : "49.00",
+  "miscellaneous_number" : "6",
+  "miscellaneous_rate" : "4.10",
+  "number_exonerated" : "7",
+  "type_of_abuse_of_authority_allegation" : "Refusal to show search warrant***",
+  "substantiated_number" : "2",
+  "exoneration_rate" : "4.80",
+  "rate_unfounded" : "25.20"
+}
+, {
+  "unsubstaniated_number" : "0",
+  "number_that_were_officer_unidentified" : "1",
+  "unfounded_number" : "0",
+  "substantiated_raterate" : "50.00",
+  "rate_officer_unidentified_" : "50.00",
+  "rate_unsubstantiated" : "0.00",
+  "miscellaneous_number" : "0",
+  "miscellaneous_rate" : "0.00",
+  "number_exonerated" : "0",
+  "type_of_abuse_of_authority_allegation" : "Improper dissemination of medical info",
+  "substantiated_number" : "1",
+  "exoneration_rate" : "0.00",
+  "rate_unfounded" : "0.00"
+}
+, {
+  "unsubstaniated_number" : "120",
+  "number_that_were_officer_unidentified" : "38",
+  "unfounded_number" : "66",
+  "substantiated_raterate" : "13.50",
+  "rate_officer_unidentified_" : "7.40",
+  "rate_unsubstantiated" : "23.40",
+  "miscellaneous_number" : "10",
+  "miscellaneous_rate" : "2.00",
+  "number_exonerated" : "209",
+  "type_of_abuse_of_authority_allegation" : "Other",
+  "substantiated_number" : "69",
+  "exoneration_rate" : "40.80",
+  "rate_unfounded" : "12.90"
+}
+, {
+  "unsubstaniated_number" : "7924",
+  "number_that_were_officer_unidentified" : "2554",
+  "unfounded_number" : "3057",
+  "substantiated_raterate" : "7.50",
+  "rate_officer_unidentified_" : "9.60",
+  "rate_unsubstantiated" : "29.60",
+  "miscellaneous_number" : "558",
+  "miscellaneous_rate" : "2.10",
+  "number_exonerated" : "10645",
+  "type_of_abuse_of_authority_allegation" : "Total",
+  "substantiated_number" : "2000",
+  "exoneration_rate" : "39.80",
+  "rate_unfounded" : "11.40"
+}
+, {
+  "type_of_abuse_of_authority_allegation" : "* Beginning in 2005, the CCRB captured \"frisk\" and \"search\" as distinct allegations."
+}
+, {
+  "type_of_abuse_of_authority_allegation" : "** Beginning in 2007, the CCRB captured \"question\" and \"stop\" as distinct allegations."
+}
+, {
+  "type_of_abuse_of_authority_allegation" : "*** The CCRB began to capture the allegation \"refusal to show search warrant\" on April 1, 2004."
+}
+ ]

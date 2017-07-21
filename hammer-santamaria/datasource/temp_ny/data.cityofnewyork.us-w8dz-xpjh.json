@@ -1,0 +1,45 @@
+[ {
+  "address" : "1010 Reverend James A. Polite Avenue",
+  "notes" : "3rd Floor",
+  "city" : "Bronx",
+  "location" : "Bronx Regional High School",
+  "state" : "New York",
+  "zip_code" : "10459",
+  "contact_number" : "718 842 9200"
+}
+, {
+  "address" : "832 Marcy Avenue",
+  "notes" : "Room 501A",
+  "city" : "Brooklyn",
+  "location" : "Marcy Avenue Complex",
+  "state" : "New York",
+  "zip_code" : "11216",
+  "contact_number" : "718 636 5770"
+}
+, {
+  "address" : "269 West 35th Street",
+  "notes" : "7th Floor",
+  "city" : "New York",
+  "location" : "Alternative Learning Complex",
+  "state" : "New York",
+  "zip_code" : "10018",
+  "contact_number" : "212 224 1793"
+}
+, {
+  "address" : "162-02 Hillside Avenue",
+  "notes" : "Room 109",
+  "city" : "Jamaica",
+  "location" : "Jamaica Learning Center",
+  "state" : "New York",
+  "zip_code" : "11432",
+  "contact_number" : "718 739 2100"
+}
+, {
+  "address" : "450 St. Marks Place",
+  "city" : "Staten Island",
+  "location" : "St. George",
+  "state" : "New York",
+  "zip_code" : "10301",
+  "contact_number" : "718 273 3225"
+}
+ ]

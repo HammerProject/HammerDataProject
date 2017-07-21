@@ -1,0 +1,1251 @@
+[ {
+  "country_code" : "AR",
+  "description" : "ARGENTINA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "AU",
+  "description" : "AUSTRALIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "AT",
+  "description" : "AUSTRIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BS",
+  "description" : "BAHAMAS",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BE",
+  "description" : "BELGIUM",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BO",
+  "description" : "BOLIVIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BR",
+  "description" : "BRAZIL",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CA",
+  "description" : "CANADA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CL",
+  "description" : "CHILE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CN",
+  "description" : "CHINA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CO",
+  "description" : "COLOMBIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CR",
+  "description" : "COSTA RICA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "HR",
+  "description" : "CROATIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CU",
+  "description" : "CUBA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CZ",
+  "description" : "CZECH, REP.",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "DK",
+  "description" : "DENMARK",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "DO",
+  "description" : "DOMINICAN, REP.",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "EC",
+  "description" : "ECUADOR",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "EG",
+  "description" : "EGYPT",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SV",
+  "description" : "EL SALVADOR",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "FI",
+  "description" : "FINLAND",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "FR",
+  "description" : "FRANCE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "DE",
+  "description" : "GERMANY",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GR",
+  "description" : "GREECE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GT",
+  "description" : "GUATEMALA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "HN",
+  "description" : "HONDURAS",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "HK",
+  "description" : "HONG KONG",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "IN",
+  "description" : "INDIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "IE",
+  "description" : "IRELAND",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "IL",
+  "description" : "ISRAEL",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "IT",
+  "description" : "ITALY",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "JM",
+  "description" : "JAMAICA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "JP",
+  "description" : "JAPAN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "LU",
+  "description" : "LUXEMBOURG",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MX",
+  "description" : "MEXICO",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MA",
+  "description" : "MOROCCO",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "NL",
+  "description" : "NETHERLANDS",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "NZ",
+  "description" : "NEW ZEALAND",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "NI",
+  "description" : "NICARAGUA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "NG",
+  "description" : "NIGERIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "NO",
+  "description" : "NORWAY",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "PY",
+  "description" : "PARAGUAY",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "PE",
+  "description" : "PERU",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "PL",
+  "description" : "POLAND",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "PT",
+  "description" : "PORTUGAL",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "PR",
+  "description" : "PUERTO RICO",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "RU",
+  "description" : "RUSSIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SA",
+  "description" : "SAUDI ARABIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "ZA",
+  "description" : "SOUTH AFRICA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "ES",
+  "description" : "SPAIN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SE",
+  "description" : "SWEDEN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CH",
+  "description" : "SWITZERLAND",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "TW",
+  "description" : "TAIWAN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "TR",
+  "description" : "TURKEY",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "UK",
+  "description" : "UNITED KINGDOM",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "US",
+  "description" : "UNITED STATES",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "UY",
+  "description" : "URUGUAY",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "VE",
+  "description" : "VENEZUELA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SD",
+  "description" : "SUDAN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "II",
+  "description" : "ISLE OF ILIAS",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "AF",
+  "description" : "AFGHANISTAN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "AL",
+  "description" : "ALBANIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "DZ",
+  "description" : "ALGERIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "AO",
+  "description" : "ANGOLA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "AG",
+  "description" : "ANTIGUA AND BARBUDA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "AW",
+  "description" : "ARUBA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "AZ",
+  "description" : "AZERBAIJAN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BH",
+  "description" : "BAHRAIN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BD",
+  "description" : "BANGLADESH",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BB",
+  "description" : "BARBADOS",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BY",
+  "description" : "BELARUS",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BZ",
+  "description" : "BELIZE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BM",
+  "description" : "BERMUDA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BT",
+  "description" : "BHUTAN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BW",
+  "description" : "BOTSWANA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "VG",
+  "description" : "BRITISH VIRGIN ISLAN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BN",
+  "description" : "BRUNEI DARUSSALAM",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BG",
+  "description" : "BULGARIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BF",
+  "description" : "BURKINA FASO",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MM",
+  "description" : "MYANMAR",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BI",
+  "description" : "BURUNDI",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CM",
+  "description" : "CAMEROON",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CV",
+  "description" : "CAPE VERDE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "KY",
+  "description" : "CAYMAN ISLANDS",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "KM",
+  "description" : "COMOROS",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CG",
+  "description" : "CONGO",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CY",
+  "description" : "CYPRUS",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "YE",
+  "description" : "YEMEN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "DJ",
+  "description" : "DJIBOUTI",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "DM",
+  "description" : "DOMINICA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GQ",
+  "description" : "EQUATORIAL GUINEA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "EE",
+  "description" : "ESTONIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "FJ",
+  "description" : "FIJI",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GA",
+  "description" : "GABON",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GM",
+  "description" : "GAMBIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GH",
+  "description" : "GHANA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GD",
+  "description" : "GRENADA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GN",
+  "description" : "GUINEA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GW",
+  "description" : "GUINEA-BISSUA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GY",
+  "description" : "GUYANA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "HT",
+  "description" : "HAITI",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "HU",
+  "description" : "HUNGARY",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "IS",
+  "description" : "ICELAND",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "ID",
+  "description" : "INDONESIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "IR",
+  "description" : "IRAN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CI",
+  "description" : "COTE D'IVOIRE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "JO",
+  "description" : "JORDAN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "KE",
+  "description" : "KENYA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "KW",
+  "description" : "KUWAIT",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "KP",
+  "description" : "KOREA, DEMO PEOPLE'S",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "KG",
+  "description" : "KYRGYZHSTAN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "LA",
+  "description" : "LOA PEOPLE'S DEM REP",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "LV",
+  "description" : "LATVIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "LB",
+  "description" : "LEBANON",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "LR",
+  "description" : "LIBERIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "LI",
+  "description" : "LIECHTENSTEIN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "LT",
+  "description" : "LITHUANIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MG",
+  "description" : "MADAGASCAR",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MY",
+  "description" : "MALAYSIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "ML",
+  "description" : "MALI",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MT",
+  "description" : "MALTA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MR",
+  "description" : "MAURITANIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MN",
+  "description" : "MONGOLIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MC",
+  "description" : "MONACO",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MZ",
+  "description" : "MOZAMBIQUE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "NP",
+  "description" : "NEPAL",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "AN",
+  "description" : "NETHERLAND ANTILLES",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "NE",
+  "description" : "NIGER",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "OM",
+  "description" : "OMAN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "PK",
+  "description" : "PAKISTAN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "PA",
+  "description" : "PANAMA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "PH",
+  "description" : "PHILIPPINES",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "QA",
+  "description" : "QATAR",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "RO",
+  "description" : "ROMANIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "KN",
+  "description" : "ST. KITTS AND NEVIS",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "LC",
+  "description" : "SAINT LUCIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "VC",
+  "description" : "ST. VINCENT & GRENAD",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "WS",
+  "description" : "SAMOA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SN",
+  "description" : "SENEGAL",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SG",
+  "description" : "SINGAPORE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SB",
+  "description" : "SOLOMAN ISLANDS",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SZ",
+  "description" : "SWAZILAND",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SY",
+  "description" : "SYRIAN ARAB REPUBLIC",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "TH",
+  "description" : "THAILAND",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "TT",
+  "description" : "TRINIDAD AND TOBAGO",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "TN",
+  "description" : "TUNISIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "UA",
+  "description" : "UKRAINE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "AE",
+  "description" : "UNITED ARAB EMIRATES",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "VN",
+  "description" : "VIETNAM",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "YU",
+  "description" : "YUGOSLAVIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "ZW",
+  "description" : "ZIMBABWE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "ZR",
+  "description" : "ZAIRE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "ET",
+  "description" : "ETHIOPIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "KV",
+  "description" : "KOSOVO",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "AX",
+  "description" : "ALAND ISLANDS",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "AS",
+  "description" : "AMERICAN SAMOA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "AD",
+  "description" : "ANDORRA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "AI",
+  "description" : "ANGUILLA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "AQ",
+  "description" : "ANTARCTICA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "AM",
+  "description" : "ARMENIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BJ",
+  "description" : "BENIN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BA",
+  "description" : "BOSNIA & HERZEGOVINA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BV",
+  "description" : "BOUVET ISLAND",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "IO",
+  "description" : "BRITISH IND OC TER",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "KH",
+  "description" : "CAMBODIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CF",
+  "description" : "CENTRAL AFRICAN REP",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "TD",
+  "description" : "CHAD",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CX",
+  "description" : "CHRISTMAS ISLAND",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CC",
+  "description" : "COCOS (KEELING) ISL",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CD",
+  "description" : "CONGO, DEMOC REP OF",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "CK",
+  "description" : "COOK ISLANDS",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "ER",
+  "description" : "ERITREA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "FK",
+  "description" : "FALKLAND-MALVINAS",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "FO",
+  "description" : "FAROE ISLANDS",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GF",
+  "description" : "FRENCH GUIANA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "PF",
+  "description" : "FRENCH POLYNESIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "TF",
+  "description" : "FRENCH SOUTHERN TER",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GE",
+  "description" : "GEORGIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GI",
+  "description" : "GIBRALTAR",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GL",
+  "description" : "GREENLAND",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GP",
+  "description" : "GUADELOUPE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GU",
+  "description" : "GUAM",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GG",
+  "description" : "GUERNSEY",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "HM",
+  "description" : "HEARD ISL & MCDONALD",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "VA",
+  "description" : "HOLY SEE (VATICAN)",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "IQ",
+  "description" : "IRAQ",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "IM",
+  "description" : "ISLE OF MAN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "JE",
+  "description" : "JERSEY",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "KZ",
+  "description" : "KAZAKHSTAN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "KI",
+  "description" : "KIRIBATI",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "KR",
+  "description" : "KOREA, REPUBLIC OF",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "LS",
+  "description" : "LESOTHO",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "LY",
+  "description" : "LIBYAN ARB JAMAHIRIY",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MO",
+  "description" : "MACAO",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MK",
+  "description" : "MACEDONIA (YUGOSLAV)",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MW",
+  "description" : "MALAWI",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MV",
+  "description" : "MALDIVES",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MH",
+  "description" : "MARSHALL ISLANDS",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MQ",
+  "description" : "MARTINIQUE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MU",
+  "description" : "MAURITIUS",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "YT",
+  "description" : "MAYOTTE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "FM",
+  "description" : "MICRONESIA, FED STAT",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MD",
+  "description" : "MOLDOVA, REPUBLIC OF",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "ME",
+  "description" : "MONTENEGRO",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MS",
+  "description" : "MONTSERRAT",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "NA",
+  "description" : "NAMIBIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "NR",
+  "description" : "NAURU",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "NC",
+  "description" : "NEW CALEDONIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "NU",
+  "description" : "NIUE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "NF",
+  "description" : "NORFOLK ISLAND",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MP",
+  "description" : "NORTHERN MARIANA ISL",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "PW",
+  "description" : "PALAU",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "PS",
+  "description" : "PALESTINIAN TER, OCC",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "PG",
+  "description" : "PAPUA NEW GUINEA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "PN",
+  "description" : "PITCAIRN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "RE",
+  "description" : "REUNION",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "RW",
+  "description" : "RWANDA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "BL",
+  "description" : "SAINT BARTHELEMY",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SH",
+  "description" : "SAINT HELENA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "MF",
+  "description" : "SAINT MARTIN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "PM",
+  "description" : "ST PIERRE & MIQUELON",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SM",
+  "description" : "SAN MARINO",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "ST",
+  "description" : "SAO TOME & PRINCIPE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "RS",
+  "description" : "SERBIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SC",
+  "description" : "SEYCHELLES",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SL",
+  "description" : "SIERRA LEONE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SK",
+  "description" : "SLOVAKIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SI",
+  "description" : "SLOVENIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SO",
+  "description" : "SOMALIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "GS",
+  "description" : "S GEORGIA & S SANDW",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SR",
+  "description" : "SURINAME",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "SJ",
+  "description" : "SVALBARD & JAN MAYEN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "TJ",
+  "description" : "TAJIKISTAN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "TZ",
+  "description" : "TANZANIA, UNITED REP",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "TL",
+  "description" : "TIMOR-LESTE",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "TG",
+  "description" : "TOGO",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "TK",
+  "description" : "TOKELAU",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "TO",
+  "description" : "TONGA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "TM",
+  "description" : "TURKMENISTAN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "TC",
+  "description" : "TURKS & CAICOS ISL",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "TV",
+  "description" : "TUVALU",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "UG",
+  "description" : "UGANDA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "UM",
+  "description" : "US MINOR OUT ISL",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "UZ",
+  "description" : "UZBEKISTAN",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "VU",
+  "description" : "VANUATU",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "VI",
+  "description" : "VIRGIN ISLANDS, US",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "WF",
+  "description" : "WALLIS AND FUTUNA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "EH",
+  "description" : "WESTERN SAHARA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "ZM",
+  "description" : "ZAMBIA",
+  "record_type" : "T"
+}
+, {
+  "country_code" : "LK",
+  "description" : "SRI LANKA",
+  "record_type" : "T"
+}
+ ]

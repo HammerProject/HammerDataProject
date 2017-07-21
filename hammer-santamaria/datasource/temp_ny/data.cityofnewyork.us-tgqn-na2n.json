@@ -1,0 +1,991 @@
+[ {
+  "client_total" : "28",
+  "case_type" : "ACD",
+  "borough" : "Bronx",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "35",
+  "case_type" : "ACD",
+  "borough" : "Bronx",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "23",
+  "case_type" : "ACD",
+  "borough" : "Bronx",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "73",
+  "case_type" : "ACD",
+  "borough" : "Bronx",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "105",
+  "case_type" : "ACD",
+  "borough" : "Bronx",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "124",
+  "case_type" : "ACD",
+  "borough" : "Bronx",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "130",
+  "case_type" : "ACD",
+  "borough" : "Bronx",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "122",
+  "case_type" : "ACD",
+  "borough" : "Bronx",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "83",
+  "case_type" : "ACD",
+  "borough" : "Bronx",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "68",
+  "case_type" : "ACD",
+  "borough" : "Bronx",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "60",
+  "case_type" : "ACD",
+  "borough" : "Bronx",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "190",
+  "case_type" : "ESP",
+  "borough" : "Bronx",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "167",
+  "case_type" : "ESP",
+  "borough" : "Bronx",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "204",
+  "case_type" : "ESP",
+  "borough" : "Bronx",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "239",
+  "case_type" : "ESP",
+  "borough" : "Bronx",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "254",
+  "case_type" : "ESP",
+  "borough" : "Bronx",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "175",
+  "case_type" : "ESP",
+  "borough" : "Bronx",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "180",
+  "case_type" : "ESP",
+  "borough" : "Bronx",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "141",
+  "case_type" : "ESP",
+  "borough" : "Bronx",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "83",
+  "case_type" : "ESP",
+  "borough" : "Bronx",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "60",
+  "case_type" : "ESP",
+  "borough" : "Bronx",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "59",
+  "case_type" : "ESP",
+  "borough" : "Bronx",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "556",
+  "case_type" : "JD",
+  "borough" : "Bronx",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "516",
+  "case_type" : "JD",
+  "borough" : "Bronx",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "445",
+  "case_type" : "JD",
+  "borough" : "Bronx",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "457",
+  "case_type" : "JD",
+  "borough" : "Bronx",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "431",
+  "case_type" : "JD",
+  "borough" : "Bronx",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "419",
+  "case_type" : "JD",
+  "borough" : "Bronx",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "367",
+  "case_type" : "JD",
+  "borough" : "Bronx",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "324",
+  "case_type" : "JD",
+  "borough" : "Bronx",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "349",
+  "case_type" : "JD",
+  "borough" : "Bronx",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "282",
+  "case_type" : "JD",
+  "borough" : "Bronx",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "283",
+  "case_type" : "JD",
+  "borough" : "Bronx",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "198",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "145",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "161",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "167",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "180",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "115",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "126",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "112",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "88",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "76",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "63",
+  "case_type" : "ACD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "158",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "134",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "148",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "130",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "132",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "75",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "113",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "87",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "56",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "55",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "43",
+  "case_type" : "ESP",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "615",
+  "case_type" : "JD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "540",
+  "case_type" : "JD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "495",
+  "case_type" : "JD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "455",
+  "case_type" : "JD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "429",
+  "case_type" : "JD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "323",
+  "case_type" : "JD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "351",
+  "case_type" : "JD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "392",
+  "case_type" : "JD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "349",
+  "case_type" : "JD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "296",
+  "case_type" : "JD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "251",
+  "case_type" : "JD",
+  "borough" : "Brooklyn",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "10",
+  "case_type" : "ACD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "30",
+  "case_type" : "ACD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "32",
+  "case_type" : "ACD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "39",
+  "case_type" : "ACD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "65",
+  "case_type" : "ACD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "26",
+  "case_type" : "ACD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "36",
+  "case_type" : "ACD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "25",
+  "case_type" : "ACD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "23",
+  "case_type" : "ACD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "29",
+  "case_type" : "ACD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "40",
+  "case_type" : "ACD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "71",
+  "case_type" : "ESP",
+  "borough" : "Manhattan",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "84",
+  "case_type" : "ESP",
+  "borough" : "Manhattan",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "89",
+  "case_type" : "ESP",
+  "borough" : "Manhattan",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "79",
+  "case_type" : "ESP",
+  "borough" : "Manhattan",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "79",
+  "case_type" : "ESP",
+  "borough" : "Manhattan",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "66",
+  "case_type" : "ESP",
+  "borough" : "Manhattan",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "62",
+  "case_type" : "ESP",
+  "borough" : "Manhattan",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "68",
+  "case_type" : "ESP",
+  "borough" : "Manhattan",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "34",
+  "case_type" : "ESP",
+  "borough" : "Manhattan",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "25",
+  "case_type" : "ESP",
+  "borough" : "Manhattan",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "21",
+  "case_type" : "ESP",
+  "borough" : "Manhattan",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "269",
+  "case_type" : "JD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "249",
+  "case_type" : "JD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "289",
+  "case_type" : "JD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "339",
+  "case_type" : "JD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "273",
+  "case_type" : "JD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "233",
+  "case_type" : "JD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "242",
+  "case_type" : "JD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "174",
+  "case_type" : "JD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "145",
+  "case_type" : "JD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "207",
+  "case_type" : "JD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "137",
+  "case_type" : "JD",
+  "borough" : "Manhattan",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "189",
+  "case_type" : "ACD",
+  "borough" : "Queens",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "161",
+  "case_type" : "ACD",
+  "borough" : "Queens",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "133",
+  "case_type" : "ACD",
+  "borough" : "Queens",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "98",
+  "case_type" : "ACD",
+  "borough" : "Queens",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "113",
+  "case_type" : "ACD",
+  "borough" : "Queens",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "82",
+  "case_type" : "ACD",
+  "borough" : "Queens",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "35",
+  "case_type" : "ACD",
+  "borough" : "Queens",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "37",
+  "case_type" : "ACD",
+  "borough" : "Queens",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "51",
+  "case_type" : "ACD",
+  "borough" : "Queens",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "53",
+  "case_type" : "ACD",
+  "borough" : "Queens",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "31",
+  "case_type" : "ACD",
+  "borough" : "Queens",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "107",
+  "case_type" : "ESP",
+  "borough" : "Queens",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "119",
+  "case_type" : "ESP",
+  "borough" : "Queens",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "164",
+  "case_type" : "ESP",
+  "borough" : "Queens",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "169",
+  "case_type" : "ESP",
+  "borough" : "Queens",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "180",
+  "case_type" : "ESP",
+  "borough" : "Queens",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "139",
+  "case_type" : "ESP",
+  "borough" : "Queens",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "100",
+  "case_type" : "ESP",
+  "borough" : "Queens",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "75",
+  "case_type" : "ESP",
+  "borough" : "Queens",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "71",
+  "case_type" : "ESP",
+  "borough" : "Queens",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "60",
+  "case_type" : "ESP",
+  "borough" : "Queens",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "61",
+  "case_type" : "ESP",
+  "borough" : "Queens",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "533",
+  "case_type" : "JD",
+  "borough" : "Queens",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "383",
+  "case_type" : "JD",
+  "borough" : "Queens",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "444",
+  "case_type" : "JD",
+  "borough" : "Queens",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "392",
+  "case_type" : "JD",
+  "borough" : "Queens",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "398",
+  "case_type" : "JD",
+  "borough" : "Queens",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "330",
+  "case_type" : "JD",
+  "borough" : "Queens",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "289",
+  "case_type" : "JD",
+  "borough" : "Queens",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "277",
+  "case_type" : "JD",
+  "borough" : "Queens",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "232",
+  "case_type" : "JD",
+  "borough" : "Queens",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "195",
+  "case_type" : "JD",
+  "borough" : "Queens",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "143",
+  "case_type" : "JD",
+  "borough" : "Queens",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "46",
+  "case_type" : "ACD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "27",
+  "case_type" : "ACD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "28",
+  "case_type" : "ACD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "48",
+  "case_type" : "ACD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "27",
+  "case_type" : "ACD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "24",
+  "case_type" : "ACD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "27",
+  "case_type" : "ACD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "32",
+  "case_type" : "ACD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "16",
+  "case_type" : "ACD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "10",
+  "case_type" : "ACD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "11",
+  "case_type" : "ACD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "15",
+  "case_type" : "ESP",
+  "borough" : "Staten Island",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "26",
+  "case_type" : "ESP",
+  "borough" : "Staten Island",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "28",
+  "case_type" : "ESP",
+  "borough" : "Staten Island",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "44",
+  "case_type" : "ESP",
+  "borough" : "Staten Island",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "42",
+  "case_type" : "ESP",
+  "borough" : "Staten Island",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "48",
+  "case_type" : "ESP",
+  "borough" : "Staten Island",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "25",
+  "case_type" : "ESP",
+  "borough" : "Staten Island",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "17",
+  "case_type" : "ESP",
+  "borough" : "Staten Island",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "23",
+  "case_type" : "ESP",
+  "borough" : "Staten Island",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "14",
+  "case_type" : "ESP",
+  "borough" : "Staten Island",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "19",
+  "case_type" : "ESP",
+  "borough" : "Staten Island",
+  "calendar_year" : "2016"
+}
+, {
+  "client_total" : "119",
+  "case_type" : "JD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2006"
+}
+, {
+  "client_total" : "150",
+  "case_type" : "JD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2007"
+}
+, {
+  "client_total" : "146",
+  "case_type" : "JD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2008"
+}
+, {
+  "client_total" : "150",
+  "case_type" : "JD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2009"
+}
+, {
+  "client_total" : "120",
+  "case_type" : "JD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2010"
+}
+, {
+  "client_total" : "107",
+  "case_type" : "JD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2011"
+}
+, {
+  "client_total" : "70",
+  "case_type" : "JD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2012"
+}
+, {
+  "client_total" : "93",
+  "case_type" : "JD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2013"
+}
+, {
+  "client_total" : "78",
+  "case_type" : "JD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2014"
+}
+, {
+  "client_total" : "58",
+  "case_type" : "JD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2015"
+}
+, {
+  "client_total" : "50",
+  "case_type" : "JD",
+  "borough" : "Staten Island",
+  "calendar_year" : "2016"
+}
+ ]

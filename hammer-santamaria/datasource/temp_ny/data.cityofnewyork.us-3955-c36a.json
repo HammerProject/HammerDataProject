@@ -1,0 +1,205 @@
+[ {
+  "service" : "Clinic or emergency room visit for adults",
+  "fee" : "15",
+  "hhc_options_reduced_fee_level" : "1"
+}
+, {
+  "service" : "Clinic or emergency room visit for adults",
+  "fee" : "20",
+  "hhc_options_reduced_fee_level" : "2"
+}
+, {
+  "service" : "Clinic or emergency room visit for adults",
+  "fee" : "30",
+  "hhc_options_reduced_fee_level" : "3"
+}
+, {
+  "service" : "Clinic or emergency room visit for adults",
+  "fee" : "40",
+  "hhc_options_reduced_fee_level" : "4"
+}
+, {
+  "service" : "Clinic or emergency room visit for adults",
+  "fee" : "50",
+  "hhc_options_reduced_fee_level" : "5"
+}
+, {
+  "service" : "Clinic or emergency room visit for adults",
+  "fee" : "60",
+  "hhc_options_reduced_fee_level" : "6"
+}
+, {
+  "service" : "Clinic or emergency room visit for adults",
+  "hhc_options_reduced_fee_level" : "7"
+}
+, {
+  "service" : "Clinic or emergency room visit for children or pregnant women",
+  "fee" : "0",
+  "hhc_options_reduced_fee_level" : "1"
+}
+, {
+  "service" : "Clinic or emergency room visit for children or pregnant women",
+  "fee" : "0",
+  "hhc_options_reduced_fee_level" : "2"
+}
+, {
+  "service" : "Clinic or emergency room visit for children or pregnant women",
+  "fee" : "0",
+  "hhc_options_reduced_fee_level" : "3"
+}
+, {
+  "service" : "Clinic or emergency room visit for children or pregnant women",
+  "fee" : "15",
+  "hhc_options_reduced_fee_level" : "4"
+}
+, {
+  "service" : "Clinic or emergency room visit for children or pregnant women",
+  "fee" : "20",
+  "hhc_options_reduced_fee_level" : "5"
+}
+, {
+  "service" : "Clinic or emergency room visit for children or pregnant women",
+  "fee" : "30",
+  "hhc_options_reduced_fee_level" : "6"
+}
+, {
+  "service" : "Clinic or emergency room visit for children or pregnant women",
+  "hhc_options_reduced_fee_level" : "7"
+}
+, {
+  "service" : "Patient co-pays and deductibles",
+  "fee" : "0",
+  "hhc_options_reduced_fee_level" : "1"
+}
+, {
+  "service" : "Patient co-pays and deductibles",
+  "fee" : "0",
+  "hhc_options_reduced_fee_level" : "2"
+}
+, {
+  "service" : "Patient co-pays and deductibles",
+  "fee" : "10",
+  "hhc_options_reduced_fee_level" : "3"
+}
+, {
+  "service" : "Patient co-pays and deductibles",
+  "fee" : "12",
+  "hhc_options_reduced_fee_level" : "4"
+}
+, {
+  "service" : "Patient co-pays and deductibles",
+  "fee" : "15",
+  "hhc_options_reduced_fee_level" : "5"
+}
+, {
+  "service" : "Patient co-pays and deductibles",
+  "fee" : "18",
+  "hhc_options_reduced_fee_level" : "6"
+}
+, {
+  "service" : "Patient co-pays and deductibles",
+  "hhc_options_reduced_fee_level" : "7"
+}
+, {
+  "service" : "Prescription Drugs or Pharmacy co-pays per prescription",
+  "fee" : "2",
+  "hhc_options_reduced_fee_level" : "1"
+}
+, {
+  "service" : "Prescription Drugs or Pharmacy co-pays per prescription",
+  "fee" : "6",
+  "hhc_options_reduced_fee_level" : "2"
+}
+, {
+  "service" : "Prescription Drugs or Pharmacy co-pays per prescription",
+  "fee" : "10",
+  "hhc_options_reduced_fee_level" : "3"
+}
+, {
+  "service" : "Prescription Drugs or Pharmacy co-pays per prescription",
+  "fee" : "14",
+  "hhc_options_reduced_fee_level" : "4"
+}
+, {
+  "service" : "Prescription Drugs or Pharmacy co-pays per prescription",
+  "fee" : "18",
+  "hhc_options_reduced_fee_level" : "5"
+}
+, {
+  "service" : "Prescription Drugs or Pharmacy co-pays per prescription",
+  "fee" : "22",
+  "hhc_options_reduced_fee_level" : "6"
+}
+, {
+  "service" : "Prescription Drugs or Pharmacy co-pays per prescription",
+  "hhc_options_reduced_fee_level" : "7"
+}
+, {
+  "service" : "Ambulatory Surgery and MRI testing for adults and children",
+  "fee" : "150",
+  "hhc_options_reduced_fee_level" : "1"
+}
+, {
+  "service" : "Ambulatory Surgery and MRI testing for adults and children",
+  "fee" : "250",
+  "hhc_options_reduced_fee_level" : "2"
+}
+, {
+  "service" : "Ambulatory Surgery and MRI testing for adults and children",
+  "fee" : "350",
+  "hhc_options_reduced_fee_level" : "3"
+}
+, {
+  "service" : "Ambulatory Surgery and MRI testing for adults and children",
+  "fee" : "450",
+  "hhc_options_reduced_fee_level" : "4"
+}
+, {
+  "service" : "Ambulatory Surgery and MRI testing for adults and children",
+  "fee" : "550",
+  "hhc_options_reduced_fee_level" : "5"
+}
+, {
+  "service" : "Ambulatory Surgery and MRI testing for adults and children",
+  "fee" : "650",
+  "hhc_options_reduced_fee_level" : "6"
+}
+, {
+  "service" : "Ambulatory Surgery and MRI testing for adults and children",
+  "hhc_options_reduced_fee_level" : "7"
+}
+, {
+  "service" : "Hospital Stays, if your savings are less than $8,000.",
+  "fee" : "150",
+  "hhc_options_reduced_fee_level" : "1"
+}
+, {
+  "service" : "Hospital Stays, if your savings are less than $8,000.",
+  "fee" : "300",
+  "hhc_options_reduced_fee_level" : "2"
+}
+, {
+  "service" : "Hospital Stays, if your savings are less than $8,000.",
+  "fee" : "800",
+  "hhc_options_reduced_fee_level" : "3"
+}
+, {
+  "service" : "Hospital Stays, if your savings are less than $8,000.",
+  "fee" : "1800",
+  "hhc_options_reduced_fee_level" : "4"
+}
+, {
+  "service" : "Hospital Stays, if your savings are less than $8,000.",
+  "fee" : "3000",
+  "hhc_options_reduced_fee_level" : "5"
+}
+, {
+  "service" : "Hospital Stays, if your savings are less than $8,000.",
+  "fee" : "5000",
+  "hhc_options_reduced_fee_level" : "6"
+}
+, {
+  "service" : "Hospital Stays, if your savings are less than $8,000.",
+  "hhc_options_reduced_fee_level" : "7"
+}
+ ]

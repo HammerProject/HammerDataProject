@@ -81,6 +81,7 @@ public class App {
 				throw new Exception("Method failed: " + method.getStatusLine());
 			}
 			byte[] responseBody = method.getResponseBody();
+			@SuppressWarnings("unchecked")
 			ArrayList<BasicDBObject> docs = (ArrayList<BasicDBObject>) JSON.parse(new String(responseBody));
 			SaveFile(filePath,responseBody);
 			

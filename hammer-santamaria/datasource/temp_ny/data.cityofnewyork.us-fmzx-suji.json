@@ -1,0 +1,61 @@
+[ {
+  "_4_person_households" : "67596",
+  "average_household_size" : "2.77",
+  "_1_person_households" : "136482",
+  "year" : "2010",
+  "_3_person_households" : "87693",
+  "_7_or_more_person_households" : "16159",
+  "borough" : "Bronx",
+  "_5_person_households" : "38827",
+  "_2_person_households" : "118775",
+  "_6_person_households" : "17917"
+}
+, {
+  "_4_person_households" : "113355",
+  "average_household_size" : "2.69",
+  "_1_person_households" : "266236",
+  "year" : "2010",
+  "_3_person_households" : "154530",
+  "_7_or_more_person_households" : "33848",
+  "borough" : "Brooklyn",
+  "_5_person_households" : "62100",
+  "_2_person_households" : "255615",
+  "_6_person_households" : "31172"
+}
+, {
+  "_4_person_households" : "54543",
+  "average_household_size" : "1.99",
+  "_1_person_households" : "353569",
+  "year" : "2010",
+  "_3_person_households" : "87262",
+  "_7_or_more_person_households" : "7737",
+  "borough" : "Manhattan",
+  "_5_person_households" : "22006",
+  "_2_person_households" : "229856",
+  "_6_person_households" : "8873"
+}
+, {
+  "_4_person_households" : "114363",
+  "average_household_size" : "2.82",
+  "_1_person_households" : "199461",
+  "year" : "2010",
+  "_3_person_households" : "137480",
+  "_7_or_more_person_households" : "28273",
+  "borough" : "Queens",
+  "_5_person_households" : "61876",
+  "_2_person_households" : "209249",
+  "_6_person_households" : "29415"
+}
+, {
+  "_4_person_households" : "27832",
+  "average_household_size" : "2.78",
+  "_1_person_households" : "40007",
+  "year" : "2010",
+  "_3_person_households" : "29678",
+  "_7_or_more_person_households" : "3750",
+  "borough" : "Staten Island",
+  "_5_person_households" : "13706",
+  "_2_person_households" : "45286",
+  "_6_person_households" : "5257"
+}
+ ]

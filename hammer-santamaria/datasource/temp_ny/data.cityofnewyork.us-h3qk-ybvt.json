@@ -1,0 +1,5556 @@
+[ {
+  "acronym" : "BPL",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectstatus" : "Completed"
+}
+, {
+  "startdateactual" : "09-Apr-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Leonard Branch Library",
+  "acronym" : "BPL",
+  "finishdateactual" : "28-Sep-12",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "81 Devoe Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "15.10"
+}
+, {
+  "startdateactual" : "14-May-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Washington Irving Branch Library",
+  "acronym" : "BPL",
+  "finishdateactual" : "28-Sep-12",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "360 Irving Avenue",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "11.90"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Brooklyn Heights Branch Library",
+  "acronym" : "BPL",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "280 Cadman Plaza West",
+  "projectstatus" : "Cancelled",
+  "co2e_mt_calculated" : "117.07"
+}
+, {
+  "startdateactual" : "16-Mar-10",
+  "subtype" : "None",
+  "projectsitename" : "Brooklyn Heights Branch Library",
+  "acronym" : "BPL",
+  "finishdateactual" : "23-Aug-10",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "286 Fulton Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "135.53"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Brooklyn Heights Branch Library",
+  "acronym" : "BPL",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "280 Cadman Plaza West",
+  "projectstatus" : "Proposed"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Brooklyn Heights Branch Library",
+  "acronym" : "BPL",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "280 Cadman Plaza West",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Kingsborough Community College",
+  "acronym" : "CUNY",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "2001 Oriental Blvd",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "1632.56"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Queensborough Community College, Medical Arts Building",
+  "acronym" : "CUNY",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "222-05 56th Avenue",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "273.65"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Kingsborough Community College, T-2 Building",
+  "acronym" : "CUNY",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "2065 Oriental Blvd",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "43.32"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Kingsborough Community College, T-2 Building",
+  "acronym" : "CUNY",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "2111 Oriental Blvd",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "57.81"
+}
+, {
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "76.48"
+}
+, {
+  "startdateactual" : "01-Nov-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Bronx Community College - Phase 1 HVAC Upgrade",
+  "acronym" : "CUNY",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "2155 University Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "2246.61"
+}
+, {
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "37.19"
+}
+, {
+  "startdateactual" : "01-Jan-12",
+  "subtype" : "None",
+  "projectsitename" : "CUNY Solar Mapping Project",
+  "acronym" : "CUNY",
+  "finishdateactual" : "01-Jun-10",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "Not applicable"
+}
+, {
+  "startdateactual" : "01-Apr-09",
+  "projectsitename" : "Manhattan Municipal Building",
+  "acronym" : "DCAS",
+  "finishdateactual" : "01-Jun-09",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "1 Centre Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "583.63"
+}
+, {
+  "subtype" : "Retrofit",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Comprehensive",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "2060.41"
+}
+, {
+  "startdateactual" : "27-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "Brooklyn Supreme Court",
+  "acronym" : "DFMC",
+  "finishdateactual" : "03-Aug-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "292-360 AdamsSt",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "2151.65"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Brooklyn Supreme Court",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "292-360 Adams Strrt",
+  "projectstatus" : "Proposed"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Brooklyn Supreme Court",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "292-360 Adams Strrt",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "acronym" : "DFMC",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectstatus" : "Design"
+}
+, {
+  "startdateactual" : "02-Mar-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "60-80-100 Centre Street",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "60-80-100 Centre Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "-97.69"
+}
+, {
+  "startdateactual" : "24-May-07",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Dfmc Shops - 390 Kent Avenue",
+  "acronym" : "DCAS",
+  "finishdateactual" : "19-Dec-07",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "BROADWAY KENT AVE & SOUTH 6TH ST   SHOPS, 390 Kent Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "48.96"
+}
+, {
+  "startdateactual" : "12-Sep-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Municipal Building - 1 Centre Street",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1 Centre Street",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "629.54"
+}
+, {
+  "startdateactual" : "03-Aug-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Brooklyn Municipal Bldg - 210 Joralemon St.",
+  "acronym" : "DCAS",
+  "finishdateactual" : "14-Jan-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "Court-Joralemon Sts Bklyn Municipal Bldg",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "73.13"
+}
+, {
+  "startdateactual" : "03-Aug-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Manhattan Health Building - 125 Worth St.",
+  "acronym" : "DCAS",
+  "finishdateactual" : "04-Feb-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "125 Worth Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "150.25"
+}
+, {
+  "startdateactual" : "08-Apr-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Bronx County Court - 851 Grand Concourse",
+  "acronym" : "DCAS",
+  "finishdateactual" : "29-Sep-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "E 161ST ST & GRAND CONCORSE BX COUNTY CT",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Mario Merola Building",
+  "acronym" : "DFMC",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "851 Grand Concourse Bronx NY",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "777.76"
+}
+, {
+  "startdateactual" : "31-Mar-10",
+  "subtype" : "None",
+  "projectsitename" : "Mario Merola Building",
+  "acronym" : "DCAS",
+  "finishdateactual" : "19-Mar-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "851 Grand Concourse",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "1535.73"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Bronx County Court- Bin # 2002869",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "851 Grand Concourse",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "05-Jul-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Queens Borough Hall",
+  "acronym" : "DCAS",
+  "finishdateactual" : "30-Oct-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "120-55 Queens Blvd",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "124.90"
+}
+, {
+  "startdateactual" : "15-Apr-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Queens Borough Hall",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "120-55 Queens Blvd",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "2373.48"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Queens Borough Hall120-55 Queens Blvd",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Other",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Brooklyn Central Court",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "120 Schermerhorn St",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "346.23"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Brooklyn Central Court",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "120 Schermerhorn Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Manhattan Criminal Courthouse",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "100 Centre Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "1545.09"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Manhattan Criminal Courthouse",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "125 White Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "07-Jun-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "100 Gold Street",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "100 Gold Street",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "1327.02"
+}
+, {
+  "startdateactual" : "09-Aug-11",
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "100 Gold Street",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "100 Gold Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "01-Mar-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "137 Centre Street",
+  "acronym" : "DCAS",
+  "finishdateactual" : "09-Aug-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "133-37 Centre Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "71.03"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Queens Criminal Court",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "120-55 Queens Blvd. Queens NY 11415",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "1291.03"
+}
+, {
+  "startdateactual" : "21-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "Queens Criminal Court",
+  "acronym" : "DFMC",
+  "finishdateactual" : "31-Oct-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "120-55 Queens Blvd. Queens NY 11415",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "2129.43"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Queens Criminal Court",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "120-55 Queens Blvd. Queens NY 11415",
+  "projectstatus" : "Proposed"
+}
+, {
+  "startdateactual" : "01-Jan-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "The Metropolitan Museum Of Art",
+  "acronym" : "MoMA",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "1000 5th Ave",
+  "projectstatus" : "Install"
+}
+, {
+  "startdateactual" : "01-Jul-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Carnegie Hall",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "881 7th Avenue",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "308.71"
+}
+, {
+  "startdateactual" : "07-Nov-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Museum Of The Moving Image",
+  "acronym" : "DCLA",
+  "finishdateactual" : "10-Mar-11",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "36-01 35th Ave",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "143.86"
+}
+, {
+  "startdateactual" : "01-May-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Museum Of The City Of New York",
+  "acronym" : "DCLA",
+  "finishdateactual" : "30-Nov-11",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "1220 Fifth Avenue",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "111.96"
+}
+, {
+  "projectsitename" : "Interior Lighting CFLs - Various Cultural Institutions",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "Various",
+  "projectstatus" : "Completed"
+}
+, {
+  "startdateactual" : "01-Jan-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "American Museum Of Natural History",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "W 77-81 Streets Columbus Ave, 200 Central Park West",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "958.74"
+}
+, {
+  "startdateactual" : "01-Jul-08",
+  "subtype" : "Retrofit",
+  "acronym" : "DCLA",
+  "finishdateactual" : "30-Dec-09",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "871.51"
+}
+, {
+  "startdateactual" : "01-Jan-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "American Museum of Natural History",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "200 Central Park West",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "1117.96"
+}
+, {
+  "startdateactual" : "01-Nov-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Brooklyn Botanic Garden",
+  "acronym" : "DCLA",
+  "finishdateactual" : "27-Mar-12",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1000 Washington Avenue",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "30.67"
+}
+, {
+  "startdateactual" : "01-Jul-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Carnegie Hall",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "881 7th Avenue",
+  "projectstatus" : "Install"
+}
+, {
+  "startdateactual" : "01-Mar-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "City Center",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "131 West 55th Street",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "631.14"
+}
+, {
+  "startdateactual" : "09-Aug-11",
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "City Center",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "131 West 55th Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Flushing Town Hall - 137-35 Northern Blvd",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "137-35 Northern Blvd",
+  "projectstatus" : "Cancelled",
+  "co2e_mt_calculated" : "23.30"
+}
+, {
+  "startdateactual" : "01-Jan-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Jamaica Center for Arts",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "161-04 Jamaica Avenue",
+  "projectstatus" : "Cancelled"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Museum Of Jewish Heritage",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "18 First Place",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Museum Of Jewish Heritage",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "36 Battery Place",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "17-Aug-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Metropolitan Museum of Art",
+  "acronym" : "DCLA",
+  "finishdateactual" : "05-Sep-12",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1000 Fifth Avenue",
+  "projectstatus" : "Substantially Completed"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Metropolitan Museum of Art",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1000 Fifth Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "20-Sep-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Metropolitan Museum of Art",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "1000 Fifth Avenue",
+  "projectstatus" : "Install"
+}
+, {
+  "startdateactual" : "01-Apr-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Metropolitan Museum",
+  "acronym" : "DCLA",
+  "finishdateactual" : "30-Apr-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1000 Fifth Avenue Manhattan",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "291.41"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "New York Aquarium - 502 Surf Avenue",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "Boardwalk @ West 8th Street, 502 Surf Ave",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "219.89"
+}
+, {
+  "startdateactual" : "28-Apr-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "NYBG - Library Complex",
+  "acronym" : "DCLA",
+  "finishdateactual" : "22-Sep-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "NYBG WATSON DR WATSON-MUSEUM BLDG CMPLEX, 2667 Dr. Theodore Kazimiroff Boulevard",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "69.95"
+}
+, {
+  "startdateactual" : "28-Apr-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "NYBG - Haupt Conservatory",
+  "acronym" : "DCLA",
+  "finishdateactual" : "26-Jun-09",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "2740 Dr. Theodore Kazimiroff Blvd",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "8.70"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Haupt Conservatory",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "2740 Dr. Theodore Kazimiroff Blvd",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "NYBG - Watson Library Complex",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "NYBG WATSON DR WATSON-MUSEUM BLDG CMPLEX, Southern Boulevard at 200th Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "NYBG - Watson Library Complex",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "NYBG WATSON DR WATSON-MUSEUM BLDG CMPLEX, Southern Boulevard at 200th Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "28-Apr-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "NYBG - Operations Building",
+  "acronym" : "DCLA",
+  "finishdateactual" : "29-Jun-09",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "2800 Southern Blvd Visitor's Center, 2667 Dr. Theodore Kazimiroff Blvd",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "7.89"
+}
+, {
+  "startdateactual" : "28-Apr-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "NYBG - Tool Shed",
+  "acronym" : "DCLA",
+  "finishdateactual" : "26-Jun-06",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "2800 Southern Blvd, 2670 Thoedore Kazimiroff Blvd",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "0.57"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "New York Hall Of Science - 47-01 111th Street",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "47-00 111th Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "98.31"
+}
+, {
+  "startdateactual" : "01-Feb-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Snug Harbor",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "1000 Richmond Terrace",
+  "projectstatus" : "Design"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Staten Island Museum - 75 Stuyvesant Place",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "75 Stuyvesant Place",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "187.80"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Studio Museum of Harlem",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "144 West 125th Street  NY, NY  10027",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "40.43"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Studio Museum In Harlem - 144 West 125th Street",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "144 West 125th Street  NY, NY  10027",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "53.29"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Studio Museum In Harlem - 144 West 125th Street",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "144 West 125th Street  NY, NY  10027",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "134.65"
+}
+, {
+  "startdateactual" : "19-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "Studio Museum in Harlem",
+  "acronym" : "DCAS",
+  "finishdateactual" : "23-Nov-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "144 Wesst 125th Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "265.82"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Bronx Zoo",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "E. 180th Street & Devoe Ave, 2300 Southern Blvd",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "539.56"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Bronx Zoo",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "E. 180th Street & Devoe Ave, 2300 Southern Blvd",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "6026.93"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Central Building",
+  "acronym" : "BPL",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "10 Grand Army Plaza",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "832.88"
+}
+, {
+  "startdateactual" : "27-Jan-11",
+  "subtype" : "None",
+  "projectsitename" : "Central Building",
+  "acronym" : "BPL",
+  "finishdateactual" : "31-Dec-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "10 Grand Army Plaza",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "Cogen",
+  "projectsitename" : "City Hall",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "BETWEEN BROADWAY & PARK ROW",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "892.02"
+}
+, {
+  "startdateactual" : "01-Jun-11",
+  "subtype" : "None",
+  "projectsitename" : "Manhattan Supreme Court",
+  "acronym" : "DCAS",
+  "finishdateactual" : "06-Dec-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "60 Centre Street New York NY",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "617.90"
+}
+, {
+  "startdateactual" : "16-Aug-11",
+  "subtype" : "None",
+  "projectsitename" : "Sun Building",
+  "acronym" : "DCAS",
+  "finishdateactual" : "14-Dec-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "280 Broadway",
+  "projectstatus" : "Completed"
+}
+, {
+  "startdateactual" : "16-Aug-11",
+  "subtype" : "None",
+  "projectsitename" : "Long Island City Courthouse",
+  "acronym" : "DCAS",
+  "finishdateactual" : "14-Dec-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "2510 Thompson Avenue",
+  "projectstatus" : "Completed"
+}
+, {
+  "startdateactual" : "16-Aug-11",
+  "subtype" : "None",
+  "projectsitename" : "Queens Civil Court",
+  "acronym" : "DCAS",
+  "finishdateactual" : "12-Dec-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "89-17 Sutphin Boulevard",
+  "projectstatus" : "Completed"
+}
+, {
+  "startdateactual" : "16-Aug-11",
+  "subtype" : "None",
+  "projectsitename" : "Louis J Lefkowitz Building",
+  "acronym" : "DCAS",
+  "finishdateactual" : "14-Dec-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "80 Centre Street",
+  "projectstatus" : "Completed"
+}
+, {
+  "startdateactual" : "16-Aug-11",
+  "subtype" : "None",
+  "projectsitename" : "Manhattan Civil Court",
+  "acronym" : "DCAS",
+  "finishdateactual" : "06-Mar-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "111 Centre Street",
+  "projectstatus" : "Completed"
+}
+, {
+  "startdateactual" : "16-Aug-11",
+  "subtype" : "None",
+  "projectsitename" : "Excelsior Building",
+  "acronym" : "DCAS",
+  "finishdateactual" : "19-Jan-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "133-137 Centre Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "69.66"
+}
+, {
+  "startdateactual" : "16-Aug-11",
+  "subtype" : "None",
+  "projectsitename" : "Health Building",
+  "acronym" : "DCAS",
+  "finishdateactual" : "12-Dec-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "125 Worth Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "-354.98"
+}
+, {
+  "startdateactual" : "16-Aug-11",
+  "subtype" : "None",
+  "projectsitename" : "Bronx Family & Criminal Court",
+  "acronym" : "DCAS",
+  "finishdateactual" : "12-Dec-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "215 East 161st Street",
+  "projectstatus" : "Completed"
+}
+, {
+  "startdateactual" : "18-Jul-12",
+  "subtype" : "None",
+  "projectsitename" : "Staten Island Borough Hall",
+  "acronym" : "DCAS",
+  "finishdateactual" : "04-Sep-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "215 East 161st Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "1400.19"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "Queens Supreme Court",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "88-11 Sutphin Blvd",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "Manhattan Family Court",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "60 Lafayette Street",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "Office of Energy Management Headquarters",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "165 Cadman Plaza East",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "42.87"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Bronx Housing Court",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "1118 Grand Concourse",
+  "projectstatus" : "Design"
+}
+, {
+  "startdateactual" : "14-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "Bronx Housing Court",
+  "acronym" : "DCAS",
+  "finishdateactual" : "24-May-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1118 Grand Concourse",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Bronx Concourse Plaza",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "198 East 161st Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "314.72"
+}
+, {
+  "startdateactual" : "14-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "Bronx Concourse Plaza",
+  "acronym" : "DCAS",
+  "finishdateactual" : "28-Jun-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "198 East 161st Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "314.72"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Bronx Bergen Building",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "1932 Arthur Avenue Bronx NY",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "153.01"
+}
+, {
+  "startdateactual" : "14-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "Bronx Bergen Building",
+  "acronym" : "DCAS",
+  "finishdateactual" : "30-Jun-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1932 Arthur Avenue Bronx NY",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "153.01"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Mark A. Constantino Judicial Center",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "130 Stuyvesant Pl, Staten Island",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "627.89"
+}
+, {
+  "startdateactual" : "04-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "Mark A. Constantino Judicial Center",
+  "acronym" : "DCAS",
+  "finishdateactual" : "05-Jul-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "130 Stuyvesant Pl, Staten Island",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "627.89"
+}
+, {
+  "subtype" : "None",
+  "primaryprojecttype" : "Energy Audit",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "Brooklyn Museum",
+  "acronym" : "DCLA",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "200 Eastern Parkway",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "startdateactual" : "30-Sep-11",
+  "subtype" : "None",
+  "projectsitename" : "Bellevue Men's Shelter",
+  "acronym" : "DHS",
+  "finishdateactual" : "15-Feb-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "500 1st Avenue",
+  "projectstatus" : "In Progress",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "Regent Hotel Shelter",
+  "acronym" : "DHS",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "2720 Broadway",
+  "projectstatus" : "In Progress",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "startdateactual" : "26-Oct-11",
+  "subtype" : "None",
+  "projectsitename" : "Franklin Women's Shelter",
+  "acronym" : "DHS",
+  "finishdateactual" : "15-Feb-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1122 Franklin Avenue",
+  "projectstatus" : "In Progress",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "startdateactual" : "23-Dec-11",
+  "subtype" : "None",
+  "projectsitename" : "Atlantic Avenue Men's Shelter (Armory)",
+  "acronym" : "DHS",
+  "finishdateactual" : "15-Aug-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1322 Bedford Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "121.72"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : " PATH Office",
+  "acronym" : "DHS",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "346 Powers Avenue",
+  "projectstatus" : "Completed"
+}
+, {
+  "startdateactual" : "26-Sep-11",
+  "subtype" : "None",
+  "projectsitename" : "Fort Washington Armory Shelter",
+  "acronym" : "DHS",
+  "finishdateactual" : "06-Feb-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "216 Fort Washington Avenue New York NY",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "342.94"
+}
+, {
+  "startdateactual" : "15-Feb-12",
+  "subtype" : "None",
+  "projectsitename" : "Borden Avenue Shelter",
+  "acronym" : "DHS",
+  "finishdateactual" : "15-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "21-10 Borden Avenue",
+  "projectstatus" : "In Progress",
+  "co2e_mt_calculated" : "84.54"
+}
+, {
+  "startdateactual" : "15-Feb-12",
+  "subtype" : "None",
+  "finishdateactual" : "30-Jun-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "220.79"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Manhattan Detention Complex (Bernard B. Kerik Complex)",
+  "acronym" : "DOC",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "125 White St",
+  "projectstatus" : "Design"
+}
+, {
+  "startdateactual" : "02-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "Manhattan Detention Complex (Bernard B. Kerik Complex)",
+  "acronym" : "DOC",
+  "finishdateactual" : "30-Jun-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "125 White St",
+  "projectstatus" : "Completed"
+}
+, {
+  "startdateactual" : "12-Apr-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "George R. Vierno Center",
+  "acronym" : "DOC",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "09-09 Hazen St",
+  "projectstatus" : "Design"
+}
+, {
+  "startdateactual" : "09-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "George R. Vierno Center",
+  "acronym" : "DOC",
+  "finishdateactual" : "30-Jun-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "09-09 Hazen St",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Otis Bantun Correctional Facility",
+  "acronym" : "DOC",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "16-16 Hazen St.",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "2021.92"
+}
+, {
+  "startdateactual" : "09-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "Otis Bantun Correctional Facility",
+  "acronym" : "DOC",
+  "finishdateactual" : "30-Jun-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "16-16 Hazen St.",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "2021.92"
+}
+, {
+  "subtype" : "None",
+  "primaryprojecttype" : "Energy Audit",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "None",
+  "primaryprojecttype" : "Energy Audit",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "None",
+  "primaryprojecttype" : "Energy Audit",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "None",
+  "primaryprojecttype" : "Energy Audit",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Queens 7 District Garage Annex",
+  "acronym" : "DSNY",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "120-15 31st Ave. Queens NY",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "526.73"
+}
+, {
+  "startdateactual" : "06-Feb-12",
+  "subtype" : "None",
+  "projectsitename" : "Queens 7 District Garage Annex",
+  "acronym" : "DSNY",
+  "finishdateactual" : "29-Jun-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "120-15 31st Ave. Queens NY",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "526.73"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Manhattan 3 Garage",
+  "acronym" : "DSNY",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "South Street &Pier 36 New York NY 10002",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "259.46"
+}
+, {
+  "startdateactual" : "06-Feb-12",
+  "subtype" : "None",
+  "projectsitename" : "Manhattan 3 District Garage",
+  "acronym" : "DSNY",
+  "finishdateactual" : "15-Jun-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "South Street &Pier 36 New York NY 10002",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "259.46"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Bronx 12 District Garage",
+  "acronym" : "DSNY",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "1635 East 233rd St. Bronx NY",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "60.80"
+}
+, {
+  "startdateactual" : "06-Feb-12",
+  "subtype" : "None",
+  "projectsitename" : "Bronx 12 District Garage",
+  "acronym" : "DSNY",
+  "finishdateactual" : "21-Jun-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1635 East 233rd St. Bronx NY",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "60.80"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "Brooklyn  11",
+  "acronym" : "DSNY",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1824 Shore Parkway Brooklyn NY",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "834.97"
+}
+, {
+  "startdateactual" : "24-Jan-11",
+  "subtype" : "None",
+  "projectsitename" : "Cioffe Borough Repair Shop",
+  "acronym" : "DSNY",
+  "finishdateactual" : "10-May-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "105-02 Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Staten Island 3 District",
+  "acronym" : "DSNY",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "2 Muldoon Ave Staten Island",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "264.60"
+}
+, {
+  "startdateactual" : "20-Jan-11",
+  "subtype" : "None",
+  "projectsitename" : "Fresh Kills Landfill - SI 3 DG; RBS",
+  "acronym" : "DSNY",
+  "finishdateactual" : "10-May-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "600 West Service Rd",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "264.60"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Queens West 2, 3, 4, 6 District Garage",
+  "acronym" : "DSNY",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "52-35 58th St",
+  "projectstatus" : "Design"
+}
+, {
+  "startdateactual" : "10-Dec-10",
+  "subtype" : "None",
+  "projectsitename" : "Queens West 2,3,4,6 District Garage",
+  "acronym" : "DSNY",
+  "finishdateactual" : "30-Jun-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "58-00 52nd Road",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Brooklyn North 1/4 District Garage",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "161 Varick Ave Brooklyn NY",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "1351.01"
+}
+, {
+  "startdateactual" : "02-Feb-12",
+  "subtype" : "None",
+  "projectsitename" : "Brooklyn 1,4 District Garages",
+  "acronym" : "DSNY",
+  "finishdateactual" : "15-Jun-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "161 Varick Ave. Brooklyn NY",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "1351.01"
+}
+, {
+  "subtype" : "None",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "58-50 57th Road",
+  "projectstatus" : "Completed"
+}
+, {
+  "startdateactual" : "21-Feb-12",
+  "subtype" : "None",
+  "projectsitename" : "Ranaqua Garage And Shops - 1 Bronx River Pkwy",
+  "acronym" : "DPR",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1 Bronx River Pkwy",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "102.23"
+}
+, {
+  "startdateactual" : "10-Nov-10",
+  "subtype" : "None",
+  "projectsitename" : "Roy Wilkins Recreation Center",
+  "acronym" : "DPR",
+  "finishdateactual" : "24-Feb-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "Baisley Blvd & Merrick Blvd",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "132.41"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Brownsville Recreation Center",
+  "acronym" : "DPR",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "598 Christopher Ave",
+  "projectstatus" : "Design"
+}
+, {
+  "startdateactual" : "16-Dec-10",
+  "subtype" : "None",
+  "projectsitename" : "Brownsville Recreation Center",
+  "acronym" : "DPR",
+  "finishdateactual" : "30-Jun-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "598 Christopher Ave",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Chelsea Recreation Center",
+  "acronym" : "DPR",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "430 West 25th St",
+  "projectstatus" : "Design"
+}
+, {
+  "startdateactual" : "16-Dec-10",
+  "subtype" : "None",
+  "projectsitename" : "Chelsea Recreation Center",
+  "acronym" : "DPR",
+  "finishdateactual" : "30-Jun-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "430-44 West 25th Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "None",
+  "primaryprojecttype" : "Energy Audit",
+  "projectstatus" : "Completed"
+}
+, {
+  "startdateactual" : "06-Jun-12",
+  "subtype" : "None",
+  "projectsitename" : "Fort Totten",
+  "acronym" : "FDNY",
+  "finishdateactual" : "02-Jul-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "Fort Totten Bayside NY",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "397.97"
+}
+, {
+  "startdateactual" : "15-Jun-12",
+  "subtype" : "None",
+  "projectsitename" : "Randals Island Fire Academy",
+  "acronym" : "FDNY",
+  "finishdateactual" : "02-Jul-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "Randals Island New York  10035",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "East Harlem Multi-Service Ctr",
+  "acronym" : "HRA",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "413 East 120 Street",
+  "projectstatus" : "Cancelled",
+  "co2e_mt_calculated" : "267.20"
+}
+, {
+  "startdateactual" : "10-Nov-10",
+  "subtype" : "None",
+  "projectsitename" : "East Harlem Multi-Service Ctr",
+  "acronym" : "HRA",
+  "finishdateactual" : "30-Jun-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "413 East 120 Street",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "NYPD 67th Precinct & Eng Co 248",
+  "acronym" : "NYPD",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "2820 Snyder Avenue",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "NYPD 72nd Precinct",
+  "acronym" : "NYPD",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "830 4th Avenue Brooklyn NY 11232",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "23.76"
+}
+, {
+  "startdateactual" : "04-Jan-12",
+  "subtype" : "None",
+  "projectsitename" : "NYPD 72nd Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "14-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "830 4th Avenue Brooklyn NY 11232",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "23.76"
+}
+, {
+  "startdateactual" : "06-Feb-12",
+  "subtype" : "None",
+  "projectsitename" : "81st Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "15-Jun-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "30 Ralph Ave Brooklyn NY",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "42.72"
+}
+, {
+  "subtype" : "None",
+  "acronym" : "NYPD",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "235 E 21TH ST",
+  "projectstatus" : "Completed"
+}
+, {
+  "startdateactual" : "18-Jan-11",
+  "subtype" : "None",
+  "projectsitename" : "NYPD CRS",
+  "acronym" : "NYPD",
+  "finishdateactual" : "30-Jun-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "53-15 58th Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "84th Precinct & Engine Company 207",
+  "acronym" : "DCAS",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "301 Gold St",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "137.50"
+}
+, {
+  "startdateactual" : "21-Jan-11",
+  "subtype" : "None",
+  "projectsitename" : "Brooklyn North Narcotics Division",
+  "acronym" : "NYPD",
+  "finishdateactual" : "11-May-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "245 Glenmore Ave",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "113.17"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "48th Precinct",
+  "acronym" : "NYPD",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "450 CROSS BRONX EXPWY BRONX NY",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "22.92"
+}
+, {
+  "startdateactual" : "06-Feb-12",
+  "subtype" : "None",
+  "projectsitename" : "48th Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "15-Jun-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "450 CROSS BRONX EXPWY BRONX NY",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "22.92"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "73rd Precinct",
+  "acronym" : "NYPD",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "470 EAST NEW YORK AVENUE",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "66.37"
+}
+, {
+  "startdateactual" : "09-Jan-12",
+  "subtype" : "None",
+  "projectsitename" : "73rd Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "03-Apr-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "470 EAST NEW YORK AVENUE",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "66.37"
+}
+, {
+  "acronym" : "DEP1",
+  "primaryprojecttype" : "Other",
+  "projectstatus" : "Install"
+}
+, {
+  "projectsitename" : "Dep Centrifuge Upgrade - Hunts Point Waste Water Treatment Plant",
+  "acronym" : "DEP1",
+  "primaryprojecttype" : "Other",
+  "projectstatus" : "Undefined"
+}
+, {
+  "projectsitename" : "Dep Engine Generator Conversion - Owls Head Waste Water Treatment Plant",
+  "acronym" : "DEP1",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "Shore Pkwy & 66th St. Owl's Head WPCP",
+  "projectstatus" : "Undefined"
+}
+, {
+  "subtype" : "Retrofit",
+  "acronym" : "DEP1",
+  "primaryprojecttype" : "Other",
+  "projectstatus" : "Proposed"
+}
+, {
+  "subtype" : "Retrofit",
+  "acronym" : "DEP1",
+  "primaryprojecttype" : "Other",
+  "projectstatus" : "Proposed"
+}
+, {
+  "startdateactual" : "20-Jan-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Leonard Covello Senior Center",
+  "acronym" : "DFTA",
+  "finishdateactual" : "21-Jul-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "312 E. 109th Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "23.32"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Leonard Covello Senior Center",
+  "acronym" : "DFTA",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "312 East 109th Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "30.61"
+}
+, {
+  "startdateactual" : "30-Apr-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Horizon Juvenile Center - 560 Brook Avenue",
+  "acronym" : "ACS",
+  "finishdateactual" : "30-Jun-10",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "55 St. Anns Ave (560 Brook)",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "105.27"
+}
+, {
+  "startdateactual" : "30-Apr-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Crossroads Juvenile Center",
+  "acronym" : "ACS",
+  "finishdateactual" : "30-Jun-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "17 Bristol Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "86.05"
+}
+, {
+  "startdateactual" : "15-Jan-08",
+  "subtype" : "Cogen",
+  "projectsitename" : "Rikers Island Co-Generation Plant 30% Design",
+  "acronym" : "DOC",
+  "finishdateactual" : "31-Jul-09",
+  "primaryprojecttype" : "Other",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Rikers Island Laundry Water Recycling System",
+  "acronym" : "DOC",
+  "finishdateactual" : "01-Aug-12",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "8 hazen st east elmhurst",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "1834.84"
+}
+, {
+  "startdateactual" : "31-Jul-09",
+  "subtype" : "Cogen",
+  "projectsitename" : "Rikers Island Co-Generation Plant 100% Design",
+  "acronym" : "DOC",
+  "finishdateactual" : "31-Mar-10",
+  "primaryprojecttype" : "Other",
+  "projectstatus" : "Design"
+}
+, {
+  "startdateactual" : "13-Sep-11",
+  "subtype" : "Cogen",
+  "projectsitename" : "Rikers Island Co-Generation Plant Construction",
+  "acronym" : "DOC",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "37546.28"
+}
+, {
+  "startdateactual" : "27-Jun-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "H.S. Of Graphic Communication Arts",
+  "acronym" : "DOE",
+  "finishdateactual" : "05-May-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "439 WEST 49TH ST",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "235.57"
+}
+, {
+  "startdateactual" : "13-May-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Grace H. Dodge Vocational High School",
+  "acronym" : "DOE",
+  "finishdateactual" : "25-Mar-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "CROTONA AVE & E 187TH ST GRACE DODGE VHS, 2474 Crotona Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "123.87"
+}
+, {
+  "startdateactual" : "13-May-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 226X Annex",
+  "acronym" : "DOE",
+  "finishdateactual" : "25-Mar-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1900 SEDGWICK AVE, 1950 Sedgwick Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "50.16"
+}
+, {
+  "startdateactual" : "13-May-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 396X / M.S. 390X",
+  "acronym" : "DOE",
+  "finishdateactual" : "25-Mar-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1930 ANDREWS AVE",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "148.75"
+}
+, {
+  "startdateactual" : "05-Sep-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "H.S. For Environmental Science",
+  "acronym" : "DOE",
+  "finishdateactual" : "07-May-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "448 WEST 56TH ST, 444 West 56th Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "53.40"
+}
+, {
+  "startdateactual" : "13-May-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 205A/P.S. 205B (Fiorello Laguard)/P.S. 109X",
+  "acronym" : "DOE",
+  "finishdateactual" : "07-Oct-08",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "2475 Southern Boulevard",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "64.17"
+}
+, {
+  "startdateactual" : "13-May-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 205A/P.S. 205B (Fiorello Laguard)/P.S. 109X",
+  "acronym" : "DOE",
+  "finishdateactual" : "07-Oct-08",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "2375 Southern Boulevard",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "21.30"
+}
+, {
+  "startdateactual" : "13-May-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 15X(Inst For Enviro)/P.S. 91X Mini/I.S. 206B (Ann Merser)",
+  "acronym" : "DOE",
+  "finishdateactual" : "09-Mar-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "61 West 183rd Street, 2280 Aqueduct Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "60.54"
+}
+, {
+  "startdateactual" : "13-May-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 15X(Inst For Enviro)/P.S. 91X Mini/I.S. 206B (Ann Merser)",
+  "acronym" : "DOE",
+  "finishdateactual" : "09-Mar-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "2220 Aqueduct Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "74.78"
+}
+, {
+  "startdateactual" : "13-May-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 15X(Inst For Enviro)/P.S. 91X Mini/I.S. 206B (Ann Merser)",
+  "acronym" : "DOE",
+  "finishdateactual" : "09-Mar-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "2195 Andrews Ave",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "90.41"
+}
+, {
+  "startdateactual" : "06-Jun-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 246X (Poe Ctr)/P.S. 310X/Ms 118X",
+  "acronym" : "DOE",
+  "finishdateactual" : "10-Aug-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "260 West Kingsbridge Road",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "54.80"
+}
+, {
+  "startdateactual" : "06-Jun-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 246X (Poe Ctr)/P.S. 310X/Ms 118X",
+  "acronym" : "DOE",
+  "finishdateactual" : "05-Feb-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "579 E. 179th St., 577 E. 179th Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "68.10"
+}
+, {
+  "startdateactual" : "06-Jun-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 246X (Poe Ctr)/P.S. 310X/Ms 118X",
+  "acronym" : "DOE",
+  "finishdateactual" : "10-Jun-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "2641 Grand Concourse",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "66.70"
+}
+, {
+  "startdateactual" : "23-Apr-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "I.S. 207Q (Rockw Pk)/P.S. 232Q (Lindenw)/P.S. 63Q(Old South)",
+  "acronym" : "DOE",
+  "finishdateactual" : "27-Feb-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "159-15 88th Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "48.90"
+}
+, {
+  "startdateactual" : "23-Apr-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "I.S. 207Q (Rockw Pk)/P.S. 232Q (Lindenw)/P.S. 63Q(Old South)",
+  "acronym" : "DOE",
+  "finishdateactual" : "27-Feb-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "153-23 83rd Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "43.31"
+}
+, {
+  "startdateactual" : "23-Apr-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "I.S. 207Q (Rockw Pk)/P.S. 232Q (Lindenw)/P.S. 63Q(Old South)",
+  "acronym" : "DOE",
+  "finishdateactual" : "27-Feb-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "90-15 Sutter Ave",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "68.80"
+}
+, {
+  "subtype" : "Retrofit",
+  "finishdateactual" : "20-Mar-08",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "314.26"
+}
+, {
+  "startdateactual" : "06-Mar-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 123K / P.S. 377K / P.S. 106K",
+  "acronym" : "DOE",
+  "finishdateactual" : "19-Sep-08",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "1314 Putnam Avenue, 2120 Raymond Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "37.67"
+}
+, {
+  "startdateactual" : "06-Mar-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 123K / P.S. 377K / P.S. 106K",
+  "acronym" : "DOE",
+  "finishdateactual" : "19-Sep-08",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "100 Irving Avenue, 1025 Morrison Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "68.80"
+}
+, {
+  "startdateactual" : "06-Mar-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 123K / P.S. 377K / P.S. 106K",
+  "acronym" : "DOE",
+  "finishdateactual" : "19-Sep-08",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "200 Woodbine St.",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "101.35"
+}
+, {
+  "startdateactual" : "05-Sep-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 58M (The Man. Schl)/FK Onassis (Sch For Intl Careers)",
+  "acronym" : "DOE",
+  "finishdateactual" : "15-May-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "317 W. 52nd St.",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "63.66"
+}
+, {
+  "startdateactual" : "23-Jan-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Port Richmond H.S.",
+  "acronym" : "DOE",
+  "finishdateactual" : "28-Jul-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "Address 1\nINNIS ST & ST JOSEPHS AV PT RICHMOND H S, 85 St. Josephs Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "177.14"
+}
+, {
+  "startdateactual" : "05-Mar-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Bureau Of Supplies",
+  "acronym" : "DOE",
+  "finishdateactual" : "18-Mar-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "44-46 VERNON BOULEVARD",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "445.19"
+}
+, {
+  "startdateactual" : "05-Sep-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Park West High School",
+  "acronym" : "DOE",
+  "finishdateactual" : "13-Jan-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "525 WEST 50TH STREET",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "89.09"
+}
+, {
+  "startdateactual" : "01-May-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Q440 - Forest Hills High School",
+  "acronym" : "DOE",
+  "finishdateactual" : "30-Sep-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "67-01 110th Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "179.68"
+}
+, {
+  "startdateactual" : "29-Dec-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 24Q",
+  "acronym" : "DOE",
+  "finishdateactual" : "22-Jun-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "141-11 Holly Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "54.99"
+}
+, {
+  "startdateactual" : "29-Dec-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 214Q",
+  "acronym" : "DOE",
+  "finishdateactual" : "08-Jul-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "31-15 140th St.",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "53.86"
+}
+, {
+  "startdateactual" : "01-Jul-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "I.S. 27R",
+  "acronym" : "DOE",
+  "finishdateactual" : "08-Oct-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "15 Clove Alke Place",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "startdateactual" : "23-Jun-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Totten Intermediate School (I.S. 34R)",
+  "acronym" : "DOE",
+  "finishdateactual" : "02-Feb-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "Academy St. & Yetman Ave., 528 Academy Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "94.19"
+}
+, {
+  "startdateactual" : "23-Jun-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "I.S. 51R",
+  "acronym" : "DOE",
+  "finishdateactual" : "02-Feb-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "20 Houston St.",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "92.93"
+}
+, {
+  "startdateactual" : "23-Jul-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "I.S. 61R",
+  "acronym" : "DOE",
+  "finishdateactual" : "23-Dec-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "445 Castleton Ave.",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "startdateactual" : "23-Jun-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "I.S. 49R",
+  "acronym" : "DOE",
+  "finishdateactual" : "02-Feb-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "101 Warren St.",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "116.28"
+}
+, {
+  "startdateactual" : "15-Jun-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "R008",
+  "acronym" : "DOE",
+  "finishdateactual" : "08-Dec-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "112 Lindenwood Rd, 100 Lindenwood Rd",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "49.28"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "primaryprojecttype" : "Other",
+  "projectstatus" : "Proposed"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S. 8R",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "12 Lindenwood Rd, 100 Lindenwood Rd",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "25-Jan-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Murry Bergtraum High School (M520)",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "411 Pearl Street",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "1767.43"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Murry Bergtraum High School (M520)",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "411 Pearl Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "11-May-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 109X (Sedgwick)",
+  "acronym" : "DOE",
+  "finishdateactual" : "30-Jun-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1771 Popham Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "30.81"
+}
+, {
+  "startdateactual" : "10-Jan-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "X430 Walton H.S.",
+  "acronym" : "DOE",
+  "finishdateactual" : "21-Nov-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "2780 Reservoir Ave @ East 196th Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "94.85"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "11X021 - 715 East 225th Street",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "715 East 225th Street",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "39.81"
+}
+, {
+  "startdateactual" : "31-Dec-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Doe17 11X041 - 3352 Olinville Avenue",
+  "acronym" : "DOE",
+  "finishdateactual" : "01-Jul-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "3352 Olinville Ave",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "59.12"
+}
+, {
+  "startdateactual" : "05-Jan-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "12X092 - 700 East 179th Street",
+  "acronym" : "DOE",
+  "finishdateactual" : "21-Nov-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "700 East 179th Street",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "64.13"
+}
+, {
+  "startdateactual" : "11-Mar-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Ko62 - 700 Cortelyou Road",
+  "acronym" : "DOE",
+  "finishdateactual" : "31-Dec-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "700 Cortelyou Road",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "128.80"
+}
+, {
+  "startdateactual" : "14-Aug-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "09X002 - 1365 Fulton Avenue",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1365 Fulton Ave",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "52.42"
+}
+, {
+  "startdateactual" : "13-Dec-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "10X032 - 690 East 183rd Street",
+  "acronym" : "DOE",
+  "finishdateactual" : "30-Jun-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "690 East 183rd Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "71.93"
+}
+, {
+  "startdateactual" : "14-Aug-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "09X110 - 580 Crotona Park South",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "580 Crotona Pkwy South",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "85.76"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "08X152 - 1007 Evergreen Avenue",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1007 Evergreen Avenue",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "106.34"
+}
+, {
+  "startdateactual" : "21-Sep-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "14K380 - 370 Marcy Avenue",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "370 Marcy Avenue",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "121.52"
+}
+, {
+  "startdateactual" : "04-Jan-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "14K147 - 325 Bushwick Avenue",
+  "acronym" : "DOE",
+  "finishdateactual" : "15-Dec-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "325 Bushwick Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "93.57"
+}
+, {
+  "startdateactual" : "19-Jan-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "14K250 - 108 Montrose Avenue",
+  "acronym" : "DOE",
+  "finishdateactual" : "15-Dec-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "108 Montrose Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "88.18"
+}
+, {
+  "startdateactual" : "11-Mar-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "23K275 - 985 Rockaway Avenue",
+  "acronym" : "DOE",
+  "finishdateactual" : "20-Dec-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "985 Rockaway Ave",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "153.36"
+}
+, {
+  "startdateactual" : "14-Aug-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "X069 - P.S. The New Vision School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "560 Theriot Avenue",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "39.64"
+}
+, {
+  "startdateactual" : "14-Aug-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "K121 - P.S. 121 Nelson A. Rockefeller",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "5301 20th Avenue",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "37.05"
+}
+, {
+  "startdateactual" : "15-Aug-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "K093 - P.S. 093 William H. Prescott",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "31 New York Avenue",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "54.44"
+}
+, {
+  "startdateactual" : "14-Aug-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "K114 - P.S. 114 Ryder Elementary",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1077 Remsen Avenue",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "40.52"
+}
+, {
+  "startdateactual" : "16-Aug-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "K041 - P.S. 041 Francis White",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "411 Thatford Avenue",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "93.69"
+}
+, {
+  "startdateactual" : "12-May-10",
+  "subtype" : "O&M",
+  "projectsitename" : "M855  M416 - Eleanor Roosevelt High School",
+  "acronym" : "DOE",
+  "finishdateactual" : "10-Jun-10",
+  "projectsiteaddress" : "411 East 76th Street",
+  "projectstatus" : "Completed"
+}
+, {
+  "startdateactual" : "14-Jun-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Brooklyn High School of the Arts",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "345 Dean Street",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "23.32"
+}
+, {
+  "startdateactual" : "18-Mar-10",
+  "subtype" : "None",
+  "projectsitename" : "Brooklyn High School of the Arts",
+  "acronym" : "DOE",
+  "finishdateactual" : "01-Sep-10",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "345 Dean Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "23.32"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Brooklyn High School of the Arts",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "345 Dean Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Co-op City Educational Campus",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "850 Baychester Ave",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "860.45"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "Co-op City Educational Campus",
+  "acronym" : "DOE",
+  "finishdateactual" : "02-Mar-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "850 Baychester Ave",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "1042.82"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Co-op City (PS 153,178,180,181,455)",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "650-850 Baychester",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S 174X Eugene T. Maleska",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "456 White Road",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "112.08"
+}
+, {
+  "startdateactual" : "17-Mar-10",
+  "subtype" : "None",
+  "projectsitename" : "P.S 174X",
+  "acronym" : "DOE",
+  "finishdateactual" : "01-Oct-10",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "456 White Road",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "112.08"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Eugene T.Maleska Middle School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "456 White Plains Road",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "01-Jul-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Twin Parks Upper School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "2055 Mapes Ave",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "501.16"
+}
+, {
+  "startdateactual" : "24-Mar-10",
+  "subtype" : "None",
+  "projectsitename" : "X129 Twin Parks Upper School",
+  "acronym" : "DOE",
+  "finishdateactual" : "07-Oct-10",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "2055 Mapes Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "137.68"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Twin Parks Upper School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "2055 Mapes Ave",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "16-Mar-10",
+  "subtype" : "None",
+  "projectsitename" : "Park West High School",
+  "acronym" : "DOE",
+  "finishdateactual" : "16-Dec-10",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "525 WEST 50TH STREET",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "106.04"
+}
+, {
+  "startdateactual" : "01-Jul-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "K009 - P.S. 9K Teunis G. Bergen School Lighting",
+  "acronym" : "DOE",
+  "finishdateactual" : "14-Dec-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "80 Underhill Ave",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "68.25"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "PS 9K Teunis G. Bergen School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "80 Underhill Ave",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "2.62"
+}
+, {
+  "startdateactual" : "12-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "K009 - PS 9K Teunis G. Bergen School",
+  "acronym" : "DOE",
+  "finishdateactual" : "05-May-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "80 Underhill Ave",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "86.38"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "PS 9K Teunis G. Bergen School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "80 Underhill Ave",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "12-Dec-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "John Bowne",
+  "acronym" : "DOE",
+  "finishdateactual" : "14-Dec-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "142-30 Barcklay Ave.",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "68.18"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "John Bowne PS 20 Queens",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "142-30 Barcklay Ave.",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "1.50"
+}
+, {
+  "startdateactual" : "07-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "Q20 - PS 20Q John Bowne",
+  "acronym" : "DOE",
+  "finishdateactual" : "19-May-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "142-30 Barclay Ave",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "291.94"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "John Bowne",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "142-30 Barclay Ave",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "07-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "Q120 - PS 120Q",
+  "acronym" : "DOE",
+  "finishdateactual" : "02-Jun-10",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "58-01 136 Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "51.50"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Q120 - PS 120Q",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "58-01 136 Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "PS 125Q - Thomas J. McCann",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "46-02 47 Ave  Woodside, NY",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "144.13"
+}
+, {
+  "startdateactual" : "21-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "Q125 - JHS 125Q Thom J. McCann Woodside",
+  "acronym" : "DOE",
+  "finishdateactual" : "25-May-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "46-02 47 Ave",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "79.69"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Q125 - JHS 125Q Thom J. McCann Woodside",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "46-02 47 Ave",
+  "projectstatus" : "Proposed"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Q125 - JHS 125Q Thom J. McCann Woodside",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "46-02 47 Ave",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "168.89"
+}
+, {
+  "startdateactual" : "13-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "K302 - IS 302K Rafael Cordero Middle School",
+  "acronym" : "DOE",
+  "finishdateactual" : "03-Jun-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "350 Linwook St",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "147.70"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "primaryprojecttype" : "Other",
+  "projectstatus" : "Proposed"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "K302 - IS 302K Rafael Cordero Middle School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "350 Linwook St",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "26-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "M199 - PS 199M Jessie Isador Straus",
+  "acronym" : "DOE",
+  "finishdateactual" : "14-Jul-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "270 West 70 Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "62.16"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "M199 - PS 199M Jessie Isador Straus",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "270 West 70 Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "K126 - John Ericson Junior High School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "424 Leonard St",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "295.13"
+}
+, {
+  "startdateactual" : "12-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "K126 John Ericsson JHS",
+  "acronym" : "DOE",
+  "finishdateactual" : "31-May-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "424 Leonard Street",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "K126 John Ericsson JHS",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "424 Leonard Street",
+  "projectstatus" : "Proposed"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "K126 John Ericsson JHS",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "424 Leonard Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "26-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "Q092 - PS 92Q",
+  "acronym" : "DOE",
+  "finishdateactual" : "09-Jun-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "99-01 34 Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "36.28"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Q092 - PS 92Q",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "99-01 34 Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Comprehensive Energy Audit at P.S. X-054",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "2703 Webster Ave Bronx, NY 10458",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "165.09"
+}
+, {
+  "startdateactual" : "19-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "X054 - IS 54",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "2703 Webster Ave",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S. / I.S. 54 (X054)",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "2703 Webster Ave",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "13-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "K135 - PS 135 Sheldon A. Brookner",
+  "acronym" : "DOE",
+  "finishdateactual" : "27-May-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "686 Linden Blvd",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "7.40"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "K135 - PS 135 Sheldon A. Brookner",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "686 Linden Blvd",
+  "projectstatus" : "Proposed"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "K135 - PS 135 Sheldon A. Brookner",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "686 Linden Blvd",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Charles A. Dorsey PS 67",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "51 Saint Edwards St",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "146.94"
+}
+, {
+  "startdateactual" : "28-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "K067 - PS 67K Charles A. Dorsey School",
+  "acronym" : "DOE",
+  "finishdateactual" : "20-May-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "51 Saint Edwards St",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "128.03"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Charles A. Dorsey PS 67",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "51 Saint Edwards St",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "180.31"
+}
+, {
+  "startdateactual" : "14-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "M721 - PS 721 Manhattan Occupational Training Center",
+  "acronym" : "DOE",
+  "finishdateactual" : "27-May-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "250 West Houston St",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "114.97"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "M721- Manhattan Occupational Training Center",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "250 West Houston Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "10-Aug-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "R080 - The Michael J. Petrides School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "715 Ocean Terrrace Staten Island NY",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "335.91"
+}
+, {
+  "startdateactual" : "14-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "R080 - The Michael J. Petrides School",
+  "acronym" : "DOE",
+  "finishdateactual" : "27-May-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "715 Ocean Terrrace Staten Island NY",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "R080 - The Michael J. Petrides School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "715 Ocean Terrrace",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "PS 13K - Roberto Clemente School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "557 Pennsylvania Ave  Brooklyn, NY",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "437.31"
+}
+, {
+  "startdateactual" : "28-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "K013 PS 13K Roberto Clemente School",
+  "acronym" : "DOE",
+  "finishdateactual" : "02-Jun-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "557 Pennsylvania Ave",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "437.31"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Ko13-P.S. 13K Roberto Clemente School",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "557 Pennsylvania Ave",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "PS 217 Roosevelt School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "645 Main Street, Manhattan",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "379.34"
+}
+, {
+  "startdateactual" : "14-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "M217 - PS 217M",
+  "acronym" : "DOE",
+  "finishdateactual" : "16-Mar-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "645 Main Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "627.80"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "M217 - PS 217M Roosevelt School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "645 Main Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "PS 75M Emily Dickinson School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "735 West End Avenue",
+  "projectstatus" : "Design"
+}
+, {
+  "startdateactual" : "09-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "PS 75M Emily Dickinson School",
+  "acronym" : "DOE",
+  "finishdateactual" : "11-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "735 West End Ave",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "51.89"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "PS 75M Emily Dickinson School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "735 West End Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S.68X The Bronx School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "4011 Monticello Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "361.17"
+}
+, {
+  "startdateactual" : "03-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "PS 68X The Bronx School",
+  "acronym" : "DOE",
+  "finishdateactual" : "10-Nov-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "4011 Monticello Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "101.91"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S.68X The Bronx School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "4011 Monticello Avenue",
+  "projectstatus" : "Proposed"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S.68X The Bronx School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "4011 Monticello Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S.78X Anne Hutchinson",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "1400 Needham Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "65.27"
+}
+, {
+  "startdateactual" : "02-Mar-11",
+  "subtype" : "None",
+  "projectsitename" : "PS 78X Anne Hutchinso",
+  "acronym" : "DOE",
+  "finishdateactual" : "28-Feb-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1400 Needham Ave",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "65.27"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S.78X Anne Hutchinson",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1400 Needham Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S.111X Seton Falls School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "3740 Baychester Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "125.56"
+}
+, {
+  "startdateactual" : "03-Mar-11",
+  "subtype" : "None",
+  "projectsitename" : "P.S.111X Seton Falls School",
+  "acronym" : "DOE",
+  "finishdateactual" : "13-Apr-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "3740 Baychester Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "269.10"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S.111X Seton Falls School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "3740 Baychester Avenue",
+  "projectstatus" : "Proposed"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S.111X Seton Falls School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "3740 Baychester Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : " P.S.112X The Bronxwood School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "1925 Schieffelin Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "31.68"
+}
+, {
+  "startdateactual" : "21-Apr-11",
+  "subtype" : "None",
+  "projectsitename" : " P.S.112X The Bronxwood School",
+  "acronym" : "DOE",
+  "finishdateactual" : "03-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1925 Schieffelin Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "31.68"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S.112X The Bronxwood School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1925 Schieffelin Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "J.H.S.125X Henry Hudson Middle School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "1111 Pugsley Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "102.28"
+}
+, {
+  "startdateactual" : "24-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "J.H.S.125X Henry Hudson Middle School",
+  "acronym" : "DCAS",
+  "finishdateactual" : "17-Apr-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1111 Pugsley Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "102.28"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "J.H.S.125X Henry Hudson Middle School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1111 Pugsley Avenue",
+  "projectstatus" : "Proposed"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "J.H.S.125X Henry Hudson Middle School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1111 Pugsley Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "J.H.S.127X The Castle Hill",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "1560 Purdy Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "38.28"
+}
+, {
+  "startdateactual" : "24-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "J.H.S.127X The Castle Hill",
+  "acronym" : "DOE",
+  "finishdateactual" : "17-Apr-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1560 Purdy Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "38.28"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "J.H.S.127X The Castle Hill",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1560 Purdy Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "I.S.131X Albert Einstein",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "885 Bolton Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "95.10"
+}
+, {
+  "startdateactual" : "16-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "I.S.131X Albert Einstein",
+  "acronym" : "DOE",
+  "finishdateactual" : "12-Apr-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "885 Bolton Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "95.10"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "I.S.131X Albert Einstein",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "885 Bolton Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "J.H.S.142X John Philip Sousa Middle School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "3750 Baychester Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "268.40"
+}
+, {
+  "startdateactual" : "03-Mar-11",
+  "subtype" : "None",
+  "projectsitename" : "J.H.S.142X John Philip Sousa Middle School",
+  "acronym" : "DOE",
+  "finishdateactual" : "03-Apr-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "3750 Baychester Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "254.33"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "J.H.S.142X John Philip Sousa Middle School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "3750 Baychester Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S.131K",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "4305 Fort Hamilton Parkway",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "64.16"
+}
+, {
+  "startdateactual" : "09-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "P.S.131K",
+  "acronym" : "DOE",
+  "finishdateactual" : "23-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "4305 Fort Hamilton Parkway",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "64.16"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S.131K",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "4305 Fort Hamilton Parkway",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S.307K Daniel Hale Williams School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "209 York Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "80.52"
+}
+, {
+  "startdateactual" : "03-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "P.S.307K Daniel Hale Williams School",
+  "acronym" : "DOE",
+  "finishdateactual" : "23-Nov-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "209 York Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "55.70"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S.307K Daniel Hale Williams SchoolP.S.307K Daniel Hale Williams School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "209 York Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : " I.S.318K Eugenio Maria De Hostos School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "101 Walton Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "154.19"
+}
+, {
+  "startdateactual" : "08-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : " I.S.318K Eugenio Maria De Hostos School",
+  "acronym" : "DOE",
+  "finishdateactual" : "12-Aug-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "101 Walton Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "345.38"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : " I.S.318K Eugenio Maria De Hostos School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "101 Walton Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S.21Q Edward Hart School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "147-36 26th Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "29.34"
+}
+, {
+  "startdateactual" : "02-Mar-11",
+  "subtype" : "None",
+  "projectsitename" : "P.S.21Q Edward Hart School",
+  "acronym" : "DOE",
+  "finishdateactual" : "15-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "147-36 26th Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "29.34"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S.21Q Edward Hart School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "147-36 26th Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S.219Q Paul Klapper",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "144-39 Gravett Road",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "229.15"
+}
+, {
+  "startdateactual" : "15-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "P.S.219Q Paul Klapper",
+  "acronym" : "DOE",
+  "finishdateactual" : "04-Apr-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "144-39 Gravett Road",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "204.58"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S.219Q Paul Klapper",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "144-39 Gravett Road",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "I.S.238Q Susan B Anthony School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "88-15 182nd Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "170.25"
+}
+, {
+  "startdateactual" : "17-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "I.S.238Q Susan B Anthony School",
+  "acronym" : "DOE",
+  "finishdateactual" : "21-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "88-15 182nd Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "170.25"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "I.S.238Q Susan B Anthony School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "88-15 182nd Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "DOE Offices",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "65 Court Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "87.37"
+}
+, {
+  "startdateactual" : "17-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "DOE Offices",
+  "acronym" : "DOE",
+  "finishdateactual" : "22-Nov-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "65 Court Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "81.66"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "DOE Offices",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "65 Court Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Alexander Humboldt",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "586 West 117th Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "161.31"
+}
+, {
+  "startdateactual" : "10-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "Alexander Humboldt",
+  "acronym" : "DOE",
+  "finishdateactual" : "13-Feb-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "586 West 117th Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Alexander Humboldt",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "586 West 117th Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 115 Daniel Mucatel School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "1500 East 92 Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "73.31"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "The Daniel Muctatel School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1500 E 92 Street Brooklyn, NY",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "73.31"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S. 115 Daniel Mucatel School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1500 East 92 Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "J.H.S. 218 James P. Sinnott",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "370 Fountain Avenue",
+  "projectstatus" : "Design"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "J.H.S. 218 James P. Sinnott",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "370 Fountain Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "101.97"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "J.H.S. 218 James P. Sinnott",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "370 Fountain Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 181 Brooklyn",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1023 New York Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "133.20"
+}
+, {
+  "startdateactual" : "06-Apr-11",
+  "subtype" : "None",
+  "projectsitename" : "P.S. 181 Brooklyn",
+  "acronym" : "DOE",
+  "finishdateactual" : "07-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1023 New York Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "133.20"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S. 181 Brooklyn",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1023 New York Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "J.H.S.43M",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "509 West 129th Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "152.74"
+}
+, {
+  "startdateactual" : "13-Apr-11",
+  "subtype" : "None",
+  "projectsitename" : "JHS 43M",
+  "acronym" : "DOE",
+  "finishdateactual" : "04-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "509 West 129th St",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "51.39"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "J.H.S.43M",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "509 West 129th Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "A. Philip Randolph Campus High School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "443 West 135 Street",
+  "projectstatus" : "Design"
+}
+, {
+  "startdateactual" : "10-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "A. Philip Randolph Campus High School",
+  "acronym" : "DOE",
+  "finishdateactual" : "15-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "443 West 135 Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "A. Philip Randolph Campus High School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "443 West 135 Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S.10K Magnet School of Math, Science and Design Technology",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "511 7th Avenue",
+  "projectstatus" : "Design"
+}
+, {
+  "startdateactual" : "06-Apr-11",
+  "subtype" : "None",
+  "projectsitename" : "PS 10K Magnet School of Math, Science and Design Technology",
+  "acronym" : "DOE",
+  "finishdateactual" : "17-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "511 Seventh Ave",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "53.91"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S.10K Magnet School of Math, Science and Design Technology",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "511 7th Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "I.S.33K Mark Hopkins Junior High School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "70 Thompkins Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "75.09"
+}
+, {
+  "startdateactual" : "08-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "I.S.33K Mark Hopkins Junior High School",
+  "acronym" : "DOE",
+  "finishdateactual" : "10-Nov-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "70 Thompkins Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "75.09"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "I.S.33K Mark Hopkins Junior High School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "70 Thompkins Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S.81K Thaddeus Stevens School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "990 Dekalb Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "90.78"
+}
+, {
+  "startdateactual" : "07-Apr-11",
+  "subtype" : "None",
+  "projectsitename" : "PS 81K Thaddeus Stevens School",
+  "acronym" : "DOE",
+  "finishdateactual" : "09-Feb-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "990 Dekalb Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "79.84"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S.81K Thaddeus Stevens School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "990 Dekalb Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "J.H.S.220K John J. Pershing",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "4812 9th Avenue",
+  "projectstatus" : "Design"
+}
+, {
+  "startdateactual" : "07-Apr-11",
+  "subtype" : "None",
+  "projectsitename" : "K220 JHS 220K John J. Pershing",
+  "acronym" : "DOE",
+  "finishdateactual" : "14-Feb-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "4812 9th Ave",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "48.90"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "J.H.S.220K John J. Pershing",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "4812 9th Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Academy of Environmental Science Secondary HS / Renaissance School of the Arts",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "410 East 100th Street",
+  "projectstatus" : "Design"
+}
+, {
+  "startdateactual" : "14-Apr-11",
+  "subtype" : "None",
+  "projectsitename" : "M099 Academy of Environmental Science Secondary Shool",
+  "acronym" : "DOE",
+  "finishdateactual" : "08-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "410 East 100th Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "79.16"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Academy of Environmental Science Secondary HS / Renaissance School of the Arts",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "410 East 100th Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "New Explorations into Science Technology and Math (NEST) High School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "111 Columbia Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "87.93"
+}
+, {
+  "startdateactual" : "19-Apr-11",
+  "subtype" : "None",
+  "projectsitename" : "M022 New Explorations into Science Technology and Math High School",
+  "acronym" : "DOE",
+  "finishdateactual" : "14-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "111 Columbia St",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "112.19"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "New Explorations into Science Technology and Math (NEST) High School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "111 Columbia Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 057 Crescent",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "2111 Crotona Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "startdateactual" : "21-Apr-11",
+  "subtype" : "None",
+  "projectsitename" : "PS 057 Crescent",
+  "acronym" : "DOE",
+  "finishdateactual" : "14-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "2111 Crotona Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "44.22"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S. 057 Crescent",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "2111 Crotona Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 199X The Shakespeare School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1449 Shakespeare Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "145.35"
+}
+, {
+  "startdateactual" : "20-Apr-11",
+  "subtype" : "None",
+  "projectsitename" : "PS 199X The Shakespeare School",
+  "acronym" : "DOE",
+  "finishdateactual" : "17-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1449 Shakespeare Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "84.79"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S. 199X The Shakespeare School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1449 Shakespeare Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 138 Brooklyn",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "760 Prospect Place",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "223.80"
+}
+, {
+  "startdateactual" : "12-Apr-11",
+  "subtype" : "None",
+  "projectsitename" : "PS 138K Brooklyn",
+  "acronym" : "DOE",
+  "finishdateactual" : "15-Jun-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "801 Park Place",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S. 138 Brooklyn",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "760 Prospect Place",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "J.H.S. 383 Philippa Schuyler",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1300 Greene Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "156.59"
+}
+, {
+  "startdateactual" : "12-Apr-11",
+  "subtype" : "None",
+  "projectsitename" : "K383 JHS 383 Philippa Schuyler",
+  "acronym" : "DOE",
+  "finishdateactual" : "07-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1300 Greene Av",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "156.59"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "J.H.S. 383 Philippa Schuyler",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1300 Greene Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "The Eileen E. Zaglin",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1075 Ocean View Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "8.93"
+}
+, {
+  "startdateactual" : "13-Apr-11",
+  "subtype" : "None",
+  "projectsitename" : "K225 The Eileen E. Zaglin",
+  "acronym" : "DOE",
+  "finishdateactual" : "14-Feb-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1075 Oceanview",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "8.93"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "The Eileen E. Zaglin",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1075 Ocean View Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 044 Thomas C. Brown",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "80 Maple Parkway",
+  "projectstatus" : "Design"
+}
+, {
+  "startdateactual" : "27-Apr-11",
+  "subtype" : "None",
+  "projectsitename" : "PS 044R Thomas C. Brown",
+  "acronym" : "DOE",
+  "finishdateactual" : "08-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "80 Maple Parkway",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "68.44"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S. 044 Thomas C. Brown",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "80 Maple Parkway",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Marta Valle Secondary School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "145 Stanton Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "96.31"
+}
+, {
+  "startdateactual" : "19-Apr-11",
+  "subtype" : "None",
+  "projectsitename" : "M025 Marta Valle Secondary School",
+  "acronym" : "DOE",
+  "finishdateactual" : "03-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "145 Stanton St",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "97.50"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Marta Valle Secondary School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "145 Stanton Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S. 084 Lillian Weber",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "32 West 92 Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "146.57"
+}
+, {
+  "startdateactual" : "14-Apr-11",
+  "subtype" : "None",
+  "projectsitename" : "PS 084M Lillian Weber",
+  "acronym" : "DOE",
+  "finishdateactual" : "08-May-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "32 West 92nd St",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "66.56"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S. 084 Lillian Weber",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "32 West 92 Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "P.S.39X",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "965 Longwood Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "98.81"
+}
+, {
+  "startdateactual" : "16-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "P.S.39X",
+  "acronym" : "DOE",
+  "finishdateactual" : "17-Apr-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "965 Longwood Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "76.78"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "P.S.39X",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "965 Longwood Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Queens Vocational and Technical High School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "37-02 47th Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "495.79"
+}
+, {
+  "startdateactual" : "15-Feb-11",
+  "subtype" : "None",
+  "projectsitename" : "Queens Vocational and Technical High School",
+  "acronym" : "DOE",
+  "finishdateactual" : "19-Apr-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "37-02 47th Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "141.00"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Queens Vocational and Technical High School",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "37-02 47th Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "20-Apr-11",
+  "subtype" : "None",
+  "projectsitename" : "Fashion Industries High School",
+  "acronym" : "DOE",
+  "finishdateactual" : "04-Apr-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "225 West 24th St",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "29.57"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "M600 - Fashion Industries HS",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "225 West 24th St",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "01-Apr-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "M028 - P.S. 028 Wright Brothers",
+  "acronym" : "DOE",
+  "finishdateactual" : "30-Jun-11",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "475 West 155th Street",
+  "projectstatus" : "Design"
+}
+, {
+  "startdateactual" : "14-Aug-12",
+  "subtype" : "None",
+  "projectsitename" : "K191 Paul Robeson",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1600 Park Place",
+  "projectstatus" : "In Progress",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "K191 Paul Robeson",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1600 Park Place",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "14-Aug-12",
+  "subtype" : "None",
+  "projectsitename" : "K 251 Paerdegat",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1037 East 54th Street",
+  "projectstatus" : "In Progress"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "K 251 Paerdegat",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1037 East 54th Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "18-Jul-12",
+  "subtype" : "None",
+  "projectsitename" : "K276 Louis Marshall",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1070 East 83rd Street",
+  "projectstatus" : "In Progress",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "K276 Louis Marshall",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1070 East 83rd Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "18-Jul-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "K279 - Herman Schreiber",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1076 East 104th Street",
+  "projectstatus" : "In Progress",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "K279 - Herman Schreiber",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1076 East 104th Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "21-Aug-12",
+  "subtype" : "None",
+  "projectsitename" : "K287- Bailey K. Ashford",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "50 Navy Street",
+  "projectstatus" : "In Progress",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "startdateactual" : "10-Aug-12",
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "K287- Bailey K. Ashford",
+  "acronym" : "DOE",
+  "finishdateactual" : "10-Sep-12",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "50 Navy Street",
+  "projectstatus" : "Survey",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "startdateactual" : "21-Aug-12",
+  "subtype" : "None",
+  "projectsitename" : "K321- William Penn",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "180 Seventh Avenue",
+  "projectstatus" : "In Progress",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Wm Penn ES",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "180 Seventh Avenue Brooklyn NY",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "08-Aug-12",
+  "subtype" : "None",
+  "projectsitename" : "K329- Surfside",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "2929 West 30th Street",
+  "projectstatus" : "Survey",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "K329- Surfside",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "2929 West 30th Street",
+  "projectstatus" : "Survey",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "startdateactual" : "08-Aug-12",
+  "subtype" : "None",
+  "projectsitename" : "K650 - Harry Vanarsdale Vocational HS",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "257 North 6th Street",
+  "projectstatus" : "In Progress"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "K650 - Harry Vanarsdale Vocational HS",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "257 North 6th Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "M019- PS 019- Asher Levy",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "179 1st Avenue",
+  "projectstatus" : "In Progress"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "M019- PS 019- Asher Levy",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "179 1st Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "M028- PS 28- Wright Brothers",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "475 West 155th Street",
+  "projectstatus" : "In Progress"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "M054- JHS 054- Booker T. Washington",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "103 W 107th Street",
+  "projectstatus" : "In Progress"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "Q011- PS 011- Kathryn Phelan",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "54-25 Skillman Avenue",
+  "projectstatus" : "In Progress"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "Q191 Mayflower",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "85-15 258th Street",
+  "projectstatus" : "In Progress"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "Q205 - PS 205 Alexander Graham Bell",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "75-25 Bell Blvd",
+  "projectstatus" : "In Progress"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "Q225 - PS 225 - Seaside School",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "190 Beach 110th Street",
+  "projectstatus" : "In Progress"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "R031 - PS 031 William T. Davis",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "55 Layton Avenue",
+  "projectstatus" : "In Progress",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "R052 - PS 052 - John C. Thompson",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "55 Layton Avenue",
+  "projectstatus" : "In Progress",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "startdateactual" : "15-Aug-12",
+  "subtype" : "None",
+  "projectsitename" : "X101- MS X101- Edward R. Byrne",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "2750 Lafayette Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "startdateactual" : "02-Aug-12",
+  "subtype" : "None",
+  "projectsitename" : "X121- PS 121- Throop",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "2750 Throop Avenue Bronx NY",
+  "projectstatus" : "In Progress",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "startdateactual" : "02-Aug-12",
+  "subtype" : "None",
+  "projectsitename" : "X135- IS 135",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "2441 Wallace Avenue Bronx NY",
+  "projectstatus" : "In Progress",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "startdateactual" : "09-Aug-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "M661",
+  "acronym" : "DOE",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "240 2nd Avenue",
+  "projectstatus" : "In Progress",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "startdateactual" : "09-Aug-11",
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Public Health Lab",
+  "acronym" : "DOHMH",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "447 First Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "26-Mar-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "East Harlem Health Care Center",
+  "acronym" : "DOHMH",
+  "finishdateactual" : "21-Jun-12",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "158 East 115th Street",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "51.79"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "East Harlem Health Care Center",
+  "acronym" : "DOHMH",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "158 East 115th Street",
+  "projectstatus" : "Proposed"
+}
+, {
+  "startdateactual" : "09-Aug-11",
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "East Harlem Health Care Center",
+  "acronym" : "DOHMH",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "158 East 115th Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Tremont Health Center - 1826 Arthur Avenue",
+  "acronym" : "DOHMH",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "1826 Arthur Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "45.96"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Central Harlem Health Center - 2238 5th Avenue",
+  "acronym" : "DOHMH",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "2238 Fifth Avenue",
+  "projectstatus" : "Cancelled",
+  "co2e_mt_calculated" : "28.02"
+}
+, {
+  "startdateactual" : "05-Sep-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Brooklyn District 17/18 Garage",
+  "acronym" : "DSNY",
+  "finishdateactual" : "02-Jun-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "105-02 AVENUE   BROOKLYN DIST 17/18 GAR, 105-09 Avenue D",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "234.06"
+}
+, {
+  "startdateactual" : "17-Sep-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Bronx East 6 Garage",
+  "acronym" : "DSNY",
+  "finishdateactual" : "02-Jun-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "807 EAST 175TH STREET, 800 East 176th Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "119.18"
+}
+, {
+  "startdateactual" : "15-Jun-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Q 11/13A, Q 7,Q 13",
+  "acronym" : "DSNY",
+  "finishdateactual" : "12-May-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "75-05 WINCHESTER BLVD  DIST 11/13 GARAGE",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "501.40"
+}
+, {
+  "startdateactual" : "24-Jul-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Bronx 12 District Garage",
+  "acronym" : "DSNY",
+  "finishdateactual" : "13-May-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1635 East 233rd St. Bronx NY",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "151.64"
+}
+, {
+  "startdateactual" : "24-Jul-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "3A",
+  "acronym" : "DSNY",
+  "finishdateactual" : "13-May-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "680  East 132nd Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "22.22"
+}
+, {
+  "startdateactual" : "24-Jul-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Bx 5 District Garage",
+  "acronym" : "DSNY",
+  "finishdateactual" : "13-May-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1331 Cromwell Ave",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "23.85"
+}
+, {
+  "startdateactual" : "25-Jun-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "26th Street Repair Garage",
+  "acronym" : "DSNY",
+  "finishdateactual" : "07-Jan-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "640 West 26th Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "366.78"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "26th Street Repair Garage",
+  "acronym" : "DSNY",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "640 West 26th Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "26-Jun-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Bklyn 8, Bklyn 7/10 District Garages",
+  "acronym" : "DSNY",
+  "finishdateactual" : "12-May-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "5100 1st Ave",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "108.41"
+}
+, {
+  "startdateactual" : "26-Jun-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Bklyn 8, Bklyn 7/10 District Garages",
+  "acronym" : "DSNY",
+  "finishdateactual" : "12-May-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1760 Atlantic Ave, 1755 Pacific Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "44.39"
+}
+, {
+  "startdateactual" : "31-May-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Staten Island 1",
+  "acronym" : "DSNY",
+  "finishdateactual" : "28-Sep-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : " 539 Jersey St.",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "104.80"
+}
+, {
+  "startdateactual" : "31-May-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : " Staten Island 2 District Garages",
+  "acronym" : "DSNY",
+  "finishdateactual" : "28-Sep-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "2500 RICHMOND AVENUE     STATEN ISLAND",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "123.92"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Bx-11 - 800 Zerega Avenue",
+  "acronym" : "DSNY",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "800-850 Zerega Avenue",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "19.30"
+}
+, {
+  "startdateactual" : "02-Jul-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Queens North Borough Repair Shop - 52-07 58th Street",
+  "acronym" : "DSNY",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "52-07 58th Street",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "30.86"
+}
+, {
+  "startdateactual" : "16-May-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Q5 - 48-01 58th Road",
+  "acronym" : "DSNY",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "58-02 48th Street",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "73.00"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "48-01 58th Road Queens NY  11378",
+  "acronym" : "DSNY",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "58-01 48th Street Queens NY 11378",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "15.64"
+}
+, {
+  "startdateactual" : "14-May-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Betts Avenue Boiler Room - 57-73 53rd Avenue",
+  "acronym" : "DSNY",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "58-73 53rd Avenue",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "150.44"
+}
+, {
+  "startdateactual" : "15-Nov-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Cioffe Borough Shop - 106-01 Avenue D",
+  "acronym" : "DSNY",
+  "finishdateactual" : "26-Apr-11",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "106-01 Avenue D",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "148.09"
+}
+, {
+  "startdateactual" : "11-May-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Manhattan Borough Repair Shop",
+  "acronym" : "DSNY",
+  "finishdateactual" : "10-Jun-10",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "640 West 26th St",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "147.02"
+}
+, {
+  "startdateactual" : "12-Mar-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Manhattan Borough Repair Shop",
+  "acronym" : "DSNY",
+  "finishdateactual" : "30-Jun-12",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "640 West 26th St.",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "714.85"
+}
+, {
+  "startdateactual" : "03-Dec-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "44 Beaver Street",
+  "acronym" : "DSNY",
+  "finishdateactual" : "11-Feb-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "44 Beaver Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "103.74"
+}
+, {
+  "startdateactual" : "31-Oct-11",
+  "subtype" : "Photovoltaic",
+  "projectsitename" : "Brooklyn South 14 - Photovoltaic",
+  "acronym" : "DSNY",
+  "finishdateactual" : "22-Feb-12",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1397 Ralph Avenue",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "22.52"
+}
+, {
+  "startdateactual" : "30-Nov-11",
+  "subtype" : "Photovoltaic",
+  "projectsitename" : "Queens 3 East - Photovoltaic",
+  "acronym" : "DSNY",
+  "finishdateactual" : "22-Feb-12",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "153-67 146th Avenue",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "22.21"
+}
+, {
+  "startdateactual" : "01-Apr-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Betts Avenue Boiler Room",
+  "acronym" : "DSNY",
+  "finishdateactual" : "31-Dec-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "58-73 53rd Avenue",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "90.62"
+}
+, {
+  "startdateactual" : "24-Jul-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Bx 7/8",
+  "acronym" : "DSNY",
+  "finishdateactual" : "13-May-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "423 West 215th St.",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "82.55"
+}
+, {
+  "startdateactual" : "04-Apr-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Fleet Services Shop",
+  "acronym" : "DOT",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "654 West 158th Street",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "263.59"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Fleet Services Shop",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "654 West 158th Street",
+  "projectstatus" : "Proposed"
+}
+, {
+  "startdateactual" : "09-Aug-11",
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Fleet Services Shop",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "654 West 158th Street",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "10-Jan-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Ferry Maintenance Facility",
+  "acronym" : "DOT",
+  "finishdateactual" : "31-Aug-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1 Bay Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "136.37"
+}
+, {
+  "startdateactual" : "30-Mar-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Ferry Maintenance Facility - 1 Bay Street",
+  "acronym" : "DOT",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "1 Bay Street",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "312.65"
+}
+, {
+  "startdateactual" : "15-Jul-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "5 Dubois Avenue",
+  "acronym" : "DOT",
+  "finishdateactual" : "05-Nov-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "5 Dubois Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "24.23"
+}
+, {
+  "startdateactual" : "24-Oct-11",
+  "subtype" : "Photovoltaic",
+  "projectsitename" : "Sunrise Yard",
+  "acronym" : "DOT",
+  "finishdateactual" : "22-Feb-12",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "88-20 Pitkin Ave and Linden Blvd",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "22.70"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Randall's Island 5 Borough Complex",
+  "acronym" : "DPR",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectstatus" : "Design"
+}
+, {
+  "startdateactual" : "06-Oct-10",
+  "subtype" : "None",
+  "projectsitename" : "Randall's Island 5 Borough Complex",
+  "acronym" : "DPR",
+  "finishdateactual" : "05-Aug-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1 E 99th Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "379.19"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "5 Boro",
+  "acronym" : "DPR",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1 Randalls Island",
+  "projectstatus" : "Proposed"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "5 Boro",
+  "acronym" : "DPR",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1 Randalls Island",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "04-Oct-07",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Tony Dapolito Recreational Center",
+  "acronym" : "DPR",
+  "finishdateactual" : "01-Apr-08",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : " 3 Clarkson Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "40.00"
+}
+, {
+  "startdateactual" : "04-Oct-07",
+  "subtype" : "Retrofit",
+  "projectsitename" : "St. John's Recreation Center",
+  "acronym" : "DPR",
+  "finishdateactual" : "01-Apr-08",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1251 PROSPECT PLACE",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "60.75"
+}
+, {
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectstatus" : "Cancelled"
+}
+, {
+  "startdateactual" : "06-Jan-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "St. Mary's Rec Center",
+  "acronym" : "DPR",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "450 St. Ann's Avenue",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "267.33"
+}
+, {
+  "subtype" : "Solar Thermal",
+  "projectsitename" : "St. Mary's Rec Center",
+  "acronym" : "DPR",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "450 St. Ann's Avenue",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "12.83"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "St. Mary's Rec Center",
+  "acronym" : "DPR",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "450 St. Ann's Avenue",
+  "projectstatus" : "Proposed"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "St. Mary's Rec Center",
+  "acronym" : "DPR",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "450 St. Ann's Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Central Park Zoo",
+  "acronym" : "DPR",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "76 Central Park, 830 5th Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "69.55"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Central Park Zoo",
+  "acronym" : "DPR",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "76 Central Park, 830 5th Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "247.36"
+}
+, {
+  "startdateactual" : "10-Jan-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Ranaqua Garage And Shops - 1 Bronx River Pkwy",
+  "acronym" : "DPR",
+  "finishdateactual" : "29-Sep-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : " 1 Bronx River Pkwy",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "54.15"
+}
+, {
+  "startdateactual" : "11-Oct-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Jackie Robinson Recreation Center",
+  "acronym" : "DPR",
+  "finishdateactual" : "19-Mar-12",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "89 Bradhurst Avenue",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "27.43"
+}
+, {
+  "startdateactual" : "08-Apr-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Queens Museum",
+  "acronym" : "DCLA",
+  "finishdateactual" : "31-May-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "Flushing Meadows Corona Park",
+  "projectstatus" : "Cancelled"
+}
+, {
+  "subtype" : "Cogen",
+  "projectsitename" : "Flushing Meadows Aquatic Center",
+  "acronym" : "DPR",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "Flushing Meadows Park",
+  "projectstatus" : "Survey",
+  "co2e_mt_calculated" : "727.96"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Brooklyn Cruise Terminal",
+  "acronym" : "NYCEDC",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "Conover & Pioneer Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "209.72"
+}
+, {
+  "startdateactual" : "27-Mar-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Engine Company 206",
+  "acronym" : "FDNY",
+  "finishdateactual" : "30-Jul-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1201 GRAND ST",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "25.27"
+}
+, {
+  "startdateactual" : "27-Mar-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Engine Company 207",
+  "acronym" : "FDNY",
+  "finishdateactual" : "15-Sep-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "301 Gold Street, 172 Tillary Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "33.08"
+}
+, {
+  "startdateactual" : "27-Mar-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Engine Company 42 & Ladder 56",
+  "acronym" : "FDNY",
+  "finishdateactual" : "24-Jun-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1781 Monroe Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "11.52"
+}
+, {
+  "startdateactual" : "27-Mar-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Engine Company 45 & Ladder 58",
+  "acronym" : "FDNY",
+  "finishdateactual" : "10-Jul-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "925 E TREMONT AVE",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "27.45"
+}
+, {
+  "startdateactual" : "08-Sep-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Energy Efficient lighting at FDNY-Engine Company 71",
+  "acronym" : "FDNY",
+  "finishdateactual" : "05-Dec-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "720 Melrose Ave Bronx, NY",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "30.63"
+}
+, {
+  "startdateactual" : "06-May-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Fleet Services R&T Building - 48-34 35th Street",
+  "acronym" : "FDNY",
+  "finishdateactual" : "21-Oct-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "48-34 35th Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "253.34"
+}
+, {
+  "startdateactual" : "29-Aug-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Engine Company 222",
+  "acronym" : "FDNY",
+  "finishdateactual" : "30-Sep-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "32 Ralph Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "13.74"
+}
+, {
+  "subtype" : "Solar Thermal",
+  "projectsitename" : "Engine Company 264",
+  "acronym" : "FDNY",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "16-15 Central Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "3.41"
+}
+, {
+  "subtype" : "Solar Thermal",
+  "projectsitename" : "Engine Company 265",
+  "acronym" : "FDNY",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "48-06 Rockaway Beach",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "3.72"
+}
+, {
+  "subtype" : "Solar Thermal",
+  "projectsitename" : "Engine Company 266",
+  "acronym" : "FDNY",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "92-20 Rockaway Beach",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "1.70"
+}
+, {
+  "subtype" : "Solar Thermal",
+  "projectsitename" : "Engine Company 268",
+  "acronym" : "FDNY",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "259 116 Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "3.34"
+}
+, {
+  "subtype" : "Solar Thermal",
+  "projectsitename" : "Engine Company 329",
+  "acronym" : "FDNY",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "402 Beach 169 Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "1.70"
+}
+, {
+  "startdateactual" : "01-Jul-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Engine Company 268",
+  "acronym" : "FDNY",
+  "finishdateactual" : "31-Dec-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "259 Beach 116 Street",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "15.94"
+}
+, {
+  "startdateactual" : "01-Apr-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : " Engine Co. 211- Lighting Upgrade",
+  "acronym" : "FDNY",
+  "finishdateactual" : "30-Sep-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "26 Hooper Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "45.41"
+}
+, {
+  "startdateactual" : "16-Dec-11",
+  "subtype" : "Photovoltaic",
+  "projectsitename" : "R&T Repair Shop",
+  "acronym" : "FDNY",
+  "finishdateactual" : "24-Feb-12",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "48-34 35th Street",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "13.51"
+}
+, {
+  "startdateactual" : "16-Dec-11",
+  "subtype" : "Photovoltaic",
+  "projectsitename" : "Engine Company 168 / Emergency Maintenance Station 22",
+  "acronym" : "FDNY",
+  "finishdateactual" : "23-Mar-12",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1100 Rossville Ave",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "18.02"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Coney Island Hospital Boilers",
+  "acronym" : "HHC",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "2601 Ocean Pkwy Brooklyn NY",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "4022.55"
+}
+, {
+  "subtype" : "None",
+  "acronym" : "HHC",
+  "primaryprojecttype" : "Energy Audit",
+  "projectstatus" : "Completed"
+}
+, {
+  "startdateactual" : "13-May-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Morrisania Diagnostic & Treatment Ctr",
+  "acronym" : "HHC",
+  "finishdateactual" : "17-Oct-08",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1223 GERARD AVENUE MORRISANIA N F C CNTR",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "152.33"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Metropolitan Hospital",
+  "acronym" : "HHC",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "1901 1st Avenue  New York, NY 10029",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "9521.89"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "Metropolitan Hospital",
+  "acronym" : "HHC",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1901 1st Avenue  New York, NY 10029",
+  "projectstatus" : "Completed"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Elmhurst Hospital Center",
+  "acronym" : "HHC",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "79-01 Broadway  Elmhurst, NY  11373",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "6459.37"
+}
+, {
+  "subtype" : "None",
+  "projectsitename" : "Elmhurst Hospital Center",
+  "acronym" : "HHC",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "79-01 Broadway  Elmhurst, NY  11373",
+  "projectstatus" : "Completed"
+}
+, {
+  "startdateactual" : "03-Aug-11",
+  "subtype" : "None",
+  "projectsitename" : "Woodhull Hospital",
+  "acronym" : "HHC",
+  "finishdateactual" : "03-Feb-12",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "760 Broadway, Brooklyn",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "1763.80"
+}
+, {
+  "startdateactual" : "15-Dec-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Human Resources Administration - 33-28 Northern Blvd",
+  "acronym" : "HRA",
+  "finishdateactual" : "06-May-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "33-28 to 34-08 Northern Blvd",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "83.86"
+}
+, {
+  "startdateactual" : "03-Jan-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Human Resources Administration - 109 East 16th Street",
+  "acronym" : "HRA",
+  "finishdateactual" : "27-Apr-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "109 East 16th Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "126.43"
+}
+, {
+  "startdateactual" : "12-Jul-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Human Resources Administration - 30 Thornton Street",
+  "acronym" : "HRA",
+  "finishdateactual" : "10-Sep-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "731 Flushing Avenue, 30 Thornton Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "67.82"
+}
+, {
+  "startdateactual" : "12-Sep-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Human Resources Administration - 260 11th Avenue",
+  "acronym" : "HRA",
+  "finishdateactual" : "31-Oct-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "260 11th Avenue, 246 11th Avenue",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "92.81"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Bushwick Multi Service Center",
+  "acronym" : "HRA",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1420 Burswick Ave",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "23.19"
+}
+, {
+  "startdateactual" : "04-Nov-10",
+  "subtype" : "None",
+  "projectsitename" : "Bushwick Multi Service Center",
+  "acronym" : "HRA",
+  "finishdateactual" : "03-Jun-11",
+  "primaryprojecttype" : "Energy Audit",
+  "projectsiteaddress" : "1420 Bushwick Ave",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "23.19"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Bushwick Multi Service Center",
+  "acronym" : "HRA",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1420 Burswick Ave",
+  "projectstatus" : "Proposed"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Bushwick Multi Service Center",
+  "acronym" : "HRA",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1420 Burswick Ave",
+  "projectstatus" : "Survey"
+}
+, {
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "47.45"
+}
+, {
+  "startdateactual" : "20-Mar-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Midtown North - Manhattan Zone",
+  "acronym" : "NYPD",
+  "finishdateactual" : "16-Oct-08",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "524 WEST 42ND ST",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "48.84"
+}
+, {
+  "startdateactual" : "05-Sep-07",
+  "subtype" : "Retrofit",
+  "projectsitename" : "44th Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "13-Sep-08",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "2 EAST 169TH ST",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "42.07"
+}
+, {
+  "startdateactual" : "05-Sep-07",
+  "subtype" : "Retrofit",
+  "projectsitename" : "40th Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "11-Sep-08",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "257 ALEXANDER AVENUE",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "22.42"
+}
+, {
+  "startdateactual" : "05-Sep-07",
+  "subtype" : "Retrofit",
+  "projectsitename" : "41st Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "12-Sep-08",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1035 LONGWOOD AVENUE",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "71.69"
+}
+, {
+  "startdateactual" : "05-Sep-07",
+  "subtype" : "Retrofit",
+  "projectsitename" : "49th Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "14-Sep-08",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "2121 EASTCHESTER ROAD",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "50.65"
+}
+, {
+  "startdateactual" : "05-Sep-07",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Old 44th Precinct (Bronx Task Force)",
+  "acronym" : "NYPD",
+  "finishdateactual" : "15-Sep-08",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1278 SEDGWICK AVENUE",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "13.48"
+}
+, {
+  "startdateactual" : "12-Dec-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "34th Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "20-Jul-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "4295 BROADWAY",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "40.08"
+}
+, {
+  "startdateactual" : "12-Dec-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Traffic Control Division",
+  "acronym" : "NYPD",
+  "finishdateactual" : "20-Jul-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "134-40 W 30TH ST",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "30.02"
+}
+, {
+  "startdateactual" : "12-Dec-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Pier 36 Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "20-Jul-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "PIER 36 & SOUTH STREET",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "15.90"
+}
+, {
+  "startdateactual" : "01-Dec-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "123rd Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "20-Jul-09",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "116 Main Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "12.63"
+}
+, {
+  "startdateactual" : "20-May-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "111th Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "28-Jan-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "45-06 215TH STREET",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "26.75"
+}
+, {
+  "startdateactual" : "20-May-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "61st Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "28-Jan-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "2575 CONEY ISLAND AVENUE",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "41.65"
+}
+, {
+  "startdateactual" : "20-May-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "62nd Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "28-Jan-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1925 BATH AVENUE",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "22.51"
+}
+, {
+  "startdateactual" : "20-May-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "63rd Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "28-Jan-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1844 BROOKLYN AVENUE",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "12.31"
+}
+, {
+  "startdateactual" : "20-May-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "66th Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "28-Jan-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "5822 16TH AVENUE",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "12.23"
+}
+, {
+  "startdateactual" : "20-May-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "70th Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "28-Jan-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "154 LAWRENCE AVENUE",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "14.23"
+}
+, {
+  "startdateactual" : "12-Feb-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Group 5 - 71st/76th/90th/94th/77 Annex Pcts",
+  "acronym" : "NYPD",
+  "finishdateactual" : "24-Nov-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "421 EMPIRE BOULEVARD",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "64.13"
+}
+, {
+  "startdateactual" : "30-Jun-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Group 5 - 71st/76th/90th/94th/77 Annex Pcts",
+  "acronym" : "NYPD",
+  "finishdateactual" : "24-Nov-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "191 UNION STREET",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "41.78"
+}
+, {
+  "startdateactual" : "30-Jun-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Group 5 - 71st/76th/90th/94th/77 Annex Pcts",
+  "acronym" : "NYPD",
+  "finishdateactual" : "24-Nov-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "653 GRAND AVENUE",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "25.83"
+}
+, {
+  "startdateactual" : "12-Feb-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Group 5 - 71st/76th/90th/94th/77 Annex Pcts",
+  "acronym" : "NYPD",
+  "finishdateactual" : "24-Nov-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "211 UNION AVE",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "91.94"
+}
+, {
+  "startdateactual" : "30-Jun-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Group 5 - 71st/76th/90th/94th/77 Annex Pcts",
+  "acronym" : "NYPD",
+  "finishdateactual" : "24-Nov-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "100 MESEROLE AVENUE",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "57.60"
+}
+, {
+  "startdateactual" : "26-Jan-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "100th Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "21-Oct-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "9224 Rockaway  Beach, or 92-24 Rockaway Beach Boulevard",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "22.13"
+}
+, {
+  "startdateactual" : "26-Jan-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "101st Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "14-Oct-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1612 Mott Avenue, or 16-12 Mott Avenue",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "20.56"
+}
+, {
+  "startdateactual" : "26-Jan-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "114th Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "09-Dec-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "34-16 ASTORIA BOULEVARD",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "57.26"
+}
+, {
+  "startdateactual" : "29-Aug-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "BMS/QMS Building",
+  "acronym" : "NYPD",
+  "finishdateactual" : "27-Aug-12",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "59-06 LAUREL HILL BLVD",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "112.24"
+}
+, {
+  "startdateactual" : "17-Jan-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "NYPD Forensic Investigation Division",
+  "acronym" : "NYPD",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "150-18 Jamaica Avenue Queens NY",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "804.20"
+}
+, {
+  "startdateactual" : "10-Mar-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "NYPD - 33rd Precinct",
+  "acronym" : "NYPD",
+  "finishdateactual" : "31-Dec-08",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "2207 Amsterdam Ave., NY, NY",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "1.26"
+}
+, {
+  "startdateactual" : "13-Sep-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "1086 Simpson Street Bronx NY 10459",
+  "acronym" : "NYPD",
+  "finishdateactual" : "27-Sep-11",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "157.12"
+}
+, {
+  "subtype" : "Retrofit",
+  "acronym" : "NYPD",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectstatus" : "Completed"
+}
+, {
+  "startdateactual" : "10-Mar-08",
+  "subtype" : "Retrofit",
+  "projectsitename" : "79th Pct.",
+  "acronym" : "NYPD",
+  "finishdateactual" : "12-Sep-11",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "263 Tompkins Ave.",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "287.26"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "NYPD Shop # 1",
+  "acronym" : "NYPD",
+  "finishdateactual" : "13-May-10",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "11 Front Street Brooklyn NY",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "136.02"
+}
+, {
+  "startdateactual" : "04-Dec-09",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Police Forensic Lab - Lighting",
+  "acronym" : "NYPD",
+  "finishdateactual" : "11-Jun-10",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "150-18 JAMAICA AVENUE",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "125.53"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "122nd Precinct",
+  "acronym" : "NYPD",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "2320 Hylan Blvd",
+  "projectstatus" : "Cancelled",
+  "co2e_mt_calculated" : "7.13"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "122nd Precinct",
+  "acronym" : "NYPD",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "2320 Hylan Blvd",
+  "projectstatus" : "Proposed"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "122nd Precinct",
+  "acronym" : "NYPD",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "2320 Hylan Blvd",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "07-Nov-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Police Headquarters",
+  "acronym" : "NYPD",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "1 Police Plaza",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "2914.41"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Police Headquarters",
+  "acronym" : "NYPD",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "1 Police Plaza",
+  "projectstatus" : "Survey"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "69th Precinct - 9720 Foster Avenue",
+  "acronym" : "NYPD",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "9720 Foster Avenue",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "64.56"
+}
+, {
+  "startdateactual" : "12-Sep-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "NYPD Central Repair Shop",
+  "acronym" : "NYPD",
+  "finishdateactual" : "02-Dec-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "53-15 5bth Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "98.39"
+}
+, {
+  "startdateactual" : "14-Dec-11",
+  "subtype" : "Photovoltaic",
+  "projectsitename" : "114th Precinct - Photovoltaic",
+  "acronym" : "NYPD",
+  "finishdateactual" : "24-Feb-12",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "34-16 Astoria Blvd",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "15.77"
+}
+, {
+  "startdateactual" : "14-Dec-11",
+  "subtype" : "Photovoltaic",
+  "projectsitename" : "115th Precinct - Photovoltaic",
+  "acronym" : "NYPD",
+  "finishdateactual" : "24-Feb-12",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "92-15 Northern Blvd",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "22.52"
+}
+, {
+  "startdateactual" : "14-Dec-11",
+  "subtype" : "Photovoltaic",
+  "projectsitename" : "48th Precinct - Photovoltaic",
+  "acronym" : "NYPD",
+  "finishdateactual" : "07-Mar-12",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "450 Cross Bronx Expressway",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "13.51"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Old 41st Precinct",
+  "acronym" : "NYPD",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "1086 Simpson Street",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "59.40"
+}
+, {
+  "subtype" : "Cogen",
+  "projectsitename" : "New York Police Academy",
+  "acronym" : "NYPD",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "College Point, Queens",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "0.00"
+}
+, {
+  "startdateactual" : "15-Mar-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Humanities & Social Sciences Library",
+  "acronym" : "NYPL",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "454 Fifth Avenue",
+  "projectstatus" : "Install",
+  "co2e_mt_calculated" : "2122.53"
+}
+, {
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Humanities & Social Sciences Library",
+  "acronym" : "NYPL",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "454 Fifth Avenue",
+  "projectstatus" : "Survey"
+}
+, {
+  "startdateactual" : "17-Dec-10",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Andrew Heiskell Library",
+  "acronym" : "NYPL",
+  "finishdateactual" : "11-Apr-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "40 West 20th Street",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "26.63"
+}
+, {
+  "startdateactual" : "01-Apr-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Pelham Bay Branch Library",
+  "acronym" : "NYPL",
+  "finishdateactual" : "31-Dec-11",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "3060 Middletown Road",
+  "projectstatus" : "Completed",
+  "co2e_mt_calculated" : "23.59"
+}
+, {
+  "startdateactual" : "24-Oct-11",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Wakefield Branch",
+  "acronym" : "NYPL",
+  "finishdateactual" : "15-Mar-12",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "4100 Lowerre Place",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "15.48"
+}
+, {
+  "startdateactual" : "12-Mar-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Woodhaven Branch Library",
+  "acronym" : "QPL",
+  "finishdateactual" : "29-Mar-12",
+  "primaryprojecttype" : "Lighting System Upgrade",
+  "projectsiteaddress" : "8541 Forest Pkwy",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "8.27"
+}
+, {
+  "subtype" : "Retrofit",
+  "projectsitename" : "Staten Island Zoo",
+  "primaryprojecttype" : "HVAC System Upgrade",
+  "projectsiteaddress" : "614 Broadway Staten Island, NY",
+  "projectstatus" : "Design",
+  "co2e_mt_calculated" : "111.18"
+}
+, {
+  "startdateactual" : "30-Jan-12",
+  "subtype" : "Retrofit",
+  "projectsitename" : "Woodside Inspection Facility",
+  "acronym" : "TLC",
+  "finishdateactual" : "29-Jun-12",
+  "primaryprojecttype" : "Comprehensive",
+  "projectsiteaddress" : "24-55 Brooklyn-Queens Expwy",
+  "projectstatus" : "Substantially Completed",
+  "co2e_mt_calculated" : "61.06"
+}
+, {
+  "startdateactual" : "09-Aug-11",
+  "subtype" : "Retro-commissioning",
+  "projectsitename" : "Woodside Inspection Facility",
+  "acronym" : "TLC",
+  "primaryprojecttype" : "Other",
+  "projectsiteaddress" : "24-55 Brooklyn-Queens Expwy",
+  "projectstatus" : "Survey"
+}
+ ]

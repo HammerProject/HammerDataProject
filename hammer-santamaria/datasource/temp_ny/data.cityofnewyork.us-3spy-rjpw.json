@@ -1,0 +1,962 @@
+[ {
+  "building_name" : "P.S. 163 TRANSPORTABLE - M",
+  "bldg_id" : "M919",
+  "building_address" : "163 WEST 97 STREET",
+  "council_dist" : "7",
+  "jur_dist" : "3",
+  "no_of_tcus" : "2",
+  "enrollment" : "120"
+}
+, {
+  "building_name" : "P.S. 48 TRANSPORTABLE - MANHATTAN",
+  "bldg_id" : "M902",
+  "building_address" : "4360 BROADWAY",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "no_of_tcus" : "2",
+  "enrollment" : "100"
+}
+, {
+  "building_name" : "P.S. 5 TRANSPORTABLE - M",
+  "bldg_id" : "M921 **",
+  "building_address" : "3703 TENTH AVENUE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "no_of_tcus" : "2",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "I.S. 349 - MANHATTAN",
+  "bldg_id" : "M965",
+  "building_address" : "549 AUDOBON AVENUE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "no_of_tcus" : "15",
+  "enrollment" : "487"
+}
+, {
+  "building_name" : "P.S. 119 TRANSPORTABLE - X",
+  "bldg_id" : "X915",
+  "building_address" : "1075 PUGSLEY AVENUE",
+  "council_dist" : "18",
+  "jur_dist" : "8",
+  "no_of_tcus" : "2",
+  "enrollment" : "100"
+}
+, {
+  "building_name" : "P.S. 138 TRANSPORTABLE - X",
+  "bldg_id" : "X938",
+  "building_address" : "2060 LAFAYETTE AVENUE",
+  "council_dist" : "18",
+  "jur_dist" : "8",
+  "no_of_tcus" : "2",
+  "enrollment" : "48"
+}
+, {
+  "building_name" : "P.S. 14 TRANSPORTABLE - X",
+  "bldg_id" : "X947",
+  "building_address" : "3041 BRUCKNER BLVD.",
+  "council_dist" : "13",
+  "jur_dist" : "8",
+  "no_of_tcus" : "2",
+  "enrollment" : "100"
+}
+, {
+  "building_name" : "P.S. 71 TRANSPORTABLE - X",
+  "bldg_id" : "X948",
+  "building_address" : "3040 ROBERTS AVENUE",
+  "council_dist" : "13",
+  "jur_dist" : "8",
+  "no_of_tcus" : "2",
+  "enrollment" : "137"
+}
+, {
+  "building_name" : "P.S. 64 TRANSPORTABLE - X",
+  "bldg_id" : "X924",
+  "building_address" : "1425 WALTON AVENUE",
+  "council_dist" : "16",
+  "jur_dist" : "9",
+  "no_of_tcus" : "2",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 28 TRANSPORTABLE - X",
+  "bldg_id" : "X928 **",
+  "building_address" : "1861 ANTHONY AVENUE",
+  "council_dist" : "15",
+  "jur_dist" : "9",
+  "no_of_tcus" : "1",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 163 TRANSPORTABLE - X",
+  "bldg_id" : "X933",
+  "building_address" : "2075 WEBSTER AVE.",
+  "council_dist" : "15",
+  "jur_dist" : "9",
+  "no_of_tcus" : "4",
+  "enrollment" : "185"
+}
+, {
+  "building_name" : "I.S. 80/P.S. 280 TRANSPORTABLE-X",
+  "bldg_id" : "X910",
+  "building_address" : "149 EAST MOSHOLU PKWY N",
+  "council_dist" : "11",
+  "jur_dist" : "10",
+  "no_of_tcus" : "4",
+  "enrollment" : "140"
+}
+, {
+  "building_name" : "P.S. 175 TRANSPORTABLE - X",
+  "bldg_id" : "X906",
+  "building_address" : "200 CITY ISLAND AVENUE",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "no_of_tcus" : "2",
+  "enrollment" : "57"
+}
+, {
+  "building_name" : "P.S. 16 TRANSPORTABLE1 - X",
+  "bldg_id" : "X916",
+  "building_address" : "4550 CARPENTER AVE.",
+  "council_dist" : "11",
+  "jur_dist" : "11",
+  "no_of_tcus" : "2",
+  "enrollment" : "88"
+}
+, {
+  "building_name" : "P.S. 16 TRANSPORTABLE2 - X",
+  "bldg_id" : "X942",
+  "building_address" : "4550 CARPENTER AVENUE",
+  "council_dist" : "11",
+  "jur_dist" : "11",
+  "no_of_tcus" : "2",
+  "enrollment" : "93"
+}
+, {
+  "building_name" : "P.S. 87 TRANSPORTABLE - X",
+  "bldg_id" : "X945",
+  "building_address" : "1935 BUSSING AVENUE",
+  "council_dist" : "12",
+  "jur_dist" : "11",
+  "no_of_tcus" : "4",
+  "enrollment" : "200"
+}
+, {
+  "building_name" : "P.S. 108 TRANSPORTABLE - X",
+  "bldg_id" : "X946",
+  "building_address" : "1166 NEILL AVENUE",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "no_of_tcus" : "4",
+  "enrollment" : "200"
+}
+, {
+  "building_name" : "P.S. 97 TRANSPORTABLE - X",
+  "bldg_id" : "X997",
+  "building_address" : "1375 MACE AVE.",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "no_of_tcus" : "4",
+  "enrollment" : "150"
+}
+, {
+  "building_name" : "P.S. 6 TRANSPORTABLE - X",
+  "bldg_id" : "X936",
+  "building_address" : "1000 E. TREMONT AVE.",
+  "council_dist" : "17",
+  "jur_dist" : "12",
+  "no_of_tcus" : "6",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 234 TRANSPORTABLE - X",
+  "bldg_id" : "X941",
+  "building_address" : "2055 MAPES AVE",
+  "council_dist" : "15",
+  "jur_dist" : "12",
+  "no_of_tcus" : "2",
+  "enrollment" : "85"
+}
+, {
+  "building_name" : "P.S. 67 TRANSPORTABLE - X",
+  "bldg_id" : "X967",
+  "building_address" : "2024 MOHEGAN AVENUE",
+  "council_dist" : "17",
+  "jur_dist" : "12",
+  "no_of_tcus" : "2",
+  "enrollment" : "36"
+}
+, {
+  "building_name" : "P.S. 32 TRANSPORTABLE - K",
+  "bldg_id" : "K979 **",
+  "building_address" : "317 HOYT STREET",
+  "council_dist" : "39",
+  "jur_dist" : "15",
+  "no_of_tcus" : "7",
+  "enrollment" : "226"
+}
+, {
+  "building_name" : "P.S. 261 TRANSPORTABLE - K",
+  "bldg_id" : "K982",
+  "building_address" : "314 PACIFIC STREET",
+  "council_dist" : "33",
+  "jur_dist" : "15",
+  "no_of_tcus" : "1",
+  "enrollment" : "36"
+}
+, {
+  "building_name" : "P.S. 272 TRANSPORTABLE - K",
+  "bldg_id" : "K922 **",
+  "building_address" : "10124 SEAVIEW AVENUE",
+  "council_dist" : "46",
+  "jur_dist" : "18",
+  "no_of_tcus" : "3",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 276 TRANSPORTABLE - K",
+  "bldg_id" : "K923 **",
+  "building_address" : "1070 EAST 83RD STREET",
+  "council_dist" : "46",
+  "jur_dist" : "18",
+  "no_of_tcus" : "8",
+  "enrollment" : "16"
+}
+, {
+  "building_name" : "P.S. 219 TRANSPORTABLE - K",
+  "bldg_id" : "K973 **",
+  "building_address" : "1060 CLARKSON AVENUE",
+  "council_dist" : "41",
+  "jur_dist" : "18",
+  "no_of_tcus" : "1",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 235 TRANSPORTABLE - K",
+  "bldg_id" : "K980 **",
+  "building_address" : "525 LENOX ROAD",
+  "council_dist" : "41",
+  "jur_dist" : "18",
+  "no_of_tcus" : "4",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 268 TRANSPORTABLE - K",
+  "bldg_id" : "K981 **",
+  "building_address" : "133 EAST 53 STREET",
+  "council_dist" : "41",
+  "jur_dist" : "18",
+  "no_of_tcus" : "1",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 290 TRANSPORTABLE - K",
+  "bldg_id" : "K948",
+  "building_address" : "135 SCHENCK AVENUE",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "no_of_tcus" : "1",
+  "enrollment" : "45"
+}
+, {
+  "building_name" : "P.S. 214 TRANSPORTABLE - K",
+  "bldg_id" : "K949",
+  "building_address" : "2944 PITKIN AVENUE",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "no_of_tcus" : "7",
+  "enrollment" : "108"
+}
+, {
+  "building_name" : "P.S. 202 TRANSPORTABLE - K",
+  "bldg_id" : "K958",
+  "building_address" : "982 HEGEMAN AVENUE",
+  "council_dist" : "42",
+  "jur_dist" : "19",
+  "no_of_tcus" : "4",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "I.S. 302 TRANSPORTABLE - K",
+  "bldg_id" : "K974",
+  "building_address" : "350 LINWOOD STREET",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "no_of_tcus" : "3",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 7 TRANSPORTABLE - K",
+  "bldg_id" : "K991",
+  "building_address" : "858 JAMAICA AVENUE",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "no_of_tcus" : "3",
+  "enrollment" : "128"
+}
+, {
+  "building_name" : "P.S. 159 TRANSPORTABLE - K",
+  "bldg_id" : "K998",
+  "building_address" : "2781 PITKIN AVENUE",
+  "council_dist" : "42",
+  "jur_dist" : "19",
+  "no_of_tcus" : "2",
+  "enrollment" : "85"
+}
+, {
+  "building_name" : "P.S. 179 TRANSPORTABLE - K",
+  "bldg_id" : "K921",
+  "building_address" : "202 AVENUE C",
+  "council_dist" : "39",
+  "jur_dist" : "20",
+  "no_of_tcus" : "3",
+  "enrollment" : "100"
+}
+, {
+  "building_name" : "P.S. 112 TRANSPORTABLE - K",
+  "bldg_id" : "K961",
+  "building_address" : "7115 15 AVENUE",
+  "council_dist" : "43",
+  "jur_dist" : "20",
+  "no_of_tcus" : "1",
+  "enrollment" : "50"
+}
+, {
+  "building_name" : "P.S. 97 TRANSPORTABLE - K",
+  "bldg_id" : "K937",
+  "building_address" : "1855 STILLWELL AVENUE",
+  "council_dist" : "47",
+  "jur_dist" : "21",
+  "no_of_tcus" : "2",
+  "enrollment" : "54"
+}
+, {
+  "building_name" : "P.S. 209 TRANSPORTABLE - K",
+  "bldg_id" : "K941",
+  "building_address" : "2609 EAST 7TH ST",
+  "council_dist" : "48",
+  "jur_dist" : "21",
+  "no_of_tcus" : "2",
+  "enrollment" : "82"
+}
+, {
+  "building_name" : "P.S. 95 TRANSPORTABLE - K",
+  "bldg_id" : "K951",
+  "building_address" : "345 VAN SICKLEN STREET",
+  "council_dist" : "47",
+  "jur_dist" : "21",
+  "no_of_tcus" : "3",
+  "enrollment" : "161"
+}
+, {
+  "building_name" : "P.S. 253 TRANSPORTABLE - K",
+  "bldg_id" : "K964",
+  "building_address" : "601 OCEANVIEW AVE",
+  "council_dist" : "48",
+  "jur_dist" : "21",
+  "no_of_tcus" : "1",
+  "enrollment" : "36"
+}
+, {
+  "building_name" : "P.S. 152 TRANSPORTABLE - K",
+  "bldg_id" : "K927",
+  "building_address" : "725 EAST 23RD STREET",
+  "council_dist" : "45",
+  "jur_dist" : "22",
+  "no_of_tcus" : "2",
+  "enrollment" : "96"
+}
+, {
+  "building_name" : "P.S. 193 TRANSPORTABLE - K",
+  "bldg_id" : "K952",
+  "building_address" : "2515 AVENUE L",
+  "council_dist" : "45",
+  "jur_dist" : "22",
+  "no_of_tcus" : "2",
+  "enrollment" : "80"
+}
+, {
+  "building_name" : "P.S. 194 TRANSPORTABLE - K",
+  "bldg_id" : "K959 **",
+  "building_address" : "3117 AVENUE W",
+  "council_dist" : "46",
+  "jur_dist" : "22",
+  "no_of_tcus" : "1",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 236 TRANSPORTABLE - K",
+  "bldg_id" : "K975",
+  "building_address" : "6302 AVENUE U",
+  "council_dist" : "46",
+  "jur_dist" : "22",
+  "no_of_tcus" : "2",
+  "enrollment" : "50"
+}
+, {
+  "building_name" : "P.S. 198 TRANSPORTABLE - K",
+  "bldg_id" : "K983 **",
+  "building_address" : "4105 FARRAGUT ROAD",
+  "council_dist" : "45",
+  "jur_dist" : "22",
+  "no_of_tcus" : "2",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 19 TRANSPORTABLE - Q",
+  "bldg_id" : "Q914",
+  "building_address" : "98-02 ROOSEVELT AVE.",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "no_of_tcus" : "5",
+  "enrollment" : "250"
+}
+, {
+  "building_name" : "P.S. 81 TRANSPORTABLE - Q",
+  "bldg_id" : "Q917",
+  "building_address" : "559 CYPRESS AVENUE",
+  "council_dist" : "34",
+  "jur_dist" : "24",
+  "no_of_tcus" : "3",
+  "enrollment" : "62"
+}
+, {
+  "building_name" : "P.S. 143 TRANSPORTABLE - Q",
+  "bldg_id" : "Q937",
+  "building_address" : "34-74 113TH STREET",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "no_of_tcus" : "3",
+  "enrollment" : "150"
+}
+, {
+  "building_name" : "P.S. 199 TRANSPORTABLE - Q",
+  "bldg_id" : "Q938",
+  "building_address" : "39-20 48TH AVENUE",
+  "council_dist" : "26",
+  "jur_dist" : "24",
+  "no_of_tcus" : "2",
+  "enrollment" : "100"
+}
+, {
+  "building_name" : "I.S. 125 TRANSPORTABLE - Q",
+  "bldg_id" : "Q947 **",
+  "building_address" : "46-02 47TH AVENUE",
+  "council_dist" : "26",
+  "jur_dist" : "24",
+  "no_of_tcus" : "4",
+  "enrollment" : "210"
+}
+, {
+  "building_name" : "P.S. 79 TRANSPORTABLE - Q",
+  "bldg_id" : "Q766",
+  "building_address" : "147-27 15 DRIVE",
+  "council_dist" : "19",
+  "jur_dist" : "25",
+  "no_of_tcus" : "2",
+  "enrollment" : "60"
+}
+, {
+  "building_name" : "P.S. 32 TRANSPORTABLE - Q",
+  "bldg_id" : "Q922",
+  "building_address" : "171-11 35 AVENUE",
+  "council_dist" : "19",
+  "jur_dist" : "25",
+  "no_of_tcus" : "1",
+  "enrollment" : "36"
+}
+, {
+  "building_name" : "P.S. 129 TRANSPORTABLE - Q",
+  "bldg_id" : "Q924",
+  "building_address" : "128-02 7TH AVENUE",
+  "council_dist" : "19",
+  "jur_dist" : "25",
+  "no_of_tcus" : "2",
+  "enrollment" : "90"
+}
+, {
+  "building_name" : "P.S. 24 TRANSPORTABLE - Q",
+  "bldg_id" : "Q936",
+  "building_address" : "141-11 HOLLY AVENUE",
+  "council_dist" : "20",
+  "jur_dist" : "25",
+  "no_of_tcus" : "2",
+  "enrollment" : "109"
+}
+, {
+  "building_name" : "P.S. 22 TRANSPORTABLE - Q",
+  "bldg_id" : "Q959",
+  "building_address" : "153-33 SANFORD AVENUE",
+  "council_dist" : "20",
+  "jur_dist" : "25",
+  "no_of_tcus" : "1",
+  "enrollment" : "72"
+}
+, {
+  "building_name" : "P.S. 193 TRANSPORTABLE - Q",
+  "bldg_id" : "Q967",
+  "building_address" : "152-20 11 AVENUE",
+  "council_dist" : "19",
+  "jur_dist" : "25",
+  "no_of_tcus" : "1",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 163 TRANSPORTABLE - Q",
+  "bldg_id" : "Q968 **",
+  "building_address" : "159-01 59TH AVE",
+  "council_dist" : "20",
+  "jur_dist" : "25",
+  "no_of_tcus" : "2",
+  "enrollment" : "100"
+}
+, {
+  "building_name" : "P.S. 41 TRANSPORTABLE - Q",
+  "bldg_id" : "Q728",
+  "building_address" : "214-43 35 AVENUE",
+  "council_dist" : "19",
+  "jur_dist" : "26",
+  "no_of_tcus" : "2",
+  "enrollment" : "96"
+}
+, {
+  "building_name" : "P.S. 106 TRANSPORTABLE - Q",
+  "bldg_id" : "Q727",
+  "building_address" : "180 BEACH 35 STREET",
+  "council_dist" : "31",
+  "jur_dist" : "27",
+  "no_of_tcus" : "1",
+  "enrollment" : "45"
+}
+, {
+  "building_name" : "P.S. 43 TRANSPORTABLE - Q",
+  "bldg_id" : "Q920",
+  "building_address" : "160 BEACH 29TH STREET",
+  "council_dist" : "31",
+  "jur_dist" : "27",
+  "no_of_tcus" : "5",
+  "enrollment" : "150"
+}
+, {
+  "building_name" : "I.S. 226 TRANSPORTABLE - Q",
+  "bldg_id" : "Q923 **",
+  "building_address" : "121-10 ROCKAWAY BOULEVARD",
+  "council_dist" : "28",
+  "jur_dist" : "27",
+  "no_of_tcus" : "2",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 123 TRANSPORTABLE - Q",
+  "bldg_id" : "Q965",
+  "building_address" : "145-01 119TH AVENUE",
+  "council_dist" : "28",
+  "jur_dist" : "27",
+  "no_of_tcus" : "2",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 155 TRANSPORTABLE - Q",
+  "bldg_id" : "Q976",
+  "building_address" : "130-02 115TH AVE",
+  "council_dist" : "28",
+  "jur_dist" : "27",
+  "no_of_tcus" : "2",
+  "enrollment" : "50"
+}
+, {
+  "building_name" : "P.S. 232 TRANSPORTABLE - Q",
+  "bldg_id" : "Q983",
+  "building_address" : "153-23 83RD STRET",
+  "council_dist" : "32",
+  "jur_dist" : "27",
+  "no_of_tcus" : "2",
+  "enrollment" : "100"
+}
+, {
+  "building_name" : "P.S. 96 TRANSPORTABLE - Q",
+  "bldg_id" : "Q986",
+  "building_address" : "130-01 ROCKAWAY BLVD",
+  "council_dist" : "28",
+  "jur_dist" : "27",
+  "no_of_tcus" : "1",
+  "enrollment" : "36"
+}
+, {
+  "building_name" : "P.S. 146 TRANSPORTABLE - Q",
+  "bldg_id" : "Q987",
+  "building_address" : "98-01 159TH AVE",
+  "council_dist" : "32",
+  "jur_dist" : "27",
+  "no_of_tcus" : "1",
+  "enrollment" : "47"
+}
+, {
+  "building_name" : "P.S. 66 TRANSPORTABLE - Q",
+  "bldg_id" : "Q989",
+  "building_address" : "85-11 102ND STREET",
+  "council_dist" : "32",
+  "jur_dist" : "27",
+  "no_of_tcus" : "1",
+  "enrollment" : "36"
+}
+, {
+  "building_name" : "P.S. 56 TRANSPORTABLE - Q",
+  "bldg_id" : "Q995",
+  "building_address" : "86-10 114TH STREET",
+  "council_dist" : "32",
+  "jur_dist" : "27",
+  "no_of_tcus" : "1",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 121 TRANSPORTABLE - Q",
+  "bldg_id" : "Q915",
+  "building_address" : "126-10 109TH AVENUE",
+  "council_dist" : "28",
+  "jur_dist" : "28",
+  "no_of_tcus" : "3",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 174 TRANSPORTABLE - Q",
+  "bldg_id" : "Q935",
+  "building_address" : "65-10 DIETERLE CRESCENT",
+  "council_dist" : "29",
+  "jur_dist" : "28",
+  "no_of_tcus" : "2",
+  "enrollment" : "118"
+}
+, {
+  "building_name" : "P.S. 55 TRANSPORTABLE - Q",
+  "bldg_id" : "Q953 **",
+  "building_address" : "131-10 97TH AVENUE",
+  "council_dist" : "28",
+  "jur_dist" : "28",
+  "no_of_tcus" : "3",
+  "enrollment" : "36"
+}
+, {
+  "building_name" : "P.S. 206 TRANSPORTABLE - Q",
+  "bldg_id" : "Q956",
+  "building_address" : "61-02 98TH STREET",
+  "council_dist" : "29",
+  "jur_dist" : "28",
+  "no_of_tcus" : "2",
+  "enrollment" : "75"
+}
+, {
+  "building_name" : "P.S. 160 TRANSPORTABLE - Q",
+  "bldg_id" : "Q958",
+  "building_address" : "109-59 INWOOD STREET",
+  "council_dist" : "28",
+  "jur_dist" : "28",
+  "no_of_tcus" : "4",
+  "enrollment" : "24"
+}
+, {
+  "building_name" : "P.S. 30 TRANSPORTABLE - Q",
+  "bldg_id" : "Q962 **",
+  "building_address" : "126-10 BEDELL STREET",
+  "council_dist" : "28",
+  "jur_dist" : "28",
+  "no_of_tcus" : "2",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 40 TRANSPORTABLE - Q",
+  "bldg_id" : "Q988 **",
+  "building_address" : "109-20 UNION HALL STREET",
+  "council_dist" : "28",
+  "jur_dist" : "28",
+  "no_of_tcus" : "3",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 95 TRANSPORTABLE - Q",
+  "bldg_id" : "Q910",
+  "building_address" : "179-01 90TH AVENUE",
+  "council_dist" : "27",
+  "jur_dist" : "29",
+  "no_of_tcus" : "2",
+  "enrollment" : "120"
+}
+, {
+  "building_name" : "P.S. 131 TRANSPORTABLE - Q",
+  "bldg_id" : "Q911",
+  "building_address" : "170-45 84TH AVE.",
+  "council_dist" : "24",
+  "jur_dist" : "29",
+  "no_of_tcus" : "3",
+  "enrollment" : "150"
+}
+, {
+  "building_name" : "P.S. 116 TRANSPORTABLE - Q",
+  "bldg_id" : "Q930",
+  "building_address" : "107-25 WREN PLACE",
+  "council_dist" : "27",
+  "jur_dist" : "29",
+  "no_of_tcus" : "2",
+  "enrollment" : "66"
+}
+, {
+  "building_name" : "P.S. 33 TRANSPORTABLE - Q",
+  "bldg_id" : "Q931",
+  "building_address" : "91-37 222 STREET",
+  "council_dist" : "23",
+  "jur_dist" : "29",
+  "no_of_tcus" : "1",
+  "enrollment" : "60"
+}
+, {
+  "building_name" : "P.S. 38 TRANSPORTABLE - Q",
+  "bldg_id" : "Q946 **",
+  "building_address" : "135-21 241ST STREET",
+  "council_dist" : "31",
+  "jur_dist" : "29",
+  "no_of_tcus" : "3",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 156 TRANSPORTABLE - Q",
+  "bldg_id" : "Q957",
+  "building_address" : "229-02 137TH AVENUE",
+  "council_dist" : "31",
+  "jur_dist" : "29",
+  "no_of_tcus" : "2",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 52 TRANSPORTABLE - Q",
+  "bldg_id" : "Q960",
+  "building_address" : "178-37 146 TERRACE",
+  "council_dist" : "31",
+  "jur_dist" : "29",
+  "no_of_tcus" : "2",
+  "enrollment" : "0"
+}
+, {
+  "building_name" : "P.S. 151 TRANSPORTABLE - Q",
+  "bldg_id" : "Q925",
+  "building_address" : "50-05 31 AVENUE",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "no_of_tcus" : "11",
+  "enrollment" : "105"
+}
+, {
+  "building_name" : "P.S. 11 TRANSPORTABLE - Q",
+  "bldg_id" : "Q932 **",
+  "building_address" : "54-25 SKILLMAN AVENUE",
+  "council_dist" : "26",
+  "jur_dist" : "30",
+  "no_of_tcus" : "4",
+  "enrollment" : "230"
+}
+, {
+  "building_name" : "P.S. 70 TRANSPORTABLE - Q",
+  "bldg_id" : "Q970 **",
+  "building_address" : "30-45 42ND STREET",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "no_of_tcus" : "2",
+  "enrollment" : "115"
+}
+, {
+  "building_name" : "P.S. 85 TRANSPORTABLE - Q",
+  "bldg_id" : "Q981",
+  "building_address" : "23-70 31ST STREET",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "no_of_tcus" : "4",
+  "enrollment" : "160"
+}
+, {
+  "building_name" : "P.S. 92 TRANSPORTABLE - Q",
+  "bldg_id" : "Q997 **",
+  "building_address" : "99-01 34TH AVENUE",
+  "council_dist" : "21",
+  "jur_dist" : "30",
+  "no_of_tcus" : "2",
+  "enrollment" : "88"
+}
+, {
+  "building_name" : "P.S. 38 TRANSPORTABLE - S.I.",
+  "bldg_id" : "R816",
+  "building_address" : "421 LINCOLN AVENUE",
+  "council_dist" : "50",
+  "jur_dist" : "31",
+  "no_of_tcus" : "1",
+  "enrollment" : "10"
+}
+, {
+  "building_name" : "P.S. 19 TRANSPORTABLE - S.I.",
+  "bldg_id" : "R817",
+  "building_address" : "780 POST AVENUE",
+  "council_dist" : "49",
+  "jur_dist" : "31",
+  "no_of_tcus" : "2",
+  "enrollment" : "100"
+}
+, {
+  "building_name" : "P.S 37 TRANSPORTABLE - S.I.",
+  "bldg_id" : "R818",
+  "building_address" : "110 SHAFTER AVENUE",
+  "council_dist" : "51",
+  "jur_dist" : "75",
+  "no_of_tcus" : "2"
+}
+, {
+  "building_name" : "P.S. 37 TRANSPORTABLE - S.I.",
+  "bldg_id" : "R819",
+  "building_address" : "15 FAIRFIELD STREET",
+  "council_dist" : "51",
+  "jur_dist" : "75",
+  "no_of_tcus" : "2"
+}
+, {
+  "building_name" : "P.S. 25 TRANSPORTABLE - S.I.",
+  "bldg_id" : "R910",
+  "building_address" : "4210 ARTHUR KILL ROAD",
+  "council_dist" : "51",
+  "jur_dist" : "75",
+  "no_of_tcus" : "2"
+}
+, {
+  "building_name" : "EAST NY FAMILY ACADEMY TRANS - K",
+  "bldg_id" : "K947",
+  "building_address" : "2057 LINDEN BOULEVARD",
+  "council_dist" : "42",
+  "jur_dist" : "78",
+  "no_of_tcus" : "6"
+}
+, {
+  "building_name" : "JOHN ADAMS HS TRANSPORTABLE-Q",
+  "bldg_id" : "Q726",
+  "building_address" : "101-01 ROCKAWAY BLVD",
+  "council_dist" : "32",
+  "jur_dist" : "78",
+  "no_of_tcus" : "5"
+}
+, {
+  "building_name" : "BAYSIDE HS TRANSPORTABLE - QUEENS",
+  "bldg_id" : "Q761",
+  "building_address" : "32-24 CORP. KENNEDY STREET",
+  "council_dist" : "19",
+  "jur_dist" : "78",
+  "no_of_tcus" : "3"
+}
+, {
+  "building_name" : "B. N. CARDOZO HS TRANSPORTABLE - Q",
+  "bldg_id" : "Q943",
+  "building_address" : "57-00 223 STREET",
+  "council_dist" : "23",
+  "jur_dist" : "78",
+  "no_of_tcus" : "4"
+}
+, {
+  "building_name" : "RICHMOND HILL HS TRANSPORTABLE - Q",
+  "bldg_id" : "Q944 **",
+  "building_address" : "89-30 114TH STREET",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "no_of_tcus" : "11"
+}
+, {
+  "building_name" : "WILLIAM BRYANT HS TRANSPORTABLE-Q",
+  "bldg_id" : "Q949",
+  "building_address" : "48-10 31ST AVENUE",
+  "council_dist" : "26",
+  "jur_dist" : "78",
+  "no_of_tcus" : "3"
+}
+, {
+  "building_name" : "JOHN BOWNE HS TRANSPORTABLE - Q",
+  "bldg_id" : "Q951",
+  "building_address" : "63-25 MAIN STREET",
+  "council_dist" : "24",
+  "jur_dist" : "78",
+  "no_of_tcus" : "7"
+}
+, {
+  "building_name" : "FRANCIS LEWIS HS TRANSPORTABLE - Q",
+  "bldg_id" : "Q966",
+  "building_address" : "58-20 UTOPIA PARKWAY",
+  "council_dist" : "20",
+  "jur_dist" : "78",
+  "no_of_tcus" : "4"
+}
+, {
+  "building_name" : "AUX. SERV.- JAM. LEARN CT TR - Q",
+  "bldg_id" : "Q969 **",
+  "building_address" : "162-02 HILLSIDE AVENUE",
+  "council_dist" : "24",
+  "jur_dist" : "78",
+  "no_of_tcus" : "1"
+}
+, {
+  "building_name" : "CURTIS HS TRANSPORTABLE - R",
+  "bldg_id" : "R814 **",
+  "building_address" : "105 HAMILTON AVE",
+  "council_dist" : "49",
+  "jur_dist" : "78",
+  "no_of_tcus" : "2"
+}
+, {
+  "building_name" : "PORT RICHMOND HS TRANS. - R",
+  "bldg_id" : "R815",
+  "building_address" : "85 ST. JOSEPHS AVENUE",
+  "council_dist" : "49",
+  "jur_dist" : "78",
+  "no_of_tcus" : "2"
+}
+, {
+  "building_name" : "SOUTH BRONX HS TRANSPORTABLE - X",
+  "bldg_id" : "X920",
+  "building_address" : "701 ST. ANNS AVENUE",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "no_of_tcus" : "2"
+}
+, {
+  "building_name" : "ADLAI E. STEVENSON HS TRANS-X",
+  "bldg_id" : "X922",
+  "building_address" : "1980 LAFAYETTE AVENUE",
+  "council_dist" : "18",
+  "jur_dist" : "78",
+  "no_of_tcus" : "2"
+}
+, {
+  "building_name" : "J.F. KENNEDY HS TRANSPORTABLE- X",
+  "bldg_id" : "X960 **",
+  "building_address" : "99 TERRACE VIEW AVENUE",
+  "council_dist" : "10",
+  "jur_dist" : "78",
+  "no_of_tcus" : "2"
+}
+, {
+  "building_name" : "MORRIS HS TRANPORTABLE - X",
+  "bldg_id" : "X961",
+  "building_address" : "1110 BOSTON RD",
+  "council_dist" : "16",
+  "jur_dist" : "78",
+  "no_of_tcus" : "4"
+}
+, {
+  "building_name" : "JANE ADDAMS HS TRANSPORTABLE - X",
+  "bldg_id" : "X962",
+  "building_address" : "900 TINTON AVENUE",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "no_of_tcus" : "3"
+}
+, {
+  "building_name" : "CROTONA ACADEMY - BRONX",
+  "bldg_id" : "X963 **",
+  "building_address" : "639-55 ST. ANNS AVENUE",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "no_of_tcus" : "8"
+}
+ ]

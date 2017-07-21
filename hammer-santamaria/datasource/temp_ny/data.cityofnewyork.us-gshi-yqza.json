@@ -1,0 +1,4835 @@
+[ {
+  "bldg" : "M919",
+  "org" : "M163",
+  "function" : "FIRST GRADE",
+  "council_dist" : "7",
+  "jur_dist" : "3",
+  "organization_name" : "P.S. 163 - MANHATTAN",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "M919",
+  "org" : "M163",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "7",
+  "jur_dist" : "3",
+  "organization_name" : "P.S. 163 - MANHATTAN",
+  "capacity" : "15"
+}
+, {
+  "bldg" : "M919",
+  "org" : "M163",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "7",
+  "jur_dist" : "3",
+  "organization_name" : "P.S. 163 - MANHATTAN",
+  "capacity" : "15"
+}
+, {
+  "bldg" : "M919",
+  "org" : "M163",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "7",
+  "jur_dist" : "3",
+  "organization_name" : "P.S. 163 - MANHATTAN",
+  "capacity" : "15"
+}
+, {
+  "bldg" : "M902",
+  "org" : "M048",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "organization_name" : "P.S. 48 - MANHATTAN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "M902",
+  "org" : "M048",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "organization_name" : "P.S. 48 - MANHATTAN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "M902",
+  "org" : "M048",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "organization_name" : "P.S. 48 - MANHATTAN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "M902",
+  "org" : "M048",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "organization_name" : "P.S. 48 - MANHATTAN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "SEVENTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "EIGHTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T10:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "EIGHTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T11:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "EIGHTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T12:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "SIXTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T13:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "SIXTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T14:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "SIXTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T15:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "SIXTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T16:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "SIXTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T17:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "SIXTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T18:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "SEVENTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "SEVENTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "SEVENTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "SEVENTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "SEVENTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "EIGHTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "EIGHTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T08:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "M965",
+  "org" : "M430",
+  "function" : "EIGHTH GRADE",
+  "council_dist" : "10",
+  "jur_dist" : "6",
+  "room_no" : "1970-01-01T09:00:00",
+  "organization_name" : "THE EQUITY PROJECT CHARTER SCHOOL - M",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X915",
+  "org" : "X119",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "18",
+  "jur_dist" : "8",
+  "room_no" : "0001-01-01T00:00:00",
+  "organization_name" : "P.S. 119 - BRONX",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "X915",
+  "org" : "X119",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "18",
+  "jur_dist" : "8",
+  "room_no" : "0002-01-01T00:00:00",
+  "organization_name" : "P.S. 119 - BRONX",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "X915",
+  "org" : "X119",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "18",
+  "jur_dist" : "8",
+  "room_no" : "0003-01-01T00:00:00",
+  "organization_name" : "P.S. 119 - BRONX",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "X915",
+  "org" : "X119",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "18",
+  "jur_dist" : "8",
+  "room_no" : "0004-01-01T00:00:00",
+  "organization_name" : "P.S. 119 - BRONX",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "X938",
+  "org" : "X138",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "18",
+  "jur_dist" : "8",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 138 - BRONX",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "X938",
+  "org" : "X138",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "18",
+  "jur_dist" : "8",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 138 - BRONX",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "X938",
+  "org" : "X138",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "18",
+  "jur_dist" : "8",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 138 - BRONX",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "X938",
+  "org" : "X138",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "18",
+  "jur_dist" : "8",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 138 - BRONX",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "X947",
+  "org" : "X014",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "13",
+  "jur_dist" : "8",
+  "organization_name" : "P.S. 14 - BRONX",
+  "capacity" : "15"
+}
+, {
+  "bldg" : "X947",
+  "org" : "X014",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "13",
+  "jur_dist" : "8",
+  "organization_name" : "P.S. 14 - BRONX",
+  "capacity" : "15"
+}
+, {
+  "bldg" : "X947",
+  "org" : "X014",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "13",
+  "jur_dist" : "8",
+  "organization_name" : "P.S. 14 - BRONX",
+  "capacity" : "15"
+}
+, {
+  "bldg" : "X947",
+  "org" : "X014",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "13",
+  "jur_dist" : "8",
+  "organization_name" : "P.S. 14 - BRONX",
+  "capacity" : "15"
+}
+, {
+  "bldg" : "X948",
+  "org" : "X071",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "13",
+  "jur_dist" : "8",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 71 - BRONX",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "X948",
+  "org" : "X071",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "13",
+  "jur_dist" : "8",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 71 - BRONX",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "X948",
+  "org" : "X071",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "13",
+  "jur_dist" : "8",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 71 - BRONX",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "X948",
+  "org" : "X071",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "13",
+  "jur_dist" : "8",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 71 - BRONX",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "X948",
+  "org" : "X071",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "13",
+  "jur_dist" : "8",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "P.S. 71 - BRONX",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "X948",
+  "org" : "X071",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "13",
+  "jur_dist" : "8",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "P.S. 71 - BRONX",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "X928",
+  "org" : "X028",
+  "function" : "SCIENCE CLASSROOM FOR PS",
+  "council_dist" : "15",
+  "jur_dist" : "9",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 28 - BRONX",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X928",
+  "org" : "X028",
+  "function" : "SCIENCE CLASSROOM FOR PS",
+  "council_dist" : "15",
+  "jur_dist" : "9",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 28 - BRONX",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X933",
+  "org" : "X163",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "15",
+  "jur_dist" : "9",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 163 - BRONX",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "X933",
+  "org" : "X163",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "15",
+  "jur_dist" : "9",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 163 - BRONX",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X933",
+  "org" : "X163",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "15",
+  "jur_dist" : "9",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 163 - BRONX",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X933",
+  "org" : "X163",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "15",
+  "jur_dist" : "9",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 163 - BRONX",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X933",
+  "org" : "X163",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "15",
+  "jur_dist" : "9",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "P.S. 163 - BRONX",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "X933",
+  "org" : "X163",
+  "function" : "FOURTH GRADE",
+  "council_dist" : "15",
+  "jur_dist" : "9",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "P.S. 163 - BRONX",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X933",
+  "org" : "X163",
+  "function" : "FOURTH GRADE",
+  "council_dist" : "15",
+  "jur_dist" : "9",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "P.S. 163 - BRONX",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X933",
+  "org" : "X163",
+  "function" : "FOURTH GRADE",
+  "council_dist" : "15",
+  "jur_dist" : "9",
+  "room_no" : "1970-01-01T08:00:00",
+  "organization_name" : "P.S. 163 - BRONX",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X910",
+  "org" : "X280",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "11",
+  "jur_dist" : "10",
+  "room_no" : "0701-01-01T00:00:00",
+  "organization_name" : "P.S. 280 - BRONX",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "X910",
+  "org" : "X280",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "11",
+  "jur_dist" : "10",
+  "room_no" : "0702-01-01T00:00:00",
+  "organization_name" : "P.S. 280 - BRONX",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "X910",
+  "org" : "X280",
+  "function" : "FIRST GRADE",
+  "council_dist" : "11",
+  "jur_dist" : "10",
+  "room_no" : "0705-01-01T00:00:00",
+  "organization_name" : "P.S. 280 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X910",
+  "org" : "X280",
+  "function" : "FIRST GRADE",
+  "council_dist" : "11",
+  "jur_dist" : "10",
+  "room_no" : "0706-01-01T00:00:00",
+  "organization_name" : "P.S. 280 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X910",
+  "org" : "X280",
+  "function" : "FIRST GRADE",
+  "council_dist" : "11",
+  "jur_dist" : "10",
+  "room_no" : "0707-01-01T00:00:00",
+  "organization_name" : "P.S. 280 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X910",
+  "org" : "X280",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "11",
+  "jur_dist" : "10",
+  "room_no" : "0708-01-01T00:00:00",
+  "organization_name" : "P.S. 280 - BRONX",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "X906",
+  "org" : "X175",
+  "function" : "FIRST GRADE",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 175 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X906",
+  "org" : "X175",
+  "function" : "FIRST GRADE",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 175 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X906",
+  "org" : "X175",
+  "function" : "THIRD GRADE",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 175 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X906",
+  "org" : "X175",
+  "function" : "THIRD GRADE",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 175 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X916",
+  "org" : "X016",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "11",
+  "jur_dist" : "11",
+  "organization_name" : "P.S. 16 - BRONX",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "X916",
+  "org" : "X016",
+  "function" : "FIRST GRADE",
+  "council_dist" : "11",
+  "jur_dist" : "11",
+  "organization_name" : "P.S. 16 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X916",
+  "org" : "X016",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "11",
+  "jur_dist" : "11",
+  "organization_name" : "P.S. 16 - BRONX",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "X916",
+  "org" : "X016",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "11",
+  "jur_dist" : "11",
+  "organization_name" : "P.S. 16 - BRONX",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "X942",
+  "org" : "X016",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "11",
+  "jur_dist" : "11",
+  "organization_name" : "P.S. 16 - BRONX",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "X942",
+  "org" : "X016",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "11",
+  "jur_dist" : "11",
+  "organization_name" : "P.S. 16 - BRONX",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "X942",
+  "org" : "X016",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "11",
+  "jur_dist" : "11",
+  "organization_name" : "P.S. 16 - BRONX",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "X942",
+  "org" : "X016",
+  "function" : "FIRST GRADE",
+  "council_dist" : "11",
+  "jur_dist" : "11",
+  "organization_name" : "P.S. 16 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X945",
+  "org" : "X087",
+  "function" : "SECOND GRADE",
+  "council_dist" : "12",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 87 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X945",
+  "org" : "X087",
+  "function" : "SECOND GRADE",
+  "council_dist" : "12",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 87 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X945",
+  "org" : "X087",
+  "function" : "SECOND GRADE",
+  "council_dist" : "12",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 87 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X945",
+  "org" : "X087",
+  "function" : "SECOND GRADE",
+  "council_dist" : "12",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 87 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X945",
+  "org" : "X087",
+  "function" : "FIRST GRADE",
+  "council_dist" : "12",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "P.S. 87 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X945",
+  "org" : "X087",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "12",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "P.S. 87 - BRONX",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "X945",
+  "org" : "X087",
+  "function" : "FIRST GRADE",
+  "council_dist" : "12",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "P.S. 87 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X945",
+  "org" : "X087",
+  "function" : "FIRST GRADE",
+  "council_dist" : "12",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T08:00:00",
+  "organization_name" : "P.S. 87 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X946",
+  "org" : "X108",
+  "function" : "SECOND GRADE",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 108 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X946",
+  "org" : "X108",
+  "function" : "SECOND GRADE",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 108 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X946",
+  "org" : "X108",
+  "function" : "SECOND GRADE",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 108 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X946",
+  "org" : "X108",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 108 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X946",
+  "org" : "X108",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "P.S. 108 - BRONX",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "X946",
+  "org" : "X108",
+  "function" : "THIRD GRADE",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "P.S. 108 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X946",
+  "org" : "X108",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "P.S. 108 - BRONX",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "X946",
+  "org" : "X108",
+  "function" : "SECOND GRADE",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T08:00:00",
+  "organization_name" : "P.S. 108 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X997",
+  "org" : "X097",
+  "function" : "THIRD GRADE",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 97 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X997",
+  "org" : "X097",
+  "function" : "THIRD GRADE",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 97 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X997",
+  "org" : "X097",
+  "function" : "THIRD GRADE",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 97 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X997",
+  "org" : "X097",
+  "function" : "THIRD GRADE",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 97 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X997",
+  "org" : "X097",
+  "function" : "MUSIC ROOM",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "P.S. 97 - BRONX",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X997",
+  "org" : "X097",
+  "function" : "ART ROOM",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "P.S. 97 - BRONX",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X997",
+  "org" : "X097",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "P.S. 97 - BRONX",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "X997",
+  "org" : "X097",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "13",
+  "jur_dist" : "11",
+  "room_no" : "1970-01-01T08:00:00",
+  "organization_name" : "P.S. 97 - BRONX",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "X936",
+  "org" : "X994",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "12",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "ALTERNATIVE LEARNING CENTER - X",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X936",
+  "org" : "X994",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "12",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "ALTERNATIVE LEARNING CENTER - X",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X936",
+  "org" : "X994",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "12",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "ALTERNATIVE LEARNING CENTER - X",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X936",
+  "org" : "X994",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "12",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "ALTERNATIVE LEARNING CENTER - X",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X936",
+  "org" : "X994",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "12",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "ALTERNATIVE LEARNING CENTER - X",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X936",
+  "org" : "X994",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "12",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "ALTERNATIVE LEARNING CENTER - X",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X936",
+  "org" : "X994",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "12",
+  "room_no" : "1970-01-01T08:00:00",
+  "organization_name" : "ALTERNATIVE LEARNING CENTER - X",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "X941",
+  "org" : "X300",
+  "function" : "FIRST GRADE",
+  "council_dist" : "15",
+  "jur_dist" : "12",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "P.S. 300 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X941",
+  "org" : "X300",
+  "function" : "FIRST GRADE",
+  "council_dist" : "15",
+  "jur_dist" : "12",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "P.S. 300 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X941",
+  "org" : "X300",
+  "function" : "FIRST GRADE",
+  "council_dist" : "15",
+  "jur_dist" : "12",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "P.S. 300 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X941",
+  "org" : "X300",
+  "function" : "FIRST GRADE",
+  "council_dist" : "15",
+  "jur_dist" : "12",
+  "room_no" : "1970-01-01T08:00:00",
+  "organization_name" : "P.S. 300 - BRONX",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "X967",
+  "org" : "X067",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "17",
+  "jur_dist" : "12",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 67 - BRONX",
+  "capacity" : "18"
+}
+, {
+  "bldg" : "X967",
+  "org" : "X067",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "17",
+  "jur_dist" : "12",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 67 - BRONX",
+  "capacity" : "18"
+}
+, {
+  "bldg" : "X967",
+  "org" : "X067",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "12",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 67 - BRONX",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "K979",
+  "org" : "K032",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "39",
+  "jur_dist" : "15",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 32 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K979",
+  "org" : "K032",
+  "function" : "NEST FIRST-THIRD GRADE",
+  "council_dist" : "39",
+  "jur_dist" : "15",
+  "room_no" : "1970-01-01T10:00:00",
+  "organization_name" : "P.S. 32 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K979",
+  "org" : "K032",
+  "function" : "FIRST GRADE",
+  "council_dist" : "39",
+  "jur_dist" : "15",
+  "room_no" : "1970-01-01T11:00:00",
+  "organization_name" : "P.S. 32 - BROOKLYN",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "K979",
+  "org" : "K032",
+  "function" : "FIRST GRADE",
+  "council_dist" : "39",
+  "jur_dist" : "15",
+  "room_no" : "1970-01-01T12:00:00",
+  "organization_name" : "P.S. 32 - BROOKLYN",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "K979",
+  "org" : "K032",
+  "function" : "NEST FIRST-THIRD GRADE",
+  "council_dist" : "39",
+  "jur_dist" : "15",
+  "room_no" : "1970-01-01T13:00:00",
+  "organization_name" : "P.S. 32 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K979",
+  "org" : "K032",
+  "function" : "NEST FIRST-THIRD GRADE",
+  "council_dist" : "39",
+  "jur_dist" : "15",
+  "room_no" : "1970-01-01T14:00:00",
+  "organization_name" : "P.S. 32 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K979",
+  "org" : "K032",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "39",
+  "jur_dist" : "15",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 32 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K979",
+  "org" : "K032",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "39",
+  "jur_dist" : "15",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 32 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K979",
+  "org" : "K032",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "39",
+  "jur_dist" : "15",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 32 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K979",
+  "org" : "K032",
+  "function" : "NEST KINDERGARTEN",
+  "council_dist" : "39",
+  "jur_dist" : "15",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "P.S. 32 - BROOKLYN",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "K979",
+  "org" : "K032",
+  "function" : "NEST KINDERGARTEN",
+  "council_dist" : "39",
+  "jur_dist" : "15",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "P.S. 32 - BROOKLYN",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "K979",
+  "org" : "K032",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "39",
+  "jur_dist" : "15",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "P.S. 32 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K979",
+  "org" : "K032",
+  "function" : "FIRST GRADE",
+  "council_dist" : "39",
+  "jur_dist" : "15",
+  "room_no" : "1970-01-01T08:00:00",
+  "organization_name" : "P.S. 32 - BROOKLYN",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "K979",
+  "org" : "K032",
+  "function" : "NEST KINDERGARTEN",
+  "council_dist" : "39",
+  "jur_dist" : "15",
+  "room_no" : "1970-01-01T09:00:00",
+  "organization_name" : "P.S. 32 - BROOKLYN",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "K982",
+  "org" : "K261",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "33",
+  "jur_dist" : "15",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 261 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K982",
+  "org" : "K261",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "33",
+  "jur_dist" : "15",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 261 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K923",
+  "org" : "K276",
+  "function" : "MULTI-PURPOSE CLASSROOM",
+  "council_dist" : "46",
+  "jur_dist" : "18",
+  "room_no" : "1970-01-01T10:00:00",
+  "organization_name" : "P.S. 276 - BROOKLYN",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "K923",
+  "org" : "K276",
+  "function" : "ART ROOM",
+  "council_dist" : "46",
+  "jur_dist" : "18",
+  "room_no" : "1970-01-01T16:00:00",
+  "organization_name" : "P.S. 276 - BROOKLYN",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "K923",
+  "org" : "K276",
+  "function" : "SCIENCE CLASSROOM FOR PS",
+  "council_dist" : "46",
+  "jur_dist" : "18",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 276 - BROOKLYN",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "K923",
+  "org" : "K276",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "46",
+  "jur_dist" : "18",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 276 - BROOKLYN",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "K923",
+  "org" : "K276",
+  "function" : "MUSIC ROOM",
+  "council_dist" : "46",
+  "jur_dist" : "18",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "P.S. 276 - BROOKLYN",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "K923",
+  "org" : "K276",
+  "function" : "MUSIC ROOM",
+  "council_dist" : "46",
+  "jur_dist" : "18",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "P.S. 276 - BROOKLYN",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "K923",
+  "org" : "K276",
+  "function" : "MULTI-PURPOSE CLASSROOM",
+  "council_dist" : "46",
+  "jur_dist" : "18",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "P.S. 276 - BROOKLYN",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "K923",
+  "org" : "K276",
+  "function" : "THEATRE ARTS/DRAMA",
+  "council_dist" : "46",
+  "jur_dist" : "18",
+  "room_no" : "1970-01-01T08:00:00",
+  "organization_name" : "P.S. 276 - BROOKLYN",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "K980",
+  "org" : "K235",
+  "function" : "DANCE ROOM",
+  "council_dist" : "41",
+  "jur_dist" : "18",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 235 - BROOKLYN",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "K980",
+  "org" : "K235",
+  "function" : "FUNDED - LITERACY",
+  "council_dist" : "41",
+  "jur_dist" : "18",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 235 - BROOKLYN",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "K980",
+  "org" : "K235",
+  "function" : "FUNDED - OTHER",
+  "council_dist" : "41",
+  "jur_dist" : "18",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 235 - BROOKLYN",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "K980",
+  "org" : "K235",
+  "function" : "THEATRE ARTS/DRAMA",
+  "council_dist" : "41",
+  "jur_dist" : "18",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "P.S. 235 - BROOKLYN",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "K948",
+  "org" : "K290",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "room_no" : "0001-01-01T00:00:00",
+  "organization_name" : "P.S. 290 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K948",
+  "org" : "K290",
+  "function" : "FIRST GRADE",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "room_no" : "0002-01-01T00:00:00",
+  "organization_name" : "P.S. 290 - BROOKLYN",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "K949",
+  "org" : "K214",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "organization_name" : "P.S. 214 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K949",
+  "org" : "K214",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "organization_name" : "P.S. 214 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K949",
+  "org" : "K214",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "room_no" : "1970-01-01T11:00:00",
+  "organization_name" : "P.S. 214 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K949",
+  "org" : "K214",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "room_no" : "1970-01-01T12:00:00",
+  "organization_name" : "P.S. 214 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K949",
+  "org" : "K214",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "room_no" : "1970-01-01T13:00:00",
+  "organization_name" : "P.S. 214 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K949",
+  "org" : "K214",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "room_no" : "1970-01-01T14:00:00",
+  "organization_name" : "P.S. 214 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K949",
+  "org" : "K214",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "organization_name" : "P.S. 214 - BROOKLYN",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "K949",
+  "org" : "K214",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "organization_name" : "P.S. 214 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K949",
+  "org" : "K214",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "organization_name" : "P.S. 214 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K949",
+  "org" : "K214",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "organization_name" : "P.S. 214 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K949",
+  "org" : "K214",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "organization_name" : "P.S. 214 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K949",
+  "org" : "K214",
+  "function" : "FIRST GRADE",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "organization_name" : "P.S. 214 - BROOKLYN",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "K949",
+  "org" : "K214",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "organization_name" : "P.S. 214 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K949",
+  "org" : "K214",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "organization_name" : "P.S. 214 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K958",
+  "org" : "K680",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "42",
+  "jur_dist" : "19",
+  "room_no" : "0501-01-01T00:00:00",
+  "organization_name" : "ACHIEVEMENT FIRST ASPIRE CHARTER SCHOOL",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K958",
+  "org" : "K680",
+  "function" : "FIRST GRADE",
+  "council_dist" : "42",
+  "jur_dist" : "19",
+  "room_no" : "0502-01-01T00:00:00",
+  "organization_name" : "ACHIEVEMENT FIRST ASPIRE CHARTER SCHOOL",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "K958",
+  "org" : "K680",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "42",
+  "jur_dist" : "19",
+  "room_no" : "0503-01-01T00:00:00",
+  "organization_name" : "ACHIEVEMENT FIRST ASPIRE CHARTER SCHOOL",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K958",
+  "org" : "K680",
+  "function" : "FIRST GRADE",
+  "council_dist" : "42",
+  "jur_dist" : "19",
+  "room_no" : "0504-01-01T00:00:00",
+  "organization_name" : "ACHIEVEMENT FIRST ASPIRE CHARTER SCHOOL",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "K958",
+  "org" : "K680",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "42",
+  "jur_dist" : "19",
+  "room_no" : "0505-01-01T00:00:00",
+  "organization_name" : "ACHIEVEMENT FIRST ASPIRE CHARTER SCHOOL",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K958",
+  "org" : "K680",
+  "function" : "FIRST GRADE",
+  "council_dist" : "42",
+  "jur_dist" : "19",
+  "room_no" : "0506-01-01T00:00:00",
+  "organization_name" : "ACHIEVEMENT FIRST ASPIRE CHARTER SCHOOL",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "K958",
+  "org" : "K680",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "42",
+  "jur_dist" : "19",
+  "room_no" : "0510-01-01T00:00:00",
+  "organization_name" : "ACHIEVEMENT FIRST ASPIRE CHARTER SCHOOL",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K974",
+  "org" : "K774",
+  "function" : "MUSIC ROOM",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "ACHIEVEMENT FIRST APOLLO CHARTER SCHL - K",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "K974",
+  "org" : "K774",
+  "function" : "MULTI-PURPOSE CLASSROOM",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "ACHIEVEMENT FIRST APOLLO CHARTER SCHL - K",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "K991",
+  "org" : "K007",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 7 - BROOKLYN",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "K991",
+  "org" : "K007",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 7 - BROOKLYN",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "K991",
+  "org" : "K007",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 7 - BROOKLYN",
+  "capacity" : "36"
+}
+, {
+  "bldg" : "K991",
+  "org" : "K007",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 7 - BROOKLYN",
+  "capacity" : "36"
+}
+, {
+  "bldg" : "K991",
+  "org" : "K007",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "P.S. 7 - BROOKLYN",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "K991",
+  "org" : "K007",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "37",
+  "jur_dist" : "19",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "P.S. 7 - BROOKLYN",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "K998",
+  "org" : "K159",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "42",
+  "jur_dist" : "19",
+  "room_no" : "0001-01-01T00:00:00",
+  "organization_name" : "P.S. 159 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K998",
+  "org" : "K159",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "42",
+  "jur_dist" : "19",
+  "room_no" : "0002-01-01T00:00:00",
+  "organization_name" : "P.S. 159 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K998",
+  "org" : "K159",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "42",
+  "jur_dist" : "19",
+  "room_no" : "0003-01-01T00:00:00",
+  "organization_name" : "P.S. 159 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K998",
+  "org" : "K159",
+  "function" : "CTT",
+  "council_dist" : "42",
+  "jur_dist" : "19",
+  "room_no" : "0004-01-01T00:00:00",
+  "organization_name" : "P.S. 159 - BROOKLYN",
+  "capacity" : "25"
+}
+, {
+  "bldg" : "K921",
+  "org" : "K179",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "39",
+  "jur_dist" : "20",
+  "organization_name" : "P.S. 179 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K921",
+  "org" : "K179",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "39",
+  "jur_dist" : "20",
+  "organization_name" : "P.S. 179 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K921",
+  "org" : "K179",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "39",
+  "jur_dist" : "20",
+  "organization_name" : "P.S. 179 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K921",
+  "org" : "K179",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "39",
+  "jur_dist" : "20",
+  "organization_name" : "P.S. 179 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K921",
+  "org" : "K179",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "39",
+  "jur_dist" : "20",
+  "organization_name" : "P.S. 179 - BROOKLYN",
+  "capacity" : "32"
+}
+, {
+  "bldg" : "K921",
+  "org" : "K179",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "39",
+  "jur_dist" : "20",
+  "organization_name" : "P.S. 179 - BROOKLYN",
+  "capacity" : "32"
+}
+, {
+  "bldg" : "K961",
+  "org" : "K112",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "43",
+  "jur_dist" : "20",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 112 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K961",
+  "org" : "K112",
+  "function" : "FIRST GRADE",
+  "council_dist" : "43",
+  "jur_dist" : "20",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 112 - BROOKLYN",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "K937",
+  "org" : "K097",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "47",
+  "jur_dist" : "21",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 97 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K937",
+  "org" : "K097",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "47",
+  "jur_dist" : "21",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 97 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K937",
+  "org" : "K097",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "47",
+  "jur_dist" : "21",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 97 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K937",
+  "org" : "K097",
+  "function" : "MULTI-PURPOSE CLASSROOM",
+  "council_dist" : "47",
+  "jur_dist" : "21",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 97 - BROOKLYN",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "K941",
+  "org" : "K209",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "48",
+  "jur_dist" : "21",
+  "organization_name" : "P.S. 209 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K941",
+  "org" : "K209",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "48",
+  "jur_dist" : "21",
+  "organization_name" : "P.S. 209 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K941",
+  "org" : "K209",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "48",
+  "jur_dist" : "21",
+  "organization_name" : "P.S. 209 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K941",
+  "org" : "K209",
+  "function" : "CTT",
+  "council_dist" : "48",
+  "jur_dist" : "21",
+  "organization_name" : "P.S. 209 - BROOKLYN",
+  "capacity" : "25"
+}
+, {
+  "bldg" : "K951",
+  "org" : "K095",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "47",
+  "jur_dist" : "21",
+  "room_no" : "0001-01-01T05:00:00",
+  "organization_name" : "P.S. 95 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K951",
+  "org" : "K095",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "47",
+  "jur_dist" : "21",
+  "room_no" : "0002-01-01T06:00:00",
+  "organization_name" : "P.S. 95 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K951",
+  "org" : "K095",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "47",
+  "jur_dist" : "21",
+  "organization_name" : "P.S. 95 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K951",
+  "org" : "K095",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "47",
+  "jur_dist" : "21",
+  "organization_name" : "P.S. 95 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K951",
+  "org" : "K095",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "47",
+  "jur_dist" : "21",
+  "organization_name" : "P.S. 95 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K951",
+  "org" : "K095",
+  "function" : "CTT",
+  "council_dist" : "47",
+  "jur_dist" : "21",
+  "organization_name" : "P.S. 95 - BROOKLYN",
+  "capacity" : "25"
+}
+, {
+  "bldg" : "K964",
+  "org" : "K253",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "48",
+  "jur_dist" : "21",
+  "organization_name" : "P.S. 253 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K964",
+  "org" : "K253",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "48",
+  "jur_dist" : "21",
+  "organization_name" : "P.S. 253 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K927",
+  "org" : "K315",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "45",
+  "jur_dist" : "22",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 315 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K927",
+  "org" : "K315",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "45",
+  "jur_dist" : "22",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 315 - BROOKLYN",
+  "capacity" : "32"
+}
+, {
+  "bldg" : "K927",
+  "org" : "K315",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "45",
+  "jur_dist" : "22",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 315 - BROOKLYN",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "K927",
+  "org" : "K315",
+  "function" : "CTT",
+  "council_dist" : "45",
+  "jur_dist" : "22",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 315 - BROOKLYN",
+  "capacity" : "25"
+}
+, {
+  "bldg" : "K952",
+  "org" : "K193",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "45",
+  "jur_dist" : "22",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 193 - BROOKLYN",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "K952",
+  "org" : "K193",
+  "function" : "FUNDED - ESL",
+  "council_dist" : "45",
+  "jur_dist" : "22",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 193 - BROOKLYN",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "K952",
+  "org" : "K193",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "45",
+  "jur_dist" : "22",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 193 - BROOKLYN",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "K952",
+  "org" : "K193",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "45",
+  "jur_dist" : "22",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 193 - BROOKLYN",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "K983",
+  "org" : "K198",
+  "function" : "OTHER SHOP ROOM",
+  "council_dist" : "45",
+  "jur_dist" : "22",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 198 - BROOKLYN",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "K983",
+  "org" : "K198",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "45",
+  "jur_dist" : "22",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 198 - BROOKLYN",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q914",
+  "org" : "Q019",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 19 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q914",
+  "org" : "Q019",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "room_no" : "1970-01-01T10:00:00",
+  "organization_name" : "P.S. 19 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q914",
+  "org" : "Q019",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 19 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q914",
+  "org" : "Q019",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 19 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q914",
+  "org" : "Q019",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 19 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q914",
+  "org" : "Q019",
+  "function" : "FIRST GRADE",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "P.S. 19 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q914",
+  "org" : "Q019",
+  "function" : "FIRST GRADE",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "P.S. 19 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q914",
+  "org" : "Q019",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "P.S. 19 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q914",
+  "org" : "Q019",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "room_no" : "1970-01-01T08:00:00",
+  "organization_name" : "P.S. 19 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q914",
+  "org" : "Q019",
+  "function" : "SECOND GRADE",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "room_no" : "1970-01-01T09:00:00",
+  "organization_name" : "P.S. 19 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q917",
+  "org" : "Q081",
+  "function" : "SCIENCE CLASSROOM FOR PS",
+  "council_dist" : "34",
+  "jur_dist" : "24",
+  "organization_name" : "P.S. 81 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q917",
+  "org" : "Q081",
+  "function" : "SCIENCE CLASSROOM FOR PS",
+  "council_dist" : "34",
+  "jur_dist" : "24",
+  "organization_name" : "P.S. 81 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q917",
+  "org" : "Q081",
+  "function" : "THIRD GRADE",
+  "council_dist" : "34",
+  "jur_dist" : "24",
+  "organization_name" : "P.S. 81 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q917",
+  "org" : "Q081",
+  "function" : "THIRD GRADE",
+  "council_dist" : "34",
+  "jur_dist" : "24",
+  "organization_name" : "P.S. 81 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q937",
+  "org" : "Q143",
+  "function" : "CTT",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 143 - QUEENS",
+  "capacity" : "25"
+}
+, {
+  "bldg" : "Q937",
+  "org" : "Q143",
+  "function" : "CTT",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 143 - QUEENS",
+  "capacity" : "25"
+}
+, {
+  "bldg" : "Q937",
+  "org" : "Q143",
+  "function" : "FIRST GRADE",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 143 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q937",
+  "org" : "Q143",
+  "function" : "FIRST GRADE",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 143 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q937",
+  "org" : "Q143",
+  "function" : "SECOND GRADE",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "P.S. 143 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q937",
+  "org" : "Q143",
+  "function" : "SECOND GRADE",
+  "council_dist" : "21",
+  "jur_dist" : "24",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "P.S. 143 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q938",
+  "org" : "Q199",
+  "function" : "FOURTH GRADE",
+  "council_dist" : "26",
+  "jur_dist" : "24",
+  "room_no" : "0050-01-01T00:00:00",
+  "organization_name" : "P.S. 199 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q938",
+  "org" : "Q199",
+  "function" : "THIRD GRADE",
+  "council_dist" : "26",
+  "jur_dist" : "24",
+  "room_no" : "0051-01-01T00:00:00",
+  "organization_name" : "P.S. 199 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q938",
+  "org" : "Q199",
+  "function" : "FOURTH GRADE",
+  "council_dist" : "26",
+  "jur_dist" : "24",
+  "room_no" : "0052-01-01T00:00:00",
+  "organization_name" : "P.S. 199 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q938",
+  "org" : "Q199",
+  "function" : "THIRD GRADE",
+  "council_dist" : "26",
+  "jur_dist" : "24",
+  "room_no" : "0053-01-01T00:00:00",
+  "organization_name" : "P.S. 199 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q947",
+  "org" : "Q125",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "26",
+  "jur_dist" : "24",
+  "room_no" : "0141-01-01T00:00:00",
+  "organization_name" : "I.S. 125 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q947",
+  "org" : "Q125",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "26",
+  "jur_dist" : "24",
+  "room_no" : "0142-01-01T00:00:00",
+  "organization_name" : "I.S. 125 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q947",
+  "org" : "Q125",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "26",
+  "jur_dist" : "24",
+  "room_no" : "0144-01-01T00:00:00",
+  "organization_name" : "I.S. 125 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q947",
+  "org" : "Q125",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "26",
+  "jur_dist" : "24",
+  "room_no" : "0145-01-01T00:00:00",
+  "organization_name" : "I.S. 125 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q947",
+  "org" : "Q125",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "26",
+  "jur_dist" : "24",
+  "room_no" : "0146-01-01T00:00:00",
+  "organization_name" : "I.S. 125 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q947",
+  "org" : "Q125",
+  "function" : "CTT",
+  "council_dist" : "26",
+  "jur_dist" : "24",
+  "room_no" : "0147-01-01T00:00:00",
+  "organization_name" : "I.S. 125 - QUEENS",
+  "capacity" : "25"
+}
+, {
+  "bldg" : "Q947",
+  "org" : "Q125",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "26",
+  "jur_dist" : "24",
+  "room_no" : "0148-01-01T00:00:00",
+  "organization_name" : "I.S. 125 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q766",
+  "org" : "Q079",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "19",
+  "jur_dist" : "25",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 79 - QUEENS",
+  "capacity" : "34"
+}
+, {
+  "bldg" : "Q766",
+  "org" : "Q079",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "19",
+  "jur_dist" : "25",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 79 - QUEENS",
+  "capacity" : "34"
+}
+, {
+  "bldg" : "Q766",
+  "org" : "Q079",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "19",
+  "jur_dist" : "25",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 79 - QUEENS",
+  "capacity" : "34"
+}
+, {
+  "bldg" : "Q766",
+  "org" : "Q079",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "19",
+  "jur_dist" : "25",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 79 - QUEENS",
+  "capacity" : "34"
+}
+, {
+  "bldg" : "Q922",
+  "org" : "Q032",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "19",
+  "jur_dist" : "25",
+  "room_no" : "0170-01-01T00:00:00",
+  "organization_name" : "P.S. 32 - QUEENS",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "Q922",
+  "org" : "Q032",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "19",
+  "jur_dist" : "25",
+  "room_no" : "0171-01-01T00:00:00",
+  "organization_name" : "P.S. 32 - QUEENS",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "Q924",
+  "org" : "Q129",
+  "function" : "MULTI-PURPOSE CLASSROOM",
+  "council_dist" : "19",
+  "jur_dist" : "25",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 129 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q924",
+  "org" : "Q129",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "19",
+  "jur_dist" : "25",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 129 - QUEENS",
+  "capacity" : "34"
+}
+, {
+  "bldg" : "Q924",
+  "org" : "Q129",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "19",
+  "jur_dist" : "25",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 129 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q924",
+  "org" : "Q129",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "19",
+  "jur_dist" : "25",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 129 - QUEENS",
+  "capacity" : "34"
+}
+, {
+  "bldg" : "Q936",
+  "org" : "Q024",
+  "function" : "SECOND GRADE",
+  "council_dist" : "20",
+  "jur_dist" : "25",
+  "organization_name" : "P.S. 24 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q936",
+  "org" : "Q024",
+  "function" : "SECOND GRADE",
+  "council_dist" : "20",
+  "jur_dist" : "25",
+  "organization_name" : "P.S. 24 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q936",
+  "org" : "Q024",
+  "function" : "SECOND GRADE",
+  "council_dist" : "20",
+  "jur_dist" : "25",
+  "organization_name" : "P.S. 24 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q936",
+  "org" : "Q024",
+  "function" : "SECOND GRADE",
+  "council_dist" : "20",
+  "jur_dist" : "25",
+  "organization_name" : "P.S. 24 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q959",
+  "org" : "Q022",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "20",
+  "jur_dist" : "25",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 22 - QUEENS",
+  "capacity" : "32"
+}
+, {
+  "bldg" : "Q959",
+  "org" : "Q022",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "20",
+  "jur_dist" : "25",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 22 - QUEENS",
+  "capacity" : "32"
+}
+, {
+  "bldg" : "Q968",
+  "org" : "Q163",
+  "function" : "FIRST GRADE",
+  "council_dist" : "20",
+  "jur_dist" : "25",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 163 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q968",
+  "org" : "Q163",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "20",
+  "jur_dist" : "25",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 163 - QUEENS",
+  "capacity" : "34"
+}
+, {
+  "bldg" : "Q968",
+  "org" : "Q163",
+  "function" : "SECOND GRADE",
+  "council_dist" : "20",
+  "jur_dist" : "25",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 163 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q968",
+  "org" : "Q163",
+  "function" : "SECOND GRADE",
+  "council_dist" : "20",
+  "jur_dist" : "25",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 163 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q728",
+  "org" : "Q041",
+  "function" : "ART ROOM",
+  "council_dist" : "19",
+  "jur_dist" : "26",
+  "organization_name" : "P.S. 41 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q728",
+  "org" : "Q041",
+  "function" : "SECOND GRADE",
+  "council_dist" : "19",
+  "jur_dist" : "26",
+  "organization_name" : "P.S. 41 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q728",
+  "org" : "Q041",
+  "function" : "SECOND GRADE",
+  "council_dist" : "19",
+  "jur_dist" : "26",
+  "organization_name" : "P.S. 41 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q728",
+  "org" : "Q041",
+  "function" : "SECOND GRADE",
+  "council_dist" : "19",
+  "jur_dist" : "26",
+  "organization_name" : "P.S. 41 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q727",
+  "org" : "Q106",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "31",
+  "jur_dist" : "27",
+  "organization_name" : "P.S. 106 - QUEENS",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "Q727",
+  "org" : "Q106",
+  "function" : "CTT",
+  "council_dist" : "31",
+  "jur_dist" : "27",
+  "organization_name" : "P.S. 106 - QUEENS",
+  "capacity" : "25"
+}
+, {
+  "bldg" : "Q920",
+  "org" : "Q043",
+  "function" : "FIRST GRADE",
+  "council_dist" : "31",
+  "jur_dist" : "27",
+  "room_no" : "0001-01-01T00:00:00",
+  "organization_name" : "P.S. 43 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q920",
+  "org" : "Q256",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "31",
+  "jur_dist" : "27",
+  "room_no" : "0010-01-01T00:00:00",
+  "organization_name" : "Q256 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q920",
+  "org" : "Q043",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "31",
+  "jur_dist" : "27",
+  "room_no" : "0002-01-01T00:00:00",
+  "organization_name" : "P.S. 43 - QUEENS",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "Q920",
+  "org" : "Q043",
+  "function" : "FIRST GRADE",
+  "council_dist" : "31",
+  "jur_dist" : "27",
+  "room_no" : "0003-01-01T00:00:00",
+  "organization_name" : "P.S. 43 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q920",
+  "org" : "Q043",
+  "function" : "FIRST GRADE",
+  "council_dist" : "31",
+  "jur_dist" : "27",
+  "room_no" : "0004-01-01T00:00:00",
+  "organization_name" : "P.S. 43 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q920",
+  "org" : "Q043",
+  "function" : "FIRST GRADE",
+  "council_dist" : "31",
+  "jur_dist" : "27",
+  "room_no" : "0005-01-01T00:00:00",
+  "organization_name" : "P.S. 43 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q920",
+  "org" : "Q043",
+  "function" : "MULTI-PURPOSE CLASSROOM",
+  "council_dist" : "31",
+  "jur_dist" : "27",
+  "room_no" : "0006-01-01T00:00:00",
+  "organization_name" : "P.S. 43 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q920",
+  "org" : "Q256",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "31",
+  "jur_dist" : "27",
+  "room_no" : "0007-01-01T00:00:00",
+  "organization_name" : "Q256 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q920",
+  "org" : "Q256",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "31",
+  "jur_dist" : "27",
+  "organization_name" : "Q256 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q920",
+  "org" : "Q256",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "31",
+  "jur_dist" : "27",
+  "organization_name" : "Q256 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q920",
+  "org" : "Q256",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "31",
+  "jur_dist" : "27",
+  "room_no" : "0009-01-01T00:00:00",
+  "organization_name" : "Q256 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q976",
+  "org" : "Q155",
+  "function" : "THIRD GRADE",
+  "council_dist" : "28",
+  "jur_dist" : "27",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 155 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q976",
+  "org" : "Q155",
+  "function" : "FOURTH GRADE",
+  "council_dist" : "28",
+  "jur_dist" : "27",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 155 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q976",
+  "org" : "Q155",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "27",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 155 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q976",
+  "org" : "Q155",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "27",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 155 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q983",
+  "org" : "Q232",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "32",
+  "jur_dist" : "27",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 232 - QUEENS",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "Q983",
+  "org" : "Q232",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "32",
+  "jur_dist" : "27",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 232 - QUEENS",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "Q983",
+  "org" : "Q232",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "32",
+  "jur_dist" : "27",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 232 - QUEENS",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "Q983",
+  "org" : "Q232",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "32",
+  "jur_dist" : "27",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 232 - QUEENS",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "Q986",
+  "org" : "Q096",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "28",
+  "jur_dist" : "27",
+  "room_no" : "0003-01-01T01:00:00",
+  "organization_name" : "P.S. 96 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q986",
+  "org" : "Q096",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "28",
+  "jur_dist" : "27",
+  "room_no" : "0003-01-01T02:00:00",
+  "organization_name" : "P.S. 96 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q987",
+  "org" : "Q146",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "32",
+  "jur_dist" : "27",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 146 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q987",
+  "org" : "Q146",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "32",
+  "jur_dist" : "27",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 146 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q989",
+  "org" : "Q066",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "32",
+  "jur_dist" : "27",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 66 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q989",
+  "org" : "Q066",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "32",
+  "jur_dist" : "27",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 66 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q995",
+  "org" : "Q056",
+  "function" : "SCIENCE CLASSROOM FOR PS",
+  "council_dist" : "32",
+  "jur_dist" : "27",
+  "room_no" : "0005-01-01T01:00:00",
+  "organization_name" : "P.S. 56 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q995",
+  "org" : "Q056",
+  "function" : "SCIENCE CLASSROOM FOR PS",
+  "council_dist" : "32",
+  "jur_dist" : "27",
+  "room_no" : "0005-01-01T02:00:00",
+  "organization_name" : "P.S. 56 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q935",
+  "org" : "Q174",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "29",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 174 - QUEENS",
+  "capacity" : "36"
+}
+, {
+  "bldg" : "Q935",
+  "org" : "Q174",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "29",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 174 - QUEENS",
+  "capacity" : "18"
+}
+, {
+  "bldg" : "Q935",
+  "org" : "Q174",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "29",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 174 - QUEENS",
+  "capacity" : "18"
+}
+, {
+  "bldg" : "Q935",
+  "org" : "Q174",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "29",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 174 - QUEENS",
+  "capacity" : "18"
+}
+, {
+  "bldg" : "Q953",
+  "org" : "Q055",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "28",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 55 - QUEENS",
+  "capacity" : "32"
+}
+, {
+  "bldg" : "Q953",
+  "org" : "Q055",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "28",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 55 - QUEENS",
+  "capacity" : "32"
+}
+, {
+  "bldg" : "Q956",
+  "org" : "Q206",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "29",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 206 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q956",
+  "org" : "Q206",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "29",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 206 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q956",
+  "org" : "Q206",
+  "function" : "FUNDED - ESL",
+  "council_dist" : "29",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 206 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q956",
+  "org" : "Q206",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "29",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 206 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q958",
+  "org" : "Q160",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "28",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 160 - QUEENS",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "Q958",
+  "org" : "Q160",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "28",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 160 - QUEENS",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "Q958",
+  "org" : "Q160",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "28",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 160 - QUEENS",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "Q958",
+  "org" : "Q160",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "28",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 160 - QUEENS",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "Q958",
+  "org" : "Q160",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "28",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "P.S. 160 - QUEENS",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "Q958",
+  "org" : "Q160",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "28",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "P.S. 160 - QUEENS",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "Q988",
+  "org" : "Q040",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "28",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 40 - QUEENS",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "Q988",
+  "org" : "Q040",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "28",
+  "jur_dist" : "28",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "P.S. 40 - QUEENS",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "Q910",
+  "org" : "Q095",
+  "function" : "THIRD GRADE",
+  "council_dist" : "27",
+  "jur_dist" : "29",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 95 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q910",
+  "org" : "Q095",
+  "function" : "SECOND GRADE",
+  "council_dist" : "27",
+  "jur_dist" : "29",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 95 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q910",
+  "org" : "Q095",
+  "function" : "THIRD GRADE",
+  "council_dist" : "27",
+  "jur_dist" : "29",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 95 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q910",
+  "org" : "Q095",
+  "function" : "SECOND GRADE",
+  "council_dist" : "27",
+  "jur_dist" : "29",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 95 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q911",
+  "org" : "Q131",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "24",
+  "jur_dist" : "29",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 131 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q911",
+  "org" : "Q131",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "24",
+  "jur_dist" : "29",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 131 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q911",
+  "org" : "Q131",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "24",
+  "jur_dist" : "29",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 131 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q911",
+  "org" : "Q131",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "24",
+  "jur_dist" : "29",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 131 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q911",
+  "org" : "Q131",
+  "function" : "FOURTH GRADE",
+  "council_dist" : "24",
+  "jur_dist" : "29",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "P.S. 131 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q911",
+  "org" : "Q131",
+  "function" : "FIFTH GRADE",
+  "council_dist" : "24",
+  "jur_dist" : "29",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "P.S. 131 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q930",
+  "org" : "Q116",
+  "function" : "NON-D75 SPED CLASSROOM",
+  "council_dist" : "27",
+  "jur_dist" : "29",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 116 - QUEENS",
+  "capacity" : "12"
+}
+, {
+  "bldg" : "Q930",
+  "org" : "Q116",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "27",
+  "jur_dist" : "29",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 116 - QUEENS",
+  "capacity" : "18"
+}
+, {
+  "bldg" : "Q930",
+  "org" : "Q116",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "27",
+  "jur_dist" : "29",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "P.S. 116 - QUEENS",
+  "capacity" : "18"
+}
+, {
+  "bldg" : "Q930",
+  "org" : "Q116",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "27",
+  "jur_dist" : "29",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "P.S. 116 - QUEENS",
+  "capacity" : "18"
+}
+, {
+  "bldg" : "Q931",
+  "org" : "Q033",
+  "function" : "ART ROOM",
+  "council_dist" : "23",
+  "jur_dist" : "29",
+  "room_no" : "0101-01-01T00:00:00",
+  "organization_name" : "P.S. 33 - QUEENS",
+  "capacity" : "27"
+}
+, {
+  "bldg" : "Q931",
+  "org" : "Q033",
+  "function" : "ART ROOM",
+  "council_dist" : "23",
+  "jur_dist" : "29",
+  "room_no" : "0102-01-01T00:00:00",
+  "organization_name" : "P.S. 33 - QUEENS",
+  "capacity" : "27"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T11:00:00",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T12:00:00",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T13:00:00",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T14:00:00",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T15:00:00",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T16:00:00",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T18:00:00",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T19:00:00",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T20:00:00",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T21:00:00",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q925",
+  "org" : "Q255",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "organization_name" : "Q255 SPED - QUEENS",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "Q932",
+  "org" : "Q011",
+  "function" : "SECOND GRADE",
+  "council_dist" : "26",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 11 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q932",
+  "org" : "Q011",
+  "function" : "FUNDED - ESL",
+  "council_dist" : "26",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 11 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q932",
+  "org" : "Q011",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "26",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 11 - QUEENS",
+  "capacity" : "16"
+}
+, {
+  "bldg" : "Q932",
+  "org" : "Q011",
+  "function" : "FIRST GRADE",
+  "council_dist" : "26",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 11 - QUEENS",
+  "capacity" : "20"
+}
+, {
+  "bldg" : "Q932",
+  "org" : "Q011",
+  "function" : "FUNDED - ESL",
+  "council_dist" : "26",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "P.S. 11 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q932",
+  "org" : "Q011",
+  "function" : "FUNDED - ESL",
+  "council_dist" : "26",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "P.S. 11 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q932",
+  "org" : "Q011",
+  "function" : "FUNDED - ESL",
+  "council_dist" : "26",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "P.S. 11 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q932",
+  "org" : "Q011",
+  "function" : "FUNDED - ESL",
+  "council_dist" : "26",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T08:00:00",
+  "organization_name" : "P.S. 11 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q970",
+  "org" : "Q070",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "organization_name" : "P.S. 70 - QUEENS",
+  "capacity" : "32"
+}
+, {
+  "bldg" : "Q970",
+  "org" : "Q070",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "organization_name" : "P.S. 70 - QUEENS",
+  "capacity" : "32"
+}
+, {
+  "bldg" : "Q970",
+  "org" : "Q070",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "organization_name" : "P.S. 70 - QUEENS",
+  "capacity" : "32"
+}
+, {
+  "bldg" : "Q970",
+  "org" : "Q070",
+  "function" : "PRE-K HALF DAY",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "organization_name" : "P.S. 70 - QUEENS",
+  "capacity" : "32"
+}
+, {
+  "bldg" : "Q981",
+  "org" : "Q085",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 85 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q981",
+  "org" : "Q085",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 85 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q981",
+  "org" : "Q085",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 85 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q981",
+  "org" : "Q085",
+  "function" : "PRE-K FULL DAY",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 85 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q981",
+  "org" : "Q085",
+  "function" : "ART ROOM",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "P.S. 85 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q981",
+  "org" : "Q085",
+  "function" : "THEATRE ARTS/DRAMA",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "P.S. 85 - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q981",
+  "org" : "Q085",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "P.S. 85 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q981",
+  "org" : "Q085",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "22",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T08:00:00",
+  "organization_name" : "P.S. 85 - QUEENS",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "Q997",
+  "org" : "Q092",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "21",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 92 - QUEENS",
+  "capacity" : "18"
+}
+, {
+  "bldg" : "Q997",
+  "org" : "Q092",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "21",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 92 - QUEENS",
+  "capacity" : "18"
+}
+, {
+  "bldg" : "Q997",
+  "org" : "Q092",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "21",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 92 - QUEENS",
+  "capacity" : "18"
+}
+, {
+  "bldg" : "Q997",
+  "org" : "Q092",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "21",
+  "jur_dist" : "30",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 92 - QUEENS",
+  "capacity" : "18"
+}
+, {
+  "bldg" : "R817",
+  "org" : "R019",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "49",
+  "jur_dist" : "31",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "P.S. 19 - STATEN ISLAND",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "R817",
+  "org" : "R019",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "49",
+  "jur_dist" : "31",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "P.S. 19 - STATEN ISLAND",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "R817",
+  "org" : "R019",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "49",
+  "jur_dist" : "31",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "P.S. 19 - STATEN ISLAND",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "R817",
+  "org" : "R019",
+  "function" : "KINDERGARTEN",
+  "council_dist" : "49",
+  "jur_dist" : "31",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "P.S. 19 - STATEN ISLAND",
+  "capacity" : "17"
+}
+, {
+  "bldg" : "R818",
+  "org" : "R037",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "51",
+  "jur_dist" : "75",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "R037 SPED - STATEN ISLAND",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "R818",
+  "org" : "R037",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "51",
+  "jur_dist" : "75",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "R037 SPED - STATEN ISLAND",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "R818",
+  "org" : "R037",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "51",
+  "jur_dist" : "75",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "R037 SPED - STATEN ISLAND",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "R818",
+  "org" : "R037",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "51",
+  "jur_dist" : "75",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "R037 SPED - STATEN ISLAND",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "R819",
+  "org" : "R037",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "51",
+  "jur_dist" : "75",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "R037 SPED - STATEN ISLAND",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "R819",
+  "org" : "R037",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "51",
+  "jur_dist" : "75",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "R037 SPED - STATEN ISLAND",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "R819",
+  "org" : "R037",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "51",
+  "jur_dist" : "75",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "R037 SPED - STATEN ISLAND",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "R819",
+  "org" : "R037",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "51",
+  "jur_dist" : "75",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "R037 SPED - STATEN ISLAND",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "R910",
+  "org" : "R025",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "51",
+  "jur_dist" : "75",
+  "room_no" : "0003-01-01T00:00:00",
+  "organization_name" : "R025 SPED - STATEN ISLAND",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "R910",
+  "org" : "R025",
+  "function" : "D75 SPED CLASSROOM",
+  "council_dist" : "51",
+  "jur_dist" : "75",
+  "room_no" : "0004-01-01T00:00:00",
+  "organization_name" : "R025 SPED - STATEN ISLAND",
+  "capacity" : "0"
+}
+, {
+  "bldg" : "K947",
+  "org" : "K409",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "42",
+  "jur_dist" : "78",
+  "organization_name" : "EAST NY FAMILY ACAD.  - K",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "K947",
+  "org" : "K409",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "42",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T10:00:00",
+  "organization_name" : "EAST NY FAMILY ACAD.  - K",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "K947",
+  "org" : "K409",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "42",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T11:00:00",
+  "organization_name" : "EAST NY FAMILY ACAD.  - K",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "K947",
+  "org" : "K409",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "42",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T12:00:00",
+  "organization_name" : "EAST NY FAMILY ACAD.  - K",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "K947",
+  "org" : "K409",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "42",
+  "jur_dist" : "78",
+  "organization_name" : "EAST NY FAMILY ACAD.  - K",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "K947",
+  "org" : "K409",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "42",
+  "jur_dist" : "78",
+  "organization_name" : "EAST NY FAMILY ACAD.  - K",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "K947",
+  "org" : "K409",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "42",
+  "jur_dist" : "78",
+  "organization_name" : "EAST NY FAMILY ACAD.  - K",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "K947",
+  "org" : "K409",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "42",
+  "jur_dist" : "78",
+  "organization_name" : "EAST NY FAMILY ACAD.  - K",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "K947",
+  "org" : "K409",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "42",
+  "jur_dist" : "78",
+  "organization_name" : "EAST NY FAMILY ACAD.  - K",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "K947",
+  "org" : "K409",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "42",
+  "jur_dist" : "78",
+  "organization_name" : "EAST NY FAMILY ACAD.  - K",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "K947",
+  "org" : "K409",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "42",
+  "jur_dist" : "78",
+  "organization_name" : "EAST NY FAMILY ACAD.  - K",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "K947",
+  "org" : "K409",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "42",
+  "jur_dist" : "78",
+  "organization_name" : "EAST NY FAMILY ACAD.  - K",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "Q726",
+  "org" : "Q480",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "32",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "JOHN ADAMS HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q726",
+  "org" : "Q480",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "32",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "JOHN ADAMS HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q726",
+  "org" : "Q480",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "32",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "JOHN ADAMS HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q726",
+  "org" : "Q480",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "32",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "JOHN ADAMS HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q726",
+  "org" : "Q480",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "32",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "JOHN ADAMS HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q726",
+  "org" : "Q480",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "32",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "JOHN ADAMS HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q726",
+  "org" : "Q480",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "32",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "JOHN ADAMS HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q726",
+  "org" : "Q950",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "32",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T09:00:00",
+  "organization_name" : "PATHWAYS TO GRADUATION - Q",
+  "capacity" : "22"
+}
+, {
+  "bldg" : "Q726",
+  "org" : "Q950",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "32",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T10:00:00",
+  "organization_name" : "PATHWAYS TO GRADUATION - Q",
+  "capacity" : "22"
+}
+, {
+  "bldg" : "Q761",
+  "org" : "Q495",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "19",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "BAYSIDE HIGH SCHOOL - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q761",
+  "org" : "Q495",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "19",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "BAYSIDE HIGH SCHOOL - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q761",
+  "org" : "Q495",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "19",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "BAYSIDE HIGH SCHOOL - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q761",
+  "org" : "Q495",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "19",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "BAYSIDE HIGH SCHOOL - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q761",
+  "org" : "Q495",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "19",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "BAYSIDE HIGH SCHOOL - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q761",
+  "org" : "Q495",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "19",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "BAYSIDE HIGH SCHOOL - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T10:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T11:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T12:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T13:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T14:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T15:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T16:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T17:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T18:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T19:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T20:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T21:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T08:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q944",
+  "org" : "Q475",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "28",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T09:00:00",
+  "organization_name" : "RICHMOND HILL HS - QUEENS",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "Q949",
+  "org" : "Q445",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "26",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "WILLIAM C. BRYANT HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q949",
+  "org" : "Q445",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "26",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "WILLIAM C. BRYANT HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q949",
+  "org" : "Q445",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "26",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "WILLIAM C. BRYANT HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q949",
+  "org" : "Q445",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "26",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "WILLIAM C. BRYANT HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q949",
+  "org" : "Q445",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "26",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "WILLIAM C. BRYANT HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q949",
+  "org" : "Q445",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "26",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "WILLIAM C. BRYANT HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q951",
+  "org" : "Q425",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "24",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "JOHN BOWNE HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q951",
+  "org" : "Q425",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "24",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T10:00:00",
+  "organization_name" : "JOHN BOWNE HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q951",
+  "org" : "Q425",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "24",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T11:00:00",
+  "organization_name" : "JOHN BOWNE HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q951",
+  "org" : "Q425",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "24",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T12:00:00",
+  "organization_name" : "JOHN BOWNE HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q951",
+  "org" : "Q425",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "24",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "JOHN BOWNE HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q951",
+  "org" : "Q425",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "24",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "JOHN BOWNE HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q951",
+  "org" : "Q425",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "24",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "JOHN BOWNE HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q951",
+  "org" : "Q425",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "24",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "JOHN BOWNE HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q951",
+  "org" : "Q425",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "24",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "JOHN BOWNE HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q951",
+  "org" : "Q425",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "24",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "JOHN BOWNE HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q951",
+  "org" : "Q425",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "24",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T08:00:00",
+  "organization_name" : "JOHN BOWNE HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q951",
+  "org" : "Q425",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "24",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T09:00:00",
+  "organization_name" : "JOHN BOWNE HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q966",
+  "org" : "Q430",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "20",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "FRANCIS LEWIS HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q966",
+  "org" : "Q430",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "20",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "FRANCIS LEWIS HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q966",
+  "org" : "Q430",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "20",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "FRANCIS LEWIS HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q966",
+  "org" : "Q430",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "20",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "FRANCIS LEWIS HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q966",
+  "org" : "Q430",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "20",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "FRANCIS LEWIS HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q966",
+  "org" : "Q430",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "20",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "FRANCIS LEWIS HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q966",
+  "org" : "Q430",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "20",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "FRANCIS LEWIS HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q966",
+  "org" : "Q430",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "20",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T08:00:00",
+  "organization_name" : "FRANCIS LEWIS HS - QUEENS",
+  "capacity" : "28"
+}
+, {
+  "bldg" : "Q969",
+  "org" : "Q950",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "24",
+  "jur_dist" : "78",
+  "room_no" : "0002-01-01T00:00:00",
+  "organization_name" : "PATHWAYS TO GRADUATION - Q",
+  "capacity" : "44"
+}
+, {
+  "bldg" : "R814",
+  "org" : "R450",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "49",
+  "jur_dist" : "78",
+  "organization_name" : "CURTIS HS - STATEN ISLAND",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "R814",
+  "org" : "R450",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "49",
+  "jur_dist" : "78",
+  "organization_name" : "CURTIS HS - STATEN ISLAND",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "R814",
+  "org" : "R450",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "49",
+  "jur_dist" : "78",
+  "organization_name" : "CURTIS HS - STATEN ISLAND",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "R814",
+  "org" : "R450",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "49",
+  "jur_dist" : "78",
+  "organization_name" : "CURTIS HS - STATEN ISLAND",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "R815",
+  "org" : "Q950",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "49",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "PATHWAYS TO GRADUATION - Q",
+  "capacity" : "22"
+}
+, {
+  "bldg" : "R815",
+  "org" : "Q950",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "49",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "PATHWAYS TO GRADUATION - Q",
+  "capacity" : "22"
+}
+, {
+  "bldg" : "R815",
+  "org" : "R445",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "49",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "PORT RICHMOND HS - S.I.",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "R815",
+  "org" : "R445",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "49",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "PORT RICHMOND HS - S.I.",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "X920",
+  "org" : "X495",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "organization_name" : "UNIVERSITY HEIGHTS HS - BRONX",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "X920",
+  "org" : "X495",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "organization_name" : "UNIVERSITY HEIGHTS HS - BRONX",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "X920",
+  "org" : "X495",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "organization_name" : "UNIVERSITY HEIGHTS HS - BRONX",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "X922",
+  "org" : "X996",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "18",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "ALTERNATIVE LEARNING CENTER - X",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "X922",
+  "org" : "X996",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "18",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "ALTERNATIVE LEARNING CENTER - X",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "X922",
+  "org" : "X996",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "18",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "ALTERNATIVE LEARNING CENTER - X",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "X961",
+  "org" : "X403",
+  "function" : "WOOD/CARPENTRY SHOP",
+  "council_dist" : "16",
+  "jur_dist" : "78",
+  "organization_name" : "BRONX INTERNATIONAL - BRONX",
+  "capacity" : "25"
+}
+, {
+  "bldg" : "X961",
+  "org" : "X403",
+  "function" : "MUSIC ROOM",
+  "council_dist" : "16",
+  "jur_dist" : "78",
+  "organization_name" : "BRONX INTERNATIONAL - BRONX",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "X962",
+  "org" : "X650",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "JANE ADDAMS VOC HS - X",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "X962",
+  "org" : "X650",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "JANE ADDAMS VOC HS - X",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "X962",
+  "org" : "X650",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "JANE ADDAMS VOC HS - X",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "X962",
+  "org" : "X650",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "JANE ADDAMS VOC HS - X",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "X962",
+  "org" : "X650",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "JANE ADDAMS VOC HS - X",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "X962",
+  "org" : "X650",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "JANE ADDAMS VOC HS - X",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "X963",
+  "org" : "X321",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "organization_name" : "CROTONA ACADEMY - BRONX",
+  "capacity" : "30"
+}
+, {
+  "bldg" : "X963",
+  "org" : "X321",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T01:00:00",
+  "organization_name" : "CROTONA ACADEMY - BRONX",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "X963",
+  "org" : "X321",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T02:00:00",
+  "organization_name" : "CROTONA ACADEMY - BRONX",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "X963",
+  "org" : "X321",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T03:00:00",
+  "organization_name" : "CROTONA ACADEMY - BRONX",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "X963",
+  "org" : "X321",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T04:00:00",
+  "organization_name" : "CROTONA ACADEMY - BRONX",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "X963",
+  "org" : "X321",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T05:00:00",
+  "organization_name" : "CROTONA ACADEMY - BRONX",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "X963",
+  "org" : "X321",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T06:00:00",
+  "organization_name" : "CROTONA ACADEMY - BRONX",
+  "capacity" : "29"
+}
+, {
+  "bldg" : "X963",
+  "org" : "X321",
+  "function" : "REGULAR CLASSROOM",
+  "council_dist" : "17",
+  "jur_dist" : "78",
+  "room_no" : "1970-01-01T07:00:00",
+  "organization_name" : "CROTONA ACADEMY - BRONX",
+  "capacity" : "29"
+}
+ ]

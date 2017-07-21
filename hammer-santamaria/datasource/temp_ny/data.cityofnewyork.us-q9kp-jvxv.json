@@ -1,0 +1,41 @@
+[ {
+  "ucc_collateral_code" : "D",
+  "description" : "TRANSMITTING UTILITIES DBTR",
+  "record_type" : "U"
+}
+, {
+  "ucc_collateral_code" : "R",
+  "description" : "CROPS/EXTRACTED/COLLATERAL/TIMBER TO BE CUT",
+  "record_type" : "U"
+}
+, {
+  "ucc_collateral_code" : "C",
+  "description" : "COOPERATIVE",
+  "record_type" : "U"
+}
+, {
+  "ucc_collateral_code" : "F",
+  "description" : "FIXTURE FILING",
+  "record_type" : "U"
+}
+, {
+  "ucc_collateral_code" : "M",
+  "description" : "MANUFACTURED HOUSING",
+  "record_type" : "U"
+}
+, {
+  "ucc_collateral_code" : "O",
+  "description" : "OTHER",
+  "record_type" : "U"
+}
+, {
+  "ucc_collateral_code" : "A",
+  "description" : "COOPERATIVE WITH ADDENDUM",
+  "record_type" : "U"
+}
+, {
+  "ucc_collateral_code" : "P",
+  "description" : "PUBLIC FINANCE",
+  "record_type" : "U"
+}
+ ]

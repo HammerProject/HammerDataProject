@@ -1,0 +1,379 @@
+[ {
+  "building_id" : "M110",
+  "program_category" : "Toilets-Students",
+  "school" : "P.S. 110",
+  "district" : "1",
+  "borough" : "M"
+}
+, {
+  "building_id" : "M011",
+  "program_category" : "Swimming Pools",
+  "school" : "P.S. 11",
+  "district" : "2",
+  "borough" : "M"
+}
+, {
+  "building_id" : "M116",
+  "program_category" : "Boiler Conversion",
+  "school" : "P.S. 116",
+  "district" : "2",
+  "borough" : "M"
+}
+, {
+  "building_id" : "M116",
+  "program_category" : "Climate Control",
+  "school" : "P.S. 116",
+  "district" : "2",
+  "borough" : "M"
+}
+, {
+  "building_id" : "M167",
+  "program_category" : "Heating Plant Upgrade",
+  "school" : "I.S. 167",
+  "district" : "2",
+  "borough" : "M"
+}
+, {
+  "building_id" : "M198",
+  "program_category" : "Boiler Conversion",
+  "school" : "P.S. 198",
+  "district" : "2",
+  "borough" : "M"
+}
+, {
+  "building_id" : "M198",
+  "program_category" : "Climate Control",
+  "school" : "P.S. 198",
+  "district" : "2",
+  "borough" : "M"
+}
+, {
+  "building_id" : "M125",
+  "program_category" : "PA System",
+  "school" : "P.S. 125",
+  "district" : "5",
+  "borough" : "M"
+}
+, {
+  "building_id" : "M008",
+  "program_category" : "Heating Plant Upgrade",
+  "school" : "P.S. 8",
+  "district" : "6",
+  "borough" : "M"
+}
+, {
+  "building_id" : "X161",
+  "program_category" : "Heating Plant Upgrade",
+  "school" : "P.S. 161",
+  "district" : "7",
+  "borough" : "X"
+}
+, {
+  "building_id" : "X026",
+  "program_category" : "Boiler Conversion",
+  "school" : "P.S. 396",
+  "district" : "10",
+  "borough" : "X"
+}
+, {
+  "building_id" : "X026",
+  "program_category" : "Climate Control",
+  "school" : "P.S. 396",
+  "district" : "10",
+  "borough" : "X"
+}
+, {
+  "building_id" : "X033",
+  "program_category" : "Toilets-Students",
+  "school" : "P.S. 33",
+  "district" : "10",
+  "borough" : "X"
+}
+, {
+  "building_id" : "X832",
+  "program_category" : "Ventilation",
+  "school" : "P.S. 32 MINISCHOOL",
+  "district" : "10",
+  "borough" : "X"
+}
+, {
+  "building_id" : "X127",
+  "program_category" : "Heating Plant Upgrade",
+  "school" : "I.S. 127",
+  "district" : "11",
+  "borough" : "X"
+}
+, {
+  "building_id" : "X129",
+  "program_category" : "Kitchen Areas",
+  "school" : "I.S. 129 (PAIRED W P234)",
+  "district" : "12",
+  "borough" : "X"
+}
+, {
+  "building_id" : "K017",
+  "program_category" : "Floors",
+  "school" : "P.S. 17",
+  "district" : "14",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K126",
+  "program_category" : "Heating Plant Upgrade",
+  "school" : "J.H.S. 126",
+  "district" : "14",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K015",
+  "program_category" : "Lighting Fixtures",
+  "school" : "P.S. 15",
+  "district" : "15",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K035",
+  "program_category" : "Parapets",
+  "school" : "I.S. 35",
+  "district" : "16",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K035",
+  "program_category" : "Roofs",
+  "school" : "I.S. 35",
+  "district" : "16",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K241",
+  "program_category" : "Toilets-Students",
+  "school" : "P.S. 241",
+  "district" : "17",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K246",
+  "program_category" : "Air Conditioning Retrofit",
+  "school" : "I.S. 246",
+  "district" : "17",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K889",
+  "program_category" : "Ventilation",
+  "school" : "P.S. 189 MINISCHOOL",
+  "district" : "17",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K285",
+  "program_category" : "Toilets-Students",
+  "school" : "I.S. 285",
+  "district" : "18",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K214",
+  "program_category" : "Toilets-Students",
+  "school" : "P.S. 214",
+  "district" : "19",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K048",
+  "program_category" : "Flood Elimination",
+  "school" : "P.S. 48",
+  "district" : "20",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K062",
+  "program_category" : "Heating Plant Upgrade",
+  "school" : "I.S. 62",
+  "district" : "20",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K229",
+  "program_category" : "Domestic Piping",
+  "school" : "P.S. 229",
+  "district" : "20",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K807",
+  "program_category" : "Domestic Piping",
+  "school" : "P.S./ I.S. 163",
+  "district" : "20",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K139",
+  "program_category" : "Roofs",
+  "school" : "P.S. 139",
+  "district" : "22",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K206",
+  "program_category" : "Toilets-Students",
+  "school" : "P.S. 206",
+  "district" : "22",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K269",
+  "program_category" : "Toilets-Students",
+  "school" : "P.S. 269",
+  "district" : "22",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K073",
+  "program_category" : "Electrical Systems",
+  "school" : "P.S. 73",
+  "district" : "23",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K275",
+  "program_category" : "Auditorium  Upgrade",
+  "school" : "I.S. 275",
+  "district" : "23",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K356",
+  "program_category" : "Heating Plant Upgrade",
+  "school" : "P.S. 156",
+  "district" : "23",
+  "borough" : "K"
+}
+, {
+  "building_id" : "Q107",
+  "program_category" : "Flood Elimination",
+  "school" : "P.S. 107",
+  "district" : "25",
+  "borough" : "Q"
+}
+, {
+  "building_id" : "Q098",
+  "program_category" : "Auditorium  Upgrade",
+  "school" : "P.S. 98",
+  "district" : "26",
+  "borough" : "Q"
+}
+, {
+  "building_id" : "Q106",
+  "program_category" : "Low-Voltage Electrical Systems",
+  "school" : "P.S. 106",
+  "district" : "27",
+  "borough" : "Q"
+}
+, {
+  "building_id" : "R061",
+  "program_category" : "Domestic Piping",
+  "school" : "I.S. 61",
+  "district" : "31",
+  "borough" : "R"
+}
+, {
+  "building_id" : "K384",
+  "program_category" : "Auditorium  Upgrade",
+  "school" : "P.S. 384",
+  "district" : "32",
+  "borough" : "K"
+}
+, {
+  "building_id" : "X084",
+  "program_category" : "Air Conditioning Retrofit",
+  "school" : "P.S. 811 (OLD I84)",
+  "district" : "75X",
+  "borough" : "X"
+}
+, {
+  "building_id" : "X155",
+  "program_category" : "Heating Plant Upgrade",
+  "school" : "P.S. 754 (OLD IS155)",
+  "district" : "75X",
+  "borough" : "X"
+}
+, {
+  "building_id" : "K455",
+  "program_category" : "Auditorium  Upgrade",
+  "school" : "BOYS & GIRLS HS",
+  "district" : "78K",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K460",
+  "program_category" : "Auditorium  Upgrade",
+  "school" : "JOHN JAY HS",
+  "district" : "78K",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K500",
+  "program_category" : "Toilets-Students",
+  "school" : "CANARSIE HS",
+  "district" : "78K",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K610",
+  "program_category" : "Domestic Piping",
+  "school" : "AUTOMOTIVE TRADES VOC HS",
+  "district" : "78K",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K625",
+  "program_category" : "Gymnasium Upgrade",
+  "school" : "ROBESON HS COMP&BUS TC (A HML)",
+  "district" : "78K",
+  "borough" : "K"
+}
+, {
+  "building_id" : "K650",
+  "program_category" : "Auditorium  Upgrade",
+  "school" : "HARRY VANARSDALE VOC HS(WHITNEY)",
+  "district" : "78K",
+  "borough" : "K"
+}
+, {
+  "building_id" : "M501",
+  "program_category" : "Toilets-Students",
+  "school" : "ARTHUR SCHOMBURG HS (IS 201)",
+  "district" : "78M",
+  "borough" : "M"
+}
+, {
+  "building_id" : "M520",
+  "program_category" : "Toilets-Students",
+  "school" : "MURRY BERGTRAUM HS (ECF)",
+  "district" : "78M",
+  "borough" : "M"
+}
+, {
+  "building_id" : "Q411",
+  "program_category" : "Athletic Fields",
+  "school" : "BEACH CHANNEL AF",
+  "district" : "78Q",
+  "borough" : "Q"
+}
+, {
+  "building_id" : "Q859",
+  "program_category" : "Exterior Masonry",
+  "school" : "H.S. 859",
+  "district" : "78Q",
+  "borough" : "Q"
+}
+, {
+  "building_id" : "R455",
+  "program_category" : "Emergency Lighting and Fire Safety Retrofits",
+  "school" : "TOTTENVILLE HS",
+  "district" : "78R",
+  "borough" : "R"
+}
+ ]

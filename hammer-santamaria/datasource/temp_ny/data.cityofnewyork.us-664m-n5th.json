@@ -1,0 +1,71 @@
+[ {
+  "_nypd_population_2009" : "82.50%",
+  "gender" : "Male",
+  "_number_of_officers_5" : "240",
+  "_number_of_officers_1" : "341",
+  "_nypd_population_2005" : "82.80%",
+  "_number_of_officers_2" : "313",
+  "_nypd_population_2006" : "82.60%",
+  "_number_of_officers_3" : "269",
+  "_nypd_population_2007" : "82.50%",
+  "_number_of_officers_4" : "204",
+  "_nypd_population_2008" : "82.50%",
+  "_percent_of_subtotal_2" : "90.20%",
+  "_percent_of_subtotal_3" : "90.00%",
+  "_percent_of_subtotal_1" : "92.40%",
+  "_percent_of_subtotal_4" : "93.20%",
+  "_percent_of_subtotal_5" : "87.30%"
+}
+, {
+  "_nypd_population_2009" : "17.50%",
+  "gender" : "Female",
+  "_number_of_officers_5" : "35",
+  "_number_of_officers_1" : "28",
+  "_nypd_population_2005" : "17.20%",
+  "_number_of_officers_2" : "34",
+  "_nypd_population_2006" : "17.40%",
+  "_number_of_officers_3" : "30",
+  "_nypd_population_2007" : "17.50%",
+  "_number_of_officers_4" : "15",
+  "_nypd_population_2008" : "17.50%",
+  "_percent_of_subtotal_2" : "9.80%",
+  "_percent_of_subtotal_3" : "10.00%",
+  "_percent_of_subtotal_1" : "7.60%",
+  "_percent_of_subtotal_4" : "6.80%",
+  "_percent_of_subtotal_5" : "12.70%"
+}
+, {
+  "_nypd_population_2009" : "100.00%",
+  "gender" : "Subtotal",
+  "_number_of_officers_5" : "275",
+  "_number_of_officers_1" : "369",
+  "_nypd_population_2005" : "100.00%",
+  "_number_of_officers_2" : "347",
+  "_nypd_population_2006" : "100.00%",
+  "_number_of_officers_3" : "299",
+  "_nypd_population_2007" : "100.00%",
+  "_number_of_officers_4" : "219",
+  "_nypd_population_2008" : "100.00%",
+  "_percent_of_subtotal_2" : "100.00%",
+  "_percent_of_subtotal_3" : "100.00%",
+  "_percent_of_subtotal_1" : "100.00%",
+  "_percent_of_subtotal_4" : "100.00%",
+  "_percent_of_subtotal_5" : "100.00%"
+}
+, {
+  "gender" : "Unknown",
+  "_number_of_officers_5" : "1",
+  "_number_of_officers_1" : "2",
+  "_number_of_officers_2" : "0",
+  "_number_of_officers_3" : "1",
+  "_number_of_officers_4" : "0"
+}
+, {
+  "gender" : "Total",
+  "_number_of_officers_5" : "276",
+  "_number_of_officers_1" : "371",
+  "_number_of_officers_2" : "347",
+  "_number_of_officers_3" : "300",
+  "_number_of_officers_4" : "219"
+}
+ ]

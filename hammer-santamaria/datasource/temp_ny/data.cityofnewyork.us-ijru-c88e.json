@@ -1,0 +1,81 @@
+[ {
+  "maximum_flow_rate_gpm" : "3.25",
+  "cost" : "7.96",
+  "maximum_flow_p_s_i" : "52",
+  "model" : "E-Z Squeeze",
+  "minimum_flow_rate_gpm" : "1.00",
+  "minimum_flow_p_s_i" : "52",
+  "spray_patterns_available" : "Adjustable Flow Control ",
+  "manufacturer" : "Nelson"
+}
+, {
+  "maximum_flow_rate_gpm" : "5.00",
+  "cost" : "5.97",
+  "maximum_flow_p_s_i" : "52",
+  "model" : "Metal Sprayer",
+  "minimum_flow_rate_gpm" : "0.40",
+  "minimum_flow_p_s_i" : "52",
+  "spray_patterns_available" : "Four  Patterns ",
+  "manufacturer" : "Nelson"
+}
+, {
+  "maximum_flow_rate_gpm" : "3.50",
+  "cost" : "5.99",
+  "maximum_flow_p_s_i" : "52",
+  "model" : "Plastic - Flow Control Pistol Nozzle",
+  "minimum_flow_rate_gpm" : "1.50",
+  "minimum_flow_p_s_i" : "52",
+  "spray_patterns_available" : "Adjustable Spray Pattern",
+  "manufacturer" : "Nelson"
+}
+, {
+  "maximum_flow_rate_gpm" : "3.00",
+  "cost" : "6.00",
+  "maximum_flow_p_s_i" : "52",
+  "model" : "Plastic Spray Nozzle",
+  "minimum_flow_rate_gpm" : "0.28",
+  "minimum_flow_p_s_i" : "52",
+  "spray_patterns_available" : "Six  settings ",
+  "manufacturer" : "Niagara"
+}
+, {
+  "maximum_flow_rate_gpm" : "4.50",
+  "cost" : "6.97",
+  "maximum_flow_p_s_i" : "52",
+  "model" : "Metal - 7 Pattern Turret  Pistol Nozzle ",
+  "minimum_flow_rate_gpm" : "0.18",
+  "minimum_flow_p_s_i" : "52",
+  "spray_patterns_available" : "Seven Patterns",
+  "manufacturer" : "Orbit"
+}
+, {
+  "maximum_flow_rate_gpm" : "5.00",
+  "cost" : "3.29",
+  "maximum_flow_p_s_i" : "52",
+  "model" : "Pistol Grip Metal",
+  "minimum_flow_rate_gpm" : "0.40",
+  "minimum_flow_p_s_i" : "52",
+  "spray_patterns_available" : "Fine Mist to Heavy Stream",
+  "manufacturer" : "Orbit"
+}
+, {
+  "maximum_flow_rate_gpm" : "5.00",
+  "cost" : "4.97",
+  "maximum_flow_p_s_i" : "52",
+  "model" : "Zinc -Sprayer w/ Grip ",
+  "minimum_flow_rate_gpm" : "1.00",
+  "minimum_flow_p_s_i" : "52",
+  "spray_patterns_available" : "Fine Mist to Heavy Stream ",
+  "manufacturer" : "Orbit"
+}
+, {
+  "maximum_flow_rate_gpm" : "4.00",
+  "cost" : "5.99",
+  "maximum_flow_p_s_i" : "52",
+  "model" : "Set & Forget",
+  "minimum_flow_rate_gpm" : "1.00",
+  "minimum_flow_p_s_i" : "52",
+  "spray_patterns_available" : "Three Patterns",
+  "manufacturer" : "Rain Bird"
+}
+ ]
