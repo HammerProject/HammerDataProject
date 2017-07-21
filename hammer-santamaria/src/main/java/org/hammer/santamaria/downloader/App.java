@@ -40,7 +40,7 @@ public class App {
     			if(doc.containsField("api-link")) {
     				System.out.print(c + "/" + docs.size() + " - " + doc.get("api-link").toString());
     				count_record += GetFromUrl("datasource/temp_ny/" + doc.get("_id").toString() + ".json", doc.get("api-link").toString());
-    				System.out.println(" ---> ok");
+    				System.out.println(" ---> ok (" + count_record + ")");
     				
     			}
     			c++;
