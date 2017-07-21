@@ -5,31 +5,25 @@
 // mauro.pelucchi@gmail.com
 //
 // 
-// Participatory Budgeting Projects (year 2017 and category housing)
+// Citywide Payroll Data (Fiscal Year)
 // 
 //
 
 {
   "select": [
-      { "column": { "instance": "projects", "label":"title"}},
-      { "column": { "instance": "projects", "label":"description"}},
-      { "column": { "instance": "projects", "label":"cost"}},
-      { "column": { "instance": "projects", "label":"location"}}
+      { "column": { "instance": "payroll", "label":"title"}},
+      { "column": { "instance": "payroll", "label":"fiscalyear"}},
+      { "column": { "instance": "payroll", "label":"basesalary"}},
+      { "column": { "instance": "payroll", "label":"regularhour"}}
   ],
   "from": [
-    "projects"
+    "payroll"
   ],
   "where": [{"condition": {
-      "instance1": "projects",
-      "label1": "year",
+      "instance1": "payroll",
+      "label1": "fiscalyear",
       "operator": "eq",
-      "value": "2017",
-      "logicalOperator": "and"
-    }}, {"condition": {
-      "instance1": "projects",
-      "label1": "category",
-      "operator": "eq",
-      "value": "Housing",
+      "value": "2016",
       "logicalOperator": "and"
     }}
   ]

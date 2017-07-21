@@ -23,13 +23,17 @@ bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.95 true 5 
 
 
 
-## query execution
+## query execution 4 test
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/4_wn.json local search keywords 0.3 0.3 0.90 3 dataset_ny index_ny 10
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/4_wn.json local search keywords 0.3 0.3 0.80 3 dataset_ny index_ny 10
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/4_wn.json local search keywords 0.2 0.2 0.90 3 dataset_ny index_ny 10
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/4_wn.json local search keywords 0.2 0.2 0.80 3 dataset_ny index_ny 10
 
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/2_wn.json local search keywords 0.3 0.3 0.90 3 dataset_ny index_ny 10
+## query execution 3 test
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/3_wn.json local search keywords 0.3 0.3 0.90 3 dataset_ny index_ny 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/3_wn.json local search keywords 0.3 0.3 0.80 3 dataset_ny index_ny 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/3_wn.json local search keywords 0.2 0.2 0.90 3 dataset_ny index_ny 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/3_wn.json local search keywords 0.2 0.2 0.80 3 dataset_ny index_ny 10
 
 
 
