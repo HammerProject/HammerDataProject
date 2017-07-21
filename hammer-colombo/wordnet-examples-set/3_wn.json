@@ -11,19 +11,26 @@
 
 {
   "select": [
-      { "column": { "instance": "payroll", "label":"title"}},
-      { "column": { "instance": "payroll", "label":"fiscalyear"}},
-      { "column": { "instance": "payroll", "label":"basesalary"}},
-      { "column": { "instance": "payroll", "label":"regularhour"}}
+      { "column": { "instance": "payrolls", "label":"title"}},
+      { "column": { "instance": "payrolls", "label":"agencyname"}},
+      { "column": { "instance": "payrolls", "label":"fiscalyear"}},
+      { "column": { "instance": "payrolls", "label":"basesalary"}},
+      { "column": { "instance": "payrolls", "label":"regularhour"}}
   ],
   "from": [
-    "payroll"
+    "payrolls"
   ],
   "where": [{"condition": {
-      "instance1": "payroll",
+      "instance1": "payrolls",
       "label1": "fiscalyear",
       "operator": "eq",
       "value": "2016",
+      "logicalOperator": "and"
+    }},{"condition": {
+      "instance1": "payrolls",
+      "label1": "worklocationborought",
+      "operator": "eq",
+      "value": "BRONX",
       "logicalOperator": "and"
     }}
   ]
