@@ -5,8 +5,8 @@
 // mauro.pelucchi@gmail.com
 //
 // 
-// NYC Parks Monuments new installation
-// 
+// NYC Parks Monuments
+// by Frederic Auguste Bartholdi
 //
 
 {
@@ -14,16 +14,20 @@
       { "column": { "instance": "monuments", "label":"name"}},
       { "column": { "instance": "monuments", "label":"park"}},
       { "column": { "instance": "monuments", "label":"location"}},
-      { "column": { "instance": "monuments", "label":"dedicated"}}
+      { "column": { "instance": "monuments", "label":"dedicated"}},
+      { "column": { "instance": "monuments", "label":"sculptor"}},
+      { "column": { "instance": "monuments", "label":"architect"}}
+      
+      
   ],
   "from": [
     "monuments"
   ],
   "where": [{"condition": {
       "instance1": "monuments",
-      "label1": "installation",
-      "operator": "gt",
-      "value": "2010/01/01",
+      "label1": "sculptor",
+      "operator": "eq",
+      "value": "Frederic Auguste Bartholdi",
       "logicalOperator": "or"
     }}
   ]

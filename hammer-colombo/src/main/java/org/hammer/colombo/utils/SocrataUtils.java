@@ -135,10 +135,10 @@ public class SocrataUtils {
 		client.getHttpConnectionManager().getParams().setConnectionTimeout(3000);
 		client.getHttpConnectionManager().getParams().setSoTimeout(2000);
 
-		String socrataQuery = CreateWhereCondition(conf, id);
+		//String socrataQuery = CreateWhereCondition(conf, id);
 
 		long count = 0;
-		String urlStr = url + "?$select=count(*)$where=" + EncodeURIComponent(socrataQuery);
+		String urlStr = url + "?$select=count(*)"; //$where=" + EncodeURIComponent(socrataQuery);
 		//SaveData(conf, id, urlStr, socrataQuery);
 
 		GetMethod method = new GetMethod(urlStr);
@@ -239,7 +239,7 @@ public class SocrataUtils {
 		BasicBSONList pList = new BasicBSONList();
 		String socrataQuery = CreateWhereCondition(conf, id);
 
-		String urlStr = url + "?$offset=" + offset + "&$limit=" + limit + "&$where=" + EncodeURIComponent(socrataQuery);
+		String urlStr = url + "?$offset=" + offset + "&$limit=" + limit; // + "&$where=" + EncodeURIComponent(socrataQuery);
 		SaveData(conf, id, urlStr, socrataQuery);
 
 		if (socrataQuery.length() == 0) {

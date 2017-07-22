@@ -5,31 +5,32 @@
 // mauro.pelucchi@gmail.com
 //
 // 
-// NYC City Hall Library Publications for Health and Budget
 // 
+// Water Consumption In The New York City
 //
 
 {
   "select": [
-      { "column": { "instance": "publications", "label":"publication"}},
-      { "column": { "instance": "publications", "label":"category"}},
-      { "column": { "instance": "publications", "label":"url"}}
+      { "column": { "instance": "water", "label":"year"}},
+      { "column": { "instance": "water", "label":"population"}},
+      { "column": { "instance": "water", "label":"consumption"}},
+      { "column": { "instance": "water", "label":"percapita"}}
   ],
   "from": [
-    "publications"
+    "water"
   ],
   "where": [{"condition": {
-      "instance1": "publications",
-      "label1": "category",
+      "instance1": "water",
+      "label1": "year",
       "operator": "eq",
-      "value": "Health",
+      "value": "2015",
       "logicalOperator": "or"
     }}, {"condition": {
-      "instance1": "publications",
-      "label1": "category",
+      "instance1": "water",
+      "label1": "year",
       "operator": "eq",
-      "value": "Budget",
-      "logicalOperator": "and"
+      "value": "2016",
+      "logicalOperator": "or"
     }}
   ]
 }

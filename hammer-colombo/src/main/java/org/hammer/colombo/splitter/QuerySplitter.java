@@ -150,14 +150,22 @@ public class QuerySplitter extends MongoSplitter {
 		StringTokenizer st = new StringTokenizer(keywords, ";");
 		while (st.hasMoreElements()) {
 			String key = st.nextToken().trim().toLowerCase();
-
+			
+			
+			
 			// add synset by jaro winkler
 			Map<String, Term> tempList = new HashMap<String, Term>();
+			
+			Term point = new Term();
+			point.setTerm(key.toLowerCase());
+			point.setWeigth(1.0d);
+			tempList.put(key.toLowerCase(), point);
+			
 			for (String s : kwIndex.keySet()) {
 				double sim = JaroWinkler.Apply(key, s.toLowerCase());
 				// set the degree threshold to custom value
 				if (sim > thSim) {
-					Term point = new Term();
+					point = new Term();
 					point.setTerm(s.toLowerCase());
 					point.setWeigth(sim);
 					tempList.put(s.toLowerCase(), point);
@@ -185,7 +193,7 @@ public class QuerySplitter extends MongoSplitter {
 				}
 
 				if (!tempList.containsKey(selected.toLowerCase())) {
-					Term point = new Term();
+					point = new Term();
 					point.setTerm(selected.toLowerCase());
 					point.setWeigth(max_sim);
 					tempList.put(selected.toLowerCase(), point);
