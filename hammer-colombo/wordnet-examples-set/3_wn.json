@@ -5,33 +5,37 @@
 // mauro.pelucchi@gmail.com
 //
 // 
-// Citywide Payroll Data (Fiscal Year)
+// Quality Of Life Indicators
 // 
 //
 
 {
   "select": [
-      { "column": { "instance": "payrolls", "label":"title"}},
-      { "column": { "instance": "payrolls", "label":"agencyname"}},
-      { "column": { "instance": "payrolls", "label":"fiscalyear"}},
-      { "column": { "instance": "payrolls", "label":"basesalary"}},
-      { "column": { "instance": "payrolls", "label":"regularhour"}}
+      { "column": { "instance": "performance", "label":"indicator"}},
+      { "column": { "instance": "performance", "label":"month"}},
+      { "column": { "instance": "performance", "label":"report"}}
   ],
   "from": [
-    "payrolls"
+    "performance"
   ],
   "where": [{"condition": {
-      "instance1": "payrolls",
-      "label1": "fiscalyear",
+      "instance1": "performance",
+      "label1": "indicator",
       "operator": "eq",
-      "value": "2016",
-      "logicalOperator": "and"
+      "value": "Public Contacts",
+      "logicalOperator": "or"
     }},{"condition": {
-      "instance1": "payrolls",
-      "label1": "worklocationborought",
+      "instance1": "performance",
+      "label1": "indicator",
       "operator": "eq",
-      "value": "BRONX",
-      "logicalOperator": "and"
+      "value": "Daily Average - Crimes Against Person",
+      "logicalOperator": "or"
+    }},{"condition": {
+      "instance1": "performance",
+      "label1": "indicator",
+      "operator": "eq",
+      "value": "Daily Average - Crimes Against Property",
+      "logicalOperator": "or"
     }}
   ]
 }
