@@ -172,7 +172,7 @@ public class ColomboOutputCommiter extends OutputCommitter {
 				@SuppressWarnings("unchecked")
 				ArrayList<Document> dbSynSet = (ArrayList<Document>) obj.get("syn-set");
 				ArrayList<String> mySynSet = new ArrayList<String>();
-				if (mySynSet != null) {
+				if (dbSynSet != null) {
 					for(Document o: dbSynSet) {
 						mySynSet.add((o.get("term") + "").toLowerCase());
 					}
@@ -284,11 +284,26 @@ public class ColomboOutputCommiter extends OutputCommitter {
 		//
 		boolean check = true;
 		int c = 0;
+		List <String> andColumn = new ArrayList<String>();
 		for (Edge en : q.getQueryCondition()) {
 			for (Node ch : en.getChild()) {
 
 				if ((ch instanceof ValueNode) && en.getCondition().equals("and")) {
 					c++;
+					// calc the best similarity column
+					double maxSim = 0.0d;
+					String myColumn = "";
+					for (String column : bo.keySet()) {
+						boolean syn = checkSynset(en.getName().toLowerCase(), column.toLowerCase(), conf);
+						double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
+						if((sim >= maxSim) || syn) {
+							myColumn = column;
+							maxSim = sim;
+						}
+						
+						
+					}
+					andColumn.add(myColumn);
 				}
 			}
 		}
@@ -300,11 +315,11 @@ public class ColomboOutputCommiter extends OutputCommitter {
 			for (Node ch : en.getChild()) {
 
 				if ((ch instanceof ValueNode) && en.getCondition().equals("and")) {
-					for (String column : bo.keySet()) {
+					for (String column : andColumn) {
 
 						boolean syn = checkSynset(en.getName().toLowerCase(), column.toLowerCase(), conf);
 						double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
-						String value = bo.getString(column);
+						String value = bo.getString(column).toLowerCase();
 
 						LOG.info(en.getName().toLowerCase() + " -- " + column.toLowerCase());
 						LOG.info(ch.getName().toLowerCase() + " -- " + value);
@@ -314,11 +329,11 @@ public class ColomboOutputCommiter extends OutputCommitter {
 							LOG.info("ok sim --> " + sim);
 							LOG.info("ok syn --> " + syn);
 							
-							c--;
+							//c--;
 							double simV = JaroWinkler.Apply(ch.getName().toLowerCase(), value.toLowerCase());
 							LOG.info("check  --> " + simV);
 							if (en.getOperator().equals("eq") && !ch.getName().toLowerCase().equals(value)
-									&& (simV < thSim)) {
+									&& (simV > thSim)) {
 								check = false;
 							} else if (en.getOperator().equals("gt")) {
 								if (ch.getName().toLowerCase().compareTo(value) <= 0) {
@@ -348,6 +363,9 @@ public class ColomboOutputCommiter extends OutputCommitter {
 			}
 		}
 
+		LOG.info("------------------------------------> check and condition " + c + " - " + check + " - " + (c == 0 || check));
+
+		
 		return (c == 0 || check) /* && (orCheck || orCount == 0)) */ ;
 
 	}

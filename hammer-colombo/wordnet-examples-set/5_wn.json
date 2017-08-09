@@ -1,0 +1,31 @@
+//
+// NYC Health and Hospitals Corporation (HHC) Facilities
+//
+
+{
+  "select": [
+      { "column": { "instance": "healthcare", "label":"facility_type"}},
+      { "column": { "instance": "healthcare", "label":"borough"}},
+      { "column": { "instance": "healthcare", "label":"faciltity_name"}},
+      { "column": { "instance": "healthcare", "label":"location"}},
+      { "column": { "instance": "healthcare", "label":"phone"}}
+  ],
+  "from": [
+    "healthcare"
+  ],
+  "where": [{"condition": {
+      "instance1": "healthcare",
+      "label1": "facility_type",
+      "operator": "eq",
+      "value": "Child Health",
+      "logicalOperator": "and"
+    }}, {"condition": {
+      "instance1": "healthcare",
+      "label1": "borough",
+      "operator": "eq",
+      "value": "Bronx",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
