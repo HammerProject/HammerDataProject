@@ -331,9 +331,9 @@ public class ColomboOutputCommiter extends OutputCommitter {
 							
 							//c--;
 							double simV = JaroWinkler.Apply(ch.getName().toLowerCase(), value.toLowerCase());
-							LOG.info("check  --> " + simV);
+							LOG.info("check  --> " + simV + (simV < thSim));
 							if (en.getOperator().equals("eq") && !ch.getName().toLowerCase().equals(value)
-									&& (simV > thSim)) {
+									&& (simV < thSim)) {
 								check = false;
 							} else if (en.getOperator().equals("gt")) {
 								if (ch.getName().toLowerCase().compareTo(value) <= 0) {
