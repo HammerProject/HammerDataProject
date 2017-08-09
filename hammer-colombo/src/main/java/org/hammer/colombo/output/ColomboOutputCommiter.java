@@ -351,11 +351,14 @@ public class ColomboOutputCommiter extends OutputCommitter {
 								if (ch.getName().toLowerCase().compareTo(value) > 0) {
 									check = false;
 								}
-							} else if (en.getName().equals(column)) {
+							} /*else if (en.getName().equals(column)) {
 								if (ch.getName().toLowerCase().compareTo(value) != 0) {
 									check = false;
 								}
-							}
+							}*/
+							
+							LOG.info("check status  --> " + check);
+							LOG.info("*************************************************");
 						}
 					}
 
