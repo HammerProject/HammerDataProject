@@ -2,7 +2,9 @@ package org.hammer.colombo.reducer;
 
 import java.io.IOException;
 import java.io.StringReader;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -58,7 +60,7 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 		super.setup(context);
 		LOG.info("SETUP REDUCE2 - Hammer Colombo Project");
 		this.conf = context.getConfiguration();
-		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex(conf);		  		
+		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex(conf);
 		thSim = Precision.round(Double.parseDouble(conf.get("thSim")), 2);
 		Isabella parser = new Isabella(new StringReader(conf.get("query-string")));
 		try {
@@ -107,15 +109,15 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 			// download output doesn't sent record to commiter and record writer
 		} else {
 			//
-			//key = column-value --> pKey
-			//value = the record --> pValues
+			// key = column-value --> pKey
+			// value = the record --> pValues
 			// so
-			// if key match the where condition we take the record		
+			// if key match the where condition we take the record
 			// else we doesn't store the record
 
 			LOG.info("---------------------------------------------------");
-			StringTokenizer st = new StringTokenizer(pKey.toString(), "|");		
-			String column = st.nextToken().toLowerCase();		
+			StringTokenizer st = new StringTokenizer(pKey.toString(), "|");
+			String column = st.nextToken().toLowerCase();
 			String value = st.nextToken().toLowerCase();
 			long size = 0;
 			long totalRecord = 0;
@@ -129,61 +131,86 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 				LOG.info("------------------------------------");
 				for (Node ch : en.getChild()) {
 
-					
-
 					if ((ch instanceof ValueNode) && en.getCondition().equals("or")) {
-							orCount++;
-							
-							LOG.info(en.getName().toLowerCase() + " -- " + column.toLowerCase());
-							LOG.info(ch.getName().toLowerCase() + " -- " + value);
-							
-							boolean syn = checkSynset(en.getName().toLowerCase(), column.toLowerCase(), conf);
-							double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
+						orCount++;
 
-							LOG.info("test " + sim + ">=" + thSim + " -- syn: " + syn);
-							if ((sim >= thSim)||(syn)) {
-								LOG.info("ok sim --> " + sim);
-								LOG.info("ok syn --> " + syn);
+						LOG.info(en.getName().toLowerCase() + " -- " + column.toLowerCase());
+						LOG.info(ch.getName().toLowerCase() + " -- " + value);
 
-								LOG.info("check  --> " + ch.getName().toLowerCase().compareTo(value));
-								double simV = JaroWinkler.Apply(ch.getName().toLowerCase(), value.toLowerCase());
-								LOG.info("check  --> " + simV);
-								if (en.getOperator().equals("eq")
-										&& (ch.getName().toLowerCase().equals(value) || (simV >= thSim))) {
+						boolean syn = checkSynset(en.getName().toLowerCase(), column.toLowerCase(), conf);
+						double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
+
+						LOG.info("test " + sim + ">=" + thSim + " -- syn: " + syn);
+						if ((sim >= thSim) || (syn)) {
+							LOG.info("ok sim --> " + sim);
+							LOG.info("ok syn --> " + syn);
+
+							LOG.info("check  --> " + ch.getName().toLowerCase().compareTo(value));
+							double simV = JaroWinkler.Apply(ch.getName().toLowerCase(), value.toLowerCase());
+							LOG.info("check  --> " + simV);
+							if (column.toLowerCase().contains("date")) {
+								// it's a date
+								try {
+									SimpleDateFormat formatDate = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss");
+									Date dx = formatDate.parse(value.toLowerCase());
+									Date sx = formatDate.parse(ch.getName().toLowerCase());
+
+									if (en.getOperator().equals("eq") && sx.equals(dx)) {
+										orCheck = true;
+									} else if (en.getOperator().equals("gt")) {
+										if (sx.compareTo(dx) > 0) {
+											orCheck = true;
+										}
+									} else if (en.getOperator().equals("lt")) {
+										if (sx.compareTo(dx) < 0) {
+											orCheck = true;
+										}
+									} else if (en.getOperator().equals("ge")) {
+										if (sx.compareTo(dx) >= 0) {
+											orCheck = true;
+										}
+									} else if (en.getOperator().equals("le")) {
+										if (sx.compareTo(dx) <= 0) {
+											orCheck = true;
+										}
+									}
+								} catch (Exception ex) {
+									LOG.error(ex);
+								}
+
+							} else if (en.getOperator().equals("eq")
+									&& (ch.getName().toLowerCase().equals(value) || (simV >= thSim))) {
+								orCheck = true;
+							} else if (en.getOperator().equals("gt")) {
+								if (ch.getName().toLowerCase().compareTo(value) > 0) {
 									orCheck = true;
-								} else if (en.getOperator().equals("gt")) {
-									if (ch.getName().toLowerCase().compareTo(value) > 0) {
-										orCheck = true;
-									}
-								} else if (en.getOperator().equals("lt")) {
-									if (ch.getName().toLowerCase().compareTo(value) < 0) {
-										orCheck = true;
-									}
-								} else if (en.getOperator().equals("ge")) {
-									if (ch.getName().toLowerCase().compareTo(value) >= 0) {
-										orCheck = true;
-									}
-								} else if (en.getOperator().equals("le")) {
-									if (ch.getName().toLowerCase().compareTo(value) <= 0) {
-										orCheck = true;
-									}
-								} else if (en.getName().equals(column)) {
-									if (ch.getName().toLowerCase().compareTo(value) == 0) {
-										orCheck = true;
-									}
+								}
+							} else if (en.getOperator().equals("lt")) {
+								if (ch.getName().toLowerCase().compareTo(value) < 0) {
+									orCheck = true;
+								}
+							} else if (en.getOperator().equals("ge")) {
+								if (ch.getName().toLowerCase().compareTo(value) >= 0) {
+									orCheck = true;
+								}
+							} else if (en.getOperator().equals("le")) {
+								if (ch.getName().toLowerCase().compareTo(value) <= 0) {
+									orCheck = true;
+								}
+							} else if (en.getName().equals(column)) {
+								if (ch.getName().toLowerCase().compareTo(value) == 0) {
+									orCheck = true;
 								}
 							}
+						}
 
-						
 					}
 
 				}
 			}
 
-			
-			
 			for (final BSONWritable record : pValues) {
-				if(orCheck || (orCount == 0)) {
+				if (orCheck || (orCount == 0)) {
 					pContext.write(new Text(record.hashCode() + ""), record);
 					selectedRecord++;
 					size += record.getDoc().toString().length();
@@ -206,26 +233,27 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 		}
 
 	}
-	
-	
+
 	private Map<String, List<String>> synset = new HashMap<String, List<String>>();
-	
+
 	/**
 	 * Verify if field is in synset of column
 	 * 
-	 * @param column the column
-	 * @param field the field
-	 * @param conf the configuration for access hadoop
+	 * @param column
+	 *            the column
+	 * @param field
+	 *            the field
+	 * @param conf
+	 *            the configuration for access hadoop
 	 * @return true or false
 	 */
 	private boolean checkSynset(String column, String field, Configuration conf) {
-		
-		if(synset.containsKey(column)) {
+
+		if (synset.containsKey(column)) {
 			List<String> mySynSet = synset.get(column.toLowerCase());
 			return mySynSet.contains(field.toLowerCase());
 		}
-		
-		
+
 		boolean check = false;
 		MongoClient mongo = null;
 		MongoDatabase db = null;
@@ -242,21 +270,19 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 				ArrayList<Document> dbSynSet = (ArrayList<Document>) obj.get("syn-set");
 				ArrayList<String> mySynSet = new ArrayList<String>();
 				if (mySynSet != null) {
-					for(Document o: dbSynSet) {
+					for (Document o : dbSynSet) {
 						mySynSet.add((o.get("term") + "").toLowerCase());
 					}
 				}
 				synset.put(column.toLowerCase(), mySynSet);
-				
-				
+
 			}
-			
-			
-			if(synset.containsKey(column)) {
+
+			if (synset.containsKey(column)) {
 				List<String> mySynSet = synset.get(column.toLowerCase());
 				check = mySynSet.contains(field.toLowerCase());
 			}
-			
+
 		} catch (Exception ex) {
 			LOG.error(ex);
 			ex.printStackTrace();
@@ -266,10 +292,8 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 				mongo.close();
 			}
 		}
-		
+
 		return check;
 	}
-	
 
-	
 }

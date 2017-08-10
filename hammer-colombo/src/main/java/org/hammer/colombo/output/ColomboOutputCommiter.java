@@ -2,7 +2,9 @@ package org.hammer.colombo.output;
 
 import java.io.IOException;
 import java.io.StringReader;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -139,24 +141,25 @@ public class ColomboOutputCommiter extends OutputCommitter {
 	}
 
 	private Map<String, List<String>> synset = new HashMap<String, List<String>>();
-	
-	
+
 	/**
 	 * Verify if field is in synset of column
 	 * 
-	 * @param column the column
-	 * @param field the field
-	 * @param conf the configuration for access hadoop
+	 * @param column
+	 *            the column
+	 * @param field
+	 *            the field
+	 * @param conf
+	 *            the configuration for access hadoop
 	 * @return true or false
 	 */
 	private boolean checkSynset(String column, String field, Configuration conf) {
-		
-		if(synset.containsKey(column)) {
+
+		if (synset.containsKey(column)) {
 			List<String> mySynSet = synset.get(column.toLowerCase());
 			return mySynSet.contains(field.toLowerCase());
 		}
-		
-		
+
 		boolean check = false;
 		MongoClient mongo = null;
 		MongoDatabase db = null;
@@ -173,21 +176,19 @@ public class ColomboOutputCommiter extends OutputCommitter {
 				ArrayList<Document> dbSynSet = (ArrayList<Document>) obj.get("syn-set");
 				ArrayList<String> mySynSet = new ArrayList<String>();
 				if (dbSynSet != null) {
-					for(Document o: dbSynSet) {
+					for (Document o : dbSynSet) {
 						mySynSet.add((o.get("term") + "").toLowerCase());
 					}
 				}
 				synset.put(column.toLowerCase(), mySynSet);
-				
-				
+
 			}
-			
-			
-			if(synset.containsKey(column)) {
+
+			if (synset.containsKey(column)) {
 				List<String> mySynSet = synset.get(column.toLowerCase());
 				check = mySynSet.contains(field.toLowerCase());
 			}
-			
+
 		} catch (Exception ex) {
 			LOG.error(ex);
 			ex.printStackTrace();
@@ -197,10 +198,10 @@ public class ColomboOutputCommiter extends OutputCommitter {
 				mongo.close();
 			}
 		}
-		
+
 		return check;
 	}
-	
+
 	/**
 	 * Apply where condition
 	 * 
@@ -212,79 +213,63 @@ public class ColomboOutputCommiter extends OutputCommitter {
 		// check OR condition
 		//
 		/*
-		 
-		boolean orCheck = false;
-		int orCount = 0;
-		for (Edge en : q.getQueryCondition()) {
-			LOG.info(en.getCondition());
-			LOG.info(en.getOperator());
-			LOG.info("------------------------------------");
-			for (Node ch : en.getChild()) {
+		 * 
+		 * boolean orCheck = false; int orCount = 0; for (Edge en :
+		 * q.getQueryCondition()) { LOG.info(en.getCondition());
+		 * LOG.info(en.getOperator());
+		 * LOG.info("------------------------------------"); for (Node ch :
+		 * en.getChild()) {
+		 * 
+		 * 
+		 * 
+		 * if ((ch instanceof ValueNode) && en.getCondition().equals("or")) {
+		 * orCount ++;
+		 * 
+		 * for (String column : bo.keySet()) { String value =
+		 * bo.getString(column);
+		 * 
+		 * LOG.info(en.getName().toLowerCase() + " -- " + column.toLowerCase());
+		 * LOG.info(ch.getName().toLowerCase() + " -- " + value);
+		 * 
+		 * boolean syn = checkSynset(en.getName().toLowerCase(),
+		 * column.toLowerCase(), conf); double sim =
+		 * JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
+		 * 
+		 * LOG.info("test " + sim + ">=" + thSim + " -- syn: " + syn); if ((sim
+		 * >= thSim)||(syn)) { LOG.info("ok sim --> " + sim); LOG.info(
+		 * "ok syn --> " + syn);
+		 * 
+		 * LOG.info("check  --> " +
+		 * ch.getName().toLowerCase().compareTo(value)); double simV =
+		 * JaroWinkler.Apply(ch.getName().toLowerCase(), value.toLowerCase());
+		 * LOG.info("check  --> " + simV); if (en.getOperator().equals("eq") &&
+		 * (ch.getName().toLowerCase().equals(value) || (simV >= thSim))) {
+		 * orCheck = true; } else if (en.getOperator().equals("gt")) { if
+		 * (ch.getName().toLowerCase().compareTo(value) > 0) { orCheck = true; }
+		 * } else if (en.getOperator().equals("lt")) { if
+		 * (ch.getName().toLowerCase().compareTo(value) < 0) { orCheck = true; }
+		 * } else if (en.getOperator().equals("ge")) { if
+		 * (ch.getName().toLowerCase().compareTo(value) >= 0) { orCheck = true;
+		 * } } else if (en.getOperator().equals("le")) { if
+		 * (ch.getName().toLowerCase().compareTo(value) <= 0) { orCheck = true;
+		 * } } else if (en.getName().equals(column)) { if
+		 * (ch.getName().toLowerCase().compareTo(value) == 0) { orCheck = true;
+		 * } } }
+		 * 
+		 * } }
+		 * 
+		 * } }
+		 * 
+		 * LOG.info("---> " + orCheck);
+		 * 
+		 */
 
-				
-
-				if ((ch instanceof ValueNode) && en.getCondition().equals("or")) {
-					orCount ++;
-					
-					for (String column : bo.keySet()) {
-						String value = bo.getString(column);
-						
-						LOG.info(en.getName().toLowerCase() + " -- " + column.toLowerCase());
-						LOG.info(ch.getName().toLowerCase() + " -- " + value);
-						
-						boolean syn = checkSynset(en.getName().toLowerCase(), column.toLowerCase(), conf);
-						double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
-
-						LOG.info("test " + sim + ">=" + thSim + " -- syn: " + syn);
-						if ((sim >= thSim)||(syn)) {
-							LOG.info("ok sim --> " + sim);
-							LOG.info("ok syn --> " + syn);
-
-							LOG.info("check  --> " + ch.getName().toLowerCase().compareTo(value));
-							double simV = JaroWinkler.Apply(ch.getName().toLowerCase(), value.toLowerCase());
-							LOG.info("check  --> " + simV);
-							if (en.getOperator().equals("eq")
-									&& (ch.getName().toLowerCase().equals(value) || (simV >= thSim))) {
-								orCheck = true;
-							} else if (en.getOperator().equals("gt")) {
-								if (ch.getName().toLowerCase().compareTo(value) > 0) {
-									orCheck = true;
-								}
-							} else if (en.getOperator().equals("lt")) {
-								if (ch.getName().toLowerCase().compareTo(value) < 0) {
-									orCheck = true;
-								}
-							} else if (en.getOperator().equals("ge")) {
-								if (ch.getName().toLowerCase().compareTo(value) >= 0) {
-									orCheck = true;
-								}
-							} else if (en.getOperator().equals("le")) {
-								if (ch.getName().toLowerCase().compareTo(value) <= 0) {
-									orCheck = true;
-								}
-							} else if (en.getName().equals(column)) {
-								if (ch.getName().toLowerCase().compareTo(value) == 0) {
-									orCheck = true;
-								}
-							}
-						}
-
-					}
-				}
-
-			}
-		}
-
-		LOG.info("---> " + orCheck);
-
-		*/
-		
 		//
 		// check AND condition
 		//
 		boolean check = true;
 		int c = 0;
-		List <String> andColumn = new ArrayList<String>();
+		List<String> andColumn = new ArrayList<String>();
 		for (Edge en : q.getQueryCondition()) {
 			for (Node ch : en.getChild()) {
 
@@ -296,12 +281,11 @@ public class ColomboOutputCommiter extends OutputCommitter {
 					for (String column : bo.keySet()) {
 						boolean syn = checkSynset(en.getName().toLowerCase(), column.toLowerCase(), conf);
 						double sim = JaroWinkler.Apply(en.getName().toLowerCase(), column.toLowerCase());
-						if((sim >= maxSim) || syn) {
+						if ((sim >= maxSim) || syn) {
 							myColumn = column;
 							maxSim = sim;
 						}
-						
-						
+
 					}
 					andColumn.add(myColumn);
 				}
@@ -325,14 +309,46 @@ public class ColomboOutputCommiter extends OutputCommitter {
 						LOG.info(ch.getName().toLowerCase() + " -- " + value);
 
 						LOG.info("test " + sim + ">=" + thSim + " -- syn: " + syn);
-						if ((sim >= thSim)||(syn)) {
+						if ((sim >= thSim) || (syn)) {
 							LOG.info("ok sim --> " + sim);
 							LOG.info("ok syn --> " + syn);
-							
-							//c--;
+
+							// c--;
 							double simV = JaroWinkler.Apply(ch.getName().toLowerCase(), value.toLowerCase());
 							LOG.info("check  --> " + simV + (simV < thSim));
-							if (en.getOperator().equals("eq") && !ch.getName().toLowerCase().equals(value)
+							if (column.toLowerCase().contains("date")) {
+								// it's a date
+								try {
+									LOG.info("---------------> DATE CHECK ");
+									SimpleDateFormat formatDate = new SimpleDateFormat("yyyy-MM-dd't'HH:mm:ss");
+									Date sx = formatDate.parse(value.toLowerCase());
+									Date dx = formatDate.parse(ch.getName().toLowerCase());
+									LOG.info("--> DATE CHECK " + sx + en.getOperator() + dx);
+									LOG.info("--> DATE CHECK " + sx.compareTo(dx));
+									if (en.getOperator().equals("eq") && !sx.equals(dx)) {
+										check = false;
+									} else if (en.getOperator().equals("gt")) {
+										if (sx.compareTo(dx) <= 0) {
+											check = false;
+										}
+									} else if (en.getOperator().equals("lt")) {
+										if (sx.compareTo(dx) >= 0) {
+											check = false;
+										}
+									} else if (en.getOperator().equals("ge")) {
+										if (sx.compareTo(dx) < 0) {
+											check = false;
+										}
+									} else if (en.getOperator().equals("le")) {
+										if (sx.compareTo(dx) > 0) {
+											check = false;
+										}
+									}
+								} catch (Exception ex) {
+									LOG.error(ex);
+								}
+
+							} else if (en.getOperator().equals("eq") && !ch.getName().toLowerCase().equals(value)
 									&& (simV < thSim)) {
 								check = false;
 							} else if (en.getOperator().equals("gt")) {
@@ -351,12 +367,12 @@ public class ColomboOutputCommiter extends OutputCommitter {
 								if (ch.getName().toLowerCase().compareTo(value) > 0) {
 									check = false;
 								}
-							} /*else if (en.getName().equals(column)) {
-								if (ch.getName().toLowerCase().compareTo(value) != 0) {
-									check = false;
-								}
-							}*/
-							
+							} /*
+								 * else if (en.getName().equals(column)) { if
+								 * (ch.getName().toLowerCase().compareTo(value)
+								 * != 0) { check = false; } }
+								 */
+
 							LOG.info("check status  --> " + check);
 							LOG.info("*************************************************");
 						}
@@ -366,9 +382,9 @@ public class ColomboOutputCommiter extends OutputCommitter {
 			}
 		}
 
-		LOG.info("------------------------------------> check and condition " + c + " - " + check + " - " + (c == 0 || check));
+		LOG.info("------------------------------------> check and condition " + c + " - " + check + " - "
+				+ (c == 0 || check));
 
-		
 		return (c == 0 || check) /* && (orCheck || orCount == 0)) */ ;
 
 	}
