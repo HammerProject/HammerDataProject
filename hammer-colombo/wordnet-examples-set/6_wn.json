@@ -1,0 +1,26 @@
+//
+// NYC Daily results from the entry points for orthophosphate, pH, temperature, 
+// conductivity and monthly alkalinity, calcium, lead and copper - Bi annually updated
+//
+
+{
+  "select": [
+      { "column": { "instance": "lcr", "label":"sampledate"}},
+      { "column": { "instance": "lcr", "label":"temperature"}},
+      { "column": { "instance": "lcr", "label":"ph"}},
+      { "column": { "instance": "lcr", "label":"alkalinity"}}
+  ],
+  "from": [
+    "lcr"
+  ],
+  "where": [{"condition": {
+      "instance1": "lcr",
+      "label1": "sampledate",
+      "operator": "gt",
+      "value": "1/1/2016",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+
