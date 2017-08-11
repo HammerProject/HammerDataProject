@@ -59,6 +59,12 @@ bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/te
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/6_wn.json local search keywords 0.2 0.2 0.90 3 dataset_ny index_ny 10
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/6_wn.json local search keywords 0.2 0.2 0.80 3 dataset_ny index_ny 10
 
+## query execution 7 test
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/7_wn.json local search keywords 0.3 0.3 0.90 3 dataset_ny index_ny 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/7_wn.json local search keywords 0.3 0.3 0.80 3 dataset_ny index_ny 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/7_wn.json local search keywords 0.2 0.2 0.90 3 dataset_ny index_ny 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/7_wn.json local search keywords 0.2 0.2 0.80 3 dataset_ny index_ny 10
+
 
 
 ##export table

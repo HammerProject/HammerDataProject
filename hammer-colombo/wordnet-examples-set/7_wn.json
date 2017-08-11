@@ -1,0 +1,27 @@
+//
+// Leaks and Their Cost Fact Sheet (faucets)
+//
+
+{
+  "select": [
+      { "column": { "instance": "leaks", "label":"leaking_fixture"}},
+      { "column": { "instance": "leaks", "label":"leak_type"}},
+      { "column": { "instance": "leaks", "label":"water_wasted"}},
+      { "column": { "instance": "leaks", "label":"total_cost"}},
+      { "column": { "instance": "leaks", "label":"location"}}
+  ],
+  "from": [
+    "leaks"
+  ],
+  "where": [{"condition": {
+      "instance1": "leaks",
+      "label1": "leakingfixture",
+      "operator": "eq",
+      "value": "faucets",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+
+
+
