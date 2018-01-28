@@ -77,7 +77,7 @@ bin/hadoop fs -du -s /hammer/download
 bin/hadoop fs -rm -r /hammer/download
 
 ## create download folder
-bin/hadoop fs -mkdir /hammer/download
+bin/hadoop fs -mkdir /hammer/word2vec_hammer_ny
 
 
 

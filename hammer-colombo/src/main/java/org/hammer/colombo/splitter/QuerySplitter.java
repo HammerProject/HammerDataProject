@@ -12,6 +12,8 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.mapreduce.InputSplit;
+import org.apache.spark.ml.feature.Word2VecModel;
+import org.apache.spark.sql.SparkSession;
 import org.bson.BSONObject;
 import org.bson.BasicBSONObject;
 import org.hammer.colombo.utils.RecursiveString;
@@ -30,6 +32,8 @@ import com.mongodb.MongoClientURI;
 import com.mongodb.hadoop.splitter.MongoSplitter;
 import com.mongodb.hadoop.splitter.SplitFailedException;
 import com.mongodb.hadoop.util.MongoConfigUtil;
+
+import scala.Tuple2;
 
 /**
  * 
@@ -91,6 +95,15 @@ public class QuerySplitter extends MongoSplitter {
 		int thQuery = Integer.parseInt(getConfiguration().get("thQuery"));
 		int maxSim = Integer.parseInt(getConfiguration().get("maxSim"));
 		String wnHome = getConfiguration().get("wn-home") + "";
+		String word2vecmodel = getConfiguration().get("word2vecmodel") + "";
+		// init spark
+		SparkSession spark = SparkSession
+			      .builder()
+			      .master("local")
+			      .appName("Hammer Colombo")
+			      .getOrCreate();
+		LOG.info("SPARK INIT " + spark.version());
+		Word2VecModel my_model = Word2VecModel.load(word2vecmodel);
 
 		// create my query graph object
 		// System.out.println(query);
@@ -199,7 +212,30 @@ public class QuerySplitter extends MongoSplitter {
 					tempList.put(selected.toLowerCase(), point);
 				}
 			}
+			
+			
+			
+			
 
+			// add synset by word2vec model
+			try {
+				Tuple2<String, Object>[] my_array = my_model.findSynonymsArray(key.toLowerCase(), 5);
+			
+				
+				for (Tuple2<String, Object> synonym : my_array) {
+					if (!tempList.containsKey(synonym._1.toLowerCase())) {
+						point = new Term();
+						point.setTerm(synonym._1.toLowerCase());
+						point.setWeigth((double) synonym._2);
+						tempList.put(synonym._1.toLowerCase(), point);
+					}
+				}
+			} catch(Exception ex) {
+				//
+			}
+			
+			
+			
 			// cut the queue to maxsim
 			List<Term> myval = new ArrayList<Term>(tempList.values());
 			myval.sort(cmp);
@@ -316,6 +352,7 @@ public class QuerySplitter extends MongoSplitter {
 
 		StatUtils.SaveStat(this.getConfiguration(), statObj);
 
+		spark.stop();
 		return qSplit;
 
 	}

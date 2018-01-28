@@ -1,0 +1,32 @@
+//
+// Hammer Project
+// @ 2018 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// NYC List of infraction with list of categorical dimension
+//
+
+{
+  "select": [
+      { "column": { "instance": "infraction", "label":"traffic"}},
+      { "column": { "instance": "infraction", "label":"location"}},
+      { "column": { "instance": "infraction", "label":"descripion"}},
+      { "column": { "instance": "infraction", "label":"drive"}}
+      
+      
+  ],
+  "from": [
+    "infraction"
+  ],
+  "where": [{"condition": {
+      "instance1": "infraction",
+      "label1": "year",
+      "operator": "eq",
+      "value": "2017",
+      "logicalOperator": "or"
+    }}
+  ]
+}
+

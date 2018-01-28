@@ -53,8 +53,11 @@ public class App {
 		
 		// set word net home
 		String wnHome = "/home/hadoop/software/WordNet-3.0";
+		String word2vecmodel = "/hammer/word2vec_hammer_ny/word2vecModel_hammer_ny";
 		conf1.set("wn-home", wnHome);
 		conf2.set("wn-home", wnHome);
+		conf1.set("word2vecmodel", word2vecmodel);
+		conf2.set("word2vecmodel", word2vecmodel);
 		
 		conf2.set("thesaurus.url", "http://thesaurus.altervista.org/thesaurus/v1");
 		conf2.set("thesaurus.key", "bVKAPIcUum3hEFGKEBAu"); // x hammerproject
