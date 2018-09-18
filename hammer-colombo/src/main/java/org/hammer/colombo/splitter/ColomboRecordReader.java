@@ -33,6 +33,7 @@ import org.apache.hadoop.mapreduce.TaskAttemptContext;
 import org.apache.http.client.params.ClientPNames;
 import org.bson.BSONObject;
 import org.bson.BasicBSONObject;
+import org.bson.Document;
 import org.bson.types.BasicBSONList;
 import org.hammer.colombo.utils.JSON;
 import org.hammer.colombo.utils.SocrataUtils;
@@ -43,7 +44,11 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.csv.CsvMapper;
 import com.fasterxml.jackson.dataformat.csv.CsvSchema;
 import com.mongodb.BasicDBList;
-
+import com.mongodb.MongoClient;
+import com.mongodb.MongoClientURI;
+import com.mongodb.client.FindIterable;
+import com.mongodb.client.MongoCollection;
+import com.mongodb.client.MongoDatabase;
 
 /**
  * Colombo record reader
@@ -160,18 +165,39 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 
 				/*
 				 * final BasicBSONList list = new BasicBSONList(); int count =
-				 * SocrataUtils.CountPackageList(this.conf, split.getUrl(),
-				 * split.getName()); int offset = 0; count = (count >
-				 * socrataRecordLimit) ? socrataRecordLimit : count;
+				 * SocrataUtils.CountPackageList(this.conf, split.getUrl(), split.getName());
+				 * int offset = 0; count = (count > socrataRecordLimit) ? socrataRecordLimit :
+				 * count;
 				 * 
 				 * while (offset < count) { BasicBSONList temp = (BasicBSONList)
-				 * SocrataUtils.GetDataSet(this.conf, split.getName(),
-				 * split.getUrl(), offset, 1000); list.addAll(temp); offset =
-				 * offset + 1000; }
+				 * SocrataUtils.GetDataSet(this.conf, split.getName(), split.getUrl(), offset,
+				 * 1000); list.addAll(temp); offset = offset + 1000; }
 				 */
 				doc = (BasicBSONList) SocrataUtils.GetDataSet(this.conf, split.getName(), split.getUrl());
 
+			} else if (split.getDataSetType().equals("org.hammer.santamaria.mapper.dataset.MongoDBDataSetInput")) {
+				MongoClientURI connectionString = new MongoClientURI(split.getUrl());
+				MongoClient mongoClient = new MongoClient(connectionString);
+				MongoDatabase db = mongoClient.getDatabase(split.getAction());
+				BasicBSONList newList = new BasicBSONList();
+				try {
+					MongoCollection<Document> collection = db.getCollection(split.getDataset());
+					FindIterable<Document> record = collection.find();
+					for (Document d : record) {
+						BSONObject newObj = (BSONObject) JSON.parse(new String(d.toJson()));
+						newList.add(newObj);
+					}
+
+					doc = newList;
+
+				} catch (Exception ex) {
+
+				} finally {
+					mongoClient.close();
+				}
+
 			} else {
+
 				HttpClient client = new HttpClient();
 				GetMethod method = null;
 

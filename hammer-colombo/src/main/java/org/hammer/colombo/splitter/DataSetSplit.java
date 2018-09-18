@@ -60,6 +60,32 @@ public class DataSetSplit extends InputSplit implements Writable, org.apache.had
     private String type = "";
     
     /**
+     * Original Action from Datasource
+     */
+    private String action = "";
+    
+    public String getAction() {
+		return action;
+	}
+
+	public void setAction(String action) {
+		this.action = action;
+	}
+
+	public String getDataset() {
+		return dataset;
+	}
+
+	public void setDataset(String dataset) {
+		this.dataset = dataset;
+	}
+
+	/**
+     * Original Dataset name from Datasource
+     */
+    private String dataset = "";
+    
+    /**
      * Url
      */
     private String url = "";
@@ -113,6 +139,8 @@ public class DataSetSplit extends InputSplit implements Writable, org.apache.had
                                               .add("type", getType() != null ? getType() : "")
                                               .add("dataset_type", getDataSetType() != null ? getDataSetType() : "")
                                               .add("datasource", getDatasource() != null ? getDatasource() : "")
+                                              .add("dataset", getDataset() != null ? getDataset() : "")
+                                              .add("action", getAction() != null ? getAction() : "")
                                               .get();
         byte[] buf = _bsonEncoder.encode(spec);
         out.write(buf);
@@ -137,6 +165,9 @@ public class DataSetSplit extends InputSplit implements Writable, org.apache.had
         setType(spec.get("type").toString());
         setDataSetType(spec.get("dataset_type").toString());
         setDatasource(spec.get("datasource").toString());
+        setDataset(spec.get("dataset").toString());
+        setAction(spec.get("action").toString());
+
     }
 
 
@@ -145,6 +176,8 @@ public class DataSetSplit extends InputSplit implements Writable, org.apache.had
         return "DataSetSplit{URL=" + this.url.toString()
         	   + ", datasource=" + this.datasource
         	   + ", type=" + this.type
+        	   + ", dataset=" + this.dataset
+        	   + ", action=" + this.action
         	   + ", dataset_type=" + this.dataSetType
                + ", name=" + this.name + '}';
     }
@@ -156,6 +189,8 @@ public class DataSetSplit extends InputSplit implements Writable, org.apache.had
         result = 31 * result + (this.type != null ? this.type.hashCode() : 0);
         result = 31 * result + (this.datasource != null ? this.datasource.hashCode() : 0);
         result = 31 * result + (this.dataSetType != null ? this.dataSetType.hashCode() : 0);
+        result = 31 * result + (this.dataset != null ? this.dataset.hashCode() : 0);
+        result = 31 * result + (this.action != null ? this.action.hashCode() : 0);
         return result;
     }
 

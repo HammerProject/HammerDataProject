@@ -76,6 +76,8 @@ public class DataSetSplitter2 extends MongoSplitter {
 						dsSplit.setName(doc.getString("_id"));
 						if (doc.containsKey("url") && !doc.containsKey("remove")) {
 							dsSplit.setUrl(doc.getString("url"));
+							dsSplit.setAction(doc.getString("action"));
+							dsSplit.setDataset(doc.getString("dataset"));
 							dsSplit.setType(doc.getString("dataset-type"));
 							dsSplit.setDataSetType(doc.getString("datainput_type"));
 							dsSplit.setDatasource(doc.getString("id"));
@@ -86,6 +88,8 @@ public class DataSetSplitter2 extends MongoSplitter {
 						dsSplit.setName(doc.getString("_id"));
 						if (doc.containsKey("url") && !doc.containsKey("remove")) {
 							dsSplit.setUrl(doc.getString("url"));
+							dsSplit.setAction(doc.getString("action"));
+							dsSplit.setDataset(doc.getString("dataset"));
 							dsSplit.setType(doc.getString("dataset-type"));
 							dsSplit.setDataSetType(doc.getString("datainput_type"));
 							dsSplit.setDatasource(doc.getString("id"));

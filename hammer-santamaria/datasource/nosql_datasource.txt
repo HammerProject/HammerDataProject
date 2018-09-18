@@ -1,0 +1,18 @@
+#
+# DATASOURCE 
+#
+use hammer
+db.createCollection("datasource_nosql");
+db.createCollection("index_nosql");
+
+db.datasource_nosql.remove({});
+
+db.datasource_nosql.insert(
+{  "name" : "OJVs", "url" : "mongodb://192.168.56.90:27017/lmi", "type" : "org.hammer.santamaria.input.MongoDBSourceRecordReader", "action" : "lmi" });
+
+
+
+bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App datasource_nosql 192.168.56.90
+
+
+
