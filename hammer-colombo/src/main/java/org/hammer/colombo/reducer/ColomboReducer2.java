@@ -118,7 +118,11 @@ public class ColomboReducer2 extends Reducer<Text, BSONWritable, Text, BSONWrita
 			LOG.info("---------------------------------------------------");
 			StringTokenizer st = new StringTokenizer(pKey.toString(), "|");
 			String column = st.nextToken().toLowerCase();
-			String value = st.nextToken().toLowerCase();
+			
+			String value = "";
+			if(st.hasMoreTokens()) {
+				value = st.nextToken().toLowerCase();
+			}
 			long size = 0;
 			long totalRecord = 0;
 			long selectedRecord = 0;

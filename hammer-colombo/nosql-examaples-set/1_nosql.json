@@ -1,0 +1,35 @@
+//
+// Hammer Project
+// @ 2018 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// Number of vacancies in Italian languages from 2018 (with title, and place)
+// 
+// 
+//
+
+{
+  "select": [
+      { "column": { "instance": "jobs", "label":"title"}},
+      { "column": { "instance": "jobs", "label":"place"}}
+  ],
+  "from": [
+    "jobs"
+  ],
+  "where": [{"condition": {
+      "instance1": "jobs",
+      "label1": "lang",
+      "operator": "eq",
+      "value": "it",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "jobs",
+      "label1": "publishdate",
+      "operator": "ge",
+      "value": "2018-01-01t00:00:00",
+      "logicalOperator": "or"
+    }}
+  ]
+}
+

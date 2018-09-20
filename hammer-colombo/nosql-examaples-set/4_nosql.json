@@ -1,0 +1,36 @@
+//
+// Hammer Project
+// @ 2018 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// Return all job-offers in Milan with permanent contract
+// 
+//
+
+{
+  "select": [
+      { "column": { "instance": "jobs", "label":"title"}},
+      { "column": { "instance": "jobs", "label":"description"}},
+      { "column": { "instance": "jobs", "label":"place"}},
+      { "column": { "instance": "jobs", "label":"country"}}
+  ],
+  "from": [
+    "jobs"
+  ],
+  "where": [{"condition": {
+      "instance1": "jobs",
+      "label1": "contract",
+      "operator": "eq",
+      "value": "permanent",
+      "logicalOperator": "and"
+    }}, {"condition": {
+      "instance1": "jobs",
+      "label1": "place",
+      "operator": "eq",
+      "value": "Milan",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+

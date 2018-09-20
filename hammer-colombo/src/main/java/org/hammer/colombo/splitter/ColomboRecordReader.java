@@ -125,6 +125,9 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 		BasicBSONObject doc = new BasicBSONObject();
 		doc.put("url", split.getUrl());
 		doc.put("id", split.getName());
+		doc.put("action", split.getAction());
+		doc.put("dataset", split.getDataset());
+
 
 		try {
 			LOG.info(split.getUrl());
@@ -178,10 +181,10 @@ public class ColomboRecordReader extends RecordReader<Object, BSONObject> {
 			} else if (split.getDataSetType().equals("org.hammer.santamaria.mapper.dataset.MongoDBDataSetInput")) {
 				MongoClientURI connectionString = new MongoClientURI(split.getUrl());
 				MongoClient mongoClient = new MongoClient(connectionString);
-				MongoDatabase db = mongoClient.getDatabase(split.getAction());
+				MongoDatabase db = mongoClient.getDatabase(connectionString.getDatabase());
 				BasicBSONList newList = new BasicBSONList();
 				try {
-					MongoCollection<Document> collection = db.getCollection(split.getDataset());
+					MongoCollection<Document> collection = db.getCollection(split.getDatasource());
 					FindIterable<Document> record = collection.find();
 					for (Document d : record) {
 						BSONObject newObj = (BSONObject) JSON.parse(new String(d.toJson()));

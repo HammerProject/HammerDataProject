@@ -13,7 +13,6 @@ import com.mongodb.MongoClient;
 import com.mongodb.MongoClientURI;
 import com.mongodb.client.FindIterable;
 import com.mongodb.client.MongoCollection;
-import com.mongodb.client.MongoCursor;
 import com.mongodb.client.MongoDatabase;
 
 /**
@@ -32,6 +31,8 @@ public class MongoDBDataSetInput implements DataSetInput {
 		dataset.put("datasource", datasource);
 		dataset.put("dataset", c.get("dataset"));
 		dataset.put("id", id);
+		dataset.put("dataset-type", "JSON");
+		dataset.put("datainput_type", "org.hammer.santamaria.mapper.dataset.MongoDBDataSetInput");
 		dataset.put("action", c.get("action"));
 		dataset.put("url", url);
 
@@ -63,14 +64,18 @@ public class MongoDBDataSetInput implements DataSetInput {
 				Document dbo = cur.first();
 				Set<String> s = dbo.keySet();
 				LOG.info("Read fields for " + c.get("dataset").toString() + " --> " + s.size());
-
+				
+				
+				
 				ArrayList<String> tags = new ArrayList<String>();
 				ArrayList<String> meta = new ArrayList<String>();
 				meta.addAll(s);
 				tags.addAll(s);
 				
 				ArrayList<String> other_tags = new ArrayList<String>();
-				
+				tags.add(c.get("dataset").toString());
+				meta.add(c.get("dataset").toString());
+				other_tags.add(c.get("dataset").toString());
 
 				dataset.put("tags", tags);
 				dataset.put("meta", meta);

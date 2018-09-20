@@ -1,0 +1,36 @@
+//
+// Hammer Project
+// @ 2018 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// Return all job-offers that request "java" in the text or in the skill
+// and group by title / country
+// 
+//
+
+{
+  "select": [
+      { "column": { "instance": "jobs", "label":"title"}},
+      { "column": { "instance": "jobs", "label":"place"}},
+      { "column": { "instance": "jobs", "label":"country"}}
+  ],
+  "from": [
+    "jobs"
+  ],
+  "where": [{"condition": {
+      "instance1": "jobs",
+      "label1": "description",
+      "operator": "eq",
+      "value": "java",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "jobs",
+      "label1": "description",
+      "operator": "eq",
+      "value": "java",
+      "logicalOperator": "or"
+    }}
+  ]
+}
+

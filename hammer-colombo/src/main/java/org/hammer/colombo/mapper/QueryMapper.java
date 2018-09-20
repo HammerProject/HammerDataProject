@@ -350,6 +350,8 @@ public class QueryMapper extends Mapper<Object, BSONObject, Text, BSONWritable> 
 			// rmList is the final List of resources!!!
 			final ArrayList<Document> rmList = new ArrayList<Document>();
 			iterable = dataset.find(searchQuery);
+			System.out.println("searchQuery find..." + dataset.count(searchQuery));
+
 			iterable.forEach(new Block<Document>() {
 				public void apply(final Document document) {
 					rmList.add(document);
