@@ -1,6 +1,5 @@
 package org.hammer.shark.engine;
 
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -64,6 +63,7 @@ public class RecordReader {
 				BasicBSONList doc = (BasicBSONList) SocrataUtils.GetDataSet(spark, split.getName(), split.getUrl());
 				for (Object obj : doc) {
 					BasicDBObject bObj = (BasicDBObject) obj;
+					bObj.put("dataset", split.getName());
 					mylist.add(new Document(bObj.toMap()));
 				}
 
@@ -75,6 +75,7 @@ public class RecordReader {
 					MongoCollection<Document> collection = db.getCollection(split.getDatasource());
 					FindIterable<Document> record = collection.find();
 					for (Document d : record) {
+						d.put("dataset", split.getName());
 						mylist.add(d);
 					}
 
@@ -134,6 +135,7 @@ public class RecordReader {
 							for (Object obj : pList) {
 								BasicDBList bObj = (BasicDBList) obj;
 								BSONObject newObj = GetDataByItem(meta, bObj);
+								newObj.put("dataset", split.getName());
 								mylist.add(new Document(newObj.toMap()));
 							}
 						}
@@ -173,12 +175,16 @@ public class RecordReader {
 			for (Document bo : mylist) {
 
 				try {
-					db.getCollection("record-temp-table").insertOne(bo);
+					if(bo.containsKey("_id")) {
+						Document delete = new Document();
+						delete.append("_id", bo.get("_id"));
+						db.getCollection("record_temp_table").deleteMany(delete);
+					}
+					db.getCollection("record_temp_table").insertOne(bo);
 					
 				} catch (Exception e) {
 					LOG.debug(e);
 					LOG.error("SHARK QUERY: Error writing from temporary file", e);
-					throw new IOException(e);
 				}
 			}
 

@@ -55,7 +55,7 @@ public class Node implements Leaf, IDataType, Serializable {
 	 */
 	private String simName = null;
 
-	Comparator<Keyword> cmp = new Comparator<Keyword>() {
+	transient Comparator<Keyword> cmp = new Comparator<Keyword>() {
 		public int compare(Keyword o1, Keyword o2) {
 			return (o1.getSimilarity() < o2.getSimilarity()) ? 1 : ((o1.getSimilarity() > o2.getSimilarity()) ? -1 : 0);
 		}

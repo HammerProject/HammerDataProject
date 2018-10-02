@@ -92,7 +92,7 @@ public class SharkQuery {
 		int thQuery = Integer.parseInt(spark.sparkContext().conf().get("thQuery"));
 		int maxSim = Integer.parseInt(spark.sparkContext().conf().get("maxSim"));
 		String searchMode = spark.sparkContext().conf().get("search-mode");
-		String wnHome = Config.getInstance().getConfig().getString("wn-home");
+		String wnHome = Config.getInstance().getConfig().getString("wnHome");
 		String word2vecmodel = Config.getInstance().getConfig().getString("word2vecmodel") + "";
 
 		Word2VecModel my_model = Word2VecModel.load(word2vecmodel);
@@ -351,28 +351,30 @@ public class SharkQuery {
 			mongo = new MongoClient(outputURI);
 			db = mongo.getDatabase(outputURI.getDatabase());
 			System.out.println("SHARK QUERY Create temp table " + spark.sparkContext().conf().get("resource-table"));
-			if (db.getCollection(spark.sparkContext().conf().get("resource-table")) == null) {
-				db.createCollection(spark.sparkContext().conf().get("resource-table"));
+			if (db.getCollection(spark.sparkContext().conf().get("resource-table")) != null) {
+				db.getCollection(spark.sparkContext().conf().get("resource-table")).drop();
 			}
+			db.createCollection(spark.sparkContext().conf().get("resource-table"));
 			MongoCollection<Document> collection = db.getCollection(spark.sparkContext().conf().get("resource-table"));
 
 			int inserted = 0;
 			for(Document bo: myList) {
+				if(bo!= null) {
+					try {
 
-				try {
+						// SAVE LIST OF RESOURCE TO MONGO DB
+						BasicDBObject searchQuery = new BasicDBObject().append("_id", bo.get("_id"));
+						long c = collection.count(searchQuery);
+						if (c == 0) {
+							collection.insertOne(bo);
+							inserted++;
+						}
 
-					// SAVE LIST OF RESOURCE TO MONGO DB
-					BasicDBObject searchQuery = new BasicDBObject().append("_id", bo.get("_id"));
-					long c = collection.count(searchQuery);
-					if (c == 0) {
-						collection.insertOne(bo);
-						inserted++;
+					} catch (Exception e) {
+						LOG.debug(e);
+						LOG.error("SHARK QUERY: Error reading from temporary file", e);
+						throw new IOException(e);
 					}
-
-				} catch (Exception e) {
-					LOG.debug(e);
-					LOG.error("SHARK QUERY: Error reading from temporary file", e);
-					throw new IOException(e);
 				}
 			}
 

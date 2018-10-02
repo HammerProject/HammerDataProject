@@ -14,6 +14,10 @@ import org.hammer.shark.query.SharkQuery;
 import org.hammer.shark.utils.Config;
 import org.hammer.shark.utils.StatUtils;
 
+import com.mongodb.MongoClient;
+import com.mongodb.MongoClientURI;
+import com.mongodb.client.MongoDatabase;
+
 /**
  * Hello world!
  *
@@ -50,26 +54,28 @@ public class App {
 	 *            function)
 	 * @throws Exception
 	 */
-	public static void Run(String fileQuery, String searchMode, String queryMode, float thKrm,
-			float thRm, float thSim, int maxSim, String datasetTable, String indexTable, int thQuery) throws Exception {
+	public static void Run(String fileQuery, String searchMode, String queryMode, float thKrm, float thRm, float thSim,
+			int maxSim, String datasetTable, String indexTable, int thQuery) throws Exception {
 		System.out.println("!!! Hammer Project !!!");
 		System.out.println("!!! Shark Module start.....");
-
-
 
 		SparkSession spark = SparkSession.builder().appName("SHARK").getOrCreate();
 		if (!spark.sparkContext().isLocal()) {
 			// send files to each worker!
 			spark.sparkContext().addFile("shark.conf");
 
-
 		}
 		// init config
 		Config.init("shark.conf");
-		
-		spark.sparkContext().conf().set("spark.network.timeout ","1200");
-		spark.sparkContext().conf().set("spark.rpc.askTimeout ","1200");
-		
+
+		spark.sparkContext().conf().set("spark.mongodb.input.uri",
+				Config.getInstance().getConfig().getString("spark.mongodb.input.uri"));
+		spark.sparkContext().conf().set("spark.mongodb.output.uri",
+				Config.getInstance().getConfig().getString("spark.mongodb.output.uri"));
+
+		spark.sparkContext().conf().set("spark.network.timeout ", "1200");
+		spark.sparkContext().conf().set("spark.rpc.askTimeout ", "1200");
+
 		String query = "";
 		spark.sparkContext().conf().set("query-file", fileQuery);
 		query = IsabellaUtils.readFile(fileQuery);
@@ -122,6 +128,42 @@ public class App {
 		System.out.println("******************************************************************");
 		System.out.println("******************************************************************");
 
+		// init table
+		MongoClient mongo = null;
+		MongoDatabase db = null;
+		try {
+			MongoClientURI outputURI = new MongoClientURI(
+					Config.getInstance().getConfig().getString("spark.mongodb.output.uri"));
+			mongo = new MongoClient(outputURI);
+			db = mongo.getDatabase(outputURI.getDatabase());
+			System.out.println("SHARK QUERY Create temp table " + spark.sparkContext().conf().get("query-table"));
+			if (db.getCollection(spark.sparkContext().conf().get("query-table")) != null) {
+				db.getCollection(spark.sparkContext().conf().get("query-table")).drop();
+			}
+			db.createCollection(spark.sparkContext().conf().get("query-table"));
+			
+			if (db.getCollection(spark.sparkContext().conf().get("resource-table")) != null) {
+				db.getCollection(spark.sparkContext().conf().get("resource-table")).drop();
+			}
+			db.createCollection(spark.sparkContext().conf().get("resource-table"));
+			
+			if (db.getCollection(spark.sparkContext().conf().get("list-result")) != null) {
+				db.getCollection(spark.sparkContext().conf().get("list-result")).drop();
+			}
+			db.createCollection(spark.sparkContext().conf().get("list-result"));
+		
+			if (db.getCollection(spark.sparkContext().conf().get("stat-result")) != null) {
+				db.getCollection(spark.sparkContext().conf().get("stat-result")).drop();
+			}
+			db.createCollection(spark.sparkContext().conf().get("stat-result"));
+			
+		} catch (Exception ex) {
+			ex.printStackTrace();
+		} finally {
+			if (mongo != null) {
+				mongo.close();
+			}
+		}
 		// 1phase MapReduce --> calc the fuzzy-query list and populate the
 		// resource-table
 		SharkQuery SHARKQUERY = new SharkQuery(spark);
@@ -133,18 +175,16 @@ public class App {
 		SharkResource SHARKRESOURCE = new SharkResource(spark);
 		SHARKRESOURCE.getItems(spark);
 
-		
 		spark.close();
 	}
 
 	public static void main(String[] pArgs) throws Exception {
 
-		if (pArgs == null || pArgs.length < 11) {
+		if (pArgs == null || pArgs.length < 10) {
 			throw new Exception(
 					"Parameter: <path_to_query> <search mode: search|download> <query mode: keywords|labels> <thKrm: 0.5|0.01..>  <thRm: 0.5|0.01..> <thSim: 0.5|0.01..> <maxSim: 1|2|3...> <dataset-table> <index-table> <cosTh:0.9991|0.9992>");
 		}
 		Run(pArgs[0], pArgs[1], pArgs[2], Float.parseFloat(pArgs[3]), Float.parseFloat(pArgs[4]),
-				Float.parseFloat(pArgs[5]), Integer.parseInt(pArgs[6]), pArgs[7], pArgs[8],
-				Integer.parseInt(pArgs[9]));
+				Float.parseFloat(pArgs[5]), Integer.parseInt(pArgs[6]), pArgs[7], pArgs[8], Integer.parseInt(pArgs[9]));
 	}
 }

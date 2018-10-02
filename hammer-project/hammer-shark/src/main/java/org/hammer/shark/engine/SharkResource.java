@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.io.StringReader;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
@@ -48,6 +49,7 @@ import com.mongodb.spark.MongoSpark;
 import com.mongodb.spark.config.ReadConfig;
 
 import scala.Tuple2;
+import scala.collection.JavaConverters;
 
 /**
  * Shark Resource Finder
@@ -78,10 +80,13 @@ public class SharkResource {
 		Isabella parser = new Isabella(new StringReader(spark.sparkContext().conf().get("query-string")));
 		String keywords = "";
 		Map<String, ArrayList<String>> similarity = new HashMap<String, ArrayList<String>>();
+		String wnHome = Config.getInstance().getConfig().getString("wnHome");
+
 		QueryGraph q;
 		try {
 			q = parser.queryGraph();
 			q.setIndex(kwIndex);
+			q.setWnHome(wnHome);
 		} catch (ParseException e) {
 			throw new Exception(e.getMessage());
 		}
@@ -259,6 +264,8 @@ public class SharkResource {
 					dsSplit.setType(doc.getString("dataset-type"));
 					dsSplit.setDataSetType(doc.getString("datainput_type"));
 					dsSplit.setDatasource(doc.getString("id"));
+					dsSplit.setAction(doc.getString("id"));
+					dsSplit.setDataset(doc.getString("name"));
 					splits.add(dsSplit);
 				}
 			}
@@ -272,10 +279,11 @@ public class SharkResource {
 			mongo = new MongoClient(outputURI);
 			db = mongo.getDatabase(outputURI.getDatabase());
 			System.out.println("SHARK QUERY Create temp table split-table");
-			if (db.getCollection("split-table") == null) {
-				db.createCollection("split-table");
+			if (db.getCollection("split_table") != null) {
+				db.getCollection("split_table").drop();
 			}
-			MongoCollection<Document> collection = db.getCollection("split-table");
+			db.createCollection("split_table");
+			MongoCollection<Document> collection = db.getCollection("split_table");
 
 			Gson gson = new Gson();
 
@@ -288,7 +296,7 @@ public class SharkResource {
 					long c = collection.count(searchQuery);
 					if (c == 0) {
 						Document newObj = Document.parse(gson.toJson(bo));
-						newObj.append("_id", bo.getDataset());
+						newObj.append("_id", bo.getName());
 						collection.insertOne(newObj);
 					}
 
@@ -314,9 +322,10 @@ public class SharkResource {
 			mongo = new MongoClient(outputURI);
 			db = mongo.getDatabase(outputURI.getDatabase());
 			System.out.println("SHARK QUERY Create temp table record-temp-table");
-			if (db.getCollection("record-temp-table") == null) {
-				db.createCollection("record-temp-table");
+			if (db.getCollection("record_temp_table") != null) {
+				db.getCollection("record_temp_table").drop();
 			}
+			db.createCollection("record_temp_table");
 		} catch (Exception ex) {
 			ex.printStackTrace();
 		} finally {
@@ -329,14 +338,14 @@ public class SharkResource {
 		try {
 			Map<String, String> readOverrides = new HashMap<String, String>();
 			readOverrides.put("database", "hammer");
-			readOverrides.put("collection", "split-table");
+			readOverrides.put("collection", "split_table");
 			JavaSparkContext jsc = JavaSparkContext.fromSparkContext(spark.sparkContext());
 			ReadConfig readConfig = ReadConfig.create(jsc).withOptions(readOverrides);
 
 			list = MongoSpark.load(jsc, readConfig).toDF().dropDuplicates().map(x -> {
 				DataSetSplit ds = new DataSetSplit();
 				ds.setAction(x.getString(x.fieldIndex("action")));
-				ds.setDataset(x.getString(x.fieldIndex("dataset")));
+				ds.setDataset(x.getString(x.fieldIndex("name")));
 				ds.setDataSetType(x.getString(x.fieldIndex("dataSetType")));
 				ds.setDatasource(x.getString(x.fieldIndex("datasource")));
 				ds.setName(x.getString(x.fieldIndex("name")));
@@ -363,7 +372,7 @@ public class SharkResource {
 		try {
 			Map<String, String> readOverrides = new HashMap<String, String>();
 			readOverrides.put("database", "hammer");
-			readOverrides.put("collection", "record-temp-table");
+			readOverrides.put("collection", "record_temp_table");
 			JavaSparkContext jsc = JavaSparkContext.fromSparkContext(spark.sparkContext());
 			ReadConfig readConfig = ReadConfig.create(jsc).withOptions(readOverrides);
 
@@ -389,11 +398,13 @@ public class SharkResource {
 			mongo = new MongoClient(outputURI);
 			final MongoDatabase db1 = mongo.getDatabase(outputURI.getDatabase());
 			System.out.println("SHARK QUERY Create temp table " + spark.sparkContext().conf().get("query-table"));
-			if (db.getCollection(spark.sparkContext().conf().get("query-table")) == null) {
-				db.createCollection(spark.sparkContext().conf().get("query-table"));
+			if (db1.getCollection(spark.sparkContext().conf().get("query-table")) != null) {
+				db1.getCollection(spark.sparkContext().conf().get("query-table")).drop();
 			}
-
+			db1.createCollection(spark.sparkContext().conf().get("query-table"));
+			
 			toSave.parallelStream().forEach(bo -> {
+				LOG.info(bo);
 				Document obj = Document.parse(bo);
 				try {
 					if (ApplyWhereCondition(obj, SparkSession.builder().appName("SHARK").getOrCreate(), q, thSim)) {
@@ -411,7 +422,6 @@ public class SharkResource {
 				mongo.close();
 			}
 		}
-
 
 	}
 
@@ -665,10 +675,13 @@ public class SharkResource {
 				SparkSession.builder().appName("SHARK").getOrCreate().sparkContext().conf().get("list-result"),
 				SparkSession.builder().appName("SHARK").getOrCreate().sparkContext().conf().get("stat-result"));
 
+		Gson g = new Gson();
+		List<String> a = Arrays.asList(ds.schema().fieldNames());
+		String sValue = g.toJson(ds.getValuesMap(JavaConverters.asScalaIteratorConverter(a.iterator()).asScala().toSeq()));
+
 		for (String column : ds.schema().fieldNames()) {
 			Object value = ds.get(ds.fieldIndex(column));
 			String key = column + "|" + value;
-			String sValue = ds.mkString();
 			lists.add(new Tuple2<String, String>(key, sValue));
 		}
 		return lists;
@@ -840,16 +853,17 @@ public class SharkResource {
 			FindIterable<Document> myTerm = myIdx.find(searchQuery);
 			if (myTerm.iterator().hasNext()) {
 				Document obj = myTerm.iterator().next();
-				@SuppressWarnings("unchecked")
-				ArrayList<Document> dbSynSet = (ArrayList<Document>) obj.get("syn-set");
-				ArrayList<String> mySynSet = new ArrayList<String>();
-				if (mySynSet != null) {
-					for (Document o : dbSynSet) {
-						mySynSet.add((o.get("term") + "").toLowerCase());
+				if (obj != null && obj.containsKey("syn-set") && obj.get("syn-set") != null) {
+					@SuppressWarnings("unchecked")
+					ArrayList<Document> dbSynSet = (ArrayList<Document>) obj.get("syn-set");
+					ArrayList<String> mySynSet = new ArrayList<String>();
+					if (mySynSet != null) {
+						for (Document o : dbSynSet) {
+							mySynSet.add((o.get("term") + "").toLowerCase());
+						}
 					}
+					synset.put(column.toLowerCase(), mySynSet);
 				}
-				synset.put(column.toLowerCase(), mySynSet);
-
 			}
 
 			if (synset.containsKey(column)) {
@@ -876,7 +890,8 @@ public class SharkResource {
 	 * @param conf
 	 * @param q
 	 */
-	private static boolean ApplyWhereCondition(Document bo, SparkSession spark, QueryGraph q, float thSim) throws Exception {
+	private static boolean ApplyWhereCondition(Document bo, SparkSession spark, QueryGraph q, float thSim)
+			throws Exception {
 		//
 		// check OR condition
 		//
@@ -931,10 +946,9 @@ public class SharkResource {
 		//
 		// check AND condition
 		//
-		
+
 		Map<String, List<String>> synset = new HashMap<String, List<String>>();
 
-		
 		boolean check = true;
 		int c = 0;
 		List<String> andColumn = new ArrayList<String>();
