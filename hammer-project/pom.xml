@@ -87,5 +87,6 @@
 		<module>../hammer-pinta</module>
 		<module>../hammer-santamaria</module>
 		<module>../hammer-taino</module>
-	</modules>
+    <module>hammer-shark</module>
+  </modules>
 </project>
