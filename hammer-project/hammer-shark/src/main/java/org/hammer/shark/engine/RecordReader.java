@@ -138,6 +138,22 @@ public class RecordReader {
 								newObj.put("dataset", split.getName());
 								mylist.add(new Document(newObj.toMap()));
 							}
+						} else if (meta.contains("result")) {
+							pList = (BasicBSONList) ((BSONObject) doc.get("result")).get("records");
+							meta = new ArrayList<String>();
+							for (Object obj : pList) {
+								BasicBSONObject pObj = (BasicBSONObject) obj;
+								if (pObj.containsField("fieldName")) {
+									meta.add(pObj.getString("fieldName").toLowerCase().replaceAll(":", ""));
+								}
+							}
+
+							pList = (BasicBSONList) doc.get("data");
+							for (Object obj : pList) {
+								BSONObject bObj = (BasicDBList) obj;
+								bObj.put("dataset", split.getName());
+								mylist.add(new Document(bObj.toMap()));
+							}
 						}
 
 					} else if (split.getType().equals("CSV")) {

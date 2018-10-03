@@ -1,0 +1,34 @@
+//
+// Hammer Project
+// @ 2018 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+//
+
+{
+  "select": [
+      { "column": { "instance": "buildings", "label":"permits"}},
+      { "column": { "instance": "buildings", "label":"data"}},
+      { "column": { "instance": "buildings", "label":"city"}}
+  ],
+  "from": [
+    "buildings"
+  ],
+  "where": [{"condition": {
+      "instance1": "buildings",
+      "label1": "city",
+      "operator": "eq",
+      "value": "Tampa",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "buildings",
+      "label1": "city",
+      "operator": "eq",
+      "value": "Lexington",
+      "logicalOperator": "or"
+    }}
+  ]
+}
+

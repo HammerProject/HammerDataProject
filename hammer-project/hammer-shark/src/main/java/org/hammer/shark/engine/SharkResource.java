@@ -346,7 +346,9 @@ public class SharkResource {
 				DataSetSplit ds = new DataSetSplit();
 				ds.setAction(x.getString(x.fieldIndex("action")));
 				ds.setDataset(x.getString(x.fieldIndex("name")));
-				ds.setDataSetType(x.getString(x.fieldIndex("dataSetType")));
+				if(x.schema().contains("dataSetType")) {
+					ds.setDataSetType(x.getString(x.fieldIndex("dataSetType")));
+				}
 				ds.setDatasource(x.getString(x.fieldIndex("datasource")));
 				ds.setName(x.getString(x.fieldIndex("name")));
 				ds.setType(x.getString(x.fieldIndex("type")));

@@ -1,0 +1,20 @@
+###################################################################
+### script and utils to work with open data civicdata.io
+###
+use hammer
+db.createCollection("datasource_cd");
+db.createCollection("index_cd");
+
+db.dataset.remove({});
+db.datasource_cd.insert(
+{ "name" : "civicdata.io", "url" : "http://www.civicdata.io/api/action", "action" : "http://www.civicdata.io/api/action", "type" : "org.hammer.santamaria.input.CKANBigSourceRecordReader" }
+);
+
+bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App datasource_cd 192.168.56.90
+
+use hammer
+db.dataset.renameCollection("dataset_cd");
+db.index_cd.remove({});
+
+## create/update the inverted index and calc re/sim of each tems
+bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.90 true 5 dataset_cd index_cd /home/hadoop/software/WordNet-3.0
