@@ -18,15 +18,15 @@
   ],
   "where": [{"condition": {
       "instance1": "buildings",
-      "label1": "city",
+      "label1": "recordTypeGroup",
       "operator": "eq",
-      "value": "Tampa",
+      "value": "Building",
       "logicalOperator": "or"
     }}, {"condition": {
       "instance1": "buildings",
-      "label1": "city",
+      "label1": "LicenseType",
       "operator": "eq",
-      "value": "Lexington",
+      "value": "Rental",
       "logicalOperator": "or"
     }}
   ]

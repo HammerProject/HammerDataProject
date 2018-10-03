@@ -139,18 +139,10 @@ public class RecordReader {
 								mylist.add(new Document(newObj.toMap()));
 							}
 						} else if (meta.contains("result")) {
+							System.out.println("RESULTS FIND --->");
 							pList = (BasicBSONList) ((BSONObject) doc.get("result")).get("records");
-							meta = new ArrayList<String>();
 							for (Object obj : pList) {
-								BasicBSONObject pObj = (BasicBSONObject) obj;
-								if (pObj.containsField("fieldName")) {
-									meta.add(pObj.getString("fieldName").toLowerCase().replaceAll(":", ""));
-								}
-							}
-
-							pList = (BasicBSONList) doc.get("data");
-							for (Object obj : pList) {
-								BSONObject bObj = (BasicDBList) obj;
+								BSONObject bObj = (BasicBSONObject) obj;
 								bObj.put("dataset", split.getName());
 								mylist.add(new Document(bObj.toMap()));
 							}
@@ -167,6 +159,7 @@ public class RecordReader {
 					}
 
 				} catch (Exception e) {
+					e.printStackTrace();
 					LOG.error(e);
 				} finally {
 					method.releaseConnection();
