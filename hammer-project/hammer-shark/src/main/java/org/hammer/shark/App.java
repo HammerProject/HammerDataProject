@@ -166,12 +166,16 @@ public class App {
 		}
 		// 1phase MapReduce --> calc the fuzzy-query list and populate the
 		// resource-table
+		
 		SharkQuery SHARKQUERY = new SharkQuery(spark);
 		SHARKQUERY.calculateResources(spark);
 
 		// 2phase MapReduce --> download the resource-table, apply the selection model
 		// (with fuzzy logic)
 		// and return the record in query-table
+		
+		
+		
 		SharkResource SHARKRESOURCE = new SharkResource(spark);
 		SHARKRESOURCE.getItems(spark);
 

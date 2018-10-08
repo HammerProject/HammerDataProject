@@ -67,6 +67,11 @@ public class SharkResource {
 	public static final Log LOG = LogFactory.getLog(SharkResource.class);
 
 	public void getItems(SparkSession spark) throws Exception {
+		
+		
+		System.out.println("START-STOP --> START SCHEMA FITTING " + (new Date()));
+
+		
 		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex();
 		LOG.info("---> Calculate INPUTSPLIT FOR DATASET");
 		MongoClientURI inputURI = new MongoClientURI(
@@ -162,7 +167,12 @@ public class SharkResource {
 		LOG.info("------------------------------------------------------");
 		LOG.info("--Total fuzzy search query " + qList.size());
 		LOG.info("---- End combination for FUZZY SEARCH ----------------");
+		System.out.println("START-STOP --> STOP SCHEMA FITTING " + (new Date()));
 
+		
+		System.out.println("START-STOP --> START Instance Filtering " + (new Date()));
+
+		
 		// create the table for the result
 		// and clean
 		BSONObject statObj = new BasicBSONObject();
@@ -424,6 +434,9 @@ public class SharkResource {
 				mongo.close();
 			}
 		}
+		
+		System.out.println("START-STOP --> STOP Instance Filtering " + (new Date()));
+
 
 	}
 

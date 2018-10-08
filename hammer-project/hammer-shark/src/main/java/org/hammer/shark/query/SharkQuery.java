@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.io.StringReader;
 import java.util.ArrayList;
 import java.util.Comparator;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -81,6 +82,7 @@ public class SharkQuery {
 	public void calculateResources(SparkSession spark) throws Exception {
 		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex();
 
+		System.out.println("START-STOP --> START TERM EXTRACTION " + (new Date()));
 		LOG.info("---> Calculate INPUTSPLIT FOR QUERY");
 		MongoClientURI inputURI = new MongoClientURI(
 				Config.getInstance().getConfig().getString("spark.mongodb.input.uri"));
@@ -237,7 +239,10 @@ public class SharkQuery {
 			}
 			System.out.println("--> [" + k + "] : {" + temp.trim() + "}");
 		}
+		System.out.println("START-STOP --> STOP TERM EXTRACTION " + (new Date()));
+		System.out.println("START-STOP --> START Neighbour Queries " + (new Date()));
 
+		
 		LOG.info("------------------------------------------------------");
 		LOG.info("---- Create all the combination per FUZZY SEARCH -----");
 		// recursive call
@@ -272,6 +277,9 @@ public class SharkQuery {
 
 		System.out.println("#############################################################################");
 		LOG.info("--- FUZZY SEARCH QUERY AFTER PRUNNING --> " + cases.size());
+		System.out.println("START-STOP --> STOP Neighbour Queries " + (new Date()));
+
+		System.out.println("START-STOP --> START Keyword Selection " + (new Date()));
 
 		// print selected query
 		for (List<Term[]> testq : cases) {
@@ -341,7 +349,10 @@ public class SharkQuery {
 		List<Document> myList = qSplit.parallelStream().map(x -> {
 			return mapper(x, wnHome, kwIndex, searchMode, thKrm, thRm);
 		}).collect(Collectors.toList());
-		
+		System.out.println("START-STOP --> STOP Keyword Selection " + (new Date()));
+
+		System.out.println("START-STOP --> START VSM Data Set Retrieval " + (new Date()));
+
 		
 		MongoClient mongo = null;
 		MongoDatabase db = null;
@@ -392,6 +403,9 @@ public class SharkQuery {
 			StatUtils.SaveStat(statObj, spark.sparkContext().conf().get("list-result"),
 					spark.sparkContext().conf().get("stat-result"));
 			
+			
+			System.out.println("START-STOP --> STOP VSM Data Set Retrieval " + (new Date()));
+
 		} catch (Exception ex) {
 			ex.printStackTrace();
 		} finally {
