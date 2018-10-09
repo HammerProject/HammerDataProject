@@ -70,7 +70,7 @@ public class SharkResource {
 		
 		
 		System.out.println("START-STOP --> START SCHEMA FITTING " + (new Date()));
-
+		Date start = new Date();
 		
 		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex();
 		LOG.info("---> Calculate INPUTSPLIT FOR DATASET");
@@ -168,6 +168,9 @@ public class SharkResource {
 		LOG.info("--Total fuzzy search query " + qList.size());
 		LOG.info("---- End combination for FUZZY SEARCH ----------------");
 		System.out.println("START-STOP --> STOP SCHEMA FITTING " + (new Date()));
+		long seconds = ((new Date()).getTime() - start.getTime())/1000;
+		System.out.println("START-STOP --> TIME SCHEMA FITTING " + seconds);
+		start = new Date();
 
 		
 		System.out.println("START-STOP --> START Instance Filtering " + (new Date()));
@@ -436,7 +439,8 @@ public class SharkResource {
 		}
 		
 		System.out.println("START-STOP --> STOP Instance Filtering " + (new Date()));
-
+		seconds = ((new Date()).getTime() - start.getTime())/1000;
+		System.out.println("START-STOP --> TIME Instance Filtering " + seconds);
 
 	}
 

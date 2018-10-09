@@ -26,9 +26,12 @@ public class ColomboQueryConfig extends MongoTool {
 	public ColomboQueryConfig() {
         this(new Configuration());
     }
+	
+	private Configuration conf;
 
     public ColomboQueryConfig(final Configuration conf) {
         setConf(conf);
+        this.conf = conf;
         
         
         MongoConfigUtil.setInputFormat(conf, ColomboQueryInputFormat.class);

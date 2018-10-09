@@ -137,6 +137,8 @@ public class ColomboOutputCommiter extends OutputCommitter {
 
 		LOG.info("COLOMBO INSERT - DATA SET : " + inserted);
 
+
+		
 		cleanupAfterCommit(inputStream, taskContext);
 	}
 

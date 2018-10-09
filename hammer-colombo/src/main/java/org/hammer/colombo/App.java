@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.StringReader;
+import java.util.Date;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;
@@ -151,12 +152,22 @@ public class App {
 		System.out.println("******************************************************************");
 		
 		// 1phase MapReduce --> calc the fuzzy-query list and populate the resource-table
-		ToolRunner.run(conf1, new ColomboQueryConfig(conf1), new String[0]);
+		ColomboQueryConfig cq = new ColomboQueryConfig(conf1);
+		ToolRunner.run(conf1, cq, new String[0]);
+		System.out.println("START-STOP --> STOP VSM Data Set Retrieval " + (new Date()));
+		long start = cq.getConf().getLong("start_time", 0);
+		long seconds = ((new Date()).getTime() - start)/1000;
+		System.out.println("START-STOP --> TIME VSM Data Set Retrieval " + seconds);
 		
 		// 2phase MapReduce --> download the resource-table, apply the selection model (with fuzzy logic)
 		// and return the record in query-table
 		ToolRunner.run(conf2, new ColomboConfig2(conf2), new String[0]);
 
+		start = conf2.getLong("start_time", 0);
+		seconds = ((new Date()).getTime() - start)/1000;
+
+		System.out.println("START-STOP --> STOP Instance Filtering " + (new Date()));
+		System.out.println("START-STOP --> TIME Instance Filtering " + seconds);
 	}
 
 	public static void main(String[] pArgs) throws Exception {

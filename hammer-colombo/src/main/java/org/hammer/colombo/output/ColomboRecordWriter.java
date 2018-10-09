@@ -2,6 +2,7 @@ package org.hammer.colombo.output;
 
 import java.io.IOException;
 
+
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.apache.hadoop.fs.FSDataOutputStream;
@@ -62,6 +63,8 @@ public class ColomboRecordWriter extends RecordWriter<Text, BSONWritable> {
 				LOG.error("Could not close output stream", e);
 			}
 		}
+		
+
 	}
 
 	@Override

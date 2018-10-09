@@ -110,6 +110,9 @@ public class QueryOutputCommiter extends OutputCommitter {
 
 		LOG.info("COLOMBO QUERY INSERT - DATA SET : " + inserted);
 
+
+
+		
 		// save the stat
 		BSONObject statObj = new BasicBSONObject();
 		statObj.put("type", "stat");

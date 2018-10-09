@@ -3,6 +3,7 @@ package org.hammer.colombo.splitter;
 import java.io.StringReader;
 import java.util.ArrayList;
 import java.util.Comparator;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -63,7 +64,10 @@ public class QuerySplitter extends MongoSplitter {
 	 */
 	public QuerySplitter(final Configuration conf) {
 		super(conf);
+		this.conf = conf;
 	}
+	
+	private Configuration conf;
 
 	/**
 	 * Comparator for Term
@@ -87,6 +91,10 @@ public class QuerySplitter extends MongoSplitter {
 
 	@Override
 	public List<InputSplit> calculateSplits() throws SplitFailedException {
+		Date start = (new Date());
+		System.out.println("START-STOP --> START TERM EXTRACTION " + (new Date()));
+
+		
 		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex(getConfiguration());
 		LOG.info("---> Calculate INPUTSPLIT FOR QUERY");
 		MongoClientURI inputURI = MongoConfigUtil.getInputURI(getConfiguration());
@@ -256,6 +264,14 @@ public class QuerySplitter extends MongoSplitter {
 			System.out.println("--> [" + k + "] : {" + temp.trim() + "}");
 		}
 
+		System.out.println("START-STOP --> STOP TERM EXTRACTION " + (new Date()));
+		long seconds = ((new Date()).getTime() - start.getTime())/1000;
+		System.out.println("START-STOP --> TIME TERM EXTRACTION " + seconds);
+		start = new Date();
+		
+		System.out.println("START-STOP --> START Neighbour Queries " + (new Date()));
+
+		
 		LOG.info("------------------------------------------------------");
 		LOG.info("---- Create all the combination per FUZZY SEARCH -----");
 		// recursive call
@@ -291,6 +307,14 @@ public class QuerySplitter extends MongoSplitter {
 		System.out.println("#############################################################################");
 		LOG.info("--- FUZZY SEARCH QUERY AFTER PRUNNING --> " + cases.size());
 
+		System.out.println("START-STOP --> STOP Neighbour Queries " + (new Date()));
+		seconds = ((new Date()).getTime() - start.getTime())/1000;
+		System.out.println("START-STOP --> TIME Neighbour Queries " + seconds);
+		start = new Date();
+
+		System.out.println("START-STOP --> START Keyword Selection " + (new Date()));
+
+		
 		// print selected query
 		for (List<Term[]> testq : cases) {
 			System.out.println("-------------------------------------------");
@@ -352,6 +376,15 @@ public class QuerySplitter extends MongoSplitter {
 
 		StatUtils.SaveStat(this.getConfiguration(), statObj);
 
+		System.out.println("START-STOP --> STOP Keyword Selection " + (new Date()));
+		seconds = ((new Date()).getTime() - start.getTime())/1000;
+		System.out.println("START-STOP --> TIME Keyword Selection " + seconds);
+		start = new Date();
+		this.conf.setLong("start_time", (new Date()).getTime());
+		System.out.println("START-STOP --> START VSM Data Set Retrieval " + (new Date()));
+
+
+		
 		spark.stop();
 		return qSplit;
 

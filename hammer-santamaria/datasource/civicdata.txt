@@ -22,7 +22,7 @@ bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.90 true 5 
 
 
 
-bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_sql.json local search keywords 0.2 0.2 0.80 3 dataset_cd index_cd 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_sql.json local search keywords 0.2 0.2 0.80 3 dataset_cd index_cd 10 > test.log
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_sql.json local search keywords 0.3 0.3 0.80 3 dataset_cd index_cd 10
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_sql.json local search keywords 0.2 0.2 0.90 3 dataset_cd index_cd 10
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_sql.json local search keywords 0.3 0.3 0.90 3 dataset_cd index_cd 10

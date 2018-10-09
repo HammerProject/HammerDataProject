@@ -82,6 +82,7 @@ public class SharkQuery {
 	public void calculateResources(SparkSession spark) throws Exception {
 		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex();
 
+		Date start = (new Date());
 		System.out.println("START-STOP --> START TERM EXTRACTION " + (new Date()));
 		LOG.info("---> Calculate INPUTSPLIT FOR QUERY");
 		MongoClientURI inputURI = new MongoClientURI(
@@ -240,6 +241,10 @@ public class SharkQuery {
 			System.out.println("--> [" + k + "] : {" + temp.trim() + "}");
 		}
 		System.out.println("START-STOP --> STOP TERM EXTRACTION " + (new Date()));
+		long seconds = ((new Date()).getTime() - start.getTime())/1000;
+		System.out.println("START-STOP --> TIME TERM EXTRACTION " + seconds);
+		start = new Date();
+		
 		System.out.println("START-STOP --> START Neighbour Queries " + (new Date()));
 
 		
@@ -278,6 +283,9 @@ public class SharkQuery {
 		System.out.println("#############################################################################");
 		LOG.info("--- FUZZY SEARCH QUERY AFTER PRUNNING --> " + cases.size());
 		System.out.println("START-STOP --> STOP Neighbour Queries " + (new Date()));
+		seconds = ((new Date()).getTime() - start.getTime())/1000;
+		System.out.println("START-STOP --> TIME Neighbour Queries " + seconds);
+		start = new Date();
 
 		System.out.println("START-STOP --> START Keyword Selection " + (new Date()));
 
@@ -350,6 +358,9 @@ public class SharkQuery {
 			return mapper(x, wnHome, kwIndex, searchMode, thKrm, thRm);
 		}).collect(Collectors.toList());
 		System.out.println("START-STOP --> STOP Keyword Selection " + (new Date()));
+		seconds = ((new Date()).getTime() - start.getTime())/1000;
+		System.out.println("START-STOP --> TIME Keyword Selection " + seconds);
+		start = new Date();
 
 		System.out.println("START-STOP --> START VSM Data Set Retrieval " + (new Date()));
 
@@ -405,6 +416,10 @@ public class SharkQuery {
 			
 			
 			System.out.println("START-STOP --> STOP VSM Data Set Retrieval " + (new Date()));
+			seconds = ((new Date()).getTime() - start.getTime())/1000;
+			System.out.println("START-STOP --> TIME VSM Data Set Retrieval " + seconds);
+			start = new Date();
+			System.out.println("START-STOP --> START Instance Filtering " + (new Date()));
 
 		} catch (Exception ex) {
 			ex.printStackTrace();

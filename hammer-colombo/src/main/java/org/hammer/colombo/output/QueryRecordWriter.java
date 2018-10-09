@@ -62,6 +62,8 @@ public class QueryRecordWriter extends RecordWriter<Text, BSONWritable> {
 				LOG.error("Could not close output stream", e);
 			}
 		}
+		
+
 	}
 
 	@Override

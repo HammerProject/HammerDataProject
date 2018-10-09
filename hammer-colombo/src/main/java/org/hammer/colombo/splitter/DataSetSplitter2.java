@@ -1,6 +1,7 @@
 package org.hammer.colombo.splitter;
 
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 import org.apache.commons.logging.Log;
@@ -52,6 +53,10 @@ public class DataSetSplitter2 extends MongoSplitter {
 
 	@Override
 	public List<InputSplit> calculateSplits() throws SplitFailedException {
+		
+		System.out.println("START-STOP --> START SCHEMA FITTING " + (new Date()));
+		Date start = new Date();
+		
 		LOG.info("---> Calculate INPUTSPLIT FOR DATASET - 2phase");
 		MongoClientURI inputURI = MongoConfigUtil.getInputURI(getConfiguration());
 		List<InputSplit> splits = new ArrayList<InputSplit>();
@@ -100,6 +105,7 @@ public class DataSetSplitter2 extends MongoSplitter {
 				}
 			});
 			
+
 			
 		} catch (Exception ex) {
 			LOG.error(ex.getMessage());
@@ -112,6 +118,10 @@ public class DataSetSplitter2 extends MongoSplitter {
 
 		LOG.info("!!!!! FUZZY SEARCH has found " + splits.size() + " RESOURCES !!!!!");
 		
+		System.out.println("START-STOP --> STOP SCHEMA FITTING " + (new Date()));
+		long seconds = ((new Date()).getTime() - start.getTime())/1000;
+		System.out.println("START-STOP --> TIME SCHEMA FITTING " + seconds);
+		this.getConfiguration().set("start_time", (new Date()).getTime() + "");
 
 		return splits;
 

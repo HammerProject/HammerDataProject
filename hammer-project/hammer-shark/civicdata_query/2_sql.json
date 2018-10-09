@@ -1,0 +1,32 @@
+//
+// Hammer Project
+// @ 2018 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+//
+
+{
+  "select": [
+      { "column": { "instance": "crime", "label":"incidents"}}
+  ],
+  "from": [
+    "crime"
+  ],
+  "where": [{"condition": {
+      "instance1": "crime",
+      "label1": "type",
+      "operator": "eq",
+      "value": "Robbery",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "crime",
+      "label1": "type",
+      "operator": "eq",
+      "value": "Assault",
+      "logicalOperator": "or"
+    }}
+  ]
+}
+
