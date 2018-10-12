@@ -8,6 +8,7 @@ import java.util.Map;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
+import org.hammer.isabella.query.Term;
 
 
 /**
@@ -24,7 +25,7 @@ public class RecursiveString {
 	
 
 	public static void Recurse(List<Term[]> newOptionsList, Map<String, List<Term>> newAofA,
-			int placeHolder, List<List<Term[]>> testCases) {
+			int placeHolder, List<List<Term[]>> testCases, float cosSim) {
 		
 		// check to see if we are at the end of all TestAspects
 		if (placeHolder < newAofA.size()) {
@@ -48,7 +49,7 @@ public class RecursiveString {
 				t[1] = currentAspectsOptions.get(i);
 				newOptions.add(t);
 				int newPlaceHolder = placeHolder + 1;
-				Recurse(newOptions, newAofA, newPlaceHolder, testCases);
+				Recurse(newOptions, newAofA, newPlaceHolder, testCases, cosSim);
 			}
 		} else { // no more arrays to pop off
 			ArrayList<Term[]> newTestCase = new ArrayList<Term[]>();
@@ -57,7 +58,10 @@ public class RecursiveString {
 				t[0] = newOptionsList.get(i)[0];
 				t[1] = newOptionsList.get(i)[1];
 
-				newTestCase.add(t);
+				double sim1 = SpaceUtils.cos(newTestCase);
+				if(sim1 > cosSim) {
+					newTestCase.add(t);
+				}
 			}
 			LOG.debug("\t### Adding: " + newTestCase.toString());
 			

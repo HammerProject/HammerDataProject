@@ -1,4 +1,4 @@
-package org.hammer.shark.utils;
+package org.hammer.isabella.query;
 
 /**
  * 

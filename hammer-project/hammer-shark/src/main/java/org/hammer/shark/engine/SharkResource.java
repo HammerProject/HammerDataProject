@@ -5,6 +5,7 @@ import java.io.StringReader;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
@@ -34,7 +35,9 @@ import org.hammer.isabella.query.ValueNode;
 import org.hammer.shark.utils.Config;
 import org.hammer.shark.utils.RecursiveString;
 import org.hammer.shark.utils.SocrataUtils;
+import org.hammer.shark.utils.SpaceUtils;
 import org.hammer.shark.utils.StatUtils;
+import org.hammer.isabella.query.Term;
 
 import com.google.gson.Gson;
 import com.mongodb.BasicDBList;
@@ -66,6 +69,17 @@ public class SharkResource {
 
 	public static final Log LOG = LogFactory.getLog(SharkResource.class);
 
+	/**
+	 * Comparator for Query
+	 */
+	Comparator<List<Term[]>> cmp_query = new Comparator<List<Term[]>>() {
+		public int compare(List<Term[]> o1, List<Term[]> o2) {
+			double sim1 = SpaceUtils.cos(o1);
+			double sim2 = SpaceUtils.cos(o1);
+			return (sim1 < sim2) ? 1 : ((sim1 > sim2) ? -1 : 0);
+		}
+	};
+	
 	public void getItems(SparkSession spark) throws Exception {
 		
 		
@@ -84,7 +98,7 @@ public class SharkResource {
 		// System.out.println(query);
 		Isabella parser = new Isabella(new StringReader(spark.sparkContext().conf().get("query-string")));
 		String keywords = "";
-		Map<String, ArrayList<String>> similarity = new HashMap<String, ArrayList<String>>();
+		Map<String, List<Term>> similarity = new HashMap<String, List<Term>>();
 		String wnHome = Config.getInstance().getConfig().getString("wnHome");
 
 		QueryGraph q;
@@ -121,19 +135,46 @@ public class SharkResource {
 					}
 				}
 
-				similarity.put(key, tempList);
+				List<Term> myval = new ArrayList<Term>();
+				for (String s : kwIndex.keySet()) {
+					double sim = JaroWinkler.Apply(key, s.toLowerCase());
+					// set the degree threshold to 90%
+					if (sim > thSim) {
+						Term point = new Term();
+						point.setTerm(s.toLowerCase());
+						point.setWeigth((double) sim);
+						myval.add(point);
+					}
+				}
+				
+				
+
+				similarity.put(key, myval);
 			}
 		}
 
 		LOG.info("------------------------------------------------------");
 		LOG.info("---- Create all the combination per FUZZY SEARCH -----");
 		// recursive call
-		ArrayList<String[]> optionsList = new ArrayList<String[]>();
-		ArrayList<ArrayList<String[]>> cases = new ArrayList<ArrayList<String[]>>();
-
+		List<Term[]> optionsList = new ArrayList<Term[]>();
+		List<List<Term[]>> beforePrunning = new ArrayList<List<Term[]>>();
+		List<List<Term[]>> cases = new ArrayList<List<Term[]>>();
+		
 		// calculate all the combination
-		RecursiveString.RecurseWithString(optionsList, similarity, 0, cases);
+		float cosSim = 	Float.parseFloat(spark.sparkContext().conf().get("cosSim"));
+
+		RecursiveString.Recurse(optionsList, similarity, 0, beforePrunning, cosSim);
 		LOG.info("--- FUZZY SEARCH QUERY --> " + cases.size());
+		int thQuery = Integer.parseInt(spark.sparkContext().conf().get("thQuery"));
+
+		// pruning this list!!!
+		beforePrunning.sort(cmp_query);
+		if (cases.size() > thQuery) {
+			LOG.info("PRUNE THE LIST...");
+			cases = beforePrunning.subList(0, thQuery);
+		} else {
+			cases = beforePrunning;
+		}
 
 		// qList is the list of all query for fuzzy search
 		// the key of the list is a string corresponds to the keywords
@@ -147,13 +188,13 @@ public class SharkResource {
 		for (int i = 0; i < cases.size(); i++) {
 			LOG.debug("----> Query case " + (i + 1) + ": ");
 			String keywordsCase = "";
-			for (String[] k : cases.get(i)) {
-				LOG.debug(k[0] + "-" + k[1] + ",");
-				keywordsCase += ";" + k[1];
+			for (Term[] k : cases.get(i)) {
+				LOG.debug(k[0].getTerm() + "-" + k[1].getTerm() + ",");
+				keywordsCase += ";" + k[1].getTerm();
 			}
 
 			try {
-				QueryGraph temp = QueryGraphCloner.deepCopy(spark.sparkContext().conf().get("query-string"),
+				QueryGraph temp = QueryGraphCloner.deepCopyTerm(spark.sparkContext().conf().get("query-string"),
 						cases.get(i), kwIndex);
 				qList.put(keywordsCase, temp);
 
@@ -168,8 +209,8 @@ public class SharkResource {
 		LOG.info("--Total fuzzy search query " + qList.size());
 		LOG.info("---- End combination for FUZZY SEARCH ----------------");
 		System.out.println("START-STOP --> STOP SCHEMA FITTING " + (new Date()));
-		long seconds = ((new Date()).getTime() - start.getTime())/1000;
-		System.out.println("START-STOP --> TIME SCHEMA FITTING " + seconds);
+		long seconds = ((new Date()).getTime() - start.getTime());
+		System.out.println("START-STOP --> TIME SCHEMA FITTING (ms)" + seconds);
 		start = new Date();
 
 		
@@ -439,8 +480,8 @@ public class SharkResource {
 		}
 		
 		System.out.println("START-STOP --> STOP Instance Filtering " + (new Date()));
-		seconds = ((new Date()).getTime() - start.getTime())/1000;
-		System.out.println("START-STOP --> TIME Instance Filtering " + seconds);
+		seconds = ((new Date()).getTime() - start.getTime());
+		System.out.println("START-STOP --> TIME Instance Filtering (ms) " + seconds);
 
 	}
 

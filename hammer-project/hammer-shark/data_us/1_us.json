@@ -1,0 +1,28 @@
+//
+// Hammer Project
+// @ 2018 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// 
+// 500 Cities: Local Data for Better Health, 2017 release
+
+{
+  "select": [
+      { "column": { "instance": "cities", "label":"city"}},
+      { "column": { "instance": "cities", "label":"population"}},
+      { "column": { "instance": "cities", "label":"outcomes"}}
+  ],
+  "from": [
+    "cities"
+  ],
+  "where": [{"condition": {
+      "instance1": "cities",
+      "label1": "census",
+      "operator": "eq",
+      "value": "2017",
+      "logicalOperator": "or"
+    }}
+  ]
+}
+

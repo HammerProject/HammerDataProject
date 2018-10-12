@@ -29,7 +29,7 @@ public class App {
 			TwitterThread myTh = new TwitterThread(pArgs[1].trim().toLowerCase());
 	        myTh.run();
 		} else {
-			Run(pArgs[0],pArgs[1]);
+			Run(pArgs[0],pArgs[1],pArgs[2]);
 		}
 		
 	}
@@ -39,11 +39,12 @@ public class App {
 	 * @param datasource 
 	 * @throws Exception
 	 */
-	public static void Run(String datasource, String mongodb) throws Exception {
+	public static void Run(String datasource, String mongodb, String limit) throws Exception {
 		Configuration conf = new Configuration();
 		conf.set("mongo.splitter.class","org.hammer.santamaria.splitter.DataSourceSplitter");
 		conf.set("datasource-table", datasource);
 		conf.set("mongodb-host", mongodb);
+		conf.setInt("limit", Integer.parseInt(limit));
 		System.exit(ToolRunner.run(conf, new SantaMariaConfig(conf), new String[0]));
 	}
 }

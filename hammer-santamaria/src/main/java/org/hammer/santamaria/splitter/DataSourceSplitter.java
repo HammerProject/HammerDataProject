@@ -74,6 +74,7 @@ public class DataSourceSplitter extends MongoSplitter {
 		final HashMap<String, DataSource> sourceMap = new HashMap<String, DataSource>();
 		MongoDatabase db = null;
 		System.out.println("Santa Maria gets data source from database...");
+		final int LIMIT = this.getConfiguration().getInt("limit", 10000);
 		try {
 			MongoClientURI inputURI = MongoConfigUtil.getInputURI(getConfiguration());
 			mongo = new MongoClient(inputURI);
@@ -127,7 +128,7 @@ public class DataSourceSplitter extends MongoSplitter {
 						int count = CKAN3BigSourceRecordReader.GetCountByCkan3(countUrl);
 						int total = CKAN3BigSourceRecordReader.LIMIT;
 						int c = 1;
-						while (total <= count) {
+						while (total <= count && total <= LIMIT) {
 							DataSource ds = new DataSource();
 							ds.setName(name);
 							ds.setUrl(url);
@@ -139,6 +140,15 @@ public class DataSourceSplitter extends MongoSplitter {
 									+ CKAN3BigSourceRecordReader.LIMIT;
 							total += CKAN3BigSourceRecordReader.LIMIT;
 						}
+						
+						DataSource ds = new DataSource();
+						// ds.setName(name + " " + c);
+						ds.setName(name);
+						ds.setUrl(url);
+						ds.setAction(action);
+						ds.setType(type);
+						sourceMap.put(name + " " + c, ds);
+						c++;
 					} else {
 						DataSource ds = new DataSource();
 						ds.setName(name);

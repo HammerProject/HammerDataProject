@@ -1,0 +1,51 @@
+###################################################################
+### script and utils to work with open data data.gov
+###
+
+
+
+db.createCollection("datasource_us");
+db.createCollection("dataset_us");
+db.createCollection("index_us");
+
+db.datasource_us.drop()
+db.datasource_us.insert(
+{ "name" : "data.gov", "url" : "http://catalog.data.gov/api/action", "action" : "http://catalog.data.gov/api/action", "type" : "org.hammer.santamaria.input.CKAN3BigSourceRecordReader" }
+);
+
+bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App datasource_us 192.168.56.90 1000
+
+db.dataset.renameCollection("dataset_1000");
+db.dataset.remove({});
+bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App datasource_us 192.168.56.90 10000
+
+db.dataset.renameCollection("dataset_10000");
+db.dataset.remove({});
+
+bin/yarn jar share/test/hammer-santamaria-0.0.2.jar org.hammer.santamaria.App datasource_us 192.168.56.90 20000
+
+db.dataset_20000.renameCollection("dataset_15000");
+db.dataset_15000.aggregate([{$match: { }  },{ $sample: { size: 10000 } },{$out: "dataset_10000"}], {allowDiskUse:true});
+
+
+
+## create/update the inverted index and calc re/sim of each tems
+bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.90 true 5 dataset_1000 index_1000 /home/hadoop/software/WordNet-3.0
+bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.90 true 5 dataset_10000 index_10000 /home/hadoop/software/WordNet-3.0
+bin/yarn jar share/test/hammer-pinta-0.0.2.jar org.hammer.pinta.App 0.90 true 5 dataset_15000 index_15000 /home/hadoop/software/WordNet-3.0
+
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/1_us.json local search keywords 0.2 0.2 0.80 3 dataset_1000 index_1000 10
+
+
+********************************************************************************
+data from https://www.data.gov:
+
+dataset_1000: 1098 datasets
+index_1000: 13916 terms
+dataset_15000: 10000 datasets
+index_10000:  52865
+dataset_15000: 16738 datasets 
+index_15000: 71159
+
+********************************************************************************
+

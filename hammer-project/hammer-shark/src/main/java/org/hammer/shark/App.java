@@ -55,7 +55,7 @@ public class App {
 	 * @throws Exception
 	 */
 	public static void Run(String fileQuery, String searchMode, String queryMode, float thKrm, float thRm, float thSim,
-			int maxSim, String datasetTable, String indexTable, int thQuery) throws Exception {
+			int maxSim, String datasetTable, String indexTable, int thQuery, float cosSim) throws Exception {
 		System.out.println("!!! Hammer Project !!!");
 		System.out.println("!!! Shark Module start.....");
 
@@ -91,6 +91,7 @@ public class App {
 		spark.sparkContext().conf().set("dataset-table", datasetTable + "");
 		spark.sparkContext().conf().set("index-table", indexTable + "");
 		spark.sparkContext().conf().set("thQuery", thQuery + "");
+		spark.sparkContext().conf().set("cosSim", cosSim + "");
 
 		// check the query
 		Isabella parser = new Isabella(new StringReader(query));
@@ -186,9 +187,9 @@ public class App {
 
 		if (pArgs == null || pArgs.length < 10) {
 			throw new Exception(
-					"Parameter: <path_to_query> <search mode: search|download> <query mode: keywords|labels> <thKrm: 0.5|0.01..>  <thRm: 0.5|0.01..> <thSim: 0.5|0.01..> <maxSim: 1|2|3...> <dataset-table> <index-table> <cosTh:0.9991|0.9992>");
+					"Parameter: <path_to_query> <search mode: search|download> <query mode: keywords|labels> <thKrm: 0.5|0.01..>  <thRm: 0.5|0.01..> <thSim: 0.5|0.01..> <maxSim: 1|2|3...> <dataset-table> <index-table> <queryLimit:10|100|1000> <cosTh:0.9991|0.9992>");
 		}
 		Run(pArgs[0], pArgs[1], pArgs[2], Float.parseFloat(pArgs[3]), Float.parseFloat(pArgs[4]),
-				Float.parseFloat(pArgs[5]), Integer.parseInt(pArgs[6]), pArgs[7], pArgs[8], Integer.parseInt(pArgs[9]));
+				Float.parseFloat(pArgs[5]), Integer.parseInt(pArgs[6]), pArgs[7], pArgs[8], Integer.parseInt(pArgs[9]), Float.parseFloat(pArgs[10]));
 	}
 }

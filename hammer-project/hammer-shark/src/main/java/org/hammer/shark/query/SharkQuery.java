@@ -30,7 +30,7 @@ import org.hammer.shark.utils.RecursiveString;
 import org.hammer.shark.utils.SocrataUtils;
 import org.hammer.shark.utils.SpaceUtils;
 import org.hammer.shark.utils.StatUtils;
-import org.hammer.shark.utils.Term;
+import org.hammer.isabella.query.Term;
 
 import com.mongodb.BasicDBList;
 import com.mongodb.BasicDBObject;
@@ -93,6 +93,8 @@ public class SharkQuery {
 		float thKrm = Float.parseFloat(spark.sparkContext().conf().get("thKrm"));
 		float thRm = Float.parseFloat(spark.sparkContext().conf().get("thRm"));
 		int thQuery = Integer.parseInt(spark.sparkContext().conf().get("thQuery"));
+		float cosSim = 	Float.parseFloat(spark.sparkContext().conf().get("cosSim"));
+
 		int maxSim = Integer.parseInt(spark.sparkContext().conf().get("maxSim"));
 		String searchMode = spark.sparkContext().conf().get("search-mode");
 		String wnHome = Config.getInstance().getConfig().getString("wnHome");
@@ -241,8 +243,8 @@ public class SharkQuery {
 			System.out.println("--> [" + k + "] : {" + temp.trim() + "}");
 		}
 		System.out.println("START-STOP --> STOP TERM EXTRACTION " + (new Date()));
-		long seconds = ((new Date()).getTime() - start.getTime())/1000;
-		System.out.println("START-STOP --> TIME TERM EXTRACTION " + seconds);
+		long seconds = ((new Date()).getTime() - start.getTime());
+		System.out.println("START-STOP --> TIME TERM EXTRACTION (ms) " + seconds);
 		start = new Date();
 		
 		System.out.println("START-STOP --> START Neighbour Queries " + (new Date()));
@@ -256,9 +258,12 @@ public class SharkQuery {
 		List<List<Term[]>> cases = new ArrayList<List<Term[]>>();
 
 		// calculate all the combination
-		RecursiveString.Recurse(optionsList, similarity, 0, beforePrunning);
-
+		LOG.info("---> SHARK Query limit " + thQuery);
+		LOG.info("---> SHARK Query similarity " + cosSim);
 		LOG.info("--- FUZZY SEARCH QUERY --> " + beforePrunning.size());
+
+		RecursiveString.Recurse(optionsList, similarity, 0, beforePrunning, cosSim);
+
 		int fuzzyQueryBefore = beforePrunning.size();
 
 		// check the generate query with the main query and remove the major
@@ -273,6 +278,7 @@ public class SharkQuery {
 
 		beforePrunning.sort(cmp_query);
 		if (beforePrunning.size() > thQuery) {
+			LOG.info("PRUNE THE LIST...");
 			cases = beforePrunning.subList(0, thQuery);
 		} else {
 			cases = beforePrunning;
@@ -283,8 +289,8 @@ public class SharkQuery {
 		System.out.println("#############################################################################");
 		LOG.info("--- FUZZY SEARCH QUERY AFTER PRUNNING --> " + cases.size());
 		System.out.println("START-STOP --> STOP Neighbour Queries " + (new Date()));
-		seconds = ((new Date()).getTime() - start.getTime())/1000;
-		System.out.println("START-STOP --> TIME Neighbour Queries " + seconds);
+		seconds = ((new Date()).getTime() - start.getTime());
+		System.out.println("START-STOP --> TIME Neighbour Queries (ms) " + seconds);
 		start = new Date();
 
 		System.out.println("START-STOP --> START Keyword Selection " + (new Date()));
@@ -358,8 +364,8 @@ public class SharkQuery {
 			return mapper(x, wnHome, kwIndex, searchMode, thKrm, thRm);
 		}).collect(Collectors.toList());
 		System.out.println("START-STOP --> STOP Keyword Selection " + (new Date()));
-		seconds = ((new Date()).getTime() - start.getTime())/1000;
-		System.out.println("START-STOP --> TIME Keyword Selection " + seconds);
+		seconds = ((new Date()).getTime() - start.getTime());
+		System.out.println("START-STOP --> TIME Keyword Selection (ms) " + seconds);
 		start = new Date();
 
 		System.out.println("START-STOP --> START VSM Data Set Retrieval " + (new Date()));
@@ -416,8 +422,8 @@ public class SharkQuery {
 			
 			
 			System.out.println("START-STOP --> STOP VSM Data Set Retrieval " + (new Date()));
-			seconds = ((new Date()).getTime() - start.getTime())/1000;
-			System.out.println("START-STOP --> TIME VSM Data Set Retrieval " + seconds);
+			seconds = ((new Date()).getTime() - start.getTime());
+			System.out.println("START-STOP --> TIME VSM Data Set Retrieval (ms) " + seconds);
 			start = new Date();
 			System.out.println("START-STOP --> START Instance Filtering " + (new Date()));
 
