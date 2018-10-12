@@ -210,7 +210,7 @@ public class SharkResource {
 		LOG.info("---- End combination for FUZZY SEARCH ----------------");
 		System.out.println("START-STOP --> STOP SCHEMA FITTING " + (new Date()));
 		long seconds = ((new Date()).getTime() - start.getTime());
-		System.out.println("START-STOP --> TIME SCHEMA FITTING (ms)" + seconds);
+		System.out.println("START-STOP --> TIME SCHEMA FITTING (ms) " + seconds);
 		start = new Date();
 
 		
