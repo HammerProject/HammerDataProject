@@ -1,6 +1,5 @@
 package org.hammer.shark.query;
 
-import java.io.IOException;
 import java.io.StringReader;
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -9,11 +8,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.StringTokenizer;
-import java.util.stream.Collectors;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.apache.spark.ml.feature.Word2VecModel;
+import org.apache.spark.sql.Dataset;
+import org.apache.spark.sql.Encoders;
 import org.apache.spark.sql.SparkSession;
 import org.bson.BSONObject;
 import org.bson.BasicBSONObject;
@@ -25,12 +25,12 @@ import org.hammer.isabella.fuzzy.WordNetUtils;
 import org.hammer.isabella.query.IsabellaError;
 import org.hammer.isabella.query.Keyword;
 import org.hammer.isabella.query.QueryGraph;
+import org.hammer.isabella.query.Term;
 import org.hammer.shark.utils.Config;
 import org.hammer.shark.utils.RecursiveString;
 import org.hammer.shark.utils.SocrataUtils;
 import org.hammer.shark.utils.SpaceUtils;
 import org.hammer.shark.utils.StatUtils;
-import org.hammer.isabella.query.Term;
 
 import com.mongodb.BasicDBList;
 import com.mongodb.BasicDBObject;
@@ -358,11 +358,43 @@ public class SharkQuery {
 		StatUtils.SaveStat(statObj, spark.sparkContext().conf().get("list-result"),
 				spark.sparkContext().conf().get("stat-result"));
 
+		// clean mapper temp table
+		// get list results and return record
+		MongoClient mongo = null;
+		MongoDatabase db = null;
+				try {
+					MongoClientURI outputURI = new MongoClientURI(
+							Config.getInstance().getConfig().getString("spark.mongodb.output.uri"));
+					mongo = new MongoClient(outputURI);
+					db = mongo.getDatabase(outputURI.getDatabase());
+					System.out.println("SHARK QUERY Create temp table " + spark.sparkContext().conf().get("resource-table"));
+					if (db.getCollection(spark.sparkContext().conf().get("resource-table")) != null) {
+						db.getCollection(spark.sparkContext().conf().get("resource-table")).drop();
+					}
+					db.createCollection(spark.sparkContext().conf().get("resource-table"));
+				} catch (Exception ex) {
+					ex.printStackTrace();
+				} finally {
+					if (mongo != null) {
+						mongo.close();
+					}
+				}
+		
 		// start mapper
-
-		List<Document> myList = qSplit.parallelStream().map(x -> {
+		
+		
+		Dataset<QuerySplit> ds = spark.createDataset(qSplit, Encoders.bean(QuerySplit.class));
+		ds.foreach(x -> {
+			mapper(x, wnHome, kwIndex, searchMode, thKrm, thRm, spark.sparkContext().conf().get("resource-table"));
+		});
+		
+		
+		
+		/*List<Document> myList = qSplit.parallelStream().map(x -> {
 			return mapper(x, wnHome, kwIndex, searchMode, thKrm, thRm);
-		}).collect(Collectors.toList());
+		}).collect(Collectors.toList());*/
+		
+		
 		System.out.println("START-STOP --> STOP Keyword Selection " + (new Date()));
 		seconds = ((new Date()).getTime() - start.getTime());
 		System.out.println("START-STOP --> TIME Keyword Selection (ms) " + seconds);
@@ -371,7 +403,7 @@ public class SharkQuery {
 		System.out.println("START-STOP --> START VSM Data Set Retrieval " + (new Date()));
 
 		
-		MongoClient mongo = null;
+		/* MongoClient mongo = null;
 		MongoDatabase db = null;
 		try {
 			MongoClientURI outputURI = new MongoClientURI(
@@ -405,7 +437,17 @@ public class SharkQuery {
 					}
 				}
 			}
+			
+	*/
+		try {
+			MongoClientURI outputURI = new MongoClientURI(
+					Config.getInstance().getConfig().getString("spark.mongodb.output.uri"));
+			mongo = new MongoClient(outputURI);
+			db = mongo.getDatabase(outputURI.getDatabase());
+			
+			long inserted = db.getCollection(spark.sparkContext().conf().get("resource-table")).count();
 
+			
 			LOG.info("SHARK QUERY INSERT - DATA SET : " + inserted);
 
 			// save the stat
@@ -444,7 +486,7 @@ public class SharkQuery {
 	}
 
 	private Document mapper(QuerySplit pValue, String wnHome, HashMap<String, Keyword> kwIndex, String searchMode,
-			float thKrm, float thRm) {
+			float thKrm, float thRm, String resourceTable) {
 		LOG.info("START SHARK QUERY MAPPER " + pValue.getQueryString());
 
 		if (pValue != null) {
@@ -510,6 +552,7 @@ public class SharkQuery {
 								resource.put("rm", t.get("rm"));
 								resource.put("krm", t.get("krm"));
 								resource.put("keywords", t.get("keywords"));
+								db.getCollection(resourceTable).insertOne(resource);
 
 								return resource;
 
@@ -526,6 +569,8 @@ public class SharkQuery {
 								resource.put("rm", t.get("rm"));
 								resource.put("krm", t.get("krm"));
 								resource.put("keywords", t.get("keywords"));
+
+								db.getCollection(resourceTable).insertOne(resource);
 
 								return resource;
 
