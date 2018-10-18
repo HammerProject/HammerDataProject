@@ -1,5 +1,6 @@
 package org.hammer.shark.query;
 
+import java.io.Serializable;
 import java.io.StringReader;
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -51,7 +52,7 @@ import scala.Tuple2;
  * @project Hammer Project - SHARK
  *
  */
-public class SharkQuery {
+public class SharkQuery implements Serializable {
 
 	public SharkQuery(SparkSession spark) {
 
@@ -382,10 +383,10 @@ public class SharkQuery {
 		
 		// start mapper
 		
-		
+		String resTable = spark.sparkContext().conf().get("resource-table");
 		Dataset<QuerySplit> ds = spark.createDataset(qSplit, Encoders.bean(QuerySplit.class));
 		ds.foreach(x -> {
-			mapper(x, wnHome, kwIndex, searchMode, thKrm, thRm, spark.sparkContext().conf().get("resource-table"));
+			mapper(x, wnHome, kwIndex, searchMode, thKrm, thRm, resTable);
 		});
 		
 		
@@ -485,7 +486,7 @@ public class SharkQuery {
 		spark.stop();
 	}
 
-	private Document mapper(QuerySplit pValue, String wnHome, HashMap<String, Keyword> kwIndex, String searchMode,
+	private static void mapper(QuerySplit pValue, String wnHome, HashMap<String, Keyword> kwIndex, String searchMode,
 			float thKrm, float thRm, String resourceTable) {
 		LOG.info("START SHARK QUERY MAPPER " + pValue.getQueryString());
 
@@ -501,7 +502,7 @@ public class SharkQuery {
 				query.setIndex(kwIndex);
 				query.setWnHome(wnHome);
 			} catch (ParseException e) {
-				return null;
+				return;
 			}
 
 			// select label
@@ -554,7 +555,7 @@ public class SharkQuery {
 								resource.put("keywords", t.get("keywords"));
 								db.getCollection(resourceTable).insertOne(resource);
 
-								return resource;
+								return;
 
 							}
 
@@ -572,7 +573,7 @@ public class SharkQuery {
 
 								db.getCollection(resourceTable).insertOne(resource);
 
-								return resource;
+								return;
 
 							}
 						}
@@ -591,7 +592,6 @@ public class SharkQuery {
 
 		}
 
-		return null;
 	}
 
 	/**
@@ -600,7 +600,7 @@ public class SharkQuery {
 	 * 
 	 * @return
 	 */
-	private ArrayList<Document> getSetList(QueryGraph q, String keywords, MongoCollection<Document> dataset,
+	private static ArrayList<Document> getSetList(QueryGraph q, String keywords, MongoCollection<Document> dataset,
 			MongoCollection<Document> index, float thKrm, float thRm) {
 
 		final ArrayList<Document> returnList = new ArrayList<Document>();
