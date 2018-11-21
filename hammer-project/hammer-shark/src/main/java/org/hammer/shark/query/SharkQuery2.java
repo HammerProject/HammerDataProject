@@ -469,11 +469,9 @@ public class SharkQuery2 implements Serializable {
 
 	private static void transform(Dataset<QuerySplit> ds, SparkSession spark, String resourceTable, String wnHome,
 			HashMap<String, Keyword> kwIndex, float thKrm, float thRm) {
-		MongoClientURI inputURI = new MongoClientURI(
-				Config.getInstance().getConfig().getString("spark.mongodb.input.uri"));
 		Map<String, String> readOverrides = new HashMap<String, String>();
 		readOverrides.put("database", "hammer");
-		readOverrides.put("collection", "index-table");
+		readOverrides.put("collection", Config.getInstance().getConfig().getString("index-table"));
 		JavaSparkContext jsc = JavaSparkContext.fromSparkContext(spark.sparkContext());
 		ReadConfig readConfig = ReadConfig.create(jsc).withOptions(readOverrides);
 
@@ -481,7 +479,7 @@ public class SharkQuery2 implements Serializable {
 
 		readOverrides = new HashMap<String, String>();
 		readOverrides.put("database", "hammer");
-		readOverrides.put("collection", inputURI.getCollection());
+		readOverrides.put("collection", spark.sparkContext().conf().get("dataset-table"));
 		readConfig = ReadConfig.create(jsc).withOptions(readOverrides);
 		Dataset<Row> dataset = MongoSpark.load(jsc, readConfig).toDF().cache();
 
@@ -595,13 +593,14 @@ public class SharkQuery2 implements Serializable {
 			String datainput_type = r.getString(r.fieldIndex("datainput_type"));
 			String dataset_type = r.getString(r.fieldIndex("dataset-type"));
 			String url = r.getString(r.fieldIndex("url"));
+			String id = r.getString(r.fieldIndex("id"));
 			
 			DS myDS = new DS();
 			myDS.setKeywords(keywords);
 			myDS.set_id(documentKey);
 			myDS.setDatainput_type(datainput_type);
 			myDS.setDataset_type(dataset_type);
-			myDS.setId(documentKey);
+			myDS.setId(id);
 			myDS.setKrm(krmValue);
 			myDS.setRm(rmValue);
 			myDS.setUrl(url);
