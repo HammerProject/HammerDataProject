@@ -526,8 +526,8 @@ public class SharkQuery2 implements Serializable {
 		Dataset<Row> queryDoclocalCount = krm.groupBy("query","documentKey").agg(count("documentKey").as("docCount")).cache();
 		// calc krm
 		Dataset<Row> docKrmList = queryDocTotalCount.join(queryDoclocalCount, queryDocTotalCount.col("query").equalTo(queryDoclocalCount.col("query")), "inner").map(r -> {
-			int totalCount = r.getInt(r.fieldIndex("totalCount"));
-			int docCount = r.getInt(r.fieldIndex("docCount"));
+			long totalCount = r.getLong(r.fieldIndex("totalCount"));
+			long docCount = r.getLong(r.fieldIndex("docCount"));
 			float w = r.getFloat(r.fieldIndex("w"));
 			String keywords = r.getString(r.fieldIndex("keywords"));
 			String query = r.getString(r.fieldIndex("query"));
