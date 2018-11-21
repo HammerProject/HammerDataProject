@@ -295,7 +295,7 @@ public class SharkResource {
 				dsSplit.setName(key);
 				if (doc.containsKey("url") && !doc.containsKey("remove")) {
 					dsSplit.setUrl(doc.getString("url"));
-					dsSplit.setType(doc.getString("dataset-type"));
+					dsSplit.setType(doc.getString("dataset_type"));
 					dsSplit.setDataSetType(doc.getString("datainput_type"));
 					dsSplit.setDatasource(doc.getString("id"));
 					splits.add(dsSplit);
@@ -315,7 +315,7 @@ public class SharkResource {
 				dsSplit.setName(key);
 				if (doc.containsKey("url") && !doc.containsKey("remove")) {
 					dsSplit.setUrl(doc.getString("url"));
-					dsSplit.setType(doc.getString("dataset-type"));
+					dsSplit.setType(doc.getString("dataset_type"));
 					dsSplit.setDataSetType(doc.getString("datainput_type"));
 					dsSplit.setDatasource(doc.getString("id"));
 					dsSplit.setAction(doc.getString("id"));
@@ -659,7 +659,7 @@ public class SharkResource {
 			// search the resources
 			// and if i want to search we must add the JSON constrain, else not
 			searchQuery = new BasicDBObject("$or", idSet);
-			searchQuery.append("dataset-type", new BasicDBObject("$regex", "JSON"));
+			searchQuery.append("dataset_type", new BasicDBObject("$regex", "JSON"));
 
 			System.out.println("Shark gets dataset from database..." + searchQuery.toString());
 			//
@@ -683,7 +683,7 @@ public class SharkResource {
 
 						String socrataQuery = SocrataUtils.CreateWhereCondition(spark, doc.getString("_id"));
 
-						if (socrataQuery.length() > 0 && doc.getString("dataset-type").equals("JSON")) {
+						if (socrataQuery.length() > 0 && doc.getString("dataset_type").equals("JSON")) {
 							long count = SocrataUtils.CountPackageList(spark, doc.getString("url"),
 									doc.getString("_id"));
 							int offset = 0;

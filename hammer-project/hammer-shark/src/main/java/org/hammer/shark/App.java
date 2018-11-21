@@ -10,7 +10,7 @@ import org.hammer.isabella.cc.util.IsabellaUtils;
 import org.hammer.isabella.query.IsabellaError;
 import org.hammer.isabella.query.QueryGraph;
 import org.hammer.shark.engine.SharkResource;
-import org.hammer.shark.query.SharkQuery;
+import org.hammer.shark.query.SharkQuery2;
 import org.hammer.shark.utils.Config;
 import org.hammer.shark.utils.StatUtils;
 
@@ -168,7 +168,7 @@ public class App {
 		// 1phase MapReduce --> calc the fuzzy-query list and populate the
 		// resource-table
 		
-		SharkQuery SHARKQUERY = new SharkQuery(spark);
+		SharkQuery2 SHARKQUERY = new SharkQuery2(spark);
 		SHARKQUERY.calculateResources(spark);
 
 		// 2phase MapReduce --> download the resource-table, apply the selection model
