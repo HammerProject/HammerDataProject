@@ -522,10 +522,10 @@ public class SharkQuery2 implements Serializable {
 				.toDF("query", "key","w","keywords")
 				.join(index, col("key").equalTo(index.col("_id")), "inner").select(col("query"), col("key"), col("w"), col("keywords"), explode(col("documents.document")).as("documentKey")).cache();
 		
-		Dataset<Row> queryDocTotalCount = krm.groupBy("query").agg(count("documentKey").as("totalCount")).cache();
-		Dataset<Row> queryDoclocalCount = krm.groupBy("query","documentKey").agg(count("documentKey").as("docCount")).cache();
+		Dataset<Row> queryDocTotalCount = krm.groupBy("query").agg(count("documentKey")).toDF("query1", "totalCount").cache();
+		Dataset<Row> queryDoclocalCount = krm.groupBy("query","documentKey").agg(count("documentKey").as("docCount")).toDF("query2","documentKey2", "docCount").cache();
 		// calc krm
-		Dataset<Row> docKrmList = queryDocTotalCount.join(queryDoclocalCount, queryDocTotalCount.col("query").equalTo(queryDoclocalCount.col("query")), "inner").map(r -> {
+		Dataset<Row> docKrmList = krm.join(queryDocTotalCount, krm.col("query").equalTo(queryDocTotalCount.col("query1")), "inner").join(queryDoclocalCount, krm.col("query").equalTo(queryDoclocalCount.col("query2")).and(krm.col("documentKey").equalTo(queryDoclocalCount.col("documentKey2"))), "inner").map(r -> {
 			long totalCount = r.getLong(r.fieldIndex("totalCount"));
 			long docCount = r.getLong(r.fieldIndex("docCount"));
 			float w = r.getFloat(r.fieldIndex("w"));
