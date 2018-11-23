@@ -121,6 +121,75 @@ public class Node implements Leaf, IDataType, Serializable {
 			node.calcSimilaritySet(index, wnHome);
 		}
 	}
+	
+	
+	
+	/**
+	 * Calc similarity set for this name
+	 * 
+	 * @param index
+	 */
+	public void calcSimilaritySet_tree(HashMap<String, HashMap<String, Keyword>> index, String wnHome) {
+		if (this.simName == null && !this.name.equals("Q") && !this.name.equals("?") && !this.name.equals("*")) {
+			String init = (this.name.toLowerCase().length() > 4) ? this.name.toLowerCase().substring(0, 3) : this.name.toLowerCase();
+			
+			if(index.containsKey(init)) {
+				for (String s : index.get(init).keySet()) {
+					double sim = JaroWinkler.Apply(this.name.toLowerCase(), s.toLowerCase());
+					// avg the value of sim with the value of re
+					// we want to give more importance to terms that are more
+					// representative of our index
+					double re = index.get(init).get(s).getReScore();
+					sim = (sim + re) / 2.0d;
+					
+					if (sim > 0) {
+	
+						
+						Keyword k = index.get(init).get(s).clone();
+						k.setSimilarity(sim);
+						this.similatirySet.add(k);
+						this.similatirySet.sort(cmp);
+						this.simName = this.similatirySet.get(0).getKeyword();
+						
+					}
+				}
+			} else {
+				this.simName = this.name;
+			}
+			
+			Map<String, Double> mySynSet = WordNetUtils.MySynset(wnHome, this.name.toLowerCase());
+			
+			
+			for (String s : mySynSet.keySet()) {
+				if (index.containsKey(s)) {
+					// a term of synset has the same re of the original term
+					double re = index.get(init).get(s).getReScore();
+					double sim = (mySynSet.get(s) + re) / 2.0d;
+					Keyword k = index.get(init).get(s).clone();
+					k.setSimilarity(sim);
+					this.synSet.add(k);
+					this.synSet.sort(cmp);
+					
+					// if find a good synset, we can substitute the sinName by Jaro with synset by WordNet
+					this.simName = this.synSet.get(0).getKeyword();
+				}
+			}
+			
+			System.out.println("-------------------------------------------------");
+			System.out.println(this.name.toString());
+			System.out.println(this.simName.toString());
+			System.out.println("-------------------------------------------------");
+			
+			if (this.father != null) {
+				this.father.calcSimilaritySet_tree(index, wnHome);
+			}
+
+		}
+
+		for (Node node : getChild()) {
+			node.calcSimilaritySet_tree(index, wnHome);
+		}
+	}
 
 	/**
 	 * Update reScore

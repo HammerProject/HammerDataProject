@@ -61,6 +61,11 @@ public class QueryGraph implements Serializable {
 	public void setIndex(HashMap<String, Keyword> index) {
 		this.index = index;
 	}
+	
+	/**
+	 * List of all my label
+	 */
+	private HashMap<String, HashMap<String, Keyword>> tree_index = new HashMap<String, HashMap<String, Keyword>>();
 
 	/**
 	 * List of all my label
@@ -221,11 +226,47 @@ public class QueryGraph implements Serializable {
 		root.updareReScore(this.index, sub);
 	}
 	
+	public HashMap<String, HashMap<String, Keyword>> getTree_index() {
+		return tree_index;
+	}
+
+	public void setTree_index(HashMap<String, HashMap<String, Keyword>> tree_index) {
+		this.tree_index = tree_index;
+	}
+
 	/**
 	 * Select label
 	 */
 	public void labelSelection() {
 		this.calculateSimilarity();
+		this.updareReScore(true);
+		this.test();
+		System.out.println("--------- find labels -------");
+		this.keyWords = new ArrayList<String>();
+
+		Node k = root.valid(root);
+		while (k != null) {
+			System.out.println("---------" + k.getName() + " --!!! " + (k.rScore() + k.getiScore()));
+			k.setSelected(true);
+			if (!this.keyWords.contains(k.getName()) && k.getName() != "*" && k.getName().trim().length() > 2) {
+				this.keyWords.add(k.getName());
+			}
+			this.updateScore(k);
+			k = root.valid(root);
+		}
+		System.out.println("--------- print label -------");
+		for (String keyWord : keyWords) {
+			System.out.println(" ----> " + keyWord);
+		}
+
+	}
+	
+	
+	/**
+	 * Select label
+	 */
+	public void labelSelection_tree() {
+		this.calculateSimilarity_tree();
 		this.updareReScore(true);
 		this.test();
 		System.out.println("--------- find labels -------");
@@ -261,6 +302,13 @@ public class QueryGraph implements Serializable {
 			System.out.println(" ----> " + label);
 		}
 
+	}
+	
+	/**
+	 * Select similarity
+	 */
+	public void calculateSimilarity_tree() {
+		root.calcSimilaritySet_tree(this.tree_index, this.wnHome);
 	}
 	
 	/**

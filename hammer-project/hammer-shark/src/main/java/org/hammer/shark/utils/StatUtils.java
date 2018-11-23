@@ -43,11 +43,13 @@ public class StatUtils {
 		LOG.debug("Select my index...");
 		try {
 
-			MongoClientURI inputURI = new MongoClientURI(Config.getInstance().getConfig().getString("spark.mongodb.input.uri"));
+			MongoClientURI inputURI = new MongoClientURI(
+					Config.getInstance().getConfig().getString("spark.mongodb.input.uri"));
 			mongo = new MongoClient(inputURI);
 			db = mongo.getDatabase(inputURI.getDatabase());
 
-			MongoCollection<Document> myIdx = db.getCollection(Config.getInstance().getConfig().getString("index-table") + "");
+			MongoCollection<Document> myIdx = db
+					.getCollection(Config.getInstance().getConfig().getString("index-table") + "");
 			final long totalResources = myIdx.count();
 			LOG.info("TOTAL INDEX KEYWORDS ---> " + totalResources);
 			FindIterable<Document> iterable = myIdx.find();
@@ -59,9 +61,9 @@ public class StatUtils {
 					ArrayList<Document> docList = (ArrayList<Document>) document.get("documents");
 					long mT = docList.size();
 					Keyword k = new Keyword(document.getString("keyword"), totalResources, mT);
-					
+
 					index.put(document.getString("keyword"), k);
-					
+
 				}
 			});
 
@@ -76,7 +78,33 @@ public class StatUtils {
 		return index;
 
 	}
-	
+
+	/**
+	 * Get the inverted index
+	 * 
+	 * @param conf
+	 * @param q
+	 * @return
+	 */
+	public static HashMap<String, HashMap<String, Keyword>> GetTreeIndex(HashMap<String, Keyword> index) {
+		if (index != null) {
+			index = GetMyIndex();
+		}
+		HashMap<String, HashMap<String, Keyword>> treeIndex = new HashMap<String, HashMap<String, Keyword>>();
+		for(String s: index.keySet()) {
+			String init = (s.length() > 3) ? s.substring(0, 3) : s;
+			if(treeIndex.containsKey(init)) {
+				treeIndex.get(init).put(s, index.get(s));
+			} else {
+				HashMap<String, Keyword> sub = new HashMap<String, Keyword>();
+				sub.put(s, index.get(s));
+				treeIndex.put(init, sub);
+			}
+		}
+		return treeIndex;
+
+	}
+
 	/**
 	 * 
 	 * Save the stat of the query
@@ -91,7 +119,8 @@ public class StatUtils {
 		MongoDatabase db = null;
 		try {
 
-			MongoClientURI inputURI = new MongoClientURI(Config.getInstance().getConfig().getString("spark.mongodb.input.uri"));
+			MongoClientURI inputURI = new MongoClientURI(
+					Config.getInstance().getConfig().getString("spark.mongodb.input.uri"));
 			mongo = new MongoClient(inputURI);
 			db = mongo.getDatabase(inputURI.getDatabase());
 
@@ -131,7 +160,7 @@ public class StatUtils {
 						new Document("$set", new Document("res_link", stat.get("res_link"))));
 
 			}
-			
+
 			// save stat
 			// pass an object with
 			// type = stat
@@ -140,27 +169,26 @@ public class StatUtils {
 			// resource-count
 			// size
 			//
-			// if stat record exists we updated 
+			// if stat record exists we updated
 			if (stat.containsField("type") && stat.get("type").equals("stat")) {
 				FindIterable<Document> iterable = db.getCollection(stat_result).find();
 				Document oldStat = iterable.first();
-				
-				
-				long  record_total = Long.parseLong("" + stat.get("record-total"));
-				long  record_selected = Long.parseLong("" + stat.get("record-selected"));
-				long  size =  Long.parseLong("" + stat.get("size"));
-				long  resource_count = Long.parseLong("" + stat.get("resource-count"));
-				long  fuzzy_query = Long.parseLong("" + stat.get("fuzzy-query"));
-				long  total_query = Long.parseLong("" + stat.get("total-query"));
-				
-				if(oldStat != null ) {
+
+				long record_total = Long.parseLong("" + stat.get("record-total"));
+				long record_selected = Long.parseLong("" + stat.get("record-selected"));
+				long size = Long.parseLong("" + stat.get("size"));
+				long resource_count = Long.parseLong("" + stat.get("resource-count"));
+				long fuzzy_query = Long.parseLong("" + stat.get("fuzzy-query"));
+				long total_query = Long.parseLong("" + stat.get("total-query"));
+
+				if (oldStat != null) {
 					record_total += oldStat.getLong("record-total");
 					record_selected += oldStat.getLong("record-selected");
 					size += oldStat.getLong("size");
 					resource_count += oldStat.getLong("resource-count");
 					fuzzy_query += oldStat.getLong("fuzzy-query");
 					total_query += oldStat.getLong("total-query");
-							
+
 					db.getCollection(stat_result).findOneAndUpdate(new Document("_id", "stat"),
 							new Document("$set", new Document("record-total", record_total)));
 					db.getCollection(stat_result).findOneAndUpdate(new Document("_id", "stat"),
@@ -210,7 +238,8 @@ public class StatUtils {
 		MongoDatabase db = null;
 		try {
 
-			MongoClientURI inputURI = new MongoClientURI(Config.getInstance().getConfig().getString("spark.mongodb.input.uri"));
+			MongoClientURI inputURI = new MongoClientURI(
+					Config.getInstance().getConfig().getString("spark.mongodb.input.uri"));
 			mongo = new MongoClient(inputURI);
 			db = mongo.getDatabase(inputURI.getDatabase());
 
@@ -221,8 +250,6 @@ public class StatUtils {
 			db.getCollection(list_result).deleteOne(doc);
 			db.getCollection(list_result).insertOne(doc);
 
-			
-			
 		} catch (Exception ex) {
 			LOG.error(ex);
 		} finally {

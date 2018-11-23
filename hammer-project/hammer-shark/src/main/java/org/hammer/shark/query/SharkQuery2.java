@@ -87,6 +87,7 @@ public class SharkQuery2 implements Serializable {
 
 	public void calculateResources(SparkSession spark) throws Exception {
 		final HashMap<String, Keyword> kwIndex = StatUtils.GetMyIndex();
+		final HashMap<String, HashMap<String, Keyword>> treeIndex = StatUtils.GetTreeIndex(kwIndex);
 
 		Date start = (new Date());
 		System.out.println("START-STOP --> START TERM EXTRACTION " + (new Date()));
@@ -102,7 +103,7 @@ public class SharkQuery2 implements Serializable {
 		float cosSim = Float.parseFloat(spark.sparkContext().conf().get("cosSim"));
 
 		int maxSim = Integer.parseInt(spark.sparkContext().conf().get("maxSim"));
-		//String searchMode = spark.sparkContext().conf().get("search-mode");
+		// String searchMode = spark.sparkContext().conf().get("search-mode");
 		String wnHome = Config.getInstance().getConfig().getString("wnHome");
 		String word2vecmodel = Config.getInstance().getConfig().getString("word2vecmodel") + "";
 
@@ -117,6 +118,7 @@ public class SharkQuery2 implements Serializable {
 		try {
 			q = parser.queryGraph();
 			q.setIndex(kwIndex);
+			q.setTree_index(treeIndex);
 			q.setWnHome(wnHome);
 		} catch (ParseException e) {
 			throw new SplitFailedException(e.getMessage());
@@ -124,39 +126,6 @@ public class SharkQuery2 implements Serializable {
 		for (IsabellaError err : parser.getErrors().values()) {
 			LOG.error(err.toString());
 		}
-
-		// query splitter old
-		/*
-		 * if (getConfiguration().get("query-mode").equals("labels")) {
-		 * q.calculateMyLabels(); getConfiguration().set("keywords", q.getMyLabels());
-		 * keywords = q.getMyLabels(); } else { q.labelSelection();
-		 * getConfiguration().set("keywords", q.getKeyWords()); keywords =
-		 * q.getKeyWords();
-		 * 
-		 * StringTokenizer st = new StringTokenizer(keywords, ";"); while
-		 * (st.hasMoreElements()) { String key = st.nextToken().trim().toLowerCase();
-		 * 
-		 * List<Term> tempList = new ArrayList<Term>(); for (String s :
-		 * kwIndex.keySet()) { double sim = JaroWinkler.Apply(key, s.toLowerCase()); //
-		 * set the degree threshold to custom value if (sim > thSim) { Term point = new
-		 * Term(); point.setTerm(s.toLowerCase()); point.setWeigth(sim);
-		 * tempList.add(point);
-		 * 
-		 * } }
-		 * 
-		 * // add synset by word net Map<String, Double> mySynSet =
-		 * WordNetUtils.MySynset(wnHome, key.toLowerCase());
-		 * 
-		 * 
-		 * for (String s : mySynSet.keySet()) { if (kwIndex.containsKey(s)) { Term point
-		 * = new Term(); point.setTerm(s.toLowerCase());
-		 * point.setWeigth(mySynSet.get(s)); tempList.add(point); } }
-		 * 
-		 * // cut the queue to maxsim tempList.sort(cmp); if(tempList.size() > maxSim) {
-		 * tempList = tempList.subList(0, maxSim); }
-		 * 
-		 * similarity.put(key, tempList); } }
-		 */
 
 		q.calculateMyLabels();
 		spark.sparkContext().conf().set("mylabels", q.getMyLabels());
@@ -174,15 +143,18 @@ public class SharkQuery2 implements Serializable {
 			point.setWeigth(1.0d);
 			tempList.put(key.toLowerCase(), point);
 
-			for (String s : kwIndex.keySet()) {
-				double sim = JaroWinkler.Apply(key, s.toLowerCase());
-				// set the degree threshold to custom value
-				if (sim > thSim) {
-					point = new Term();
-					point.setTerm(s.toLowerCase());
-					point.setWeigth(sim);
-					tempList.put(s.toLowerCase(), point);
+			String init = (key.length() > 3) ? key.substring(0, 3) : key;
+			if (treeIndex.containsKey(init)) {
+				for (String s : treeIndex.get(init).keySet()) {
+					double sim = JaroWinkler.Apply(key, s.toLowerCase());
+					// set the degree threshold to custom value
+					if (sim > thSim) {
+						point = new Term();
+						point.setTerm(s.toLowerCase());
+						point.setWeigth(sim);
+						tempList.put(s.toLowerCase(), point);
 
+					}
 				}
 			}
 
@@ -193,16 +165,22 @@ public class SharkQuery2 implements Serializable {
 				// add most similar term by our index
 				double max_sim = 0;
 				String selected = "";
-				for (String s : kwIndex.keySet()) {
-					double sim = JaroWinkler.Apply(synset, s.toLowerCase());
-					// set the degree threshold to custom value
-					if (sim > max_sim) {
-						max_sim = sim;
-						selected = synset;
+				String init1 = (synset.length() > 3) ? synset.substring(0, 3) : synset;
+				if (treeIndex.containsKey(init1)) {
+					for (String s : treeIndex.get(init).keySet()) {
+						double sim = JaroWinkler.Apply(synset, s.toLowerCase());
+						// set the degree threshold to custom value
+						if (sim > max_sim) {
+							max_sim = sim;
+							selected = s.toLowerCase();
+						}
+						if (max_sim == 1) {
+							break;
+						}
 					}
-					if (max_sim == 1) {
-						break;
-					}
+				} else {
+					max_sim = 1;
+					selected = synset;
 				}
 
 				if (!tempList.containsKey(selected.toLowerCase())) {
@@ -363,37 +341,11 @@ public class SharkQuery2 implements Serializable {
 		StatUtils.SaveStat(statObj, spark.sparkContext().conf().get("list-result"),
 				spark.sparkContext().conf().get("stat-result"));
 
-		// clean mapper temp table
-		// get list results and return record
-		MongoClient mongo = null;
-		MongoDatabase db = null;
-		try {
-			MongoClientURI outputURI = new MongoClientURI(
-					Config.getInstance().getConfig().getString("spark.mongodb.output.uri"));
-			mongo = new MongoClient(outputURI);
-			db = mongo.getDatabase(outputURI.getDatabase());
-			System.out.println("SHARK QUERY Create temp table " + spark.sparkContext().conf().get("resource-table"));
-			if (db.getCollection(spark.sparkContext().conf().get("resource-table")) != null) {
-				db.getCollection(spark.sparkContext().conf().get("resource-table")).drop();
-			}
-			db.createCollection(spark.sparkContext().conf().get("resource-table"));
-		} catch (Exception ex) {
-			ex.printStackTrace();
-		} finally {
-			if (mongo != null) {
-				mongo.close();
-			}
-		}
-
 		// start mapper
 
 		String resTable = spark.sparkContext().conf().get("resource-table");
 		Dataset<QuerySplit> ds = spark.createDataset(qSplit, Encoders.bean(QuerySplit.class));
-		transform(ds, spark, resTable, wnHome, kwIndex, thKrm, thRm);
-		/*
-		 * List<Document> myList = qSplit.parallelStream().map(x -> { return mapper(x,
-		 * wnHome, kwIndex, searchMode, thKrm, thRm); }).collect(Collectors.toList());
-		 */
+		transform(ds, spark, resTable, wnHome, kwIndex, treeIndex, thKrm, thRm);
 
 		System.out.println("START-STOP --> STOP Keyword Selection " + (new Date()));
 		seconds = ((new Date()).getTime() - start.getTime());
@@ -402,32 +354,8 @@ public class SharkQuery2 implements Serializable {
 
 		System.out.println("START-STOP --> START VSM Data Set Retrieval " + (new Date()));
 
-		/*
-		 * MongoClient mongo = null; MongoDatabase db = null; try { MongoClientURI
-		 * outputURI = new MongoClientURI(
-		 * Config.getInstance().getConfig().getString("spark.mongodb.output.uri"));
-		 * mongo = new MongoClient(outputURI); db =
-		 * mongo.getDatabase(outputURI.getDatabase());
-		 * System.out.println("SHARK QUERY Create temp table " +
-		 * spark.sparkContext().conf().get("resource-table")); if
-		 * (db.getCollection(spark.sparkContext().conf().get("resource-table")) != null)
-		 * { db.getCollection(spark.sparkContext().conf().get("resource-table")).drop();
-		 * } db.createCollection(spark.sparkContext().conf().get("resource-table"));
-		 * MongoCollection<Document> collection =
-		 * db.getCollection(spark.sparkContext().conf().get("resource-table"));
-		 * 
-		 * int inserted = 0; for(Document bo: myList) { if(bo!= null) { try {
-		 * 
-		 * // SAVE LIST OF RESOURCE TO MONGO DB BasicDBObject searchQuery = new
-		 * BasicDBObject().append("_id", bo.get("_id")); long c =
-		 * collection.count(searchQuery); if (c == 0) { collection.insertOne(bo);
-		 * inserted++; }
-		 * 
-		 * } catch (Exception e) { LOG.debug(e);
-		 * LOG.error("SHARK QUERY: Error reading from temporary file", e); throw new
-		 * IOException(e); } } }
-		 * 
-		 */
+		MongoClient mongo = null;
+		MongoDatabase db = null;
 		try {
 			MongoClientURI outputURI = new MongoClientURI(
 					Config.getInstance().getConfig().getString("spark.mongodb.output.uri"));
@@ -468,7 +396,8 @@ public class SharkQuery2 implements Serializable {
 	}
 
 	private static void transform(Dataset<QuerySplit> ds, SparkSession spark, String resourceTable, String wnHome,
-			HashMap<String, Keyword> kwIndex, float thKrm, float thRm) {
+			HashMap<String, Keyword> kwIndex, HashMap<String, HashMap<String, Keyword>> treeIndex, float thKrm,
+			float thRm) {
 		Map<String, String> readOverrides = new HashMap<String, String>();
 		readOverrides.put("database", "hammer");
 		readOverrides.put("collection", Config.getInstance().getConfig().getString("index-table"));
@@ -483,7 +412,6 @@ public class SharkQuery2 implements Serializable {
 		readConfig = ReadConfig.create(jsc).withOptions(readOverrides);
 		Dataset<Row> dataset = MongoSpark.load(jsc, readConfig).toDF().cache();
 
-		
 		Dataset<Row> krm = ds.flatMap(p -> {
 			String queryString = p.getQueryString();
 			Isabella parser = new Isabella(new StringReader(queryString));
@@ -491,13 +419,14 @@ public class SharkQuery2 implements Serializable {
 			try {
 				query = parser.queryGraph();
 				query.setIndex(kwIndex);
+				query.setTree_index(treeIndex);
 				query.setWnHome(wnHome);
 			} catch (ParseException e) {
 				return null;
 			}
 
 			// select label
-			query.labelSelection();
+			query.labelSelection_tree();
 			for (IsabellaError err : parser.getErrors().values()) {
 				LOG.error(err.toString());
 			}
@@ -509,106 +438,106 @@ public class SharkQuery2 implements Serializable {
 			String keywords = query.getKeyWords();
 			final Float w = query.getWeightWhere();
 			String[] s = keywords.split(";");
-			List<Tuple4<String, String, Float, String>> myList = new ArrayList<>();
-			for(String k : s) {
-				myList.add(new Tuple4<>(queryString, k, w, keywords));
+
+			String where = "";
+			final HashMap<String, Float> wWhere = query.getwWhere();
+			for (String wKey : wWhere.keySet()) {
+				where += wKey + "|" + wWhere.get(wKey) + ";";
 			}
-			
+
+			List<Tuple5<String, String, Float, String, String>> myList = new ArrayList<>();
+			for (String k : s) {
+				myList.add(new Tuple5<>(queryString, k, w, keywords, where));
+			}
 			return myList.iterator();
 
-		}, Encoders.tuple(Encoders.STRING(), Encoders.STRING(), Encoders.FLOAT(), Encoders.STRING()))
-				.filter(t -> (t!=null))
-				.toDF("query", "key","w","keywords").filter(t -> (t!=null))
-				.toDF("query", "key","w","keywords")
-				.join(index, col("key").equalTo(index.col("_id")), "inner").select(col("query"), col("key"), col("w"), col("keywords"), explode(col("documents.document")).as("documentKey")).cache();
-		
-		Dataset<Row> queryDocTotalCount = krm.groupBy("query").agg(count("documentKey")).toDF("query1", "totalCount").cache();
-		Dataset<Row> queryDoclocalCount = krm.groupBy("query","documentKey").agg(count("documentKey").as("docCount")).toDF("query2","documentKey2", "docCount").cache();
+		}, Encoders.tuple(Encoders.STRING(), Encoders.STRING(), Encoders.FLOAT(), Encoders.STRING(), Encoders.STRING()))
+				.filter(t -> (t != null)).toDF("query", "key", "w", "keywords", "where")
+				.join(index, col("key").equalTo(index.col("_id")), "inner").select(col("query"), col("key"), col("w"),
+						col("keywords"), explode(col("documents.document")).as("documentKey"), col("where"))
+				.cache();
+
+		Dataset<Row> queryDocTotalCount = krm.groupBy("query").agg(count("documentKey")).toDF("query1", "totalCount")
+				.cache();
+		Dataset<Row> queryDoclocalCount = krm.groupBy("query", "documentKey").agg(count("documentKey").as("docCount"))
+				.toDF("query2", "documentKey2", "docCount").cache();
 		// calc krm
-		Dataset<Row> docKrmList = krm.join(queryDocTotalCount, krm.col("query").equalTo(queryDocTotalCount.col("query1")), "inner").join(queryDoclocalCount, krm.col("query").equalTo(queryDoclocalCount.col("query2")).and(krm.col("documentKey").equalTo(queryDoclocalCount.col("documentKey2"))), "inner").map(r -> {
-			long totalCount = r.getLong(r.fieldIndex("totalCount"));
-			long docCount = r.getLong(r.fieldIndex("docCount"));
-			float w = r.getFloat(r.fieldIndex("w"));
-			String keywords = r.getString(r.fieldIndex("keywords"));
-			String query = r.getString(r.fieldIndex("query"));
-			String key = r.getString(r.fieldIndex("documentKey"));
-			float krmvalue = ((float) docCount / (float) totalCount);
-			return new Tuple5<>(key, krmvalue, w, keywords, query);
-		}, Encoders.tuple(Encoders.STRING(), Encoders.FLOAT(), Encoders.FLOAT(), Encoders.STRING(),  Encoders.STRING())).filter(t -> (t._2() >= thKrm))
-				.toDF("documentKey","krm", "w", "keywords", "query")
-				.cache();
-		
+		Dataset<Row> docKrmList = krm
+				.join(queryDocTotalCount, krm.col("query").equalTo(queryDocTotalCount.col("query1")), "inner")
+				.join(queryDoclocalCount,
+						krm.col("query").equalTo(queryDoclocalCount.col("query2"))
+								.and(krm.col("documentKey").equalTo(queryDoclocalCount.col("documentKey2"))),
+						"inner")
+				.map(r -> {
+					long totalCount = r.getLong(r.fieldIndex("totalCount"));
+					long docCount = r.getLong(r.fieldIndex("docCount"));
+					float w = r.getFloat(r.fieldIndex("w"));
+					String keywords = r.getString(r.fieldIndex("keywords"));
+					String key = r.getString(r.fieldIndex("documentKey"));
+					String where = r.getString(r.fieldIndex("where"));
+					float krmvalue = ((float) docCount / (float) totalCount);
+					return new Tuple5<>(key, krmvalue, w, keywords, where);
+				}, Encoders.tuple(Encoders.STRING(), Encoders.FLOAT(), Encoders.FLOAT(), Encoders.STRING(),
+						Encoders.STRING()))
+				.filter(t -> (t._2() >= thKrm)).toDF("documentKey", "krm", "w", "keywords", "where").cache();
+
 		// calc sdf and rm
-		Dataset<Row> rmList = docKrmList.join(dataset, docKrmList.col("documentKey").equalTo(dataset.col("_id")), "inner").map(r -> {
+		Dataset<Row> rmList = docKrmList
+				.join(dataset, docKrmList.col("documentKey").equalTo(dataset.col("_id")), "inner").map(r -> {
 
-			float w = r.getFloat(r.fieldIndex("w"));
-			float krmValue = r.getFloat(r.fieldIndex("krm"));
-			String keywords = r.getString(r.fieldIndex("keywords"));
-			String queryString = r.getString(r.fieldIndex("query"));
-			String documentKey = r.getString(r.fieldIndex("documentKey"));
+					float w = r.getFloat(r.fieldIndex("w"));
+					float krmValue = r.getFloat(r.fieldIndex("krm"));
+					String keywords = r.getString(r.fieldIndex("keywords"));
+					String where = r.getString(r.fieldIndex("where"));
+					String documentKey = r.getString(r.fieldIndex("documentKey"));
+					final HashMap<String, Float> wWhere = new HashMap<>();
+					String[] c = where.split(";");
+					for (String c1 : c) {
+						String[] c2 = c1.split("|");
+						String k1 = c2[0];
+						Float w1 = Float.parseFloat(c2[1]);
+						wWhere.put(k1, w1);
+					}
 
-			// recreate the query
-			Isabella parser = new Isabella(new StringReader(queryString));
-			QueryGraph query;
-			try {
-				query = parser.queryGraph();
-				query.setIndex(kwIndex);
-				query.setWnHome(wnHome);
-			} catch (ParseException e) {
-				return null;
-			}
+					float sdf = 0.0f;
+					List<String> meta = new ArrayList<String>();
+					if (r.schema().contains("meta") && r.get(r.fieldIndex("meta")) != null) {
+						meta = r.getList(r.fieldIndex("meta"));
+					}
+					for (String k : meta) {
+						sdf += (wWhere.containsKey(k)) ? wWhere.get(k) : 0.0f;
+					}
+					sdf = (float) sdf / (float) w;
+					float rm = ((1.0f - 0.6f) * krmValue) + (0.6f * sdf);
+					return new Tuple4<>(documentKey, rm, krmValue, keywords);
 
-			// select label
-			query.labelSelection();
-			for (IsabellaError err : parser.getErrors().values()) {
-				LOG.error(err.toString());
-			}
-			if (parser.getErrors().size() != 0) {
-				return null;
-			}
-			final HashMap<String, Float> wWhere = query.getwWhere();
-			float sdf = 0.0f;
-			List<String> meta = new ArrayList<String>();
-			if (r.schema().contains("meta") && r.get(r.fieldIndex("meta")) != null) {
-				meta = r.getList(r.fieldIndex("meta"));
-			}
-			for (String k : meta) {
-				sdf += (wWhere.containsKey(k)) ? wWhere.get(k) : 0.0f;
-			}
-			sdf = (float) sdf / (float) w;
-			float rm = ((1.0f - 0.6f) * krmValue) + (0.6f * sdf);
-			return new Tuple4<>(documentKey, rm, krmValue, keywords);
-			
-		}, Encoders.tuple(Encoders.STRING(), Encoders.FLOAT(),  Encoders.FLOAT(), Encoders.STRING()))
-				.filter(t -> (t!=null))
-				.filter(t -> t._2() >= thRm)
-				.toDF("documentKey","rm", "krm", "keywords")
+				}, Encoders.tuple(Encoders.STRING(), Encoders.FLOAT(), Encoders.FLOAT(), Encoders.STRING()))
+				.filter(t -> (t != null)).filter(t -> t._2() >= thRm).toDF("documentKey", "rm", "krm", "keywords")
 				.cache();
-		
-		Dataset<DS> finalDS = rmList.join(dataset, rmList.col("documentKey").equalTo(dataset.col("_id")), "inner").map(r -> {
-			float krmValue = r.getFloat(r.fieldIndex("krm"));
-			float rmValue = r.getFloat(r.fieldIndex("rm"));
-			String keywords = r.getString(r.fieldIndex("keywords"));
-			String documentKey = r.getString(r.fieldIndex("documentKey"));
-			String datainput_type = r.getString(r.fieldIndex("datainput_type"));
-			String dataset_type = r.getString(r.fieldIndex("dataset-type"));
-			String url = r.getString(r.fieldIndex("url"));
-			String id = r.getString(r.fieldIndex("id"));
-			
-			DS myDS = new DS();
-			myDS.setKeywords(keywords);
-			myDS.set_id(documentKey);
-			myDS.setDatainput_type(datainput_type);
-			myDS.setDataset_type(dataset_type);
-			myDS.setId(id);
-			myDS.setKrm(krmValue);
-			myDS.setRm(rmValue);
-			myDS.setUrl(url);
-			
 
-			return myDS;
-		}, Encoders.bean(DS.class))
-				.filter(t -> (t != null))
+		Dataset<DS> finalDS = rmList.join(dataset, rmList.col("documentKey").equalTo(dataset.col("_id")), "inner")
+				.map(r -> {
+					float krmValue = r.getFloat(r.fieldIndex("krm"));
+					float rmValue = r.getFloat(r.fieldIndex("rm"));
+					String keywords = r.getString(r.fieldIndex("keywords"));
+					String documentKey = r.getString(r.fieldIndex("documentKey"));
+					String datainput_type = r.getString(r.fieldIndex("datainput_type"));
+					String dataset_type = r.getString(r.fieldIndex("dataset-type"));
+					String url = r.getString(r.fieldIndex("url"));
+					String id = r.getString(r.fieldIndex("id"));
+
+					DS myDS = new DS();
+					myDS.setKeywords(keywords);
+					myDS.set_id(documentKey);
+					myDS.setDatainput_type(datainput_type);
+					myDS.setDataset_type(dataset_type);
+					myDS.setId(id);
+					myDS.setKrm(krmValue);
+					myDS.setRm(rmValue);
+					myDS.setUrl(url);
+
+					return myDS;
+				}, Encoders.bean(DS.class)).filter(t -> (t != null))
 				.filter(t -> (t.getUrl() != null && t.getUrl().trim().length() > 0))
 				.groupByKey(t -> t.get_id(), Encoders.STRING()).reduceGroups((a, b) -> {
 					if (a.getRm() < b.getRm())
@@ -627,8 +556,6 @@ public class SharkQuery2 implements Serializable {
 		MongoSpark.save(finalDS.write().mode(SaveMode.Overwrite), writeConfig);
 
 	}
-
-	
 
 	/**
 	 * Create a new query
