@@ -452,15 +452,22 @@ public class SharkQuery2 implements Serializable {
 			return myList.iterator();
 
 		}, Encoders.tuple(Encoders.STRING(), Encoders.STRING(), Encoders.FLOAT(), Encoders.STRING(), Encoders.STRING()))
-				.filter(t -> (t != null)).toDF("query", "key", "w", "keywords", "where")
-				.join(index, col("key").equalTo(index.col("_id")), "inner").select(col("query"), col("key"), col("w"),
+				.filter(t -> (t != null)).toDF("query", "key", "w", "keywords", "where");
+		
+		
+		krm = krm.join(index, col("key").equalTo(index.col("_id")), "inner").select(col("query"), col("key"), col("w"),
 						col("keywords"), explode(col("documents.document")).as("documentKey"), col("where"))
 				.cache();
+		
+
 
 		Dataset<Row> queryDocTotalCount = krm.groupBy("query").agg(count("documentKey")).toDF("query1", "totalCount")
 				.cache();
 		Dataset<Row> queryDoclocalCount = krm.groupBy("query", "documentKey").agg(count("documentKey").as("docCount"))
 				.toDF("query2", "documentKey2", "docCount").cache();
+		
+		System.out.println("Calc krm...");
+
 		// calc krm
 		Dataset<Row> docKrmList = krm
 				.join(queryDocTotalCount, krm.col("query").equalTo(queryDocTotalCount.col("query1")), "inner")

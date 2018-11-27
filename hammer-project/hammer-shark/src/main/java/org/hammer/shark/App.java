@@ -72,6 +72,7 @@ public class App {
 				Config.getInstance().getConfig().getString("spark.mongodb.input.uri"));
 		spark.sparkContext().conf().set("spark.mongodb.output.uri",
 				Config.getInstance().getConfig().getString("spark.mongodb.output.uri"));
+		spark.sparkContext().setCheckpointDir("/home/hadoop/software/shark/checkpoint");
 
 		spark.sparkContext().conf().set("spark.network.timeout ", "1200");
 		spark.sparkContext().conf().set("spark.rpc.askTimeout ", "1200");
