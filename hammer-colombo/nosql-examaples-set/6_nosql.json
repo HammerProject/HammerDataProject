@@ -23,13 +23,13 @@
       "label1": "description",
       "operator": "eq",
       "value": "Oracle",
-      "logicalOperator": "and"
+      "logicalOperator": "or"
     }}, {"condition": {
       "instance1": "joboffers",
       "label1": "skills",
       "operator": "eq",
       "value": "Oracle",
-      "logicalOperator": "and"
+      "logicalOperator": "or"
     }}
   ]
 }
