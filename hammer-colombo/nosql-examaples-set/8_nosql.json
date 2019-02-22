@@ -1,0 +1,37 @@
+//
+// Hammer Project
+// @ 2019 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// Return all job-offers with company name for ICT industry in Berlin
+// 
+//
+
+{
+  "select": [
+      { "column": { "instance": "job-offer", "label":"title"}},
+      { "column": { "instance": "job-offer", "label":"description"}},
+      { "column": { "instance": "job-offer", "label":"industry"}},
+      { "column": { "instance": "job-offer", "label":"place"}},
+      { "column": { "instance": "job-offer", "label":"company"}}
+  ],
+  "from": [
+    "job-offer"
+  ],
+  "where": [{"condition": {
+      "instance1": "job-offer",
+      "label1": "place",
+      "operator": "eq",
+      "value": "Berlin",
+      "logicalOperator": "and"
+    }}, {"condition": {
+      "instance1": "job-offer",
+      "label1": "industry",
+      "operator": "eq",
+      "value": "IT",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+

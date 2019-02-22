@@ -1,0 +1,36 @@
+//
+// Hammer Project
+// @ 2019 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// Return all job-offers that required Oracle Database as skill
+// 
+//
+
+{
+  "select": [
+      { "column": { "instance": "joboffers", "label":"title"}},
+      { "column": { "instance": "joboffers", "label":"description"}},
+      { "column": { "instance": "joboffers", "label":"skills"}},
+      { "column": { "instance": "joboffers", "label":"country"}}
+  ],
+  "from": [
+    "joboffers"
+  ],
+  "where": [{"condition": {
+      "instance1": "joboffers",
+      "label1": "description",
+      "operator": "eq",
+      "value": "Oracle",
+      "logicalOperator": "and"
+    }}, {"condition": {
+      "instance1": "joboffers",
+      "label1": "skills",
+      "operator": "eq",
+      "value": "Oracle",
+      "logicalOperator": "and"
+    }}
+  ]
+}
+

@@ -4,7 +4,7 @@
 // www.hammer-project.com
 // mauro.pelucchi@gmail.com
 //
-// Return all job-offers in Milan with permanent contract
+// Return all job-offers in DE for SAP Finance Experts
 // 
 //
 
@@ -20,15 +20,15 @@
   ],
   "where": [{"condition": {
       "instance1": "jobs",
-      "label1": "contract",
+      "label1": "title",
       "operator": "eq",
-      "value": "permanent",
+      "value": "SAP Finance Expert",
       "logicalOperator": "and"
     }}, {"condition": {
       "instance1": "jobs",
-      "label1": "place",
+      "label1": "country",
       "operator": "eq",
-      "value": "Milan",
+      "value": "DE",
       "logicalOperator": "and"
     }}
   ]

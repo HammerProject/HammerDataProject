@@ -43,3 +43,32 @@ bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/te
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/4_nosql.json local search keywords 0.3 0.3 0.80 3 dataset_nosql index_nosql 10
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/4_nosql.json local search keywords 0.2 0.2 0.90 3 dataset_nosql index_nosql 10
 bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/4_nosql.json local search keywords 0.3 0.3 0.90 3 dataset_nosql index_nosql 10
+
+
+
+## query execution 5 test
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/5_nosql.json local search keywords 0.2 0.2 0.80 3 dataset_nosql index_nosql 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/5_nosql.json local search keywords 0.3 0.3 0.80 3 dataset_nosql index_nosql 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/5_nosql.json local search keywords 0.2 0.2 0.90 3 dataset_nosql index_nosql 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/5_nosql.json local search keywords 0.3 0.3 0.90 3 dataset_nosql index_nosql 10
+
+
+## query execution 6 test
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/6_nosql.json local search keywords 0.2 0.2 0.80 3 dataset_nosql index_nosql 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/6_nosql.json local search keywords 0.3 0.3 0.80 3 dataset_nosql index_nosql 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/6_nosql.json local search keywords 0.2 0.2 0.90 3 dataset_nosql index_nosql 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/6_nosql.json local search keywords 0.3 0.3 0.90 3 dataset_nosql index_nosql 10
+
+
+## query execution 7 test
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/7_nosql.json local search keywords 0.2 0.2 0.80 3 dataset_nosql index_nosql 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/7_nosql.json local search keywords 0.3 0.3 0.80 3 dataset_nosql index_nosql 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/7_nosql.json local search keywords 0.2 0.2 0.90 3 dataset_nosql index_nosql 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/7_nosql.json local search keywords 0.3 0.3 0.90 3 dataset_nosql index_nosql 10
+
+
+## query execution 8 test
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/8_nosql.json local search keywords 0.2 0.2 0.80 3 dataset_nosql index_nosql 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/8_nosql.json local search keywords 0.3 0.3 0.80 3 dataset_nosql index_nosql 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/8_nosql.json local search keywords 0.2 0.2 0.90 3 dataset_nosql index_nosql 10
+bin/yarn jar share/test/hammer-colombo-0.0.2.jar org.hammer.colombo.App share/test/8_nosql.json local search keywords 0.3 0.3 0.90 3 dataset_nosql index_nosql 10

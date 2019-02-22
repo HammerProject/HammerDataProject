@@ -1,0 +1,49 @@
+//
+// Hammer Project
+// @ 2019 Hammer Project
+// www.hammer-project.com
+// mauro.pelucchi@gmail.com
+//
+// Return all job-offers for Production Planner in different languages
+// 
+//
+
+{
+  "select": [
+      { "column": { "instance": "jobs", "label":"title"}},
+      { "column": { "instance": "jobs", "label":"description"}},
+      { "column": { "instance": "jobs", "label":"contract"}},
+      { "column": { "instance": "jobs", "label":"place"}},
+      { "column": { "instance": "jobs", "label":"country"}}
+  ],
+  "from": [
+    "jobs"
+  ],
+  "where": [{"condition": {
+      "instance1": "jobs",
+      "label1": "title",
+      "operator": "eq",
+      "value": "Fertigungsplaner",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "jobs",
+      "label1": "title",
+      "operator": "eq",
+      "value": "Production Planner",
+      "logicalOperator": "and"
+    }}, {"condition": {
+      "instance1": "jobs",
+      "label1": "title",
+      "operator": "eq",
+      "value": "Planificador de Producción",
+      "logicalOperator": "or"
+    }}, {"condition": {
+      "instance1": "jobs",
+      "label1": "title",
+      "operator": "eq",
+      "value": "Pianificatore della produzione",
+      "logicalOperator": "or"
+    }}
+  ]
+}
+
